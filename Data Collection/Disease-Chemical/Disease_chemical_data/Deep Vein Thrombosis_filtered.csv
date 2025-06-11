@@ -1,0 +1,2 @@
+ChemicalName,ChemicalID,CasRN,DiseaseName,DiseaseID,DirectEvidence,InferenceGeneSymbol,InferenceScore,OmimIDs,PubMedIDs
+"Contraceptives, Oral",D003276,,Upper Extremity Deep Vein Thrombosis,MESH:D056824,marker/mechanism,,,,7145407

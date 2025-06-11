@@ -1,0 +1,78 @@
+GeneSymbol,GeneID,DiseaseName,DiseaseID,DirectEvidence,OmimIDs,PubMedIDs
+ANXA3,306,"Lupus Erythematosus, Systemic",MESH:D008180,marker/mechanism,,22446963
+BANK1,55024,"Lupus Erythematosus, Systemic",MESH:D008180,marker/mechanism,,18204447
+BLK,640,"Lupus Erythematosus, Systemic",MESH:D008180,marker/mechanism,,19838193
+BLTP3A,54887,"Lupus Erythematosus, Systemic",MESH:D008180,marker/mechanism,,19838195
+C1QA,712,"Lupus Erythematosus, Systemic",MESH:D008180,marker/mechanism,,8840296
+C3,718,Lupus Nephritis,MESH:D008181,marker/mechanism,,31182691
+CAT,847,"Lupus Erythematosus, Systemic",MESH:D008180,marker/mechanism,,27497885
+CD226,10666,"Lupus Erythematosus, Systemic",MESH:D008180,marker/mechanism,,26808113
+CD40LG,959,"Lupus Erythematosus, Systemic",MESH:D008180,marker/mechanism,,28793932
+CFB,629,"Lupus Erythematosus, Systemic",MESH:D008180,marker/mechanism,,19838195
+CLEC16A,23274,"Lupus Erythematosus, Systemic",MESH:D008180,marker/mechanism,,19838195
+CLU,1191,"Lupus Erythematosus, Systemic",MESH:D008180,marker/mechanism,,15304052
+CR2,1380,"Lupus Erythematosus, Systemic",MESH:D008180,marker/mechanism,610927,
+CRP,1401,"Lupus Erythematosus, Systemic",MESH:D008180,marker/mechanism,,17718048
+CSK,1445,"Lupus Erythematosus, Systemic",MESH:D008180,marker/mechanism,,23042117
+CTLA4,1493,"Lupus Erythematosus, Systemic",MESH:D008180,marker/mechanism,152700,
+DEF6,50619,"Lupus Erythematosus, Systemic",MESH:D008180,marker/mechanism,,26808113
+DNASE1,1773,"Lupus Erythematosus, Systemic",MESH:D008180,marker/mechanism,152700,
+DNASE1L3,1776,"Lupus Erythematosus, Systemic",MESH:D008180,marker/mechanism,614420,22019780
+ETS1,2113,"Lupus Erythematosus, Systemic",MESH:D008180,marker/mechanism,,19838193
+FAS,355,"Lupus Erythematosus, Systemic",MESH:D008180,marker/mechanism,,36999444
+FAS,355,Lupus Nephritis,MESH:D008181,marker/mechanism,,33632240|38555047
+FCGR2A,2212,"Lupus Erythematosus, Systemic",MESH:D008180,marker/mechanism,152700,18204446
+FCGR2B,2213,"Lupus Erythematosus, Systemic",MESH:D008180,marker/mechanism,152700,
+FCGR3A,2214,"Lupus Vasculitis, Central Nervous System",MESH:D020945,marker/mechanism,,26773105
+FCGR3B,2215,Lupus Nephritis,MESH:D008181,marker/mechanism,,16482158
+FCGR3B,2215,"Lupus Vasculitis, Central Nervous System",MESH:D020945,marker/mechanism,,26773105
+HLA-DQA1,3117,"Lupus Erythematosus, Systemic",MESH:D008180,marker/mechanism,,11436868
+HLA-DRB1,3123,"Lupus Erythematosus, Systemic",MESH:D008180,marker/mechanism,,11436868
+IFIH1,64135,"Lupus Erythematosus, Systemic",MESH:D008180,marker/mechanism,,19838195|24686847
+IFNG,3458,Lupus Nephritis,MESH:D008181,marker/mechanism,,31182691
+IKZF1,10320,"Lupus Erythematosus, Systemic",MESH:D008180,marker/mechanism,,19838193
+IL10,3586,"Lupus Erythematosus, Systemic",MESH:D008180,marker/mechanism,,19838195|20728533
+IL12B,3593,"Lupus Erythematosus, Systemic",MESH:D008180,marker/mechanism,,19838195|26808113
+IL21,59067,"Lupus Erythematosus, Systemic",MESH:D008180,marker/mechanism,,17911475
+IL21R,50615,"Lupus Erythematosus, Systemic",MESH:D008180,therapeutic,,17911475
+IL4,3565,"Lupus Erythematosus, Systemic",MESH:D008180,marker/mechanism,,18158872
+IL6,3569,"Lupus Erythematosus, Systemic",MESH:D008180,marker/mechanism,,18158872
+IRAK4,51135,"Lupus Erythematosus, Systemic",MESH:D008180,marker/mechanism,,28003376
+IRF5,3663,"Lupus Erythematosus, Systemic",MESH:D008180,marker/mechanism,612251,18204446|19838193
+ITGAM,3684,"Lupus Erythematosus, Systemic",MESH:D008180,marker/mechanism,,18204446|18204448
+ITGAM,3684,"Lupus Vasculitis, Central Nervous System",MESH:D020945,marker/mechanism,,26773105
+JAK1,3716,Lupus Nephritis,MESH:D008181,marker/mechanism,,31182691
+JAZF1,221895,"Lupus Erythematosus, Systemic",MESH:D008180,marker/mechanism,,19838195
+MMP2,4313,Lupus Nephritis,MESH:D008181,marker/mechanism,,22479529
+MMP9,4318,Lupus Nephritis,MESH:D008181,marker/mechanism,,22479529
+NCF1,653361,"Lupus Erythematosus, Systemic",MESH:D008180,marker/mechanism,,28135245
+OGG1,4968,"Lupus Erythematosus, Discoid",MESH:D008179,marker/mechanism,,33072095
+P2RY12,64805,"Lupus Erythematosus, Systemic",MESH:D008180,marker/mechanism,,15304052
+PCNX3,399909,"Lupus Erythematosus, Systemic",MESH:D008180,marker/mechanism,,26808113
+PHRF1,57661,"Lupus Erythematosus, Systemic",MESH:D008180,marker/mechanism,,18204446
+PRDM1,639,"Lupus Erythematosus, Systemic",MESH:D008180,marker/mechanism,,19838195
+PRL,5617,"Lupus Erythematosus, Systemic",MESH:D008180,marker/mechanism,,14870917
+PTGS2,5743,"Lupus Erythematosus, Systemic",MESH:D008180,marker/mechanism,,17761345
+PTPN22,26191,"Lupus Erythematosus, Systemic",MESH:D008180,marker/mechanism,152700,18204446|21190368
+PXK,54899,"Lupus Erythematosus, Systemic",MESH:D008180,marker/mechanism,,18204446
+RASGRP1,10125,"Lupus Erythematosus, Systemic",MESH:D008180,marker/mechanism,,26808113
+RASGRP3,25780,"Lupus Erythematosus, Systemic",MESH:D008180,marker/mechanism,,19838193
+SAMHD1,25939,Chilblain lupus 1,MESH:C535924,marker/mechanism,,27566796
+SAMHD1,25939,CHILBLAIN LUPUS 2,OMIM:614415,marker/mechanism,614415,
+SERPING1,710,Lupus Nephritis,MESH:D008181,marker/mechanism,,4014294
+SH2B3,10019,"Lupus Erythematosus, Systemic",MESH:D008180,marker/mechanism,,19838195
+SIGLEC6,946,"Lupus Erythematosus, Systemic",MESH:D008180,marker/mechanism,,26808113
+SLC15A4,121260,"Lupus Erythematosus, Systemic",MESH:D008180,marker/mechanism,,19838193
+STAT1,6772,Lupus Nephritis,MESH:D008181,marker/mechanism,,31182691
+STAT4,6775,"Lupus Erythematosus, Systemic",MESH:D008180,marker/mechanism,612253,18204446|19838193
+STING1,340061,Chilblain lupus 1,MESH:C535924,marker/mechanism,,27566796
+SYNGR1,9145,"Lupus Erythematosus, Systemic",MESH:D008180,marker/mechanism,,26808113
+TCF7,6932,"Lupus Erythematosus, Systemic",MESH:D008180,marker/mechanism,,26808113
+TCRA,21473,"Lupus Erythematosus, Cutaneous",MESH:D008178,marker/mechanism,,15086387
+TERT,7015,"Lupus Erythematosus, Systemic",MESH:D008180,marker/mechanism,,26808113
+TLR5,7100,"Lupus Erythematosus, Systemic",MESH:D008180,marker/mechanism,601744,
+TNFAIP3,7128,"Lupus Erythematosus, Systemic",MESH:D008180,marker/mechanism,,19165918|19165919|19838193|21336280
+TNFSF4,7292,"Lupus Erythematosus, Systemic",MESH:D008180,marker/mechanism,,18059267|19838193
+TNIP1,10318,"Lupus Erythematosus, Systemic",MESH:D008180,marker/mechanism,,19838193|19838195
+TREX1,11277,Chilblain lupus 1,MESH:C535924,marker/mechanism,610448,27566796
+TREX1,11277,"Lupus Erythematosus, Systemic",MESH:D008180,marker/mechanism,152700,17660818

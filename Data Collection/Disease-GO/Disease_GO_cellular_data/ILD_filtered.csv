@@ -1,0 +1,228 @@
+GOName,GOID,DiseaseName,DiseaseID,InferenceChemicalQty,InferenceChemicalNames,InferenceGeneQty,InferenceGeneSymbols
+aggresome,GO:0016235,"NEURODEGENERATION WITH ATAXIA, DYSTONIA, AND GAZE PALSY, CHILDHOOD-ONSET",OMIM:617145,0,,1,SQSTM1
+amphisome,GO:0044753,"NEURODEGENERATION WITH ATAXIA, DYSTONIA, AND GAZE PALSY, CHILDHOOD-ONSET",OMIM:617145,0,,1,SQSTM1
+apical plasma membrane,GO:0016324,"Hypercalciuria, childhood idiopathic",MESH:C536082,0,,1,KL
+autolysosome,GO:0044754,Child Behavior Disorders,MESH:D002653,1,Niacinamide,0,
+autolysosome,GO:0044754,"NEURODEGENERATION WITH ATAXIA, DYSTONIA, AND GAZE PALSY, CHILDHOOD-ONSET",OMIM:617145,0,,1,SQSTM1
+autophagosome,GO:0005776,Child Behavior Disorders,MESH:D002653,1,Lead,0,
+autophagosome,GO:0005776,"Lead Poisoning, Nervous System, Childhood",MESH:D020264,2,Lead|lead acetate,0,
+autophagosome,GO:0005776,"NEURODEGENERATION WITH ATAXIA, DYSTONIA, AND GAZE PALSY, CHILDHOOD-ONSET",OMIM:617145,0,,1,SQSTM1
+axon,GO:0030424,Alternating hemiplegia of childhood,MESH:C536589,0,,1,ATP1A3
+axon,GO:0030424,"Child Development Disorders, Pervasive",MESH:D002659,0,,1,DRD4
+axon,GO:0030424,Spinal Muscular Atrophies of Childhood,MESH:D014897,0,,3,DYNC1H1|SMN1|SMN2
+axon cytoplasm,GO:1904115,Spinal Muscular Atrophies of Childhood,MESH:D014897,0,,1,DYNC1H1
+axonemal dynein complex,GO:0005858,Spinal Muscular Atrophies of Childhood,MESH:D014897,0,,1,DYNC1H1
+axon terminus,GO:0043679,"Child Development Disorders, Pervasive",MESH:D002659,0,,1,DRD4
+azurophil granule lumen,GO:0035578,Spinal Muscular Atrophies of Childhood,MESH:D014897,0,,1,DYNC1H1
+basement membrane,GO:0005604,Osteoarthritis with Mild Chondrodysplasia,MESH:C565740,0,,1,COL2A1
+Cajal body,GO:0015030,Spinal Muscular Atrophies of Childhood,MESH:D014897,0,,2,SMN1|SMN2
+calyx of Held,GO:0044305,Alternating hemiplegia of childhood,MESH:C536589,0,,1,ATP1A3
+CatSper complex,GO:0036128,Child Behavior Disorders,MESH:D002653,1,bisphenol A,0,
+caveola,GO:0005901,Alternating hemiplegia of childhood,MESH:C536589,0,,1,ATP1A2
+cell-cell junction,GO:0005911,Child Behavior Disorders,MESH:D002653,1,bisphenol A,0,
+cell cortex,GO:0005938,"Child Development Disorders, Pervasive",MESH:D002659,0,,1,DRD4
+cell projection,GO:0042995,Alternating hemiplegia of childhood,MESH:C536589,0,,1,ATP1A2
+cell projection,GO:0042995,Spinal Muscular Atrophies of Childhood,MESH:D014897,0,,1,SMN1
+cell surface,GO:0009986,Alternating hemiplegia of childhood,MESH:C536589,0,,2,ATP1A2|ATP1A3
+centrosome,GO:0005813,"Child Development Disorders, Pervasive",MESH:D002659,0,,2,DRD4|MECP2
+centrosome,GO:0005813,Spinal Muscular Atrophies of Childhood,MESH:D014897,0,,1,DYNC1H1
+chromatin,GO:0000785,"Child Development Disorders, Pervasive",MESH:D002659,0,,1,MECP2
+ciliary membrane,GO:0060170,"CHOREA, CHILDHOOD-ONSET, WITH PSYCHOMOTOR RETARDATION",OMIM:616939,0,,1,GPR88
+cilium,GO:0005929,"CHOREA, CHILDHOOD-ONSET, WITH PSYCHOMOTOR RETARDATION",OMIM:616939,0,,1,GPR88
+collagen-containing extracellular matrix,GO:0062023,Osteoarthritis with Mild Chondrodysplasia,MESH:C565740,0,,1,COL2A1
+collagen trimer,GO:0005581,Osteoarthritis with Mild Chondrodysplasia,MESH:C565740,0,,1,COL2A1
+collagen type II trimer,GO:0005585,Osteoarthritis with Mild Chondrodysplasia,MESH:C565740,0,,1,COL2A1
+collagen type XI trimer,GO:0005592,Osteoarthritis with Mild Chondrodysplasia,MESH:C565740,0,,1,COL2A1
+COPI-coated vesicle,GO:0030137,Spinal Muscular Atrophies of Childhood,MESH:D014897,0,,1,SMN1
+cytoplasm,GO:0005737,Alternating hemiplegia of childhood,MESH:C536589,0,,2,ATP1A2|ATP1A3
+cytoplasm,GO:0005737,"Child Development Disorders, Pervasive",MESH:D002659,0,,3,DRD4|MECP2|MRTFB
+cytoplasm,GO:0005737,"CHOREA, CHILDHOOD-ONSET, WITH PSYCHOMOTOR RETARDATION",OMIM:616939,0,,1,GPR88
+cytoplasm,GO:0005737,"HYPERPHENYLALANINEMIA, MILD, NON-BH4-DEFICIENT",OMIM:617384,0,,1,DNAJC12
+cytoplasm,GO:0005737,"Myopathy, Reducing Body, X-Linked, Childhood-Onset",MESH:C567468,0,,1,FHL1
+cytoplasm,GO:0005737,"NEURODEGENERATION WITH ATAXIA, DYSTONIA, AND GAZE PALSY, CHILDHOOD-ONSET",OMIM:617145,0,,1,SQSTM1
+cytoplasm,GO:0005737,Osteoarthritis with Mild Chondrodysplasia,MESH:C565740,0,,1,COL2A1
+cytoplasm,GO:0005737,Spinal Muscular Atrophies of Childhood,MESH:D014897,0,,3,DYNC1H1|SMN1|SMN2
+cytoplasmic dynein complex,GO:0005868,Spinal Muscular Atrophies of Childhood,MESH:D014897,0,,1,DYNC1H1
+cytoplasmic ribonucleoprotein granule,GO:0036464,Spinal Muscular Atrophies of Childhood,MESH:D014897,0,,2,SMN1|SMN2
+cytoplasmic side of plasma membrane,GO:0009898,"Child Development Disorders, Pervasive",MESH:D002659,0,,1,DRD4
+cytoplasmic vesicle,GO:0031410,"MONONEUROPATHY OF THE MEDIAN NERVE, MILD",OMIM:613353,0,,1,SH3TC2
+cytoskeleton,GO:0005856,Spinal Muscular Atrophies of Childhood,MESH:D014897,0,,1,DYNC1H1
+cytosol,GO:0005829,"Child Development Disorders, Pervasive",MESH:D002659,0,,1,MECP2
+cytosol,GO:0005829,"DYSTONIA, CHILDHOOD-ONSET, WITH OPTIC ATROPHY AND BASAL GANGLIA ABNORMALITIES",OMIM:617282,0,,1,MECR
+cytosol,GO:0005829,"Myopathy, Reducing Body, X-Linked, Childhood-Onset",MESH:C567468,0,,1,FHL1
+cytosol,GO:0005829,"NEURODEGENERATION WITH ATAXIA, DYSTONIA, AND GAZE PALSY, CHILDHOOD-ONSET",OMIM:617145,0,,1,SQSTM1
+cytosol,GO:0005829,Sick Building Syndrome,MESH:D018877,0,,1,PNPLA6
+cytosol,GO:0005829,Spinal Muscular Atrophies of Childhood,MESH:D014897,0,,3,DYNC1H1|SMN1|SMN2
+cytosol,GO:0005829,"STRIATONIGRAL DEGENERATION, CHILDHOOD-ONSET",OMIM:617054,0,,1,VAC14
+dendrite,GO:0030425,"Child Development Disorders, Pervasive",MESH:D002659,0,,1,DRD4
+dendrite terminus,GO:0044292,"Child Development Disorders, Pervasive",MESH:D002659,0,,1,DRD4
+dendritic branch,GO:0044307,Child Behavior Disorders,MESH:D002653,1,bisphenol A,0,
+dendritic microtubule,GO:1901588,"Child Development Disorders, Pervasive",MESH:D002659,0,,1,DRD4
+dendritic shaft,GO:0043198,"Child Development Disorders, Pervasive",MESH:D002659,0,,1,DRD4
+dendritic spine,GO:0043197,Alternating hemiplegia of childhood,MESH:C536589,0,,1,ATP1A2
+dendritic spine,GO:0043197,Child Behavior Disorders,MESH:D002653,1,bisphenol A,0,
+dendritic spine,GO:0043197,"Child Development Disorders, Pervasive",MESH:D002659,0,,1,DRD4
+dendritic spine head,GO:0044327,Alternating hemiplegia of childhood,MESH:C536589,0,,1,ATP1A3
+dendritic spine neck,GO:0044326,Alternating hemiplegia of childhood,MESH:C536589,0,,1,ATP1A3
+dynein complex,GO:0030286,Spinal Muscular Atrophies of Childhood,MESH:D014897,0,,1,DYNC1H1
+early endosome membrane,GO:0031901,"STRIATONIGRAL DEGENERATION, CHILDHOOD-ONSET",OMIM:617054,0,,1,VAC14
+endomembrane system,GO:0012505,Alternating hemiplegia of childhood,MESH:C536589,0,,1,ATP1A3
+endomembrane system,GO:0012505,"STRIATONIGRAL DEGENERATION, CHILDHOOD-ONSET",OMIM:617054,0,,1,VAC14
+endoplasmic reticulum,GO:0005783,Alternating hemiplegia of childhood,MESH:C536589,0,,2,ATP1A2|ATP1A3
+endoplasmic reticulum,GO:0005783,"Child Development Disorders, Pervasive",MESH:D002659,0,,1,DRD4
+endoplasmic reticulum,GO:0005783,"NEURODEGENERATION WITH ATAXIA, DYSTONIA, AND GAZE PALSY, CHILDHOOD-ONSET",OMIM:617145,0,,1,SQSTM1
+endoplasmic reticulum,GO:0005783,Sick Building Syndrome,MESH:D018877,0,,1,PNPLA6
+endoplasmic reticulum,GO:0005783,"STRIATONIGRAL DEGENERATION, CHILDHOOD-ONSET",OMIM:617054,0,,1,VAC14
+endoplasmic reticulum lumen,GO:0005788,Osteoarthritis with Mild Chondrodysplasia,MESH:C565740,0,,1,COL2A1
+endoplasmic reticulum membrane,GO:0005789,Sick Building Syndrome,MESH:D018877,0,,1,PNPLA6
+endosome,GO:0005768,Alternating hemiplegia of childhood,MESH:C536589,0,,1,ATP1A2
+endosome,GO:0005768,"STRIATONIGRAL DEGENERATION, CHILDHOOD-ONSET",OMIM:617054,0,,1,VAC14
+endosome membrane,GO:0010008,"STRIATONIGRAL DEGENERATION, CHILDHOOD-ONSET",OMIM:617054,0,,1,VAC14
+extracellular matrix,GO:0031012,"Arthropathy, progressive pseudorheumatoid, of childhood",MESH:C535387,0,,1,CCN6
+extracellular matrix,GO:0031012,"HYPERPHENYLALANINEMIA, MILD, NON-BH4-DEFICIENT",OMIM:617384,0,,1,DNAJC12
+extracellular matrix,GO:0031012,"Hypophosphatasia, Childhood",MESH:C562440,0,,1,ALPL
+extracellular matrix,GO:0031012,Osteoarthritis with Mild Chondrodysplasia,MESH:C565740,0,,1,COL2A1
+extracellular membrane-bounded organelle,GO:0065010,"Hypophosphatasia, Childhood",MESH:C562440,0,,1,ALPL
+extracellular region,GO:0005576,"Arthropathy, progressive pseudorheumatoid, of childhood",MESH:C535387,0,,1,CCN6
+extracellular region,GO:0005576,"Hypercalciuria, childhood idiopathic",MESH:C536082,0,,1,KL
+extracellular region,GO:0005576,"Hypophosphatasia, Childhood",MESH:C562440,0,,1,ALPL
+extracellular region,GO:0005576,Osteoarthritis with Mild Chondrodysplasia,MESH:C565740,0,,1,COL2A1
+extracellular region,GO:0005576,Spinal Muscular Atrophies of Childhood,MESH:D014897,0,,1,DYNC1H1
+extracellular space,GO:0005615,"Arthropathy, progressive pseudorheumatoid, of childhood",MESH:C535387,0,,1,CCN6
+extracellular space,GO:0005615,"Hypercalciuria, childhood idiopathic",MESH:C536082,0,,1,KL
+extracellular space,GO:0005615,"Hypophosphatasia, Childhood",MESH:C562440,0,,1,ALPL
+extracellular space,GO:0005615,Osteoarthritis with Mild Chondrodysplasia,MESH:C565740,0,,1,COL2A1
+extracellular vesicle,GO:1903561,Child Behavior Disorders,MESH:D002653,1,Lead,0,
+extracellular vesicle,GO:1903561,"Lead Poisoning, Nervous System, Childhood",MESH:D020264,1,Lead,0,
+ferritin complex,GO:0070288,Child Behavior Disorders,MESH:D002653,1,bisphenol A,0,
+filamentous actin,GO:0031941,Child Behavior Disorders,MESH:D002653,1,bisphenol A,0,
+filopodium,GO:0030175,Spinal Muscular Atrophies of Childhood,MESH:D014897,0,,1,DYNC1H1
+GABA-ergic synapse,GO:0098982,"Child Development Disorders, Pervasive",MESH:D002659,0,,1,DRD4
+gamma DNA polymerase complex,GO:0005760,Diffuse Cerebral Sclerosis of Schilder,MESH:D002549,0,,1,POLG
+Gemini of coiled bodies,GO:0097504,Spinal Muscular Atrophies of Childhood,MESH:D014897,0,,2,SMN1|SMN2
+glutamatergic synapse,GO:0098978,"Child Development Disorders, Pervasive",MESH:D002659,0,,3,DRD4|MECP2|MRTFB
+glutamatergic synapse,GO:0098978,"NEURODEGENERATION WITH ATAXIA, DYSTONIA, AND GAZE PALSY, CHILDHOOD-ONSET",OMIM:617145,0,,1,SQSTM1
+Golgi apparatus,GO:0005794,Alternating hemiplegia of childhood,MESH:C536589,0,,1,ATP1A3
+Golgi apparatus,GO:0005794,"Child Development Disorders, Pervasive",MESH:D002659,0,,1,DRD4
+Golgi apparatus,GO:0005794,Spinal Muscular Atrophies of Childhood,MESH:D014897,0,,1,SMN1
+Golgi membrane,GO:0000139,"STRIATONIGRAL DEGENERATION, CHILDHOOD-ONSET",OMIM:617054,0,,1,VAC14
+growth cone,GO:0030426,Spinal Muscular Atrophies of Childhood,MESH:D014897,0,,1,SMN1
+heterochromatin,GO:0000792,"Child Development Disorders, Pervasive",MESH:D002659,0,,1,MECP2
+"IgE immunoglobulin complex, circulating",GO:0071743,Child Behavior Disorders,MESH:D002653,2,bisphenol A|Manganese,0,
+inclusion body,GO:0016234,"NEURODEGENERATION WITH ATAXIA, DYSTONIA, AND GAZE PALSY, CHILDHOOD-ONSET",OMIM:617145,0,,1,SQSTM1
+inhibin B complex,GO:0043513,Child Behavior Disorders,MESH:D002653,1,bisphenol A,0,
+intercalated disc,GO:0014704,Alternating hemiplegia of childhood,MESH:C536589,0,,1,ATP1A2
+intracellular membrane-bounded organelle,GO:0043231,Diffuse Cerebral Sclerosis of Schilder,MESH:D002549,0,,1,POLG
+intracellular membrane-bounded organelle,GO:0043231,"NEURODEGENERATION WITH ATAXIA, DYSTONIA, AND GAZE PALSY, CHILDHOOD-ONSET",OMIM:617145,0,,1,SQSTM1
+intracellular membrane-bounded organelle,GO:0043231,"STRIATONIGRAL DEGENERATION, CHILDHOOD-ONSET",OMIM:617054,0,,1,VAC14
+intracellular non-membrane-bounded organelle,GO:0043232,"NEURODEGENERATION WITH ATAXIA, DYSTONIA, AND GAZE PALSY, CHILDHOOD-ONSET",OMIM:617145,0,,1,SQSTM1
+late endosome,GO:0005770,"NEURODEGENERATION WITH ATAXIA, DYSTONIA, AND GAZE PALSY, CHILDHOOD-ONSET",OMIM:617145,0,,1,SQSTM1
+late endosome membrane,GO:0031902,"STRIATONIGRAL DEGENERATION, CHILDHOOD-ONSET",OMIM:617054,0,,1,VAC14
+Lewy body,GO:0097413,"NEURODEGENERATION WITH ATAXIA, DYSTONIA, AND GAZE PALSY, CHILDHOOD-ONSET",OMIM:617145,0,,1,SQSTM1
+lysosome,GO:0005764,Child Behavior Disorders,MESH:D002653,1,Manganese,0,
+manchette,GO:0002177,Spinal Muscular Atrophies of Childhood,MESH:D014897,0,,1,DYNC1H1
+membrane,GO:0016020,Alternating hemiplegia of childhood,MESH:C536589,0,,2,ATP1A2|ATP1A3
+membrane,GO:0016020,"Child Development Disorders, Pervasive",MESH:D002659,0,,1,DRD4
+membrane,GO:0016020,"CHOREA, CHILDHOOD-ONSET, WITH PSYCHOMOTOR RETARDATION",OMIM:616939,0,,1,GPR88
+membrane,GO:0016020,"DYSTONIA, CHILDHOOD-ONSET, WITH OPTIC ATROPHY AND BASAL GANGLIA ABNORMALITIES",OMIM:617282,0,,1,MECR
+membrane,GO:0016020,"Hypercalciuria, childhood idiopathic",MESH:C536082,0,,1,KL
+membrane,GO:0016020,"Hypophosphatasia, Childhood",MESH:C562440,0,,1,ALPL
+membrane,GO:0016020,Sick Building Syndrome,MESH:D018877,0,,1,PNPLA6
+membrane,GO:0016020,"STRIATONIGRAL DEGENERATION, CHILDHOOD-ONSET",OMIM:617054,0,,1,VAC14
+microtubule,GO:0005874,Spinal Muscular Atrophies of Childhood,MESH:D014897,0,,1,DYNC1H1
+mitochondrial chromosome,GO:0000262,Child Behavior Disorders,MESH:D002653,1,bisphenol A,0,
+mitochondrial chromosome,GO:0000262,Diffuse Cerebral Sclerosis of Schilder,MESH:D002549,0,,1,POLG
+mitochondrial intermembrane space,GO:0005758,"Hypophosphatasia, Childhood",MESH:C562440,0,,1,ALPL
+mitochondrial matrix,GO:0005759,Diffuse Cerebral Sclerosis of Schilder,MESH:D002549,0,,1,POLG
+mitochondrial matrix,GO:0005759,"DYSTONIA, CHILDHOOD-ONSET, WITH OPTIC ATROPHY AND BASAL GANGLIA ABNORMALITIES",OMIM:617282,0,,1,MECR
+mitochondrial membrane,GO:0031966,Child Behavior Disorders,MESH:D002653,1,Lead,0,
+mitochondrial membrane,GO:0031966,"Hypophosphatasia, Childhood",MESH:C562440,0,,1,ALPL
+mitochondrial membrane,GO:0031966,"Lead Poisoning, Nervous System, Childhood",MESH:D020264,1,Lead,0,
+mitochondrial nucleoid,GO:0042645,Diffuse Cerebral Sclerosis of Schilder,MESH:D002549,0,,1,POLG
+mitochondrial permeability transition pore complex,GO:0005757,Child Behavior Disorders,MESH:D002653,2,Lead|methylmercuric chloride,0,
+mitochondrial permeability transition pore complex,GO:0005757,"Lead Poisoning, Nervous System, Childhood",MESH:D020264,2,Lead|lead acetate,0,
+mitochondrion,GO:0005739,"Arthropathy, progressive pseudorheumatoid, of childhood",MESH:C535387,0,,1,CCN6
+mitochondrion,GO:0005739,"Child Development Disorders, Pervasive",MESH:D002659,0,,1,DRD4
+mitochondrion,GO:0005739,Diffuse Cerebral Sclerosis of Schilder,MESH:D002549,0,,1,POLG
+mitochondrion,GO:0005739,"DYSTONIA, CHILDHOOD-ONSET, WITH OPTIC ATROPHY AND BASAL GANGLIA ABNORMALITIES",OMIM:617282,0,,1,MECR
+mitochondrion,GO:0005739,"NEURODEGENERATION WITH ATAXIA, DYSTONIA, AND GAZE PALSY, CHILDHOOD-ONSET",OMIM:617145,0,,1,SQSTM1
+myelin sheath,GO:0043209,Alternating hemiplegia of childhood,MESH:C536589,0,,1,ATP1A3
+NADH dehydrogenase complex,GO:0030964,Child Behavior Disorders,MESH:D002653,1,bisphenol A,0,
+neuronal cell body,GO:0043025,Alternating hemiplegia of childhood,MESH:C536589,0,,2,ATP1A2|ATP1A3
+neuronal cell body,GO:0043025,Child Behavior Disorders,MESH:D002653,1,bisphenol A,0,
+neuronal cell body,GO:0043025,"Child Development Disorders, Pervasive",MESH:D002659,0,,1,DRD4
+neuronal cell body,GO:0043025,Spinal Muscular Atrophies of Childhood,MESH:D014897,0,,1,DYNC1H1
+neuronal cell body membrane,GO:0032809,Alternating hemiplegia of childhood,MESH:C536589,0,,1,ATP1A3
+neuron projection,GO:0043005,Child Behavior Disorders,MESH:D002653,3,Lead|methylmercuric chloride|Valproic Acid,0,
+neuron projection,GO:0043005,"Child Development Disorders, Pervasive",MESH:D002659,1,Valproic Acid,0,
+neuron projection,GO:0043005,"Lead Poisoning, Nervous System, Childhood",MESH:D020264,2,Lead|lead acetate,0,
+neuron projection,GO:0043005,Spinal Muscular Atrophies of Childhood,MESH:D014897,0,,2,SMN1|SMN2
+neuron to neuron synapse,GO:0098984,Alternating hemiplegia of childhood,MESH:C536589,0,,1,ATP1A3
+neutrophil extracellular trap,GO:0140644,Child Behavior Disorders,MESH:D002653,1,bisphenol A,0,
+nuclear body,GO:0016604,Spinal Muscular Atrophies of Childhood,MESH:D014897,0,,2,SMN1|SMN2
+nuclear envelope,GO:0005635,Spinal Muscular Atrophies of Childhood,MESH:D014897,0,,1,DYNC1H1
+nucleoplasm,GO:0005654,"Child Development Disorders, Pervasive",MESH:D002659,0,,1,MECP2
+nucleoplasm,GO:0005654,"NEURODEGENERATION WITH ATAXIA, DYSTONIA, AND GAZE PALSY, CHILDHOOD-ONSET",OMIM:617145,0,,1,SQSTM1
+nucleoplasm,GO:0005654,Spinal Muscular Atrophies of Childhood,MESH:D014897,0,,2,SMN1|SMN2
+nucleus,GO:0005634,Alternating hemiplegia of childhood,MESH:C536589,0,,1,ATP1A3
+nucleus,GO:0005634,"Child Development Disorders, Pervasive",MESH:D002659,0,,2,MECP2|MRTFB
+nucleus,GO:0005634,"CHOREA, CHILDHOOD-ONSET, WITH PSYCHOMOTOR RETARDATION",OMIM:616939,0,,1,GPR88
+nucleus,GO:0005634,"DYSTONIA, CHILDHOOD-ONSET, WITH OPTIC ATROPHY AND BASAL GANGLIA ABNORMALITIES",OMIM:617282,0,,1,MECR
+nucleus,GO:0005634,"Myopathy, Reducing Body, X-Linked, Childhood-Onset",MESH:C567468,0,,1,FHL1
+nucleus,GO:0005634,"NEURODEGENERATION WITH ATAXIA, DYSTONIA, AND GAZE PALSY, CHILDHOOD-ONSET",OMIM:617145,0,,1,SQSTM1
+nucleus,GO:0005634,Spinal Muscular Atrophies of Childhood,MESH:D014897,0,,2,SMN1|SMN2
+organelle membrane,GO:0031090,Alternating hemiplegia of childhood,MESH:C536589,0,,2,ATP1A2|ATP1A3
+PAS complex,GO:0070772,"STRIATONIGRAL DEGENERATION, CHILDHOOD-ONSET",OMIM:617054,0,,1,VAC14
+P-body,GO:0000932,"NEURODEGENERATION WITH ATAXIA, DYSTONIA, AND GAZE PALSY, CHILDHOOD-ONSET",OMIM:617145,0,,1,SQSTM1
+perikaryon,GO:0043204,"Child Development Disorders, Pervasive",MESH:D002659,0,,1,DRD4
+perikaryon,GO:0043204,Spinal Muscular Atrophies of Childhood,MESH:D014897,0,,2,SMN1|SMN2
+phagocytic cup,GO:0001891,Child Behavior Disorders,MESH:D002653,1,bisphenol A,0,
+phagophore assembly site,GO:0000407,"NEURODEGENERATION WITH ATAXIA, DYSTONIA, AND GAZE PALSY, CHILDHOOD-ONSET",OMIM:617145,0,,1,SQSTM1
+photoreceptor inner segment,GO:0001917,Alternating hemiplegia of childhood,MESH:C536589,0,,1,ATP1A3
+photoreceptor inner segment membrane,GO:0060342,Alternating hemiplegia of childhood,MESH:C536589,0,,1,ATP1A3
+plasma membrane,GO:0005886,Alternating hemiplegia of childhood,MESH:C536589,0,,2,ATP1A2|ATP1A3
+plasma membrane,GO:0005886,"Child Development Disorders, Pervasive",MESH:D002659,0,,1,DRD4
+plasma membrane,GO:0005886,"CHOREA, CHILDHOOD-ONSET, WITH PSYCHOMOTOR RETARDATION",OMIM:616939,0,,1,GPR88
+plasma membrane,GO:0005886,"Hypercalciuria, childhood idiopathic",MESH:C536082,0,,1,KL
+plasma membrane,GO:0005886,"Hypophosphatasia, Childhood",MESH:C562440,0,,1,ALPL
+plasma membrane,GO:0005886,"MONONEUROPATHY OF THE MEDIAN NERVE, MILD",OMIM:613353,0,,1,SH3TC2
+plasma membrane,GO:0005886,"Myopathy, Reducing Body, X-Linked, Childhood-Onset",MESH:C567468,0,,1,FHL1
+plasma membrane bounded cell projection,GO:0120025,Spinal Muscular Atrophies of Childhood,MESH:D014897,0,,1,DYNC1H1
+PML body,GO:0016605,"NEURODEGENERATION WITH ATAXIA, DYSTONIA, AND GAZE PALSY, CHILDHOOD-ONSET",OMIM:617145,0,,1,SQSTM1
+postsynapse,GO:0098794,Alternating hemiplegia of childhood,MESH:C536589,0,,1,ATP1A3
+postsynapse,GO:0098794,"Child Development Disorders, Pervasive",MESH:D002659,0,,3,DRD4|MECP2|MRTFB
+postsynaptic density,GO:0014069,"Lead Poisoning, Nervous System, Childhood",MESH:D020264,1,lead acetate,0,
+postsynaptic membrane,GO:0045211,"Child Development Disorders, Pervasive",MESH:D002659,0,,1,DRD4
+precatalytic spliceosome,GO:0071011,Spinal Muscular Atrophies of Childhood,MESH:D014897,0,,2,SMN1|SMN2
+presynapse,GO:0098793,"Child Development Disorders, Pervasive",MESH:D002659,0,,2,DRD4|MRTFB
+presynaptic endosome,GO:0098830,"STRIATONIGRAL DEGENERATION, CHILDHOOD-ONSET",OMIM:617054,0,,1,VAC14
+presynaptic membrane,GO:0042734,Alternating hemiplegia of childhood,MESH:C536589,0,,1,ATP1A3
+presynaptic membrane,GO:0042734,"Child Development Disorders, Pervasive",MESH:D002659,0,,1,DRD4
+protein-containing complex,GO:0032991,Alternating hemiplegia of childhood,MESH:C536589,0,,2,ATP1A2|ATP1A3
+protein-containing complex,GO:0032991,"Child Development Disorders, Pervasive",MESH:D002659,0,,1,MECP2
+protein-containing complex,GO:0032991,Diffuse Cerebral Sclerosis of Schilder,MESH:D002549,0,,1,POLG
+protein-containing complex,GO:0032991,Spinal Muscular Atrophies of Childhood,MESH:D014897,0,,1,SMN1
+pseudopodium,GO:0031143,Child Behavior Disorders,MESH:D002653,1,Manganese,0,
+recycling endosome,GO:0055037,"MONONEUROPATHY OF THE MEDIAN NERVE, MILD",OMIM:613353,0,,1,SH3TC2
+sarcolemma,GO:0042383,Alternating hemiplegia of childhood,MESH:C536589,0,,2,ATP1A2|ATP1A3
+sarcomere,GO:0030017,"NEURODEGENERATION WITH ATAXIA, DYSTONIA, AND GAZE PALSY, CHILDHOOD-ONSET",OMIM:617145,0,,1,SQSTM1
+side of membrane,GO:0098552,"Hypophosphatasia, Childhood",MESH:C562440,0,,1,ALPL
+SMN complex,GO:0032797,Spinal Muscular Atrophies of Childhood,MESH:D014897,0,,2,SMN1|SMN2
+SMN-Sm protein complex,GO:0034719,Spinal Muscular Atrophies of Childhood,MESH:D014897,0,,2,SMN1|SMN2
+sodium:potassium-exchanging ATPase complex,GO:0005890,Alternating hemiplegia of childhood,MESH:C536589,0,,2,ATP1A2|ATP1A3
+sperm flagellum,GO:0036126,Child Behavior Disorders,MESH:D002653,1,bisphenol A,0,
+sperm head,GO:0061827,Child Behavior Disorders,MESH:D002653,1,bisphenol A,0,
+sperm head plasma membrane,GO:1990913,Child Behavior Disorders,MESH:D002653,1,bisphenol A,0,
+sperm midpiece,GO:0097225,"NEURODEGENERATION WITH ATAXIA, DYSTONIA, AND GAZE PALSY, CHILDHOOD-ONSET",OMIM:617145,0,,1,SQSTM1
+spliceosomal complex,GO:0005681,Spinal Muscular Atrophies of Childhood,MESH:D014897,0,,1,SMN1
+synapse,GO:0045202,Alternating hemiplegia of childhood,MESH:C536589,0,,1,ATP1A3
+synapse,GO:0045202,"Child Development Disorders, Pervasive",MESH:D002659,0,,1,DRD4
+synapse,GO:0045202,"NEURODEGENERATION WITH ATAXIA, DYSTONIA, AND GAZE PALSY, CHILDHOOD-ONSET",OMIM:617145,0,,1,SQSTM1
+synaptic vesicle,GO:0008021,"Lead Poisoning, Nervous System, Childhood",MESH:D020264,1,lead acetate,0,
+terminal bouton,GO:0043195,"Child Development Disorders, Pervasive",MESH:D002659,0,,1,DRD4
+terminal bouton,GO:0043195,Diffuse Cerebral Sclerosis of Schilder,MESH:D002549,0,,1,POLG
+translation initiation complex,GO:0070992,Child Behavior Disorders,MESH:D002653,1,bisphenol A,0,
+T-tubule,GO:0030315,Alternating hemiplegia of childhood,MESH:C536589,0,,1,ATP1A2
+vacuolar membrane,GO:0005774,"STRIATONIGRAL DEGENERATION, CHILDHOOD-ONSET",OMIM:617054,0,,1,VAC14
+very-low-density lipoprotein particle,GO:0034361,"Child Development Disorders, Pervasive",MESH:D002659,1,Methionine,0,
+Z disc,GO:0030018,Spinal Muscular Atrophies of Childhood,MESH:D014897,0,,2,SMN1|SMN2

@@ -1,0 +1,542 @@
+GOName,GOID,DiseaseName,DiseaseID,InferenceChemicalQty,InferenceChemicalNames,InferenceGeneQty,InferenceGeneSymbols
+actin cortical patch,GO:0030479,"Hepatitis, Chronic",MESH:D006521,0,,1,MET
+actin cytoskeleton,GO:0015629,Hepatitis C,MESH:D006526,0,,1,RIGI
+actin cytoskeleton,GO:0015629,"Hepatitis, Chronic",MESH:D006521,0,,1,ACTA2
+actin filament,GO:0005884,Hepatitis,MESH:D006505,0,,1,KEAP1
+activin responsive factor complex,GO:0032444,"Hepatitis, Chronic",MESH:D006521,0,,1,SMAD2
+adherens junction,GO:0005912,Hepatitis,MESH:D006505,0,,1,KEAP1
+aggresome,GO:0016235,"Hepatitis, Animal",MESH:D006520,0,,1,UBD
+AIM2 inflammasome complex,GO:0097169,Hepatitis,MESH:D006505,1,perfluorooctane sulfonic acid,0,
+alveolar lamellar body,GO:0097208,Hepatitis,MESH:D006505,1,Acetylcysteine,0,
+anchoring junction,GO:0070161,"Hepatitis C, Chronic",MESH:D019698,0,,1,ITGB6
+apical part of cell,GO:0045177,Hepatitis,MESH:D006505,0,,1,ATP7B
+apical part of cell,GO:0045177,Hepatitis C,MESH:D006526,0,,1,HFE
+apical plasma membrane,GO:0016324,Hepatitis,MESH:D006505,0,,1,TF
+apical plasma membrane,GO:0016324,"Hepatitis, Animal",MESH:D006520,0,,1,CYP4A14
+apical plasma membrane,GO:0016324,"Hepatitis, Autoimmune",MESH:D019693,0,,1,IL18
+apical plasma membrane,GO:0016324,Hepatitis C,MESH:D006526,0,,2,CD81|SCARB1
+apical plasma membrane,GO:0016324,"Hepatitis, Chronic",MESH:D006521,0,,1,ATP7A
+apicolateral plasma membrane,GO:0016327,"Hepatitis, Chronic",MESH:D006521,0,,1,KRT19
+apoptotic body,GO:0097189,Hepatitis,MESH:D006505,1,Norfloxacin,0,
+apoptotic body,GO:0097189,Hepatitis A,MESH:D006506,1,Glycyrrhizic Acid,0,
+apoptotic body,GO:0097189,"Hepatitis, Autoimmune",MESH:D019693,1,Indomethacin,0,
+apoptotic body,GO:0097189,Hepatitis B,MESH:D006509,2,baicalin|Indomethacin,0,
+apoptotic body,GO:0097189,"Hepatitis C, Chronic",MESH:D019698,1,Indomethacin,0,
+aryl hydrocarbon receptor complex,GO:0034751,"Hepatitis, Chronic",MESH:D006521,0,,1,MET
+autolysosome,GO:0044754,Hepatitis,MESH:D006505,5,Chloroquine|Dietary Fats|Metformin|Methamphetamine|Rifampin,0,
+autolysosome,GO:0044754,"Hepatitis, Animal",MESH:D006520,2,Dietary Fats|Oleic Acid,0,
+autolysosome,GO:0044754,"Hepatitis, Autoimmune",MESH:D019693,1,rhoifolin,0,
+autophagosome,GO:0005776,Hepatitis,MESH:D006505,7,Acetaminophen|Chloroquine|Ethanol|Melatonin|Metformin|Methamphetamine|Resveratrol,0,
+autophagosome,GO:0005776,"Hepatitis, Alcoholic",MESH:D006519,1,Ethanol,0,
+autophagosome,GO:0005776,"Hepatitis, Autoimmune",MESH:D019693,3,Indomethacin|Melatonin|rhoifolin,0,
+autophagosome,GO:0005776,Hepatitis B,MESH:D006509,1,Indomethacin,0,
+autophagosome,GO:0005776,Hepatitis C,MESH:D006526,1,Resveratrol,0,
+autophagosome,GO:0005776,"Hepatitis C, Chronic",MESH:D019698,1,Indomethacin,0,
+axon,GO:0030424,"Hepatitis, Autoimmune",MESH:D019693,0,,1,TGFB1
+axon,GO:0030424,Hepatitis C,MESH:D006526,0,,1,OPRM1
+axon,GO:0030424,"Hepatitis, Chronic",MESH:D006521,0,,2,ATP7A|TGFB1
+axon cytoplasm,GO:1904115,"Hepatitis, Chronic",MESH:D006521,0,,1,SOD1
+axon terminus,GO:0043679,"Hepatitis, Autoimmune",MESH:D019693,0,,1,CCL2
+basal part of cell,GO:0045178,Hepatitis,MESH:D006505,0,,1,TF
+basal part of cell,GO:0045178,Hepatitis C,MESH:D006526,0,,1,HFE
+basal plasma membrane,GO:0009925,Hepatitis,MESH:D006505,0,,1,TF
+basal plasma membrane,GO:0009925,Hepatitis C,MESH:D006526,0,,1,CD81
+basal plasma membrane,GO:0009925,"Hepatitis, Chronic",MESH:D006521,0,,1,MET
+basement membrane,GO:0005604,Hepatitis,MESH:D006505,0,,3,ALB|SPARC|TF
+basement membrane,GO:0005604,Hepatitis B,MESH:D006509,0,,1,LOXL2
+basement membrane,GO:0005604,Hepatitis C,MESH:D006526,0,,1,LOXL2
+basement membrane,GO:0005604,"Hepatitis, Chronic",MESH:D006521,0,,1,ACTA2
+basolateral plasma membrane,GO:0016323,Hepatitis,MESH:D006505,0,,1,ATP7B
+basolateral plasma membrane,GO:0016323,Hepatitis B,MESH:D006509,0,,1,SLC10A1
+basolateral plasma membrane,GO:0016323,Hepatitis C,MESH:D006526,0,,2,CD81|SCARB1
+basolateral plasma membrane,GO:0016323,"Hepatitis, Chronic",MESH:D006521,0,,1,ATP7A
+bicellular tight junction,GO:0005923,Hepatitis,MESH:D006505,0,,1,ATP7B
+bicellular tight junction,GO:0005923,Hepatitis C,MESH:D006526,0,,1,RIGI
+blood microparticle,GO:0072562,Hepatitis,MESH:D006505,0,,1,ALB
+blood microparticle,GO:0072562,"Hepatitis, Autoimmune",MESH:D019693,0,,1,TGFB1
+blood microparticle,GO:0072562,Hepatitis B,MESH:D006509,0,,1,HP
+blood microparticle,GO:0072562,"Hepatitis B, Chronic",MESH:D019694,0,,1,HP
+blood microparticle,GO:0072562,"Hepatitis C, Chronic",MESH:D019698,0,,1,HP
+blood microparticle,GO:0072562,"Hepatitis, Chronic",MESH:D006521,0,,1,TGFB1
+brush border membrane,GO:0031526,"Hepatitis, Chronic",MESH:D006521,0,,1,ATP7A
+Cajal body,GO:0015030,Hepatitis,MESH:D006505,0,,1,PARP1
+catalase complex,GO:0062151,Hepatitis,MESH:D006505,0,,1,CAT
+catalase complex,GO:0062151,"Hepatitis, Chronic",MESH:D006521,0,,1,CAT
+catalytic complex,GO:1902494,Hepatitis C,MESH:D006526,0,,1,LPL
+caveola,GO:0005901,Hepatitis,MESH:D006505,0,,3,F2R|FASLG|HMOX1
+caveola,GO:0005901,Hepatitis C,MESH:D006526,0,,1,SCARB1
+cell body,GO:0044297,"Hepatitis, Chronic",MESH:D006521,0,,1,ACTA2
+cell cortex,GO:0005938,"Hepatitis B, Chronic",MESH:D019694,0,,1,CCN2
+cell junction,GO:0030054,"Hepatitis C, Chronic",MESH:D019698,0,,1,ITGB6
+cell leading edge,GO:0031252,"Hepatitis, Chronic",MESH:D006521,0,,1,ATP7A
+cell periphery,GO:0071944,"Hepatitis, Chronic",MESH:D006521,0,,1,KRT19
+cell projection,GO:0042995,Hepatitis,MESH:D006505,1,Lipopolysaccharides,0,
+cell projection,GO:0042995,Hepatitis C,MESH:D006526,0,,1,OPRM1
+cell surface,GO:0009986,Hepatitis,MESH:D006505,0,,5,F2R|FASLG|SPARC|TF|TNF
+cell surface,GO:0009986,"Hepatitis, Alcoholic",MESH:D006519,0,,1,TNF
+cell surface,GO:0009986,"Hepatitis, Animal",MESH:D006520,1,deoxynivalenol,1,LCN2
+cell surface,GO:0009986,"Hepatitis, Autoimmune",MESH:D019693,0,,1,TGFB1
+cell surface,GO:0009986,"Hepatitis B, Chronic",MESH:D019694,0,,3,HLA-C|HLA-DPA1|HLA-DPB1
+cell surface,GO:0009986,Hepatitis C,MESH:D006526,0,,4,CCR5|CD209|LPL|SCARB1
+cell surface,GO:0009986,"Hepatitis C, Chronic",MESH:D019698,0,,1,ITGB6
+cell surface,GO:0009986,"Hepatitis, Chronic",MESH:D006521,0,,2,CP|TGFB1
+cell tip,GO:0051286,Hepatitis,MESH:D006505,0,,1,TF
+cellular_component,GO:0005575,Hepatitis,MESH:D006505,0,,1,ALB
+cellular_component,GO:0005575,Hepatitis B,MESH:D006509,0,,2,MIR122|MIR192
+centriolar satellite,GO:0034451,Hepatitis,MESH:D006505,0,,1,KEAP1
+centriolar satellite,GO:0034451,"Hepatitis, Autoimmune",MESH:D019693,0,,1,ALDOB
+centrosome,GO:0005813,"Hepatitis B, Chronic",MESH:D019694,0,,1,UBE2L3
+centrosome,GO:0005813,"Hepatitis C, Chronic",MESH:D019698,0,,1,ITGB6
+C-fiber,GO:0044299,"Hepatitis, Autoimmune",MESH:D019693,0,,1,CCL2
+chromatin,GO:0000785,Hepatitis,MESH:D006505,0,,2,PARP1|SPARC
+chromatin,GO:0000785,Hepatitis B,MESH:D006509,0,,2,LOXL2|STAT4
+chromatin,GO:0000785,Hepatitis C,MESH:D006526,0,,1,LOXL2
+chromatin,GO:0000785,"Hepatitis, Chronic",MESH:D006521,0,,2,SMAD2|STAT3
+chromosome,GO:0005694,Hepatitis,MESH:D006505,0,,1,PARP1
+chromosome,GO:0005694,Hepatitis B,MESH:D006509,0,,1,LOXL2
+chromosome,GO:0005694,Hepatitis C,MESH:D006526,0,,1,LOXL2
+chromosome,GO:0005694,"Hepatitis, Chronic",MESH:D006521,0,,1,MKI67
+"chromosome, centromeric region",GO:0000775,"Hepatitis, Chronic",MESH:D006521,0,,1,MKI67
+chylomicron,GO:0042627,Hepatitis C,MESH:D006526,0,,1,LPL
+clathrin-coated endocytic vesicle membrane,GO:0030669,Hepatitis,MESH:D006505,0,,1,TF
+clathrin-coated endocytic vesicle membrane,GO:0030669,"Hepatitis B, Chronic",MESH:D019694,0,,2,HLA-DPA1|HLA-DPB1
+clathrin-coated pit,GO:0005905,Hepatitis,MESH:D006505,0,,1,TF
+collagen-containing extracellular matrix,GO:0062023,"Hepatitis, Autoimmune",MESH:D019693,0,,1,TGFB1
+collagen-containing extracellular matrix,GO:0062023,Hepatitis B,MESH:D006509,0,,2,LOX|LOXL2
+collagen-containing extracellular matrix,GO:0062023,Hepatitis C,MESH:D006526,0,,2,LOX|LOXL2
+collagen-containing extracellular matrix,GO:0062023,"Hepatitis, Chronic",MESH:D006521,0,,1,TGFB1
+collagen trimer,GO:0005581,Hepatitis B,MESH:D006509,0,,1,LOX
+collagen trimer,GO:0005581,Hepatitis C,MESH:D006526,0,,2,C1QC|LOX
+complement component C1 complex,GO:0005602,Hepatitis C,MESH:D006526,0,,1,C1QC
+complement component C1q complex,GO:0062167,Hepatitis C,MESH:D006526,0,,1,C1QC
+condensed chromosome,GO:0000793,"Hepatitis, Chronic",MESH:D006521,0,,1,MKI67
+cortical granule,GO:0060473,Hepatitis,MESH:D006505,3,cypermethrin|Lipopolysaccharides|Resveratrol,0,
+cortical granule,GO:0060473,Hepatitis C,MESH:D006526,1,Resveratrol,0,
+costamere,GO:0043034,"Hepatitis, Chronic",MESH:D006521,0,,1,KRT19
+Cul2-RING ubiquitin ligase complex,GO:0031462,"Hepatitis, Chronic",MESH:D006521,0,,1,COMMD1
+Cul3-RING ubiquitin ligase complex,GO:0031463,Hepatitis,MESH:D006505,0,,1,KEAP1
+cytolytic granule,GO:0044194,Hepatitis,MESH:D006505,0,,1,GZMB
+cytolytic granule lumen,GO:1904856,Hepatitis,MESH:D006505,0,,1,GZMB
+cytoplasm,GO:0005737,Hepatitis,MESH:D006505,0,,7,ALB|CAT|FASLG|GZMB|KEAP1|PARP1|SPARC
+cytoplasm,GO:0005737,"Hepatitis, Alcoholic",MESH:D006519,0,,2,CCL5|SULT1E1
+cytoplasm,GO:0005737,"Hepatitis, Animal",MESH:D006520,0,,4,CYP4A14|H19|TFF3|UBD
+cytoplasm,GO:0005737,"Hepatitis, Autoimmune",MESH:D019693,0,,6,ALDOB|CCL5|IL13|IL18|LEP|TGFB1
+cytoplasm,GO:0005737,Hepatitis B,MESH:D006509,0,,4,CYP2A6|IFNB1|MIRLET7C|STAT4
+cytoplasm,GO:0005737,"Hepatitis B, Chronic",MESH:D019694,0,,1,UBE2L3
+cytoplasm,GO:0005737,Hepatitis C,MESH:D006526,0,,8,CCR5|CD209|CYP2A6|CYP3A4|RIGI|SCARB1|TLR7|TLR8
+cytoplasm,GO:0005737,"Hepatitis, Chronic",MESH:D006521,0,,17,ACTA2|CASP3|CAT|CCS|COMMD1|COX17|CP|GPX1|KRT19|KRT7|MET|MKI67|MT1A|SMAD2|SOD1|STAT3|TGFB1
+cytoplasmic microtubule,GO:0005881,Hepatitis B,MESH:D006509,0,,1,CYP2A6
+cytoplasmic microtubule,GO:0005881,Hepatitis C,MESH:D006526,0,,1,CYP2A6
+cytoplasmic vesicle,GO:0031410,Hepatitis,MESH:D006505,1,Chloroquine,3,ATP7B|FASLG|TF
+cytoplasmic vesicle,GO:0031410,Hepatitis C,MESH:D006526,0,,1,HFE
+cytoplasmic vesicle,GO:0031410,"Hepatitis, Chronic",MESH:D006521,0,,2,ATP7A|SOD1
+cytoplasmic vesicle lumen,GO:0060205,Hepatitis,MESH:D006505,0,,1,FASLG
+cytoplasmic vesicle lumen,GO:0060205,"Hepatitis, Animal",MESH:D006520,0,,1,LCN2
+cytoskeleton,GO:0005856,"Hepatitis, Autoimmune",MESH:D019693,0,,1,ALDOB
+cytoskeleton,GO:0005856,"Hepatitis, Chronic",MESH:D006521,0,,2,ACTA2|KRT19
+cytosol,GO:0005829,Hepatitis,MESH:D006505,0,,6,CAT|GNMT|GZMB|HMOX1|KEAP1|PARP1
+cytosol,GO:0005829,"Hepatitis, Alcoholic",MESH:D006519,0,,1,SULT1E1
+cytosol,GO:0005829,"Hepatitis, Animal",MESH:D006520,0,,2,LCN2|UBD
+cytosol,GO:0005829,"Hepatitis, Autoimmune",MESH:D019693,0,,3,ALDOB|IL18|LEP
+cytosol,GO:0005829,Hepatitis B,MESH:D006509,0,,1,STAT4
+cytosol,GO:0005829,"Hepatitis B, Chronic",MESH:D019694,0,,1,UBE2L3
+cytosol,GO:0005829,Hepatitis C,MESH:D006526,0,,2,CD81|RIGI
+cytosol,GO:0005829,"Hepatitis, Chronic",MESH:D006521,0,,15,ACTA2|ATOX1|ATP7A|CASP3|CAT|CCS|COMMD1|GNMT|GPX1|KRT19|KRT7|MT1A|SMAD2|SOD1|STAT3
+death-inducing signaling complex,GO:0031264,"Hepatitis, Chronic",MESH:D006521,0,,1,CASP3
+dendrite,GO:0030425,Hepatitis,MESH:D006505,0,,1,TF
+dendrite,GO:0030425,"Hepatitis, Autoimmune",MESH:D019693,0,,1,CCL2
+dendrite,GO:0030425,Hepatitis B,MESH:D006509,0,,1,IFNGR1
+dendrite,GO:0030425,Hepatitis C,MESH:D006526,0,,1,OPRM1
+dendrite,GO:0030425,"Hepatitis, Chronic",MESH:D006521,0,,2,ATP7A|MET
+dendrite cytoplasm,GO:0032839,Hepatitis C,MESH:D006526,0,,1,OPRM1
+dendrite cytoplasm,GO:0032839,"Hepatitis, Chronic",MESH:D006521,0,,1,SOD1
+dendrite membrane,GO:0032590,Hepatitis C,MESH:D006526,0,,1,OPRM1
+dendritic spine,GO:0043197,Hepatitis,MESH:D006505,1,Methamphetamine,0,
+dense body,GO:0097433,Hepatitis,MESH:D006505,0,,1,TF
+dense core granule,GO:0031045,"Hepatitis, Chronic",MESH:D006521,0,,1,SOD1
+discoidal high-density lipoprotein particle,GO:0034365,Hepatitis,MESH:D006505,1,Galactosamine,0,
+dystrophin-associated glycoprotein complex,GO:0016010,"Hepatitis, Chronic",MESH:D006521,0,,1,KRT19
+early endosome,GO:0005769,Hepatitis,MESH:D006505,1,Chloroquine,3,F2R|GZMB|TF
+early endosome,GO:0005769,Hepatitis C,MESH:D006526,0,,1,HFE
+early endosome,GO:0005769,"Hepatitis, Chronic",MESH:D006521,0,,1,COMMD1
+early endosome membrane,GO:0031901,"Hepatitis B, Chronic",MESH:D019694,0,,1,HLA-C
+early endosome membrane,GO:0031901,"Hepatitis, Chronic",MESH:D006521,0,,1,ATP7A
+early phagosome,GO:0032009,Hepatitis C,MESH:D006526,0,,1,TLR7
+endocytic vesicle,GO:0030139,Hepatitis,MESH:D006505,0,,1,TF
+endocytic vesicle,GO:0030139,"Hepatitis, Autoimmune",MESH:D019693,0,,1,CCL2
+endocytic vesicle lumen,GO:0071682,Hepatitis,MESH:D006505,0,,1,SPARC
+endocytic vesicle lumen,GO:0071682,Hepatitis B,MESH:D006509,0,,1,HP
+endocytic vesicle lumen,GO:0071682,"Hepatitis B, Chronic",MESH:D019694,0,,1,HP
+endocytic vesicle lumen,GO:0071682,"Hepatitis C, Chronic",MESH:D019698,0,,1,HP
+endocytic vesicle membrane,GO:0030666,"Hepatitis B, Chronic",MESH:D019694,0,,2,HLA-DPA1|HLA-DPB1
+endocytic vesicle membrane,GO:0030666,Hepatitis C,MESH:D006526,0,,1,SCARB1
+endolysosome,GO:0036019,Hepatitis,MESH:D006505,1,Chloroquine,0,
+endolysosome membrane,GO:0036020,Hepatitis C,MESH:D006526,0,,2,TLR7|TLR8
+endomembrane system,GO:0012505,Hepatitis C,MESH:D006526,0,,2,TLR7|TLR8
+endoplasmic reticulum,GO:0005783,Hepatitis,MESH:D006505,1,cypermethrin,3,ALB|HMOX1|KEAP1
+endoplasmic reticulum,GO:0005783,"Hepatitis, Alcoholic",MESH:D006519,0,,1,STS
+endoplasmic reticulum,GO:0005783,Hepatitis B,MESH:D006509,0,,2,CYP2A6|LOXL2
+endoplasmic reticulum,GO:0005783,"Hepatitis B, Chronic",MESH:D019694,0,,1,HLA-C
+endoplasmic reticulum,GO:0005783,Hepatitis C,MESH:D006526,0,,4,CYP2A6|LOXL2|OPRM1|TLR7
+endoplasmic reticulum,GO:0005783,"Hepatitis, Chronic",MESH:D006521,0,,1,ATP7A
+endoplasmic reticulum-Golgi intermediate compartment membrane,GO:0033116,Hepatitis,MESH:D006505,0,,1,INS
+endoplasmic reticulum lumen,GO:0005788,Hepatitis,MESH:D006505,0,,3,ALB|INS|TF
+endoplasmic reticulum lumen,GO:0005788,"Hepatitis, Alcoholic",MESH:D006519,0,,1,STS
+endoplasmic reticulum lumen,GO:0005788,"Hepatitis, Autoimmune",MESH:D019693,0,,1,IL6
+endoplasmic reticulum lumen,GO:0005788,"Hepatitis, Chronic",MESH:D006521,0,,1,CP
+endoplasmic reticulum membrane,GO:0005789,Hepatitis,MESH:D006505,0,,2,HMOX1|TF
+endoplasmic reticulum membrane,GO:0005789,"Hepatitis, Alcoholic",MESH:D006519,0,,1,STS
+endoplasmic reticulum membrane,GO:0005789,"Hepatitis, Animal",MESH:D006520,0,,1,CYP4A14
+endoplasmic reticulum membrane,GO:0005789,Hepatitis B,MESH:D006509,0,,1,CYP2A6
+endoplasmic reticulum membrane,GO:0005789,Hepatitis C,MESH:D006526,0,,5,CYP2A6|CYP2B1|CYP3A4|TLR7|TLR8
+endosome,GO:0005768,Hepatitis,MESH:D006505,0,,1,TF
+endosome,GO:0005768,"Hepatitis, Alcoholic",MESH:D006519,0,,1,STS
+endosome,GO:0005768,Hepatitis C,MESH:D006526,0,,4,CCR5|OPRM1|TLR7|TLR8
+endosome,GO:0005768,"Hepatitis, Chronic",MESH:D006521,0,,1,COMMD1
+endosome lumen,GO:0031904,Hepatitis,MESH:D006505,0,,1,INS
+endosome membrane,GO:0010008,Hepatitis,MESH:D006505,0,,1,TF
+endosome membrane,GO:0010008,Hepatitis C,MESH:D006526,0,,2,TLR7|TLR8
+endosome membrane,GO:0010008,"Hepatitis, Chronic",MESH:D006521,0,,1,COMMD1
+ER to Golgi transport vesicle membrane,GO:0012507,"Hepatitis B, Chronic",MESH:D019694,0,,3,HLA-C|HLA-DPA1|HLA-DPB1
+euchromatin,GO:0000791,Hepatitis,MESH:D006505,0,,1,PARP1
+excitatory synapse,GO:0060076,"Hepatitis, Chronic",MESH:D006521,0,,1,MET
+external side of plasma membrane,GO:0009897,Hepatitis,MESH:D006505,0,,3,FASLG|IFNG|TNF
+external side of plasma membrane,GO:0009897,"Hepatitis, Alcoholic",MESH:D006519,0,,1,TNF
+external side of plasma membrane,GO:0009897,"Hepatitis, Autoimmune",MESH:D019693,0,,5,IFNG|IL13|IL18|IL4|IL6
+external side of plasma membrane,GO:0009897,Hepatitis B,MESH:D006509,0,,1,IFNG
+external side of plasma membrane,GO:0009897,Hepatitis C,MESH:D006526,0,,5,CCR5|CD209|HFE|IFNG|TLR8
+external side of plasma membrane,GO:0009897,"Hepatitis C, Chronic",MESH:D019698,0,,1,ITGB6
+extracellular exosome,GO:0070062,Hepatitis,MESH:D006505,0,,2,ALB|FASLG
+extracellular exosome,GO:0070062,Hepatitis B,MESH:D006509,0,,4,MIR122|MIR125B2|MIR193B|MIRLET7C
+extracellular exosome,GO:0070062,Hepatitis C,MESH:D006526,0,,1,CD81
+extracellular matrix,GO:0031012,Hepatitis,MESH:D006505,0,,1,SPARC
+extracellular matrix,GO:0031012,"Hepatitis, Autoimmune",MESH:D019693,0,,1,TGFB1
+extracellular matrix,GO:0031012,Hepatitis B,MESH:D006509,0,,1,LOX
+extracellular matrix,GO:0031012,"Hepatitis B, Chronic",MESH:D019694,0,,1,CCN2
+extracellular matrix,GO:0031012,Hepatitis C,MESH:D006526,0,,1,LOX
+extracellular matrix,GO:0031012,"Hepatitis, Chronic",MESH:D006521,0,,1,TGFB1
+extracellular region,GO:0005576,Hepatitis,MESH:D006505,0,,10,ALB|CAT|ENPP2|F2R|FASLG|IFNG|INS|SPARC|TF|TNF
+extracellular region,GO:0005576,"Hepatitis, Alcoholic",MESH:D006519,0,,3,CCL5|CXCL8|TNF
+extracellular region,GO:0005576,"Hepatitis, Animal",MESH:D006520,0,,2,LCN2|TFF3
+extracellular region,GO:0005576,"Hepatitis, Autoimmune",MESH:D019693,0,,16,C1S|CCL2|CCL5|CXCL1|IFNG|IL10|IL13|IL18|IL2|IL22|IL4|IL5|IL6|IL9|LEP|TGFB1
+extracellular region,GO:0005576,Hepatitis B,MESH:D006509,0,,8,HP|IFNA1|IFNA2|IFNAR2|IFNB1|IFNG|LOX|LOXL2
+extracellular region,GO:0005576,"Hepatitis B, Chronic",MESH:D019694,0,,3,CCN2|HP|IFNA2
+extracellular region,GO:0005576,Hepatitis C,MESH:D006526,0,,8,C1QC|CD209|IFNA2|IFNG|IFNL3|LOX|LOXL2|LPL
+extracellular region,GO:0005576,"Hepatitis C, Chronic",MESH:D019698,0,,3,HP|IFNA|IFNA2
+extracellular region,GO:0005576,"Hepatitis, Chronic",MESH:D006521,0,,7,CAT|CP|HGF|IFNA2|MET|SOD1|TGFB1
+extracellular space,GO:0005615,Hepatitis,MESH:D006505,0,,11,ALB|CAT|ENPP2|FASLG|GZMB|HMOX1|IFNG|INS|SPARC|TF|TNF
+extracellular space,GO:0005615,"Hepatitis, Alcoholic",MESH:D006519,0,,3,CCL5|CXCL8|TNF
+extracellular space,GO:0005615,"Hepatitis, Animal",MESH:D006520,0,,3,CYP4A14|LCN2|TFF3
+extracellular space,GO:0005615,"Hepatitis, Autoimmune",MESH:D019693,0,,16,C1S|CCL2|CCL5|CXCL1|IFNG|IL10|IL13|IL18|IL2|IL22|IL4|IL5|IL6|IL9|LEP|TGFB1
+extracellular space,GO:0005615,Hepatitis B,MESH:D006509,0,,11,HP|IFNA1|IFNA2|IFNAR2|IFNB1|IFNG|LOX|LOXL2|MIR192|MIR194-2|MIR28
+extracellular space,GO:0005615,"Hepatitis B, Chronic",MESH:D019694,0,,3,CCN2|HP|IFNA2
+extracellular space,GO:0005615,Hepatitis C,MESH:D006526,0,,7,HFE|IFNA2|IFNG|IFNL3|LOX|LOXL2|LPL
+extracellular space,GO:0005615,"Hepatitis C, Chronic",MESH:D019698,0,,3,HP|IFNA|IFNA2
+extracellular space,GO:0005615,"Hepatitis, Chronic",MESH:D006521,0,,9,ACTA2|CAT|CP|HGF|IFNA2|KRT7|MET|SOD1|TGFB1
+extracellular vesicle,GO:1903561,Hepatitis,MESH:D006505,2,Benzene|Oxygen,0,
+extrinsic component of postsynaptic membrane,GO:0098890,Hepatitis C,MESH:D006526,0,,1,C1QC
+extrinsic component of presynaptic membrane,GO:0098888,Hepatitis C,MESH:D006526,0,,1,C1QC
+F-actin capping protein complex,GO:0008290,"Hepatitis, Chronic",MESH:D006521,0,,1,MET
+fibrillar center,GO:0001650,"Hepatitis, Animal",MESH:D006520,0,,1,UBD
+fibrinogen complex,GO:0005577,Hepatitis,MESH:D006505,1,Dietary Fats,0,
+fibrinogen complex,GO:0005577,"Hepatitis, Animal",MESH:D006520,1,Dietary Fats,0,
+ficolin-1-rich granule lumen,GO:1904813,Hepatitis,MESH:D006505,0,,1,CAT
+ficolin-1-rich granule lumen,GO:1904813,"Hepatitis, Chronic",MESH:D006521,0,,1,CAT
+filamentous actin,GO:0031941,Hepatitis,MESH:D006505,1,Quinacrine,0,
+filopodium,GO:0030175,"Hepatitis, Chronic",MESH:D006521,0,,1,ACTA2
+focal adhesion,GO:0005925,Hepatitis,MESH:D006505,0,,1,KEAP1
+focal adhesion,GO:0005925,Hepatitis C,MESH:D006526,0,,1,OPRM1
+focal adhesion,GO:0005925,"Hepatitis C, Chronic",MESH:D019698,0,,1,ITGB6
+GABA-ergic synapse,GO:0098982,Hepatitis C,MESH:D006526,0,,1,OPRM1
+germinal vesicle,GO:0042585,Hepatitis B,MESH:D006509,1,Cyclophosphamide,0,
+germinal vesicle,GO:0042585,"Hepatitis, Chronic",MESH:D006521,1,Cyclophosphamide,0,
+glial cell projection,GO:0097386,Hepatitis,MESH:D006505,1,Benzene,0,
+glomerular endothelium fenestra,GO:0036053,Hepatitis,MESH:D006505,2,Diethylnitrosamine|Sorafenib,0,
+glutamatergic synapse,GO:0098978,Hepatitis,MESH:D006505,0,,1,SPARC
+glutamatergic synapse,GO:0098978,Hepatitis C,MESH:D006526,0,,1,C1QC
+glutamatergic synapse,GO:0098978,"Hepatitis, Chronic",MESH:D006521,0,,2,CASP3|STAT3
+glycogen granule,GO:0042587,Hepatitis,MESH:D006505,1,Ethanol,0,
+glycogen granule,GO:0042587,"Hepatitis, Alcoholic",MESH:D006519,1,Ethanol,0,
+Golgi apparatus,GO:0005794,Hepatitis,MESH:D006505,0,,3,ALB|ATP7B|F2R
+Golgi apparatus,GO:0005794,"Hepatitis, Alcoholic",MESH:D006519,0,,1,STS
+Golgi apparatus,GO:0005794,"Hepatitis B, Chronic",MESH:D019694,0,,2,CCN2|HLA-C
+Golgi apparatus,GO:0005794,Hepatitis C,MESH:D006526,0,,1,OPRM1
+Golgi apparatus,GO:0005794,"Hepatitis, Chronic",MESH:D006521,0,,1,ATP7A
+Golgi lumen,GO:0005796,Hepatitis,MESH:D006505,0,,1,INS
+Golgi lumen,GO:0005796,"Hepatitis, Autoimmune",MESH:D019693,0,,1,TGFB1
+Golgi lumen,GO:0005796,"Hepatitis, Chronic",MESH:D006521,0,,1,TGFB1
+Golgi membrane,GO:0000139,Hepatitis,MESH:D006505,0,,2,ATP7B|INS
+Golgi membrane,GO:0000139,"Hepatitis B, Chronic",MESH:D019694,0,,3,HLA-C|HLA-DPA1|HLA-DPB1
+Golgi membrane,GO:0000139,Hepatitis C,MESH:D006526,0,,2,TLR7|TLR8
+growth cone filopodium,GO:1990812,Hepatitis,MESH:D006505,1,Ethanol,0,
+growth cone filopodium,GO:1990812,"Hepatitis, Alcoholic",MESH:D006519,1,Ethanol,0,
+haptoglobin-hemoglobin complex,GO:0031838,Hepatitis B,MESH:D006509,0,,1,HP
+haptoglobin-hemoglobin complex,GO:0031838,"Hepatitis B, Chronic",MESH:D019694,0,,1,HP
+haptoglobin-hemoglobin complex,GO:0031838,"Hepatitis C, Chronic",MESH:D019698,0,,1,HP
+heteromeric SMAD protein complex,GO:0071144,"Hepatitis, Chronic",MESH:D006521,0,,1,SMAD2
+HFE-transferrin receptor complex,GO:1990712,Hepatitis,MESH:D006505,0,,1,TF
+HFE-transferrin receptor complex,GO:1990712,Hepatitis C,MESH:D006526,0,,1,HFE
+histone locus body,GO:0035363,Hepatitis,MESH:D006505,0,,1,PARP1
+homomeric SMAD protein complex,GO:0071142,"Hepatitis, Chronic",MESH:D006521,0,,1,SMAD2
+host cell,GO:0043657,Hepatitis C,MESH:D006526,0,,1,CD209
+"IgA immunoglobulin complex, circulating",GO:0071746,"Hepatitis, Animal",MESH:D006520,1,deoxynivalenol,0,
+"IgG immunoglobulin complex, circulating",GO:0071736,Hepatitis,MESH:D006505,2,perfluorooctane sulfonic acid|perfluorooctanoic acid,0,
+"IgG immunoglobulin complex, circulating",GO:0071736,"Hepatitis, Animal",MESH:D006520,1,deoxynivalenol,0,
+immunological synapse,GO:0001772,Hepatitis,MESH:D006505,0,,1,GZMB
+immunological synapse,GO:0001772,Hepatitis C,MESH:D006526,0,,1,CD81
+inclusion body,GO:0016234,Hepatitis,MESH:D006505,0,,1,KEAP1
+integrin alphav-beta6 complex,GO:0034685,"Hepatitis C, Chronic",MESH:D019698,0,,1,ITGB6
+integrin complex,GO:0008305,"Hepatitis C, Chronic",MESH:D019698,0,,1,ITGB6
+interleukin-28 receptor complex,GO:0032002,Hepatitis B,MESH:D006509,0,,1,IL10RB
+interleukin-28 receptor complex,GO:0032002,Hepatitis C,MESH:D006526,0,,1,IFNL3
+interleukin-6 receptor complex,GO:0005896,"Hepatitis, Autoimmune",MESH:D019693,0,,1,IL6
+intermediate filament,GO:0005882,"Hepatitis, Chronic",MESH:D006521,0,,2,KRT19|KRT7
+intermediate filament cytoskeleton,GO:0045111,"Hepatitis, Chronic",MESH:D006521,0,,1,KRT7
+intracellular anatomical structure,GO:0005622,Hepatitis,MESH:D006505,0,,1,TNF
+intracellular anatomical structure,GO:0005622,"Hepatitis, Alcoholic",MESH:D006519,0,,1,TNF
+intracellular membrane-bounded organelle,GO:0043231,Hepatitis,MESH:D006505,0,,3,CAT|GZMB|SPARC
+intracellular membrane-bounded organelle,GO:0043231,"Hepatitis, Alcoholic",MESH:D006519,0,,1,STS
+intracellular membrane-bounded organelle,GO:0043231,"Hepatitis, Animal",MESH:D006520,0,,1,CYP4A14
+intracellular membrane-bounded organelle,GO:0043231,Hepatitis B,MESH:D006509,0,,1,CYP2A6
+intracellular membrane-bounded organelle,GO:0043231,"Hepatitis B, Chronic",MESH:D019694,0,,2,CCN2|HLA-DPA1
+intracellular membrane-bounded organelle,GO:0043231,Hepatitis C,MESH:D006526,0,,3,CYP2A6|CYP3A4|SCARB1
+intracellular membrane-bounded organelle,GO:0043231,"Hepatitis, Chronic",MESH:D006521,0,,2,CAT|SMAD2
+keratin filament,GO:0045095,"Hepatitis, Chronic",MESH:D006521,0,,1,KRT7
+lamellar body,GO:0042599,Hepatitis,MESH:D006505,1,Chloroquine,0,
+lamellipodium,GO:0030027,"Hepatitis, Chronic",MESH:D006521,0,,1,ACTA2
+laminin complex,GO:0043256,Hepatitis,MESH:D006505,1,Diazinon,0,
+late endosome,GO:0005770,Hepatitis,MESH:D006505,0,,3,ATP7B|F2R|TF
+late endosome,GO:0005770,"Hepatitis, Chronic",MESH:D006521,0,,1,ATP7A
+Lewy body,GO:0097413,"Hepatitis, Chronic",MESH:D006521,0,,1,GPX1
+lipid droplet,GO:0005811,Hepatitis,MESH:D006505,1,Dietary Fats,0,
+lipid droplet,GO:0005811,"Hepatitis, Animal",MESH:D006520,1,Dietary Fats,0,
+lumenal side of endoplasmic reticulum membrane,GO:0098553,"Hepatitis B, Chronic",MESH:D019694,0,,3,HLA-C|HLA-DPA1|HLA-DPB1
+lysosomal lumen,GO:0043202,Hepatitis,MESH:D006505,0,,1,FASLG
+lysosomal membrane,GO:0005765,"Hepatitis B, Chronic",MESH:D019694,0,,2,HLA-DPA1|HLA-DPB1
+lysosome,GO:0005764,Hepatitis,MESH:D006505,3,Acetaminophen|Acetylcysteine|Chloroquine,1,FASLG
+lysosome,GO:0005764,"Hepatitis, Alcoholic",MESH:D006519,0,,1,STS
+lysosome,GO:0005764,Hepatitis C,MESH:D006526,0,,3,SCARB1|TLR7|TLR8
+lysosome,GO:0005764,"Hepatitis, Chronic",MESH:D006521,0,,1,SOD1
+m-AAA complex,GO:0005745,Hepatitis,MESH:D006505,0,,1,PARP1
+major mitochondrial derivative,GO:0016008,Hepatitis,MESH:D006505,0,,1,CAT
+major mitochondrial derivative,GO:0016008,"Hepatitis, Chronic",MESH:D006521,0,,1,CAT
+melanosome membrane,GO:0033162,"Hepatitis, Chronic",MESH:D006521,0,,1,ATP7A
+membrane,GO:0016020,Hepatitis,MESH:D006505,0,,8,ATP7B|ENPP2|F2R|FASLG|HMOX1|PARP1|TF|TNF
+membrane,GO:0016020,"Hepatitis, Alcoholic",MESH:D006519,0,,2,STS|TNF
+membrane,GO:0016020,Hepatitis B,MESH:D006509,0,,7,CYP2A6|IFNA1|IFNAR2|IFNGR1|IL10RB|LOXL2|SLC10A1
+membrane,GO:0016020,Hepatitis C,MESH:D006526,0,,11,CCR5|CD209|CD81|CYP2A6|CYP3A4|HFE|LOXL2|OPRM1|SCARB1|TLR7|TLR8
+membrane,GO:0016020,"Hepatitis C, Chronic",MESH:D019698,0,,1,ITGB6
+membrane,GO:0016020,"Hepatitis, Chronic",MESH:D006521,0,,4,ATP7A|CP|MET|SMAD2
+membrane raft,GO:0045121,Hepatitis,MESH:D006505,0,,1,TNF
+membrane raft,GO:0045121,"Hepatitis, Alcoholic",MESH:D006519,0,,1,TNF
+methyltransferase complex,GO:0034708,Hepatitis,MESH:D006505,0,,1,GNMT
+methyltransferase complex,GO:0034708,"Hepatitis, Chronic",MESH:D006521,0,,1,GNMT
+MHC class II protein complex,GO:0042613,"Hepatitis B, Chronic",MESH:D019694,0,,2,HLA-DPA1|HLA-DPB1
+MHC class I protein complex,GO:0042612,"Hepatitis B, Chronic",MESH:D019694,0,,1,HLA-C
+microtubule organizing center,GO:0005815,"Hepatitis, Autoimmune",MESH:D019693,0,,1,ALDOB
+microvillus,GO:0005902,"Hepatitis, Autoimmune",MESH:D019693,0,,1,TGFB1
+microvillus,GO:0005902,"Hepatitis, Chronic",MESH:D006521,0,,2,ATP7A|TGFB1
+microvillus membrane,GO:0031528,Hepatitis C,MESH:D006526,0,,1,SCARB1
+midbody,GO:0030496,Hepatitis,MESH:D006505,0,,1,KEAP1
+mitochondria-associated endoplasmic reticulum membrane,GO:0044233,Hepatitis,MESH:D006505,1,perfluorooctane sulfonic acid,0,
+mitochondrial inner membrane,GO:0005743,Hepatitis C,MESH:D006526,0,,1,CYP2B1
+mitochondrial inner membrane,GO:0005743,"Hepatitis, Chronic",MESH:D006521,0,,1,STAT3
+mitochondrial intermembrane space,GO:0005758,"Hepatitis, Chronic",MESH:D006521,0,,3,CCS|COX17|SOD1
+mitochondrial matrix,GO:0005759,"Hepatitis, Chronic",MESH:D006521,0,,2,GPX1|SOD1
+mitochondrial membrane,GO:0031966,"Hepatitis, Animal",MESH:D006520,2,Linoleic Acid|Oleic Acid,0,
+mitochondrial membrane,GO:0031966,"Hepatitis, Autoimmune",MESH:D019693,1,Mercuric Chloride,0,
+mitochondrial membrane,GO:0031966,Hepatitis C,MESH:D006526,1,Linoleic Acid,0,
+mitochondrial outer membrane,GO:0005741,Hepatitis,MESH:D006505,0,,1,HMOX1
+mitochondrial permeability transition pore complex,GO:0005757,Hepatitis,MESH:D006505,2,Nifedipine|Thioacetamide,0,
+mitochondrial proton-transporting ATP synthase complex,GO:0005753,Hepatitis,MESH:D006505,1,Lipopolysaccharides,0,
+mitochondrial respiratory chain complex I,GO:0005747,Hepatitis,MESH:D006505,2,Lipopolysaccharides|Thioacetamide,0,
+mitochondrial respiratory chain complex III,GO:0005750,Hepatitis,MESH:D006505,1,Lipopolysaccharides,0,
+mitochondrial respiratory chain complex IV,GO:0005751,Hepatitis,MESH:D006505,1,Thioacetamide,0,
+mitochondrion,GO:0005739,Hepatitis,MESH:D006505,2,Copper|Ethanol,3,ATP7B|CAT|PARP1
+mitochondrion,GO:0005739,"Hepatitis, Alcoholic",MESH:D006519,1,Ethanol,0,
+mitochondrion,GO:0005739,"Hepatitis, Animal",MESH:D006520,1,Copper,0,
+mitochondrion,GO:0005739,Hepatitis C,MESH:D006526,0,,1,OPRM1
+mitochondrion,GO:0005739,"Hepatitis, Chronic",MESH:D006521,1,Copper,5,CAT|CCS|COX17|GPX1|SOD1
+motile cilium,GO:0031514,"Hepatitis, Chronic",MESH:D006521,0,,1,ACTA2
+myelin sheath,GO:0043209,Hepatitis,MESH:D006505,1,Thioacetamide,0,
+neuromuscular junction,GO:0031594,Hepatitis,MESH:D006505,0,,1,F2R
+neuronal cell body,GO:0043025,Hepatitis,MESH:D006505,0,,1,TNF
+neuronal cell body,GO:0043025,"Hepatitis, Alcoholic",MESH:D006519,0,,1,TNF
+neuronal cell body,GO:0043025,"Hepatitis, Autoimmune",MESH:D019693,0,,2,CCL2|TGFB1
+neuronal cell body,GO:0043025,"Hepatitis, Chronic",MESH:D006521,0,,5,ATP7A|CASP3|MET|SOD1|TGFB1
+neuron projection,GO:0043005,Hepatitis,MESH:D006505,3,Aspirin|Oxygen|Valproic Acid,0,
+neuron projection,GO:0043005,Hepatitis C,MESH:D006526,0,,1,OPRM1
+neuron projection,GO:0043005,"Hepatitis, Chronic",MESH:D006521,1,Aspirin,1,ATP7A
+neutrophil extracellular trap,GO:0140644,Hepatitis,MESH:D006505,1,Acetaminophen,0,
+NLRP3 inflammasome complex,GO:0072559,Hepatitis,MESH:D006505,2,Dimethylformamide|Lipopolysaccharides,0,
+nuclear body,GO:0016604,Hepatitis,MESH:D006505,0,,1,PARP1
+nuclear body,GO:0016604,Hepatitis B,MESH:D006509,0,,1,STAT4
+nuclear body,GO:0016604,"Hepatitis, Chronic",MESH:D006521,0,,1,MKI67
+nuclear envelope,GO:0005635,Hepatitis,MESH:D006505,0,,1,PARP1
+nuclear envelope,GO:0005635,"Hepatitis, Alcoholic",MESH:D006519,0,,1,STS
+nuclear matrix,GO:0016363,Hepatitis,MESH:D006505,0,,1,SPARC
+nuclear membrane,GO:0031965,"Hepatitis, Alcoholic",MESH:D006519,0,,1,SULT1E1
+nuclear replication fork,GO:0043596,Hepatitis,MESH:D006505,0,,1,PARP1
+nucleolus,GO:0005730,Hepatitis,MESH:D006505,0,,1,PARP1
+nucleolus,GO:0005730,"Hepatitis, Chronic",MESH:D006521,0,,1,MKI67
+nucleoplasm,GO:0005654,Hepatitis,MESH:D006505,0,,4,HMOX1|KEAP1|PARP1|SPARC
+nucleoplasm,GO:0005654,"Hepatitis, Animal",MESH:D006520,0,,1,UBD
+nucleoplasm,GO:0005654,Hepatitis B,MESH:D006509,0,,2,LOXL2|STAT4
+nucleoplasm,GO:0005654,"Hepatitis B, Chronic",MESH:D019694,0,,1,UBE2L3
+nucleoplasm,GO:0005654,Hepatitis C,MESH:D006526,0,,2,HFE|LOXL2
+nucleoplasm,GO:0005654,"Hepatitis C, Chronic",MESH:D019698,0,,1,ITGB6
+nucleoplasm,GO:0005654,"Hepatitis, Chronic",MESH:D006521,0,,6,CASP3|COMMD1|MKI67|SMAD2|SOD1|STAT3
+nucleus,GO:0005634,Hepatitis,MESH:D006505,0,,5,FASLG|GZMB|HMOX1|KEAP1|PARP1
+nucleus,GO:0005634,"Hepatitis, Animal",MESH:D006520,0,,1,UBD
+nucleus,GO:0005634,"Hepatitis, Autoimmune",MESH:D019693,0,,1,TGFB1
+nucleus,GO:0005634,Hepatitis B,MESH:D006509,0,,3,LOX|LOXL2|STAT4
+nucleus,GO:0005634,"Hepatitis B, Chronic",MESH:D019694,0,,1,UBE2L3
+nucleus,GO:0005634,Hepatitis C,MESH:D006526,0,,4,LOX|LOXL2|RIGI|SCARB1
+nucleus,GO:0005634,"Hepatitis, Chronic",MESH:D006521,0,,13,ACTA2|CASP3|CCS|COMMD1|CP|KRT19|MET|MKI67|MT1A|SMAD2|SOD1|STAT3|TGFB1
+perikaryon,GO:0043204,Hepatitis,MESH:D006505,0,,1,IFNG
+perikaryon,GO:0043204,"Hepatitis, Autoimmune",MESH:D019693,0,,2,CCL2|IFNG
+perikaryon,GO:0043204,Hepatitis B,MESH:D006509,0,,1,IFNG
+perikaryon,GO:0043204,Hepatitis C,MESH:D006526,0,,2,IFNG|OPRM1
+perikaryon,GO:0043204,"Hepatitis, Chronic",MESH:D006521,0,,1,ATP7A
+perinuclear region of cytoplasm,GO:0048471,Hepatitis,MESH:D006505,0,,4,ATP7B|FASLG|HMOX1|TF
+perinuclear region of cytoplasm,GO:0048471,"Hepatitis, Autoimmune",MESH:D019693,0,,2,ALDOB|CCL2
+perinuclear region of cytoplasm,GO:0048471,"Hepatitis B, Chronic",MESH:D019694,0,,1,CCN2
+perinuclear region of cytoplasm,GO:0048471,Hepatitis C,MESH:D006526,0,,1,HFE
+perinuclear region of cytoplasm,GO:0048471,"Hepatitis, Chronic",MESH:D006521,0,,1,ATP7A
+peroxisomal matrix,GO:0005782,Hepatitis,MESH:D006505,0,,1,CAT
+peroxisomal matrix,GO:0005782,"Hepatitis, Chronic",MESH:D006521,0,,1,CAT
+peroxisomal membrane,GO:0005778,Hepatitis,MESH:D006505,0,,1,CAT
+peroxisomal membrane,GO:0005778,"Hepatitis, Chronic",MESH:D006521,0,,1,CAT
+peroxisome,GO:0005777,Hepatitis,MESH:D006505,1,perfluorooctane sulfonic acid,1,CAT
+peroxisome,GO:0005777,"Hepatitis, Chronic",MESH:D006521,0,,3,CAT|CCS|SOD1
+phagocytic cup,GO:0001891,Hepatitis,MESH:D006505,0,,1,TNF
+phagocytic cup,GO:0001891,"Hepatitis, Alcoholic",MESH:D006519,0,,1,TNF
+phagocytic vesicle membrane,GO:0030670,"Hepatitis B, Chronic",MESH:D019694,0,,1,HLA-C
+phagocytic vesicle membrane,GO:0030670,"Hepatitis, Chronic",MESH:D006521,0,,1,ATP7A
+plasma membrane,GO:0005886,Hepatitis,MESH:D006505,0,,7,ATP7B|ENPP2|F2R|FASLG|SPARC|TF|TNF
+plasma membrane,GO:0005886,"Hepatitis, Alcoholic",MESH:D006519,0,,2,STS|TNF
+plasma membrane,GO:0005886,"Hepatitis, Animal",MESH:D006520,0,,1,LCN2
+plasma membrane,GO:0005886,"Hepatitis, Autoimmune",MESH:D019693,0,,1,TGFB1
+plasma membrane,GO:0005886,Hepatitis B,MESH:D006509,0,,4,IFNAR2|IFNGR1|IL10RB|SLC10A1
+plasma membrane,GO:0005886,"Hepatitis B, Chronic",MESH:D019694,0,,4,CCN2|HLA-C|HLA-DPA1|HLA-DPB1
+plasma membrane,GO:0005886,Hepatitis C,MESH:D006526,0,,9,CCR5|CD209|CD81|HFE|LPL|OPRM1|SCARB1|TLR7|TLR8
+plasma membrane,GO:0005886,"Hepatitis C, Chronic",MESH:D019698,0,,1,ITGB6
+plasma membrane,GO:0005886,"Hepatitis, Chronic",MESH:D006521,0,,7,ATP7A|CP|KRT19|MET|SOD1|STAT3|TGFB1
+platelet alpha granule,GO:0031091,Hepatitis,MESH:D006505,0,,1,SPARC
+platelet alpha granule lumen,GO:0031093,Hepatitis,MESH:D006505,0,,2,ALB|SPARC
+platelet alpha granule lumen,GO:0031093,"Hepatitis, Autoimmune",MESH:D019693,0,,1,TGFB1
+platelet alpha granule lumen,GO:0031093,"Hepatitis, Chronic",MESH:D006521,0,,2,HGF|TGFB1
+platelet alpha granule membrane,GO:0031092,Hepatitis,MESH:D006505,0,,1,SPARC
+platelet dense tubular network,GO:0031094,Hepatitis,MESH:D006505,0,,1,F2R
+polytene chromosome puff,GO:0005703,Hepatitis,MESH:D006505,0,,1,KEAP1
+postsynapse,GO:0098794,Hepatitis C,MESH:D006526,0,,1,C1QC
+postsynapse,GO:0098794,"Hepatitis, Chronic",MESH:D006521,0,,1,MET
+postsynaptic density,GO:0014069,Hepatitis B,MESH:D006509,0,,1,MIR99A
+postsynaptic density,GO:0014069,"Hepatitis, Chronic",MESH:D006521,0,,3,ATP7A|CASP3|STAT3
+postsynaptic membrane,GO:0045211,Hepatitis,MESH:D006505,0,,1,F2R
+postsynaptic membrane,GO:0045211,Hepatitis C,MESH:D006526,0,,1,OPRM1
+postsynaptic membrane,GO:0045211,"Hepatitis, Chronic",MESH:D006521,0,,1,MET
+presynapse,GO:0098793,Hepatitis,MESH:D006505,1,Methamphetamine,0,
+presynapse,GO:0098793,"Hepatitis B, Chronic",MESH:D019694,0,,1,UBE2L3
+presynapse,GO:0098793,Hepatitis C,MESH:D006526,0,,1,OPRM1
+presynaptic membrane,GO:0042734,Hepatitis C,MESH:D006526,0,,1,OPRM1
+protein-containing complex,GO:0032991,Hepatitis,MESH:D006505,0,,5,ALB|CAT|KEAP1|PARP1|TNF
+protein-containing complex,GO:0032991,"Hepatitis, Alcoholic",MESH:D006519,0,,1,TNF
+protein-containing complex,GO:0032991,"Hepatitis, Chronic",MESH:D006521,0,,5,ACTA2|CAT|SMAD2|SOD1|STAT3
+protein-DNA complex,GO:0032993,Hepatitis,MESH:D006505,0,,1,PARP1
+pseudopodium,GO:0031143,Hepatitis,MESH:D006505,1,Copper,0,
+pseudopodium,GO:0031143,"Hepatitis, Animal",MESH:D006520,1,Copper,0,
+pseudopodium,GO:0031143,"Hepatitis, Autoimmune",MESH:D019693,1,Mercuric Chloride,0,
+pseudopodium,GO:0031143,"Hepatitis, Chronic",MESH:D006521,1,Copper,0,
+receptor complex,GO:0043235,Hepatitis B,MESH:D006509,0,,1,IFNAR2
+receptor complex,GO:0043235,Hepatitis C,MESH:D006526,0,,1,TLR7
+receptor complex,GO:0043235,"Hepatitis C, Chronic",MESH:D019698,0,,1,ITGB6
+receptor complex,GO:0043235,"Hepatitis, Chronic",MESH:D006521,0,,1,MET
+recycling endosome,GO:0055037,Hepatitis,MESH:D006505,0,,2,TF|TNF
+recycling endosome,GO:0055037,"Hepatitis, Alcoholic",MESH:D006519,0,,1,TNF
+recycling endosome,GO:0055037,Hepatitis C,MESH:D006526,0,,1,HFE
+recycling endosome,GO:0055037,"Hepatitis, Chronic",MESH:D006521,0,,1,COMMD1
+recycling endosome membrane,GO:0055038,"Hepatitis B, Chronic",MESH:D019694,0,,1,HLA-C
+ribonucleoprotein complex,GO:1990904,Hepatitis C,MESH:D006526,0,,1,RIGI
+ribosome,GO:0005840,"Hepatitis, Chronic",MESH:D006521,0,,1,COMMD1
+ripoptosome,GO:0097342,Hepatitis,MESH:D006505,2,Ethanol|Metformin,0,
+ripoptosome,GO:0097342,"Hepatitis, Alcoholic",MESH:D006519,1,Ethanol,0,
+RISC complex,GO:0016442,Hepatitis B,MESH:D006509,0,,14,MIR100|MIR122|MIR125B2|MIR148A|MIR190A|MIR192|MIR194-2|MIR204|MIR28|MIR365A|MIR365B|MIR455|MIR99A|MIRLET7C
+RISC-loading complex,GO:0070578,Hepatitis B,MESH:D006509,0,,1,MIR28
+RNAi effector complex,GO:0031332,Hepatitis B,MESH:D006509,0,,1,MIR122
+RNA polymerase II transcription regulator complex,GO:0090575,Hepatitis B,MESH:D006509,0,,1,STAT4
+RNA polymerase II transcription regulator complex,GO:0090575,"Hepatitis, Chronic",MESH:D006521,0,,1,STAT3
+rough endoplasmic reticulum,GO:0005791,Hepatitis,MESH:D006505,1,Azithromycin,0,
+rough endoplasmic reticulum membrane,GO:0030867,"Hepatitis, Autoimmune",MESH:D019693,0,,1,ALDOB
+ruffle membrane,GO:0032587,Hepatitis C,MESH:D006526,0,,1,RIGI
+sarcolemma,GO:0042383,Hepatitis C,MESH:D006526,0,,1,OPRM1
+sarcolemma,GO:0042383,"Hepatitis, Chronic",MESH:D006521,0,,1,KRT19
+sarcoplasmic reticulum,GO:0016529,Hepatitis C,MESH:D006526,0,,1,OPRM1
+Schaffer collateral - CA1 synapse,GO:0098685,"Hepatitis, Chronic",MESH:D006521,0,,1,STAT3
+secretory granule,GO:0030141,Hepatitis,MESH:D006505,0,,1,TNF
+secretory granule,GO:0030141,"Hepatitis, Alcoholic",MESH:D006519,0,,1,TNF
+secretory granule,GO:0030141,"Hepatitis, Animal",MESH:D006520,0,,1,TFF3
+secretory granule,GO:0030141,"Hepatitis, Autoimmune",MESH:D019693,0,,1,TGFB1
+secretory granule,GO:0030141,"Hepatitis, Chronic",MESH:D006521,0,,3,ATP7A|SOD1|TGFB1
+secretory granule lumen,GO:0034774,Hepatitis,MESH:D006505,0,,3,CAT|INS|TF
+secretory granule lumen,GO:0034774,"Hepatitis, Chronic",MESH:D006521,0,,1,CAT
+secretory granule membrane,GO:0030667,"Hepatitis B, Chronic",MESH:D019694,0,,1,HLA-C
+semaphorin receptor complex,GO:0002116,"Hepatitis, Chronic",MESH:D006521,0,,1,MET
+site of DNA damage,GO:0090734,Hepatitis,MESH:D006505,0,,1,PARP1
+site of double-strand break,GO:0035861,Hepatitis,MESH:D006505,1,Etoposide,1,PARP1
+site of double-strand break,GO:0035861,"Hepatitis B, Chronic",MESH:D019694,1,Cyclosporine,0,
+site of double-strand break,GO:0035861,Hepatitis C,MESH:D006526,1,Cyclosporine,0,
+SMAD protein complex,GO:0071141,"Hepatitis, Chronic",MESH:D006521,0,,1,SMAD2
+smooth endoplasmic reticulum membrane,GO:0030868,"Hepatitis, Autoimmune",MESH:D019693,0,,1,ALDOB
+smooth muscle contractile fiber,GO:0030485,"Hepatitis, Chronic",MESH:D006521,0,,1,ACTA2
+specific granule lumen,GO:0035580,"Hepatitis, Animal",MESH:D006520,0,,1,LCN2
+specific granule lumen,GO:0035580,"Hepatitis, Autoimmune",MESH:D019693,0,,1,CXCL1
+specific granule lumen,GO:0035580,Hepatitis B,MESH:D006509,0,,1,HP
+specific granule lumen,GO:0035580,"Hepatitis B, Chronic",MESH:D019694,0,,1,HP
+specific granule lumen,GO:0035580,"Hepatitis C, Chronic",MESH:D019698,0,,1,HP
+sperm flagellum,GO:0036126,"Hepatitis, Autoimmune",MESH:D019693,1,rhoifolin,0,
+sperm flagellum,GO:0036126,"Hepatitis, Chronic",MESH:D006521,0,,1,MET
+sperm head,GO:0061827,"Hepatitis, Autoimmune",MESH:D019693,1,rhoifolin,0,
+sperm midpiece,GO:0097225,"Hepatitis, Autoimmune",MESH:D019693,1,rhoifolin,0,
+spherical high-density lipoprotein particle,GO:0034366,Hepatitis B,MESH:D006509,0,,1,HP
+spherical high-density lipoprotein particle,GO:0034366,"Hepatitis B, Chronic",MESH:D019694,0,,1,HP
+spherical high-density lipoprotein particle,GO:0034366,"Hepatitis C, Chronic",MESH:D019698,0,,1,HP
+spine apparatus,GO:0097444,Hepatitis C,MESH:D006526,0,,1,OPRM1
+stress fiber,GO:0001725,"Hepatitis, Chronic",MESH:D006521,0,,1,ACTA2
+synapse,GO:0045202,Hepatitis,MESH:D006505,0,,2,F2R|SPARC
+synapse,GO:0045202,Hepatitis B,MESH:D006509,0,,1,MIR100
+synapse,GO:0045202,Hepatitis C,MESH:D006526,0,,2,C1QC|OPRM1
+synaptonemal complex,GO:0000795,"Hepatitis, Chronic",MESH:D006521,0,,1,KRT7
+terminal web,GO:1990357,Hepatitis C,MESH:D006526,0,,1,HFE
+terminal web,GO:1990357,"Hepatitis, Chronic",MESH:D006521,0,,1,KRT19
+tertiary granule lumen,GO:1904724,"Hepatitis, Autoimmune",MESH:D019693,0,,1,CXCL1
+tertiary granule lumen,GO:1904724,Hepatitis B,MESH:D006509,0,,1,HP
+tertiary granule lumen,GO:1904724,"Hepatitis B, Chronic",MESH:D019694,0,,1,HP
+tertiary granule lumen,GO:1904724,"Hepatitis C, Chronic",MESH:D019698,0,,1,HP
+tetraspanin-enriched microdomain,GO:0097197,Hepatitis C,MESH:D006526,0,,1,CD81
+tight junction,GO:0070160,Hepatitis,MESH:D006505,0,,1,ATP7B
+transcription factor AP-1 complex,GO:0035976,Hepatitis,MESH:D006505,1,pirarubicin,0,
+transcription factor AP-1 complex,GO:0035976,Hepatitis C,MESH:D006526,1,platycodin D,0,
+transcription regulator complex,GO:0005667,Hepatitis,MESH:D006505,0,,1,PARP1
+transcription regulator complex,GO:0005667,"Hepatitis, Chronic",MESH:D006521,0,,3,MET|SMAD2|STAT3
+trans-Golgi network,GO:0005802,Hepatitis,MESH:D006505,0,,1,ATP7B
+trans-Golgi network,GO:0005802,"Hepatitis, Chronic",MESH:D006521,0,,1,ATP7A
+trans-Golgi network membrane,GO:0032588,Hepatitis,MESH:D006505,0,,1,ATP7B
+trans-Golgi network membrane,GO:0032588,"Hepatitis B, Chronic",MESH:D019694,0,,2,HLA-DPA1|HLA-DPB1
+trans-Golgi network membrane,GO:0032588,"Hepatitis, Chronic",MESH:D006521,0,,1,ATP7A
+trans-Golgi network transport vesicle,GO:0030140,"Hepatitis, Chronic",MESH:D006521,0,,1,ATP7A
+transport vesicle,GO:0030133,Hepatitis,MESH:D006505,0,,1,INS
+transport vesicle membrane,GO:0030658,"Hepatitis B, Chronic",MESH:D019694,0,,2,HLA-DPA1|HLA-DPB1
+T-tubule,GO:0030315,Hepatitis C,MESH:D006526,0,,1,OPRM1
+ubiquitin ligase complex,GO:0000151,"Hepatitis B, Chronic",MESH:D019694,0,,1,UBE2L3
+very-low-density lipoprotein particle,GO:0034361,Hepatitis,MESH:D006505,2,Choline|Methionine,0,
+very-low-density lipoprotein particle,GO:0034361,"Hepatitis, Animal",MESH:D006520,2,Choline|Methionine,0,
+very-low-density lipoprotein particle,GO:0034361,Hepatitis C,MESH:D006526,0,,1,LPL
+vesicle,GO:0031982,Hepatitis,MESH:D006505,0,,2,SPARC|TF
+vesicle,GO:0031982,Hepatitis B,MESH:D006509,0,,1,IFNGR1
+vesicle,GO:0031982,Hepatitis C,MESH:D006526,0,,1,CD81
+vesicle coat,GO:0030120,Hepatitis,MESH:D006505,0,,1,TF
+viral capsid,GO:0019028,Hepatitis,MESH:D006505,0,,1,SPARC
+virion component,GO:0044423,Hepatitis,MESH:D006505,1,Chloroquine,0,
+Z disc,GO:0030018,"Hepatitis, Chronic",MESH:D006521,0,,1,KRT19
+zymogen granule,GO:0042588,"Hepatitis, Autoimmune",MESH:D019693,1,Plant Preparations,0,

@@ -1,0 +1,754 @@
+GOName,GOID,DiseaseName,DiseaseID,InferenceChemicalQty,InferenceChemicalNames,InferenceGeneQty,InferenceGeneSymbols
+14-3-3 protein binding,GO:0071889,Alzheimer Disease,MESH:D000544,0,,1,ESR1
+1-phosphatidylinositol binding,GO:0005545,Alzheimer Disease,MESH:D000544,0,,1,PICALM
+"3',5'-cyclic-AMP phosphodiesterase activity",GO:0004115,Alzheimer Disease,MESH:D000544,1,Curcumin,0,
+3-beta-hydroxy-delta5-steroid dehydrogenase activity,GO:0003854,Alzheimer Disease,MESH:D000544,2,Curcumin|Indomethacin,0,
+3-hydroxybutyrate dehydrogenase activity,GO:0003858,Alzheimer Disease,MESH:D000544,1,Copper Sulfate,0,
+3-phosphoinositide-dependent protein kinase activity,GO:0004676,Alzheimer Disease,MESH:D000544,0,,1,GSK3B
+3-phosphoinositide-dependent protein kinase binding,GO:0043423,Alzheimer Disease,MESH:D000544,0,,2,INSR|PTK2B
+5'-nucleotidase activity,GO:0008253,Alzheimer Disease,MESH:D000544,1,Streptozocin,0,
+ABC-type transporter activity,GO:0140359,Alzheimer Disease,MESH:D000544,0,,1,ABCA7
+ABC-type transporter activity,GO:0140359,Alzheimer Disease 9,MESH:C563834,0,,1,ABCA7
+ABC-type xenobiotic transporter activity,GO:0008559,Alzheimer Disease,MESH:D000544,1,Dronabinol,0,
+acetylcholine binding,GO:0042166,Alzheimer Disease,MESH:D000544,0,,3,ACHE|CHRNA7|CHRNB2
+acetylcholine-gated monoatomic cation-selective channel activity,GO:0022848,Alzheimer Disease,MESH:D000544,2,Dronabinol|Nicotine,2,CHRNA7|CHRNB2
+acetylcholine receptor activator activity,GO:0030549,Alzheimer Disease,MESH:D000544,0,,1,APP
+acetylcholine receptor activity,GO:0015464,Alzheimer Disease,MESH:D000544,0,,2,CHRNA7|CHRNB2
+acetylcholine receptor binding,GO:0033130,Alzheimer Disease,MESH:D000544,0,,1,APP
+acetylcholinesterase activity,GO:0003990,Alzheimer Disease,MESH:D000544,13,"Acetylcholine|Aluminum|Aluminum Chloride|Dronabinol|Ellagic Acid|Melatonin|Metals, Heavy|Particulate Matter|Plant Extracts|Reserpine|Rivastigmine|Scopolamine|Sodium Fluoride",3,ACE|ACHE|BCHE
+acetyl-CoA carboxylase activity,GO:0003989,Alzheimer Disease,MESH:D000544,2,Glucose|Resveratrol,0,
+acid phosphatase activity,GO:0003993,Alzheimer Disease,MESH:D000544,10,Cadmium|Copper Sulfate|cupric chloride|Curcumin|Fluorides|Folic Acid|Iron|Plant Extracts|Resveratrol|Streptozocin,0,
+aconitate hydratase activity,GO:0003994,Alzheimer Disease,MESH:D000544,3,Hydrogen Peroxide|Streptozocin|Zinc,0,
+actin binding,GO:0003779,Alzheimer Disease,MESH:D000544,0,,8,ABCA7|ACE|ARC|CD2AP|MAPT|NCK2|NOS3|SLC30A6
+actin binding,GO:0003779,Alzheimer Disease 9,MESH:C563834,0,,1,ABCA7
+actin filament binding,GO:0051015,Alzheimer Disease,MESH:D000544,0,,3,ABI3|BIN1|CD2AP
+actin monomer binding,GO:0003785,Alzheimer Disease,MESH:D000544,0,,1,NOS3
+active monoatomic ion transmembrane transporter activity,GO:0022853,Alzheimer Disease,MESH:D000544,1,Nicotine,0,
+adenosine deaminase activity,GO:0004000,Alzheimer Disease,MESH:D000544,1,Zinc,0,
+adenylate cyclase activator activity,GO:0010856,Alzheimer Disease,MESH:D000544,0,,1,CALM1
+adenylate cyclase activity,GO:0004016,Alzheimer Disease,MESH:D000544,1,Dronabinol,0,
+adenylate cyclase binding,GO:0008179,Alzheimer Disease,MESH:D000544,0,,2,CALM1|CHRNA7
+adenylate kinase activity,GO:0004017,Alzheimer Disease,MESH:D000544,1,Berberine,0,
+ADP binding,GO:0043531,Alzheimer Disease,MESH:D000544,0,,1,ATP5F1A
+adrenergic receptor activity,GO:0004935,Alzheimer Disease,MESH:D000544,1,Nicotine,0,
+alcohol dehydrogenase (NAD+) activity,GO:0004022,Alzheimer Disease,MESH:D000544,1,Curcumin,0,
+aldehyde dehydrogenase [NAD(P)+] activity,GO:0004030,Alzheimer Disease,MESH:D000544,1,Plant Extracts,0,
+alditol:NADP+ 1-oxidoreductase activity,GO:0004032,Alzheimer Disease,MESH:D000544,3,Berberine|Galactose|Streptozocin,0,
+alkaline phosphatase activity,GO:0004035,Alzheimer Disease,MESH:D000544,24,"Aluminum Chloride|Amphotericin B|Cadmium|Cannabidiol|Colchicine|Curcumin|Ellagic Acid|Fluorides|Folic Acid|Glucose|Homocysteine|Hydrogen Peroxide|Nanotubes, Carbon|Niacin|Nicotine|Paroxetine|Plant Extracts|Raloxifene Hydrochloride|Resveratrol|Rosiglitazone|Sodium Fluoride|Streptozocin|Tadalafil|Zinc",0,
+alpha-actinin binding,GO:0051393,Alzheimer Disease,MESH:D000544,0,,1,PPARG
+alpha-amylase activity,GO:0004556,Alzheimer Disease,MESH:D000544,3,Berberine|Curcumin|Resveratrol,0,
+alpha-glucosidase activity,GO:0090599,Alzheimer Disease,MESH:D000544,1,Berberine,0,
+alpha-mannosidase activity,GO:0004559,Alzheimer Disease,MESH:D000544,1,Plant Preparations,0,
+aminopeptidase activity,GO:0004177,Alzheimer Disease,MESH:D000544,5,Dichlorodiphenyl Dichloroethylene|Glucose|Hydrogen Peroxide|Streptozocin|Zinc,0,
+AMP-activated protein kinase activity,GO:0004679,Alzheimer Disease,MESH:D000544,9,5-Methoxypsoralen|Berberine|Folic Acid|Glucose|Hydrogen Peroxide|Nicotine|Resveratrol|Streptozocin|Tadalafil,1,GSK3B
+AMP deaminase activity,GO:0003876,Alzheimer Disease,MESH:D000544,1,cupric chloride,0,
+amylase activity,GO:0016160,Alzheimer Disease,MESH:D000544,3,"Cadmium|Heparin, Low-Molecular-Weight|Streptozocin",0,
+amylin binding,GO:0097645,Alzheimer Disease,MESH:D000544,0,,1,APP
+amyloid-beta binding,GO:0001540,Alzheimer Disease,MESH:D000544,0,,13,ACHE|APOE|BACE1|BCHE|CHRNA7|CLU|CST3|IDE|INSR|PGRMC1|PICALM|PRNP|TREM2
+amyloid-beta binding,GO:0001540,"Alzheimer Disease, Familial, 3, with Spastic Paraparesis and Apraxia",MESH:C564330,0,,1,APOE
+amyloid-beta binding,GO:0001540,Alzheimer disease type 2,MESH:C536595,0,,1,APOE
+amyloid-beta binding,GO:0001540,Alzheimer disease type 4,MESH:C536596,0,,1,APOE
+"anandamide 11,12 epoxidase activity",GO:0062188,Alzheimer Disease,MESH:D000544,0,,1,CYP2D6
+"anandamide 14,15 epoxidase activity",GO:0062189,Alzheimer Disease,MESH:D000544,0,,1,CYP2D6
+"anandamide 8,9 epoxidase activity",GO:0062187,Alzheimer Disease,MESH:D000544,0,,1,CYP2D6
+angiostatin binding,GO:0043532,Alzheimer Disease,MESH:D000544,0,,1,ATP5F1A
+antioxidant activity,GO:0016209,Alzheimer Disease,MESH:D000544,5,Cannabidiol|Colchicine|Curcumin|Melatonin|Particulate Matter,2,APOE|SOD2
+antioxidant activity,GO:0016209,"Alzheimer Disease, Familial, 3, with Spastic Paraparesis and Apraxia",MESH:C564330,0,,1,APOE
+antioxidant activity,GO:0016209,Alzheimer disease type 2,MESH:C536595,0,,1,APOE
+antioxidant activity,GO:0016209,Alzheimer disease type 4,MESH:C536596,0,,1,APOE
+antiporter activity,GO:0015297,Alzheimer Disease,MESH:D000544,0,,1,SLC30A4
+apolipoprotein A-I binding,GO:0034186,Alzheimer Disease,MESH:D000544,0,,1,TREM2
+apolipoprotein A-I receptor activity,GO:0034188,Alzheimer Disease,MESH:D000544,0,,1,ABCA7
+apolipoprotein A-I receptor activity,GO:0034188,Alzheimer Disease 9,MESH:C563834,0,,1,ABCA7
+apolipoprotein binding,GO:0034185,Alzheimer Disease,MESH:D000544,0,,3,APP|MAPT|TREM2
+arachidonic acid binding,GO:0050544,Alzheimer Disease,MESH:D000544,0,,1,PPARG
+arachidonic acid omega-hydroxylase activity,GO:0052869,Alzheimer Disease,MESH:D000544,0,,1,HMOX1
+arginase activity,GO:0004053,Alzheimer Disease,MESH:D000544,3,Haloperidol|Streptozocin|Zinc,0,
+arginine binding,GO:0034618,Alzheimer Disease,MESH:D000544,0,,1,NOS3
+arylesterase activity,GO:0004064,Alzheimer Disease,MESH:D000544,1,Copper Sulfate,0,
+"aspartic endopeptidase activity, intramembrane cleaving",GO:0042500,Alzheimer Disease,MESH:D000544,0,,3,NCSTN|PSEN1|PSEN2
+"aspartic endopeptidase activity, intramembrane cleaving",GO:0042500,"Alzheimer Disease, Familial, 3, with Spastic Paraparesis and Apraxia",MESH:C564330,0,,1,PSEN1
+"aspartic endopeptidase activity, intramembrane cleaving",GO:0042500,Alzheimer disease type 4,MESH:C536596,0,,1,PSEN2
+aspartic-type endopeptidase activity,GO:0004190,Alzheimer Disease,MESH:D000544,0,,5,ARC|BACE1|CASP3|PSEN1|PSEN2
+aspartic-type endopeptidase activity,GO:0004190,"Alzheimer Disease, Familial, 3, with Spastic Paraparesis and Apraxia",MESH:C564330,0,,1,PSEN1
+aspartic-type endopeptidase activity,GO:0004190,Alzheimer disease type 4,MESH:C536596,0,,1,PSEN2
+aspartic-type endopeptidase activity involved in amyloid precursor protein catabolic process,GO:1902944,Alzheimer Disease,MESH:D000544,1,Nicotine,0,
+aspartic-type endopeptidase inhibitor activity,GO:0019828,Alzheimer Disease,MESH:D000544,0,,2,BIN1|PRNP
+ATP-activated inward rectifier potassium channel activity,GO:0015272,Alzheimer Disease,MESH:D000544,1,Zinc,0,
+ATPase binding,GO:0051117,Alzheimer Disease,MESH:D000544,0,,4,CHRNA7|ESR1|NCSTN|PSEN1
+ATPase binding,GO:0051117,"Alzheimer Disease, Familial, 3, with Spastic Paraparesis and Apraxia",MESH:C564330,0,,1,PSEN1
+ATPase-coupled monoatomic cation transmembrane transporter activity,GO:0019829,Alzheimer Disease,MESH:D000544,0,,1,ATP7
+ATP binding,GO:0005524,Alzheimer Disease,MESH:D000544,0,,11,ABCA7|ATP5F1A|ATP7|CTR1B|EPHA1|GSK3B|IDE|IGF1R|INSR|NECTIN2|PTK2B
+ATP binding,GO:0005524,Alzheimer Disease 9,MESH:C563834,0,,1,ABCA7
+ATP-dependent activity,GO:0140657,Alzheimer Disease,MESH:D000544,5,Galactose|Haloperidol|Iron|Sodium Fluoride|Streptozocin,0,
+ATP-dependent protein binding,GO:0043008,Alzheimer Disease,MESH:D000544,0,,1,PRNP
+ATP hydrolysis activity,GO:0016887,Alzheimer Disease,MESH:D000544,8,Cadmium|Deferoxamine|Glucose|Hydrogen Peroxide|Particulate Matter|Plant Extracts|Resveratrol|Streptozocin,4,ABCA7|ATP5F1A|ATP7|IDE
+ATP hydrolysis activity,GO:0016887,Alzheimer Disease 9,MESH:C563834,0,,1,ABCA7
+A-type (transient outward) potassium channel activity,GO:0005250,Alzheimer Disease,MESH:D000544,1,Serotonin,0,
+BAT3 complex binding,GO:1904288,Alzheimer Disease,MESH:D000544,0,,1,AMFR
+beta-2-microglobulin binding,GO:0030881,Alzheimer Disease,MESH:D000544,0,,1,HFE
+beta-aspartyl-peptidase activity,GO:0008798,Alzheimer Disease,MESH:D000544,0,,1,BACE1
+beta-catenin binding,GO:0008013,Alzheimer Disease,MESH:D000544,0,,6,CD2AP|ESR1|GSK3B|NOS3|PSEN1|TREM2
+beta-catenin binding,GO:0008013,"Alzheimer Disease, Familial, 3, with Spastic Paraparesis and Apraxia",MESH:C564330,0,,1,PSEN1
+beta-endorphin binding,GO:0031626,Alzheimer Disease,MESH:D000544,0,,1,IDE
+beta-galactosidase activity,GO:0004565,Alzheimer Disease,MESH:D000544,7,Air Pollutants|Aluminum Chloride|Cannabidiol|Dronabinol|Galactose|Particulate Matter|Resveratrol,0,
+BH3 domain binding,GO:0051434,Alzheimer Disease,MESH:D000544,0,,2,BAX|BCL2
+BH domain binding,GO:0051400,Alzheimer Disease,MESH:D000544,0,,2,BAX|BCL2
+boss receptor activity,GO:0008288,Alzheimer Disease,MESH:D000544,0,,3,EPHA1|IGF1R|INSR
+bradykinin receptor binding,GO:0031711,Alzheimer Disease,MESH:D000544,0,,1,ACE
+brain-derived neurotrophic factor binding,GO:0048403,Alzheimer Disease,MESH:D000544,0,,1,A2M
+brain-derived neurotrophic factor receptor activity,GO:0060175,Alzheimer Disease,MESH:D000544,0,,3,EPHA1|IGF1R|INSR
+cadherin binding,GO:0045296,Alzheimer Disease,MESH:D000544,0,,4,CD2AP|NOS3|PCDH11X|PSEN1
+cadherin binding,GO:0045296,"Alzheimer Disease, Familial, 3, with Spastic Paraparesis and Apraxia",MESH:C564330,0,,1,PSEN1
+cadmium ion binding,GO:0046870,Alzheimer Disease,MESH:D000544,0,,1,NOS3
+calcium channel activity,GO:0005262,Alzheimer Disease,MESH:D000544,4,Cannabidiol|Dronabinol|Raloxifene Hydrochloride|Zinc,2,CHRNA7|PSEN1
+calcium channel activity,GO:0005262,"Alzheimer Disease, Familial, 3, with Spastic Paraparesis and Apraxia",MESH:C564330,0,,1,PSEN1
+calcium channel inhibitor activity,GO:0019855,Alzheimer Disease,MESH:D000544,0,,1,CALM1
+calcium channel regulator activity,GO:0005246,Alzheimer Disease,MESH:D000544,0,,2,CALM1|NPY
+calcium-dependent ATPase activity,GO:0030899,Alzheimer Disease,MESH:D000544,2,Berberine|Cadmium,0,
+calcium-dependent cysteine-type endopeptidase activity,GO:0004198,Alzheimer Disease,MESH:D000544,1,Glucose,0,
+calcium-dependent protein binding,GO:0048306,Alzheimer Disease,MESH:D000544,0,,2,A2M|CALM1
+calcium ion binding,GO:0005509,Alzheimer Disease,MESH:D000544,0,,9,ARC|BCHE|CALM1|F2|NCSTN|PCDH11X|PLAU|TPP1|VSNL1
+calmodulin binding,GO:0005516,Alzheimer Disease,MESH:D000544,0,,3,ACE|ESR1|NOS3
+calmodulin-dependent protein kinase activity,GO:0004683,Alzheimer Disease,MESH:D000544,0,,1,PTK2B
+cAMP-dependent protein kinase activity,GO:0004691,Alzheimer Disease,MESH:D000544,1,Glucose,0,
+carbohydrate binding,GO:0030246,Alzheimer Disease,MESH:D000544,0,,1,CD33
+carbonate dehydratase activity,GO:0004089,Alzheimer Disease,MESH:D000544,2,Copper|Streptozocin,0,
+carboxylic ester hydrolase activity,GO:0052689,Alzheimer Disease,MESH:D000544,0,,2,ACHE|BCHE
+carboxypeptidase activity,GO:0004180,Alzheimer Disease,MESH:D000544,0,,1,ACE
+cargo receptor activity,GO:0038024,Alzheimer Disease,MESH:D000544,0,,1,INSR
+carnitine O-palmitoyltransferase activity,GO:0004095,Alzheimer Disease,MESH:D000544,3,Copper|Copper Sulfate|Resveratrol,0,
+catalase activity,GO:0004096,Alzheimer Disease,MESH:D000544,1,Copper Sulfate,0,
+catalytic activity,GO:0003824,Alzheimer Disease,MESH:D000544,0,,3,BCHE|INPP5D|WWOX
+CD40 receptor binding,GO:0005174,Alzheimer Disease,MESH:D000544,0,,1,TNF
+cell adhesion molecule binding,GO:0050839,Alzheimer Disease,MESH:D000544,0,,1,NECTIN2
+channel activity,GO:0015267,Alzheimer Disease,MESH:D000544,4,Cadmium|Copper|Glucose|Zinc,2,BAX|BCL2
+channel inhibitor activity,GO:0016248,Alzheimer Disease,MESH:D000544,0,,1,BCL2
+chaperone binding,GO:0051087,Alzheimer Disease,MESH:D000544,0,,7,AMFR|APP|BAX|BIN1|CLU|MAPT|PRNP
+chemoattractant activity,GO:0042056,Alzheimer Disease,MESH:D000544,0,,2,APP|VEGFA
+chloride channel regulator activity,GO:0017081,Alzheimer Disease,MESH:D000544,0,,1,CHRNA7
+chloride ion binding,GO:0031404,Alzheimer Disease,MESH:D000544,0,,1,ACE
+cholesterol 24-hydroxylase activity,GO:0033781,Alzheimer Disease,MESH:D000544,0,,1,CYP46A1
+cholesterol transfer activity,GO:0120020,Alzheimer Disease,MESH:D000544,0,,1,APOE
+cholesterol transfer activity,GO:0120020,"Alzheimer Disease, Familial, 3, with Spastic Paraparesis and Apraxia",MESH:C564330,0,,1,APOE
+cholesterol transfer activity,GO:0120020,Alzheimer disease type 2,MESH:C536595,0,,1,APOE
+cholesterol transfer activity,GO:0120020,Alzheimer disease type 4,MESH:C536596,0,,1,APOE
+choline binding,GO:0033265,Alzheimer Disease,MESH:D000544,0,,2,ACHE|BCHE
+cholinesterase activity,GO:0004104,Alzheimer Disease,MESH:D000544,3,Ginkgo biloba extract|Physostigmine|Tacrine,3,ACE|ACHE|BCHE
+cholinesterase activity,GO:0004104,Alzheimer disease type 2,MESH:C536595,1,Manganese,0,
+chromatin binding,GO:0003682,Alzheimer Disease,MESH:D000544,0,,5,APP|ESR1|MPO|PPARG|TFAM
+citrate synthase activity,GO:0036440,Alzheimer Disease,MESH:D000544,3,Galactose|Glucose|Streptozocin,0,
+clathrin binding,GO:0030276,Alzheimer Disease,MESH:D000544,0,,3,BIN1|CD2AP|PICALM
+clathrin heavy chain binding,GO:0032050,Alzheimer Disease,MESH:D000544,0,,1,PICALM
+collagen binding,GO:0005518,Alzheimer Disease,MESH:D000544,0,,1,ACHE
+collagen binding involved in cell-matrix adhesion,GO:0098639,Alzheimer Disease,MESH:D000544,1,Resveratrol,0,
+complement component C3b binding,GO:0001851,Alzheimer Disease,MESH:D000544,0,,1,CR1
+complement component C3b receptor activity,GO:0004877,Alzheimer Disease,MESH:D000544,0,,1,CR1
+complement component C4b binding,GO:0001855,Alzheimer Disease,MESH:D000544,0,,1,CR1
+complement component C4b receptor activity,GO:0001861,Alzheimer Disease,MESH:D000544,0,,1,CR1
+copper ion binding,GO:0005507,Alzheimer Disease,MESH:D000544,0,,2,ATP7|PRNP
+copper ion transmembrane transporter activity,GO:0005375,Alzheimer Disease,MESH:D000544,0,,3,ATP7|CTR1B|CTR1C
+coreceptor activity,GO:0015026,Alzheimer Disease,MESH:D000544,0,,1,NECTIN2
+co-receptor binding,GO:0039706,Alzheimer Disease,MESH:D000544,0,,1,HFE
+corticotropin-releasing hormone activity,GO:0017045,Alzheimer Disease,MESH:D000544,0,,1,CRH
+corticotropin-releasing hormone receptor 1 binding,GO:0051430,Alzheimer Disease,MESH:D000544,0,,1,CRH
+corticotropin-releasing hormone receptor 2 binding,GO:0051431,Alzheimer Disease,MESH:D000544,0,,1,CRH
+creatine kinase activity,GO:0004111,Alzheimer Disease,MESH:D000544,6,"Cadmium|Cholesterol, Dietary|Copper Sulfate|Ellagic Acid|Resveratrol|Streptozocin",0,
+cupric ion binding,GO:1903135,Alzheimer Disease,MESH:D000544,0,,1,PRNP
+cuprous ion binding,GO:1903136,Alzheimer Disease,MESH:D000544,0,,1,PRNP
+cyclin-dependent protein serine/threonine kinase inhibitor activity,GO:0004861,Alzheimer Disease,MESH:D000544,0,,1,CASP3
+cysteine-type endopeptidase activity,GO:0004197,Alzheimer Disease,MESH:D000544,10,"Acrolein|Cadmium|Cannabidiol|Celecoxib|Dronabinol|Glucose|Hydrogen Peroxide|Nanotubes, Carbon|Particulate Matter|Raloxifene Hydrochloride",1,CASP3
+cysteine-type endopeptidase activity involved in apoptotic process,GO:0097153,Alzheimer Disease,MESH:D000544,4,Cannabidiol|Folic Acid|Glucose|Homocysteine,0,
+cysteine-type endopeptidase inhibitor activity,GO:0004869,Alzheimer Disease,MESH:D000544,0,,1,CST3
+cysteine-type peptidase activity,GO:0008234,Alzheimer Disease,MESH:D000544,1,Dichlorodiphenyl Dichloroethylene,1,CASP3
+"cytochrome-b5 reductase activity, acting on NADH",GO:0090524,Alzheimer Disease,MESH:D000544,1,cupric chloride,0,
+cytochrome-c oxidase activity,GO:0004129,Alzheimer Disease,MESH:D000544,22,2-butenal|Acrolein|Air Pollutants|Berberine|Cadmium|Cannabidiol|Celecoxib|Copper|Copper Sulfate|Curcumin|Deferoxamine|Dronabinol|Ellagic Acid|Glucose|Hydrogen Peroxide|Iron|Nitrites|Ozone|Particulate Matter|Resveratrol|Streptozocin|Zinc,0,
+cytokine activity,GO:0005125,Alzheimer Disease,MESH:D000544,0,,4,IL1B|LEP|TNF|VEGFA
+cytoskeletal anchor activity,GO:0008093,Alzheimer Disease,MESH:D000544,0,,1,NCK2
+D-alanine:2-oxoglutarate aminotransferase activity,GO:0047810,Alzheimer Disease,MESH:D000544,1,Curcumin,0,
+death receptor agonist activity,GO:0038177,Alzheimer Disease,MESH:D000544,0,,1,TNF
+death receptor binding,GO:0005123,Alzheimer Disease,MESH:D000544,0,,1,CASP3
+delta24(24-1) sterol reductase activity,GO:0000246,Alzheimer Disease,MESH:D000544,0,,1,DHCR24
+delta24-sterol reductase activity,GO:0050614,Alzheimer Disease,MESH:D000544,0,,1,DHCR24
+D-glucose transmembrane transporter activity,GO:0055056,Alzheimer Disease,MESH:D000544,0,,1,SLC2A4
+D-glutamyltransferase activity,GO:0047823,Alzheimer Disease,MESH:D000544,6,Air Pollutants|Folic Acid|Hydrogen Peroxide|Particulate Matter|Streptozocin|Zinc,0,
+dimethylargininase activity,GO:0016403,Alzheimer Disease,MESH:D000544,2,Folic Acid|Homocysteine,0,
+D-lactate dehydrogenase activity,GO:0008720,Alzheimer Disease,MESH:D000544,1,cupric chloride,0,
+DNA binding,GO:0003677,Alzheimer Disease,MESH:D000544,0,,9,ABCA7|APP|ESR1|INPP5D|LEP|MAPT|PPARG|SOD2|TFAM
+DNA binding,GO:0003677,Alzheimer Disease 9,MESH:C563834,0,,1,ABCA7
+"DNA binding, bending",GO:0008301,Alzheimer Disease,MESH:D000544,0,,1,TFAM
+DNA binding domain binding,GO:0050692,Alzheimer Disease,MESH:D000544,0,,1,PPARG
+"DNA-binding transcription activator activity, RNA polymerase II-specific",GO:0001228,Alzheimer Disease,MESH:D000544,0,,2,ESR1|PPARG
+DNA-binding transcription factor activity,GO:0003700,Alzheimer Disease,MESH:D000544,2,Cadmium|Ozone,2,ESR1|PPARG
+"DNA-binding transcription factor activity, RNA polymerase II-specific",GO:0000981,Alzheimer Disease,MESH:D000544,0,,3,ESR1|F2|PPARG
+DNA-binding transcription factor binding,GO:0140297,Alzheimer Disease,MESH:D000544,0,,3,BCL2|BIN1|PPARG
+"DNA-binding transcription repressor activity, RNA polymerase II-specific",GO:0001227,Alzheimer Disease,MESH:D000544,0,,2,ENO1|PPARG
+DNA-dependent protein kinase activity,GO:0004677,Alzheimer Disease,MESH:D000544,0,,1,GSK3B
+DNA-directed DNA polymerase activity,GO:0003887,Alzheimer Disease,MESH:D000544,1,Hydrogen Peroxide,0,
+DNA-methyltransferase activity,GO:0009008,Alzheimer Disease,MESH:D000544,4,Curcumin|Folic Acid|Hydrogen Peroxide|Plant Extracts,0,
+double-stranded DNA binding,GO:0003690,Alzheimer Disease,MESH:D000544,0,,2,MAPT|PPARG
+dynactin binding,GO:0034452,Alzheimer Disease,MESH:D000544,0,,2,GSK3B|MAPT
+dynein complex binding,GO:0070840,Alzheimer Disease,MESH:D000544,0,,1,GSK3B
+E-box binding,GO:0070888,Alzheimer Disease,MESH:D000544,0,,1,PPARG
+electron transfer activity,GO:0009055,Alzheimer Disease,MESH:D000544,1,2-butenal,2,ADAM10|MAOB
+electron transfer activity,GO:0009055,ALZHEIMER DISEASE 18,OMIM:615590,0,,1,ADAM10
+endopeptidase activator activity,GO:0061133,Alzheimer Disease,MESH:D000544,0,,2,APH1B|NCSTN
+endopeptidase activity,GO:0004175,Alzheimer Disease,MESH:D000544,2,Particulate Matter|Streptozocin,10,ACE|ADAM10|BACE1|CASP3|F2|IDE|NCSTN|PSEN1|PSEN2|TPP1
+endopeptidase activity,GO:0004175,ALZHEIMER DISEASE 18,OMIM:615590,0,,1,ADAM10
+endopeptidase activity,GO:0004175,"Alzheimer Disease, Familial, 3, with Spastic Paraparesis and Apraxia",MESH:C564330,0,,1,PSEN1
+endopeptidase activity,GO:0004175,Alzheimer disease type 4,MESH:C536596,0,,1,PSEN2
+endopeptidase inhibitor activity,GO:0004866,Alzheimer Disease,MESH:D000544,0,,2,A2M|CST3
+enzyme binding,GO:0019899,Alzheimer Disease,MESH:D000544,0,,17,A2M|APOE|APP|BACE1|BCHE|DHCR24|ENO1|ESR1|HMOX1|IGF2R|MAPT|PPARG|PTK2B|SOD2|TF|TSPAN14|WWOX
+enzyme binding,GO:0019899,"Alzheimer Disease, Familial, 3, with Spastic Paraparesis and Apraxia",MESH:C564330,0,,1,APOE
+enzyme binding,GO:0019899,Alzheimer disease type 2,MESH:C536595,0,,1,APOE
+enzyme binding,GO:0019899,Alzheimer disease type 4,MESH:C536596,0,,1,APOE
+enzyme regulator activity,GO:0030234,Alzheimer Disease,MESH:D000544,0,,1,CALM1
+ephrin receptor activity,GO:0005003,Alzheimer Disease,MESH:D000544,0,,1,EPHA1
+ephrin receptor binding,GO:0046875,Alzheimer Disease,MESH:D000544,0,,1,APP
+epidermal growth factor receptor activity,GO:0005006,Alzheimer Disease,MESH:D000544,0,,3,EPHA1|IGF1R|INSR
+estradiol 17-beta-dehydrogenase activity,GO:0004303,Alzheimer Disease,MESH:D000544,2,Curcumin|Indomethacin,0,
+estradiol binding,GO:1903924,Alzheimer Disease,MESH:D000544,0,,1,ESR1
+estrogen binding,GO:0099130,Alzheimer Disease,MESH:D000544,0,,1,ESR1
+estrogen response element binding,GO:0034056,Alzheimer Disease,MESH:D000544,0,,1,ESR1
+eukaryotic translation initiation factor 2alpha kinase activity,GO:0004694,Alzheimer Disease,MESH:D000544,0,,1,GSK3B
+exopeptidase activity,GO:0008238,Alzheimer Disease,MESH:D000544,0,,1,ACE
+extracellular ligand-gated monoatomic ion channel activity,GO:0005230,Alzheimer Disease,MESH:D000544,0,,2,CHRNA7|CHRNB2
+extracellularly glutamate-gated chloride channel activity,GO:0008068,Alzheimer Disease,MESH:D000544,1,Ibotenic Acid,0,
+extracellular matrix binding,GO:0050840,Alzheimer Disease,MESH:D000544,0,,1,VEGFA
+extracellular matrix structural constituent,GO:0005201,Alzheimer Disease,MESH:D000544,0,,1,RELN
+FAD binding,GO:0071949,Alzheimer Disease,MESH:D000544,0,,2,DHCR24|MTHFR
+fatty acid binding,GO:0005504,Alzheimer Disease,MESH:D000544,0,,1,APOC1
+ferric iron binding,GO:0008199,Alzheimer Disease,MESH:D000544,0,,1,TF
+ferrous iron binding,GO:0008198,Alzheimer Disease,MESH:D000544,0,,1,TF
+fibroblast growth factor receptor activity,GO:0005007,Alzheimer Disease,MESH:D000544,0,,3,EPHA1|IGF1R|INSR
+fibronectin binding,GO:0001968,Alzheimer Disease,MESH:D000544,0,,2,EPHA1|VEGFA
+flavin adenine dinucleotide binding,GO:0050660,Alzheimer Disease,MESH:D000544,0,,4,DHCR24|MAOB|MTHFR|NOS3
+floppase activity,GO:0140328,Alzheimer Disease,MESH:D000544,0,,1,ABCA7
+floppase activity,GO:0140328,Alzheimer Disease 9,MESH:C563834,0,,1,ABCA7
+FMN binding,GO:0010181,Alzheimer Disease,MESH:D000544,0,,1,NOS3
+frizzled binding,GO:0005109,Alzheimer Disease,MESH:D000544,0,,1,APP
+"fructose 1,6-bisphosphate 1-phosphatase activity",GO:0042132,Alzheimer Disease,MESH:D000544,1,Streptozocin,0,
+gap junction channel activity,GO:0005243,Alzheimer Disease,MESH:D000544,3,Air Pollutants|Particulate Matter|Resveratrol,0,
+Gi/o-coupled serotonin receptor activity,GO:0001586,Alzheimer Disease,MESH:D000544,1,Dronabinol,0,
+glucokinase activity,GO:0004340,Alzheimer Disease,MESH:D000544,3,Plant Extracts|Streptozocin|Tadalafil,0,
+glucose-6-phosphatase activity,GO:0004346,Alzheimer Disease,MESH:D000544,3,Plant Extracts|Streptozocin|Tadalafil,0,
+glucose-6-phosphate dehydrogenase activity,GO:0004345,Alzheimer Disease,MESH:D000544,2,Plant Extracts|Streptozocin,0,
+glucose uniporter activity,GO:0015304,Alzheimer Disease,MESH:D000544,0,,1,SLC2A4
+glucuronosyltransferase activity,GO:0015020,Alzheimer Disease,MESH:D000544,1,Plant Preparations,0,
+glutamate-cysteine ligase activity,GO:0004357,Alzheimer Disease,MESH:D000544,1,Cadmium,0,
+glutamate dehydrogenase (NAD+) activity,GO:0004352,Alzheimer Disease,MESH:D000544,1,Melatonin,0,
+glutamate receptor binding,GO:0035254,Alzheimer Disease,MESH:D000544,0,,1,PTK2B
+glutathione binding,GO:0043295,Alzheimer Disease,MESH:D000544,2,Copper|Copper Sulfate,0,
+glutathione binding,GO:0043295,Alzheimer disease type 2,MESH:C536595,1,Manganese,0,
+glutathione hydrolase activity,GO:0036374,Alzheimer Disease,MESH:D000544,1,Copper Sulfate,0,
+glutathione peroxidase activity,GO:0004602,Alzheimer Disease,MESH:D000544,44,"5-Methoxypsoralen|Acrolein|Air Pollutants|Aluminum|Aluminum Chloride|Apigenin|Berberine|Cadmium|Cannabidiol|Cholesterol, Dietary|Copper|Copper Sulfate|Curcumin|Deferoxamine|Dichlorodiphenyl Dichloroethylene|Ellagic Acid|Fluorides|Folic Acid|Galactose|Ginkgo biloba extract|Glucose|Homocysteine|Hydrogen Peroxide|Indomethacin|Iron|Kainic Acid|Lithium|Melatonin|Mifepristone|Nanotubes, Carbon|Nicotine|Ozone|Particulate Matter|Plant Extracts|Plant Preparations|Resveratrol|Rosiglitazone|Scopolamine|Serotonin|Sodium Fluoride|Streptozocin|Tacrine|Trichlorfon|Zinc",0,
+glutathione peroxidase activity,GO:0004602,Alzheimer disease type 2,MESH:C536595,1,Manganese,0,
+glutathione transferase activity,GO:0004364,Alzheimer Disease,MESH:D000544,26,"Apigenin|Cadmium|Copper|Copper Sulfate|Curcumin|Dichlorodiphenyl Dichloroethylene|Ellagic Acid|Fluorides|Folic Acid|Galactose|Glucose|Iron|Melatonin|Metals, Heavy|Nanotubes, Carbon|Nicotine|Ozone|Particulate Matter|Plant Extracts|Plant Preparations|Resveratrol|Sodium Fluoride|Streptozocin|tideglusib|Vitamin B 12|Zinc",0,
+glutathione transferase activity,GO:0004364,Alzheimer disease type 2,MESH:C536595,1,Manganese,0,
+glyceraldehyde-3-phosphate dehydrogenase (NAD+) (phosphorylating) activity,GO:0004365,Alzheimer Disease,MESH:D000544,1,Glucose,1,GAPDHS
+glycerol-3-phosphate O-acyltransferase activity,GO:0004366,Alzheimer Disease,MESH:D000544,1,Resveratrol,0,
+glycogen phosphorylase activity,GO:0008184,Alzheimer Disease,MESH:D000544,3,Plant Extracts|Streptozocin|Tadalafil,0,
+glycogen (starch) synthase activity,GO:0004373,Alzheimer Disease,MESH:D000544,2,Plant Extracts|Streptozocin,0,
+glycosaminoglycan binding,GO:0005539,Alzheimer Disease,MESH:D000544,0,,1,PRNP
+GPI-linked ephrin receptor activity,GO:0005004,Alzheimer Disease,MESH:D000544,0,,3,EPHA1|IGF1R|INSR
+G-protein alpha-subunit binding,GO:0001965,Alzheimer Disease,MESH:D000544,0,,2,IGF1R|IGF2R
+G protein-coupled estrogen receptor activity,GO:0038054,Alzheimer Disease,MESH:D000544,0,,1,ESR1
+G protein-coupled receptor activity,GO:0004930,Alzheimer Disease,MESH:D000544,0,,2,CR1|NPY
+G protein-coupled receptor binding,GO:0001664,Alzheimer Disease,MESH:D000544,0,,3,APP|NPY|PYY
+growth factor activity,GO:0008083,Alzheimer Disease,MESH:D000544,0,,5,BDNF|F2|IGF1|IGF2|VEGFA
+growth factor binding,GO:0019838,Alzheimer Disease,MESH:D000544,0,,2,A2M|VEGFA
+growth factor receptor binding,GO:0070851,Alzheimer Disease,MESH:D000544,0,,3,APP|NCSTN|PSEN1
+growth factor receptor binding,GO:0070851,"Alzheimer Disease, Familial, 3, with Spastic Paraparesis and Apraxia",MESH:C564330,0,,1,PSEN1
+GTPase binding,GO:0051020,Alzheimer Disease,MESH:D000544,0,,2,BIN1|ENO1
+GTP binding,GO:0005525,Alzheimer Disease,MESH:D000544,0,,3,INSR|IQCK|TF
+guanyl-nucleotide exchange factor activity,GO:0005085,Alzheimer Disease,MESH:D000544,0,,1,INSR
+H3K27me3 modified histone binding,GO:0061628,Alzheimer Disease,MESH:D000544,2,Dichlorodiphenyl Dichloroethylene|Particulate Matter,0,
+H3K9me3 modified histone binding,GO:0062072,Alzheimer Disease,MESH:D000544,1,Dronabinol,0,
+heat shock protein binding,GO:0031072,Alzheimer Disease,MESH:D000544,0,,4,BAX|ENO1|MAPT|TFAM
+heme binding,GO:0020037,Alzheimer Disease,MESH:D000544,0,,7,ADAM10|CYP2D6|CYP46A1|HMOX1|MPO|NOS3|PGRMC1
+heme binding,GO:0020037,ALZHEIMER DISEASE 18,OMIM:615590,0,,1,ADAM10
+heme oxygenase (decyclizing) activity,GO:0004392,Alzheimer Disease,MESH:D000544,2,Cannabidiol|Dronabinol,1,HMOX1
+heparan sulfate binding,GO:1904399,Alzheimer Disease,MESH:D000544,0,,1,APP
+heparan sulfate proteoglycan binding,GO:0043395,Alzheimer Disease,MESH:D000544,0,,2,APOE|APP
+heparan sulfate proteoglycan binding,GO:0043395,"Alzheimer Disease, Familial, 3, with Spastic Paraparesis and Apraxia",MESH:C564330,0,,1,APOE
+heparan sulfate proteoglycan binding,GO:0043395,Alzheimer disease type 2,MESH:C536595,0,,1,APOE
+heparan sulfate proteoglycan binding,GO:0043395,Alzheimer disease type 4,MESH:C536596,0,,1,APOE
+heparin binding,GO:0008201,Alzheimer Disease,MESH:D000544,0,,6,ADAMTS1|APOE|APP|F2|MPO|VEGFA
+heparin binding,GO:0008201,"Alzheimer Disease, Familial, 3, with Spastic Paraparesis and Apraxia",MESH:C564330,0,,1,APOE
+heparin binding,GO:0008201,Alzheimer disease type 2,MESH:C536595,0,,1,APOE
+heparin binding,GO:0008201,Alzheimer disease type 4,MESH:C536596,0,,1,APOE
+hepatocyte growth factor receptor activity,GO:0005008,Alzheimer Disease,MESH:D000544,0,,3,EPHA1|IGF1R|INSR
+heterocyclic compound binding,GO:1901363,Alzheimer Disease,MESH:D000544,0,,2,ACE|CHRNB2
+hexokinase activity,GO:0004396,Alzheimer Disease,MESH:D000544,4,Air Pollutants|Indomethacin|Particulate Matter|Streptozocin,0,
+hexose transmembrane transporter activity,GO:0015149,Alzheimer Disease,MESH:D000544,0,,1,SLC2A4
+high-density lipoprotein particle binding,GO:0008035,Alzheimer Disease,MESH:D000544,0,,1,TREM2
+high voltage-gated calcium channel activity,GO:0008331,Alzheimer Disease,MESH:D000544,1,Particulate Matter,0,
+histone acetyltransferase activity,GO:0004402,Alzheimer Disease,MESH:D000544,1,Curcumin,0,
+histone deacetylase activity,GO:0004407,Alzheimer Disease,MESH:D000544,4,Apigenin|Curcumin|Plant Extracts|Streptozocin,0,
+histone-dependent DNA binding,GO:0099077,Alzheimer Disease,MESH:D000544,0,,1,MAPT
+histone H2AS121 kinase activity,GO:0072371,Alzheimer Disease,MESH:D000544,0,,1,GSK3B
+histone H2AS139 kinase activity,GO:0035979,Alzheimer Disease,MESH:D000544,0,,1,GSK3B
+histone H2AS1 kinase activity,GO:0044024,Alzheimer Disease,MESH:D000544,0,,1,GSK3B
+histone H2AT120 kinase activity,GO:1990244,Alzheimer Disease,MESH:D000544,0,,1,GSK3B
+histone H2BS14 kinase activity,GO:0044025,Alzheimer Disease,MESH:D000544,0,,1,GSK3B
+histone H2BS36 kinase activity,GO:0140823,Alzheimer Disease,MESH:D000544,0,,1,GSK3B
+histone H3K9 demethylase activity,GO:0032454,Alzheimer Disease,MESH:D000544,2,Melatonin|Particulate Matter,0,
+histone H3S10 kinase activity,GO:0035175,Alzheimer Disease,MESH:D000544,0,,1,GSK3B
+histone H3S28 kinase activity,GO:0044022,Alzheimer Disease,MESH:D000544,0,,1,GSK3B
+histone H3S57 kinase activity,GO:0140855,Alzheimer Disease,MESH:D000544,0,,1,GSK3B
+histone H3T11 kinase activity,GO:0035402,Alzheimer Disease,MESH:D000544,0,,1,GSK3B
+histone H3T3 kinase activity,GO:0072354,Alzheimer Disease,MESH:D000544,0,,1,GSK3B
+histone H3T45 kinase activity,GO:0140857,Alzheimer Disease,MESH:D000544,0,,1,GSK3B
+histone H3T6 kinase activity,GO:0035403,Alzheimer Disease,MESH:D000544,0,,1,GSK3B
+histone H4S1 kinase activity,GO:0044023,Alzheimer Disease,MESH:D000544,0,,1,GSK3B
+hormone activity,GO:0005179,Alzheimer Disease,MESH:D000544,0,,7,CRH|IGF1|IGF2|INS|LEP|NPY|PYY
+hormone binding,GO:0042562,Alzheimer Disease,MESH:D000544,0,,1,ESR1
+Hsp70 protein binding,GO:0030544,Alzheimer Disease,MESH:D000544,0,,1,BAX
+Hsp90 protein binding,GO:0051879,Alzheimer Disease,MESH:D000544,0,,2,MAPT|NOS3
+hyaluronic acid binding,GO:0005540,Alzheimer Disease,MESH:D000544,0,,1,F2
+hydrolase activity,GO:0016787,Alzheimer Disease,MESH:D000544,0,,11,ACE|ACHE|ADAMTS1|BACE1|F2|IDE|PLCG2|PSEN1|PSEN2|RELN|TPP1
+hydrolase activity,GO:0016787,"Alzheimer Disease, Familial, 3, with Spastic Paraparesis and Apraxia",MESH:C564330,0,,1,PSEN1
+hydrolase activity,GO:0016787,Alzheimer disease type 4,MESH:C536596,0,,1,PSEN2
+"hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds",GO:0016810,Alzheimer Disease,MESH:D000544,0,,1,DPYSL2
+"hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds, in cyclic amides",GO:0016812,Alzheimer Disease,MESH:D000544,0,,1,DPYSL2
+"hydrolase activity, acting on ester bonds",GO:0016788,Alzheimer Disease,MESH:D000544,0,,1,BCHE
+hydroxyapatite binding,GO:0046848,Alzheimer Disease,MESH:D000544,0,,1,APOE
+hydroxyapatite binding,GO:0046848,"Alzheimer Disease, Familial, 3, with Spastic Paraparesis and Apraxia",MESH:C564330,0,,1,APOE
+hydroxyapatite binding,GO:0046848,Alzheimer disease type 2,MESH:C536595,0,,1,APOE
+hydroxyapatite binding,GO:0046848,Alzheimer disease type 4,MESH:C536596,0,,1,APOE
+identical protein binding,GO:0042802,Alzheimer Disease,MESH:D000544,0,,32,A2M|ABI3|ACHE|AMFR|APOE|APP|BAX|BCHE|BCL2|BIN1|CCDC6|CD2AP|CST3|DPYSL2|ENO1|ESR1|HMOX1|IDE|IGF1R|IGF2R|INS|INSR|MAOB|MAPT|NECTIN2|PICALM|PPARG|PRNP|SOD2|TNF|VEGFA|WWOX
+identical protein binding,GO:0042802,"Alzheimer Disease, Familial, 3, with Spastic Paraparesis and Apraxia",MESH:C564330,0,,1,APOE
+identical protein binding,GO:0042802,Alzheimer disease type 2,MESH:C536595,0,,1,APOE
+identical protein binding,GO:0042802,Alzheimer disease type 4,MESH:C536596,0,,1,APOE
+IgA receptor activity,GO:0019766,Alzheimer Disease,MESH:D000544,1,Dichlorodiphenyl Dichloroethylene,0,
+IgG receptor activity,GO:0019770,Alzheimer Disease,MESH:D000544,1,Dichlorodiphenyl Dichloroethylene,0,
+IkappaB kinase activity,GO:0008384,Alzheimer Disease,MESH:D000544,1,Resveratrol,0,
+"indoleamine 2,3-dioxygenase activity",GO:0033754,Alzheimer Disease,MESH:D000544,1,Cadmium,0,
+"inositol-1,3,4,5-tetrakisphosphate 5-phosphatase activity",GO:0052659,Alzheimer Disease,MESH:D000544,0,,1,INPP5D
+"inositol-4,5-bisphosphate 5-phosphatase activity",GO:0030487,Alzheimer Disease,MESH:D000544,0,,1,INPP5D
+inositol-polyphosphate 5-phosphatase activity,GO:0004445,Alzheimer Disease,MESH:D000544,0,,1,INPP5D
+insulin binding,GO:0043559,Alzheimer Disease,MESH:D000544,0,,3,IDE|IGF1R|INSR
+insulin-like growth factor binding,GO:0005520,Alzheimer Disease,MESH:D000544,0,,2,IGF1R|IGF2R
+insulin-like growth factor I binding,GO:0031994,Alzheimer Disease,MESH:D000544,0,,2,IGF1R|INSR
+insulin-like growth factor II binding,GO:0031995,Alzheimer Disease,MESH:D000544,0,,2,IGF2R|INSR
+insulin-like growth factor receptor activity,GO:0005010,Alzheimer Disease,MESH:D000544,0,,4,EPHA1|IGF1R|IGF2R|INSR
+insulin-like growth factor receptor binding,GO:0005159,Alzheimer Disease,MESH:D000544,0,,4,IGF1|IGF2|INS|INSR
+insulin receptor activity,GO:0005009,Alzheimer Disease,MESH:D000544,0,,3,EPHA1|IGF1R|INSR
+insulin receptor binding,GO:0005158,Alzheimer Disease,MESH:D000544,0,,5,APP|IGF1|IGF1R|IGF2|INS
+insulin receptor substrate binding,GO:0043560,Alzheimer Disease,MESH:D000544,0,,2,IGF1R|INSR
+insulin-responsive glucose:proton symporter activity,GO:0005360,Alzheimer Disease,MESH:D000544,0,,1,SLC2A4
+integrin binding,GO:0005178,Alzheimer Disease,MESH:D000544,0,,6,ADAM10|APP|GSK3B|IGF1|IGF2|IL1B
+integrin binding,GO:0005178,ALZHEIMER DISEASE 18,OMIM:615590,0,,1,ADAM10
+interleukin-1 binding,GO:0019966,Alzheimer Disease,MESH:D000544,0,,1,A2M
+interleukin-1 receptor binding,GO:0005149,Alzheimer Disease,MESH:D000544,0,,1,IL1B
+interleukin-8 binding,GO:0019959,Alzheimer Disease,MESH:D000544,0,,1,A2M
+intracellular cAMP-activated cation channel activity,GO:0005222,Alzheimer Disease,MESH:D000544,1,Dronabinol,0,
+ionotropic glutamate receptor binding,GO:0035255,Alzheimer Disease,MESH:D000544,0,,1,GSK3B
+iron chaperone activity,GO:0034986,Alzheimer Disease,MESH:D000544,0,,1,TF
+iron ion binding,GO:0005506,Alzheimer Disease,MESH:D000544,1,Cadmium,2,CYP2D6|CYP46A1
+isocitrate dehydrogenase (NAD+) activity,GO:0004449,Alzheimer Disease,MESH:D000544,2,Apigenin|Zinc,0,
+isocitrate dehydrogenase (NADP+) activity,GO:0004450,Alzheimer Disease,MESH:D000544,2,Acrolein|Zinc,0,
+isocitrate dehydrogenase [NAD(P)+] activity,GO:0004448,Alzheimer Disease,MESH:D000544,4,Cadmium|Copper|Copper Sulfate|Iron,0,
+isomerase activity,GO:0016853,Alzheimer Disease,MESH:D000544,0,,1,TPI1
+JUN kinase activity,GO:0004705,Alzheimer Disease,MESH:D000544,2,Apigenin|Cadmium,0,
+kinase activator activity,GO:0019209,Alzheimer Disease,MESH:D000544,0,,1,TREM2
+kinase activity,GO:0016301,Alzheimer Disease,MESH:D000544,0,,3,CALM1|GSK3B|PLAU
+lactase activity,GO:0000016,Alzheimer Disease,MESH:D000544,1,Streptozocin,0,
+lactate dehydrogenase activity,GO:0004457,Alzheimer Disease,MESH:D000544,27,"Air Pollutants|Aluminum Chloride|Apigenin|Berberine|Cadmium|Celecoxib|Copper Sulfate|Curcumin|Dichlorodiphenyl Dichloroethylene|Ellagic Acid|Fluorides|Folic Acid|Galactose|Glucose|Homocysteine|Hydrogen Peroxide|Nanotubes, Carbon|Nicotine|Ozone|Particulate Matter|Plant Extracts|Raloxifene Hydrochloride|Resveratrol|Sodium Fluoride|Streptozocin|Tadalafil|Zinc",0,
+lactate dehydrogenase activity,GO:0004457,Alzheimer disease type 2,MESH:C536595,1,Manganese,0,
+L-alanine:2-oxoglutarate aminotransferase activity,GO:0004021,Alzheimer Disease,MESH:D000544,1,Plant Extracts,0,
+lamin binding,GO:0005521,Alzheimer Disease,MESH:D000544,0,,1,PRNP
+laminin binding,GO:0043236,Alzheimer Disease,MESH:D000544,0,,1,ACHE
+L-aspartate:2-oxoglutarate aminotransferase activity,GO:0004069,Alzheimer Disease,MESH:D000544,26,"2-butenal|Aluminum Chloride|Apigenin|Berberine|Cadmium|Cholesterol, Dietary|Colchicine|Copper Sulfate|Curcumin|Dronabinol|Fluorides|Folic Acid|Homocysteine|Hydrogen Peroxide|Iron|Melatonin|Nanotubes, Carbon|Nicotine|Ozone|Paroxetine|Plant Extracts|Resveratrol|Rosiglitazone|Sodium Fluoride|Streptozocin|Zinc",0,
+LBD domain binding,GO:0050693,Alzheimer Disease,MESH:D000544,0,,1,PPARG
+leptin receptor binding,GO:1990460,Alzheimer Disease,MESH:D000544,0,,1,LEP
+ligand-gated monoatomic ion channel activity,GO:0015276,Alzheimer Disease,MESH:D000544,0,,1,CHRNB2
+lipase activity,GO:0016298,Alzheimer Disease,MESH:D000544,4,"Berberine|Cholesterol, Dietary|Ozone|Plant Extracts",0,
+lipase inhibitor activity,GO:0055102,Alzheimer Disease,MESH:D000544,0,,1,APOC1
+lipid binding,GO:0008289,Alzheimer Disease,MESH:D000544,0,,6,APOE|BAX|BIN1|ESR1|PGRMC1|TREM2
+lipid binding,GO:0008289,"Alzheimer Disease, Familial, 3, with Spastic Paraparesis and Apraxia",MESH:C564330,0,,1,APOE
+lipid binding,GO:0008289,Alzheimer disease type 2,MESH:C536595,0,,1,APOE
+lipid binding,GO:0008289,Alzheimer disease type 4,MESH:C536596,0,,1,APOE
+lipid transporter activity,GO:0005319,Alzheimer Disease,MESH:D000544,0,,2,ABCA7|APOE
+lipid transporter activity,GO:0005319,Alzheimer Disease 9,MESH:C563834,0,,1,ABCA7
+lipid transporter activity,GO:0005319,"Alzheimer Disease, Familial, 3, with Spastic Paraparesis and Apraxia",MESH:C564330,0,,1,APOE
+lipid transporter activity,GO:0005319,Alzheimer disease type 2,MESH:C536595,0,,1,APOE
+lipid transporter activity,GO:0005319,Alzheimer disease type 4,MESH:C536596,0,,1,APOE
+lipoic acid binding,GO:0031405,Alzheimer Disease,MESH:D000544,0,,1,INSR
+lipopolysaccharide binding,GO:0001530,Alzheimer Disease,MESH:D000544,0,,2,F2|TREM2
+lipoprotein particle binding,GO:0071813,Alzheimer Disease,MESH:D000544,0,,3,APOE|MAPT|TREM2
+lipoprotein particle binding,GO:0071813,"Alzheimer Disease, Familial, 3, with Spastic Paraparesis and Apraxia",MESH:C564330,0,,1,APOE
+lipoprotein particle binding,GO:0071813,Alzheimer disease type 2,MESH:C536595,0,,1,APOE
+lipoprotein particle binding,GO:0071813,Alzheimer disease type 4,MESH:C536596,0,,1,APOE
+lipoprotein particle receptor binding,GO:0070325,Alzheimer Disease,MESH:D000544,0,,1,RELN
+lipoteichoic acid binding,GO:0070891,Alzheimer Disease,MESH:D000544,0,,2,ATP5F1A|TREM2
+L-lactate dehydrogenase activity,GO:0004459,Alzheimer Disease,MESH:D000544,1,"Metals, Heavy",0,
+low-density lipoprotein particle binding,GO:0030169,Alzheimer Disease,MESH:D000544,0,,1,TREM2
+low-density lipoprotein particle receptor binding,GO:0050750,Alzheimer Disease,MESH:D000544,0,,4,APOE|APP|CLU|PICALM
+low-density lipoprotein particle receptor binding,GO:0050750,"Alzheimer Disease, Familial, 3, with Spastic Paraparesis and Apraxia",MESH:C564330,0,,1,APOE
+low-density lipoprotein particle receptor binding,GO:0050750,Alzheimer disease type 2,MESH:C536595,0,,1,APOE
+low-density lipoprotein particle receptor binding,GO:0050750,Alzheimer disease type 4,MESH:C536596,0,,1,APOE
+lyase activity,GO:0016829,Alzheimer Disease,MESH:D000544,0,,2,ENO1|TPI1
+lysine-acetylated histone binding,GO:0070577,Alzheimer Disease,MESH:D000544,2,Dichlorodiphenyl Dichloroethylene|Nicotine,0,
+lysine-acetylated histone binding,GO:0070577,Alzheimer disease type 2,MESH:C536595,1,Manganese,0,
+lysophosphatidic acid binding,GO:0035727,Alzheimer Disease,MESH:D000544,0,,1,TPP1
+macrophage colony-stimulating factor receptor activity,GO:0005011,Alzheimer Disease,MESH:D000544,0,,3,EPHA1|IGF1R|INSR
+magnesium ion binding,GO:0000287,Alzheimer Disease,MESH:D000544,0,,1,ENO1
+malate dehydrogenase activity,GO:0016615,Alzheimer Disease,MESH:D000544,4,Air Pollutants|Cadmium|Curcumin|Particulate Matter,0,
+malic enzyme activity,GO:0004470,Alzheimer Disease,MESH:D000544,4,Copper|Copper Sulfate|Glucose|Zinc,0,
+maltose alpha-glucosidase activity,GO:0032450,Alzheimer Disease,MESH:D000544,1,Streptozocin,0,
+manganese ion binding,GO:0030145,Alzheimer Disease,MESH:D000544,0,,1,SOD2
+mannose binding,GO:0005537,Alzheimer Disease,MESH:D000544,0,,1,IGF2R
+MAP kinase activity,GO:0004707,Alzheimer Disease,MESH:D000544,2,Cadmium|Dronabinol,0,
+metal chelating activity,GO:0046911,Alzheimer Disease,MESH:D000544,1,Hydrogen Peroxide,1,APOE
+metal chelating activity,GO:0046911,"Alzheimer Disease, Familial, 3, with Spastic Paraparesis and Apraxia",MESH:C564330,0,,1,APOE
+metal chelating activity,GO:0046911,Alzheimer disease type 2,MESH:C536595,0,,1,APOE
+metal chelating activity,GO:0046911,Alzheimer disease type 4,MESH:C536596,0,,1,APOE
+metal ion binding,GO:0046872,Alzheimer Disease,MESH:D000544,0,,23,ACE|ADAM10|ADAMTS1|APP|CALM1|CYP2D6|CYP46A1|ENO1|ESR1|HMOX1|IDE|MPO|NOS3|PCDH11X|PGRMC1|PPARG|PRNP|RELN|SLC30A4|SOD2|TF|TPP1|VSNL1
+metal ion binding,GO:0046872,ALZHEIMER DISEASE 18,OMIM:615590,0,,1,ADAM10
+metallocarboxypeptidase activity,GO:0004181,Alzheimer Disease,MESH:D000544,0,,1,ACE
+metallodipeptidase activity,GO:0070573,Alzheimer Disease,MESH:D000544,0,,2,ACE|ADAM10
+metallodipeptidase activity,GO:0070573,ALZHEIMER DISEASE 18,OMIM:615590,0,,1,ADAM10
+metalloendopeptidase activity,GO:0004222,Alzheimer Disease,MESH:D000544,0,,4,ACE|ADAM10|ADAMTS1|IDE
+metalloendopeptidase activity,GO:0004222,ALZHEIMER DISEASE 18,OMIM:615590,0,,1,ADAM10
+metalloendopeptidase activity involved in amyloid precursor protein catabolic process,GO:1902945,Alzheimer Disease,MESH:D000544,0,,1,ADAM10
+metalloendopeptidase activity involved in amyloid precursor protein catabolic process,GO:1902945,ALZHEIMER DISEASE 18,OMIM:615590,0,,1,ADAM10
+metallopeptidase activity,GO:0008237,Alzheimer Disease,MESH:D000544,0,,4,ACE|ADAM10|ADAMTS1|IDE
+metallopeptidase activity,GO:0008237,ALZHEIMER DISEASE 18,OMIM:615590,0,,1,ADAM10
+methylated histone binding,GO:0035064,Alzheimer Disease,MESH:D000544,3,Dichlorodiphenyl Dichloroethylene|Ginkgo biloba extract|Particulate Matter,0,
+methylenetetrahydrofolate reductase (NAD(P)H) activity,GO:0004489,Alzheimer Disease,MESH:D000544,0,,1,MTHFR
+methylenetetrahydrofolate reductase NADPH activity,GO:0106313,Alzheimer Disease,MESH:D000544,0,,1,MTHFR
+methylglyoxal synthase activity,GO:0008929,Alzheimer Disease,MESH:D000544,0,,1,TPI1
+methyltransferase activity,GO:0008168,Alzheimer Disease,MESH:D000544,1,Ozone,0,
+MHC class I protein binding,GO:0042288,Alzheimer Disease,MESH:D000544,0,,2,ATP5F1A|PILRA
+microtubule binding,GO:0008017,Alzheimer Disease,MESH:D000544,0,,2,MAPT|PRNP
+microtubule lateral binding,GO:0099609,Alzheimer Disease,MESH:D000544,0,,1,MAPT
+microtubule motor activity,GO:0003777,Alzheimer Disease,MESH:D000544,2,Glucose|Hydrogen Peroxide,0,
+minor groove of adenine-thymine-rich DNA binding,GO:0003680,Alzheimer Disease,MESH:D000544,0,,1,MAPT
+misfolded protein binding,GO:0051787,Alzheimer Disease,MESH:D000544,0,,1,CLU
+mitochondrial promoter sequence-specific DNA binding,GO:0001018,Alzheimer Disease,MESH:D000544,0,,1,TFAM
+mitochondrial transcription factor activity,GO:0034246,Alzheimer Disease,MESH:D000544,0,,1,TFAM
+mitogen-activated protein kinase binding,GO:0051019,Alzheimer Disease,MESH:D000544,0,,1,ACE
+mitogen-activated protein kinase kinase binding,GO:0031434,Alzheimer Disease,MESH:D000544,0,,1,ACE
+modified amino acid binding,GO:0072341,Alzheimer Disease,MESH:D000544,0,,1,MTHFR
+molecular adaptor activity,GO:0060090,Alzheimer Disease,MESH:D000544,0,,3,ADAM10|BCL2|PRNP
+molecular adaptor activity,GO:0060090,ALZHEIMER DISEASE 18,OMIM:615590,0,,1,ADAM10
+molecular condensate scaffold activity,GO:0140693,Alzheimer Disease,MESH:D000544,0,,1,PRNP
+molecular_function,GO:0003674,Alzheimer Disease,MESH:D000544,0,,5,CCDC6|CD2AP|IQCK|MS4A4A|TSPAN14
+molecular function activator activity,GO:0140677,Alzheimer Disease,MESH:D000544,0,,1,PRNP
+monoamine oxidase activity,GO:0097621,Alzheimer Disease,MESH:D000544,5,Aluminum|Berberine|Cadmium|Ellagic Acid|Fluorides,1,MAOB
+monoatomic cation channel activity,GO:0005261,Alzheimer Disease,MESH:D000544,0,,1,TOMM40
+monoatomic cation transmembrane transporter activity,GO:0008324,Alzheimer Disease,MESH:D000544,0,,2,SLC30A4|SLC30A6
+monoatomic ion channel activity,GO:0005216,Alzheimer Disease,MESH:D000544,0,,2,CHRNA7|CHRNB2
+monodehydroascorbate reductase (NADH) activity,GO:0016656,Alzheimer Disease,MESH:D000544,1,cupric chloride,0,
+monooxygenase activity,GO:0004497,Alzheimer Disease,MESH:D000544,0,,2,CYP2D6|CYP46A1
+mRNA 3'-UTR binding,GO:0003730,Alzheimer Disease,MESH:D000544,0,,5,MIR100|MIR146A|MIR296|MIR505|MIR708
+mRNA base-pairing translational repressor activity,GO:1903231,Alzheimer Disease,MESH:D000544,0,,5,MIR100|MIR146A|MIR296|MIR505|MIR708
+mRNA binding,GO:0003729,Alzheimer Disease,MESH:D000544,0,,3,ARC|CLU|MIR124A-3
+myosin phosphatase activity,GO:0017018,Alzheimer Disease,MESH:D000544,1,Glucose,0,
+NAD binding,GO:0051287,Alzheimer Disease,MESH:D000544,0,,1,GAPDHS
+NADH dehydrogenase activity,GO:0003954,Alzheimer Disease,MESH:D000544,1,Streptozocin,0,
+NADH dehydrogenase (ubiquinone) activity,GO:0008137,Alzheimer Disease,MESH:D000544,27,2-butenal|Acrolein|Air Pollutants|Apigenin|Berberine|Cadmium|Cannabidiol|Copper Sulfate|Curcumin|Deferoxamine|Dronabinol|Ellagic Acid|Fluorides|Glucose|Haloperidol|Hydrogen Peroxide|Kainic Acid|Lithium|Minocycline|Nitrites|Ozone|Particulate Matter|Plant Extracts|Resveratrol|Rosiglitazone|Sodium Fluoride|Streptozocin,0,
+NADP binding,GO:0050661,Alzheimer Disease,MESH:D000544,0,,3,GAPDHS|MTHFR|NOS3
+NAD(P)H oxidase H2O2-forming activity,GO:0016174,Alzheimer Disease,MESH:D000544,8,Air Pollutants|Aluminum Chloride|Celecoxib|Glucose|Hydrogen Peroxide|Nicotine|Particulate Matter|Resveratrol,0,
+NAD+-protein ADP-ribosyltransferase activity,GO:1990404,Alzheimer Disease,MESH:D000544,1,Hydrogen Peroxide,0,
+nerve growth factor binding,GO:0048406,Alzheimer Disease,MESH:D000544,0,,1,A2M
+nerve growth factor receptor binding,GO:0005163,Alzheimer Disease,MESH:D000544,0,,1,BDNF
+neuropeptide hormone activity,GO:0005184,Alzheimer Disease,MESH:D000544,0,,3,CRH|NPY|PYY
+neuropeptide Y receptor binding,GO:0031841,Alzheimer Disease,MESH:D000544,0,,2,NPY|PYY
+neuropilin binding,GO:0038191,Alzheimer Disease,MESH:D000544,0,,1,VEGFA
+neurotransmitter receptor activity,GO:0030594,Alzheimer Disease,MESH:D000544,0,,2,CHRNA7|CHRNB2
+neurotransmitter receptor regulator activity,GO:0099602,Alzheimer Disease,MESH:D000544,0,,1,PTK2B
+neurotrophin TRKB receptor binding,GO:0005169,Alzheimer Disease,MESH:D000544,0,,1,BDNF
+NF-kappaB binding,GO:0051059,Alzheimer Disease,MESH:D000544,0,,1,GSK3B
+nitric-oxide synthase activity,GO:0004517,Alzheimer Disease,MESH:D000544,2,Cadmium|Resveratrol,1,NOS3
+nitric-oxide synthase binding,GO:0050998,Alzheimer Disease,MESH:D000544,0,,2,CALM1|NOS3
+nitric-oxide synthase regulator activity,GO:0030235,Alzheimer Disease,MESH:D000544,0,,2,CALM1|ESR1
+NMDA glutamate receptor activity,GO:0004972,Alzheimer Disease,MESH:D000544,1,Glucose,0,
+non-membrane spanning protein tyrosine kinase activity,GO:0004715,Alzheimer Disease,MESH:D000544,0,,1,PTK2B
+nuclear estrogen receptor activity,GO:0030284,Alzheimer Disease,MESH:D000544,0,,1,ESR1
+nuclear estrogen receptor binding,GO:0030331,Alzheimer Disease,MESH:D000544,0,,2,ESR1|PPARG
+nuclear receptor activity,GO:0004879,Alzheimer Disease,MESH:D000544,0,,3,ESR1|INPP5D|PPARG
+nuclear retinoid X receptor binding,GO:0046965,Alzheimer Disease,MESH:D000544,0,,1,PPARG
+nuclear steroid receptor activity,GO:0003707,Alzheimer Disease,MESH:D000544,0,,1,ESR1
+nucleic acid binding,GO:0003676,Alzheimer Disease,MESH:D000544,0,,5,ARC|IGF1|PPARG|TSPAN14|WWOX
+nucleoside triphosphate diphosphatase activity,GO:0047429,Alzheimer Disease,MESH:D000544,1,Streptozocin,0,
+nucleotide binding,GO:0000166,Alzheimer Disease,MESH:D000544,0,,3,ABCA7|AMFR|ATP7
+nucleotide binding,GO:0000166,Alzheimer Disease 9,MESH:C563834,0,,1,ABCA7
+nutrient reservoir activity,GO:0045735,Alzheimer Disease,MESH:D000544,2,Air Pollutants|Particulate Matter,0,
+oxidoreductase activity,GO:0016491,Alzheimer Disease,MESH:D000544,0,,9,CYP2D6|DHCR24|GAPDHS|MAOB|MPO|MTHFR|NOS3|SOD2|WWOX
+"oxidoreductase activity, acting on NAD(P)H",GO:0016651,Alzheimer Disease,MESH:D000544,1,Curcumin,0,
+"oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, reduced flavin or flavoprotein as one donor, and incorporation of one atom of oxygen",GO:0016712,Alzheimer Disease,MESH:D000544,0,,1,CYP2D6
+"oxidoreductase activity, acting on the aldehyde or oxo group of donors, NAD or NADP as acceptor",GO:0016620,Alzheimer Disease,MESH:D000544,0,,2,GAPDHS|SPRED2
+"oxidoreductase activity, acting on the CH-CH group of donors, NAD or NADP as acceptor",GO:0016628,Alzheimer Disease,MESH:D000544,0,,1,DHCR24
+"oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor",GO:0016616,Alzheimer Disease,MESH:D000544,0,,1,WWOX
+oxoglutarate dehydrogenase (succinyl-transferring) activity,GO:0004591,Alzheimer Disease,MESH:D000544,1,Cadmium,0,
+oxygen binding,GO:0019825,Alzheimer Disease,MESH:D000544,2,Curcumin|Resveratrol,1,SOD2
+p53 binding,GO:0002039,Alzheimer Disease,MESH:D000544,0,,1,GSK3B
+palmitoyltransferase activity,GO:0016409,Alzheimer Disease,MESH:D000544,0,,1,APP
+PDZ domain binding,GO:0030165,Alzheimer Disease,MESH:D000544,0,,1,PSEN1
+PDZ domain binding,GO:0030165,"Alzheimer Disease, Familial, 3, with Spastic Paraparesis and Apraxia",MESH:C564330,0,,1,PSEN1
+peptidase activator activity,GO:0016504,Alzheimer Disease,MESH:D000544,0,,1,APP
+peptidase activator activity involved in apoptotic process,GO:0016505,Alzheimer Disease,MESH:D000544,6,Deferoxamine|Glucose|Hydrogen Peroxide|Kainic Acid|Melatonin|Plant Extracts,0,
+peptidase activity,GO:0008233,Alzheimer Disease,MESH:D000544,1,Particulate Matter,11,ACE|ADAMTS1|BACE1|CASP3|F2|IDE|NCSTN|PLAU|PSEN1|PSEN2|TPP1
+peptidase activity,GO:0008233,"Alzheimer Disease, Familial, 3, with Spastic Paraparesis and Apraxia",MESH:C564330,0,,1,PSEN1
+peptidase activity,GO:0008233,Alzheimer disease type 4,MESH:C536596,0,,1,PSEN2
+peptidase inhibitor activity,GO:0030414,Alzheimer Disease,MESH:D000544,0,,2,A2M|CST3
+peptide antigen binding,GO:0042605,Alzheimer Disease,MESH:D000544,0,,3,DHCR24|HFE|HLA-DRB5
+peptide binding,GO:0042277,Alzheimer Disease,MESH:D000544,0,,3,IDE|PPARG|TPP1
+peptide hormone binding,GO:0017046,Alzheimer Disease,MESH:D000544,0,,1,IDE
+peptide hormone receptor binding,GO:0051428,Alzheimer Disease,MESH:D000544,0,,1,LEP
+peptidoglycan binding,GO:0042834,Alzheimer Disease,MESH:D000544,0,,1,TREM2
+peptidyl-dipeptidase activity,GO:0008241,Alzheimer Disease,MESH:D000544,0,,1,ACE
+peptidyl-prolyl cis-trans isomerase activity,GO:0003755,Alzheimer Disease,MESH:D000544,0,,1,APOE
+peptidyl-prolyl cis-trans isomerase activity,GO:0003755,"Alzheimer Disease, Familial, 3, with Spastic Paraparesis and Apraxia",MESH:C564330,0,,1,APOE
+peptidyl-prolyl cis-trans isomerase activity,GO:0003755,Alzheimer disease type 2,MESH:C536595,0,,1,APOE
+peptidyl-prolyl cis-trans isomerase activity,GO:0003755,Alzheimer disease type 4,MESH:C536596,0,,1,APOE
+peroxidase activity,GO:0004601,Alzheimer Disease,MESH:D000544,1,Curcumin,1,MPO
+phosphatase activity,GO:0016791,Alzheimer Disease,MESH:D000544,1,Cadmium,1,INPP5D
+phosphatidylcholine binding,GO:0031210,Alzheimer Disease,MESH:D000544,0,,1,APOC1
+phosphatidylcholine floppase activity,GO:0090554,Alzheimer Disease,MESH:D000544,0,,1,ABCA7
+phosphatidylcholine floppase activity,GO:0090554,Alzheimer Disease 9,MESH:C563834,0,,1,ABCA7
+phosphatidylcholine phospholipase C activity,GO:0034480,Alzheimer Disease,MESH:D000544,0,,1,PLCG2
+phosphatidylcholine-sterol O-acyltransferase activator activity,GO:0060228,Alzheimer Disease,MESH:D000544,0,,2,APOC1|APOE
+phosphatidylcholine-sterol O-acyltransferase activator activity,GO:0060228,"Alzheimer Disease, Familial, 3, with Spastic Paraparesis and Apraxia",MESH:C564330,0,,1,APOE
+phosphatidylcholine-sterol O-acyltransferase activator activity,GO:0060228,Alzheimer disease type 2,MESH:C536595,0,,1,APOE
+phosphatidylcholine-sterol O-acyltransferase activator activity,GO:0060228,Alzheimer disease type 4,MESH:C536596,0,,1,APOE
+phosphatidylethanolamine binding,GO:0008429,Alzheimer Disease,MESH:D000544,0,,1,TREM2
+"phosphatidylinositol-3,4,5-trisphosphate 3-phosphatase activity",GO:0016314,Alzheimer Disease,MESH:D000544,0,,1,INPP5D
+"phosphatidylinositol-3,4,5-trisphosphate 5-phosphatase activity",GO:0034485,Alzheimer Disease,MESH:D000544,0,,1,INPP5D
+phosphatidylinositol 3-kinase activity,GO:0035004,Alzheimer Disease,MESH:D000544,1,Sodium Fluoride,0,
+phosphatidylinositol 3-kinase binding,GO:0043548,Alzheimer Disease,MESH:D000544,0,,3,CALM1|IGF1R|INSR
+phosphatidylinositol 3-kinase regulatory subunit binding,GO:0036312,Alzheimer Disease,MESH:D000544,0,,2,CD2AP|ESR1
+"phosphatidylinositol-4,5-bisphosphate 5-phosphatase activity",GO:0004439,Alzheimer Disease,MESH:D000544,0,,1,INPP5D
+"phosphatidylinositol-4,5-bisphosphate binding",GO:0005546,Alzheimer Disease,MESH:D000544,0,,1,PICALM
+phosphatidylinositol binding,GO:0035091,Alzheimer Disease,MESH:D000544,0,,1,MAPT
+phosphatidylinositol bisphosphate binding,GO:1902936,Alzheimer Disease,MESH:D000544,0,,1,MAPT
+phosphatidylinositol phospholipase C activity,GO:0004435,Alzheimer Disease,MESH:D000544,0,,1,PLCG2
+phosphatidylserine binding,GO:0001786,Alzheimer Disease,MESH:D000544,0,,1,TREM2
+phosphatidylserine floppase activity,GO:0090556,Alzheimer Disease,MESH:D000544,1,Reactive Oxygen Species,1,ABCA7
+phosphatidylserine floppase activity,GO:0090556,Alzheimer Disease 9,MESH:C563834,0,,1,ABCA7
+phosphoenolpyruvate carboxykinase activity,GO:0004611,Alzheimer Disease,MESH:D000544,2,Plant Extracts|Streptozocin,0,
+phosphofructokinase activity,GO:0008443,Alzheimer Disease,MESH:D000544,1,Acrolein,0,
+phospholipase A2 activator activity,GO:0016005,Alzheimer Disease,MESH:D000544,0,,1,CASP3
+phospholipase A2 activity,GO:0004623,Alzheimer Disease,MESH:D000544,2,Cadmium|Indomethacin,0,
+phospholipase C activity,GO:0004629,Alzheimer Disease,MESH:D000544,0,,1,PLCG2
+phospholipase D activity,GO:0004630,Alzheimer Disease,MESH:D000544,0,,1,HMOX1
+phospholipase inhibitor activity,GO:0004859,Alzheimer Disease,MESH:D000544,0,,1,APOC1
+phospholipid binding,GO:0005543,Alzheimer Disease,MESH:D000544,0,,3,APOE|BIN1|TREM2
+phospholipid binding,GO:0005543,"Alzheimer Disease, Familial, 3, with Spastic Paraparesis and Apraxia",MESH:C564330,0,,1,APOE
+phospholipid binding,GO:0005543,Alzheimer disease type 2,MESH:C536595,0,,1,APOE
+phospholipid binding,GO:0005543,Alzheimer disease type 4,MESH:C536596,0,,1,APOE
+phospholipid transporter activity,GO:0005548,Alzheimer Disease,MESH:D000544,0,,1,ABCA7
+phospholipid transporter activity,GO:0005548,Alzheimer Disease 9,MESH:C563834,0,,1,ABCA7
+phosphoprotein binding,GO:0051219,Alzheimer Disease,MESH:D000544,0,,1,IGF2R
+phosphopyruvate hydratase activity,GO:0004634,Alzheimer Disease,MESH:D000544,0,,1,ENO1
+phosphoric diester hydrolase activity,GO:0008081,Alzheimer Disease,MESH:D000544,0,,1,PLCG2
+phosphorylation-dependent protein binding,GO:0140031,Alzheimer Disease,MESH:D000544,0,,1,PLCG2
+phosphotyrosine residue binding,GO:0001784,Alzheimer Disease,MESH:D000544,0,,2,NCK2|PLCG2
+placental growth factor receptor activity,GO:0036332,Alzheimer Disease,MESH:D000544,0,,3,EPHA1|IGF1R|INSR
+platelet-derived growth factor alpha-receptor activity,GO:0005018,Alzheimer Disease,MESH:D000544,0,,3,EPHA1|IGF1R|INSR
+platelet-derived growth factor beta-receptor activity,GO:0005019,Alzheimer Disease,MESH:D000544,0,,3,EPHA1|IGF1R|INSR
+platelet-derived growth factor receptor binding,GO:0005161,Alzheimer Disease,MESH:D000544,0,,1,VEGFA
+porin activity,GO:0015288,Alzheimer Disease,MESH:D000544,0,,1,TOMM40
+preprotein binding,GO:0070678,Alzheimer Disease,MESH:D000544,0,,1,TOMM40
+primary amine oxidase activity,GO:0008131,Alzheimer Disease,MESH:D000544,0,,1,MAOB
+promoter-specific chromatin binding,GO:1990841,Alzheimer Disease,MESH:D000544,0,,2,ESR1|PPARG
+prostaglandin-endoperoxide synthase activity,GO:0004666,Alzheimer Disease,MESH:D000544,2,"Cholesterol, Dietary|Particulate Matter",0,
+prostaglandin receptor activity,GO:0004955,Alzheimer Disease,MESH:D000544,0,,1,PPARG
+protease binding,GO:0002020,Alzheimer Disease,MESH:D000544,0,,10,A2M|ATP5F1A|BCL2|BIN1|CASP3|CST3|GSK3B|INS|PRNP|TNF
+protein binding,GO:0005515,Alzheimer Disease,MESH:D000544,0,,94,A2M|ABCA7|ABI3|ACE|ACHE|ADAM10|ADAMTS1|AMFR|APH1B|APOC1|APOE|APP|ARC|ATP5F1A|BACE1|BAX|BCHE|BCL2|BDNF|BIN1|CALM1|CASP3|CASS4|CCDC6|CD2AP|CD33|CHRNA7|CHRNB2|CLU|CR1|CRH|CST3|DHCR24|DPYSL2|EIF2S1|ENO1|EPHA1|ESR1|F2|GAPDHS|GSK3B|HFE|HLA-DRB5|HMOX1|IDE|IGF1|IGF1R|IGF2|IGF2R|IL1B|INPP5D|INS|INSR|IQCK|LEP|MAOB|MAPT|MPO|MS4A4A|MTHFR|NCK2|NCSTN|NECTIN2|NOS3|NPY|PCDH11X|PGRMC1|PICALM|PILRA|PLAU|PLCG2|PPARG|PRNP|PSEN1|PSEN2|PTK2B|PYY|RELN|SLC2A4|SLC30A4|SLC30A6|SOD2|SPRED2|TF|TFAM|TNF|TOMM40|TPI1|TPP1|TREM2|TSPAN14|VEGFA|VSNL1|WWOX
+protein binding,GO:0005515,ALZHEIMER DISEASE 18,OMIM:615590,0,,1,ADAM10
+protein binding,GO:0005515,Alzheimer Disease 9,MESH:C563834,0,,1,ABCA7
+protein binding,GO:0005515,"Alzheimer Disease, Familial, 3, with Spastic Paraparesis and Apraxia",MESH:C564330,0,,2,APOE|PSEN1
+protein binding,GO:0005515,Alzheimer disease type 2,MESH:C536595,0,,1,APOE
+protein binding,GO:0005515,Alzheimer disease type 4,MESH:C536596,0,,2,APOE|PSEN2
+protein carrier chaperone,GO:0140597,Alzheimer Disease,MESH:D000544,0,,1,CLU
+protein-containing complex binding,GO:0044877,Alzheimer Disease,MESH:D000544,0,,19,APOE|BAX|BCL2|BIN1|CASP3|CD2AP|CHRNB2|CLU|ENO1|ESR1|IDE|IGF1R|INSR|MAPT|MTHFR|NCK2|PRNP|PTK2B|TREM2
+protein-containing complex binding,GO:0044877,"Alzheimer Disease, Familial, 3, with Spastic Paraparesis and Apraxia",MESH:C564330,0,,1,APOE
+protein-containing complex binding,GO:0044877,Alzheimer disease type 2,MESH:C536595,0,,1,APOE
+protein-containing complex binding,GO:0044877,Alzheimer disease type 4,MESH:C536596,0,,1,APOE
+protein-cysteine S-palmitoyltransferase activity,GO:0019706,Alzheimer Disease,MESH:D000544,0,,1,APP
+protein dimerization activity,GO:0046983,Alzheimer Disease,MESH:D000544,0,,1,APOE
+protein dimerization activity,GO:0046983,"Alzheimer Disease, Familial, 3, with Spastic Paraparesis and Apraxia",MESH:C564330,0,,1,APOE
+protein dimerization activity,GO:0046983,Alzheimer disease type 2,MESH:C536595,0,,1,APOE
+protein dimerization activity,GO:0046983,Alzheimer disease type 4,MESH:C536596,0,,1,APOE
+protein domain specific binding,GO:0019904,Alzheimer Disease,MESH:D000544,0,,4,APP|CALM1|IL1B|INSR
+protein-glutamine gamma-glutamyltransferase activity,GO:0003810,Alzheimer Disease,MESH:D000544,1,Cadmium,0,
+protein heterodimerization activity,GO:0046982,Alzheimer Disease,MESH:D000544,0,,4,APP|BAX|BCL2|CLU
+protein homodimerization activity,GO:0042803,Alzheimer Disease,MESH:D000544,0,,15,ACE|ACHE|ADAM10|APOE|APP|BAX|BCL2|CHRNA7|ENO1|HMOX1|IDE|NECTIN2|PGRMC1|TPI1|VEGFA
+protein homodimerization activity,GO:0042803,ALZHEIMER DISEASE 18,OMIM:615590,0,,1,ADAM10
+protein homodimerization activity,GO:0042803,"Alzheimer Disease, Familial, 3, with Spastic Paraparesis and Apraxia",MESH:C564330,0,,1,APOE
+protein homodimerization activity,GO:0042803,Alzheimer disease type 2,MESH:C536595,0,,1,APOE
+protein homodimerization activity,GO:0042803,Alzheimer disease type 4,MESH:C536596,0,,1,APOE
+protein kinase A catalytic subunit binding,GO:0034236,Alzheimer Disease,MESH:D000544,0,,1,GSK3B
+protein kinase activator activity,GO:0030295,Alzheimer Disease,MESH:D000544,0,,1,INSR
+protein kinase activity,GO:0004672,Alzheimer Disease,MESH:D000544,0,,4,EPHA1|GSK3B|INSR|PTK2B
+protein kinase binding,GO:0019901,Alzheimer Disease,MESH:D000544,0,,12,ADAM10|APP|CALM1|CHRNA7|DPYSL2|EPHA1|ESR1|GSK3B|INSR|MAPT|PLCG2|SPRED2
+protein kinase binding,GO:0019901,ALZHEIMER DISEASE 18,OMIM:615590,0,,1,ADAM10
+protein kinase C activity,GO:0004697,Alzheimer Disease,MESH:D000544,3,Dichlorodiphenyl Dichloroethylene|Glucose|Streptozocin,0,
+protein-macromolecule adaptor activity,GO:0030674,Alzheimer Disease,MESH:D000544,0,,4,AMFR|APH1B|MAPT|NCSTN
+protein phosphatase 2A binding,GO:0051721,Alzheimer Disease,MESH:D000544,0,,2,BCL2|MAPT
+protein phosphatase activator activity,GO:0072542,Alzheimer Disease,MESH:D000544,0,,1,CALM1
+protein phosphatase binding,GO:0019903,Alzheimer Disease,MESH:D000544,0,,4,BCL2|CD33|INSR|PPARG
+protein serine kinase activity,GO:0106310,Alzheimer Disease,MESH:D000544,0,,1,GSK3B
+protein serine/threonine kinase activator activity,GO:0043539,Alzheimer Disease,MESH:D000544,0,,3,CALM1|IGF1|IGF2
+protein serine/threonine kinase activity,GO:0004674,Alzheimer Disease,MESH:D000544,1,Streptozocin,1,GSK3B
+protein serine/threonine kinase binding,GO:0120283,Alzheimer Disease,MESH:D000544,0,,3,APP|BACE1|GSK3B
+protein serine/threonine kinase inhibitor activity,GO:0030291,Alzheimer Disease,MESH:D000544,0,,1,SPRED2
+protein transmembrane transporter activity,GO:0008320,Alzheimer Disease,MESH:D000544,0,,1,TOMM40
+protein transporter activity,GO:0140318,Alzheimer Disease,MESH:D000544,0,,1,IGF1R
+protein tyrosine kinase activity,GO:0004713,Alzheimer Disease,MESH:D000544,0,,3,IGF1R|INSR|PTK2B
+protein tyrosine kinase binding,GO:1990782,Alzheimer Disease,MESH:D000544,0,,3,CASS4|PLCG2|TREM2
+protein tyrosine kinase collagen receptor activity,GO:0038062,Alzheimer Disease,MESH:D000544,0,,3,EPHA1|IGF1R|INSR
+protein tyrosine phosphatase activator activity,GO:0008160,Alzheimer Disease,MESH:D000544,0,,1,CD33
+protein tyrosine phosphatase activity,GO:0004725,Alzheimer Disease,MESH:D000544,1,Particulate Matter,0,
+"proton-transporting ATPase activity, rotational mechanism",GO:0046961,Alzheimer Disease,MESH:D000544,5,Apigenin|Curcumin|Ellagic Acid|Resveratrol|Zinc,0,
+"proton-transporting ATP synthase activity, rotational mechanism",GO:0046933,Alzheimer Disease,MESH:D000544,2,Air Pollutants|Particulate Matter,1,ATP5F1A
+PTB domain binding,GO:0051425,Alzheimer Disease,MESH:D000544,0,,2,APP|INSR
+P-type calcium transporter activity,GO:0005388,Alzheimer Disease,MESH:D000544,3,Apigenin|Cadmium|Curcumin,0,
+P-type divalent copper transporter activity,GO:0043682,Alzheimer Disease,MESH:D000544,0,,1,ATP7
+P-type magnesium transporter activity,GO:0015444,Alzheimer Disease,MESH:D000544,1,Cadmium,0,
+P-type sodium:potassium-exchanging transporter activity,GO:0005391,Alzheimer Disease,MESH:D000544,13,Aluminum Chloride|Apigenin|Cadmium|Curcumin|Folic Acid|Glucose|Indomethacin|Kainic Acid|Reserpine|Resveratrol|Serotonin|Streptozocin|Zinc,0,
+P-type sodium:potassium-exchanging transporter activity,GO:0005391,Alzheimer disease type 2,MESH:C536595,1,Manganese,0,
+pyruvate kinase activity,GO:0004743,Alzheimer Disease,MESH:D000544,4,Air Pollutants|Particulate Matter|Streptozocin|Tadalafil,0,
+quaternary ammonium group binding,GO:0050997,Alzheimer Disease,MESH:D000544,0,,1,CHRNB2
+RAGE receptor binding,GO:0050786,Alzheimer Disease,MESH:D000544,0,,1,APP
+receptor ligand activity,GO:0048018,Alzheimer Disease,MESH:D000544,0,,11,APOE|APP|CLU|F2|IGF1|IGF2|IL1B|NECTIN2|RELN|TNF|VEGFA
+receptor ligand activity,GO:0048018,"Alzheimer Disease, Familial, 3, with Spastic Paraparesis and Apraxia",MESH:C564330,0,,1,APOE
+receptor ligand activity,GO:0048018,Alzheimer disease type 2,MESH:C536595,0,,1,APOE
+receptor ligand activity,GO:0048018,Alzheimer disease type 4,MESH:C536596,0,,1,APOE
+receptor tyrosine kinase binding,GO:0030971,Alzheimer Disease,MESH:D000544,0,,1,NCK2
+retinoic acid binding,GO:0001972,Alzheimer Disease,MESH:D000544,0,,1,IGF2R
+retromer complex binding,GO:1905394,Alzheimer Disease,MESH:D000544,0,,1,IGF2R
+Rho-dependent protein serine/threonine kinase activity,GO:0072518,Alzheimer Disease,MESH:D000544,1,Dronabinol,1,GSK3B
+ribosomal protein S6 kinase activity,GO:0004711,Alzheimer Disease,MESH:D000544,0,,1,GSK3B
+ribosome binding,GO:0043022,Alzheimer Disease,MESH:D000544,0,,2,CLU|EIF2S1
+RNA binding,GO:0003723,Alzheimer Disease,MESH:D000544,0,,3,EIF2S1|ENO1|MAPT
+RNA polymerase binding,GO:0070063,Alzheimer Disease,MESH:D000544,0,,1,BIN1
+RNA polymerase II cis-regulatory region sequence-specific DNA binding,GO:0000978,Alzheimer Disease,MESH:D000544,0,,3,APP|ESR1|PPARG
+RNA polymerase II core promoter sequence-specific DNA binding,GO:0000979,Alzheimer Disease,MESH:D000544,0,,1,PPARG
+RNA polymerase II-specific DNA-binding transcription factor binding,GO:0061629,Alzheimer Disease,MESH:D000544,0,,1,GSK3B
+RNA polymerase II transcription regulatory region sequence-specific DNA binding,GO:0000977,Alzheimer Disease,MESH:D000544,0,,3,ENO1|F2|PPARG
+R-SMAD binding,GO:0070412,Alzheimer Disease,MESH:D000544,0,,1,PPARG
+scaffold protein binding,GO:0097110,Alzheimer Disease,MESH:D000544,0,,6,CHRNA7|GSK3B|NCK2|NOS3|PLCG2|TREM2
+semaphorin receptor activity,GO:0017154,Alzheimer Disease,MESH:D000544,0,,1,TREM2
+semaphorin receptor binding,GO:0030215,Alzheimer Disease,MESH:D000544,0,,1,TREM2
+sequence-specific DNA binding,GO:0043565,Alzheimer Disease,MESH:D000544,0,,5,BCL2|ESR1|MAPT|PPARG|TFAM
+sequence-specific double-stranded DNA binding,GO:1990837,Alzheimer Disease,MESH:D000544,0,,1,ESR1
+sequence-specific mRNA binding,GO:1990825,Alzheimer Disease,MESH:D000544,0,,1,MIR146A
+serine hydrolase activity,GO:0017171,Alzheimer Disease,MESH:D000544,0,,1,ACHE
+serine-type endopeptidase activity,GO:0004252,Alzheimer Disease,MESH:D000544,0,,3,F2|PLAU|TPP1
+serine-type endopeptidase inhibitor activity,GO:0004867,Alzheimer Disease,MESH:D000544,0,,2,A2M|APP
+serine-type peptidase activity,GO:0008236,Alzheimer Disease,MESH:D000544,0,,3,F2|RELN|TPP1
+SH2 domain binding,GO:0042169,Alzheimer Disease,MESH:D000544,0,,1,ADAM10
+SH2 domain binding,GO:0042169,ALZHEIMER DISEASE 18,OMIM:615590,0,,1,ADAM10
+SH3 domain binding,GO:0017124,Alzheimer Disease,MESH:D000544,0,,7,ABI3|ADAM10|CCDC6|CD2AP|INPP5D|MAPT|PICALM
+SH3 domain binding,GO:0017124,ALZHEIMER DISEASE 18,OMIM:615590,0,,1,ADAM10
+sialic acid binding,GO:0033691,Alzheimer Disease,MESH:D000544,0,,1,CD33
+signaling adaptor activity,GO:0035591,Alzheimer Disease,MESH:D000544,0,,3,ABI3|BIN1|NCK2
+signaling receptor activator activity,GO:0030546,Alzheimer Disease,MESH:D000544,0,,1,APP
+signaling receptor activity,GO:0038023,Alzheimer Disease,MESH:D000544,0,,5,AMFR|CD33|IGF2R|PRNP|TREM2
+signaling receptor binding,GO:0005102,Alzheimer Disease,MESH:D000544,0,,11,A2M|ADAM10|APOE|APP|BDNF|CLU|CRH|F2|HFE|LEP|NPY
+signaling receptor binding,GO:0005102,ALZHEIMER DISEASE 18,OMIM:615590,0,,1,ADAM10
+signaling receptor binding,GO:0005102,"Alzheimer Disease, Familial, 3, with Spastic Paraparesis and Apraxia",MESH:C564330,0,,1,APOE
+signaling receptor binding,GO:0005102,Alzheimer disease type 2,MESH:C536595,0,,1,APOE
+signaling receptor binding,GO:0005102,Alzheimer disease type 4,MESH:C536596,0,,1,APOE
+signaling receptor complex adaptor activity,GO:0030159,Alzheimer Disease,MESH:D000544,0,,1,NCK2
+single-stranded DNA binding,GO:0003697,Alzheimer Disease,MESH:D000544,0,,1,MAPT
+small GTPase binding,GO:0031267,Alzheimer Disease,MESH:D000544,0,,1,PICALM
+SNARE binding,GO:0000149,Alzheimer Disease,MESH:D000544,0,,1,PICALM
+sodium channel activity,GO:0005272,Alzheimer Disease,MESH:D000544,2,Cadmium|Resveratrol,0,
+starch synthase activity,GO:0009011,Alzheimer Disease,MESH:D000544,2,Nicotine|Streptozocin,0,
+STAT family protein binding,GO:0097677,Alzheimer Disease,MESH:D000544,0,,1,PPARG
+stem cell factor receptor activity,GO:0005020,Alzheimer Disease,MESH:D000544,0,,3,EPHA1|IGF1R|INSR
+stem cell factor receptor binding,GO:0005173,Alzheimer Disease,MESH:D000544,0,,1,SPRED2
+steroid binding,GO:0005496,Alzheimer Disease,MESH:D000544,0,,3,ESR1|IGF1|PGRMC1
+steroid hormone binding,GO:1990239,Alzheimer Disease,MESH:D000544,0,,1,ESR1
+steroid hydroxylase activity,GO:0008395,Alzheimer Disease,MESH:D000544,0,,1,CYP46A1
+structural constituent of cytoskeleton,GO:0005200,Alzheimer Disease,MESH:D000544,0,,2,CCDC6|CD2AP
+structural constituent of ribosome,GO:0003735,Alzheimer Disease,MESH:D000544,0,,1,CASS4
+structural molecule activity,GO:0005198,Alzheimer Disease,MESH:D000544,0,,5,APOE|ARC|HMOX1|IGF1R|INSR
+structural molecule activity,GO:0005198,"Alzheimer Disease, Familial, 3, with Spastic Paraparesis and Apraxia",MESH:C564330,0,,1,APOE
+structural molecule activity,GO:0005198,Alzheimer disease type 2,MESH:C536595,0,,1,APOE
+structural molecule activity,GO:0005198,Alzheimer disease type 4,MESH:C536596,0,,1,APOE
+succinate dehydrogenase activity,GO:0000104,Alzheimer Disease,MESH:D000544,9,Cadmium|Celecoxib|Curcumin|Hydrogen Peroxide|Niacin|Plant Extracts|Sodium Fluoride|Streptozocin|Zinc,0,
+succinate dehydrogenase (ubiquinone) activity,GO:0008177,Alzheimer Disease,MESH:D000544,14,2-butenal|Berberine|Cadmium|Cannabidiol|Copper Sulfate|Curcumin|Deferoxamine|Dronabinol|Ellagic Acid|Glucose|Lithium|Melatonin|Nitrites|Streptozocin,0,
+sucrose alpha-glucosidase activity,GO:0004575,Alzheimer Disease,MESH:D000544,3,Folic Acid|Streptozocin|Vitamin B 12,0,
+sulfate binding,GO:0043199,Alzheimer Disease,MESH:D000544,0,,1,ACE
+sulfatide binding,GO:0120146,Alzheimer Disease,MESH:D000544,0,,2,TPP1|TREM2
+sulfotransferase activity,GO:0008146,Alzheimer Disease,MESH:D000544,1,Plant Extracts,0,
+superoxide dismutase activity,GO:0004784,Alzheimer Disease,MESH:D000544,53,"2-butenal|5-Methoxypsoralen|6,7-dihydroxyflavone|Acrolein|Air Pollutants|Aluminum|Aluminum Chloride|Apigenin|Berberine|Cadmium|Cannabidiol|Celecoxib|Cholesterol, Dietary|Colchicine|Copper|Copper Sulfate|cupric chloride|Curcumin|Deferoxamine|Donepezil|Dronabinol|Ellagic Acid|Fluorides|Folic Acid|Galactose|Ginkgo biloba extract|Glucose|Homocysteine|Hydrogen Peroxide|Ibuprofen|icariin|Indomethacin|Iron|Melatonin|Nanotubes, Carbon|Niacin|Nicotine|Ozone|Paroxetine|Particulate Matter|Plant Extracts|Plant Preparations|puag-haad|Resveratrol|Rivastigmine|Rosiglitazone|Scopolamine|Sodium Fluoride|Streptozocin|Tacrine|Trichlorfon|Vitamin B 12|Zinc",1,SOD2
+superoxide dismutase activity,GO:0004784,Alzheimer disease type 2,MESH:C536595,1,Manganese,0,
+superoxide-generating NAD(P)H oxidase activity,GO:0016175,Alzheimer Disease,MESH:D000544,0,,1,NOS3
+superoxide-generating NADPH oxidase activity,GO:0106292,Alzheimer Disease,MESH:D000544,2,Curcumin|Glucose,0,
+tau protein binding,GO:0048156,Alzheimer Disease,MESH:D000544,0,,5,APOE|BIN1|CLU|GSK3B|PICALM
+tau protein binding,GO:0048156,"Alzheimer Disease, Familial, 3, with Spastic Paraparesis and Apraxia",MESH:C564330,0,,1,APOE
+tau protein binding,GO:0048156,Alzheimer disease type 2,MESH:C536595,0,,1,APOE
+tau protein binding,GO:0048156,Alzheimer disease type 4,MESH:C536596,0,,1,APOE
+tau-protein kinase activity,GO:0050321,Alzheimer Disease,MESH:D000544,0,,1,GSK3B
+TBP-class protein binding,GO:0017025,Alzheimer Disease,MESH:D000544,0,,1,ESR1
+telomerase activity,GO:0003720,Alzheimer Disease,MESH:D000544,2,Air Pollutants|Particulate Matter,0,
+testosterone 16-beta-hydroxylase activity,GO:0062184,Alzheimer Disease,MESH:D000544,0,,1,CYP46A1
+testosterone 6-beta-hydroxylase activity,GO:0050649,Alzheimer Disease,MESH:D000544,0,,1,CYP46A1
+tetrahydrobiopterin binding,GO:0034617,Alzheimer Disease,MESH:D000544,0,,1,NOS3
+TFIIB-class transcription factor binding,GO:0001093,Alzheimer Disease,MESH:D000544,0,,1,ESR1
+thioredoxin-disulfide reductase activity,GO:0004791,Alzheimer Disease,MESH:D000544,5,Cadmium|cupric chloride|Curcumin|Iron|Streptozocin,0,
+thrombospondin receptor activity,GO:0070053,Alzheimer Disease,MESH:D000544,0,,1,F2
+titin binding,GO:0031432,Alzheimer Disease,MESH:D000544,0,,1,CALM1
+toxic substance binding,GO:0015643,Alzheimer Disease,MESH:D000544,0,,1,CHRNA7
+transaminase activity,GO:0008483,Alzheimer Disease,MESH:D000544,2,"Metals, Heavy|Plant Extracts",0,
+transcription cis-regulatory region binding,GO:0000976,Alzheimer Disease,MESH:D000544,0,,3,PPARG|TFAM|TNF
+transcription coactivator activity,GO:0003713,Alzheimer Disease,MESH:D000544,0,,1,WWOX
+transcription coactivator binding,GO:0001223,Alzheimer Disease,MESH:D000544,0,,3,ESR1|PPARG|TFAM
+transcription coregulator binding,GO:0001221,Alzheimer Disease,MESH:D000544,0,,2,ESR1|PPARG
+transcription corepressor activity,GO:0003714,Alzheimer Disease,MESH:D000544,0,,2,BIN1|ENO1
+transcription corepressor binding,GO:0001222,Alzheimer Disease,MESH:D000544,0,,2,ENO1|ESR1
+transcription factor binding,GO:0008134,Alzheimer Disease,MESH:D000544,0,,3,BCL2|BIN1|ESR1
+transferrin receptor binding,GO:1990459,Alzheimer Disease,MESH:D000544,0,,2,HFE|TF
+transition metal ion binding,GO:0046914,Alzheimer Disease,MESH:D000544,0,,2,APP|NCSTN
+transketolase activity,GO:0004802,Alzheimer Disease,MESH:D000544,1,Glucose,0,
+translation initiation factor activity,GO:0003743,Alzheimer Disease,MESH:D000544,0,,1,EIF2S1
+transmembrane-ephrin receptor activity,GO:0005005,Alzheimer Disease,MESH:D000544,0,,3,EPHA1|IGF1R|INSR
+transmembrane receptor protein tyrosine kinase activator activity,GO:0030297,Alzheimer Disease,MESH:D000544,0,,3,IGF1|IGF2|VEGFA
+transmembrane receptor protein tyrosine kinase activity,GO:0004714,Alzheimer Disease,MESH:D000544,0,,3,IGF1R|INSR|PTK2B
+transmembrane signaling receptor activity,GO:0004888,Alzheimer Disease,MESH:D000544,0,,3,CHRNA7|CHRNB2|TREM2
+transmembrane transporter activity,GO:0022857,Alzheimer Disease,MESH:D000544,0,,2,CLU|SLC2A4
+transmembrane transporter binding,GO:0044325,Alzheimer Disease,MESH:D000544,0,,3,CALM1|PRNP|TF
+transmitter-gated monoatomic ion channel activity involved in regulation of postsynaptic membrane potential,GO:1904315,Alzheimer Disease,MESH:D000544,0,,2,CHRNA7|CHRNB2
+trehalase activity,GO:0015927,Alzheimer Disease,MESH:D000544,1,Ozone,0,
+triose-phosphate isomerase activity,GO:0004807,Alzheimer Disease,MESH:D000544,0,,1,TPI1
+tripeptidyl-peptidase activity,GO:0008240,Alzheimer Disease,MESH:D000544,0,,2,ACE|TPP1
+tRNA-intron endonuclease activity,GO:0000213,Alzheimer Disease,MESH:D000544,0,,1,PPARG
+"tryptophan 2,3-dioxygenase activity",GO:0004833,Alzheimer Disease,MESH:D000544,1,Cadmium,0,
+tubulin binding,GO:0015631,Alzheimer Disease,MESH:D000544,0,,1,PRNP
+tumor necrosis factor binding,GO:0043120,Alzheimer Disease,MESH:D000544,0,,1,A2M
+tumor necrosis factor receptor binding,GO:0005164,Alzheimer Disease,MESH:D000544,0,,1,TNF
+type 1 metabotropic glutamate receptor binding,GO:0031798,Alzheimer Disease,MESH:D000544,0,,1,ESR1
+type 2 neuropeptide Y receptor binding,GO:0031843,Alzheimer Disease,MESH:D000544,0,,1,NPY
+type 3 metabotropic glutamate receptor binding,GO:0031800,Alzheimer Disease,MESH:D000544,0,,1,CALM1
+type 5 metabotropic glutamate receptor binding,GO:0031802,Alzheimer Disease,MESH:D000544,0,,1,PRNP
+ubiquinol-cytochrome-c reductase activity,GO:0008121,Alzheimer Disease,MESH:D000544,7,2-butenal|Cadmium|Curcumin|Deferoxamine|Ellagic Acid|Haloperidol|Nitrites,0,
+ubiquitin binding,GO:0043130,Alzheimer Disease,MESH:D000544,0,,1,AMFR
+ubiquitin protein ligase activity,GO:0061630,Alzheimer Disease,MESH:D000544,0,,2,AMFR|INS
+ubiquitin protein ligase binding,GO:0031625,Alzheimer Disease,MESH:D000544,0,,5,BCL2|CLU|GSK3B|PTK2B|TPI1
+ubiquitin-protein transferase activity,GO:0004842,Alzheimer Disease,MESH:D000544,0,,1,AMFR
+ubiquitin-specific protease binding,GO:1990381,Alzheimer Disease,MESH:D000544,0,,1,AMFR
+ubiquitin-ubiquitin ligase activity,GO:0034450,Alzheimer Disease,MESH:D000544,0,,1,AMFR
+unfolded protein binding,GO:0051082,Alzheimer Disease,MESH:D000544,0,,1,CLU
+vascular endothelial growth factor receptor 1 binding,GO:0043183,Alzheimer Disease,MESH:D000544,0,,1,VEGFA
+vascular endothelial growth factor receptor 2 binding,GO:0043184,Alzheimer Disease,MESH:D000544,0,,1,VEGFA
+vascular endothelial growth factor receptor activity,GO:0005021,Alzheimer Disease,MESH:D000544,0,,3,EPHA1|IGF1R|INSR
+vascular endothelial growth factor receptor binding,GO:0005172,Alzheimer Disease,MESH:D000544,0,,2,CD2AP|VEGFA
+very-low-density lipoprotein particle binding,GO:0034189,Alzheimer Disease,MESH:D000544,0,,1,TREM2
+very-low-density lipoprotein particle receptor binding,GO:0070326,Alzheimer Disease,MESH:D000544,0,,2,APOE|RELN
+very-low-density lipoprotein particle receptor binding,GO:0070326,"Alzheimer Disease, Familial, 3, with Spastic Paraparesis and Apraxia",MESH:C564330,0,,1,APOE
+very-low-density lipoprotein particle receptor binding,GO:0070326,Alzheimer disease type 2,MESH:C536595,0,,1,APOE
+very-low-density lipoprotein particle receptor binding,GO:0070326,Alzheimer disease type 4,MESH:C536596,0,,1,APOE
+virus receptor activity,GO:0001618,Alzheimer Disease,MESH:D000544,0,,3,CR1|IDE|NECTIN2
+voltage-gated calcium channel activity,GO:0005245,Alzheimer Disease,MESH:D000544,1,Glucose,0,
+voltage-gated potassium channel activity,GO:0005249,Alzheimer Disease,MESH:D000544,1,Glucose,0,
+WW domain binding,GO:0050699,Alzheimer Disease,MESH:D000544,0,,1,PPARG
+xanthine oxidase activity,GO:0004855,Alzheimer Disease,MESH:D000544,2,Colchicine|Zinc,0,
+zinc ion binding,GO:0008270,Alzheimer Disease,MESH:D000544,0,,8,ACE|ADAMTS1|AMFR|ARC|CLU|ESR1|IDE|PPARG
+zinc ion transmembrane transporter activity,GO:0005385,Alzheimer Disease,MESH:D000544,0,,2,SLC30A4|SLC30A6

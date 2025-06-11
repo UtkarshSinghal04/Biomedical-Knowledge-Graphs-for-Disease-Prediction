@@ -1,0 +1,2 @@
+GOName,GOID,DiseaseName,DiseaseID,InferenceChemicalQty,InferenceChemicalNames,InferenceGeneQty,InferenceGeneSymbols
+neuron projection,GO:0043005,Retinal Hemorrhage,MESH:D012166,1,Tretinoin,0,

@@ -1,0 +1,266 @@
+GOName,GOID,DiseaseName,DiseaseID,InferenceChemicalQty,InferenceChemicalNames,InferenceGeneQty,InferenceGeneSymbols
+acrosomal membrane,GO:0002080,Non-alcoholic Fatty Liver Disease,MESH:D065626,1,sodium arsenite,0,
+acrosomal vesicle,GO:0001669,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,PRKACA
+actin filament,GO:0005884,Non-alcoholic Fatty Liver Disease,MESH:D065626,2,Cadmium|Cadmium Chloride,0,
+adherens junction,GO:0005912,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,RDX
+alphav-beta3 integrin-PKCalpha complex,GO:0035866,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,PRKCA
+apical dendrite,GO:0097440,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,FAS
+apical part of cell,GO:0045177,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,4,LDLR|PRKCA|RDX|VLDLR
+apical plasma membrane,GO:0016324,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,8,ABCB4|ABCC2|FAS|LDLR|PTEN|RDX|SCARB1|VLDLR
+apoptotic body,GO:0097189,Non-alcoholic Fatty Liver Disease,MESH:D065626,6,Arsenic Trioxide|Cadmium|Cadmium Chloride|Quercetin|Raloxifene Hydrochloride|sodium arsenite,0,
+aryl hydrocarbon receptor complex,GO:0034751,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,2,AHR|AHR2
+autolysosome,GO:0044754,Non-alcoholic Fatty Liver Disease,MESH:D065626,11,Arsenic Trioxide|Cadmium|Cadmium Chloride|Dietary Fats|Glucose|hydroquinone|Niacinamide|Oleic Acid|Palmitic Acid|sodium arsenite|Taurine,0,
+autophagosome,GO:0005776,Non-alcoholic Fatty Liver Disease,MESH:D065626,12,Acetaminophen|Arsenic Trioxide|Benzo(a)pyrene|Cadmium|Cadmium Chloride|Ethanol|Glucose|Palmitic Acid|puerarin|Raloxifene Hydrochloride|Resveratrol|Taurine,0,
+axon,GO:0030424,Non-alcoholic Fatty Liver Disease,MESH:D065626,1,tributyltin,6,ALDH1A1|CYP17A1|PRKCA|SIRT1|TGFB1|TNFRSF1B
+axonal spine,GO:0044308,Non-alcoholic Fatty Liver Disease,MESH:D065626,2,Cadmium|Cadmium Chloride,0,
+axoneme,GO:0005930,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,PRKACA
+azurophil granule lumen,GO:0035578,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,PRKCD
+basal plasma membrane,GO:0009925,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,ACE
+basement membrane,GO:0005604,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,LAMA1
+basolateral plasma membrane,GO:0016323,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,3,LDLR|MTTP|SCARB1
+blood microparticle,GO:0072562,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,TGFB1
+brush border membrane,GO:0031526,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,4,ABCC2|ACE|MTTP|PEMT
+calcium channel complex,GO:0034704,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,PRKACA
+calyx of Held,GO:0044305,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,PRKCA
+cAMP-dependent protein kinase complex,GO:0005952,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,PRKACA
+catalase complex,GO:0062151,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,CAT
+CatSper complex,GO:0036128,Non-alcoholic Fatty Liver Disease,MESH:D065626,1,bisphenol A,0,
+caveola,GO:0005901,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,3,JAK2|LDLR|SCARB1
+CD40 receptor complex,GO:0035631,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,TNFRSF1B
+CD95 death-inducing signaling complex,GO:0031265,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,FAS
+cell-cell junction,GO:0005911,Non-alcoholic Fatty Liver Disease,MESH:D065626,1,bisphenol A,2,LAMA1|PRKCD
+cell junction,GO:0030054,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,IFI30
+cell periphery,GO:0071944,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,3,ADIPOQ|PRKCE|RDX
+cell projection,GO:0042995,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,2,CYP17A1|PTEN
+cell surface,GO:0009986,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,13,ABCC2|ADIPOQ|APOH|ATP5F1B|CD14|FAS|FOLR2|IL1A|LDLR|SCARB1|TGFB1|TNF|VLDLR
+cell tip,GO:0051286,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,RDX
+cellular_component,GO:0005575,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,3,EIF2AK1|FTO|GPT
+centrosome,GO:0005813,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,3,IL1RN|NFE2L2|PRKACA
+chromatin,GO:0000785,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,10,AHR|ESR1|NFE2L2|NR1H4|NR5A2|PPARA|PPARD|PPARG|SIRT1|SREBF1
+chromatin silencing complex,GO:0005677,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,SIRT1
+chromosome,GO:0005694,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,NR5A2
+chylomicron,GO:0042627,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,APOH
+ciliary basal body,GO:0036064,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,4,ADH1A|ADH1B|NFE2L2|PRKCA
+ciliary base,GO:0097546,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,PRKACA
+cilium,GO:0005929,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,2,ADH1A|ADH1B
+clathrin-coated endocytic vesicle membrane,GO:0030669,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,LDLR
+clathrin-coated pit,GO:0005905,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,2,LDLR|VLDLR
+clathrin-coated vesicle,GO:0030136,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,ABCB4
+cleavage furrow,GO:0032154,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,RDX
+collagen-containing extracellular matrix,GO:0062023,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,3,F2|LAMA1|TGFB1
+collagen trimer,GO:0005581,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,3,ADIPOQ|C1QC|MMP1
+complement component C1 complex,GO:0005602,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,C1QC
+complement component C1q complex,GO:0062167,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,C1QC
+cone photoreceptor outer segment,GO:0120199,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,PRKCA
+COPII-coated ER to Golgi transport vesicle,GO:0030134,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,SERPINA1
+cornified envelope,GO:0001533,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,SERPINB2
+cortical actin cytoskeleton,GO:0030864,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,RDX
+cortical granule,GO:0060473,Non-alcoholic Fatty Liver Disease,MESH:D065626,1,Resveratrol,0,
+creatine kinase complex,GO:0002185,Non-alcoholic Fatty Liver Disease,MESH:D065626,1,Taurine,0,
+Cul3-RING ubiquitin ligase complex,GO:0031463,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,RDX
+cytolytic granule,GO:0044194,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,PRF1
+cytolytic granule lumen,GO:1904856,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,PRF1
+cytoplasm,GO:0005737,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,43,ABCB4|ACE|ADH1A|ADH4|AHR|AHR2|ALDH1A1|CAT|CYP2E1|EIF2AK1|ESR1|FGF21|FTO|GPT|GSTA1|GSTM1|GSTP1|GSTT1|IKBKG|IL1B|JAK2|LEP|MRTFA|NFE2L2|NLRP3|NQO1|NR5A2|PNPLA3|PPARG|PRDX3|PRKACA|PRKCA|PRKCD|PRKCE|PTEN|RDX|SCARB1|SERPINB2|SIRT1|SREBF1|TGFB1|TRIB1|XBP1
+cytoplasmic side of plasma membrane,GO:0009898,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,2,JAK2|PTEN
+cytoplasmic stress granule,GO:0010494,Non-alcoholic Fatty Liver Disease,MESH:D065626,1,sodium arsenite,0,
+cytoplasmic vesicle,GO:0031410,Non-alcoholic Fatty Liver Disease,MESH:D065626,1,Sucrose,2,PRF1|SREBF1
+cytoskeleton,GO:0005856,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,3,JAK2|PRKCE|RDX
+cytosol,GO:0005829,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,51,ABCB4|ADH1A|ADH1B|ADH4|AHCY|AHR|ALDH1A1|ALDH1B1|ALDH4A1|CAT|EIF2AK1|ESR1|FAS|FGF21|FTO|GNMT|GPT|GSTA1|GSTM1|GSTP1|GSTT1|IFI30|IKBKG|IL1A|IL1B|IL1RN|JAK2|LEP|LIF|MRTFA|MTTP|NFE2L2|NLRP3|NQO1|NR1H4|NR5A2|PEMT|PPARG|PRDX3|PRF1|PRKACA|PRKCA|PRKCD|PRKCE|PTEN|RDX|SIRT1|SREBF1|TRIB1|TRIB3|XBP1
+cytosolic aryl hydrocarbon receptor complex,GO:0034752,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,AHR
+death-inducing signaling complex,GO:0031264,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,FAS
+dendrite,GO:0030425,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,3,MMP1|NQO1|PRKCA
+dendritic branch,GO:0044307,Non-alcoholic Fatty Liver Disease,MESH:D065626,1,bisphenol A,0,
+dendritic spine,GO:0043197,Non-alcoholic Fatty Liver Disease,MESH:D065626,1,bisphenol A,1,PTEN
+DNA recombinase complex,GO:0097519,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,RAG2
+"DNA topoisomerase type II (double strand cut, ATP-hydrolyzing) complex",GO:0009330,Non-alcoholic Fatty Liver Disease,MESH:D065626,2,Arsenic Trioxide|Reactive Oxygen Species,0,
+early endosome,GO:0005769,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,2,LDLR|PRDX3
+endocytic vesicle membrane,GO:0030666,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,SCARB1
+endodeoxyribonuclease complex,GO:1905347,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,RAG2
+endolysosome,GO:0036019,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,PRKCD
+endolysosome membrane,GO:0036020,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,LDLR
+endomembrane system,GO:0012505,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,4,JAK2|LDLR|TM6SF2|VLDLR
+endoplasmic reticulum,GO:0005783,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,14,ADIPOQ|AHCY|CYP17A1|CYP2E1|MTTP|NLRP3|PEMT|PRKCA|PRKCD|PRKCE|SERPINA1|SREBF1|STC2|XBP1
+endoplasmic reticulum-Golgi intermediate compartment membrane,GO:0033116,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,3,INS|SERPINA1|TM6SF2
+endoplasmic reticulum lumen,GO:0005788,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,5,F2|INS|MTTP|SERPINA1|STC2
+endoplasmic reticulum membrane,GO:0005789,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,9,B3GAT1|CYP17A1|CYP1A2|CYP2E1|PEMT|PNPLA3|SREBF1|TM6SF2|XBP1
+endosome,GO:0005768,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,3,ACE|FAS|LDLR
+endosome lumen,GO:0031904,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,3,INS|JAK2|PRF1
+endosome membrane,GO:0010008,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,3,CD14|LDLR|PTEN
+eNoSc complex,GO:0061773,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,SIRT1
+ER to Golgi transport vesicle membrane,GO:0012507,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,SREBF1
+ESC/E(Z) complex,GO:0035098,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,SIRT1
+euchromatin,GO:0000791,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,4,ESR1|JAK2|NR1H4|SIRT1
+external side of plasma membrane,GO:0009897,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,9,ACE|CD14|F2|FAS|FOLR2|IL4|LDLR|TNF|TNFRSF1B
+extracellular exosome,GO:0070062,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,2,ACE|GSTA1
+extracellular matrix,GO:0031012,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,3,LAMA1|MMP1|TGFB1
+extracellular region,GO:0005576,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,35,ACE|ADIPOQ|APOH|B3GAT1|C1QC|CAT|CD14|CSF2|F2|FAS|FGF21|FOLR2|GSTM1|GSTP1|IFI30|IL1A|IL1B|IL1RN|IL3|IL4|INS|LAMA1|LEP|LIF|MMP1|NLRP3|PRF1|PRKCD|PTEN|SERPINA1|SERPINB2|STC2|TGFB1|TNF|TNFRSF1B
+extracellular space,GO:0005615,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,27,ACE|ADIPOQ|APOH|CAT|CD14|CSF2|F2|FAS|FGF21|GPT|IL1A|IL1B|IL1RN|IL3|IL4|INS|LAMA1|LEP|LIF|MMP1|PRF1|SERPINA1|SERPINB2|STC2|TGFB1|TNF|VLDLR
+extracellular vesicle,GO:1903561,Non-alcoholic Fatty Liver Disease,MESH:D065626,3,Benzo(a)pyrene|Cadmium|Lipids,0,
+extrinsic component of cytoplasmic side of plasma membrane,GO:0031234,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,JAK2
+extrinsic component of plasma membrane,GO:0019897,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,2,F2|JAK2
+extrinsic component of postsynaptic membrane,GO:0098890,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,C1QC
+extrinsic component of presynaptic membrane,GO:0098888,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,C1QC
+ferritin complex,GO:0070288,Non-alcoholic Fatty Liver Disease,MESH:D065626,1,bisphenol A,0,
+fibrillar center,GO:0001650,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,SIRT1
+fibrinogen complex,GO:0005577,Non-alcoholic Fatty Liver Disease,MESH:D065626,1,Dietary Fats,0,
+ficolin-1-rich granule lumen,GO:1904813,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,3,CAT|GSTP1|SERPINA1
+filamentous actin,GO:0031941,Non-alcoholic Fatty Liver Disease,MESH:D065626,2,bisphenol A|Genistein,0,
+filopodium,GO:0030175,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,RDX
+focal adhesion,GO:0005925,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,3,ABCB4|JAK2|RDX
+germinal vesicle,GO:0042585,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,PRKACA
+glomerular endothelium fenestra,GO:0036053,Non-alcoholic Fatty Liver Disease,MESH:D065626,1,Diethylnitrosamine,0,
+glutamatergic synapse,GO:0098978,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,6,C1QC|JAK2|MRTFA|PRKACA|PRKCE|VLDLR
+glycogen granule,GO:0042587,Non-alcoholic Fatty Liver Disease,MESH:D065626,1,Ethanol,0,
+Golgi apparatus,GO:0005794,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,10,B3GAT1|CD14|ESR1|LDLR|MTTP|NFE2L2|PRKCE|SERPINA1|SREBF1|STC2
+Golgi lumen,GO:0005796,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,4,B3GAT1|F2|INS|TGFB1
+Golgi membrane,GO:0000139,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,7,ABCB4|B3GAT1|CYP2E1|INS|NLRP3|PRKCE|SREBF1
+granulocyte macrophage colony-stimulating factor receptor complex,GO:0030526,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,2,CSF2|JAK2
+growth cone,GO:0030426,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,SIRT1
+growth cone filopodium,GO:1990812,Non-alcoholic Fatty Liver Disease,MESH:D065626,1,Ethanol,0,
+heterochromatin,GO:0000792,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,SIRT1
+high-density lipoprotein particle,GO:0034364,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,APOH
+"IgE immunoglobulin complex, circulating",GO:0071743,Non-alcoholic Fatty Liver Disease,MESH:D065626,2,bisphenol A|Triclosan,0,
+"IgG immunoglobulin complex, circulating",GO:0071736,Non-alcoholic Fatty Liver Disease,MESH:D065626,4,2-methyl-2H-pyrazole-3-carboxylic acid (2-methyl-4-o-tolylazophenyl)amide|perfluorohexanesulfonic acid|perfluorooctanoic acid|Tetrachlorodibenzodioxin,0,
+IkappaB kinase complex,GO:0008385,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,IKBKG
+immunological synapse,GO:0001772,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,PRF1
+inflammasome complex,GO:0061702,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,NLRP3
+inhibin B complex,GO:0043513,Non-alcoholic Fatty Liver Disease,MESH:D065626,1,bisphenol A,0,
+intercalated disc,GO:0014704,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,PRKCA
+intercellular bridge,GO:0045171,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,GSTM1
+intercellular canaliculus,GO:0046581,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,2,ABCB4|ABCC2
+interleukin-12 receptor complex,GO:0042022,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,JAK2
+interleukin-23 receptor complex,GO:0072536,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,JAK2
+intermediate filament,GO:0005882,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,ALDH4A1
+intermediate filament cytoskeleton,GO:0045111,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,PRKCE
+interphase microtubule organizing center,GO:0031021,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,NLRP3
+intracellular anatomical structure,GO:0005622,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,TNF
+intracellular canaliculus,GO:0046691,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,ABCC2
+intracellular membrane-bounded organelle,GO:0043231,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,14,B3GAT1|CAT|CSF2|CYP1A2|CYP2E1|FTO|IFI30|LDLR|PEMT|PPARG|PRDX3|PRKCE|SCARB1|SERPINA1
+lamellipodium,GO:0030027,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,RDX
+laminin-1 complex,GO:0005606,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,LAMA1
+laminin-3 complex,GO:0005608,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,LAMA1
+laminin complex,GO:0043256,Non-alcoholic Fatty Liver Disease,MESH:D065626,1,Thioctic Acid,1,LAMA1
+large ribosomal subunit,GO:0015934,Non-alcoholic Fatty Liver Disease,MESH:D065626,1,sodium arsenite,0,
+late endosome,GO:0005770,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,LDLR
+lipid droplet,GO:0005811,Non-alcoholic Fatty Liver Disease,MESH:D065626,2,"Cholesterol, Dietary|Dietary Fats",1,PNPLA3
+lipopolysaccharide receptor complex,GO:0046696,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,CD14
+low-density lipoprotein particle,GO:0034362,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,LDLR
+lysosomal lumen,GO:0043202,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,IFI30
+lysosomal membrane,GO:0005765,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,VLDLR
+lysosome,GO:0005764,Non-alcoholic Fatty Liver Disease,MESH:D065626,3,4-hydroxy-2-nonenal|Acetaminophen|sodium arsenite,5,ACE|IFI30|IL1B|LDLR|SCARB1
+major mitochondrial derivative,GO:0016008,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,CAT
+mediator complex,GO:0016592,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,NFE2L2
+melanosome,GO:0042470,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,AHCY
+membrane,GO:0016020,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,28,ABCB4|ABCC2|ACE|ALDH4A1|ATP5F1B|B3GAT1|CPT1A|CYP17A1|ESR1|FAS|JAK2|KLB|LAMA1|LDLR|NLRP3|PEMT|PNPLA3|PRF1|PRKCA|PRKCD|PRKCE|SCARB1|SREBF1|TM6SF2|TNF|TNFRSF1B|VLDLR|XBP1
+membrane attack complex,GO:0005579,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,PRF1
+membrane raft,GO:0045121,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,7,ABCB4|ATP5F1B|CD14|FAS|JAK2|TNF|TNFRSF1B
+methyltransferase complex,GO:0034708,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,GNMT
+microtubule organizing center,GO:0005815,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,NLRP3
+microvillus,GO:0005902,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,2,RDX|TGFB1
+microvillus membrane,GO:0031528,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,2,MTTP|SCARB1
+midbody,GO:0030496,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,RDX
+mitochondria-associated endoplasmic reticulum membrane,GO:0044233,Non-alcoholic Fatty Liver Disease,MESH:D065626,2,Cadmium|Cadmium Chloride,0,
+mitochondrial chromosome,GO:0000262,Non-alcoholic Fatty Liver Disease,MESH:D065626,1,bisphenol A,0,
+mitochondrial envelope,GO:0005740,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,PEMT
+mitochondrial inner membrane,GO:0005743,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,2,ATP5F1B|CYP2E1
+mitochondrial matrix,GO:0005759,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,7,ALDH1B1|ALDH2|ALDH4A1|ATP5F1B|PDK4|PRDX3|PRKACA
+mitochondrial membrane,GO:0031966,Non-alcoholic Fatty Liver Disease,MESH:D065626,5,Cadmium|Cadmium Chloride|Linoleic Acid|Oleic Acid|Palmitic Acid,3,ATP5F1B|PEMT|PRKCA
+mitochondrial nucleoid,GO:0042645,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,ATP5F1B
+mitochondrial outer membrane,GO:0005741,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,CPT1A
+mitochondrial permeability transition pore complex,GO:0005757,Non-alcoholic Fatty Liver Disease,MESH:D065626,3,Arsenic Trioxide|hydroquinone|Quercetin,0,
+mitochondrial respiratory chain complex I,GO:0005747,Non-alcoholic Fatty Liver Disease,MESH:D065626,1,Streptozocin,0,
+"mitochondrial respiratory chain complex II, succinate dehydrogenase complex (ubiquinone)",GO:0005749,Non-alcoholic Fatty Liver Disease,MESH:D065626,1,Streptozocin,0,
+mitochondrial respiratory chain complex IV,GO:0005751,Non-alcoholic Fatty Liver Disease,MESH:D065626,1,Streptozocin,0,
+mitochondrion,GO:0005739,Non-alcoholic Fatty Liver Disease,MESH:D065626,4,"Copper|Ethanol|Folic Acid|N-(oxo-5,6-dihydrophenanthridin-2-yl)-N,N-dimethylacetamide hydrochloride",18,ALDH1B1|ALDH2|ALDH4A1|ATP5F1B|CAT|CPT1A|GSTA1|GSTM1|GSTP1|NLRP3|PDK4|PEMT|PRDX3|PRKACA|PRKCA|PRKCD|PRKCE|SIRT1
+mitotic spindle,GO:0072686,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,IKBKG
+myelin sheath adaxonal region,GO:0035749,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,PTEN
+NADH dehydrogenase complex,GO:0030964,Non-alcoholic Fatty Liver Disease,MESH:D065626,1,bisphenol A,0,
+neuromuscular junction,GO:0031594,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,2,PRKACA|PRKCE
+neuronal cell body,GO:0043025,Non-alcoholic Fatty Liver Disease,MESH:D065626,1,bisphenol A,7,CYP17A1|FAS|NQO1|PRKCA|TGFB1|TNF|TNFRSF1B
+neuron projection,GO:0043005,Non-alcoholic Fatty Liver Disease,MESH:D065626,2,Benzo(a)pyrene|Valproic Acid,1,PTEN
+neutrophil extracellular trap,GO:0140644,Non-alcoholic Fatty Liver Disease,MESH:D065626,5,Acetaminophen|bisphenol A|Eucalyptol|Irinotecan|sodium arsenite,0,
+NLRP3 inflammasome complex,GO:0072559,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,NLRP3
+non-membrane-bounded organelle,GO:0043228,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,NFE2L2
+nuclear aryl hydrocarbon receptor complex,GO:0034753,Non-alcoholic Fatty Liver Disease,MESH:D065626,1,Tetrachlorodibenzodioxin,1,AHR
+nuclear body,GO:0016604,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,FAS
+nuclear envelope,GO:0005635,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,2,SIRT1|SREBF1
+nuclear inner membrane,GO:0005637,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,SIRT1
+nuclear matrix,GO:0016363,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,PRKCD
+nuclear origin of replication recognition complex,GO:0005664,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,RDX
+nuclear speck,GO:0016607,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,3,FTO|NR1H4|PRKACA
+nucleolus,GO:0005730,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,SIRT1
+nucleoplasm,GO:0005654,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,28,ABCB4|ADH1A|ADH1B|ADH4|AHR|ALDH1B1|ESR1|FTO|IKBKG|IL1RN|JAK2|MRTFA|NFE2L2|NR1H4|NR5A2|PPARA|PPARD|PPARG|PRDX3|PRKACA|PRKCA|PRKCD|PTEN|RAG2|SIRT1|SREBF1|TRIB3|XBP1
+nucleotide-activated protein kinase complex,GO:0031588,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,PRKACA
+nucleus,GO:0005634,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,35,AHCY|AHR|AHR2|EIF2AK1|ESR1|F2|FTO|GSTP1|GSTT1|IKBKG|IL1A|JAK2|MRTFA|NFE2L2|NLRP3|NQO1|NR1H4|NR5A2|PPARA|PPARD|PPARG|PRKACA|PRKCA|PRKCD|PRKCE|PTEN|RAG2|RDX|SCARB1|SIRT1|SREBF1|TGFB1|TRIB1|TRIB3|XBP1
+ooplasm,GO:1990917,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,PRKCA
+origin recognition complex,GO:0000808,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,RDX
+P-body,GO:0000932,Non-alcoholic Fatty Liver Disease,MESH:D065626,1,sodium arsenite,0,
+PCSK9-LDLR complex,GO:1990666,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,LDLR
+perikaryon,GO:0043204,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,ESR1
+perinuclear region of cytoplasm,GO:0048471,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,11,ADIPOQ|ESR1|FAS|PPARG|PRKACA|PRKCA|PRKCD|PRKCE|STC2|TNFRSF1B|VLDLR
+peroxisomal matrix,GO:0005782,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,CAT
+peroxisomal membrane,GO:0005778,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,CAT
+peroxisome,GO:0005777,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,CAT
+phagocytic cup,GO:0001891,Non-alcoholic Fatty Liver Disease,MESH:D065626,1,bisphenol A,1,TNF
+plasma membrane,GO:0005886,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,36,ABCB4|ABCC2|ACE|ADH1A|ADH1B|ALDH1B1|APOH|ATP5F1B|CD14|CSF2|ESR1|F2|FAS|FOLR2|FTO|IL1RN|JAK2|KLB|LDLR|MMP1|NFE2L2|PRDX3|PRF1|PRKACA|PRKCA|PRKCD|PRKCE|PTEN|RDX|SCARB1|SERPINB2|TGFB1|TNF|TNFRSF1B|TRIB3|VLDLR
+plasma membrane raft,GO:0044853,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,PRKACA
+platelet alpha granule lumen,GO:0031093,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,2,SERPINA1|TGFB1
+platelet dense granule lumen,GO:0031089,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,APOH
+PML body,GO:0016605,Non-alcoholic Fatty Liver Disease,MESH:D065626,1,Arsenic Trioxide,2,PTEN|SIRT1
+polysome,GO:0005844,Non-alcoholic Fatty Liver Disease,MESH:D065626,2,sodium arsenite|Tunicamycin,0,
+postsynapse,GO:0098794,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,4,C1QC|JAK2|MRTFA|PRKACA
+postsynaptic cytosol,GO:0099524,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,2,PRKCD|PTEN
+postsynaptic density,GO:0014069,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,PTEN
+postsynaptic membrane,GO:0045211,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,2,KLB|PTEN
+presynapse,GO:0098793,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,3,MRTFA|PRKACA|XBP1
+presynaptic cytosol,GO:0099523,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,2,PRKCA|PRKCE
+proteasome core complex,GO:0005839,Non-alcoholic Fatty Liver Disease,MESH:D065626,1,Thioctic Acid,0,
+protein complex involved in cell-matrix adhesion,GO:0098637,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,LAMA1
+protein-containing complex,GO:0032991,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,13,ADIPOQ|AHR|CAT|ESR1|GSTM1|GSTP1|IKBKG|PRDX3|PRKACA|PRKCA|SIRT1|SREBF1|TNF
+protein-DNA complex,GO:0032993,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,NFE2L2
+proton-transporting ATP synthase complex,GO:0045259,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,ATP5F1B
+"proton-transporting ATP synthase complex, catalytic core F(1)",GO:0045261,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,ATP5F1B
+pseudopodium,GO:0031143,Non-alcoholic Fatty Liver Disease,MESH:D065626,1,Copper,0,
+rDNA heterochromatin,GO:0033553,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,SIRT1
+receptor complex,GO:0043235,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,5,LDLR|MTTP|NR1H4|PPARG|VLDLR
+recycling endosome,GO:0055037,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,TNF
+recycling endosome membrane,GO:0055038,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,LDLR
+ribosome,GO:0005840,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,2,COBLL1|NQO1
+ripoptosome,GO:0097342,Non-alcoholic Fatty Liver Disease,MESH:D065626,1,Ethanol,0,
+"RNA polymerase II, core complex",GO:0005665,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,LDLR
+RNA polymerase II transcription regulator complex,GO:0090575,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,4,NFE2L2|NR5A2|PPARG|XBP1
+ruffle,GO:0001726,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,RDX
+sarcolemma,GO:0042383,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,2,FAS|PEMT
+Schmidt-Lanterman incisure,GO:0043220,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,PTEN
+secretory granule,GO:0030141,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,4,FAS|IL1B|TGFB1|TNF
+secretory granule lumen,GO:0034774,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,3,CAT|GSTP1|INS
+secretory granule membrane,GO:0030667,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,CD14
+small ribosomal subunit,GO:0015935,Non-alcoholic Fatty Liver Disease,MESH:D065626,1,sodium arsenite,0,
+somatodendritic compartment,GO:0036477,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,LDLR
+sorting endosome,GO:0097443,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,LDLR
+specific granule membrane,GO:0035579,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,TNFRSF1B
+sperm flagellum,GO:0036126,Non-alcoholic Fatty Liver Disease,MESH:D065626,1,bisphenol A,1,PRKACA
+sperm head,GO:0061827,Non-alcoholic Fatty Liver Disease,MESH:D065626,1,bisphenol A,0,
+sperm head plasma membrane,GO:1990913,Non-alcoholic Fatty Liver Disease,MESH:D065626,1,bisphenol A,0,
+sperm midpiece,GO:0097225,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,2,ACE|PRKACA
+spindle pole,GO:0000922,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,IKBKG
+stereocilium,GO:0032420,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,RDX
+stereocilium base,GO:0120044,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,RDX
+SUMO ligase complex,GO:0106068,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,PPARG
+sweet taste receptor complex,GO:1903767,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,ALDH4A1
+synapse,GO:0045202,Non-alcoholic Fatty Liver Disease,MESH:D065626,1,sodium arsenite,6,ALDH1A1|C1QC|NQO1|PRKCE|PTEN|VLDLR
+telopode,GO:0120327,Non-alcoholic Fatty Liver Disease,MESH:D065626,1,sodium arsenite,0,
+terminal bouton,GO:0043195,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,ESR1
+TRAF2-GSTP1 complex,GO:0097057,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,GSTP1
+transcription regulator complex,GO:0005667,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,4,AHR|AHR2|ESR1|NFE2L2
+translation initiation complex,GO:0070992,Non-alcoholic Fatty Liver Disease,MESH:D065626,1,bisphenol A,0,
+transport vesicle,GO:0030133,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,INS
+tRNA-intron endonuclease complex,GO:0000214,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,PPARG
+T-tubule,GO:0030315,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,3,ESR1|PRKCE|RDX
+tumor necrosis factor receptor superfamily complex,GO:0002947,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,TNFRSF1B
+ubiquitin ligase complex,GO:0000151,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,IKBKG
+varicosity,GO:0043196,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,TNFRSF1B
+very-low-density lipoprotein particle,GO:0034361,Non-alcoholic Fatty Liver Disease,MESH:D065626,2,Choline|Methionine,2,APOH|VLDLR
+vesicle,GO:0031982,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,4,ACE|IL1B|IL1RN|MTTP
+voltage-gated potassium channel complex,GO:0008076,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,VLDLR
+zymogen granule,GO:0042588,Non-alcoholic Fatty Liver Disease,MESH:D065626,1,Plant Preparations,0,

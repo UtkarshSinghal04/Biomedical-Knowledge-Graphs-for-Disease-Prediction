@@ -1,0 +1,8 @@
+ChemicalName,ChemicalID,CasRN,DiseaseName,DiseaseID,DirectEvidence,InferenceGeneSymbol,InferenceScore,OmimIDs,PubMedIDs
+Acetazolamide,D000086,59-66-5,Altitude Sickness,MESH:D000532,marker/mechanism,,,,2712085|6349608
+Acetazolamide,D000086,59-66-5,Altitude Sickness,MESH:D000532,therapeutic,,,,1978045
+Dexamethasone,D003907,50-02-2,Altitude Sickness,MESH:D000532,therapeutic,,,,10915127
+Methazolamide,D008704,554-57-4,Altitude Sickness,MESH:D000532,marker/mechanism,,,,6349608
+Nitroglycerin,D005996,55-63-0,Altitude Sickness,MESH:D000532,marker/mechanism,,,,18800963
+Pentoxifylline,D010431,06-05-6493,Altitude Sickness,MESH:D000532,therapeutic,,,,3308412
+Triazolam,D014229,28911-01-5,Altitude Sickness,MESH:D000532,marker/mechanism,,,,2712085

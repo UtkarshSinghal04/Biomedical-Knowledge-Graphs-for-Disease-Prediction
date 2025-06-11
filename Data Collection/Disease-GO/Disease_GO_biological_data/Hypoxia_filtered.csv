@@ -1,0 +1,1780 @@
+GOName,GOID,DiseaseName,DiseaseID,InferenceChemicalQty,InferenceChemicalNames,InferenceGeneQty,InferenceGeneSymbols
+2-oxoglutarate metabolic process,GO:0006103,Hypoxia,MESH:D000860,2,Isoproterenol|Oxygen,0,
+2-oxoglutarate metabolic process,GO:0006103,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Oxygen,0,
+4-hydroxyproline metabolic process,GO:0019471,Hypoxia,MESH:D000860,3,Bleomycin|Dietary Fats|Resveratrol,0,
+acetate metabolic process,GO:0006083,Hypoxia,MESH:D000860,3,Dietary Fats|Propofol|Sevoflurane,0,
+acetone metabolic process,GO:0043443,Hypoxia,MESH:D000860,1,Propofol,0,
+acetylcholine catabolic process,GO:0006581,Hypoxia,MESH:D000860,1,Midazolam,0,
+acetylcholine-mediated vasodilation involved in regulation of systemic arterial blood pressure,GO:0003069,Hypoxia,MESH:D000860,0,,1,SOD2
+acetylcholine metabolic process,GO:0008291,Hypoxia,MESH:D000860,3,Isoflurane|Lipopolysaccharides|Vitamin E,0,
+acetylcholine metabolic process,GO:0008291,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Lipopolysaccharides,0,
+acetylcholine receptor signaling pathway,GO:0095500,Hypoxia,MESH:D000860,1,Nicotine,0,
+acetylcholine secretion,GO:0061526,Hypoxia,MESH:D000860,1,Midazolam,0,
+acetyl-CoA biosynthetic process,GO:0006085,Hypoxia,MESH:D000860,2,Acetaminophen|Glucose,0,
+acetyl-CoA metabolic process,GO:0006084,Hypoxia,MESH:D000860,1,Glucose,1,CS
+acrosome reaction,GO:0007340,Hypoxia,MESH:D000860,2,Chlorpromazine|Taurine,0,
+actin cytoskeleton organization,GO:0030036,"Hypoxia, Brain",MESH:D002534,1,Plant Extracts,0,
+actin filament organization,GO:0007015,Hypoxia,MESH:D000860,2,Hydrogen Peroxide|Oxygen,0,
+actin filament organization,GO:0007015,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Oxygen,0,
+actin filament polymerization,GO:0030041,Hypoxia,MESH:D000860,3,Lipopolysaccharides|Norepinephrine|Resveratrol,0,
+actin filament polymerization,GO:0030041,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Lipopolysaccharides,0,
+action potential,GO:0001508,Hypoxia,MESH:D000860,1,Nicotine,0,
+action potential initiation,GO:0099610,Hypoxia,MESH:D000860,2,Chloroquine|Lidocaine,0,
+action potential initiation,GO:0099610,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Fluoxetine,0,
+activation of adenylate cyclase activity,GO:0007190,Hypoxia,MESH:D000860,5,Alprostadil|Glucose|Isoproterenol|Morphine|Naloxone,1,GNAS
+activation of adenylate cyclase activity,GO:0007190,"Hypoxia, Brain",MESH:D002534,1,Morphine,0,
+activation of adenylate cyclase activity,GO:0007190,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Lithium Chloride,0,
+activation of cysteine-type endopeptidase activity,GO:0097202,Hypoxia,MESH:D000860,7,Copper Sulfate|Deferoxamine|Glucose|Indomethacin|Oxygen|Resveratrol|Verapamil,0,
+activation of cysteine-type endopeptidase activity,GO:0097202,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Oxygen,0,
+activation of cysteine-type endopeptidase activity involved in apoptotic process,GO:0006919,Fetal Hypoxia,MESH:D005311,1,Nitric Oxide,0,
+activation of cysteine-type endopeptidase activity involved in apoptotic process,GO:0006919,Hypoxia,MESH:D000860,9,Arsenic Trioxide|Chloroquine|Hydrogen Peroxide|Indomethacin|Isoflurane|Ketamine|Nimodipine|Nitric Oxide|Resveratrol,0,
+activation of cysteine-type endopeptidase activity involved in apoptotic process,GO:0006919,"Hypoxia-Ischemia, Brain",MESH:D020925,2,Dexamethasone|Methamphetamine,0,
+activation of GTPase activity,GO:0090630,Hypoxia,MESH:D000860,2,Arsenic Trioxide|Norepinephrine,0,
+activation of protein kinase A activity,GO:0034199,Hypoxia,MESH:D000860,2,Propofol|Resveratrol,0,
+activation of protein kinase A activity,GO:0034199,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Dexamethasone,0,
+activation of protein kinase activity,GO:0032147,Hypoxia,MESH:D000860,2,Indican|Lipopolysaccharides,0,
+activation of protein kinase activity,GO:0032147,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Lipopolysaccharides,0,
+activation of protein kinase B activity,GO:0032148,Hypoxia,MESH:D000860,18,Allopurinol|Arsenic Trioxide|Bleomycin|cobaltous chloride|Dietary Fats|Fluorouracil|Gallic Acid|Glucose|Hydrogen Peroxide|Indican|Lipopolysaccharides|Mevinphos|Nicotine|Norepinephrine|Oxygen|Phenobarbital|Resveratrol|tetrandrine,0,
+activation of protein kinase B activity,GO:0032148,"Hypoxia, Brain",MESH:D002534,2,cobaltous chloride|Plant Extracts,0,
+activation of protein kinase B activity,GO:0032148,"Hypoxia-Ischemia, Brain",MESH:D020925,6,Blood Glucose|caffeic acid phenethyl ester|cobaltous chloride|Dexamethasone|Lipopolysaccharides|Oxygen,0,
+activation of protein kinase C activity,GO:1990051,Hypoxia,MESH:D000860,1,Glucose,0,
+acute inflammatory response,GO:0002526,Hypoxia,MESH:D000860,3,Arsenic Trioxide|Dietary Fats|Lipopolysaccharides,0,
+acute inflammatory response,GO:0002526,"Hypoxia-Ischemia, Brain",MESH:D020925,2,Dexamethasone|Lipopolysaccharides,0,
+acute-phase response,GO:0006953,"Hypoxia-Ischemia, Brain",MESH:D020925,0,,1,HIF1A
+acyl-CoA metabolic process,GO:0006637,Hypoxia,MESH:D000860,1,Dietary Fats,0,
+acylglycerol metabolic process,GO:0006639,Hypoxia,MESH:D000860,1,Acetaminophen,0,
+adaptive immune response,GO:0002250,Hypoxia,MESH:D000860,1,Chloroquine,0,
+adaptive thermogenesis,GO:1990845,Hypoxia,MESH:D000860,2,Nitroprusside|Norepinephrine,0,
+adenosine metabolic process,GO:0046085,Hypoxia,MESH:D000860,1,Indomethacin,1,ADK
+adenylate cyclase-activating adrenergic receptor signaling pathway,GO:0071880,Hypoxia,MESH:D000860,1,Isoproterenol,1,GNAS
+adenylate cyclase-activating dopamine receptor signaling pathway,GO:0007191,Hypoxia,MESH:D000860,0,,1,GNAS
+adenylate cyclase-activating G protein-coupled receptor signaling pathway,GO:0007189,Hypoxia,MESH:D000860,2,Glucose|Isoproterenol,1,GNAS
+adenylate cyclase-activating serotonin receptor signaling pathway,GO:0007192,Hypoxia,MESH:D000860,0,,1,GNAS
+adenylate cyclase-inhibiting G protein-coupled receptor signaling pathway,GO:0007193,Hypoxia,MESH:D000860,1,Glucose,0,
+adenylate cyclase-modulating G protein-coupled receptor signaling pathway,GO:0007188,Hypoxia,MESH:D000860,0,,1,GNAS
+adherens junction assembly,GO:0034333,Hypoxia,MESH:D000860,0,,1,ACTB
+adipose tissue development,GO:0060612,Hypoxia,MESH:D000860,5,Dietary Fats|Heparin|Indomethacin|Nicotine|Resveratrol,0,
+adipose tissue development,GO:0060612,"Hypoxia, Brain",MESH:D002534,1,Plant Extracts,0,
+adipose tissue development,GO:0060612,"Hypoxia-Ischemia, Brain",MESH:D020925,2,Dexamethasone|Lithium Chloride,0,
+ADP biosynthetic process,GO:0006172,Hypoxia,MESH:D000860,1,Hydrogen Peroxide,0,
+adrenal gland development,GO:0030325,Hypoxia,MESH:D000860,0,,1,APOA1
+adult behavior,GO:0030534,"Hypoxia, Brain",MESH:D002534,1,Cocaine,0,
+adult behavior,GO:0030534,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Cocaine,0,
+adult feeding behavior,GO:0008343,Hypoxia,MESH:D000860,2,Dietary Fats|Ketamine,0,
+adult feeding behavior,GO:0008343,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Fluoxetine,0,
+adult locomotory behavior,GO:0008344,Hypoxia,MESH:D000860,5,Acetaminophen|Ketamine|Lidocaine|Nicotine|Taurine,0,
+adult locomotory behavior,GO:0008344,"Hypoxia, Brain",MESH:D002534,2,Cocaine|Edaravone,0,
+adult locomotory behavior,GO:0008344,"Hypoxia-Ischemia, Brain",MESH:D020925,2,Cocaine|Fluoxetine,0,
+adult walking behavior,GO:0007628,Hypoxia,MESH:D000860,2,Copper Sulfate|Zinc Sulfate,0,
+aerobic electron transport chain,GO:0019646,Hypoxia,MESH:D000860,1,Bupivacaine,0,
+aerobic respiration,GO:0009060,Hypoxia,MESH:D000860,12,Acetaminophen|acetovanillone|Dietary Fats|Gallic Acid|Glucose|Indican|Lipopolysaccharides|Norepinephrine|Oleic Acid|Oxygen|Propylthiouracil|Resveratrol,0,
+aerobic respiration,GO:0009060,"Hypoxia-Ischemia, Brain",MESH:D020925,4,Lipopolysaccharides|Methamphetamine|Ouabain|Oxygen,0,
+aggressive behavior,GO:0002118,Hypoxia,MESH:D000860,1,Propylthiouracil,0,
+alanine metabolic process,GO:0006522,Hypoxia,MESH:D000860,2,Propofol|Sevoflurane,0,
+aldosterone biosynthetic process,GO:0032342,Hypoxia,MESH:D000860,2,Isoproterenol|Nicotine,0,
+aldosterone metabolic process,GO:0032341,Hypoxia,MESH:D000860,1,Dietary Fats,0,
+alpha-tubulin acetylation,GO:0071929,Hypoxia,MESH:D000860,3,cobaltous chloride|Lipopolysaccharides|Resveratrol,0,
+alpha-tubulin acetylation,GO:0071929,"Hypoxia, Brain",MESH:D002534,1,cobaltous chloride,0,
+alpha-tubulin acetylation,GO:0071929,"Hypoxia-Ischemia, Brain",MESH:D020925,3,cobaltous chloride|Lipopolysaccharides|Methamphetamine,0,
+amide metabolic process,GO:0043603,Hypoxia,MESH:D000860,1,Acetaminophen,0,
+amine metabolic process,GO:0009308,Hypoxia,MESH:D000860,2,Indomethacin|Ribavirin,0,
+amino acid biosynthetic process,GO:0008652,Hypoxia,MESH:D000860,3,Acetaminophen|Dietary Fats|Hydrogen Peroxide,0,
+amino acid metabolic process,GO:0006520,Hypoxia,MESH:D000860,6,Indican|Indomethacin|Propylthiouracil|Resveratrol|Ribavirin|Taurine,0,
+ammonium homeostasis,GO:0097272,Hypoxia,MESH:D000860,1,Acetaminophen,0,
+AMPA selective glutamate receptor signaling pathway,GO:0098990,Hypoxia,MESH:D000860,1,Hydrogen Peroxide,0,
+AMP biosynthetic process,GO:0006167,Hypoxia,MESH:D000860,1,Hydrogen Peroxide,0,
+AMP metabolic process,GO:0046033,Hypoxia,MESH:D000860,1,Dietary Fats,0,
+AMP salvage,GO:0044209,Hypoxia,MESH:D000860,0,,1,ADK
+amyloid-beta formation,GO:0034205,Hypoxia,MESH:D000860,0,,1,APOA1
+amyloid fibril formation,GO:1990000,"Hypoxia-Ischemia, Brain",MESH:D020925,1,caffeic acid phenethyl ester,0,
+anatomical structure development,GO:0048856,Hypoxia,MESH:D000860,1,Propofol,0,
+androgen biosynthetic process,GO:0006702,Hypoxia,MESH:D000860,1,Nicotine,0,
+androgen metabolic process,GO:0008209,Hypoxia,MESH:D000860,1,Verapamil,0,
+androgen metabolic process,GO:0008209,"Hypoxia, Brain",MESH:D002534,1,Phenytoin,0,
+androgen metabolic process,GO:0008209,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Dexamethasone,0,
+androgen receptor signaling pathway,GO:0030521,Hypoxia,MESH:D000860,1,Resveratrol,0,
+"androst-4-ene-3,17-dione biosynthetic process",GO:1903449,Hypoxia,MESH:D000860,1,Chlorpromazine,0,
+anesthesia-resistant memory,GO:0007615,Hypoxia,MESH:D000860,1,Isoflurane,0,
+angiogenesis,GO:0001525,Hypoxia,MESH:D000860,8,Acetaminophen|Arsenic Trioxide|Chloroquine|cobaltous chloride|Glucose|Nicotine|Oxygen|Vitamin E,2,ATP5F1B|NOS3
+angiogenesis,GO:0001525,"Hypoxia, Brain",MESH:D002534,2,cobaltous chloride|Edaravone,0,
+angiogenesis,GO:0001525,"Hypoxia-Ischemia, Brain",MESH:D020925,3,cobaltous chloride|Dexamethasone|Oxygen,2,HIF1A|VEGFA
+angiogenesis involved in coronary vascular morphogenesis,GO:0060978,"Hypoxia-Ischemia, Brain",MESH:D020925,0,,1,VEGFA
+angiogenesis involved in wound healing,GO:0060055,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Dexamethasone,0,
+animal organ regeneration,GO:0031100,Hypoxia,MESH:D000860,0,,1,APOA1
+anoikis,GO:0043276,Fetal Hypoxia,MESH:D005311,1,Nitric Oxide,0,
+anoikis,GO:0043276,Hypoxia,MESH:D000860,4,Hydrogen Peroxide|Nicotine|Nitric Oxide|Nitroprusside,0,
+anterograde axonal transport,GO:0008089,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Lithium Chloride,0,
+antimicrobial humoral immune response mediated by antimicrobial peptide,GO:0061844,Hypoxia,MESH:D000860,0,,2,GAPDH|POMC
+antral ovarian follicle growth,GO:0001547,Hypoxia,MESH:D000860,3,Acetaminophen|Resveratrol|Taurine,0,
+aorta morphogenesis,GO:0035909,Hypoxia,MESH:D000860,1,Dietary Fats,0,
+aortic valve morphogenesis,GO:0003180,Hypoxia,MESH:D000860,0,,2,NOS3|NPPA
+apical dendrite arborization,GO:0150023,Hypoxia,MESH:D000860,1,Fluorouracil,0,
+apical protein localization,GO:0045176,Hypoxia,MESH:D000860,0,,1,ACTB
+apoptotic cell clearance,GO:0043277,Hypoxia,MESH:D000860,2,Lidocaine|Norepinephrine,0,
+apoptotic cell clearance,GO:0043277,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Dexamethasone,0,
+apoptotic chromosome condensation,GO:0030263,Hypoxia,MESH:D000860,17,Acetaminophen|Arsenic Trioxide|Chloroquine|Copper Sulfate|Dietary Fats|Fluorouracil|Hydrogen Peroxide|Isoproterenol|Lipopolysaccharides|Oxygen|Propofol|Resveratrol|sinapinic acid|Taurine|tetrandrine|Verapamil|Zinc Sulfate,0,
+apoptotic chromosome condensation,GO:0030263,"Hypoxia, Brain",MESH:D002534,3,Carbon Monoxide|Edaravone|Plant Extracts,0,
+apoptotic chromosome condensation,GO:0030263,"Hypoxia-Ischemia, Brain",MESH:D020925,4,Blood Glucose|caffeic acid phenethyl ester|Lipopolysaccharides|Oxygen,0,
+apoptotic DNA fragmentation,GO:0006309,Fetal Hypoxia,MESH:D005311,2,Ibuprofen|Nitric Oxide,0,
+apoptotic DNA fragmentation,GO:0006309,Hypoxia,MESH:D000860,41,Acetaminophen|acetovanillone|Alprostadil|Amitriptyline|Arsenic Trioxide|Bupivacaine|Chloroquine|Deoxyglucose|Dietary Fats|Enalapril|Fluorouracil|Gallic Acid|Gemcitabine|Glucose|Heparin|Hydrogen Peroxide|Indomethacin|Isoproterenol|Ketamine|Lidocaine|Lipopolysaccharides|Methadone|Mevinphos|Morphine|Naloxone|Nicotine|Nitric Oxide|Nitroprusside|Norepinephrine|Oxygen|Phenobarbital|Phenylephrine|Resveratrol|Spironolactone|Sulindac|Taurine|Terbutaline|tetrandrine|Verapamil|Vitamin E|Zinc Sulfate,0,
+apoptotic DNA fragmentation,GO:0006309,"Hypoxia, Brain",MESH:D002534,4,Cocaine|Morphine|Phenylephrine|Plant Extracts,0,
+apoptotic DNA fragmentation,GO:0006309,"Hypoxia-Ischemia, Brain",MESH:D020925,7,Cocaine|Dexamethasone|Fluoxetine|Lipopolysaccharides|Lithium Chloride|Ouabain|Oxygen,0,
+apoptotic mitochondrial changes,GO:0008637,Hypoxia,MESH:D000860,0,,1,SOD2
+apoptotic nuclear changes,GO:0030262,Hypoxia,MESH:D000860,4,Arsenic Trioxide|Chloroquine|Hydrogen Peroxide|Oxygen,0,
+apoptotic nuclear changes,GO:0030262,"Hypoxia, Brain",MESH:D002534,1,Plant Extracts,0,
+apoptotic nuclear changes,GO:0030262,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Oxygen,0,
+apoptotic process,GO:0006915,Fetal Hypoxia,MESH:D005311,3,Ibuprofen|Naproxen|Nitric Oxide,0,
+apoptotic process,GO:0006915,Hypoxia,MESH:D000860,63,"6-hydroxy-2,5,7,8-tetramethylchroman-2-carboxylic acid|Acetaminophen|Acetazolamide|acetovanillone|Allopurinol|Alprazolam|Alprostadil|Amitriptyline|Arsenic Trioxide|Bleomycin|Bupivacaine|Chloroquine|Chlorpromazine|cobaltous chloride|Copper Sulfate|Cyproheptadine|Deferoxamine|Deoxyglucose|Diazepam|Dietary Fats|Diltiazem|Enalapril|Fluorouracil|Gallic Acid|Gemcitabine|Glucose|Heparin|Hydrogen Peroxide|Indomethacin|Isoflurane|Isoproterenol|Ketamine|Lidocaine|Lipopolysaccharides|Methadone|Morphine|Mustard Gas|Naloxone|Nicotine|Nimodipine|Nitrendipine|Nitric Oxide|Nitroglycerin|Nitroprusside|Norepinephrine|Oleic Acid|Oxygen|Phenobarbital|Phenylephrine|Propofol|Propylthiouracil|Puromycin Aminonucleoside|Resveratrol|Ribavirin|Sevoflurane|Spironolactone|Sulindac|Taurine|Terbutaline|tetrandrine|Verapamil|Vitamin E|Zinc Sulfate",1,GAPDH
+apoptotic process,GO:0006915,"Hypoxia, Brain",MESH:D002534,8,Carbon Monoxide|cobaltous chloride|Cocaine|Edaravone|Morphine|Phenylephrine|Phenytoin|Plant Extracts,0,
+apoptotic process,GO:0006915,"Hypoxia-Ischemia, Brain",MESH:D020925,11,caffeic acid phenethyl ester|cobaltous chloride|Cocaine|Dexamethasone|Digitoxin|Fluoxetine|Lipopolysaccharides|Lithium Chloride|Methamphetamine|Ouabain|Oxygen,2,HIF1A|VEGFA
+arabinose biosynthetic process,GO:0019567,Hypoxia,MESH:D000860,1,Dietary Fats,0,
+arachidonic acid metabolic process,GO:0019369,Hypoxia,MESH:D000860,3,Morphine|Resveratrol|Ribavirin,0,
+arachidonic acid metabolic process,GO:0019369,"Hypoxia, Brain",MESH:D002534,1,Morphine,0,
+arginine biosynthetic process,GO:0006526,Hypoxia,MESH:D000860,1,Arsenic Trioxide,0,
+arginine catabolic process,GO:0006527,Hypoxia,MESH:D000860,1,Lipopolysaccharides,2,NOS1|NOS3
+arginine catabolic process,GO:0006527,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Lipopolysaccharides,1,NOS2
+arginine metabolic process,GO:0006525,Hypoxia,MESH:D000860,4,Hydrogen Peroxide|iopromide|Propofol|Resveratrol,0,
+artery development,GO:0060840,Hypoxia,MESH:D000860,1,Nicotine,0,
+artery morphogenesis,GO:0048844,"Hypoxia-Ischemia, Brain",MESH:D020925,0,,1,VEGFA
+artery smooth muscle contraction,GO:0014824,Hypoxia,MESH:D000860,5,cyclo(Trp-Asp-Pro-Val-Leu)|Nitroprusside|Norepinephrine|Phenylephrine|Resveratrol,0,
+artery smooth muscle contraction,GO:0014824,"Hypoxia, Brain",MESH:D002534,1,Phenylephrine,0,
+articular cartilage development,GO:0061975,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Dexamethasone,0,
+asparagine biosynthetic process,GO:0006529,Hypoxia,MESH:D000860,2,Acetaminophen|Phenobarbital,0,
+aspartate biosynthetic process,GO:0006532,Hypoxia,MESH:D000860,1,Acetaminophen,0,
+aspartate catabolic process,GO:0006533,"Hypoxia, Brain",MESH:D002534,1,Plant Extracts,0,
+associative learning,GO:0008306,Hypoxia,MESH:D000860,2,Fentanyl|Heroin,0,
+astrocyte activation,GO:0048143,Fetal Hypoxia,MESH:D005311,1,Ibuprofen,0,
+astrocyte activation,GO:0048143,Hypoxia,MESH:D000860,4,Dietary Fats|Lipopolysaccharides|Oxygen|Resveratrol,0,
+astrocyte activation,GO:0048143,"Hypoxia-Ischemia, Brain",MESH:D020925,4,Blood Glucose|Lipopolysaccharides|Methamphetamine|Oxygen,0,
+astrocyte development,GO:0014002,"Hypoxia, Brain",MESH:D002534,1,Plant Extracts,0,
+ATP biosynthetic process,GO:0006754,Hypoxia,MESH:D000860,18,2-chloroethyl ethyl sulfide|Acetaminophen|Arsenic Trioxide|Chlorpromazine|Copper Sulfate|Deoxyglucose|Dietary Fats|Fluorouracil|Gallic Acid|Glucose|Hydrogen Peroxide|Indican|Isoproterenol|Lipopolysaccharides|Oxygen|Resveratrol|Verapamil|Vitamin E,1,ATP5F1B
+ATP biosynthetic process,GO:0006754,"Hypoxia, Brain",MESH:D002534,2,Carbon Monoxide|Plant Extracts,0,
+ATP biosynthetic process,GO:0006754,"Hypoxia-Ischemia, Brain",MESH:D020925,2,Lipopolysaccharides|Oxygen,0,
+ATP generation from ADP,GO:0006757,Hypoxia,MESH:D000860,1,Lipopolysaccharides,0,
+ATP generation from ADP,GO:0006757,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Lipopolysaccharides,0,
+ATP metabolic process,GO:0046034,Hypoxia,MESH:D000860,24,Acetaminophen|Allopurinol|Arsenic Trioxide|Bleomycin|Bupivacaine|Chloroquine|Chlorpromazine|Copper Sulfate|Deoxyglucose|Dietary Fats|Fluorouracil|Glucose|Hydrogen Peroxide|Indomethacin|Isoproterenol|Lipopolysaccharides|Nitroprusside|Oxygen|Phenobarbital|Propylthiouracil|Resveratrol|Sevoflurane|Sulindac|Taurine,1,ATP5F1B
+ATP metabolic process,GO:0046034,"Hypoxia, Brain",MESH:D002534,1,Plant Extracts,0,
+ATP metabolic process,GO:0046034,"Hypoxia-Ischemia, Brain",MESH:D020925,5,Blood Glucose|Dexamethasone|Lipopolysaccharides|Methamphetamine|Oxygen,0,
+atrioventricular canal development,GO:0036302,Hypoxia,MESH:D000860,0,,1,NPPA
+auditory behavior,GO:0031223,Hypoxia,MESH:D000860,1,Dietary Fats,0,
+autophagic cell death,GO:0048102,Hypoxia,MESH:D000860,3,Chloroquine|Lipopolysaccharides|Resveratrol,0,
+autophagic cell death,GO:0048102,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Lipopolysaccharides,0,
+autophagosome assembly,GO:0000045,Hypoxia,MESH:D000860,8,Arsenic Trioxide|Chloroquine|Copper Sulfate|Glucose|Hydrogen Peroxide|Lipopolysaccharides|Resveratrol|Zinc Sulfate,0,
+autophagosome assembly,GO:0000045,"Hypoxia-Ischemia, Brain",MESH:D020925,3,Dexamethasone|Lipopolysaccharides|Lithium Chloride,0,
+autophagosome-endosome fusion,GO:0061910,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Methamphetamine,0,
+autophagosome-lysosome fusion,GO:0061909,Hypoxia,MESH:D000860,2,Arsenic Trioxide|Chloroquine,0,
+autophagosome-lysosome fusion,GO:0061909,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Methamphetamine,0,
+autophagosome maturation,GO:0097352,Hypoxia,MESH:D000860,2,Glucose|Hydrogen Peroxide,0,
+autophagosome membrane disassembly,GO:0030399,Hypoxia,MESH:D000860,1,Chloroquine,0,
+autophagosome organization,GO:1905037,Hypoxia,MESH:D000860,4,Arsenic Trioxide|Chloroquine|Resveratrol|Sevoflurane,0,
+autophagy,GO:0006914,Hypoxia,MESH:D000860,22,"6-hydroxy-2,5,7,8-tetramethylchroman-2-carboxylic acid|Arsenic Trioxide|Chloroquine|Copper Sulfate|Deferoxamine|Deoxyglucose|Dietary Fats|Fluorouracil|Gemcitabine|Glucose|Hydrogen Peroxide|Indomethacin|Lipopolysaccharides|Morphine|Oleic Acid|Oxygen|Resveratrol|Sevoflurane|Spironolactone|Taurine|tetrandrine|Vitamin E",0,
+autophagy,GO:0006914,"Hypoxia, Brain",MESH:D002534,2,Cocaine|Morphine,0,
+autophagy,GO:0006914,"Hypoxia-Ischemia, Brain",MESH:D020925,7,Cocaine|Dexamethasone|Fluoxetine|Lipopolysaccharides|Lithium Chloride|Methamphetamine|Oxygen,0,
+autophagy of mitochondrion,GO:0000422,Hypoxia,MESH:D000860,1,Acetaminophen,0,
+axo-dendritic transport,GO:0008088,Hypoxia,MESH:D000860,2,Lidocaine|Morphine,0,
+axo-dendritic transport,GO:0008088,"Hypoxia, Brain",MESH:D002534,1,Morphine,0,
+axonal transport of mitochondrion,GO:0019896,"Hypoxia-Ischemia, Brain",MESH:D020925,0,,1,HIF1A
+axon extension,GO:0048675,Hypoxia,MESH:D000860,0,,1,BDNF
+axon extension,GO:0048675,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Methamphetamine,0,
+axon guidance,GO:0007411,Hypoxia,MESH:D000860,1,Nicotine,1,BDNF
+axonogenesis,GO:0007409,Hypoxia,MESH:D000860,0,,1,ACTB
+axonogenesis,GO:0007409,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Methamphetamine,0,
+axon target recognition,GO:0007412,Hypoxia,MESH:D000860,0,,1,BDNF
+B-1 B cell homeostasis,GO:0001922,"Hypoxia-Ischemia, Brain",MESH:D020925,0,,1,HIF1A
+basal dendrite arborization,GO:0150020,Hypoxia,MESH:D000860,1,Fluorouracil,0,
+base-excision repair,GO:0006284,Hypoxia,MESH:D000860,2,Hydrogen Peroxide|Oxygen,0,
+base-excision repair,GO:0006284,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Oxygen,0,
+basophil chemotaxis,GO:0002575,"Hypoxia-Ischemia, Brain",MESH:D020925,0,,1,VEGFA
+B cell proliferation,GO:0042100,Hypoxia,MESH:D000860,3,iopromide|Lipopolysaccharides|Resveratrol,0,
+B cell proliferation,GO:0042100,"Hypoxia, Brain",MESH:D002534,1,Plant Extracts,0,
+B cell proliferation,GO:0042100,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Lipopolysaccharides,0,
+behavior,GO:0007610,Hypoxia,MESH:D000860,3,acetovanillone|Dietary Fats|Lipopolysaccharides,0,
+behavior,GO:0007610,"Hypoxia-Ischemia, Brain",MESH:D020925,2,Fluoxetine|Lipopolysaccharides,0,
+behavioral defense response,GO:0002209,Hypoxia,MESH:D000860,2,Morphine|Nicotine,0,
+behavioral defense response,GO:0002209,"Hypoxia, Brain",MESH:D002534,1,Morphine,0,
+behavioral fear response,GO:0001662,Hypoxia,MESH:D000860,1,Taurine,1,BDNF
+behavioral fear response,GO:0001662,"Hypoxia, Brain",MESH:D002534,1,Cocaine,0,
+behavioral fear response,GO:0001662,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Cocaine,0,
+behavioral response to acetic acid induced pain,GO:0061367,Hypoxia,MESH:D000860,4,Acetaminophen|Indomethacin|Morphine|Naloxone,0,
+behavioral response to acetic acid induced pain,GO:0061367,"Hypoxia, Brain",MESH:D002534,2,Morphine|Plant Extracts,0,
+behavioral response to chemical pain,GO:0061366,Hypoxia,MESH:D000860,4,Indomethacin|Morphine|Naloxone|Resveratrol,0,
+behavioral response to chemical pain,GO:0061366,"Hypoxia, Brain",MESH:D002534,2,Morphine|Plant Extracts,0,
+behavioral response to cocaine,GO:0048148,Hypoxia,MESH:D000860,1,Nicotine,2,BDNF|NOS1
+behavioral response to cocaine,GO:0048148,"Hypoxia, Brain",MESH:D002534,1,Cocaine,0,
+behavioral response to cocaine,GO:0048148,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Cocaine,0,
+behavioral response to ethanol,GO:0048149,Hypoxia,MESH:D000860,1,Gabapentin,0,
+behavioral response to formalin induced pain,GO:0061368,Hypoxia,MESH:D000860,3,Morphine|Naloxone|Nitroglycerin,0,
+behavioral response to formalin induced pain,GO:0061368,"Hypoxia, Brain",MESH:D002534,2,Morphine|Plant Extracts,0,
+behavioral response to nicotine,GO:0035095,Hypoxia,MESH:D000860,1,Nicotine,0,
+behavioral response to nicotine,GO:0035095,"Hypoxia, Brain",MESH:D002534,1,Cocaine,0,
+behavioral response to nicotine,GO:0035095,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Cocaine,0,
+behavioral response to pain,GO:0048266,Fetal Hypoxia,MESH:D005311,1,Ibuprofen,0,
+behavioral response to pain,GO:0048266,Hypoxia,MESH:D000860,11,Acetaminophen|Fentanyl|Gabapentin|Glucose|Indomethacin|Ketamine|Lidocaine|Meperidine|Morphine|Naloxone|Nicotine,0,
+behavioral response to pain,GO:0048266,"Hypoxia, Brain",MESH:D002534,3,Baclofen|Morphine|Plant Extracts,0,
+behavioral response to pain,GO:0048266,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Dexamethasone,0,
+bicarbonate transport,GO:0015701,Hypoxia,MESH:D000860,1,Resveratrol,0,
+bile acid and bile salt transport,GO:0015721,Hypoxia,MESH:D000860,2,Chlorpromazine|Dietary Fats,0,
+bile acid biosynthetic process,GO:0006699,Fetal Hypoxia,MESH:D005311,1,Ibuprofen,0,
+bile acid biosynthetic process,GO:0006699,Hypoxia,MESH:D000860,1,Dietary Fats,0,
+bile acid biosynthetic process,GO:0006699,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Dexamethasone,0,
+bile acid conjugation,GO:0002152,Hypoxia,MESH:D000860,1,Dietary Fats,0,
+bile acid metabolic process,GO:0008206,Hypoxia,MESH:D000860,7,Acetaminophen|Arsenic Trioxide|Dietary Fats|Lipopolysaccharides|Phenobarbital|Ribavirin|Taurine,0,
+bile acid metabolic process,GO:0008206,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Lipopolysaccharides,0,
+bile acid secretion,GO:0032782,Hypoxia,MESH:D000860,2,Chlorpromazine|Resveratrol,0,
+bilirubin transport,GO:0015723,Hypoxia,MESH:D000860,4,Acetaminophen|Dietary Fats|Resveratrol|Taurine,0,
+bilirubin transport,GO:0015723,"Hypoxia, Brain",MESH:D002534,1,Plant Extracts,0,
+biological_process,GO:0008150,Hypoxia,MESH:D000860,0,,1,ESD
+biological process involved in interaction with host,GO:0051701,Hypoxia,MESH:D000860,1,Nicotine,0,
+biological process involved in symbiotic interaction,GO:0044403,Hypoxia,MESH:D000860,3,Dietary Fats|Lipopolysaccharides|Nicotine,0,
+biological process involved in symbiotic interaction,GO:0044403,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Lipopolysaccharides,0,
+biomineral tissue development,GO:0031214,Hypoxia,MESH:D000860,1,Glucose,0,
+biosynthetic process,GO:0009058,Hypoxia,MESH:D000860,0,,1,ALDH1L1
+biotin metabolic process,GO:0006768,Hypoxia,MESH:D000860,1,Heroin,0,
+blastocyst formation,GO:0001825,Hypoxia,MESH:D000860,2,Resveratrol|Sodium Nitrite,0,
+blastocyst hatching,GO:0001835,Hypoxia,MESH:D000860,1,Resveratrol,0,
+blood coagulation,GO:0007596,Hypoxia,MESH:D000860,2,2-chloroethyl ethyl sulfide|Heparin,2,PLAT|TFPI
+blood coagulation,GO:0007596,"Hypoxia, Brain",MESH:D002534,1,Plant Extracts,0,
+"blood coagulation, fibrin clot formation",GO:0072378,Hypoxia,MESH:D000860,3,Acetaminophen|Copper Sulfate|Lipopolysaccharides,0,
+"blood coagulation, fibrin clot formation",GO:0072378,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Lipopolysaccharides,0,
+blood vessel development,GO:0001568,Hypoxia,MESH:D000860,2,Glucose|Resveratrol,0,
+blood vessel development,GO:0001568,"Hypoxia-Ischemia, Brain",MESH:D020925,0,,2,HIF1A|VEGFA
+blood vessel diameter maintenance,GO:0097746,Fetal Hypoxia,MESH:D005311,1,Nitric Oxide,0,
+blood vessel diameter maintenance,GO:0097746,Hypoxia,MESH:D000860,2,Nitric Oxide|Resveratrol,2,NOS3|NPPA
+blood vessel endothelial cell migration,GO:0043534,Hypoxia,MESH:D000860,0,,1,APOA1
+blood vessel morphogenesis,GO:0048514,"Hypoxia-Ischemia, Brain",MESH:D020925,0,,2,HIF1A|VEGFA
+blood vessel remodeling,GO:0001974,Hypoxia,MESH:D000860,3,Dietary Fats|Lipopolysaccharides|Oxygen,1,NOS3
+blood vessel remodeling,GO:0001974,"Hypoxia-Ischemia, Brain",MESH:D020925,2,Lipopolysaccharides|Oxygen,2,NOS2|VEGFA
+BMP signaling pathway,GO:0030509,Hypoxia,MESH:D000860,0,,1,EGR1
+bone development,GO:0060348,Hypoxia,MESH:D000860,0,,2,GNAS|NOS3
+bone development,GO:0060348,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Dexamethasone,0,
+bone growth,GO:0098868,Hypoxia,MESH:D000860,1,Acetaminophen,0,
+bone growth,GO:0098868,"Hypoxia-Ischemia, Brain",MESH:D020925,2,caffeic acid phenethyl ester|Dexamethasone,0,
+bone mineralization,GO:0030282,Hypoxia,MESH:D000860,6,Allopurinol|Dietary Fats|Enalapril|Glucose|Hydrogen Peroxide|Lipopolysaccharides,1,ATF4
+bone mineralization,GO:0030282,"Hypoxia-Ischemia, Brain",MESH:D020925,2,Dexamethasone|Lipopolysaccharides,1,HIF1A
+bone remodeling,GO:0046849,Hypoxia,MESH:D000860,2,Arsenic Trioxide|Nicotine,0,
+bone remodeling,GO:0046849,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Methamphetamine,0,
+bone resorption,GO:0045453,Hypoxia,MESH:D000860,2,Deferoxamine|Lipopolysaccharides,0,
+bone resorption,GO:0045453,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Lipopolysaccharides,0,
+bone trabecula formation,GO:0060346,Hypoxia,MESH:D000860,1,Dietary Fats,0,
+bone trabecula formation,GO:0060346,"Hypoxia-Ischemia, Brain",MESH:D020925,0,,1,VEGFA
+bone trabecula morphogenesis,GO:0061430,"Hypoxia-Ischemia, Brain",MESH:D020925,0,,1,VEGFA
+brain-derived neurotrophic factor receptor signaling pathway,GO:0031547,Hypoxia,MESH:D000860,0,,1,BDNF
+brain-derived neurotrophic factor receptor signaling pathway,GO:0031547,"Hypoxia, Brain",MESH:D002534,1,Plant Extracts,0,
+brain development,GO:0007420,Hypoxia,MESH:D000860,2,Nicotine|Propylthiouracil,1,BDNF
+branching involved in blood vessel morphogenesis,GO:0001569,"Hypoxia-Ischemia, Brain",MESH:D020925,0,,1,VEGFA
+brown fat cell differentiation,GO:0050873,Hypoxia,MESH:D000860,2,Indomethacin|Resveratrol,0,
+brown fat cell differentiation,GO:0050873,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Dexamethasone,0,
+brown fat cell proliferation,GO:0070342,Hypoxia,MESH:D000860,1,Taurine,0,
+butyrate metabolic process,GO:0019605,Hypoxia,MESH:D000860,1,Dietary Fats,0,
+C21-steroid hormone biosynthetic process,GO:0006700,Hypoxia,MESH:D000860,1,Nicotine,0,
+C-5 methylation of cytosine,GO:0090116,Hypoxia,MESH:D000860,3,Hydrogen Peroxide|Morphine|Resveratrol,0,
+C-5 methylation of cytosine,GO:0090116,"Hypoxia, Brain",MESH:D002534,1,Morphine,0,
+cadmium ion transport,GO:0015691,Hypoxia,MESH:D000860,1,Taurine,0,
+calcium import into the mitochondrion,GO:0036444,Hypoxia,MESH:D000860,2,Isoproterenol|sinapinic acid,0,
+calcium import into the mitochondrion,GO:0036444,"Hypoxia, Brain",MESH:D002534,0,,1,ITPR1
+calcium import into the mitochondrion,GO:0036444,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Lithium Chloride,0,
+calcium ion export,GO:1901660,Hypoxia,MESH:D000860,1,Nimodipine,0,
+calcium ion export across plasma membrane,GO:1990034,Hypoxia,MESH:D000860,1,Oxygen,0,
+calcium ion export across plasma membrane,GO:1990034,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Oxygen,0,
+calcium ion homeostasis,GO:0055074,Hypoxia,MESH:D000860,15,Acetaminophen|Arsenic Trioxide|Chlorpromazine|Dietary Fats|Gallic Acid|Glucose|Heparin|Hydrochloric Acid|Hydrogen Peroxide|Isoproterenol|Nimodipine|Oxygen|Resveratrol|Sevoflurane|Verapamil,0,
+calcium ion homeostasis,GO:0055074,"Hypoxia-Ischemia, Brain",MESH:D020925,2,Dexamethasone|Oxygen,0,
+calcium ion import,GO:0070509,Hypoxia,MESH:D000860,8,Flumazenil|Glucose|Hydrogen Peroxide|Lidocaine|Nicotine|Nimodipine|Oxygen|Verapamil,0,
+calcium ion import,GO:0070509,"Hypoxia-Ischemia, Brain",MESH:D020925,2,Methamphetamine|Oxygen,0,
+calcium ion import across plasma membrane,GO:0098703,Hypoxia,MESH:D000860,3,"6-hydroxy-2,5,7,8-tetramethylchroman-2-carboxylic acid|Arsenic Trioxide|Ketamine",0,
+calcium ion transmembrane transport,GO:0070588,"Hypoxia, Brain",MESH:D002534,0,,2,ITPR1|ITPR2
+calcium ion transmembrane transport via high voltage-gated calcium channel,GO:0061577,Hypoxia,MESH:D000860,3,Arsenic Trioxide|Glucose|Resveratrol,0,
+calcium ion transport,GO:0006816,Hypoxia,MESH:D000860,4,Glucose|Isoproterenol|Ketamine|Nicotine,2,NOS1|NOS3
+calcium ion transport,GO:0006816,"Hypoxia, Brain",MESH:D002534,0,,2,ITPR1|ITPR2
+calcium ion transport,GO:0006816,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Methamphetamine,0,
+calcium-mediated signaling,GO:0019722,Hypoxia,MESH:D000860,17,Fluorouracil|Glucose|Hydrogen Peroxide|Isoproterenol|Ketamine|Lidocaine|Morphine|Nicotine|Nimodipine|Nitroglycerin|Nitrous Oxide|Norepinephrine|Oxygen|Phenylephrine|Resveratrol|Sevoflurane|Verapamil,1,POMC
+calcium-mediated signaling,GO:0019722,"Hypoxia, Brain",MESH:D002534,2,Morphine|Phenylephrine,2,ITPR1|ITPR2
+calcium-mediated signaling,GO:0019722,"Hypoxia-Ischemia, Brain",MESH:D020925,3,Dexamethasone|Ouabain|Oxygen,0,
+calcium-mediated signaling using intracellular calcium source,GO:0035584,Hypoxia,MESH:D000860,2,Chloroquine|Glucose,0,
+camera-type eye development,GO:0043010,Hypoxia,MESH:D000860,0,,1,EGR1
+camera-type eye morphogenesis,GO:0048593,"Hypoxia-Ischemia, Brain",MESH:D020925,0,,2,HIF1A|VEGFA
+cAMP biosynthetic process,GO:0006171,Hypoxia,MESH:D000860,13,Alprostadil|Chloroquine|Copper Sulfate|Isoproterenol|Lipopolysaccharides|Methadone|Morphine|Naloxone|Nicotine|Norepinephrine|Oxygen|Resveratrol|Vitamin E,0,
+cAMP biosynthetic process,GO:0006171,"Hypoxia, Brain",MESH:D002534,2,Baclofen|Morphine,0,
+cAMP biosynthetic process,GO:0006171,"Hypoxia-Ischemia, Brain",MESH:D020925,2,Lipopolysaccharides|Oxygen,0,
+cAMP-mediated signaling,GO:0019933,Hypoxia,MESH:D000860,0,,1,GAPDH
+cAMP metabolic process,GO:0046058,Hypoxia,MESH:D000860,6,Arsenic Trioxide|Dietary Fats|Isoproterenol|Oxygen|Resveratrol|Taurine,0,
+cAMP metabolic process,GO:0046058,"Hypoxia-Ischemia, Brain",MESH:D020925,3,Blood Glucose|Oxygen|Prasugrel Hydrochloride,0,
+cAMP transport,GO:0070730,Hypoxia,MESH:D000860,1,Isoproterenol,0,
+cannabinoid biosynthetic process,GO:1901696,Hypoxia,MESH:D000860,1,Dietary Fats,0,
+canonical glycolysis,GO:0061621,Hypoxia,MESH:D000860,0,,1,GAPDH
+carbohydrate metabolic process,GO:0005975,Hypoxia,MESH:D000860,4,Glucose|Hydrogen Peroxide|Ribavirin|Vitamin E,1,CS
+carbohydrate transport,GO:0008643,Hypoxia,MESH:D000860,1,Glucose,0,
+carboxylic acid metabolic process,GO:0019752,Hypoxia,MESH:D000860,4,Heroin|Hydrogen Peroxide|Indomethacin|Ribavirin,0,
+cardiac conduction system development,GO:0003161,Hypoxia,MESH:D000860,0,,1,NPPA
+cardiac jelly development,GO:1905072,Hypoxia,MESH:D000860,0,,1,NPPA
+cardiac muscle cell apoptotic process,GO:0010659,Hypoxia,MESH:D000860,1,Glucose,0,
+cardiac muscle cell contraction,GO:0086003,Hypoxia,MESH:D000860,5,Amitriptyline|Chloroquine|Diltiazem|Isoproterenol|Verapamil,0,
+cardiac muscle cell contraction,GO:0086003,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Ouabain,0,
+cardiac muscle cell development,GO:0055013,Hypoxia,MESH:D000860,2,Isoproterenol|Nicotine,0,
+cardiac muscle cell development,GO:0055013,"Hypoxia-Ischemia, Brain",MESH:D020925,0,,1,VEGFA
+cardiac muscle cell differentiation,GO:0055007,Hypoxia,MESH:D000860,2,Fluorouracil|Nicotine,0,
+cardiac muscle cell proliferation,GO:0060038,Hypoxia,MESH:D000860,1,Glucose,1,NPPA
+cardiac muscle contraction,GO:0060048,Hypoxia,MESH:D000860,9,Diltiazem|Isoproterenol|Naloxone|Nicotine|Nitroprusside|Norepinephrine|Phenylephrine|Sevoflurane|Terbutaline,0,
+cardiac muscle contraction,GO:0060048,"Hypoxia, Brain",MESH:D002534,1,Phenylephrine,0,
+cardiac muscle hypertrophy,GO:0003300,Hypoxia,MESH:D000860,6,Bleomycin|Isoproterenol|Lipopolysaccharides|Oxygen|Phenylephrine|Resveratrol,0,
+cardiac muscle hypertrophy,GO:0003300,"Hypoxia, Brain",MESH:D002534,1,Phenylephrine,0,
+cardiac muscle hypertrophy,GO:0003300,"Hypoxia-Ischemia, Brain",MESH:D020925,2,Lipopolysaccharides|Oxygen,0,
+cardiac muscle hypertrophy in response to stress,GO:0014898,Hypoxia,MESH:D000860,0,,1,NPPA
+cardiac vascular smooth muscle cell development,GO:0060948,"Hypoxia-Ischemia, Brain",MESH:D020925,0,,1,VEGFA
+cardiac ventricle morphogenesis,GO:0003208,"Hypoxia-Ischemia, Brain",MESH:D020925,0,,1,HIF1A
+carnitine biosynthetic process,GO:0045329,Hypoxia,MESH:D000860,2,Allopurinol|Arsenic Trioxide,0,
+carnitine metabolic process,GO:0009437,Hypoxia,MESH:D000860,3,Heroin|Indomethacin|Isoproterenol,0,
+"carnitine metabolic process, CoA-linked",GO:0019254,Hypoxia,MESH:D000860,1,Dietary Fats,0,
+carnitine shuttle,GO:0006853,Hypoxia,MESH:D000860,1,Copper Sulfate,0,
+carnitine transmembrane transport,GO:1902603,Hypoxia,MESH:D000860,1,Verapamil,0,
+cartilage development,GO:0051216,Hypoxia,MESH:D000860,1,Nicotine,1,GNAS
+cartilage development,GO:0051216,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Dexamethasone,1,HIF1A
+cartilage morphogenesis,GO:0060536,Hypoxia,MESH:D000860,1,Ketamine,0,
+catecholamine secretion,GO:0050432,Hypoxia,MESH:D000860,1,Nicotine,0,
+caveola assembly,GO:0070836,Hypoxia,MESH:D000860,1,Phenylephrine,0,
+caveola assembly,GO:0070836,"Hypoxia, Brain",MESH:D002534,1,Phenylephrine,0,
+CD80 biosynthetic process,GO:0035780,"Hypoxia, Brain",MESH:D002534,1,Plant Extracts,0,
+CD86 biosynthetic process,GO:0035781,"Hypoxia, Brain",MESH:D002534,1,Plant Extracts,0,
+cell-abiotic substrate adhesion,GO:0036164,Hypoxia,MESH:D000860,2,Chloroquine|Hydrogen Peroxide,0,
+cell activation,GO:0001775,Hypoxia,MESH:D000860,1,Resveratrol,0,
+cell adhesion,GO:0007155,Hypoxia,MESH:D000860,6,Arsenic Trioxide|Glucose|Hydrogen Peroxide|Oxygen|Resveratrol|Vitamin E,1,DAF-2
+cell adhesion,GO:0007155,"Hypoxia, Brain",MESH:D002534,1,Plant Extracts,0,
+cell adhesion,GO:0007155,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Oxygen,0,
+cell aggregation,GO:0098743,Fetal Hypoxia,MESH:D005311,1,Ibuprofen,0,
+cell aggregation,GO:0098743,Hypoxia,MESH:D000860,4,Chlorpromazine|Indomethacin|Lipopolysaccharides|Nicotine,0,
+cell aggregation,GO:0098743,"Hypoxia, Brain",MESH:D002534,1,Plant Extracts,0,
+cell aggregation,GO:0098743,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Lipopolysaccharides,0,
+cell-cell adhesion,GO:0098609,Hypoxia,MESH:D000860,6,Chloroquine|Copper Sulfate|Glucose|Isoflurane|Lipopolysaccharides|Sevoflurane,0,
+cell-cell adhesion,GO:0098609,"Hypoxia, Brain",MESH:D002534,1,Plant Extracts,0,
+cell-cell adhesion,GO:0098609,"Hypoxia-Ischemia, Brain",MESH:D020925,2,Dexamethasone|Lipopolysaccharides,1,VEGFA
+cell-cell adhesion in response to extracellular stimulus,GO:0140039,Hypoxia,MESH:D000860,1,Resveratrol,0,
+cell-cell junction organization,GO:0045216,Hypoxia,MESH:D000860,1,Resveratrol,0,
+cell-cell signaling,GO:0007267,Hypoxia,MESH:D000860,1,Resveratrol,1,POMC
+cell-cell signaling via exosome,GO:0099156,Hypoxia,MESH:D000860,2,Acetaminophen|Lipopolysaccharides,0,
+cell-cell signaling via exosome,GO:0099156,"Hypoxia-Ischemia, Brain",MESH:D020925,2,Lipopolysaccharides|Methamphetamine,0,
+cell chemotaxis,GO:0060326,Fetal Hypoxia,MESH:D005311,2,Ibuprofen|Naproxen,0,
+cell chemotaxis,GO:0060326,Hypoxia,MESH:D000860,21,Acetaminophen|Alprostadil|Arsenic Trioxide|Chloroquine|cobaltous chloride|Deoxyglucose|Diazepam|Gallic Acid|Gemcitabine|Heparin|Hydrogen Peroxide|Indomethacin|Lipopolysaccharides|Morphine|Naloxone|Nicotine|Norepinephrine|Propofol|Resveratrol|Sevoflurane|Spironolactone,0,
+cell chemotaxis,GO:0060326,"Hypoxia, Brain",MESH:D002534,4,Baclofen|cobaltous chloride|Morphine|Plant Extracts,0,
+cell chemotaxis,GO:0060326,"Hypoxia-Ischemia, Brain",MESH:D020925,4,cobaltous chloride|Dexamethasone|Lipopolysaccharides|Lithium Chloride,1,VEGFA
+cell cycle,GO:0007049,Fetal Hypoxia,MESH:D005311,3,Ibuprofen|Naproxen|Nitric Oxide,0,
+cell cycle,GO:0007049,Hypoxia,MESH:D000860,20,Acetaminophen|Arsenic Trioxide|Bleomycin|Chloroquine|Deferoxamine|Fluorouracil|Gemcitabine|Glucose|Heparin|Hydrogen Peroxide|Indomethacin|Isoproterenol|Lidocaine|Morphine|Nicotine|Nitric Oxide|Nitroprusside|Resveratrol|Sulindac|Vitamin E,0,
+cell cycle,GO:0007049,"Hypoxia, Brain",MESH:D002534,3,Cocaine|Morphine|Plant Extracts,0,
+cell cycle,GO:0007049,"Hypoxia-Ischemia, Brain",MESH:D020925,4,Cocaine|Dexamethasone|Lithium Chloride|Ouabain,0,
+cell cycle checkpoint signaling,GO:0000075,Hypoxia,MESH:D000860,1,Oxygen,0,
+cell cycle checkpoint signaling,GO:0000075,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Oxygen,0,
+cell death,GO:0008219,Fetal Hypoxia,MESH:D005311,2,Ibuprofen|Nitric Oxide,0,
+cell death,GO:0008219,Hypoxia,MESH:D000860,57,"2-chloroethyl ethyl sulfide|6-hydroxy-2,5,7,8-tetramethylchroman-2-carboxylic acid|Acetaminophen|acetovanillone|Allopurinol|Amitriptyline|Arsenic Trioxide|Bleomycin|Bupivacaine|Chloroquine|Chlorpromazine|cobaltous chloride|Copper Sulfate|Cyanides|Deferoxamine|Deoxyglucose|Diacetyl|Diazepam|Dietary Fats|Diltiazem|Enalapril|Fluorouracil|Gallic Acid|Gemcitabine|Glucose|Heparin|Hydrogen Peroxide|Indomethacin|Isoflurane|Isoproterenol|Ketamine|Lidocaine|Lipopolysaccharides|Methadone|Methyldopa|Morphine|Mustard Gas|Naloxone|Nicotine|Nimodipine|Nitric Oxide|Nitroprusside|norbinaltorphimine|Norepinephrine|Oleic Acid|Oxygen|Phenobarbital|Potassium Cyanide|Resveratrol|Ribavirin|Sevoflurane|Sulindac|Taurine|tetrandrine|Verapamil|Vitamin E|Zinc Sulfate",0,
+cell death,GO:0008219,"Hypoxia, Brain",MESH:D002534,5,cobaltous chloride|Cocaine|Morphine|Phenytoin|Plant Extracts,0,
+cell death,GO:0008219,"Hypoxia-Ischemia, Brain",MESH:D020925,11,Blood Glucose|cobaltous chloride|Cocaine|Dexamethasone|Digitoxin|Fluoxetine|Lipopolysaccharides|Lithium Chloride|Methamphetamine|Ouabain|Oxygen,0,
+cell death in response to hydrogen peroxide,GO:0036474,Hypoxia,MESH:D000860,2,Hydrogen Peroxide|Resveratrol,0,
+cell differentiation,GO:0030154,Hypoxia,MESH:D000860,15,Arsenic Trioxide|Chloroquine|Deferoxamine|Fluorouracil|Glucose|Heparin|Indomethacin|Lipopolysaccharides|Morphine|Nicotine|Nitroglycerin|Norepinephrine|Oxygen|Resveratrol|Vitamin E,1,NME1
+cell differentiation,GO:0030154,"Hypoxia, Brain",MESH:D002534,3,Cocaine|Morphine|Plant Extracts,0,
+cell differentiation,GO:0030154,"Hypoxia-Ischemia, Brain",MESH:D020925,5,Cocaine|Dexamethasone|Lipopolysaccharides|Ouabain|Oxygen,2,HIF1A|VEGFA
+cell growth,GO:0016049,Hypoxia,MESH:D000860,22,Acetaminophen|acetovanillone|Allopurinol|Arsenic Trioxide|Chloroquine|Chlorpromazine|Copper Sulfate|Deferoxamine|Dietary Fats|Fluorouracil|Gemcitabine|Glucose|Hydrogen Peroxide|Indican|Lipopolysaccharides|Oxygen|Resveratrol|Ribavirin|tetrandrine|Verapamil|Vitamin E|Zinc Sulfate,0,
+cell growth,GO:0016049,"Hypoxia, Brain",MESH:D002534,3,Carbon Monoxide|Cocaine|Plant Extracts,0,
+cell growth,GO:0016049,"Hypoxia-Ischemia, Brain",MESH:D020925,6,Cocaine|Dexamethasone|Fluoxetine|Lipopolysaccharides|Lithium Chloride|Oxygen,0,
+cell growth involved in cardiac muscle cell development,GO:0061049,Hypoxia,MESH:D000860,1,Phenylephrine,1,NPPA
+cell growth involved in cardiac muscle cell development,GO:0061049,"Hypoxia, Brain",MESH:D002534,1,Phenylephrine,0,
+cell maturation,GO:0048469,Hypoxia,MESH:D000860,1,Lipopolysaccharides,0,
+cell maturation,GO:0048469,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Lipopolysaccharides,1,VEGFA
+cell migration,GO:0016477,Hypoxia,MESH:D000860,15,acetovanillone|Arsenic Trioxide|cobaltous chloride|Copper Sulfate|Deoxyglucose|Dietary Fats|Fluorouracil|Gallic Acid|Glucose|Hydrogen Peroxide|Indomethacin|Lipopolysaccharides|Mustard Gas|Oxygen|Resveratrol,0,
+cell migration,GO:0016477,"Hypoxia, Brain",MESH:D002534,3,cobaltous chloride|Phenytoin|Plant Extracts,0,
+cell migration,GO:0016477,"Hypoxia-Ischemia, Brain",MESH:D020925,6,cobaltous chloride|Dexamethasone|Lipopolysaccharides|Lithium Chloride|Ouabain|Oxygen,1,VEGFA
+cell migration involved in sprouting angiogenesis,GO:0002042,"Hypoxia-Ischemia, Brain",MESH:D020925,0,,1,VEGFA
+cell morphogenesis,GO:0000902,Hypoxia,MESH:D000860,1,Fenfluramine,0,
+cell morphogenesis,GO:0000902,"Hypoxia, Brain",MESH:D002534,1,Plant Extracts,1,ITPR1
+cell motility,GO:0048870,Hypoxia,MESH:D000860,0,,1,ACTB
+cell population proliferation,GO:0008283,Fetal Hypoxia,MESH:D005311,2,Ibuprofen|Nitric Oxide,0,
+cell population proliferation,GO:0008283,Hypoxia,MESH:D000860,61,"6-hydroxy-2,5,7,8-tetramethylchroman-2-carboxylic acid|Acetaminophen|Allopurinol|Alprazolam|Alprostadil|Amitriptyline|Arsenic Trioxide|Bleomycin|Buprenorphine|Chloroquine|Chlorpromazine|cobaltous chloride|Copper Sulfate|cyclo(Trp-Asp-Pro-Val-Leu)|Cyproheptadine|Deferoxamine|Deoxyglucose|Diazepam|Dietary Fats|Diltiazem|Enalapril|Fluorouracil|Gallic Acid|Gemcitabine|Glucose|Heparin|Hydrochloric Acid|Hydrogen Peroxide|Indican|Indomethacin|Isoflurane|Isoproterenol|Ketamine|Lidocaine|Lipopolysaccharides|Morphine|Mustard Gas|Naloxone|Nicotine|Nimodipine|Nitrendipine|Nitric Oxide|Nitroprusside|Nitrous Oxide|norbinaltorphimine|Norepinephrine|Oleic Acid|Oxygen|Phenobarbital|Propofol|Propylthiouracil|Resveratrol|Ribavirin|Sevoflurane|Spironolactone|Sulindac|Taurine|tetrandrine|Verapamil|Vitamin E|Zinc Sulfate",0,
+cell population proliferation,GO:0008283,"Hypoxia, Brain",MESH:D002534,7,Carbon Monoxide|cobaltous chloride|Cocaine|Edaravone|Morphine|Phenytoin|Plant Extracts,0,
+cell population proliferation,GO:0008283,"Hypoxia-Ischemia, Brain",MESH:D020925,11,caffeic acid phenethyl ester|cobaltous chloride|Cocaine|Dexamethasone|Digitoxin|Fluoxetine|Lipopolysaccharides|Lithium Chloride|Methamphetamine|Ouabain|Oxygen,1,VEGFA
+cell projection assembly,GO:0030031,Hypoxia,MESH:D000860,1,Arsenic Trioxide,0,
+cell projection assembly,GO:0030031,"Hypoxia, Brain",MESH:D002534,1,Plant Extracts,0,
+cell projection morphogenesis,GO:0048858,Hypoxia,MESH:D000860,1,Chloroquine,0,
+cell proliferation in forebrain,GO:0021846,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Methamphetamine,0,
+cell proliferation in midbrain,GO:0033278,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Methamphetamine,0,
+cell redox homeostasis,GO:0045454,Hypoxia,MESH:D000860,15,"6-hydroxy-2,5,7,8-tetramethylchroman-2-carboxylic acid|Acetaminophen|Arsenic Trioxide|cobaltous chloride|Dietary Fats|Fluorouracil|Glucose|Hydrochloric Acid|Hydrogen Peroxide|Isoproterenol|Mustard Gas|Oxygen|Resveratrol|Vitamin E|Zinc Sulfate",2,NOS1|NOS3
+cell redox homeostasis,GO:0045454,"Hypoxia, Brain",MESH:D002534,2,cobaltous chloride|Plant Extracts,0,
+cell redox homeostasis,GO:0045454,"Hypoxia-Ischemia, Brain",MESH:D020925,2,cobaltous chloride|Oxygen,1,NOS2
+cell-substrate adhesion,GO:0031589,Hypoxia,MESH:D000860,4,Gallic Acid|Hydrogen Peroxide|Oxygen|Vitamin E,0,
+cell-substrate adhesion,GO:0031589,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Oxygen,0,
+cellular aldehyde metabolic process,GO:0006081,Hypoxia,MESH:D000860,1,Chlorpromazine,0,
+cellular amino acid homeostasis,GO:0080144,Hypoxia,MESH:D000860,1,Taurine,0,
+cellular calcium ion homeostasis,GO:0006874,Fetal Hypoxia,MESH:D005311,2,Ibuprofen|Naproxen,0,
+cellular calcium ion homeostasis,GO:0006874,Hypoxia,MESH:D000860,25,Acetazolamide|Amitriptyline|Arsenic Trioxide|Bupivacaine|Chloroquine|Chlorpromazine|cobaltous chloride|Dietary Fats|Diltiazem|Fluorouracil|Gabapentin|Glucose|Heparin|Hydrogen Peroxide|Indomethacin|iopromide|Isoproterenol|Ketamine|Lipopolysaccharides|Nicotine|Norepinephrine|Oleic Acid|Oxygen|Resveratrol|Verapamil,1,ATF4
+cellular calcium ion homeostasis,GO:0006874,"Hypoxia, Brain",MESH:D002534,3,Baclofen|cobaltous chloride|Plant Extracts,0,
+cellular calcium ion homeostasis,GO:0006874,"Hypoxia-Ischemia, Brain",MESH:D020925,5,cobaltous chloride|Dexamethasone|Lipopolysaccharides|Lithium Chloride|Oxygen,0,
+cellular carbohydrate metabolic process,GO:0044262,Hypoxia,MESH:D000860,1,Glucose,0,
+cellular chemical homeostasis,GO:0055082,Hypoxia,MESH:D000860,1,Arsenic Trioxide,0,
+cellular component organization,GO:0016043,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Dexamethasone,0,
+cellular copper ion homeostasis,GO:0006878,Hypoxia,MESH:D000860,1,Phenylephrine,0,
+cellular copper ion homeostasis,GO:0006878,"Hypoxia, Brain",MESH:D002534,1,Phenylephrine,0,
+cellular detoxification of aldehyde,GO:0110095,Hypoxia,MESH:D000860,1,Felbamate,0,
+cellular detoxification of hydrogen peroxide,GO:0061692,Hypoxia,MESH:D000860,1,Hydrogen Peroxide,0,
+cellular detoxification of nitrogen compound,GO:0070458,Fetal Hypoxia,MESH:D005311,1,Nitric Oxide,0,
+cellular detoxification of nitrogen compound,GO:0070458,Hypoxia,MESH:D000860,1,Nitric Oxide,0,
+cellular extravasation,GO:0045123,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Dexamethasone,0,
+cellular glucose homeostasis,GO:0001678,Hypoxia,MESH:D000860,2,cobaltous chloride|Glucose,0,
+cellular glucose homeostasis,GO:0001678,"Hypoxia, Brain",MESH:D002534,1,cobaltous chloride,0,
+cellular glucose homeostasis,GO:0001678,"Hypoxia-Ischemia, Brain",MESH:D020925,1,cobaltous chloride,1,HIF1A
+cellular glutamate homeostasis,GO:0090461,Hypoxia,MESH:D000860,1,Oxygen,0,
+cellular glutamate homeostasis,GO:0090461,"Hypoxia-Ischemia, Brain",MESH:D020925,2,Blood Glucose|Oxygen,0,
+cellular iron ion homeostasis,GO:0006879,Hypoxia,MESH:D000860,8,Acetaminophen|Chloroquine|Deferoxamine|Dietary Fats|Fluorouracil|Glucose|Oleic Acid|Resveratrol,0,
+cellular iron ion homeostasis,GO:0006879,"Hypoxia-Ischemia, Brain",MESH:D020925,0,,1,HIF1A
+cellular lipid catabolic process,GO:0044242,Hypoxia,MESH:D000860,6,Arsenic Trioxide|Hydrogen Peroxide|Isoproterenol|Nicotine|Oxygen|Resveratrol,0,
+cellular lipid catabolic process,GO:0044242,"Hypoxia, Brain",MESH:D002534,1,Plant Extracts,0,
+cellular lipid catabolic process,GO:0044242,"Hypoxia-Ischemia, Brain",MESH:D020925,2,Dexamethasone|Oxygen,0,
+cellular lipid metabolic process,GO:0044255,Hypoxia,MESH:D000860,3,Copper Sulfate|Dietary Fats|Oleic Acid,0,
+cellular lipid metabolic process,GO:0044255,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Dexamethasone,0,
+cellular metabolic process,GO:0044237,Fetal Hypoxia,MESH:D005311,2,Ibuprofen|Naproxen,0,
+cellular metabolic process,GO:0044237,Hypoxia,MESH:D000860,49,"2-chloroethyl ethyl sulfide|6-hydroxy-2,5,7,8-tetramethylchroman-2-carboxylic acid|Acetaminophen|Acetazolamide|Allopurinol|Amitriptyline|Arsenic Trioxide|Bleomycin|Bupivacaine|Chloroquine|Chlorpromazine|cobaltous chloride|Copper Sulfate|Cyproheptadine|Deferoxamine|Deoxyglucose|Diacetyl|Diltiazem|Fluorouracil|Gabapentin|Gallic Acid|Gemcitabine|Glucose|Hydrogen Peroxide|indole|Indomethacin|Isoflurane|Isoproterenol|Ketamine|Lidocaine|Lipopolysaccharides|Mustard Gas|Nicotine|Nitroprusside|Oleic Acid|Oxygen|Phenylephrine|Propafenone|Propofol|Resveratrol|Ribavirin|Sevoflurane|Sodium Nitrite|Sulindac|Taurine|tetrandrine|Verapamil|Vitamin E|Zinc Sulfate",0,
+cellular metabolic process,GO:0044237,"Hypoxia, Brain",MESH:D002534,6,cobaltous chloride|Edaravone|Etomidate|Phenylephrine|Phenytoin|Plant Extracts,0,
+cellular metabolic process,GO:0044237,"Hypoxia-Ischemia, Brain",MESH:D020925,10,Blood Glucose|caffeic acid phenethyl ester|cobaltous chloride|Dexamethasone|Fluoxetine|Lipopolysaccharides|Lithium Chloride|Methamphetamine|Ouabain|Oxygen,0,
+cellular nitric oxide homeostasis,GO:0033484,Fetal Hypoxia,MESH:D005311,1,Nitric Oxide,0,
+cellular nitric oxide homeostasis,GO:0033484,Hypoxia,MESH:D000860,5,Copper Sulfate|Deferoxamine|Lipopolysaccharides|Nitric Oxide|Zinc Sulfate,0,
+cellular nitric oxide homeostasis,GO:0033484,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Lipopolysaccharides,0,
+cellular nitrogen compound metabolic process,GO:0034641,Hypoxia,MESH:D000860,1,Lipopolysaccharides,0,
+cellular nitrogen compound metabolic process,GO:0034641,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Lipopolysaccharides,0,
+cellular oxidant detoxification,GO:0098869,Hypoxia,MESH:D000860,2,"6-hydroxy-2,5,7,8-tetramethylchroman-2-carboxylic acid|Hydrogen Peroxide",0,
+cellular oxygen homeostasis,GO:0032364,Hypoxia,MESH:D000860,2,Lipopolysaccharides|Oxygen,1,SOD2
+cellular oxygen homeostasis,GO:0032364,"Hypoxia-Ischemia, Brain",MESH:D020925,3,Lipopolysaccharides|Methamphetamine|Oxygen,1,HIF1A
+cellular pigmentation,GO:0033059,Hypoxia,MESH:D000860,0,,1,POMC
+cellular respiration,GO:0045333,Hypoxia,MESH:D000860,11,Arsenic Trioxide|Deferoxamine|Dietary Fats|Glucose|Hydrogen Peroxide|Lidocaine|Lipopolysaccharides|Methadone|Nicotine|Oxygen|Resveratrol,0,
+cellular respiration,GO:0045333,"Hypoxia-Ischemia, Brain",MESH:D020925,4,Dexamethasone|Lipopolysaccharides|Ouabain|Oxygen,0,
+cellular response to acid chemical,GO:0071229,Hypoxia,MESH:D000860,0,,1,BDNF
+cellular response to aldehyde,GO:0110096,"Hypoxia, Brain",MESH:D002534,1,Plant Extracts,0,
+cellular response to amino acid starvation,GO:0034198,Hypoxia,MESH:D000860,0,,1,ATF4
+cellular response to ammonium ion,GO:0071242,Hypoxia,MESH:D000860,1,Resveratrol,0,
+cellular response to amphetamine,GO:0071419,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Methamphetamine,0,
+cellular response to angiotensin,GO:1904385,Hypoxia,MESH:D000860,0,,1,NPPA
+cellular response to anoxia,GO:0071454,"Hypoxia-Ischemia, Brain",MESH:D020925,0,,1,HIF1A
+cellular response to antibiotic,GO:0071236,Hypoxia,MESH:D000860,0,,1,EGR1
+cellular response to arsenic-containing substance,GO:0071243,Hypoxia,MESH:D000860,2,Arsenic Trioxide|Resveratrol,0,
+cellular response to blue light,GO:0071483,Hypoxia,MESH:D000860,1,Resveratrol,0,
+cellular response to blue light,GO:0071483,"Hypoxia, Brain",MESH:D002534,1,Plant Extracts,0,
+cellular response to cAMP,GO:0071320,Hypoxia,MESH:D000860,0,,2,EGR1|NOS3
+cellular response to cAMP,GO:0071320,"Hypoxia, Brain",MESH:D002534,0,,2,ITPR1|ITPR2
+cellular response to carbon monoxide,GO:0071245,"Hypoxia-Ischemia, Brain",MESH:D020925,0,,1,HIF1A
+cellular response to catecholamine stimulus,GO:0071870,Hypoxia,MESH:D000860,0,,1,GNAS
+cellular response to cisplatin,GO:0072719,Fetal Hypoxia,MESH:D005311,1,Ibuprofen,0,
+cellular response to cisplatin,GO:0072719,Hypoxia,MESH:D000860,2,Chloroquine|Indomethacin,0,
+cellular response to cobalt ion,GO:0071279,"Hypoxia-Ischemia, Brain",MESH:D020925,0,,1,HIF1A
+cellular response to cocaine,GO:0071314,"Hypoxia, Brain",MESH:D002534,1,Cocaine,0,
+cellular response to cocaine,GO:0071314,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Cocaine,0,
+cellular response to cyanide,GO:1903928,"Hypoxia-Ischemia, Brain",MESH:D020925,0,,1,HIF1A
+cellular response to cytochalasin B,GO:0072749,Hypoxia,MESH:D000860,0,,1,ACTB
+cellular response to cytokine stimulus,GO:0071345,"Hypoxia-Ischemia, Brain",MESH:D020925,0,,2,IRAK1|NOS2
+cellular response to dexamethasone stimulus,GO:0071549,Hypoxia,MESH:D000860,0,,2,PCK2|PLAT
+cellular response to dexamethasone stimulus,GO:0071549,"Hypoxia-Ischemia, Brain",MESH:D020925,0,,1,VEGFA
+cellular response to DNA damage stimulus,GO:0006974,Hypoxia,MESH:D000860,26,"6-hydroxy-2,5,7,8-tetramethylchroman-2-carboxylic acid|Acetaminophen|acetovanillone|Arsenic Trioxide|Bleomycin|Bupivacaine|cobaltous chloride|Copper Sulfate|Deferoxamine|Diazepam|Dietary Fats|Fluorouracil|Glucose|Hydrogen Peroxide|Lipopolysaccharides|Mustard Gas|Nicotine|Nitroprusside|Oxygen|Phenobarbital|Phenylephrine|Resveratrol|Spironolactone|Taurine|Vitamin E|Zinc Sulfate",0,
+cellular response to DNA damage stimulus,GO:0006974,"Hypoxia, Brain",MESH:D002534,5,cobaltous chloride|Cocaine|Phenylephrine|Phenytoin|Plant Extracts,0,
+cellular response to DNA damage stimulus,GO:0006974,"Hypoxia-Ischemia, Brain",MESH:D020925,7,cobaltous chloride|Cocaine|Dexamethasone|Lipopolysaccharides|Methamphetamine|Ouabain|Oxygen,0,
+cellular response to electrical stimulus,GO:0071257,Fetal Hypoxia,MESH:D005311,1,Nitric Oxide,0,
+cellular response to electrical stimulus,GO:0071257,Hypoxia,MESH:D000860,1,Nitric Oxide,1,ACTB
+cellular response to electrical stimulus,GO:0071257,"Hypoxia-Ischemia, Brain",MESH:D020925,0,,1,HIF1A
+cellular response to epinephrine stimulus,GO:0071872,Hypoxia,MESH:D000860,0,,1,NOS1
+cellular response to estrogen stimulus,GO:0071391,"Hypoxia-Ischemia, Brain",MESH:D020925,0,,2,HIF1A|VEGFA
+cellular response to ethanol,GO:0071361,Hypoxia,MESH:D000860,0,,1,SOD2
+cellular response to ethanol,GO:0071361,"Hypoxia, Brain",MESH:D002534,0,,1,ITPR2
+cellular response to fatty acid,GO:0071398,Hypoxia,MESH:D000860,0,,1,NME1
+cellular response to fibroblast growth factor stimulus,GO:0044344,"Hypoxia-Ischemia, Brain",MESH:D020925,0,,1,VEGFA
+cellular response to fluoride,GO:1902618,Hypoxia,MESH:D000860,1,Arsenic Trioxide,0,
+cellular response to follicle-stimulating hormone stimulus,GO:0071372,Hypoxia,MESH:D000860,0,,2,EGR1|PLAT
+cellular response to food,GO:0071240,Hypoxia,MESH:D000860,1,Dietary Fats,0,
+cellular response to gamma radiation,GO:0071480,Hypoxia,MESH:D000860,1,Lipopolysaccharides,1,EGR1
+cellular response to gamma radiation,GO:0071480,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Lipopolysaccharides,0,
+cellular response to glucagon stimulus,GO:0071377,Hypoxia,MESH:D000860,0,,1,GNAS
+cellular response to glucose starvation,GO:0042149,Hypoxia,MESH:D000860,0,,1,ATF4
+cellular response to glucose stimulus,GO:0071333,Hypoxia,MESH:D000860,0,,2,NME1|PCK2
+cellular response to glucose stimulus,GO:0071333,"Hypoxia-Ischemia, Brain",MESH:D020925,0,,1,HIF1A
+cellular response to gonadotropin stimulus,GO:0071371,Hypoxia,MESH:D000860,0,,1,EGR1
+cellular response to growth factor stimulus,GO:0071363,Hypoxia,MESH:D000860,0,,3,EGR1|NOS1|NOS3
+cellular response to heat,GO:0034605,Hypoxia,MESH:D000860,0,,1,NOS3
+cellular response to heat,GO:0034605,"Hypoxia-Ischemia, Brain",MESH:D020925,0,,1,IRAK1
+cellular response to heparin,GO:0071504,Hypoxia,MESH:D000860,0,,1,EGR1
+cellular response to high density lipoprotein particle stimulus,GO:0071403,Hypoxia,MESH:D000860,0,,1,NOS3
+cellular response to high light intensity,GO:0071486,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Dexamethasone,0,
+cellular response to hydrogen peroxide,GO:0070301,Hypoxia,MESH:D000860,3,Bleomycin|Glucose|Hydrogen Peroxide,1,NPPA
+cellular response to hydrogen peroxide,GO:0070301,"Hypoxia-Ischemia, Brain",MESH:D020925,0,,1,HIF1A
+cellular response to hyperoxia,GO:0071455,Hypoxia,MESH:D000860,0,,1,EGR1
+cellular response to hypoxia,GO:0071456,Hypoxia,MESH:D000860,3,"6-hydroxy-2,5,7,8-tetramethylchroman-2-carboxylic acid|Oxygen|Resveratrol",2,ATF4|EGR1
+cellular response to hypoxia,GO:0071456,"Hypoxia, Brain",MESH:D002534,1,Plant Extracts,2,ITPR1|ITPR2
+cellular response to hypoxia,GO:0071456,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Oxygen,3,HIF1A|IRAK1|VEGFA
+cellular response to insulin stimulus,GO:0032869,Hypoxia,MESH:D000860,1,Resveratrol,4,ALDOB|EGR1|NOS3|PCK2
+cellular response to insulin stimulus,GO:0032869,"Hypoxia, Brain",MESH:D002534,1,Plant Extracts,0,
+cellular response to insulin stimulus,GO:0032869,"Hypoxia-Ischemia, Brain",MESH:D020925,0,,1,HIF1A
+cellular response to interleukin-1,GO:0071347,Hypoxia,MESH:D000860,0,,1,TFPI
+cellular response to interleukin-1,GO:0071347,"Hypoxia-Ischemia, Brain",MESH:D020925,0,,2,HIF1A|NOS2
+cellular response to interleukin-4,GO:0071353,Hypoxia,MESH:D000860,0,,1,RPS2
+cellular response to interleukin-7,GO:0098761,Hypoxia,MESH:D000860,0,,1,ATP5F1B
+cellular response to interleukin-8,GO:0098759,Hypoxia,MESH:D000860,0,,1,EGR1
+cellular response to ionizing radiation,GO:0071479,Hypoxia,MESH:D000860,1,Resveratrol,0,
+cellular response to ionizing radiation,GO:0071479,"Hypoxia, Brain",MESH:D002534,1,Plant Extracts,0,
+cellular response to isoquinoline alkaloid,GO:0071317,Hypoxia,MESH:D000860,0,,1,EGR1
+cellular response to lead ion,GO:0071284,Hypoxia,MESH:D000860,2,Nimodipine|Verapamil,0,
+cellular response to leucine starvation,GO:1990253,Hypoxia,MESH:D000860,0,,1,ATF4
+cellular response to light stimulus,GO:0071482,Hypoxia,MESH:D000860,2,Chlorpromazine|Oxygen,0,
+cellular response to light stimulus,GO:0071482,"Hypoxia-Ischemia, Brain",MESH:D020925,2,Blood Glucose|Oxygen,1,HIF1A
+cellular response to lipid,GO:0071396,"Hypoxia-Ischemia, Brain",MESH:D020925,0,,1,HIF1A
+cellular response to lipopolysaccharide,GO:0071222,Hypoxia,MESH:D000860,1,Lipopolysaccharides,1,TFPI
+cellular response to lipopolysaccharide,GO:0071222,"Hypoxia, Brain",MESH:D002534,1,Plant Extracts,0,
+cellular response to lipopolysaccharide,GO:0071222,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Lipopolysaccharides,3,HIF1A|IRAK1|NOS2
+cellular response to lipoprotein particle stimulus,GO:0071402,Hypoxia,MESH:D000860,0,,1,APOA1
+cellular response to lithium ion,GO:0071285,"Hypoxia-Ischemia, Brain",MESH:D020925,0,,1,NOS2
+cellular response to low-density lipoprotein particle stimulus,GO:0071404,Hypoxia,MESH:D000860,0,,1,NOS3
+cellular response to luteinizing hormone stimulus,GO:0071373,Hypoxia,MESH:D000860,0,,1,PLAT
+cellular response to magnesium ion,GO:0071286,Hypoxia,MESH:D000860,0,,1,NOS3
+cellular response to magnetism,GO:0071259,Fetal Hypoxia,MESH:D005311,1,Nitric Oxide,0,
+cellular response to magnetism,GO:0071259,Hypoxia,MESH:D000860,1,Nitric Oxide,0,
+cellular response to mechanical stimulus,GO:0071260,Hypoxia,MESH:D000860,0,,4,EGR1|NOS1|NOS3|NPPA
+cellular response to mechanical stimulus,GO:0071260,"Hypoxia-Ischemia, Brain",MESH:D020925,0,,2,HIF1A|VEGFA
+cellular response to mycophenolic acid,GO:0071506,Hypoxia,MESH:D000860,0,,1,EGR1
+cellular response to nerve growth factor stimulus,GO:1990090,Hypoxia,MESH:D000860,0,,1,BDNF
+cellular response to nicotine,GO:0071316,Hypoxia,MESH:D000860,3,Morphine|Naloxone|Nicotine,0,
+cellular response to nicotine,GO:0071316,"Hypoxia, Brain",MESH:D002534,1,Morphine,0,
+cellular response to nitrite,GO:0071250,"Hypoxia-Ischemia, Brain",MESH:D020925,0,,1,HIF1A
+cellular response to norepinephrine stimulus,GO:0071874,Hypoxia,MESH:D000860,1,Norepinephrine,1,BDNF
+cellular response to osmotic stress,GO:0071470,Hypoxia,MESH:D000860,1,Verapamil,0,
+cellular response to osmotic stress,GO:0071470,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Ouabain,0,
+cellular response to oxidative stress,GO:0034599,Fetal Hypoxia,MESH:D005311,1,Nitric Oxide,0,
+cellular response to oxidative stress,GO:0034599,Hypoxia,MESH:D000860,5,Arsenic Trioxide|Hydrogen Peroxide|Lipopolysaccharides|Nitric Oxide|Resveratrol,2,ATF4|SOD2
+cellular response to oxidative stress,GO:0034599,"Hypoxia, Brain",MESH:D002534,2,Carbon Monoxide|Plant Extracts,0,
+cellular response to oxidative stress,GO:0034599,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Lipopolysaccharides,1,HIF1A
+cellular response to peptide,GO:1901653,Hypoxia,MESH:D000860,0,,1,ATP5F1B
+cellular response to phorbol 13-acetate 12-myristate,GO:1904628,"Hypoxia-Ischemia, Brain",MESH:D020925,0,,1,HIF1A
+cellular response to platelet-derived growth factor stimulus,GO:0036120,Hypoxia,MESH:D000860,1,Resveratrol,0,
+cellular response to potassium ion,GO:0035865,Hypoxia,MESH:D000860,0,,1,BDNF
+cellular response to prostaglandin E stimulus,GO:0071380,Hypoxia,MESH:D000860,0,,1,GNAS
+cellular response to reactive oxygen species,GO:0034614,Hypoxia,MESH:D000860,2,Arsenic Trioxide|Hydrogen Peroxide,0,
+cellular response to redox state,GO:0071461,"Hypoxia-Ischemia, Brain",MESH:D020925,0,,1,NOS2
+cellular response to rotenone,GO:1904648,Hypoxia,MESH:D000860,0,,1,NOS3
+cellular response to salt,GO:1902075,Hypoxia,MESH:D000860,0,,1,DAF-2
+cellular response to sodium arsenite,GO:1903936,Hypoxia,MESH:D000860,1,Indomethacin,0,
+cellular response to starvation,GO:0009267,Hypoxia,MESH:D000860,1,Glucose,0,
+cellular response to steroid hormone stimulus,GO:0071383,Hypoxia,MESH:D000860,0,,2,EGR1|TFPI
+cellular response to stress,GO:0033554,Hypoxia,MESH:D000860,2,Hydrogen Peroxide|Indomethacin,0,
+cellular response to toxic substance,GO:0097237,Hypoxia,MESH:D000860,2,Nicotine|Resveratrol,0,
+cellular response to toxic substance,GO:0097237,"Hypoxia-Ischemia, Brain",MESH:D020925,0,,1,HIF1A
+cellular response to transforming growth factor beta stimulus,GO:0071560,Hypoxia,MESH:D000860,0,,1,NOS3
+cellular response to tumor necrosis factor,GO:0071356,Hypoxia,MESH:D000860,0,,3,BDNF|NOS3|PCK2
+cellular response to tumor necrosis factor,GO:0071356,"Hypoxia-Ischemia, Brain",MESH:D020925,0,,1,NOS2
+cellular response to type II interferon,GO:0071346,Hypoxia,MESH:D000860,0,,1,GAPDH
+cellular response to type II interferon,GO:0071346,"Hypoxia-Ischemia, Brain",MESH:D020925,0,,1,NOS2
+cellular response to unfolded protein,GO:0034620,Hypoxia,MESH:D000860,2,Deoxyglucose|Norepinephrine,1,HSP70
+cellular response to UV,GO:0034644,Hypoxia,MESH:D000860,1,Chlorpromazine,1,ATF4
+cellular response to UV-A,GO:0071492,"Hypoxia, Brain",MESH:D002534,1,Plant Extracts,0,
+cellular response to UV-B,GO:0071493,Hypoxia,MESH:D000860,5,Arsenic Trioxide|Gallic Acid|Hydrogen Peroxide|Resveratrol|Spironolactone,0,
+cellular response to vascular endothelial growth factor stimulus,GO:0035924,"Hypoxia-Ischemia, Brain",MESH:D020925,0,,1,VEGFA
+cellular response to virus,GO:0098586,Hypoxia,MESH:D000860,2,n-butoxyethanol|Resveratrol,0,
+cellular response to virus,GO:0098586,"Hypoxia-Ischemia, Brain",MESH:D020925,0,,1,HIF1A
+cellular response to vitamin D,GO:0071305,"Hypoxia-Ischemia, Brain",MESH:D020925,0,,1,NOS2
+cellular response to vitamin E,GO:0071306,Hypoxia,MESH:D000860,1,Glucose,0,
+cellular response to wortmannin,GO:1904568,"Hypoxia-Ischemia, Brain",MESH:D020925,0,,2,HIF1A|VEGFA
+cellular response to xenobiotic stimulus,GO:0071466,Hypoxia,MESH:D000860,4,Chloroquine|Glucose|Oleic Acid|Verapamil,2,EGR1|NME1
+cellular response to xenobiotic stimulus,GO:0071466,"Hypoxia-Ischemia, Brain",MESH:D020925,0,,3,HIF1A|NOS2|VEGFA
+cellular response to X-ray,GO:0071481,Hypoxia,MESH:D000860,3,Arsenic Trioxide|cobaltous chloride|Gallic Acid,0,
+cellular response to X-ray,GO:0071481,"Hypoxia, Brain",MESH:D002534,1,cobaltous chloride,0,
+cellular response to X-ray,GO:0071481,"Hypoxia-Ischemia, Brain",MESH:D020925,1,cobaltous chloride,0,
+cellular senescence,GO:0090398,Fetal Hypoxia,MESH:D005311,1,Nitric Oxide,0,
+cellular senescence,GO:0090398,Hypoxia,MESH:D000860,11,Arsenic Trioxide|Bleomycin|Chloroquine|Dietary Fats|Glucose|Hydrogen Peroxide|Mustard Gas|Nicotine|Nitric Oxide|Resveratrol|Vitamin E,0,
+cellular senescence,GO:0090398,"Hypoxia, Brain",MESH:D002534,1,Plant Extracts,0,
+cellular senescence,GO:0090398,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Methamphetamine,0,
+cellular sodium ion homeostasis,GO:0006883,Hypoxia,MESH:D000860,1,Arsenic Trioxide,0,
+cellular stress response to acid chemical,GO:0097533,"Hypoxia-Ischemia, Brain",MESH:D020925,0,,1,VEGFA
+cellular transition metal ion homeostasis,GO:0046916,Hypoxia,MESH:D000860,1,Arsenic Trioxide,0,
+cellular triglyceride homeostasis,GO:0035356,Hypoxia,MESH:D000860,1,Oleic Acid,0,
+cellular zinc ion homeostasis,GO:0006882,Hypoxia,MESH:D000860,2,Hydrogen Peroxide|Zinc Sulfate,0,
+cell volume homeostasis,GO:0006884,Hypoxia,MESH:D000860,2,Enalapril|Lipopolysaccharides,0,
+cell volume homeostasis,GO:0006884,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Lipopolysaccharides,0,
+central nervous system myelin maintenance,GO:0032286,Hypoxia,MESH:D000860,1,Lidocaine,0,
+central nervous system myelin maintenance,GO:0032286,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Methamphetamine,0,
+central nervous system neuron development,GO:0021954,Hypoxia,MESH:D000860,1,Propylthiouracil,0,
+ceramide biosynthetic process,GO:0046513,Hypoxia,MESH:D000860,1,Dietary Fats,0,
+ceramide metabolic process,GO:0006672,Hypoxia,MESH:D000860,1,Bleomycin,0,
+cerebellar cortex structural organization,GO:0021698,Hypoxia,MESH:D000860,1,cobaltous chloride,0,
+cerebellar cortex structural organization,GO:0021698,"Hypoxia, Brain",MESH:D002534,1,cobaltous chloride,0,
+cerebellar cortex structural organization,GO:0021698,"Hypoxia-Ischemia, Brain",MESH:D020925,1,cobaltous chloride,0,
+cerebellar Purkinje cell differentiation,GO:0021702,Hypoxia,MESH:D000860,1,Arsenic Trioxide,0,
+cerebellum development,GO:0021549,"Hypoxia, Brain",MESH:D002534,1,Phenytoin,0,
+cerebral cortex development,GO:0021987,"Hypoxia-Ischemia, Brain",MESH:D020925,0,,1,HIF1A
+cerebral cortex GABAergic interneuron migration,GO:0021853,"Hypoxia, Brain",MESH:D002534,1,Carbon Monoxide,0,
+cGMP biosynthetic process,GO:0006182,Fetal Hypoxia,MESH:D005311,1,Nitric Oxide,0,
+cGMP biosynthetic process,GO:0006182,Hypoxia,MESH:D000860,5,acetovanillone|Isoproterenol|Nitric Oxide|Oxygen|Resveratrol,1,NPPA
+cGMP biosynthetic process,GO:0006182,"Hypoxia, Brain",MESH:D002534,1,Carbon Monoxide,0,
+cGMP biosynthetic process,GO:0006182,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Oxygen,0,
+cGMP-mediated signaling,GO:0019934,Fetal Hypoxia,MESH:D005311,1,Nitric Oxide,0,
+cGMP-mediated signaling,GO:0019934,Hypoxia,MESH:D000860,1,Nitric Oxide,1,NPPA
+cGMP-mediated signaling,GO:0019934,"Hypoxia-Ischemia, Brain",MESH:D020925,0,,1,NOS2
+chaperone cofactor-dependent protein refolding,GO:0051085,Hypoxia,MESH:D000860,0,,1,HSP70
+chemical synaptic transmission,GO:0007268,Fetal Hypoxia,MESH:D005311,1,Nitric Oxide,0,
+chemical synaptic transmission,GO:0007268,Hypoxia,MESH:D000860,17,Acetazolamide|Bupivacaine|Diazepam|Fentanyl|Isoflurane|Ketamine|Lidocaine|Meperidine|Methadone|Morphine|Naloxone|Nicotine|Nitric Oxide|Nitroprusside|Phenobarbital|Propylthiouracil|Sevoflurane,2,ESD|PDYN
+chemical synaptic transmission,GO:0007268,"Hypoxia, Brain",MESH:D002534,3,Baclofen|Cocaine|Morphine,0,
+chemical synaptic transmission,GO:0007268,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Cocaine,0,
+chemokine (C-C motif) ligand 17 production,GO:0044809,"Hypoxia, Brain",MESH:D002534,1,Plant Extracts,0,
+chemosensory behavior,GO:0007635,Hypoxia,MESH:D000860,7,Chloroquine|Heroin|indole|Isoflurane|Ketamine|Nicotine|Resveratrol,0,
+chemosensory behavior,GO:0007635,"Hypoxia, Brain",MESH:D002534,2,Baclofen|Cocaine,0,
+chemosensory behavior,GO:0007635,"Hypoxia-Ischemia, Brain",MESH:D020925,3,Cocaine|Fluoxetine|Methamphetamine,0,
+chemotaxis,GO:0006935,Hypoxia,MESH:D000860,2,Glucose|Isoflurane,0,
+chloride ion homeostasis,GO:0055064,Hypoxia,MESH:D000860,4,Copper Sulfate|Dietary Fats|Hydrochloric Acid|Resveratrol,0,
+chloride ion homeostasis,GO:0055064,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Dexamethasone,0,
+chloride transmembrane transport,GO:1902476,Hypoxia,MESH:D000860,3,Nimodipine|Phenobarbital|Verapamil,0,
+chloride transport,GO:0006821,Hypoxia,MESH:D000860,3,Nicotine|Oxygen|Resveratrol,0,
+chloride transport,GO:0006821,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Oxygen,0,
+cholecystokinin signaling pathway,GO:0038188,Hypoxia,MESH:D000860,1,Gallic Acid,0,
+cholecystokinin signaling pathway,GO:0038188,"Hypoxia, Brain",MESH:D002534,1,Plant Extracts,0,
+cholesterol biosynthetic process,GO:0006695,Hypoxia,MESH:D000860,13,Allopurinol|Arsenic Trioxide|Chloroquine|Copper Sulfate|Dietary Fats|Fluorouracil|Hydrogen Peroxide|Isoproterenol|Lipopolysaccharides|Nicotine|Oleic Acid|Resveratrol|Taurine,1,APOA1
+cholesterol biosynthetic process,GO:0006695,"Hypoxia, Brain",MESH:D002534,1,Plant Extracts,0,
+cholesterol biosynthetic process,GO:0006695,"Hypoxia-Ischemia, Brain",MESH:D020925,2,Dexamethasone|Lipopolysaccharides,0,
+cholesterol efflux,GO:0033344,Hypoxia,MESH:D000860,2,Chloroquine|Hydrogen Peroxide,1,APOA1
+cholesterol homeostasis,GO:0042632,Hypoxia,MESH:D000860,12,acetovanillone|Arsenic Trioxide|Copper Sulfate|Dietary Fats|Enalapril|Lipopolysaccharides|Nicotine|Oleic Acid|Resveratrol|Spironolactone|Taurine|Vitamin E,1,APOA1
+cholesterol homeostasis,GO:0042632,"Hypoxia, Brain",MESH:D002534,1,Plant Extracts,0,
+cholesterol homeostasis,GO:0042632,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Lipopolysaccharides,0,
+cholesterol import,GO:0070508,Hypoxia,MESH:D000860,0,,1,APOA1
+cholesterol metabolic process,GO:0008203,Hypoxia,MESH:D000860,19,Acetaminophen|Arsenic Trioxide|Chloroquine|Deferoxamine|Dietary Fats|Gallic Acid|Glucose|Hydrogen Peroxide|Indomethacin|Isoproterenol|Lipopolysaccharides|Nicotine|Oleic Acid|Propylthiouracil|Resveratrol|Ribavirin|Sevoflurane|Spironolactone|Vitamin E,1,APOA1
+cholesterol metabolic process,GO:0008203,"Hypoxia, Brain",MESH:D002534,1,Plant Extracts,0,
+cholesterol metabolic process,GO:0008203,"Hypoxia-Ischemia, Brain",MESH:D020925,3,caffeic acid phenethyl ester|Dexamethasone|Lipopolysaccharides,0,
+cholesterol transport,GO:0030301,Hypoxia,MESH:D000860,1,Dietary Fats,1,APOA1
+choline biosynthetic process,GO:0042425,Hypoxia,MESH:D000860,2,Arsenic Trioxide|Dietary Fats,0,
+choline catabolic process,GO:0042426,Hypoxia,MESH:D000860,0,,1,SARDH
+choline metabolic process,GO:0019695,Hypoxia,MESH:D000860,1,Indomethacin,0,
+chondroblast differentiation,GO:0060591,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Dexamethasone,0,
+chondrocyte development,GO:0002063,Hypoxia,MESH:D000860,1,Nicotine,0,
+chondrocyte development,GO:0002063,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Dexamethasone,0,
+chondrocyte differentiation,GO:0002062,Hypoxia,MESH:D000860,1,Nicotine,0,
+chondrocyte differentiation,GO:0002062,"Hypoxia-Ischemia, Brain",MESH:D020925,0,,1,HIF1A
+chondrocyte hypertrophy,GO:0003415,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Dexamethasone,0,
+chondrocyte proliferation,GO:0035988,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Dexamethasone,0,
+chordate embryonic development,GO:0043009,Hypoxia,MESH:D000860,0,,1,RPS14
+chromatin organization,GO:0006325,Hypoxia,MESH:D000860,1,Resveratrol,0,
+chromatin remodeling,GO:0006338,Hypoxia,MESH:D000860,5,Arsenic Trioxide|Glucose|Hydrogen Peroxide|Oxygen|Phenylephrine,1,ACTB
+chromatin remodeling,GO:0006338,"Hypoxia, Brain",MESH:D002534,1,Phenylephrine,0,
+chromatin remodeling,GO:0006338,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Oxygen,2,IRAK1|IRAK4
+chromosome condensation,GO:0030261,Hypoxia,MESH:D000860,1,Hydrogen Peroxide,0,
+chromosome condensation,GO:0030261,"Hypoxia, Brain",MESH:D002534,1,Plant Extracts,0,
+chromosome organization,GO:0051276,Hypoxia,MESH:D000860,0,,1,HIM-6
+chromosome organization,GO:0051276,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Methamphetamine,0,
+chromosome segregation,GO:0007059,Hypoxia,MESH:D000860,0,,1,HIM-6
+chronic inflammatory response,GO:0002544,Hypoxia,MESH:D000860,0,,1,BDNF
+chronic inflammatory response to antigenic stimulus,GO:0002439,Hypoxia,MESH:D000860,0,,1,AHCY
+cilium assembly,GO:0060271,Hypoxia,MESH:D000860,1,Diacetyl,0,
+circadian behavior,GO:0048512,Hypoxia,MESH:D000860,0,,1,BDNF
+circadian regulation of gene expression,GO:0032922,Hypoxia,MESH:D000860,2,Dietary Fats|Resveratrol,3,ADK|ATF4|EGR1
+circadian regulation of gene expression,GO:0032922,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Dexamethasone,0,
+circadian rhythm,GO:0007623,Hypoxia,MESH:D000860,0,,4,ACTB|ATF4|BDNF|EGR1
+circadian rhythm,GO:0007623,"Hypoxia-Ischemia, Brain",MESH:D020925,0,,1,NOS2
+circadian sleep/wake cycle,GO:0042745,Hypoxia,MESH:D000860,0,,1,AHCY
+circadian temperature homeostasis,GO:0060086,Hypoxia,MESH:D000860,0,,1,EGR1
+citrate metabolic process,GO:0006101,Hypoxia,MESH:D000860,1,Resveratrol,1,CS
+citrulline biosynthetic process,GO:0019240,Hypoxia,MESH:D000860,1,Phenobarbital,0,
+citrulline metabolic process,GO:0000052,Hypoxia,MESH:D000860,1,Fluorouracil,0,
+coenzyme A metabolic process,GO:0015936,Hypoxia,MESH:D000860,1,Dietary Fats,0,
+cognition,GO:0050890,Hypoxia,MESH:D000860,7,Acetaminophen|Dietary Fats|Isoflurane|Ketamine|Lipopolysaccharides|Nicotine|Sevoflurane,2,BDNF|GNAS
+cognition,GO:0050890,"Hypoxia, Brain",MESH:D002534,1,Carbon Monoxide,0,
+cognition,GO:0050890,"Hypoxia-Ischemia, Brain",MESH:D020925,2,Lipopolysaccharides|Methamphetamine,0,
+cold acclimation,GO:0009631,Hypoxia,MESH:D000860,0,,1,ATP5F1B
+collagen-activated signaling pathway,GO:0038065,Hypoxia,MESH:D000860,1,Arsenic Trioxide,0,
+collagen biosynthetic process,GO:0032964,Hypoxia,MESH:D000860,10,Acetaminophen|Arsenic Trioxide|Bleomycin|Dietary Fats|Gallic Acid|Hydrogen Peroxide|Isoproterenol|Oleic Acid|Oxygen|Resveratrol,0,
+collagen biosynthetic process,GO:0032964,"Hypoxia-Ischemia, Brain",MESH:D020925,3,Dexamethasone|Ouabain|Oxygen,0,
+collagen fibril organization,GO:0030199,Hypoxia,MESH:D000860,14,Allopurinol|Bleomycin|Copper Sulfate|Dietary Fats|Fluorouracil|Isoproterenol|Lipopolysaccharides|Nicotine|Oxygen|Phenobarbital|Resveratrol|Sevoflurane|Sodium Nitrite|Vitamin E,0,
+collagen fibril organization,GO:0030199,"Hypoxia, Brain",MESH:D002534,1,Edaravone,0,
+collagen fibril organization,GO:0030199,"Hypoxia-Ischemia, Brain",MESH:D020925,5,Dexamethasone|Lipopolysaccharides|Lithium Chloride|Methamphetamine|Oxygen,0,
+collagen metabolic process,GO:0032963,Hypoxia,MESH:D000860,1,Isoproterenol,0,
+collagen metabolic process,GO:0032963,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Dexamethasone,1,HIF1A
+collateral sprouting,GO:0048668,Hypoxia,MESH:D000860,0,,2,BDNF|NOS1
+colon epithelial cell migration,GO:0061580,Hypoxia,MESH:D000860,1,Arsenic Trioxide,0,
+columnar/cuboidal epithelial cell maturation,GO:0002069,Hypoxia,MESH:D000860,1,Lipopolysaccharides,0,
+columnar/cuboidal epithelial cell maturation,GO:0002069,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Lipopolysaccharides,0,
+commissural neuron axon guidance,GO:0071679,"Hypoxia-Ischemia, Brain",MESH:D020925,0,,1,VEGFA
+common myeloid progenitor cell proliferation,GO:0035726,Hypoxia,MESH:D000860,2,Dietary Fats|Fluorouracil,0,
+complement activation,GO:0006956,Hypoxia,MESH:D000860,2,Acetaminophen|Heparin,0,
+conditioned place preference,GO:1990708,Hypoxia,MESH:D000860,1,Morphine,1,BDNF
+conditioned place preference,GO:1990708,"Hypoxia, Brain",MESH:D002534,2,Cocaine|Morphine,0,
+conditioned place preference,GO:1990708,"Hypoxia-Ischemia, Brain",MESH:D020925,2,Cocaine|Methamphetamine,0,
+connective tissue replacement involved in inflammatory response wound healing,GO:0002248,"Hypoxia-Ischemia, Brain",MESH:D020925,0,,1,HIF1A
+conversion of methionyl-tRNA to N-formyl-methionyl-tRNA,GO:0071951,Hypoxia,MESH:D000860,0,,1,ALDH1L1
+copper ion homeostasis,GO:0055070,Hypoxia,MESH:D000860,1,Zinc Sulfate,0,
+coronary artery morphogenesis,GO:0060982,"Hypoxia-Ischemia, Brain",MESH:D020925,0,,1,VEGFA
+coronary vein morphogenesis,GO:0003169,"Hypoxia-Ischemia, Brain",MESH:D020925,0,,1,VEGFA
+corticosteroid hormone secretion,GO:0035930,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Dexamethasone,0,
+corticosterone secretion,GO:0035934,Hypoxia,MESH:D000860,2,Indomethacin|Oxygen,0,
+corticosterone secretion,GO:0035934,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Oxygen,0,
+corticotropin hormone secreting cell development,GO:0060131,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Dexamethasone,0,
+cortisol biosynthetic process,GO:0034651,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Fluoxetine,0,
+cortisol secretion,GO:0043400,Hypoxia,MESH:D000860,0,,1,POMC
+creatine biosynthetic process,GO:0006601,Hypoxia,MESH:D000860,1,Dietary Fats,0,
+creatine biosynthetic process,GO:0006601,"Hypoxia, Brain",MESH:D002534,1,Plant Extracts,0,
+creatine metabolic process,GO:0006600,Hypoxia,MESH:D000860,4,acetovanillone|Dietary Fats|Indomethacin|Ribavirin,0,
+creatine metabolic process,GO:0006600,"Hypoxia, Brain",MESH:D002534,1,Plant Extracts,0,
+creatine metabolic process,GO:0006600,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Dexamethasone,0,
+creatinine catabolic process,GO:0006602,Hypoxia,MESH:D000860,3,Deferoxamine|Oxygen|sinapinic acid,0,
+creatinine catabolic process,GO:0006602,"Hypoxia-Ischemia, Brain",MESH:D020925,2,Blood Glucose|Oxygen,0,
+creatinine metabolic process,GO:0046449,Hypoxia,MESH:D000860,23,Acetaminophen|Allopurinol|Arsenic Trioxide|AST 120|Chloroquine|Copper Sulfate|Deferoxamine|Dietary Fats|Gallic Acid|Glucose|indole|Indomethacin|iopromide|Lipopolysaccharides|Nimodipine|Oxygen|Phenobarbital|Resveratrol|Ribavirin|sinapinic acid|Verapamil|Vitamin E|Zinc Sulfate,0,
+creatinine metabolic process,GO:0046449,"Hypoxia, Brain",MESH:D002534,1,Plant Extracts,0,
+creatinine metabolic process,GO:0046449,"Hypoxia-Ischemia, Brain",MESH:D020925,5,Blood Glucose|Dexamethasone|Lipopolysaccharides|Methamphetamine|Oxygen,0,
+CTP biosynthetic process,GO:0006241,Hypoxia,MESH:D000860,0,,1,NME1
+cyclooxygenase pathway,GO:0019371,Hypoxia,MESH:D000860,4,Copper Sulfate|Indomethacin|Lipopolysaccharides|Resveratrol,0,
+cyclooxygenase pathway,GO:0019371,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Lipopolysaccharides,0,
+cysteine biosynthetic process,GO:0019344,Hypoxia,MESH:D000860,2,Arsenic Trioxide|Taurine,0,
+cysteine metabolic process,GO:0006534,Hypoxia,MESH:D000860,2,Fluorouracil|Propylthiouracil,0,
+cytokine-mediated signaling pathway,GO:0019221,"Hypoxia-Ischemia, Brain",MESH:D020925,0,,2,IRAK1|IRAK4
+cytokine production,GO:0001816,Hypoxia,MESH:D000860,1,Arsenic Trioxide,0,
+cytokine production,GO:0001816,"Hypoxia-Ischemia, Brain",MESH:D020925,0,,1,IRAK4
+cytokine production involved in immune response,GO:0002367,"Hypoxia, Brain",MESH:D002534,1,Carbon Monoxide,0,
+cytokine production involved in inflammatory response,GO:0002534,Hypoxia,MESH:D000860,2,Lipopolysaccharides|Oxygen,0,
+cytokine production involved in inflammatory response,GO:0002534,"Hypoxia-Ischemia, Brain",MESH:D020925,2,Lipopolysaccharides|Oxygen,0,
+cytokinesis,GO:0000910,Hypoxia,MESH:D000860,1,Hydrogen Peroxide,0,
+cytolysis,GO:0019835,Hypoxia,MESH:D000860,1,Lipopolysaccharides,0,
+cytolysis,GO:0019835,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Lipopolysaccharides,0,
+cytoplasmic sequestering of NF-kappaB,GO:0007253,Hypoxia,MESH:D000860,4,Isoproterenol|Lipopolysaccharides|Oxygen|Resveratrol,0,
+cytoplasmic sequestering of NF-kappaB,GO:0007253,"Hypoxia-Ischemia, Brain",MESH:D020925,3,Blood Glucose|Lipopolysaccharides|Oxygen,0,
+cytoplasmic translation,GO:0002181,Hypoxia,MESH:D000860,0,,2,RPS14|RPS2
+cytosine metabolic process,GO:0019858,Hypoxia,MESH:D000860,2,Indomethacin|Ribavirin,0,
+cytoskeleton organization,GO:0007010,Hypoxia,MESH:D000860,0,,1,ACTB
+dAMP salvage,GO:0106383,Hypoxia,MESH:D000860,0,,1,ADK
+dATP biosynthetic process,GO:0006175,Hypoxia,MESH:D000860,0,,1,ADK
+dauer exit,GO:0043054,Hypoxia,MESH:D000860,0,,1,DAF-2
+dauer larval development,GO:0040024,Hypoxia,MESH:D000860,0,,1,DAF-2
+defecation,GO:0030421,"Hypoxia-Ischemia, Brain",MESH:D020925,2,Lithium Chloride|Methamphetamine,0,
+defecation rhythm,GO:0035882,Hypoxia,MESH:D000860,2,Morphine|Verapamil,0,
+defecation rhythm,GO:0035882,"Hypoxia, Brain",MESH:D002534,1,Morphine,0,
+defense response,GO:0006952,Hypoxia,MESH:D000860,0,,1,MPO
+defense response to bacterium,GO:0042742,Hypoxia,MESH:D000860,0,,1,MPO
+defense response to bacterium,GO:0042742,"Hypoxia-Ischemia, Brain",MESH:D020925,0,,1,NOS2
+defense response to fungus,GO:0050832,Hypoxia,MESH:D000860,0,,2,GAPDH|MPO
+defense response to Gram-negative bacterium,GO:0050829,Hypoxia,MESH:D000860,1,Resveratrol,1,DAF-2
+defense response to Gram-negative bacterium,GO:0050829,"Hypoxia-Ischemia, Brain",MESH:D020925,0,,1,NOS2
+defense response to Gram-positive bacterium,GO:0050830,Hypoxia,MESH:D000860,1,Resveratrol,0,
+dendrite arborization,GO:0140059,Hypoxia,MESH:D000860,2,Nicotine|Sevoflurane,0,
+dendrite arborization,GO:0140059,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Dexamethasone,0,
+dendrite development,GO:0016358,Hypoxia,MESH:D000860,0,,1,BDNF
+dendrite development,GO:0016358,"Hypoxia, Brain",MESH:D002534,0,,1,ITPR1
+dendrite extension,GO:0097484,Hypoxia,MESH:D000860,1,Resveratrol,1,BDNF
+dendritic cell differentiation,GO:0097028,Hypoxia,MESH:D000860,1,Lipopolysaccharides,0,
+dendritic cell differentiation,GO:0097028,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Lipopolysaccharides,0,
+dendritic cell migration,GO:0036336,Hypoxia,MESH:D000860,1,Chloroquine,0,
+dendritic spine development,GO:0060996,Hypoxia,MESH:D000860,1,Ketamine,0,
+dendritic spine development,GO:0060996,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Methamphetamine,0,
+dendritic spine maintenance,GO:0097062,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Methamphetamine,0,
+dendritic spine morphogenesis,GO:0060997,Hypoxia,MESH:D000860,1,Sevoflurane,0,
+dentate gyrus development,GO:0021542,Hypoxia,MESH:D000860,1,Propylthiouracil,0,
+deoxycytidine metabolic process,GO:0046092,Hypoxia,MESH:D000860,1,Indomethacin,0,
+deoxyguanosine biosynthetic process,GO:0042452,Hypoxia,MESH:D000860,1,Dietary Fats,0,
+deoxyguanosine metabolic process,GO:0042453,Hypoxia,MESH:D000860,1,Isoproterenol,0,
+deoxyribonucleoside metabolic process,GO:0009120,Hypoxia,MESH:D000860,1,Indomethacin,0,
+detection of cAMP,GO:0031319,Hypoxia,MESH:D000860,1,Chloroquine,0,
+detection of chemical stimulus involved in sensory perception of bitter taste,GO:0001580,Hypoxia,MESH:D000860,1,Propylthiouracil,0,
+detection of chemical stimulus involved in sensory perception of taste,GO:0050912,Hypoxia,MESH:D000860,1,Dietary Fats,0,
+detection of glucose,GO:0051594,Hypoxia,MESH:D000860,2,Dietary Fats|Glucose,0,
+detection of hypoxia,GO:0070483,Hypoxia,MESH:D000860,1,Mevinphos,0,
+detection of increased carbon dioxide by carotid body chemoreceptor signaling,GO:0003035,Hypoxia,MESH:D000860,1,Nicotine,0,
+detection of mechanical stimulus involved in sensory perception of pain,GO:0050966,Fetal Hypoxia,MESH:D005311,1,Nitric Oxide,0,
+detection of mechanical stimulus involved in sensory perception of pain,GO:0050966,Hypoxia,MESH:D000860,4,Indomethacin|Morphine|Naloxone|Nitric Oxide,0,
+detection of mechanical stimulus involved in sensory perception of pain,GO:0050966,"Hypoxia, Brain",MESH:D002534,1,Morphine,0,
+detection of mechanical stimulus involved in sensory perception of pain,GO:0050966,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Dexamethasone,0,
+detection of oxidative stress,GO:0070994,Fetal Hypoxia,MESH:D005311,1,Nitric Oxide,0,
+detection of oxidative stress,GO:0070994,Hypoxia,MESH:D000860,39,"6-hydroxy-2,5,7,8-tetramethylchroman-2-carboxylic acid|Acetaminophen|acetovanillone|Amitriptyline|Arsenic Trioxide|Bleomycin|Bupivacaine|Chloroquine|Chlorpromazine|Copper Sulfate|Deferoxamine|Diacetyl|Dietary Fats|Enalapril|Felbamate|Fluorouracil|Gallic Acid|Glucose|Hydrogen Peroxide|Indomethacin|iopromide|Isoflurane|Isoproterenol|Ketamine|Lipopolysaccharides|Methyldopa|Morphine|Nicotine|Nitric Oxide|Nitroprusside|Oxygen|Phenobarbital|Resveratrol|Sevoflurane|Sodium Nitrite|Sulindac|Taurine|Verapamil|Vitamin E",0,
+detection of oxidative stress,GO:0070994,"Hypoxia, Brain",MESH:D002534,3,Morphine|Phenytoin|Plant Extracts,0,
+detection of oxidative stress,GO:0070994,"Hypoxia-Ischemia, Brain",MESH:D020925,6,Dexamethasone|Fluoxetine|Lipopolysaccharides|Lithium Chloride|Methamphetamine|Oxygen,0,
+detection of oxygen,GO:0003032,Hypoxia,MESH:D000860,0,,1,SOD2
+detection of symbiotic bacterium,GO:0009604,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Dexamethasone,0,
+detection of temperature stimulus involved in sensory perception of pain,GO:0050965,Hypoxia,MESH:D000860,3,Morphine|Naloxone|Nitroglycerin,0,
+detection of temperature stimulus involved in sensory perception of pain,GO:0050965,"Hypoxia, Brain",MESH:D002534,2,Carbon Monoxide|Morphine,0,
+determination of adult lifespan,GO:0008340,Hypoxia,MESH:D000860,3,cobaltous chloride|Hydrogen Peroxide|Resveratrol,3,DAF-2|HIM-6|SOD2
+determination of adult lifespan,GO:0008340,"Hypoxia, Brain",MESH:D002534,2,cobaltous chloride|Plant Extracts,0,
+determination of adult lifespan,GO:0008340,"Hypoxia-Ischemia, Brain",MESH:D020925,1,cobaltous chloride,0,
+detoxification of arsenic-containing substance,GO:0071722,Hypoxia,MESH:D000860,2,Arsenic Trioxide|Hydrogen Peroxide,0,
+detoxification of hydrogen peroxide,GO:0061691,Hypoxia,MESH:D000860,1,Hydrogen Peroxide,0,
+detoxification of iron ion,GO:1990461,Hypoxia,MESH:D000860,1,Isoproterenol,0,
+detoxification of nitrogen compound,GO:0051410,Fetal Hypoxia,MESH:D005311,1,Nitric Oxide,0,
+detoxification of nitrogen compound,GO:0051410,Hypoxia,MESH:D000860,1,Nitric Oxide,0,
+developmental growth,GO:0048589,Hypoxia,MESH:D000860,0,,1,GNAS
+developmental process,GO:0032502,Hypoxia,MESH:D000860,2,Ketamine|Verapamil,0,
+developmental process involved in reproduction,GO:0003006,Hypoxia,MESH:D000860,1,Indomethacin,0,
+developmental process involved in reproduction,GO:0003006,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Fluoxetine,0,
+diacylglycerol biosynthetic process,GO:0006651,Hypoxia,MESH:D000860,1,Arsenic Trioxide,0,
+dicarboxylic acid metabolic process,GO:0043648,Hypoxia,MESH:D000860,1,Dietary Fats,0,
+diestrus,GO:0060207,Hypoxia,MESH:D000860,1,Acetaminophen,0,
+digestion,GO:0007586,Hypoxia,MESH:D000860,0,,1,CTRB1
+digestive tract morphogenesis,GO:0048546,"Hypoxia-Ischemia, Brain",MESH:D020925,0,,1,HIF1A
+DNA alkylation,GO:0006305,Hypoxia,MESH:D000860,2,2-chloroethyl ethyl sulfide|Mustard Gas,0,
+DNA biosynthetic process,GO:0071897,Hypoxia,MESH:D000860,7,Arsenic Trioxide|Dietary Fats|Lipopolysaccharides|Nitroglycerin|Oxygen|Phenobarbital|Resveratrol,0,
+DNA biosynthetic process,GO:0071897,"Hypoxia-Ischemia, Brain",MESH:D020925,3,Dexamethasone|Lipopolysaccharides|Oxygen,0,
+DNA catabolic process,GO:0006308,Hypoxia,MESH:D000860,10,Acetaminophen|Bleomycin|Chlorpromazine|Deferoxamine|Fluorouracil|Gemcitabine|Hydrogen Peroxide|Isoproterenol|Resveratrol|Vitamin E,0,
+DNA catabolic process,GO:0006308,"Hypoxia, Brain",MESH:D002534,1,Plant Extracts,0,
+DNA catabolic process,GO:0006308,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Dexamethasone,0,
+"DNA catabolic process, endonucleolytic",GO:0000737,Hypoxia,MESH:D000860,13,Acetaminophen|Allopurinol|Chloroquine|Copper Sulfate|Deferoxamine|Diacetyl|Dietary Fats|Glucose|Hydrogen Peroxide|Isoproterenol|Lipopolysaccharides|Oxygen|Resveratrol,0,
+"DNA catabolic process, endonucleolytic",GO:0000737,"Hypoxia-Ischemia, Brain",MESH:D020925,4,Blood Glucose|Lipopolysaccharides|Methamphetamine|Oxygen,0,
+DNA conformation change,GO:0071103,Hypoxia,MESH:D000860,1,Hydrogen Peroxide,0,
+DNA damage checkpoint signaling,GO:0000077,Hypoxia,MESH:D000860,0,,1,HIM-6
+DNA damage checkpoint signaling,GO:0000077,"Hypoxia, Brain",MESH:D002534,1,Plant Extracts,0,
+DNA dealkylation involved in DNA repair,GO:0006307,Hypoxia,MESH:D000860,1,Gallic Acid,0,
+DNA demethylation,GO:0080111,Hypoxia,MESH:D000860,1,Hydrogen Peroxide,0,
+DNA hypomethylation,GO:0044028,Hypoxia,MESH:D000860,1,Hydrogen Peroxide,0,
+DNA hypomethylation,GO:0044028,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Dexamethasone,0,
+DNA metabolic process,GO:0006259,Hypoxia,MESH:D000860,3,Glucose|Hydrogen Peroxide|Oxygen,1,NME1
+DNA metabolic process,GO:0006259,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Oxygen,0,
+DNA methylation,GO:0006306,Hypoxia,MESH:D000860,7,Arsenic Trioxide|Glucose|Hydrogen Peroxide|Lipopolysaccharides|Oxygen|Phenobarbital|Vitamin E,0,
+DNA methylation,GO:0006306,"Hypoxia, Brain",MESH:D002534,2,Carbon Monoxide|Cocaine,0,
+DNA methylation,GO:0006306,"Hypoxia-Ischemia, Brain",MESH:D020925,3,Cocaine|Lipopolysaccharides|Oxygen,0,
+DNA methylation involved in embryo development,GO:0043045,Hypoxia,MESH:D000860,1,Dietary Fats,0,
+DNA methylation on cytosine,GO:0032776,Hypoxia,MESH:D000860,4,Arsenic Trioxide|Dietary Fats|Hydrogen Peroxide|Mustard Gas,0,
+DNA methylation on cytosine within a CG sequence,GO:0010424,Hypoxia,MESH:D000860,2,Nicotine|Zinc Sulfate,0,
+DNA modification,GO:0006304,Hypoxia,MESH:D000860,13,Arsenic Trioxide|AST 120|Bleomycin|Dietary Fats|Fluorouracil|Glucose|Hydrogen Peroxide|Lipopolysaccharides|Mustard Gas|Oxygen|Resveratrol|sinapinic acid|Spironolactone,0,
+DNA modification,GO:0006304,"Hypoxia, Brain",MESH:D002534,1,Plant Extracts,0,
+DNA modification,GO:0006304,"Hypoxia-Ischemia, Brain",MESH:D020925,2,Lipopolysaccharides|Oxygen,0,
+DNA recombination,GO:0006310,Hypoxia,MESH:D000860,0,,1,HIM-6
+DNA repair,GO:0006281,Hypoxia,MESH:D000860,3,Arsenic Trioxide|Mustard Gas|Resveratrol,1,HIM-6
+DNA replication,GO:0006260,Hypoxia,MESH:D000860,3,Arsenic Trioxide|Hydrogen Peroxide|Phenobarbital,1,HIM-6
+DNA synthesis involved in DNA replication,GO:0090592,Hypoxia,MESH:D000860,4,Acetaminophen|Dietary Fats|Indomethacin|Phenobarbital,0,
+DNA synthesis involved in mitotic DNA replication,GO:1904860,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Dexamethasone,0,
+DNA synthesis involved in UV-damage excision repair,GO:1904161,Hypoxia,MESH:D000860,1,Acetaminophen,0,
+dopamine biosynthetic process,GO:0042416,Hypoxia,MESH:D000860,9,Arsenic Trioxide|Copper Sulfate|Dietary Fats|Glucose|Morphine|Nicotine|norbinaltorphimine|Resveratrol|Vitamin E,0,
+dopamine biosynthetic process,GO:0042416,"Hypoxia, Brain",MESH:D002534,3,Cocaine|Morphine|Plant Extracts,0,
+dopamine biosynthetic process,GO:0042416,"Hypoxia-Ischemia, Brain",MESH:D020925,2,Cocaine|Methamphetamine,0,
+dopamine biosynthetic process from tyrosine,GO:0006585,Hypoxia,MESH:D000860,2,Arsenic Trioxide|Taurine,0,
+dopamine metabolic process,GO:0042417,Hypoxia,MESH:D000860,8,Acetaminophen|Chloroquine|cobaltous chloride|Indomethacin|Nicotine|norbinaltorphimine|omega-Conotoxin GVIA|Resveratrol,0,
+dopamine metabolic process,GO:0042417,"Hypoxia, Brain",MESH:D002534,2,cobaltous chloride|Plant Extracts,0,
+dopamine metabolic process,GO:0042417,"Hypoxia-Ischemia, Brain",MESH:D020925,3,cobaltous chloride|Fluoxetine|Methamphetamine,0,
+dopaminergic neuron differentiation,GO:0071542,Hypoxia,MESH:D000860,1,Copper Sulfate,1,BDNF
+dopaminergic neuron differentiation,GO:0071542,"Hypoxia-Ischemia, Brain",MESH:D020925,0,,2,HIF1A|VEGFA
+dopamine secretion,GO:0014046,Hypoxia,MESH:D000860,3,Glucose|omega-Conotoxin GVIA|Oxygen,0,
+dopamine secretion,GO:0014046,"Hypoxia-Ischemia, Brain",MESH:D020925,2,Methamphetamine|Oxygen,0,
+dopamine transport,GO:0015872,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Methamphetamine,0,
+dopamine uptake,GO:0090494,Hypoxia,MESH:D000860,1,Lipopolysaccharides,0,
+dopamine uptake,GO:0090494,"Hypoxia, Brain",MESH:D002534,1,Cocaine,0,
+dopamine uptake,GO:0090494,"Hypoxia-Ischemia, Brain",MESH:D020925,2,Cocaine|Lipopolysaccharides,0,
+doxorubicin transport,GO:1900753,Hypoxia,MESH:D000860,2,Chloroquine|Verapamil,0,
+D-ribose metabolic process,GO:0006014,Hypoxia,MESH:D000860,2,Indomethacin|Vitamin E,0,
+drinking behavior,GO:0042756,Hypoxia,MESH:D000860,6,Dietary Fats|Fluorouracil|Gabapentin|Hydrochloric Acid|Methyldopa|Nicotine,0,
+drinking behavior,GO:0042756,"Hypoxia, Brain",MESH:D002534,1,Plant Extracts,0,
+drinking behavior,GO:0042756,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Methamphetamine,0,
+dTMP biosynthetic process,GO:0006231,Hypoxia,MESH:D000860,1,Arsenic Trioxide,1,NME1
+D-xylose metabolic process,GO:0042732,Hypoxia,MESH:D000860,1,Vitamin E,0,
+eating behavior,GO:0042755,Hypoxia,MESH:D000860,2,Dietary Fats|Nicotine,0,
+eating behavior,GO:0042755,"Hypoxia, Brain",MESH:D002534,2,Edaravone|Plant Extracts,0,
+egg coat formation,GO:0035803,Hypoxia,MESH:D000860,1,Sodium Nitrite,0,
+elastin metabolic process,GO:0051541,"Hypoxia-Ischemia, Brain",MESH:D020925,0,,1,HIF1A
+electron transport chain,GO:0022900,Fetal Hypoxia,MESH:D005311,1,Nitric Oxide,0,
+electron transport chain,GO:0022900,Hypoxia,MESH:D000860,3,Dietary Fats|Morphine|Nitric Oxide,0,
+electron transport chain,GO:0022900,"Hypoxia, Brain",MESH:D002534,2,Cocaine|Morphine,0,
+electron transport chain,GO:0022900,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Cocaine,0,
+embryo development,GO:0009790,Hypoxia,MESH:D000860,8,Fluorouracil|Glucose|Isoproterenol|Ketamine|n-butoxyethanol|Propylthiouracil|Resveratrol|Verapamil,0,
+embryo development,GO:0009790,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Dexamethasone,0,
+embryo implantation,GO:0007566,Hypoxia,MESH:D000860,1,Resveratrol,0,
+embryonic cleavage,GO:0040016,Hypoxia,MESH:D000860,4,Lipopolysaccharides|Resveratrol|Sodium Nitrite|Verapamil,0,
+embryonic cleavage,GO:0040016,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Lipopolysaccharides,0,
+embryonic cranial skeleton morphogenesis,GO:0048701,Hypoxia,MESH:D000860,1,Ketamine,1,GNAS
+embryonic hemopoiesis,GO:0035162,Fetal Hypoxia,MESH:D005311,1,Nitric Oxide,0,
+embryonic hemopoiesis,GO:0035162,Hypoxia,MESH:D000860,1,Nitric Oxide,1,ATF4
+embryonic hemopoiesis,GO:0035162,"Hypoxia-Ischemia, Brain",MESH:D020925,0,,1,HIF1A
+embryonic hindlimb morphogenesis,GO:0035116,Hypoxia,MESH:D000860,0,,1,GNAS
+embryonic morphogenesis,GO:0048598,Hypoxia,MESH:D000860,4,Cefotiam|Fluorouracil|Resveratrol|Ribavirin,0,
+embryonic morphogenesis,GO:0048598,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Fluoxetine,0,
+embryonic organ development,GO:0048568,Hypoxia,MESH:D000860,1,Acetaminophen,0,
+embryonic organ development,GO:0048568,"Hypoxia, Brain",MESH:D002534,1,Zolpidem,0,
+embryonic placenta development,GO:0001892,Hypoxia,MESH:D000860,1,Oxygen,0,
+embryonic placenta development,GO:0001892,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Oxygen,1,HIF1A
+embryonic retina morphogenesis in camera-type eye,GO:0060059,Hypoxia,MESH:D000860,0,,1,EGR1
+embryonic skeletal system development,GO:0048706,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Dexamethasone,0,
+embryonic viscerocranium morphogenesis,GO:0048703,Hypoxia,MESH:D000860,0,,2,ALDH1L1|EGR1
+endocannabinoid signaling pathway,GO:0071926,Hypoxia,MESH:D000860,1,Hydrogen Peroxide,0,
+endocardial cushion morphogenesis,GO:0003203,Hypoxia,MESH:D000860,0,,1,NOS3
+endochondral ossification,GO:0001958,Hypoxia,MESH:D000860,0,,1,GNAS
+endochondral ossification,GO:0001958,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Dexamethasone,0,
+endocytosis,GO:0006897,Hypoxia,MESH:D000860,2,Lipopolysaccharides|Phenylephrine,1,NME1
+endocytosis,GO:0006897,"Hypoxia, Brain",MESH:D002534,2,Phenylephrine|Plant Extracts,0,
+endocytosis,GO:0006897,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Lipopolysaccharides,0,
+endonucleolytic cleavage involved in tRNA processing,GO:1905267,Hypoxia,MESH:D000860,3,Glucose|Hydrogen Peroxide|Oxygen,0,
+endonucleolytic cleavage involved in tRNA processing,GO:1905267,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Oxygen,0,
+endoplasmic reticulum calcium ion homeostasis,GO:0032469,Hypoxia,MESH:D000860,1,Oxygen,0,
+endoplasmic reticulum calcium ion homeostasis,GO:0032469,"Hypoxia, Brain",MESH:D002534,0,,1,ITPR1
+endoplasmic reticulum calcium ion homeostasis,GO:0032469,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Oxygen,0,
+endoplasmic reticulum organization,GO:0007029,Hypoxia,MESH:D000860,2,Arsenic Trioxide|Taurine,0,
+endoplasmic reticulum organization,GO:0007029,"Hypoxia, Brain",MESH:D002534,1,Carbon Monoxide,0,
+endoplasmic reticulum unfolded protein response,GO:0030968,Hypoxia,MESH:D000860,0,,1,ATF4
+endosome lysis involved in viral entry into host cell,GO:0075514,Hypoxia,MESH:D000860,1,Chloroquine,0,
+endosome organization,GO:0007032,Hypoxia,MESH:D000860,1,Chloroquine,0,
+endothelial cell activation,GO:0042118,Hypoxia,MESH:D000860,1,Copper Sulfate,0,
+endothelial cell chemotaxis,GO:0035767,"Hypoxia-Ischemia, Brain",MESH:D020925,0,,1,VEGFA
+endothelial cell-matrix adhesion,GO:0090673,Hypoxia,MESH:D000860,1,Resveratrol,0,
+endothelial cell migration,GO:0043542,Hypoxia,MESH:D000860,0,,1,NOS3
+endothelial cell migration,GO:0043542,"Hypoxia-Ischemia, Brain",MESH:D020925,0,,1,VEGFA
+endothelial cell morphogenesis,GO:0001886,Hypoxia,MESH:D000860,1,Dietary Fats,0,
+endothelial cell proliferation,GO:0001935,Hypoxia,MESH:D000860,0,,1,APOA1
+endothelial cell proliferation,GO:0001935,"Hypoxia-Ischemia, Brain",MESH:D020925,0,,2,NOS2|VEGFA
+endothelial to hematopoietic transition,GO:0098508,Hypoxia,MESH:D000860,1,Fluorouracil,0,
+endothelial tube lumen extension,GO:0097498,Hypoxia,MESH:D000860,1,Oxygen,0,
+endothelial tube lumen extension,GO:0097498,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Oxygen,0,
+endothelial tube morphogenesis,GO:0061154,Hypoxia,MESH:D000860,2,Nicotine|Resveratrol,0,
+endothelin maturation,GO:0034959,Hypoxia,MESH:D000860,1,Glucose,0,
+energy derivation by oxidation of organic compounds,GO:0015980,Hypoxia,MESH:D000860,0,,1,ACADVL
+energy derivation by oxidation of organic compounds,GO:0015980,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Dexamethasone,0,
+energy homeostasis,GO:0097009,Hypoxia,MESH:D000860,3,Dietary Fats|Resveratrol|Sodium Nitrite,0,
+energy reserve metabolic process,GO:0006112,Hypoxia,MESH:D000860,0,,1,GNAS
+entry of bacterium into host cell,GO:0035635,Hypoxia,MESH:D000860,1,Indomethacin,0,
+eosinophil extravasation,GO:0072682,Hypoxia,MESH:D000860,2,cobaltous chloride|Resveratrol,0,
+eosinophil extravasation,GO:0072682,"Hypoxia, Brain",MESH:D002534,1,cobaltous chloride,0,
+eosinophil extravasation,GO:0072682,"Hypoxia-Ischemia, Brain",MESH:D020925,2,cobaltous chloride|Dexamethasone,0,
+eosinophil migration,GO:0072677,Hypoxia,MESH:D000860,2,Bleomycin|Lipopolysaccharides,0,
+eosinophil migration,GO:0072677,"Hypoxia-Ischemia, Brain",MESH:D020925,2,Dexamethasone|Lipopolysaccharides,0,
+epigenetic regulation of gene expression,GO:0040029,Hypoxia,MESH:D000860,3,Arsenic Trioxide|Dietary Fats|Sevoflurane,0,
+epigenetic regulation of gene expression,GO:0040029,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Dexamethasone,0,
+epinephrine biosynthetic process,GO:0042418,Hypoxia,MESH:D000860,1,Nicotine,0,
+epithelial cell-cell adhesion,GO:0090136,Hypoxia,MESH:D000860,2,Arsenic Trioxide|Resveratrol,0,
+epithelial cell differentiation,GO:0030855,Hypoxia,MESH:D000860,0,,1,ACADVL
+epithelial cell differentiation,GO:0030855,"Hypoxia-Ischemia, Brain",MESH:D020925,0,,1,VEGFA
+epithelial cell differentiation involved in mammary gland alveolus development,GO:0061030,"Hypoxia-Ischemia, Brain",MESH:D020925,0,,1,HIF1A
+epithelial cell maturation,GO:0002070,"Hypoxia-Ischemia, Brain",MESH:D020925,0,,1,VEGFA
+epithelial cell proliferation,GO:0050673,"Hypoxia-Ischemia, Brain",MESH:D020925,0,,1,VEGFA
+epithelial fluid transport,GO:0042045,Hypoxia,MESH:D000860,1,Lipopolysaccharides,0,
+epithelial fluid transport,GO:0042045,"Hypoxia, Brain",MESH:D002534,0,,1,ITPR1
+epithelial fluid transport,GO:0042045,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Lipopolysaccharides,0,
+epithelial structure maintenance,GO:0010669,Hypoxia,MESH:D000860,3,Deferoxamine|Diacetyl|Glucose,0,
+epithelial to mesenchymal transition,GO:0001837,Hypoxia,MESH:D000860,5,Bleomycin|cobaltous chloride|Glucose|Lipopolysaccharides|Resveratrol,0,
+epithelial to mesenchymal transition,GO:0001837,"Hypoxia, Brain",MESH:D002534,1,cobaltous chloride,0,
+epithelial to mesenchymal transition,GO:0001837,"Hypoxia-Ischemia, Brain",MESH:D020925,2,cobaltous chloride|Lipopolysaccharides,1,HIF1A
+epoxygenase P450 pathway,GO:0019373,Hypoxia,MESH:D000860,1,Verapamil,0,
+ERK1 and ERK2 cascade,GO:0070371,Hypoxia,MESH:D000860,1,Resveratrol,0,
+ERK1 and ERK2 cascade,GO:0070371,"Hypoxia, Brain",MESH:D002534,1,Plant Extracts,0,
+ER overload response,GO:0006983,Hypoxia,MESH:D000860,2,Lipopolysaccharides|Nicotine,0,
+ER overload response,GO:0006983,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Lipopolysaccharides,0,
+erythrocyte development,GO:0048821,Hypoxia,MESH:D000860,0,,1,RPS14
+erythrocyte differentiation,GO:0030218,Hypoxia,MESH:D000860,1,Arsenic Trioxide,1,RPS14
+erythrocyte homeostasis,GO:0034101,Fetal Hypoxia,MESH:D005311,1,Ibuprofen,0,
+erythrocyte homeostasis,GO:0034101,Hypoxia,MESH:D000860,4,Deferoxamine|Fluorouracil|Indomethacin|Oxygen,0,
+erythrocyte homeostasis,GO:0034101,"Hypoxia-Ischemia, Brain",MESH:D020925,2,caffeic acid phenethyl ester|Oxygen,0,
+erythrocyte maturation,GO:0043249,Hypoxia,MESH:D000860,1,Resveratrol,1,RPS14
+erythromycin metabolic process,GO:1901113,Hypoxia,MESH:D000860,1,Phenobarbital,0,
+erythromycin metabolic process,GO:1901113,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Dexamethasone,0,
+erythrophore differentiation,GO:0048773,Hypoxia,MESH:D000860,0,,1,SOD2
+establishment of blood-brain barrier,GO:0060856,Hypoxia,MESH:D000860,1,Diazepam,0,
+establishment of cell polarity,GO:0030010,Hypoxia,MESH:D000860,1,Lipopolysaccharides,0,
+establishment of cell polarity,GO:0030010,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Lipopolysaccharides,0,
+establishment of endothelial barrier,GO:0061028,Hypoxia,MESH:D000860,2,Glucose|Oxygen,0,
+establishment of endothelial barrier,GO:0061028,"Hypoxia-Ischemia, Brain",MESH:D020925,2,Blood Glucose|Oxygen,0,
+establishment of endothelial intestinal barrier,GO:0090557,Fetal Hypoxia,MESH:D005311,1,Ibuprofen,0,
+establishment of endothelial intestinal barrier,GO:0090557,Hypoxia,MESH:D000860,1,Lipopolysaccharides,0,
+establishment of endothelial intestinal barrier,GO:0090557,"Hypoxia-Ischemia, Brain",MESH:D020925,2,Lipopolysaccharides|Methamphetamine,0,
+establishment of localization in cell,GO:0051649,Hypoxia,MESH:D000860,0,,2,NOS1|NOS3
+establishment of localization in cell,GO:0051649,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Dexamethasone,0,
+establishment of meiotic spindle localization,GO:0051295,Hypoxia,MESH:D000860,3,cobaltous chloride|Lipopolysaccharides|Resveratrol,0,
+establishment of meiotic spindle localization,GO:0051295,"Hypoxia, Brain",MESH:D002534,1,cobaltous chloride,0,
+establishment of meiotic spindle localization,GO:0051295,"Hypoxia-Ischemia, Brain",MESH:D020925,2,cobaltous chloride|Lipopolysaccharides,0,
+establishment of mitochondrion localization,GO:0051654,Hypoxia,MESH:D000860,1,Hydrogen Peroxide,0,
+establishment of mitotic spindle orientation,GO:0000132,Hypoxia,MESH:D000860,1,Arsenic Trioxide,0,
+establishment of protein localization,GO:0045184,Hypoxia,MESH:D000860,0,,1,NOS1
+establishment of protein localization to mitochondrion,GO:0072655,Hypoxia,MESH:D000860,1,Hydrogen Peroxide,0,
+establishment of protein localization to plasma membrane,GO:0061951,Hypoxia,MESH:D000860,6,bromperidol|Chloroquine|Isoproterenol|Resveratrol|Terbutaline|tetrandrine,0,
+establishment of protein localization to plasma membrane,GO:0061951,"Hypoxia-Ischemia, Brain",MESH:D020925,2,Dexamethasone|Ouabain,0,
+establishment of skin barrier,GO:0061436,Hypoxia,MESH:D000860,2,Indomethacin|Resveratrol,0,
+establishment or maintenance of cell polarity,GO:0007163,Hypoxia,MESH:D000860,0,,1,ACTB
+estradiol secretion,GO:0035938,Hypoxia,MESH:D000860,3,Acetaminophen|Dietary Fats|Lipopolysaccharides,0,
+estradiol secretion,GO:0035938,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Lipopolysaccharides,0,
+estrogen biosynthetic process,GO:0006703,Hypoxia,MESH:D000860,4,Dietary Fats|Ketamine|Nicotine|Vecuronium Bromide,0,
+estrogen catabolic process,GO:0006711,"Hypoxia, Brain",MESH:D002534,1,Plant Extracts,0,
+estrogen metabolic process,GO:0008210,Fetal Hypoxia,MESH:D005311,1,Ibuprofen,0,
+estrogen metabolic process,GO:0008210,Hypoxia,MESH:D000860,5,Acetaminophen|Arsenic Trioxide|Resveratrol|Taurine|Vitamin E,0,
+estrogen metabolic process,GO:0008210,"Hypoxia, Brain",MESH:D002534,1,Plant Extracts,0,
+estrogen secretion,GO:0035937,Hypoxia,MESH:D000860,1,Nimodipine,0,
+estrogen secretion,GO:0035937,"Hypoxia, Brain",MESH:D002534,1,Plant Extracts,0,
+estrone secretion,GO:0035943,Hypoxia,MESH:D000860,1,Lipopolysaccharides,0,
+estrone secretion,GO:0035943,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Lipopolysaccharides,0,
+estrous cycle,GO:0044849,Hypoxia,MESH:D000860,1,Acetaminophen,1,EGR1
+estrous cycle phase,GO:0060206,Hypoxia,MESH:D000860,1,Dietary Fats,0,
+estrus,GO:0060209,Fetal Hypoxia,MESH:D005311,1,Ibuprofen,0,
+estrus,GO:0060209,Hypoxia,MESH:D000860,2,Acetaminophen|Dietary Fats,0,
+ethanol metabolic process,GO:0006067,Hypoxia,MESH:D000860,1,Propofol,0,
+evoked excitatory postsynaptic potential,GO:0098817,"Hypoxia, Brain",MESH:D002534,1,Baclofen,0,
+evoked neurotransmitter secretion,GO:0061670,Hypoxia,MESH:D000860,1,Propofol,0,
+excitation of vasomotor center by baroreceptor signaling,GO:0002010,Hypoxia,MESH:D000860,1,Mevinphos,0,
+excitatory chemical synaptic transmission,GO:0098976,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Methamphetamine,0,
+excitatory postsynaptic potential,GO:0060079,Hypoxia,MESH:D000860,8,Isoflurane|Isoproterenol|Ketamine|Morphine|Naloxone|Nicotine|Norepinephrine|omega-Conotoxin GVIA,1,BDNF
+excitatory postsynaptic potential,GO:0060079,"Hypoxia, Brain",MESH:D002534,4,Baclofen|Cocaine|Morphine|Phenytoin,0,
+excitatory postsynaptic potential,GO:0060079,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Cocaine,0,
+excretion,GO:0007588,Hypoxia,MESH:D000860,1,Indican,0,
+exocytosis,GO:0006887,Hypoxia,MESH:D000860,1,Propofol,0,
+exosomal secretion,GO:1990182,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Methamphetamine,0,
+exploration behavior,GO:0035640,Hypoxia,MESH:D000860,11,acetovanillone|Arsenic Trioxide|cobaltous chloride|Diazepam|Flumazenil|Gallic Acid|Morphine|Nicotine|Resveratrol|Vitamin E|Zinc Sulfate,0,
+exploration behavior,GO:0035640,"Hypoxia, Brain",MESH:D002534,2,cobaltous chloride|Morphine,0,
+exploration behavior,GO:0035640,"Hypoxia-Ischemia, Brain",MESH:D020925,4,cobaltous chloride|Dexamethasone|Fluoxetine|Methamphetamine,0,
+export across plasma membrane,GO:0140115,Hypoxia,MESH:D000860,1,Verapamil,0,
+export across plasma membrane,GO:0140115,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Dexamethasone,0,
+export from cell,GO:0140352,Hypoxia,MESH:D000860,1,Lipopolysaccharides,0,
+export from cell,GO:0140352,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Lipopolysaccharides,0,
+extracellular exosome assembly,GO:0071971,Hypoxia,MESH:D000860,1,Acetaminophen,0,
+extracellular exosome biogenesis,GO:0097734,Hypoxia,MESH:D000860,1,Acetaminophen,0,
+extracellular matrix assembly,GO:0085029,Hypoxia,MESH:D000860,1,Dietary Fats,0,
+extracellular vesicle biogenesis,GO:0140112,Hypoxia,MESH:D000860,1,Acetaminophen,0,
+extrinsic apoptotic signaling pathway via death domain receptors,GO:0008625,"Hypoxia, Brain",MESH:D002534,1,Plant Extracts,0,
+eye development,GO:0001654,Hypoxia,MESH:D000860,1,Propylthiouracil,0,
+eye photoreceptor cell development,GO:0042462,"Hypoxia-Ischemia, Brain",MESH:D020925,0,,1,VEGFA
+fat cell differentiation,GO:0045444,Hypoxia,MESH:D000860,7,Chloroquine|Dietary Fats|Glucose|Hydrogen Peroxide|Indomethacin|Mustard Gas|Resveratrol,0,
+fat cell differentiation,GO:0045444,"Hypoxia-Ischemia, Brain",MESH:D020925,2,Dexamethasone|Lithium Chloride,0,
+fat cell proliferation,GO:0070341,Hypoxia,MESH:D000860,2,Dietary Fats|Lipopolysaccharides,0,
+fat cell proliferation,GO:0070341,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Lipopolysaccharides,0,
+fat pad development,GO:0060613,Hypoxia,MESH:D000860,3,Dietary Fats|Resveratrol|Taurine,0,
+fatty acid beta-oxidation,GO:0006635,Hypoxia,MESH:D000860,4,Dietary Fats|Glucose|Oleic Acid|Resveratrol,1,ACADVL
+fatty acid beta-oxidation,GO:0006635,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Dexamethasone,0,
+fatty acid beta-oxidation using acyl-CoA dehydrogenase,GO:0033539,Hypoxia,MESH:D000860,0,,1,ACADVL
+fatty acid beta-oxidation using acyl-CoA oxidase,GO:0033540,Hypoxia,MESH:D000860,1,Dietary Fats,0,
+fatty acid biosynthetic process,GO:0006633,Hypoxia,MESH:D000860,5,Acetaminophen|Dietary Fats|Lipopolysaccharides|Resveratrol|Vitamin E,0,
+fatty acid biosynthetic process,GO:0006633,"Hypoxia, Brain",MESH:D002534,1,Plant Extracts,0,
+fatty acid biosynthetic process,GO:0006633,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Lipopolysaccharides,0,
+fatty acid catabolic process,GO:0009062,Hypoxia,MESH:D000860,1,Glucose,1,ACADVL
+fatty acid derivative biosynthetic process,GO:1901570,Hypoxia,MESH:D000860,2,Dietary Fats|Resveratrol,0,
+fatty acid derivative metabolic process,GO:1901568,Hypoxia,MESH:D000860,3,Dietary Fats|Morphine|Taurine,0,
+fatty acid derivative metabolic process,GO:1901568,"Hypoxia, Brain",MESH:D002534,1,Morphine,0,
+fatty acid homeostasis,GO:0055089,Hypoxia,MESH:D000860,4,Dietary Fats|Hydrogen Peroxide|Oleic Acid|Resveratrol,0,
+fatty acid homeostasis,GO:0055089,"Hypoxia, Brain",MESH:D002534,1,Plant Extracts,0,
+fatty acid metabolic process,GO:0006631,Hypoxia,MESH:D000860,12,Acetaminophen|Dietary Fats|Heroin|Indomethacin|Isoproterenol|Oleic Acid|Oxygen|Propofol|Resveratrol|Ribavirin|Spironolactone|Taurine,1,ACADVL
+fatty acid metabolic process,GO:0006631,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Oxygen,0,
+fatty acid oxidation,GO:0019395,Hypoxia,MESH:D000860,9,Acetaminophen|Allopurinol|Chloroquine|Dietary Fats|Fluorouracil|Glucose|Indomethacin|Oleic Acid|Resveratrol,0,
+fatty acid oxidation,GO:0019395,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Dexamethasone,0,
+fatty acid transport,GO:0015908,Hypoxia,MESH:D000860,2,Oleic Acid|Resveratrol,0,
+fatty acid transport,GO:0015908,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Dexamethasone,0,
+Fc-epsilon receptor signaling pathway,GO:0038095,Hypoxia,MESH:D000860,1,Resveratrol,0,
+Fc-gamma receptor signaling pathway involved in phagocytosis,GO:0038096,Hypoxia,MESH:D000860,2,Hydrogen Peroxide|Oxygen,0,
+Fc-gamma receptor signaling pathway involved in phagocytosis,GO:0038096,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Oxygen,1,NOS2
+fear response,GO:0042596,Hypoxia,MESH:D000860,0,,1,BDNF
+feeding behavior,GO:0007631,Hypoxia,MESH:D000860,2,Dietary Fats|Propylthiouracil,1,BDNF
+feeding behavior,GO:0007631,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Methamphetamine,0,
+female germ-line cyst formation,GO:0048135,Hypoxia,MESH:D000860,1,Acetaminophen,0,
+female gonad development,GO:0008585,Hypoxia,MESH:D000860,1,Nicotine,0,
+female pregnancy,GO:0007565,Hypoxia,MESH:D000860,0,,5,GAPDH|GNAS|NOS1|NOS3|NPPA
+female pregnancy,GO:0007565,"Hypoxia-Ischemia, Brain",MESH:D020925,0,,1,VEGFA
+ferroptosis,GO:0097707,Hypoxia,MESH:D000860,9,Acetaminophen|Arsenic Trioxide|Chloroquine|Deferoxamine|Glucose|Hydrogen Peroxide|Resveratrol|Sevoflurane|Vitamin E,0,
+fertilization,GO:0009566,Hypoxia,MESH:D000860,1,Acetaminophen,0,
+fibrinolysis,GO:0042730,Hypoxia,MESH:D000860,0,,1,PLAT
+fibroblast migration,GO:0010761,Hypoxia,MESH:D000860,1,Resveratrol,0,
+fibroblast proliferation,GO:0048144,Hypoxia,MESH:D000860,2,Isoproterenol|Norepinephrine,0,
+flagellated sperm motility,GO:0030317,Fetal Hypoxia,MESH:D005311,1,Nitric Oxide,0,
+flagellated sperm motility,GO:0030317,Hypoxia,MESH:D000860,1,Nitric Oxide,0,
+flagellated sperm motility,GO:0030317,"Hypoxia, Brain",MESH:D002534,1,Plant Extracts,0,
+flagellated sperm motility,GO:0030317,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Dexamethasone,0,
+flight behavior,GO:0007629,Hypoxia,MESH:D000860,1,Ketamine,0,
+foam cell differentiation,GO:0090077,Hypoxia,MESH:D000860,1,Resveratrol,0,
+folic acid metabolic process,GO:0046655,Hypoxia,MESH:D000860,1,Dietary Fats,1,ALDH1L1
+folic acid metabolic process,GO:0046655,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Dexamethasone,0,
+folic acid transport,GO:0015884,Hypoxia,MESH:D000860,1,Lipopolysaccharides,0,
+folic acid transport,GO:0015884,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Lipopolysaccharides,0,
+forebrain neuron development,GO:0021884,Hypoxia,MESH:D000860,1,Propylthiouracil,0,
+forebrain neuron differentiation,GO:0021879,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Methamphetamine,0,
+formaldehyde catabolic process,GO:0046294,Hypoxia,MESH:D000860,0,,1,ESD
+formation of translation preinitiation complex,GO:0001731,Hypoxia,MESH:D000860,0,,1,RPS2
+fructosamine biosynthetic process,GO:0030391,Hypoxia,MESH:D000860,2,Dietary Fats|Resveratrol,0,
+"fructose 1,6-bisphosphate metabolic process",GO:0030388,Hypoxia,MESH:D000860,0,,1,ALDOB
+fructose biosynthetic process,GO:0046370,Hypoxia,MESH:D000860,1,Glucose,0,
+fructose catabolic process,GO:0006001,Hypoxia,MESH:D000860,0,,1,ALDOB
+fructose catabolic process to hydroxyacetone phosphate and glyceraldehyde-3-phosphate,GO:0061624,Hypoxia,MESH:D000860,0,,1,ALDOB
+fructose metabolic process,GO:0006000,Hypoxia,MESH:D000860,1,Ribavirin,1,ALDOB
+fucose metabolic process,GO:0006004,Hypoxia,MESH:D000860,1,Zinc Sulfate,0,
+G0 to G1 transition,GO:0045023,Hypoxia,MESH:D000860,12,Acetaminophen|Arsenic Trioxide|Chloroquine|Deferoxamine|Diacetyl|Fluorouracil|Gallic Acid|Glucose|Hydrogen Peroxide|Resveratrol|tetrandrine|Vitamin E,0,
+G0 to G1 transition,GO:0045023,"Hypoxia, Brain",MESH:D002534,1,Plant Extracts,0,
+G0 to G1 transition,GO:0045023,"Hypoxia-Ischemia, Brain",MESH:D020925,2,Dexamethasone|Ouabain,0,
+G1/S transition of mitotic cell cycle,GO:0000082,Hypoxia,MESH:D000860,2,Deoxyglucose|Hydrogen Peroxide,0,
+G2/M transition of mitotic cell cycle,GO:0000086,Hypoxia,MESH:D000860,9,Arsenic Trioxide|Bleomycin|Fluorouracil|Gallic Acid|Glucose|Oxygen|Phenylephrine|Resveratrol|Vitamin E,0,
+G2/M transition of mitotic cell cycle,GO:0000086,"Hypoxia, Brain",MESH:D002534,2,Phenylephrine|Plant Extracts,0,
+G2/M transition of mitotic cell cycle,GO:0000086,"Hypoxia-Ischemia, Brain",MESH:D020925,5,caffeic acid phenethyl ester|Dexamethasone|Methamphetamine|Ouabain|Oxygen,0,
+GABAergic neuron differentiation,GO:0097154,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Dexamethasone,0,
+galactose biosynthetic process,GO:0046369,Hypoxia,MESH:D000860,1,Dietary Fats,0,
+galactose metabolic process,GO:0006012,Hypoxia,MESH:D000860,2,Resveratrol|Vitamin E,0,
+gamma-aminobutyric acid biosynthetic process,GO:0009449,Hypoxia,MESH:D000860,1,Nicotine,0,
+gamma-aminobutyric acid biosynthetic process,GO:0009449,"Hypoxia, Brain",MESH:D002534,1,Etomidate,0,
+gamma-aminobutyric acid import,GO:0051939,Hypoxia,MESH:D000860,2,Isoproterenol|Norepinephrine,0,
+gamma-aminobutyric acid metabolic process,GO:0009448,Hypoxia,MESH:D000860,4,cobaltous chloride|Dietary Fats|Glucose|Oxygen,0,
+gamma-aminobutyric acid metabolic process,GO:0009448,"Hypoxia, Brain",MESH:D002534,3,Baclofen|cobaltous chloride|Plant Extracts,0,
+gamma-aminobutyric acid metabolic process,GO:0009448,"Hypoxia-Ischemia, Brain",MESH:D020925,3,cobaltous chloride|Dexamethasone|Oxygen,0,
+gamma-aminobutyric acid secretion,GO:0014051,Hypoxia,MESH:D000860,1,Isoproterenol,0,
+gamma-aminobutyric acid signaling pathway,GO:0007214,Hypoxia,MESH:D000860,0,,2,ATF4|BDNF
+gamma-aminobutyric acid signaling pathway,GO:0007214,"Hypoxia, Brain",MESH:D002534,1,Baclofen,0,
+gap junction-mediated intercellular transport,GO:1990349,Hypoxia,MESH:D000860,2,Nicotine|Resveratrol,0,
+gastric motility,GO:0035482,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Fluoxetine,0,
+gastrulation,GO:0007369,Hypoxia,MESH:D000860,0,,1,ALDH1L1
+GDP metabolic process,GO:0046710,Hypoxia,MESH:D000860,1,Hydrogen Peroxide,0,
+gene expression,GO:0010467,Fetal Hypoxia,MESH:D005311,1,Nitric Oxide,0,
+gene expression,GO:0010467,Hypoxia,MESH:D000860,1,Nitric Oxide,0,
+generation of ovulation cycle rhythm,GO:0060112,Hypoxia,MESH:D000860,1,Propylthiouracil,0,
+generation of precursor metabolites and energy,GO:0006091,Hypoxia,MESH:D000860,0,,2,ATP5F1B|POMC
+genomic imprinting,GO:0071514,Hypoxia,MESH:D000860,0,,1,GNAS
+germ cell development,GO:0007281,Hypoxia,MESH:D000860,1,Acetaminophen,0,
+germ cell proliferation,GO:0036093,Hypoxia,MESH:D000860,1,Propylthiouracil,0,
+germ-line stem cell division,GO:0042078,Hypoxia,MESH:D000860,1,Bleomycin,0,
+ghrelin secretion,GO:0036321,Hypoxia,MESH:D000860,1,Glucose,0,
+glandular epithelial cell differentiation,GO:0002067,"Hypoxia-Ischemia, Brain",MESH:D020925,0,,1,HIF1A
+glandular epithelial cell maturation,GO:0002071,"Hypoxia-Ischemia, Brain",MESH:D020925,0,,1,HIF1A
+glial cell development,GO:0021782,Hypoxia,MESH:D000860,0,,1,EGR1
+glial cell differentiation,GO:0010001,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Lithium Chloride,0,
+glial cell fate commitment,GO:0021781,Hypoxia,MESH:D000860,1,Terbutaline,0,
+glial cell fate commitment,GO:0021781,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Dexamethasone,0,
+glial cell proliferation,GO:0014009,Hypoxia,MESH:D000860,2,Arsenic Trioxide|Copper Sulfate,0,
+glomerular basement membrane development,GO:0032836,Hypoxia,MESH:D000860,1,Dietary Fats,0,
+glomerular filtration,GO:0003094,Fetal Hypoxia,MESH:D005311,2,Naproxen|Nitric Oxide,0,
+glomerular filtration,GO:0003094,Hypoxia,MESH:D000860,19,Acetaminophen|Acetazolamide|Alprostadil|Chloroquine|Deferoxamine|Diltiazem|Enalapril|Indomethacin|Isoproterenol|Lidocaine|Lipopolysaccharides|Morphine|Naloxone|Nicotine|Nitrendipine|Nitric Oxide|Norepinephrine|Spironolactone|Vitamin E,0,
+glomerular filtration,GO:0003094,"Hypoxia, Brain",MESH:D002534,1,Morphine,0,
+glomerular filtration,GO:0003094,"Hypoxia-Ischemia, Brain",MESH:D020925,2,Lipopolysaccharides|Ouabain,0,
+glomerular mesangial cell proliferation,GO:0072110,Hypoxia,MESH:D000860,0,,1,EGR1
+glucagon secretion,GO:0070091,Hypoxia,MESH:D000860,1,Glucose,0,
+glucocorticoid metabolic process,GO:0008211,Hypoxia,MESH:D000860,0,,1,APOA1
+gluconeogenesis,GO:0006094,Hypoxia,MESH:D000860,11,Arsenic Trioxide|Dietary Fats|Diltiazem|Glucose|Isoproterenol|Ketamine|Nicotine|Norepinephrine|Phenobarbital|Phenylephrine|Resveratrol,4,ALDOB|ATF4|GAPDH|PCK2
+gluconeogenesis,GO:0006094,"Hypoxia, Brain",MESH:D002534,1,Phenylephrine,0,
+gluconeogenesis,GO:0006094,"Hypoxia-Ischemia, Brain",MESH:D020925,5,Blood Glucose|caffeic acid phenethyl ester|Dexamethasone|Lithium Chloride|Ouabain,0,
+glucose 6-phosphate metabolic process,GO:0051156,Hypoxia,MESH:D000860,1,Glucose,0,
+glucose catabolic process,GO:0006007,Hypoxia,MESH:D000860,4,Dietary Fats|Glucose|Oxygen|Resveratrol,0,
+glucose catabolic process,GO:0006007,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Oxygen,0,
+glucose homeostasis,GO:0042593,Hypoxia,MESH:D000860,11,Arsenic Trioxide|Copper Sulfate|Dietary Fats|Enalapril|Glucose|Lipopolysaccharides|Nicotine|Propylthiouracil|Resveratrol|Taurine|Vitamin E,1,POMC
+glucose homeostasis,GO:0042593,"Hypoxia, Brain",MESH:D002534,1,Plant Extracts,0,
+glucose homeostasis,GO:0042593,"Hypoxia-Ischemia, Brain",MESH:D020925,3,Blood Glucose|Dexamethasone|Lipopolysaccharides,1,HIF1A
+glucose import,GO:0046323,Hypoxia,MESH:D000860,9,Arsenic Trioxide|Bupivacaine|cobaltous chloride|Deoxyglucose|Glucose|Lipopolysaccharides|Norepinephrine|Oxygen|Taurine,0,
+glucose import,GO:0046323,"Hypoxia, Brain",MESH:D002534,2,cobaltous chloride|Plant Extracts,0,
+glucose import,GO:0046323,"Hypoxia-Ischemia, Brain",MESH:D020925,3,cobaltous chloride|Lipopolysaccharides|Oxygen,0,
+glucose import across plasma membrane,GO:0098708,Hypoxia,MESH:D000860,3,Chloroquine|Glucose|Resveratrol,0,
+glucose import in response to insulin stimulus,GO:0044381,Hypoxia,MESH:D000860,2,Deoxyglucose|Glucose,0,
+glucose metabolic process,GO:0006006,Hypoxia,MESH:D000860,12,Acetaminophen|Bupivacaine|Dietary Fats|Diltiazem|Glucose|Isoproterenol|Lipopolysaccharides|Nitroprusside|Oleic Acid|Propofol|Resveratrol|Sevoflurane,1,GAPDH
+glucose metabolic process,GO:0006006,"Hypoxia-Ischemia, Brain",MESH:D020925,3,Blood Glucose|Dexamethasone|Lipopolysaccharides,0,
+glucose transmembrane transport,GO:1904659,Hypoxia,MESH:D000860,2,Dietary Fats|Glucose,0,
+glucose transmembrane transport,GO:1904659,"Hypoxia, Brain",MESH:D002534,1,Plant Extracts,0,
+glucosylceramide biosynthetic process,GO:0006679,Hypoxia,MESH:D000860,1,Resveratrol,0,
+glutamate biosynthetic process,GO:0006537,Hypoxia,MESH:D000860,1,Arsenic Trioxide,0,
+glutamate metabolic process,GO:0006536,Hypoxia,MESH:D000860,4,Gallic Acid|Isoproterenol|Naloxone|Oxygen,0,
+glutamate metabolic process,GO:0006536,"Hypoxia-Ischemia, Brain",MESH:D020925,4,Dexamethasone|Lithium Chloride|Methamphetamine|Oxygen,0,
+glutamatergic neuron differentiation,GO:1905962,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Dexamethasone,0,
+glutamate secretion,GO:0014047,Hypoxia,MESH:D000860,3,Lidocaine|omega-Agatoxin IVA|omega-Conotoxin GVIA,1,BDNF
+glutamine biosynthetic process,GO:0006542,Hypoxia,MESH:D000860,2,Acetaminophen|Dietary Fats,0,
+glutamine metabolic process,GO:0006541,Hypoxia,MESH:D000860,3,Propofol|Propylthiouracil|Sevoflurane,0,
+glutathione biosynthetic process,GO:0006750,Hypoxia,MESH:D000860,28,"6-hydroxy-2,5,7,8-tetramethylchroman-2-carboxylic acid|Acetaminophen|acetovanillone|Arsenic Trioxide|Bleomycin|Chloroquine|Chlorpromazine|cobaltous chloride|Copper Sulfate|Deferoxamine|Dietary Fats|Fluorouracil|Gallic Acid|Glucose|Hydrochloric Acid|Hydrogen Peroxide|Indomethacin|Isoproterenol|Lipopolysaccharides|Nicotine|Nimodipine|Oxygen|Phenobarbital|Propylthiouracil|Resveratrol|Taurine|Vitamin E|Zinc Sulfate",0,
+glutathione biosynthetic process,GO:0006750,"Hypoxia, Brain",MESH:D002534,4,cobaltous chloride|Cocaine|Phenytoin|Plant Extracts,0,
+glutathione biosynthetic process,GO:0006750,"Hypoxia-Ischemia, Brain",MESH:D020925,8,caffeic acid phenethyl ester|cobaltous chloride|Cocaine|Dexamethasone|Lipopolysaccharides|Lithium Chloride|Methamphetamine|Oxygen,0,
+glutathione catabolic process,GO:0006751,Hypoxia,MESH:D000860,3,Chloroquine|Dietary Fats|Isoproterenol,0,
+glutathione derivative biosynthetic process,GO:1901687,Fetal Hypoxia,MESH:D005311,1,Ibuprofen,0,
+glutathione derivative biosynthetic process,GO:1901687,Hypoxia,MESH:D000860,6,Acetaminophen|Arsenic Trioxide|Glucose|Hydrogen Peroxide|Resveratrol|Zinc Sulfate,0,
+glutathione derivative biosynthetic process,GO:1901687,"Hypoxia, Brain",MESH:D002534,1,Plant Extracts,0,
+glutathione derivative biosynthetic process,GO:1901687,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Fluoxetine,0,
+glutathione metabolic process,GO:0006749,Fetal Hypoxia,MESH:D005311,2,Ibuprofen|Naproxen,0,
+glutathione metabolic process,GO:0006749,Hypoxia,MESH:D000860,40,"6-hydroxy-2,5,7,8-tetramethylchroman-2-carboxylic acid|Acetaminophen|acetovanillone|Amitriptyline|Arsenic Trioxide|Bleomycin|Chloroquine|cobaltous chloride|Copper Sulfate|Deferoxamine|Deoxyglucose|Dietary Fats|Enalapril|Felbamate|Fluorouracil|Gallic Acid|Glucose|Hydrochloric Acid|Hydrogen Peroxide|Indomethacin|Isoproterenol|Ketamine|Lipopolysaccharides|Mustard Gas|Nicotine|Nimodipine|Oleic Acid|Oxygen|Phenobarbital|Phenylephrine|Propylthiouracil|Resveratrol|Ribavirin|sinapinic acid|Sodium Nitrite|Spironolactone|Taurine|tetrandrine|Verapamil|Vitamin E",1,SOD2
+glutathione metabolic process,GO:0006749,"Hypoxia, Brain",MESH:D002534,5,cobaltous chloride|Edaravone|Etomidate|Phenylephrine|Plant Extracts,0,
+glutathione metabolic process,GO:0006749,"Hypoxia-Ischemia, Brain",MESH:D020925,7,Blood Glucose|caffeic acid phenethyl ester|cobaltous chloride|Dexamethasone|Fluoxetine|Lipopolysaccharides|Oxygen,0,
+glutathione transport,GO:0034635,Hypoxia,MESH:D000860,2,Lipopolysaccharides|Resveratrol,0,
+glutathione transport,GO:0034635,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Lipopolysaccharides,0,
+glyceraldehyde-3-phosphate biosynthetic process,GO:0046166,Hypoxia,MESH:D000860,1,Arsenic Trioxide,2,GAPDH|TKT
+glyceraldehyde-3-phosphate metabolic process,GO:0019682,Hypoxia,MESH:D000860,1,Glucose,1,TKT
+glycerol-3-phosphate metabolic process,GO:0006072,Hypoxia,MESH:D000860,1,Glucose,0,
+glycerol biosynthetic process,GO:0006114,Hypoxia,MESH:D000860,1,Glucose,0,
+glycerol biosynthetic process from pyruvate,GO:0046327,Hypoxia,MESH:D000860,1,Resveratrol,1,PCK2
+glycerol metabolic process,GO:0006071,Hypoxia,MESH:D000860,1,Propofol,0,
+glycerol metabolic process,GO:0006071,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Dexamethasone,0,
+glycerol transmembrane transport,GO:0015793,Hypoxia,MESH:D000860,2,Glucose|Norepinephrine,0,
+glycerol transmembrane transport,GO:0015793,"Hypoxia, Brain",MESH:D002534,1,Plant Extracts,0,
+glycerophospholipid biosynthetic process,GO:0046474,Hypoxia,MESH:D000860,1,Arsenic Trioxide,0,
+glycerophospholipid metabolic process,GO:0006650,Hypoxia,MESH:D000860,3,Dietary Fats|Indomethacin|Lipopolysaccharides,0,
+glycerophospholipid metabolic process,GO:0006650,"Hypoxia, Brain",MESH:D002534,1,Etomidate,0,
+glycerophospholipid metabolic process,GO:0006650,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Lipopolysaccharides,0,
+glycine biosynthetic process,GO:0006545,Hypoxia,MESH:D000860,1,Acetaminophen,1,SARDH
+glycine metabolic process,GO:0006544,Hypoxia,MESH:D000860,1,Isoproterenol,0,
+glycogen biosynthetic process,GO:0005978,Hypoxia,MESH:D000860,7,Arsenic Trioxide|Copper Sulfate|Dietary Fats|Glucose|Lipopolysaccharides|Nicotine|Taurine,0,
+glycogen biosynthetic process,GO:0005978,"Hypoxia, Brain",MESH:D002534,1,Plant Extracts,0,
+glycogen biosynthetic process,GO:0005978,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Lipopolysaccharides,0,
+glycogen catabolic process,GO:0005980,Fetal Hypoxia,MESH:D005311,1,Naproxen,0,
+glycogen catabolic process,GO:0005980,Hypoxia,MESH:D000860,7,Acetaminophen|Alprostadil|Dietary Fats|Diltiazem|Isoproterenol|Norepinephrine|Phenylephrine,0,
+glycogen catabolic process,GO:0005980,"Hypoxia, Brain",MESH:D002534,1,Phenylephrine,0,
+glycogen catabolic process,GO:0005980,"Hypoxia-Ischemia, Brain",MESH:D020925,2,Dexamethasone|Ouabain,0,
+glycogen metabolic process,GO:0005977,Hypoxia,MESH:D000860,2,Dietary Fats|Vitamin E,0,
+glycogen metabolic process,GO:0005977,"Hypoxia, Brain",MESH:D002534,1,Plant Extracts,0,
+glycolipid metabolic process,GO:0006664,Hypoxia,MESH:D000860,1,Glucose,0,
+glycolytic process,GO:0006096,Hypoxia,MESH:D000860,11,Bupivacaine|Deoxyglucose|Dietary Fats|Diltiazem|Glucose|Heparin|Isoproterenol|Lidocaine|Lipopolysaccharides|Nitroprusside|Oxygen,2,ALDOB|GAPDH
+glycolytic process,GO:0006096,"Hypoxia-Ischemia, Brain",MESH:D020925,4,Dexamethasone|Lipopolysaccharides|Ouabain|Oxygen,0,
+glycolytic process through fructose-1-phosphate,GO:0061625,Hypoxia,MESH:D000860,0,,1,ALDOB
+glycolytic process through fructose-6-phosphate,GO:0061615,Hypoxia,MESH:D000860,0,,1,ALDOB
+glycolytic process through glucose-6-phosphate,GO:0061620,Hypoxia,MESH:D000860,1,Glucose,0,
+glycoprotein metabolic process,GO:0009100,"Hypoxia, Brain",MESH:D002534,1,Edaravone,0,
+glycoside metabolic process,GO:0016137,Hypoxia,MESH:D000860,2,Heroin|Isoproterenol,0,
+glycoside metabolic process,GO:0016137,"Hypoxia-Ischemia, Brain",MESH:D020925,0,,1,NOS2
+glycosylation,GO:0070085,Hypoxia,MESH:D000860,2,Glucose|Vitamin E,0,
+glycosylation,GO:0070085,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Dexamethasone,0,
+GMP salvage,GO:0032263,Hypoxia,MESH:D000860,0,,1,ADK
+Golgi organization,GO:0007030,Hypoxia,MESH:D000860,2,Chloroquine|Taurine,0,
+G protein-coupled acetylcholine receptor signaling pathway,GO:0007213,Hypoxia,MESH:D000860,1,Dietary Fats,0,
+G protein-coupled receptor signaling pathway,GO:0007186,Hypoxia,MESH:D000860,0,,2,APOA1|GNAS
+G protein-coupled receptor signaling pathway coupled to cGMP nucleotide second messenger,GO:0007199,"Hypoxia-Ischemia, Brain",MESH:D020925,0,,1,NOS2
+"G protein-coupled receptor signaling pathway, coupled to cyclic nucleotide second messenger",GO:0007187,Hypoxia,MESH:D000860,0,,1,ESD
+granulocyte differentiation,GO:0030851,Hypoxia,MESH:D000860,1,Arsenic Trioxide,0,
+granulocyte migration,GO:0097530,Hypoxia,MESH:D000860,1,Bleomycin,0,
+granulosa cell development,GO:0060016,Hypoxia,MESH:D000860,1,Spironolactone,0,
+granulosa cell proliferation,GO:1990739,Hypoxia,MESH:D000860,1,Nicotine,0,
+gravitaxis,GO:0042332,Hypoxia,MESH:D000860,1,Taurine,0,
+grooming behavior,GO:0007625,Hypoxia,MESH:D000860,7,Diazepam|Flumazenil|Ketamine|Morphine|Nicotine|Taurine|Zinc Sulfate,0,
+grooming behavior,GO:0007625,"Hypoxia, Brain",MESH:D002534,1,Morphine,0,
+growth,GO:0040007,Hypoxia,MESH:D000860,4,Gemcitabine|Lipopolysaccharides|Propofol|Sevoflurane,0,
+growth,GO:0040007,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Lipopolysaccharides,0,
+GTP biosynthetic process,GO:0006183,Hypoxia,MESH:D000860,0,,1,NME1
+guanine metabolic process,GO:0046098,Hypoxia,MESH:D000860,1,Isoproterenol,0,
+habituation,GO:0046959,Hypoxia,MESH:D000860,2,Acetaminophen|Nicotine,0,
+hair follicle morphogenesis,GO:0031069,Hypoxia,MESH:D000860,1,Oxygen,0,
+hair follicle morphogenesis,GO:0031069,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Oxygen,0,
+hair follicle placode formation,GO:0060789,Hypoxia,MESH:D000860,0,,1,GNAS
+hatching,GO:0035188,Hypoxia,MESH:D000860,1,Propofol,0,
+hatching,GO:0035188,"Hypoxia, Brain",MESH:D002534,1,Plant Extracts,0,
+head development,GO:0060322,Fetal Hypoxia,MESH:D005311,1,Ibuprofen,0,
+head development,GO:0060322,Hypoxia,MESH:D000860,0,,1,ACADVL
+head development,GO:0060322,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Dexamethasone,0,
+heart contraction,GO:0060047,Hypoxia,MESH:D000860,5,Bupivacaine|Isoproterenol|Nicotine|Oxygen|Verapamil,0,
+heart contraction,GO:0060047,"Hypoxia-Ischemia, Brain",MESH:D020925,2,Ouabain|Oxygen,0,
+heart development,GO:0007507,Hypoxia,MESH:D000860,2,Isoproterenol|Resveratrol,4,ALDH1L1|CS|NPPA|SOD2
+heart development,GO:0007507,"Hypoxia-Ischemia, Brain",MESH:D020925,0,,1,HIF1A
+heart formation,GO:0060914,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Lithium Chloride,0,
+heart looping,GO:0001947,"Hypoxia-Ischemia, Brain",MESH:D020925,0,,1,HIF1A
+heart morphogenesis,GO:0003007,Hypoxia,MESH:D000860,0,,1,SOD2
+heart morphogenesis,GO:0003007,"Hypoxia-Ischemia, Brain",MESH:D020925,0,,1,VEGFA
+heat acclimation,GO:0010286,Hypoxia,MESH:D000860,2,Morphine|Resveratrol,1,DAF-2
+heat acclimation,GO:0010286,"Hypoxia, Brain",MESH:D002534,1,Morphine,0,
+heat generation,GO:0031649,"Hypoxia-Ischemia, Brain",MESH:D020925,2,caffeic acid phenethyl ester|Methamphetamine,0,
+helper T cell enhancement of B cell mediated immune response,GO:0035399,Hypoxia,MESH:D000860,1,Mustard Gas,0,
+hematopoietic stem cell differentiation,GO:0060218,Hypoxia,MESH:D000860,2,Deferoxamine|Resveratrol,1,NOS1
+heme B catabolic process,GO:1900548,Hypoxia,MESH:D000860,1,Sodium Nitrite,0,
+heme catabolic process,GO:0042167,"Hypoxia, Brain",MESH:D002534,1,Carbon Monoxide,0,
+heme metabolic process,GO:0042168,Hypoxia,MESH:D000860,2,Indomethacin|Phenobarbital,0,
+hemoglobin biosynthetic process,GO:0042541,Hypoxia,MESH:D000860,2,Gallic Acid|Sodium Nitrite,0,
+hemoglobin biosynthetic process,GO:0042541,"Hypoxia, Brain",MESH:D002534,1,Plant Extracts,0,
+hemoglobin biosynthetic process,GO:0042541,"Hypoxia-Ischemia, Brain",MESH:D020925,0,,1,HIF1A
+hemoglobin metabolic process,GO:0020027,Hypoxia,MESH:D000860,3,Indomethacin|Lipopolysaccharides|Sodium Nitrite,0,
+hemoglobin metabolic process,GO:0020027,"Hypoxia, Brain",MESH:D002534,1,Carbon Monoxide,0,
+hemoglobin metabolic process,GO:0020027,"Hypoxia-Ischemia, Brain",MESH:D020925,2,caffeic acid phenethyl ester|Lipopolysaccharides,0,
+hemopoiesis,GO:0030097,Hypoxia,MESH:D000860,2,Gallic Acid|Resveratrol,1,SOD2
+hepatic stellate cell activation,GO:0035733,Hypoxia,MESH:D000860,1,Dietary Fats,0,
+hepatocyte differentiation,GO:0070365,Hypoxia,MESH:D000860,1,Fluorouracil,1,PCK2
+hepatocyte differentiation,GO:0070365,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Dexamethasone,0,
+hepatocyte homeostasis,GO:0036333,Hypoxia,MESH:D000860,1,Acetaminophen,0,
+heterocycle metabolic process,GO:0046483,Hypoxia,MESH:D000860,2,Indomethacin|Ribavirin,0,
+heterocycle metabolic process,GO:0046483,"Hypoxia, Brain",MESH:D002534,1,Edaravone,0,
+heterotypic cell-cell adhesion,GO:0034113,Hypoxia,MESH:D000860,3,Chloroquine|Hydrogen Peroxide|Lipopolysaccharides,0,
+heterotypic cell-cell adhesion,GO:0034113,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Lipopolysaccharides,0,
+hexokinase-dependent signaling,GO:0009747,Hypoxia,MESH:D000860,1,Taurine,0,
+hexose biosynthetic process,GO:0019319,Hypoxia,MESH:D000860,1,Taurine,0,
+hexose metabolic process,GO:0019318,Hypoxia,MESH:D000860,1,Zinc Sulfate,0,
+hexose transmembrane transport,GO:0008645,Hypoxia,MESH:D000860,1,Resveratrol,0,
+high-density lipoprotein particle assembly,GO:0034380,Hypoxia,MESH:D000860,0,,1,APOA1
+high-density lipoprotein particle clearance,GO:0034384,Hypoxia,MESH:D000860,0,,1,APOA1
+high-density lipoprotein particle remodeling,GO:0034375,Hypoxia,MESH:D000860,0,,1,APOA1
+hippocampal neuron apoptotic process,GO:0110088,Hypoxia,MESH:D000860,1,Sevoflurane,0,
+hippocampus development,GO:0021766,Hypoxia,MESH:D000860,1,Sevoflurane,1,NME1
+histamine biosynthetic process,GO:0001694,Hypoxia,MESH:D000860,1,Bleomycin,0,
+histamine metabolic process,GO:0001692,Hypoxia,MESH:D000860,2,Indomethacin|Lipopolysaccharides,0,
+histamine metabolic process,GO:0001692,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Lipopolysaccharides,0,
+histamine secretion,GO:0001821,Hypoxia,MESH:D000860,3,Dietary Fats|iopromide|Resveratrol,0,
+histamine secretion,GO:0001821,"Hypoxia, Brain",MESH:D002534,1,Plant Extracts,0,
+histamine secretion by mast cell,GO:0002553,"Hypoxia, Brain",MESH:D002534,1,Plant Extracts,0,
+histamine secretion involved in inflammatory response,GO:0002441,Hypoxia,MESH:D000860,1,Bleomycin,0,
+histamine secretion involved in inflammatory response,GO:0002441,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Dexamethasone,0,
+histamine secretion mediated by immunoglobulin,GO:0097280,Hypoxia,MESH:D000860,22,Alprostadil|Codeine|Deferoxamine|Deoxyglucose|Fentanyl|Flunitrazepam|Gallic Acid|Glucose|Heparin|Indomethacin|Isoproterenol|Lidocaine|Lipopolysaccharides|Morphine|Naloxone|Nimodipine|Nitrendipine|Norepinephrine|Potassium Cyanide|Terbutaline|Vecuronium Bromide|Vitamin E,0,
+histamine secretion mediated by immunoglobulin,GO:0097280,"Hypoxia, Brain",MESH:D002534,1,Morphine,0,
+histamine secretion mediated by immunoglobulin,GO:0097280,"Hypoxia-Ischemia, Brain",MESH:D020925,3,Dexamethasone|Lipopolysaccharides|Ouabain,0,
+histone arginine methylation,GO:0034969,Hypoxia,MESH:D000860,1,Ribavirin,0,
+histone H2B conserved C-terminal lysine ubiquitination,GO:0071894,Hypoxia,MESH:D000860,1,Dietary Fats,0,
+histone H3 acetylation,GO:0043966,Hypoxia,MESH:D000860,10,Arsenic Trioxide|Chloroquine|Dietary Fats|Glucose|Hydrogen Peroxide|Isoproterenol|Lipopolysaccharides|Morphine|Oxygen|Resveratrol,0,
+histone H3 acetylation,GO:0043966,"Hypoxia, Brain",MESH:D002534,1,Morphine,0,
+histone H3 acetylation,GO:0043966,"Hypoxia-Ischemia, Brain",MESH:D020925,4,Dexamethasone|Fluoxetine|Lipopolysaccharides|Oxygen,0,
+histone H3-K14 acetylation,GO:0044154,Hypoxia,MESH:D000860,5,Hydrogen Peroxide|Lipopolysaccharides|Nicotine|Phenylephrine|Resveratrol,0,
+histone H3-K14 acetylation,GO:0044154,"Hypoxia, Brain",MESH:D002534,1,Phenylephrine,0,
+histone H3-K14 acetylation,GO:0044154,"Hypoxia-Ischemia, Brain",MESH:D020925,2,Dexamethasone|Lipopolysaccharides,0,
+histone H3-K18 acetylation,GO:0043971,Hypoxia,MESH:D000860,3,Dietary Fats|Hydrogen Peroxide|Phenobarbital,0,
+histone H3-K23 acetylation,GO:0043972,Hypoxia,MESH:D000860,2,Dietary Fats|Lipopolysaccharides,0,
+histone H3-K23 acetylation,GO:0043972,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Lipopolysaccharides,0,
+histone H3-K27 acetylation,GO:0043974,Hypoxia,MESH:D000860,3,Nicotine|Resveratrol|Vecuronium Bromide,0,
+histone H3-K27 acetylation,GO:0043974,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Dexamethasone,0,
+histone H3-K27 trimethylation,GO:0098532,Fetal Hypoxia,MESH:D005311,1,Ibuprofen,0,
+histone H3-K27 trimethylation,GO:0098532,Hypoxia,MESH:D000860,5,Acetaminophen|Dietary Fats|Heroin|Morphine|Resveratrol,0,
+histone H3-K27 trimethylation,GO:0098532,"Hypoxia, Brain",MESH:D002534,1,Morphine,0,
+histone H3-K36 dimethylation,GO:0097676,Hypoxia,MESH:D000860,2,Dietary Fats|Lipopolysaccharides,0,
+histone H3-K36 dimethylation,GO:0097676,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Lipopolysaccharides,0,
+histone H3-K36 trimethylation,GO:0097198,Hypoxia,MESH:D000860,1,Deferoxamine,0,
+histone H3-K4 demethylation,GO:0034720,Hypoxia,MESH:D000860,1,Oxygen,0,
+histone H3-K4 demethylation,GO:0034720,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Oxygen,0,
+histone H3-K4 dimethylation,GO:0044648,Hypoxia,MESH:D000860,4,Deferoxamine|Glucose|Morphine|Sodium Nitrite,0,
+histone H3-K4 dimethylation,GO:0044648,"Hypoxia, Brain",MESH:D002534,1,Morphine,0,
+histone H3-K4 methylation,GO:0051568,Hypoxia,MESH:D000860,1,Glucose,0,
+histone H3-K4 monomethylation,GO:0097692,Hypoxia,MESH:D000860,2,Glucose|Hydrogen Peroxide,0,
+histone H3-K4 trimethylation,GO:0080182,Hypoxia,MESH:D000860,6,Acetaminophen|Deferoxamine|Glucose|Hydrogen Peroxide|Morphine|Phenobarbital,0,
+histone H3-K4 trimethylation,GO:0080182,"Hypoxia, Brain",MESH:D002534,1,Morphine,0,
+histone H3-K9 acetylation,GO:0043970,Hypoxia,MESH:D000860,8,Acetaminophen|Bleomycin|Deferoxamine|Hydrogen Peroxide|Nicotine|Phenylephrine|Resveratrol|Vecuronium Bromide,0,
+histone H3-K9 acetylation,GO:0043970,"Hypoxia, Brain",MESH:D002534,2,Phenylephrine|Plant Extracts,0,
+histone H3-K9 acetylation,GO:0043970,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Dexamethasone,0,
+histone H3-K9 deacetylation,GO:1990619,Hypoxia,MESH:D000860,1,Oxygen,0,
+histone H3-K9 deacetylation,GO:1990619,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Oxygen,0,
+histone H3-K9 dimethylation,GO:0036123,Fetal Hypoxia,MESH:D005311,1,Nitric Oxide,0,
+histone H3-K9 dimethylation,GO:0036123,Hypoxia,MESH:D000860,3,Deferoxamine|Morphine|Nitric Oxide,0,
+histone H3-K9 dimethylation,GO:0036123,"Hypoxia, Brain",MESH:D002534,1,Morphine,0,
+histone H3-K9 methylation,GO:0051567,Fetal Hypoxia,MESH:D005311,1,Nitric Oxide,0,
+histone H3-K9 methylation,GO:0051567,Hypoxia,MESH:D000860,2,Glucose|Nitric Oxide,0,
+histone H3-K9 trimethylation,GO:0036124,Hypoxia,MESH:D000860,1,Deferoxamine,0,
+histone H3-R17 methylation,GO:0034971,Hypoxia,MESH:D000860,1,Ribavirin,0,
+histone H3-R2 methylation,GO:0034970,"Hypoxia, Brain",MESH:D002534,1,Cocaine,0,
+histone H3-R2 methylation,GO:0034970,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Cocaine,0,
+histone H4 acetylation,GO:0043967,Hypoxia,MESH:D000860,3,Arsenic Trioxide|Morphine|Oxygen,0,
+histone H4 acetylation,GO:0043967,"Hypoxia, Brain",MESH:D002534,1,Morphine,0,
+histone H4 acetylation,GO:0043967,"Hypoxia-Ischemia, Brain",MESH:D020925,2,Dexamethasone|Oxygen,0,
+histone H4-K16 deacetylation,GO:1990678,Hypoxia,MESH:D000860,1,Dietary Fats,0,
+histone H4-K20 trimethylation,GO:0034773,Hypoxia,MESH:D000860,1,Hydrogen Peroxide,0,
+histone H4-R3 methylation,GO:0043985,Hypoxia,MESH:D000860,1,Ribavirin,0,
+homeostasis of number of cells,GO:0048872,Hypoxia,MESH:D000860,3,Deferoxamine|Indomethacin|Sodium Nitrite,0,
+homeostasis of number of cells,GO:0048872,"Hypoxia-Ischemia, Brain",MESH:D020925,3,caffeic acid phenethyl ester|Lithium Chloride|Methamphetamine,0,
+homeostasis of number of cells within a tissue,GO:0048873,Hypoxia,MESH:D000860,0,,1,NOS3
+homeostasis of number of cells within a tissue,GO:0048873,"Hypoxia-Ischemia, Brain",MESH:D020925,0,,1,VEGFA
+homocysteine biosynthetic process,GO:0071268,Hypoxia,MESH:D000860,2,Arsenic Trioxide|Phenylephrine,0,
+homocysteine biosynthetic process,GO:0071268,"Hypoxia, Brain",MESH:D002534,1,Phenylephrine,0,
+homocysteine metabolic process,GO:0050667,Hypoxia,MESH:D000860,3,Dietary Fats|Isoproterenol|Propylthiouracil,0,
+homologous chromosome orientation involved in meiotic metaphase I plate congression,GO:0031619,Hypoxia,MESH:D000860,2,Lipopolysaccharides|Resveratrol,0,
+homologous chromosome orientation involved in meiotic metaphase I plate congression,GO:0031619,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Lipopolysaccharides,0,
+homologous recombination,GO:0035825,Hypoxia,MESH:D000860,1,Hydrogen Peroxide,0,
+hormone metabolic process,GO:0042445,Hypoxia,MESH:D000860,1,Lipopolysaccharides,0,
+hormone metabolic process,GO:0042445,"Hypoxia-Ischemia, Brain",MESH:D020925,2,Dexamethasone|Lipopolysaccharides,0,
+host-mediated regulation of intestinal microbiota composition,GO:0048874,Hypoxia,MESH:D000860,4,Arsenic Trioxide|Copper Sulfate|Dietary Fats|Lipopolysaccharides,0,
+host-mediated regulation of intestinal microbiota composition,GO:0048874,"Hypoxia-Ischemia, Brain",MESH:D020925,2,Lipopolysaccharides|Methamphetamine,0,
+HRI-mediated signaling,GO:0140468,Hypoxia,MESH:D000860,0,,1,ATF4
+hydrocarbon metabolic process,GO:0120252,Hypoxia,MESH:D000860,3,Ketamine|Ribavirin|Taurine,0,
+hydrogen peroxide biosynthetic process,GO:0050665,Fetal Hypoxia,MESH:D005311,1,Nitric Oxide,0,
+hydrogen peroxide biosynthetic process,GO:0050665,Hypoxia,MESH:D000860,15,acetovanillone|Arsenic Trioxide|cobaltous chloride|Dietary Fats|Fluorouracil|Gallic Acid|Glucose|Hydrogen Peroxide|Isoproterenol|Lipopolysaccharides|Nitric Oxide|Oxygen|Propofol|Resveratrol|Taurine,1,SOD2
+hydrogen peroxide biosynthetic process,GO:0050665,"Hypoxia, Brain",MESH:D002534,2,cobaltous chloride|Plant Extracts,0,
+hydrogen peroxide biosynthetic process,GO:0050665,"Hypoxia-Ischemia, Brain",MESH:D020925,3,cobaltous chloride|Lipopolysaccharides|Oxygen,0,
+hydrogen peroxide catabolic process,GO:0042744,Hypoxia,MESH:D000860,1,Hydrogen Peroxide,1,MPO
+hydrogen peroxide metabolic process,GO:0042743,Fetal Hypoxia,MESH:D005311,1,Nitric Oxide,0,
+hydrogen peroxide metabolic process,GO:0042743,Hypoxia,MESH:D000860,8,Acetaminophen|Arsenic Trioxide|cobaltous chloride|Dietary Fats|Hydrogen Peroxide|Nitric Oxide|Resveratrol|Vitamin E,1,SOD2
+hydrogen peroxide metabolic process,GO:0042743,"Hypoxia, Brain",MESH:D002534,1,cobaltous chloride,0,
+hydrogen peroxide metabolic process,GO:0042743,"Hypoxia-Ischemia, Brain",MESH:D020925,1,cobaltous chloride,0,
+hydrogen sulfide biosynthetic process,GO:0070814,Hypoxia,MESH:D000860,2,Glucose|Isoproterenol,0,
+hydroperoxide metabolic process,GO:2001290,Hypoxia,MESH:D000860,1,Hydrogen Peroxide,0,
+hypermethylation of CpG island,GO:0044027,Hypoxia,MESH:D000860,2,Nicotine|Resveratrol,0,
+hypochlorous acid biosynthetic process,GO:0002149,Hypoxia,MESH:D000860,0,,1,MPO
+hypomethylation of CpG island,GO:0044029,Hypoxia,MESH:D000860,2,Arsenic Trioxide|Oxygen,1,EGR1
+hypomethylation of CpG island,GO:0044029,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Oxygen,0,
+hypotonic response,GO:0006971,Hypoxia,MESH:D000860,1,Taurine,0,
+hypoxanthine metabolic process,GO:0046100,Hypoxia,MESH:D000860,2,Indomethacin|Ribavirin,0,
+hypoxia-inducible factor-1alpha signaling pathway,GO:0097411,"Hypoxia-Ischemia, Brain",MESH:D020925,0,,1,HIF1A
+icosanoid biosynthetic process,GO:0046456,Hypoxia,MESH:D000860,1,Oxygen,0,
+icosanoid biosynthetic process,GO:0046456,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Oxygen,0,
+icosanoid secretion,GO:0032309,Hypoxia,MESH:D000860,1,Lipopolysaccharides,0,
+icosanoid secretion,GO:0032309,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Lipopolysaccharides,0,
+I-kappaB kinase/NF-kappaB signaling,GO:0007249,Hypoxia,MESH:D000860,1,Lipopolysaccharides,0,
+I-kappaB kinase/NF-kappaB signaling,GO:0007249,"Hypoxia, Brain",MESH:D002534,1,Plant Extracts,0,
+I-kappaB kinase/NF-kappaB signaling,GO:0007249,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Lipopolysaccharides,1,IRAK1
+I-kappaB phosphorylation,GO:0007252,Hypoxia,MESH:D000860,2,Lipopolysaccharides|Resveratrol,0,
+I-kappaB phosphorylation,GO:0007252,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Lipopolysaccharides,0,
+immune response-regulating cell surface receptor signaling pathway involved in phagocytosis,GO:0002433,Hypoxia,MESH:D000860,1,Isoflurane,0,
+immune system process,GO:0002376,"Hypoxia-Ischemia, Brain",MESH:D020925,0,,1,IRAK4
+immunoglobulin production involved in immunoglobulin-mediated immune response,GO:0002381,"Hypoxia, Brain",MESH:D002534,1,Plant Extracts,0,
+immunoglobulin production involved in immunoglobulin-mediated immune response,GO:0002381,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Dexamethasone,0,
+import across plasma membrane,GO:0098739,Hypoxia,MESH:D000860,1,Heparin,0,
+import into cell,GO:0098657,Hypoxia,MESH:D000860,5,Chloroquine|Chlorpromazine|Glucose|Lipopolysaccharides|Phenobarbital,0,
+import into cell,GO:0098657,"Hypoxia-Ischemia, Brain",MESH:D020925,2,Lipopolysaccharides|Methamphetamine,0,
+import into nucleus,GO:0051170,Hypoxia,MESH:D000860,1,Lipopolysaccharides,0,
+import into nucleus,GO:0051170,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Lipopolysaccharides,0,
+indole metabolic process,GO:0042431,Hypoxia,MESH:D000860,3,Indican|indole|Indomethacin,0,
+induction by virus of host apoptotic process,GO:0019051,"Hypoxia-Ischemia, Brain",MESH:D020925,2,Digitoxin|Ouabain,0,
+induction of positive chemotaxis,GO:0050930,"Hypoxia-Ischemia, Brain",MESH:D020925,0,,1,VEGFA
+inflammasome complex assembly,GO:0140632,Hypoxia,MESH:D000860,1,Lipopolysaccharides,0,
+inflammasome complex assembly,GO:0140632,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Lipopolysaccharides,0,
+inflammatory response,GO:0006954,Fetal Hypoxia,MESH:D005311,1,Nitric Oxide,0,
+inflammatory response,GO:0006954,Hypoxia,MESH:D000860,20,Acetaminophen|Arsenic Trioxide|Bleomycin|Copper Sulfate|Dietary Fats|Gallic Acid|Indomethacin|iopromide|Isoproterenol|Lipopolysaccharides|Morphine|Nicotine|Nitric Oxide|Oleic Acid|Oxygen|Propylthiouracil|Resveratrol|Sevoflurane|Sodium Nitrite|Verapamil,0,
+inflammatory response,GO:0006954,"Hypoxia, Brain",MESH:D002534,3,Carbon Monoxide|Morphine|Plant Extracts,0,
+inflammatory response,GO:0006954,"Hypoxia-Ischemia, Brain",MESH:D020925,5,caffeic acid phenethyl ester|Dexamethasone|Lipopolysaccharides|Methamphetamine|Oxygen,1,NOS2
+inflammatory response to antigenic stimulus,GO:0002437,Hypoxia,MESH:D000860,1,Resveratrol,0,
+inflammatory response to antigenic stimulus,GO:0002437,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Dexamethasone,0,
+inhibitory postsynaptic potential,GO:0060080,Hypoxia,MESH:D000860,5,Chlorpromazine|Diazepam|Isoflurane|Nicotine|Propofol,1,BDNF
+inhibitory postsynaptic potential,GO:0060080,"Hypoxia, Brain",MESH:D002534,3,Baclofen|Cocaine|Zolpidem,0,
+inhibitory postsynaptic potential,GO:0060080,"Hypoxia-Ischemia, Brain",MESH:D020925,2,Cocaine|Fluoxetine,0,
+initiation of primordial ovarian follicle growth,GO:0001544,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Dexamethasone,0,
+innate immune response,GO:0045087,Hypoxia,MESH:D000860,1,Lipopolysaccharides,3,DAF-2|GAPDH|SOD2
+innate immune response,GO:0045087,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Lipopolysaccharides,2,IRAK1|IRAK4
+innate immune response in mucosa,GO:0002227,"Hypoxia-Ischemia, Brain",MESH:D020925,0,,1,NOS2
+inner cell mass cell proliferation,GO:0001833,Hypoxia,MESH:D000860,1,Resveratrol,0,
+inner ear development,GO:0048839,Hypoxia,MESH:D000860,0,,1,BDNF
+innervation,GO:0060384,Hypoxia,MESH:D000860,1,Nicotine,0,
+inorganic cation import across plasma membrane,GO:0098659,Hypoxia,MESH:D000860,3,acetovanillone|Hydrogen Peroxide|Resveratrol,0,
+inorganic cation transmembrane transport,GO:0098662,Fetal Hypoxia,MESH:D005311,1,Nitric Oxide,0,
+inorganic cation transmembrane transport,GO:0098662,Hypoxia,MESH:D000860,2,Nitric Oxide|Nitroprusside,0,
+inosine metabolic process,GO:0046102,Hypoxia,MESH:D000860,1,Ribavirin,0,
+inositol metabolic process,GO:0006020,Hypoxia,MESH:D000860,2,Dietary Fats|Vitamin E,0,
+insecticide metabolic process,GO:0017143,Hypoxia,MESH:D000860,1,Dietary Fats,0,
+insulin-like growth factor receptor signaling pathway,GO:0048009,Hypoxia,MESH:D000860,1,Dietary Fats,0,
+insulin metabolic process,GO:1901142,Hypoxia,MESH:D000860,5,Dietary Fats|Gallic Acid|Propylthiouracil|Resveratrol|Taurine,0,
+insulin metabolic process,GO:1901142,"Hypoxia, Brain",MESH:D002534,1,Plant Extracts,0,
+insulin processing,GO:0030070,Hypoxia,MESH:D000860,1,Dietary Fats,0,
+insulin receptor internalization,GO:0038016,Hypoxia,MESH:D000860,1,Glucose,0,
+insulin receptor signaling pathway,GO:0008286,Hypoxia,MESH:D000860,0,,1,DAF-2
+insulin receptor signaling pathway via phosphatidylinositol 3-kinase,GO:0038028,Hypoxia,MESH:D000860,1,Verapamil,0,
+insulin secretion,GO:0030073,Hypoxia,MESH:D000860,1,Dietary Fats,0,
+insulin secretion,GO:0030073,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Fluoxetine,0,
+insulin secretion involved in cellular response to glucose stimulus,GO:0035773,"Hypoxia-Ischemia, Brain",MESH:D020925,0,,1,HIF1A
+integrated stress response signaling,GO:0140467,Hypoxia,MESH:D000860,0,,1,ATF4
+integrin-mediated signaling pathway,GO:0007229,Hypoxia,MESH:D000860,0,,1,APOA1
+interferon-mediated signaling pathway,GO:0140888,Hypoxia,MESH:D000860,1,Nicotine,0,
+interleukin-10 production,GO:0032613,Hypoxia,MESH:D000860,2,Acetaminophen|Lipopolysaccharides,0,
+interleukin-10 production,GO:0032613,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Lipopolysaccharides,0,
+interleukin-12 production,GO:0032615,Hypoxia,MESH:D000860,1,Lipopolysaccharides,0,
+interleukin-12 production,GO:0032615,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Lipopolysaccharides,0,
+interleukin-17 production,GO:0032620,Hypoxia,MESH:D000860,1,Lipopolysaccharides,0,
+interleukin-17 production,GO:0032620,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Lipopolysaccharides,0,
+interleukin-1 beta production,GO:0032611,Hypoxia,MESH:D000860,1,Lipopolysaccharides,0,
+interleukin-1 beta production,GO:0032611,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Lipopolysaccharides,0,
+interleukin-1-mediated signaling pathway,GO:0070498,Hypoxia,MESH:D000860,0,,1,EGR1
+interleukin-1-mediated signaling pathway,GO:0070498,"Hypoxia-Ischemia, Brain",MESH:D020925,0,,2,IRAK1|IRAK4
+interleukin-1 production,GO:0032612,Hypoxia,MESH:D000860,1,Lipopolysaccharides,0,
+interleukin-1 production,GO:0032612,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Lipopolysaccharides,0,
+interleukin-23 production,GO:0032627,Hypoxia,MESH:D000860,1,Lipopolysaccharides,0,
+interleukin-23 production,GO:0032627,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Lipopolysaccharides,0,
+interleukin-27 production,GO:0032631,Hypoxia,MESH:D000860,1,Lipopolysaccharides,0,
+interleukin-27 production,GO:0032631,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Lipopolysaccharides,0,
+interleukin-2 production,GO:0032623,Hypoxia,MESH:D000860,1,Lipopolysaccharides,0,
+interleukin-2 production,GO:0032623,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Lipopolysaccharides,0,
+interleukin-33-mediated signaling pathway,GO:0038172,"Hypoxia-Ischemia, Brain",MESH:D020925,0,,2,IRAK1|IRAK4
+interleukin-4 production,GO:0032633,Hypoxia,MESH:D000860,1,cobaltous chloride,0,
+interleukin-4 production,GO:0032633,"Hypoxia, Brain",MESH:D002534,1,cobaltous chloride,0,
+interleukin-4 production,GO:0032633,"Hypoxia-Ischemia, Brain",MESH:D020925,1,cobaltous chloride,0,
+interleukin-6 production,GO:0032635,Hypoxia,MESH:D000860,6,Acetaminophen|Arsenic Trioxide|Chloroquine|cobaltous chloride|Ketamine|Lipopolysaccharides,0,
+interleukin-6 production,GO:0032635,"Hypoxia, Brain",MESH:D002534,1,cobaltous chloride,0,
+interleukin-6 production,GO:0032635,"Hypoxia-Ischemia, Brain",MESH:D020925,2,cobaltous chloride|Lipopolysaccharides,0,
+intestinal absorption,GO:0050892,Hypoxia,MESH:D000860,1,Dietary Fats,0,
+intestinal epithelial cell differentiation,GO:0060575,Hypoxia,MESH:D000860,1,Arsenic Trioxide,0,
+intestinal epithelial cell maturation,GO:0060574,"Hypoxia-Ischemia, Brain",MESH:D020925,0,,1,HIF1A
+intestinal epithelial structure maintenance,GO:0060729,Hypoxia,MESH:D000860,4,Arsenic Trioxide|Dietary Fats|Lipopolysaccharides|Oxygen,0,
+intestinal epithelial structure maintenance,GO:0060729,"Hypoxia-Ischemia, Brain",MESH:D020925,4,Blood Glucose|Lipopolysaccharides|Methamphetamine|Oxygen,0,
+intestinal motility,GO:0120054,Hypoxia,MESH:D000860,3,Morphine|Nicotine|Oxygen,0,
+intestinal motility,GO:0120054,"Hypoxia, Brain",MESH:D002534,1,Morphine,0,
+intestinal motility,GO:0120054,"Hypoxia-Ischemia, Brain",MESH:D020925,3,Blood Glucose|Fluoxetine|Oxygen,0,
+intestine smooth muscle contraction,GO:0014827,Hypoxia,MESH:D000860,1,Verapamil,0,
+intracellular distribution of mitochondria,GO:0048312,Hypoxia,MESH:D000860,1,Sodium Nitrite,0,
+intracellular pH elevation,GO:0051454,Hypoxia,MESH:D000860,1,Chloroquine,0,
+intracellular pH reduction,GO:0051452,Hypoxia,MESH:D000860,3,Arsenic Trioxide|Glucose|Hydrochloric Acid,0,
+intracellular sequestering of iron ion,GO:0006880,Hypoxia,MESH:D000860,1,Acetaminophen,0,
+intracellular signal transduction,GO:0035556,"Hypoxia-Ischemia, Brain",MESH:D020925,0,,2,IRAK1|NOS2
+intracellular transport,GO:0046907,Hypoxia,MESH:D000860,0,,1,GNAS
+intracellular transport of virus,GO:0075733,Hypoxia,MESH:D000860,1,Chloroquine,0,
+intrahepatic bile duct development,GO:0035622,Hypoxia,MESH:D000860,1,Taurine,0,
+intrinsic apoptotic signaling pathway,GO:0097193,"Hypoxia, Brain",MESH:D002534,1,Plant Extracts,0,
+intrinsic apoptotic signaling pathway in response to DNA damage,GO:0008630,Hypoxia,MESH:D000860,0,,1,SOD2
+intrinsic apoptotic signaling pathway in response to endoplasmic reticulum stress,GO:0070059,Hypoxia,MESH:D000860,1,Arsenic Trioxide,1,ATF4
+intrinsic apoptotic signaling pathway in response to endoplasmic reticulum stress,GO:0070059,"Hypoxia, Brain",MESH:D002534,0,,1,ITPR1
+intrinsic apoptotic signaling pathway in response to oxidative stress,GO:0008631,Hypoxia,MESH:D000860,1,Hydrogen Peroxide,1,SOD2
+intrinsic apoptotic signaling pathway in response to oxidative stress,GO:0008631,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Lithium Chloride,0,
+in utero embryonic development,GO:0001701,Hypoxia,MESH:D000860,0,,1,NOS3
+in utero embryonic development,GO:0001701,"Hypoxia-Ischemia, Brain",MESH:D020925,0,,1,VEGFA
+"ion channel modulating, G protein-coupled receptor signaling pathway",GO:0099105,"Hypoxia, Brain",MESH:D002534,0,,1,ITPR1
+iris morphogenesis,GO:0061072,"Hypoxia-Ischemia, Brain",MESH:D020925,0,,1,HIF1A
+iron import into cell,GO:0033212,Hypoxia,MESH:D000860,3,acetovanillone|Dietary Fats|Resveratrol,0,
+iron import into the mitochondrion,GO:0048250,"Hypoxia-Ischemia, Brain",MESH:D020925,0,,1,HIF1A
+iron ion export across plasma membrane,GO:1903988,Hypoxia,MESH:D000860,2,Chloroquine|Deferoxamine,0,
+iron ion homeostasis,GO:0055072,Hypoxia,MESH:D000860,6,Acetaminophen|Chloroquine|Deferoxamine|Dietary Fats|Lipopolysaccharides|Oxygen,0,
+iron ion homeostasis,GO:0055072,"Hypoxia-Ischemia, Brain",MESH:D020925,2,Lipopolysaccharides|Oxygen,0,
+iron ion transport,GO:0006826,Hypoxia,MESH:D000860,4,Deferoxamine|Diltiazem|Nimodipine|Verapamil,0,
+isocitrate metabolic process,GO:0006102,Hypoxia,MESH:D000860,2,Copper Sulfate|Isoproterenol,0,
+isoleucine biosynthetic process,GO:0009097,Hypoxia,MESH:D000860,2,Dietary Fats|Phenobarbital,0,
+isoleucine metabolic process,GO:0006549,Hypoxia,MESH:D000860,1,Propofol,0,
+JNK cascade,GO:0007254,Hypoxia,MESH:D000860,2,Arsenic Trioxide|Resveratrol,0,
+JNK cascade,GO:0007254,"Hypoxia, Brain",MESH:D002534,1,Plant Extracts,0,
+JNK cascade,GO:0007254,"Hypoxia-Ischemia, Brain",MESH:D020925,0,,2,IRAK1|IRAK4
+JUN phosphorylation,GO:0007258,Hypoxia,MESH:D000860,1,Lipopolysaccharides,0,
+JUN phosphorylation,GO:0007258,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Lipopolysaccharides,0,
+keratinocyte proliferation,GO:0043616,Hypoxia,MESH:D000860,1,Arsenic Trioxide,0,
+ketone body biosynthetic process,GO:0046951,Hypoxia,MESH:D000860,1,Dietary Fats,0,
+kidney development,GO:0001822,"Hypoxia-Ischemia, Brain",MESH:D020925,0,,1,VEGFA
+killing by host of symbiont cells,GO:0051873,Hypoxia,MESH:D000860,0,,1,GAPDH
+killing of cells of another organism,GO:0031640,Hypoxia,MESH:D000860,0,,2,GAPDH|POMC
+kynurenic acid biosynthetic process,GO:0034276,Hypoxia,MESH:D000860,1,Propylthiouracil,0,
+kynurenic acid metabolic process,GO:0034275,Hypoxia,MESH:D000860,1,Indomethacin,0,
+lactate biosynthetic process,GO:0019249,Hypoxia,MESH:D000860,8,Acetaminophen|Chlorpromazine|Deoxyglucose|Dietary Fats|Glucose|Nicotine|Oxygen|Resveratrol,0,
+lactate biosynthetic process,GO:0019249,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Oxygen,0,
+lactate metabolic process,GO:0006089,Hypoxia,MESH:D000860,9,Acetaminophen|Arsenic Trioxide|Deoxyglucose|Glucose|Lipopolysaccharides|Oxygen|Propofol|Resveratrol|Sevoflurane,0,
+lactate metabolic process,GO:0006089,"Hypoxia-Ischemia, Brain",MESH:D020925,2,Lipopolysaccharides|Oxygen,1,HIF1A
+lactation,GO:0007595,Hypoxia,MESH:D000860,0,,1,NME1
+lactation,GO:0007595,"Hypoxia-Ischemia, Brain",MESH:D020925,0,,2,HIF1A|VEGFA
+lactic acid secretion,GO:0046722,Hypoxia,MESH:D000860,4,Acetaminophen|Dietary Fats|Lipopolysaccharides|Oxygen,0,
+lactic acid secretion,GO:0046722,"Hypoxia-Ischemia, Brain",MESH:D020925,2,Lipopolysaccharides|Oxygen,0,
+lactone metabolic process,GO:1901334,Hypoxia,MESH:D000860,1,Vitamin E,0,
+L-alanine catabolic process,GO:0042853,Hypoxia,MESH:D000860,1,Acetaminophen,0,
+"L-alanine catabolic process, by transamination",GO:0019481,"Hypoxia, Brain",MESH:D002534,1,Plant Extracts,0,
+L-alanine oxidation to D-lactate and ammonia,GO:0019479,Hypoxia,MESH:D000860,1,Glucose,0,
+larval behavior,GO:0030537,Hypoxia,MESH:D000860,1,indole,0,
+larval development,GO:0002164,Hypoxia,MESH:D000860,1,Hydrogen Peroxide,0,
+larval feeding behavior,GO:0030536,Hypoxia,MESH:D000860,0,,1,DAF-2
+larval feeding behavior,GO:0030536,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Fluoxetine,0,
+L-ascorbic acid biosynthetic process,GO:0019853,Hypoxia,MESH:D000860,4,Bleomycin|Dietary Fats|Isoproterenol|Vitamin E,0,
+L-ascorbic acid metabolic process,GO:0019852,Hypoxia,MESH:D000860,5,cobaltous chloride|Hydrogen Peroxide|Indomethacin|Isoproterenol|Resveratrol,0,
+L-ascorbic acid metabolic process,GO:0019852,"Hypoxia, Brain",MESH:D002534,1,cobaltous chloride,0,
+L-ascorbic acid metabolic process,GO:0019852,"Hypoxia-Ischemia, Brain",MESH:D020925,2,caffeic acid phenethyl ester|cobaltous chloride,0,
+L-asparagine metabolic process,GO:0070982,Hypoxia,MESH:D000860,0,,1,ATF4
+lead ion transport,GO:0015692,Hypoxia,MESH:D000860,1,Dietary Fats,0,
+learning,GO:0007612,Hypoxia,MESH:D000860,11,Acetaminophen|Dietary Fats|Glucose|Isoproterenol|Ketamine|Lipopolysaccharides|Nicotine|Propofol|Propylthiouracil|Resveratrol|Sevoflurane,1,BDNF
+learning,GO:0007612,"Hypoxia, Brain",MESH:D002534,2,Carbon Monoxide|Plant Extracts,0,
+learning,GO:0007612,"Hypoxia-Ischemia, Brain",MESH:D020925,2,Lipopolysaccharides|Lithium Chloride,0,
+learning or memory,GO:0007611,Hypoxia,MESH:D000860,4,Nimodipine|Propofol|Propylthiouracil|Sevoflurane,2,BDNF|EGR1
+lens fiber cell morphogenesis,GO:0070309,Hypoxia,MESH:D000860,0,,1,ATF4
+leptin-mediated signaling pathway,GO:0033210,Hypoxia,MESH:D000860,1,Nicotine,0,
+leucine metabolic process,GO:0006551,Hypoxia,MESH:D000860,2,Propofol|Sevoflurane,0,
+leukocyte activation,GO:0045321,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Dexamethasone,0,
+leukocyte adhesion to vascular endothelial cell,GO:0061756,Hypoxia,MESH:D000860,1,Lipopolysaccharides,0,
+leukocyte adhesion to vascular endothelial cell,GO:0061756,"Hypoxia-Ischemia, Brain",MESH:D020925,2,Dexamethasone|Lipopolysaccharides,0,
+leukocyte cell-cell adhesion,GO:0007159,Hypoxia,MESH:D000860,1,Lipopolysaccharides,0,
+leukocyte cell-cell adhesion,GO:0007159,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Lipopolysaccharides,0,
+leukocyte chemotaxis,GO:0030595,Fetal Hypoxia,MESH:D005311,1,Nitric Oxide,0,
+leukocyte chemotaxis,GO:0030595,Hypoxia,MESH:D000860,14,Acetaminophen|Alprostadil|Chlorpromazine|Indomethacin|Isoproterenol|Lidocaine|Lipopolysaccharides|Morphine|Naloxone|Nicotine|Nitric Oxide|Norepinephrine|Phenobarbital|Vitamin E,0,
+leukocyte chemotaxis,GO:0030595,"Hypoxia, Brain",MESH:D002534,1,Morphine,0,
+leukocyte chemotaxis,GO:0030595,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Lipopolysaccharides,0,
+leukocyte chemotaxis involved in inflammatory response,GO:0002232,Hypoxia,MESH:D000860,9,Bleomycin|Dietary Fats|Indomethacin|Isoproterenol|Lipopolysaccharides|Mustard Gas|Oxygen|Resveratrol|Sevoflurane,0,
+leukocyte chemotaxis involved in inflammatory response,GO:0002232,"Hypoxia-Ischemia, Brain",MESH:D020925,4,Blood Glucose|Dexamethasone|Lipopolysaccharides|Oxygen,0,
+leukocyte degranulation,GO:0043299,Hypoxia,MESH:D000860,6,Codeine|Heparin|Heroin|Lipopolysaccharides|Morphine|Nicotine,0,
+leukocyte degranulation,GO:0043299,"Hypoxia, Brain",MESH:D002534,1,Morphine,0,
+leukocyte degranulation,GO:0043299,"Hypoxia-Ischemia, Brain",MESH:D020925,2,Dexamethasone|Lipopolysaccharides,0,
+leukocyte homeostasis,GO:0001776,Fetal Hypoxia,MESH:D005311,1,Ibuprofen,0,
+leukocyte homeostasis,GO:0001776,Hypoxia,MESH:D000860,6,Arsenic Trioxide|Fluorouracil|Gallic Acid|Indomethacin|Lipopolysaccharides|Resveratrol,0,
+leukocyte homeostasis,GO:0001776,"Hypoxia, Brain",MESH:D002534,2,Carbon Monoxide|Plant Extracts,0,
+leukocyte homeostasis,GO:0001776,"Hypoxia-Ischemia, Brain",MESH:D020925,2,caffeic acid phenethyl ester|Lipopolysaccharides,0,
+leukocyte migration,GO:0050900,Hypoxia,MESH:D000860,2,Dietary Fats|Lipopolysaccharides,0,
+leukocyte migration,GO:0050900,"Hypoxia-Ischemia, Brain",MESH:D020925,2,Dexamethasone|Lipopolysaccharides,0,
+leukocyte migration involved in immune response,GO:0002522,Hypoxia,MESH:D000860,1,Bleomycin,0,
+leukocyte migration involved in inflammatory response,GO:0002523,Hypoxia,MESH:D000860,21,2-chloroethyl ethyl sulfide|Acetaminophen|acetovanillone|Allopurinol|Arsenic Trioxide|Bleomycin|Copper Sulfate|Dietary Fats|Fluorouracil|Gallic Acid|Indomethacin|Isoproterenol|Lipopolysaccharides|Nitroglycerin|Oxygen|Propofol|Resveratrol|Sevoflurane|Sodium Nitrite|Taurine|Vitamin E,0,
+leukocyte migration involved in inflammatory response,GO:0002523,"Hypoxia, Brain",MESH:D002534,3,Carbon Monoxide|Phenytoin|Plant Extracts,0,
+leukocyte migration involved in inflammatory response,GO:0002523,"Hypoxia-Ischemia, Brain",MESH:D020925,5,Dexamethasone|Fluoxetine|Lipopolysaccharides|Lithium Chloride|Oxygen,0,
+leukocyte proliferation,GO:0070661,Hypoxia,MESH:D000860,2,Fluorouracil|Lipopolysaccharides,0,
+leukocyte proliferation,GO:0070661,"Hypoxia, Brain",MESH:D002534,1,Plant Extracts,0,
+leukocyte proliferation,GO:0070661,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Lipopolysaccharides,0,
+leukocyte tethering or rolling,GO:0050901,Fetal Hypoxia,MESH:D005311,1,Nitric Oxide,0,
+leukocyte tethering or rolling,GO:0050901,Hypoxia,MESH:D000860,11,Enalapril|Fentanyl|Glucose|Heparin|Indomethacin|Lipopolysaccharides|Morphine|Naloxone|Nicotine|Nitric Oxide|Sevoflurane,0,
+leukocyte tethering or rolling,GO:0050901,"Hypoxia, Brain",MESH:D002534,1,Morphine,0,
+leukocyte tethering or rolling,GO:0050901,"Hypoxia-Ischemia, Brain",MESH:D020925,2,Dexamethasone|Lipopolysaccharides,0,
+leukotriene B4 biosynthetic process,GO:0097251,Hypoxia,MESH:D000860,1,Vitamin E,0,
+Leydig cell differentiation,GO:0033327,Hypoxia,MESH:D000860,1,Nicotine,0,
+Leydig cell differentiation,GO:0033327,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Dexamethasone,0,
+Leydig cell proliferation,GO:0160024,Hypoxia,MESH:D000860,1,Glucose,0,
+ligand-gated ion channel signaling pathway,GO:1990806,"Hypoxia, Brain",MESH:D002534,0,,1,ITPR1
+limb bud formation,GO:0060174,Hypoxia,MESH:D000860,1,Glucose,0,
+lipid biosynthetic process,GO:0008610,Hypoxia,MESH:D000860,16,2-chloroethyl ethyl sulfide|Allopurinol|Chlorpromazine|Dietary Fats|Fluorouracil|Gallic Acid|Glucose|Hydrogen Peroxide|Indomethacin|Isoproterenol|Norepinephrine|Oleic Acid|Oxygen|Resveratrol|Sulindac|Zinc Sulfate,0,
+lipid biosynthetic process,GO:0008610,"Hypoxia, Brain",MESH:D002534,1,Plant Extracts,0,
+lipid biosynthetic process,GO:0008610,"Hypoxia-Ischemia, Brain",MESH:D020925,3,Dexamethasone|Fluoxetine|Oxygen,0,
+lipid catabolic process,GO:0016042,Hypoxia,MESH:D000860,43,"6-hydroxy-2,5,7,8-tetramethylchroman-2-carboxylic acid|Acetaminophen|acetovanillone|Alprostadil|Arsenic Trioxide|Bleomycin|Buprenorphine|Chloroquine|cobaltous chloride|Copper Sulfate|Deferoxamine|Diazepam|Dietary Fats|Enalapril|Fluorouracil|Gallic Acid|Glucose|Heparin|Hydrochloric Acid|Hydrogen Peroxide|Indomethacin|Isoflurane|Isoproterenol|Ketamine|Lidocaine|Lipopolysaccharides|Naloxone|Nicotine|Nimodipine|Nitroprusside|Norepinephrine|Oleic Acid|Oxygen|Phenobarbital|Phenylephrine|Propylthiouracil|Resveratrol|sinapinic acid|Spironolactone|Taurine|Verapamil|Vitamin E|Zinc Sulfate",0,
+lipid catabolic process,GO:0016042,"Hypoxia, Brain",MESH:D002534,5,cobaltous chloride|Cocaine|Edaravone|Phenylephrine|Plant Extracts,0,
+lipid catabolic process,GO:0016042,"Hypoxia-Ischemia, Brain",MESH:D020925,8,cobaltous chloride|Cocaine|Dexamethasone|Fluoxetine|Lipopolysaccharides|Lithium Chloride|Methamphetamine|Oxygen,0,
+lipid droplet disassembly,GO:1905691,Hypoxia,MESH:D000860,2,Arsenic Trioxide|Taurine,0,
+lipid droplet formation,GO:0140042,Hypoxia,MESH:D000860,17,Arsenic Trioxide|Chloroquine|Copper Sulfate|Deferoxamine|Dietary Fats|Gallic Acid|Glucose|Heroin|Hydrogen Peroxide|Indomethacin|Lipopolysaccharides|Nicotine|Oleic Acid|Oxygen|Resveratrol|Taurine|Zinc Sulfate,0,
+lipid droplet formation,GO:0140042,"Hypoxia-Ischemia, Brain",MESH:D020925,3,Dexamethasone|Lipopolysaccharides|Oxygen,0,
+lipid droplet organization,GO:0034389,Hypoxia,MESH:D000860,1,Lipopolysaccharides,0,
+lipid droplet organization,GO:0034389,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Lipopolysaccharides,0,
+lipid homeostasis,GO:0055088,Hypoxia,MESH:D000860,3,Allopurinol|Dietary Fats|Resveratrol,0,
+lipid homeostasis,GO:0055088,"Hypoxia, Brain",MESH:D002534,1,Plant Extracts,0,
+lipid homeostasis,GO:0055088,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Fluoxetine,0,
+lipid import into cell,GO:0140354,Hypoxia,MESH:D000860,1,Dietary Fats,0,
+lipid import into cell,GO:0140354,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Dexamethasone,0,
+lipid localization,GO:0010876,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Lithium Chloride,0,
+lipid metabolic process,GO:0006629,Hypoxia,MESH:D000860,7,Acetaminophen|Chlorpromazine|Dietary Fats|Glucose|Heroin|Hydrogen Peroxide|Oleic Acid,1,ATP5F1B
+lipid metabolic process,GO:0006629,"Hypoxia-Ischemia, Brain",MESH:D020925,2,Dexamethasone|Fluoxetine,0,
+lipid oxidation,GO:0034440,Fetal Hypoxia,MESH:D005311,1,Ibuprofen,0,
+lipid oxidation,GO:0034440,Hypoxia,MESH:D000860,38,"6-hydroxy-2,5,7,8-tetramethylchroman-2-carboxylic acid|Acetaminophen|acetovanillone|Allopurinol|Aminopyrine|Amitriptyline|Arsenic Trioxide|Bleomycin|Chloroquine|cobaltous chloride|Copper Sulfate|Deferoxamine|Dietary Fats|Enalapril|Fluorouracil|Gallic Acid|Glucose|Hydrochloric Acid|Hydrogen Peroxide|Indomethacin|Isoproterenol|Ketamine|Lipopolysaccharides|Nicotine|Nitroglycerin|Nitroprusside|norbinaltorphimine|Oleic Acid|Oxygen|Resveratrol|Sevoflurane|sinapinic acid|Sodium Nitrite|Sulindac|Taurine|Verapamil|Vitamin E|Zinc Sulfate",0,
+lipid oxidation,GO:0034440,"Hypoxia, Brain",MESH:D002534,3,cobaltous chloride|Edaravone|Plant Extracts,0,
+lipid oxidation,GO:0034440,"Hypoxia-Ischemia, Brain",MESH:D020925,9,Blood Glucose|caffeic acid phenethyl ester|cobaltous chloride|Dexamethasone|Fluoxetine|Lipopolysaccharides|Methamphetamine|Oxygen|Prasugrel Hydrochloride,0,
+lipid storage,GO:0019915,Hypoxia,MESH:D000860,1,Indomethacin,1,APOA1
+lipid storage,GO:0019915,"Hypoxia, Brain",MESH:D002534,1,Plant Extracts,0,
+lipid storage,GO:0019915,"Hypoxia-Ischemia, Brain",MESH:D020925,2,Dexamethasone|Lithium Chloride,0,
+lipid transport,GO:0006869,Hypoxia,MESH:D000860,0,,1,APOA1
+lipid transport involved in lipid storage,GO:0010877,Hypoxia,MESH:D000860,1,Oleic Acid,0,
+lipoate metabolic process,GO:0009106,Hypoxia,MESH:D000860,1,Isoproterenol,0,
+lipopolysaccharide biosynthetic process,GO:0009103,Hypoxia,MESH:D000860,2,Dietary Fats|Lipopolysaccharides,0,
+lipopolysaccharide biosynthetic process,GO:0009103,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Lipopolysaccharides,0,
+lipopolysaccharide-mediated signaling pathway,GO:0031663,Hypoxia,MESH:D000860,0,,1,NOS3
+lipopolysaccharide-mediated signaling pathway,GO:0031663,"Hypoxia-Ischemia, Brain",MESH:D020925,0,,1,IRAK1
+lipopolysaccharide metabolic process,GO:0008653,Hypoxia,MESH:D000860,2,Dietary Fats|Lipopolysaccharides,0,
+lipopolysaccharide metabolic process,GO:0008653,"Hypoxia-Ischemia, Brain",MESH:D020925,2,Lipopolysaccharides|Methamphetamine,0,
+lipopolysaccharide transport,GO:0015920,Hypoxia,MESH:D000860,1,Lipopolysaccharides,0,
+lipopolysaccharide transport,GO:0015920,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Lipopolysaccharides,0,
+lipoprotein biosynthetic process,GO:0042158,Hypoxia,MESH:D000860,1,Acetaminophen,1,APOA1
+lipoprotein metabolic process,GO:0042157,Hypoxia,MESH:D000860,0,,1,APOA1
+lipoprotein oxidation,GO:0042161,Hypoxia,MESH:D000860,5,"6-hydroxy-2,5,7,8-tetramethylchroman-2-carboxylic acid|Copper Sulfate|Lipopolysaccharides|Resveratrol|Vitamin E",0,
+lipoprotein oxidation,GO:0042161,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Lipopolysaccharides,0,
+lipoxin A4 biosynthetic process,GO:2001303,Fetal Hypoxia,MESH:D005311,1,Naproxen,0,
+lipoxygenase pathway,GO:0019372,Hypoxia,MESH:D000860,1,Indomethacin,0,
+liver development,GO:0001889,Hypoxia,MESH:D000860,0,,4,ALDOB|ATP5F1B|NOS1|SOD2
+liver regeneration,GO:0097421,Hypoxia,MESH:D000860,1,Acetaminophen,0,
+liver regeneration,GO:0097421,"Hypoxia, Brain",MESH:D002534,0,,1,ITPR1
+L-methionine biosynthetic process,GO:0071265,Hypoxia,MESH:D000860,1,Nitroprusside,0,
+locomotion,GO:0040011,Hypoxia,MESH:D000860,1,Amitriptyline,0,
+locomotion involved in locomotory behavior,GO:0031987,Hypoxia,MESH:D000860,19,Acetaminophen|acetovanillone|Alprazolam|Arsenic Trioxide|Chloroquine|Diazepam|Dietary Fats|Gabapentin|Glucose|Indomethacin|Ketamine|Lipopolysaccharides|Morphine|Nicotine|Propylthiouracil|Resveratrol|Sevoflurane|Taurine|Vitamin E,0,
+locomotion involved in locomotory behavior,GO:0031987,"Hypoxia, Brain",MESH:D002534,3,Cocaine|Morphine|Plant Extracts,0,
+locomotion involved in locomotory behavior,GO:0031987,"Hypoxia-Ischemia, Brain",MESH:D020925,7,caffeic acid phenethyl ester|Cocaine|Dexamethasone|Fluoxetine|Lipopolysaccharides|Lithium Chloride|Methamphetamine,0,
+locomotor rhythm,GO:0045475,Hypoxia,MESH:D000860,0,,1,EGR1
+locomotory behavior,GO:0007626,Hypoxia,MESH:D000860,4,Diazepam|Dietary Fats|Midazolam|Resveratrol,1,SOD2
+locomotory behavior,GO:0007626,"Hypoxia, Brain",MESH:D002534,1,Cocaine,0,
+locomotory behavior,GO:0007626,"Hypoxia-Ischemia, Brain",MESH:D020925,3,Cocaine|Methamphetamine|Ouabain,0,
+locomotory exploration behavior,GO:0035641,Hypoxia,MESH:D000860,2,Ketamine|Nicotine,0,
+long-chain fatty acid biosynthetic process,GO:0042759,Hypoxia,MESH:D000860,1,Oleic Acid,0,
+long-chain fatty acid metabolic process,GO:0001676,Hypoxia,MESH:D000860,2,Dietary Fats|Oleic Acid,0,
+long-term memory,GO:0007616,Hypoxia,MESH:D000860,2,Fluorouracil|Glucose,1,EGR1
+long-term memory,GO:0007616,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Methamphetamine,0,
+long-term synaptic depression,GO:0060292,Hypoxia,MESH:D000860,1,"6-hydroxy-2,5,7,8-tetramethylchroman-2-carboxylic acid",0,
+long-term synaptic potentiation,GO:0060291,Hypoxia,MESH:D000860,4,"6-hydroxy-2,5,7,8-tetramethylchroman-2-carboxylic acid|Isoproterenol|Nicotine|Sevoflurane",1,EGR1
+low-density lipoprotein particle remodeling,GO:0034374,Hypoxia,MESH:D000860,2,Copper Sulfate|Glucose,1,MPO
+low-density lipoprotein receptor particle metabolic process,GO:0032799,Hypoxia,MESH:D000860,1,Resveratrol,0,
+L-serine biosynthetic process,GO:0006564,Hypoxia,MESH:D000860,1,Acetaminophen,0,
+L-serine metabolic process,GO:0006563,Hypoxia,MESH:D000860,1,Resveratrol,0,
+lung alveolus development,GO:0048286,Hypoxia,MESH:D000860,1,Oxygen,0,
+lung alveolus development,GO:0048286,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Oxygen,1,VEGFA
+lung development,GO:0030324,Hypoxia,MESH:D000860,0,,1,NOS3
+lung development,GO:0030324,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Dexamethasone,2,HIF1A|VEGFA
+lung goblet cell differentiation,GO:0060480,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Dexamethasone,0,
+lung vasculature development,GO:0060426,"Hypoxia-Ischemia, Brain",MESH:D020925,0,,1,VEGFA
+luteinization,GO:0001553,Hypoxia,MESH:D000860,1,Arsenic Trioxide,0,
+lymphangiogenesis,GO:0001946,"Hypoxia-Ischemia, Brain",MESH:D020925,0,,1,VEGFA
+lymphocyte activation,GO:0046649,Hypoxia,MESH:D000860,5,Isoproterenol|Lipopolysaccharides|Norepinephrine|Phenobarbital|Ribavirin,0,
+lymphocyte activation,GO:0046649,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Lipopolysaccharides,0,
+lymphocyte chemotaxis,GO:0048247,Hypoxia,MESH:D000860,1,Arsenic Trioxide,0,
+lymphocyte homeostasis,GO:0002260,Hypoxia,MESH:D000860,1,Lipopolysaccharides,0,
+lymphocyte homeostasis,GO:0002260,"Hypoxia, Brain",MESH:D002534,1,Plant Extracts,0,
+lymphocyte homeostasis,GO:0002260,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Lipopolysaccharides,0,
+lymphocyte migration,GO:0072676,Hypoxia,MESH:D000860,4,Arsenic Trioxide|Bleomycin|Isoproterenol|Lipopolysaccharides,0,
+lymphocyte migration,GO:0072676,"Hypoxia-Ischemia, Brain",MESH:D020925,2,Dexamethasone|Lipopolysaccharides,0,
+lymphocyte proliferation,GO:0046651,Hypoxia,MESH:D000860,1,Lipopolysaccharides,0,
+lymphocyte proliferation,GO:0046651,"Hypoxia-Ischemia, Brain",MESH:D020925,2,Dexamethasone|Lipopolysaccharides,0,
+lymph vessel morphogenesis,GO:0036303,"Hypoxia-Ischemia, Brain",MESH:D020925,0,,1,VEGFA
+lysine biosynthetic process,GO:0009085,Hypoxia,MESH:D000860,1,Phenobarbital,0,
+lysine metabolic process,GO:0006553,Hypoxia,MESH:D000860,1,Arsenic Trioxide,0,
+lysosomal lumen acidification,GO:0007042,Hypoxia,MESH:D000860,1,Chloroquine,0,
+lysosomal lumen acidification,GO:0007042,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Methamphetamine,0,
+lysosomal lumen pH elevation,GO:0035752,Hypoxia,MESH:D000860,1,Chloroquine,0,
+lysosomal membrane organization,GO:0097212,Fetal Hypoxia,MESH:D005311,1,Ibuprofen,0,
+lysosomal membrane organization,GO:0097212,Hypoxia,MESH:D000860,2,Arsenic Trioxide|Chloroquine,0,
+lysosomal protein catabolic process,GO:1905146,Hypoxia,MESH:D000860,1,Chloroquine,0,
+lysosomal transport,GO:0007041,Hypoxia,MESH:D000860,2,Chloroquine|Ketamine,0,
+lysosome organization,GO:0007040,Hypoxia,MESH:D000860,2,Arsenic Trioxide|Chloroquine,0,
+lysosome organization,GO:0007040,"Hypoxia, Brain",MESH:D002534,1,Plant Extracts,0,
+lysosome organization,GO:0007040,"Hypoxia-Ischemia, Brain",MESH:D020925,2,Dexamethasone|Methamphetamine,0,
+macrophage activation,GO:0042116,Hypoxia,MESH:D000860,7,Bleomycin|Copper Sulfate|Deoxyglucose|Lidocaine|Lipopolysaccharides|Morphine|Naloxone,0,
+macrophage activation,GO:0042116,"Hypoxia, Brain",MESH:D002534,2,Cocaine|Morphine,0,
+macrophage activation,GO:0042116,"Hypoxia-Ischemia, Brain",MESH:D020925,3,Cocaine|Dexamethasone|Lipopolysaccharides,0,
+macrophage activation involved in immune response,GO:0002281,Hypoxia,MESH:D000860,1,Lipopolysaccharides,0,
+macrophage activation involved in immune response,GO:0002281,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Lipopolysaccharides,0,
+macrophage chemotaxis,GO:0048246,Hypoxia,MESH:D000860,1,Dietary Fats,0,
+macrophage derived foam cell differentiation,GO:0010742,Hypoxia,MESH:D000860,1,Oleic Acid,0,
+macrophage differentiation,GO:0030225,Hypoxia,MESH:D000860,2,Bleomycin|Lipopolysaccharides,0,
+macrophage differentiation,GO:0030225,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Lipopolysaccharides,1,VEGFA
+macrophage migration,GO:1905517,Hypoxia,MESH:D000860,8,Acetaminophen|Bleomycin|Copper Sulfate|Diacetyl|Dietary Fats|Glucose|Lipopolysaccharides|Resveratrol,0,
+macrophage migration,GO:1905517,"Hypoxia-Ischemia, Brain",MESH:D020925,2,Dexamethasone|Lipopolysaccharides,0,
+macrophage proliferation,GO:0061517,Hypoxia,MESH:D000860,1,Lipopolysaccharides,0,
+macrophage proliferation,GO:0061517,"Hypoxia-Ischemia, Brain",MESH:D020925,2,Dexamethasone|Lipopolysaccharides,0,
+maintenance of blood-brain barrier,GO:0035633,Hypoxia,MESH:D000860,5,Glucose|Lipopolysaccharides|Oxygen|Resveratrol|Verapamil,1,ACTB
+maintenance of blood-brain barrier,GO:0035633,"Hypoxia-Ischemia, Brain",MESH:D020925,4,Blood Glucose|Lipopolysaccharides|Methamphetamine|Oxygen,0,
+maintenance of cell number,GO:0098727,"Hypoxia, Brain",MESH:D002534,1,Plant Extracts,0,
+maintenance of location in cell,GO:0051651,Hypoxia,MESH:D000860,1,Dietary Fats,0,
+maintenance of protein location in plasma membrane,GO:0072660,Hypoxia,MESH:D000860,3,Deoxyglucose|Glucose|Propofol,0,
+maintenance of protein location in plasma membrane,GO:0072660,"Hypoxia, Brain",MESH:D002534,1,Etomidate,0,
+maintenance of synapse structure,GO:0099558,Hypoxia,MESH:D000860,1,Dietary Fats,0,
+malate metabolic process,GO:0006108,Hypoxia,MESH:D000860,1,Isoproterenol,0,
+male anatomical structure morphogenesis,GO:0090598,Hypoxia,MESH:D000860,1,Nicotine,0,
+male gonad development,GO:0008584,Hypoxia,MESH:D000860,3,Dietary Fats|Propylthiouracil|Resveratrol,0,
+male mating behavior,GO:0060179,Hypoxia,MESH:D000860,1,Nicotine,0,
+mammary duct terminal end bud growth,GO:0060763,Hypoxia,MESH:D000860,1,Resveratrol,0,
+mammary gland alveolus development,GO:0060749,"Hypoxia-Ischemia, Brain",MESH:D020925,0,,1,VEGFA
+mammary gland development,GO:0030879,Hypoxia,MESH:D000860,0,,1,NME1
+mammary gland epithelial cell differentiation,GO:0060644,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Dexamethasone,0,
+manganese ion transmembrane transport,GO:0071421,Hypoxia,MESH:D000860,1,cobaltous chloride,0,
+manganese ion transmembrane transport,GO:0071421,"Hypoxia, Brain",MESH:D002534,1,cobaltous chloride,0,
+manganese ion transmembrane transport,GO:0071421,"Hypoxia-Ischemia, Brain",MESH:D020925,1,cobaltous chloride,0,
+MAPK cascade,GO:0000165,Hypoxia,MESH:D000860,15,Gemcitabine|Glucose|Hydrogen Peroxide|Isoflurane|Lidocaine|Lipopolysaccharides|Morphine|Nicotine|Norepinephrine|Propofol|Sevoflurane|Spironolactone|Sulindac|Terbutaline|Vitamin E,0,
+MAPK cascade,GO:0000165,"Hypoxia, Brain",MESH:D002534,3,Cocaine|Morphine|Plant Extracts,0,
+MAPK cascade,GO:0000165,"Hypoxia-Ischemia, Brain",MESH:D020925,3,Cocaine|Dexamethasone|Lipopolysaccharides,0,
+mast cell activation,GO:0045576,Hypoxia,MESH:D000860,1,Mustard Gas,0,
+mast cell degranulation,GO:0043303,Hypoxia,MESH:D000860,3,Chlorpromazine|Dietary Fats|Lipopolysaccharides,0,
+mast cell degranulation,GO:0043303,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Lipopolysaccharides,0,
+mast cell migration,GO:0097531,Hypoxia,MESH:D000860,2,Bleomycin|Dietary Fats,0,
+mastication,GO:0071626,Hypoxia,MESH:D000860,1,Ketamine,0,
+mastication,GO:0071626,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Lithium Chloride,0,
+maternal behavior,GO:0042711,Hypoxia,MESH:D000860,1,Acetaminophen,0,
+maternal process involved in female pregnancy,GO:0060135,"Hypoxia-Ischemia, Brain",MESH:D020925,0,,1,HIF1A
+mating behavior,GO:0007617,Hypoxia,MESH:D000860,1,Morphine,0,
+mating behavior,GO:0007617,"Hypoxia, Brain",MESH:D002534,1,Morphine,0,
+maturation of SSU-rRNA,GO:0030490,Hypoxia,MESH:D000860,0,,1,RPS14
+"maturation of SSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)",GO:0000462,Hypoxia,MESH:D000860,0,,1,RPS14
+mature conventional dendritic cell differentiation,GO:0097029,Hypoxia,MESH:D000860,1,Lipopolysaccharides,0,
+mature conventional dendritic cell differentiation,GO:0097029,"Hypoxia, Brain",MESH:D002534,1,Plant Extracts,0,
+mature conventional dendritic cell differentiation,GO:0097029,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Lipopolysaccharides,0,
+mechanoreceptor differentiation,GO:0042490,Hypoxia,MESH:D000860,0,,1,BDNF
+mechanosensory behavior,GO:0007638,Hypoxia,MESH:D000860,2,Gabapentin|Nicotine,0,
+megakaryocyte differentiation,GO:0030219,Hypoxia,MESH:D000860,1,Arsenic Trioxide,0,
+meiosis I cell cycle process,GO:0061982,Hypoxia,MESH:D000860,2,Lipopolysaccharides|Resveratrol,0,
+meiosis I cell cycle process,GO:0061982,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Lipopolysaccharides,0,
+meiosis II,GO:0007135,Hypoxia,MESH:D000860,1,cobaltous chloride,0,
+meiosis II,GO:0007135,"Hypoxia, Brain",MESH:D002534,1,cobaltous chloride,0,
+meiosis II,GO:0007135,"Hypoxia-Ischemia, Brain",MESH:D020925,1,cobaltous chloride,0,
+meiosis I/meiosis II transition,GO:1990946,Hypoxia,MESH:D000860,1,cobaltous chloride,0,
+meiosis I/meiosis II transition,GO:1990946,"Hypoxia, Brain",MESH:D002534,1,cobaltous chloride,0,
+meiosis I/meiosis II transition,GO:1990946,"Hypoxia-Ischemia, Brain",MESH:D020925,1,cobaltous chloride,0,
+meiotic cell cycle,GO:0051321,Hypoxia,MESH:D000860,1,Nicotine,1,HIM-6
+meiotic chromosome movement towards spindle pole,GO:0016344,Hypoxia,MESH:D000860,1,cobaltous chloride,0,
+meiotic chromosome movement towards spindle pole,GO:0016344,"Hypoxia, Brain",MESH:D002534,1,cobaltous chloride,0,
+meiotic chromosome movement towards spindle pole,GO:0016344,"Hypoxia-Ischemia, Brain",MESH:D020925,1,cobaltous chloride,0,
+meiotic chromosome separation,GO:0051307,Hypoxia,MESH:D000860,0,,1,HIM-6
+meiotic DNA double-strand break processing involved in reciprocal meiotic recombination,GO:0010705,Hypoxia,MESH:D000860,0,,1,HIM-6
+meiotic spindle organization,GO:0000212,Hypoxia,MESH:D000860,1,cobaltous chloride,0,
+meiotic spindle organization,GO:0000212,"Hypoxia, Brain",MESH:D002534,1,cobaltous chloride,0,
+meiotic spindle organization,GO:0000212,"Hypoxia-Ischemia, Brain",MESH:D020925,1,cobaltous chloride,0,
+melanin biosynthetic process,GO:0042438,Hypoxia,MESH:D000860,3,"6-hydroxy-2,5,7,8-tetramethylchroman-2-carboxylic acid|Mustard Gas|Resveratrol",0,
+melanin biosynthetic process,GO:0042438,"Hypoxia, Brain",MESH:D002534,1,Plant Extracts,0,
+melanocyte-stimulating hormone secretion,GO:0036160,Hypoxia,MESH:D000860,1,Gallic Acid,0,
+melatonin biosynthetic process,GO:0030187,Hypoxia,MESH:D000860,1,Norepinephrine,0,
+membrane depolarization,GO:0051899,Hypoxia,MESH:D000860,10,Diazepam|Flumazenil|Glucose|Hydrogen Peroxide|Lipopolysaccharides|Morphine|Nicotine|Nimodipine|Oleic Acid|Phenylephrine,0,
+membrane depolarization,GO:0051899,"Hypoxia, Brain",MESH:D002534,2,Morphine|Phenylephrine,0,
+membrane depolarization,GO:0051899,"Hypoxia-Ischemia, Brain",MESH:D020925,2,Lipopolysaccharides|Lithium Chloride,0,
+membrane hyperpolarization,GO:0060081,Hypoxia,MESH:D000860,3,Diazepam|Flumazenil|Resveratrol,0,
+membrane lipid biosynthetic process,GO:0046467,Hypoxia,MESH:D000860,1,Isoflurane,0,
+membrane lipid catabolic process,GO:0046466,Fetal Hypoxia,MESH:D005311,3,Ibuprofen|Naproxen|Nitric Oxide,0,
+membrane lipid catabolic process,GO:0046466,Hypoxia,MESH:D000860,42,"6-hydroxy-2,5,7,8-tetramethylchroman-2-carboxylic acid|Acetaminophen|acetovanillone|Allopurinol|Amitriptyline|Bleomycin|Cefotiam|Chlorpromazine|cobaltous chloride|Copper Sulfate|Deferoxamine|Dietary Fats|Enalapril|Fentanyl|Fluorouracil|Glucose|Heparin|Hydrochloric Acid|Hydrogen Peroxide|Indomethacin|Isoproterenol|Ketamine|Lidocaine|Lipopolysaccharides|Nicotine|Nimodipine|Nitrendipine|Nitric Oxide|Nitroglycerin|Nitroprusside|Oxygen|Phenobarbital|Potassium Cyanide|Propofol|Propylthiouracil|Resveratrol|Sevoflurane|Spironolactone|Taurine|Verapamil|Vitamin E|Zinc Sulfate",0,
+membrane lipid catabolic process,GO:0046466,"Hypoxia, Brain",MESH:D002534,6,Carbon Monoxide|cobaltous chloride|Cocaine|Edaravone|Plant Extracts|Zolpidem,0,
+membrane lipid catabolic process,GO:0046466,"Hypoxia-Ischemia, Brain",MESH:D020925,8,caffeic acid phenethyl ester|cobaltous chloride|Cocaine|Dexamethasone|Fluoxetine|Lipopolysaccharides|Lithium Chloride|Oxygen,0,
+membrane organization,GO:0061024,Hypoxia,MESH:D000860,3,Chloroquine|Indomethacin|Isoproterenol,0,
+membrane organization,GO:0061024,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Ouabain,0,
+membrane raft organization,GO:0031579,Hypoxia,MESH:D000860,1,Nicotine,0,
+membrane repolarization during cardiac muscle cell action potential,GO:0086013,Hypoxia,MESH:D000860,1,Arsenic Trioxide,0,
+memory,GO:0007613,Fetal Hypoxia,MESH:D005311,1,Ibuprofen,0,
+memory,GO:0007613,Hypoxia,MESH:D000860,16,Arsenic Trioxide|cobaltous chloride|Dietary Fats|Isoflurane|Isoproterenol|Ketamine|Lipopolysaccharides|Morphine|Nicotine|Nimodipine|Propofol|Propylthiouracil|Resveratrol|Sevoflurane|Taurine|Vitamin E,1,BDNF
+memory,GO:0007613,"Hypoxia, Brain",MESH:D002534,3,cobaltous chloride|Morphine|Plant Extracts,0,
+memory,GO:0007613,"Hypoxia-Ischemia, Brain",MESH:D020925,5,cobaltous chloride|Dexamethasone|Lipopolysaccharides|Lithium Chloride|Methamphetamine,0,
+mesenchymal cell apoptotic process,GO:0097152,"Hypoxia-Ischemia, Brain",MESH:D020925,0,,1,HIF1A
+mesenchymal cell migration,GO:0090497,Hypoxia,MESH:D000860,1,Mustard Gas,0,
+mesoderm development,GO:0007498,"Hypoxia-Ischemia, Brain",MESH:D020925,0,,1,VEGFA
+metabolic process,GO:0008152,Hypoxia,MESH:D000860,8,2-chloroethyl ethyl sulfide|Dietary Fats|Glucose|Indican|Norepinephrine|Oleic Acid|Resveratrol|Taurine,1,HIM-6
+metabolic process,GO:0008152,"Hypoxia, Brain",MESH:D002534,1,Plant Extracts,0,
+metal ion homeostasis,GO:0055065,Hypoxia,MESH:D000860,1,Dietary Fats,0,
+metal ion transport,GO:0030001,Hypoxia,MESH:D000860,1,Dietary Fats,0,
+metamorphosis,GO:0007552,Hypoxia,MESH:D000860,1,Propylthiouracil,0,
+methionine biosynthetic process,GO:0009086,Hypoxia,MESH:D000860,1,Arsenic Trioxide,0,
+methionine metabolic process,GO:0006555,Hypoxia,MESH:D000860,1,Resveratrol,0,
+methotrexate transport,GO:0051958,Hypoxia,MESH:D000860,2,Resveratrol|Verapamil,0,
+microglia development,GO:0014005,Hypoxia,MESH:D000860,1,Lipopolysaccharides,0,
+microglia development,GO:0014005,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Lipopolysaccharides,0,
+microglial cell activation,GO:0001774,Hypoxia,MESH:D000860,10,acetovanillone|Copper Sulfate|Diazepam|Ketamine|Lipopolysaccharides|Morphine|Nicotine|Resveratrol|Sevoflurane|Taurine,0,
+microglial cell activation,GO:0001774,"Hypoxia, Brain",MESH:D002534,2,Carbon Monoxide|Morphine,0,
+microglial cell activation,GO:0001774,"Hypoxia-Ischemia, Brain",MESH:D020925,3,Lipopolysaccharides|Lithium Chloride|Methamphetamine,0,
+microglial cell proliferation,GO:0061518,Hypoxia,MESH:D000860,2,Ketamine|Midazolam,0,
+microglial cell proliferation,GO:0061518,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Methamphetamine,0,
+micronucleus organization,GO:0032125,Hypoxia,MESH:D000860,6,Bleomycin|Fluorouracil|Hydrogen Peroxide|Nicotine|Phenobarbital|Verapamil,0,
+micronucleus organization,GO:0032125,"Hypoxia, Brain",MESH:D002534,1,Plant Extracts,0,
+micronucleus organization,GO:0032125,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Dexamethasone,0,
+microtubule cytoskeleton organization,GO:0000226,Hypoxia,MESH:D000860,3,Hydrogen Peroxide|Ketamine|Midazolam,1,GAPDH
+microtubule polymerization,GO:0046785,Hypoxia,MESH:D000860,1,Resveratrol,0,
+microvillus organization,GO:0032528,Hypoxia,MESH:D000860,1,Arsenic Trioxide,0,
+micturition,GO:0060073,Hypoxia,MESH:D000860,5,Chloroquine|Dietary Fats|Ketamine|Morphine|Naloxone,0,
+micturition,GO:0060073,"Hypoxia, Brain",MESH:D002534,1,Morphine,0,
+micturition,GO:0060073,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Methamphetamine,0,
+midbrain dopaminergic neuron differentiation,GO:1904948,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Methamphetamine,0,
+mineralocorticoid receptor signaling pathway,GO:0031959,Hypoxia,MESH:D000860,1,Spironolactone,0,
+mismatch repair,GO:0006298,Hypoxia,MESH:D000860,1,Hydrogen Peroxide,0,
+mitochondrial ATP synthesis coupled electron transport,GO:0042775,Hypoxia,MESH:D000860,2,Acetaminophen|Glucose,0,
+mitochondrial calcium ion homeostasis,GO:0051560,Hypoxia,MESH:D000860,2,Arsenic Trioxide|Hydrogen Peroxide,0,
+mitochondrial calcium ion homeostasis,GO:0051560,"Hypoxia, Brain",MESH:D002534,1,Cocaine,0,
+mitochondrial calcium ion homeostasis,GO:0051560,"Hypoxia-Ischemia, Brain",MESH:D020925,2,Cocaine|Methamphetamine,0,
+mitochondrial calcium ion transmembrane transport,GO:0006851,Hypoxia,MESH:D000860,1,Indomethacin,0,
+mitochondrial cytochrome c oxidase assembly,GO:0033617,Hypoxia,MESH:D000860,2,Glucose|Potassium Cyanide,0,
+mitochondrial depolarization,GO:0051882,Hypoxia,MESH:D000860,14,Acetaminophen|Arsenic Trioxide|Chloroquine|cobaltous chloride|Deoxyglucose|Dietary Fats|Glucose|Hydrogen Peroxide|Isoproterenol|Lidocaine|Lipopolysaccharides|Oxygen|Resveratrol|Taurine,0,
+mitochondrial depolarization,GO:0051882,"Hypoxia, Brain",MESH:D002534,1,cobaltous chloride,0,
+mitochondrial depolarization,GO:0051882,"Hypoxia-Ischemia, Brain",MESH:D020925,5,cobaltous chloride|Dexamethasone|Lipopolysaccharides|Methamphetamine|Oxygen,0,
+mitochondrial DNA catabolic process,GO:0032043,Hypoxia,MESH:D000860,1,Taurine,0,
+mitochondrial DNA metabolic process,GO:0032042,Hypoxia,MESH:D000860,1,Dietary Fats,0,
+mitochondrial DNA replication,GO:0006264,Hypoxia,MESH:D000860,8,Acetaminophen|Bleomycin|Dietary Fats|Glucose|Isoproterenol|Lipopolysaccharides|Oxygen|Resveratrol,0,
+mitochondrial DNA replication,GO:0006264,"Hypoxia-Ischemia, Brain",MESH:D020925,3,Dexamethasone|Lipopolysaccharides|Oxygen,0,
+"mitochondrial electron transport, cytochrome c to oxygen",GO:0006123,Fetal Hypoxia,MESH:D005311,1,Nitric Oxide,0,
+"mitochondrial electron transport, cytochrome c to oxygen",GO:0006123,Hypoxia,MESH:D000860,6,acetovanillone|Hydrogen Peroxide|Nitric Oxide|Oxygen|Potassium Cyanide|Resveratrol,0,
+"mitochondrial electron transport, cytochrome c to oxygen",GO:0006123,"Hypoxia, Brain",MESH:D002534,1,Etomidate,0,
+"mitochondrial electron transport, cytochrome c to oxygen",GO:0006123,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Oxygen,0,

@@ -1,0 +1,871 @@
+ChemicalName,ChemicalID,CasRN,DiseaseName,DiseaseID,DirectEvidence,InferenceGeneSymbol,InferenceScore,OmimIDs,PubMedIDs
+"1,1,1,3,3,3-hexafluoro-2-(2-fluoro-4'-((4-(pyridin-4-ylmethyl)piperazin-1-yl)methyl)-(1,1'-biphenyl)-4-yl)propan-2-ol",C575715,,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,RORC,6.38,,25395965
+"1,12-benzoperylene",C006718,191-24-2,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,NFIL3,4.27,,25395965
+11-nor-delta(9)-tetrahydrocannabinol-9-carboxylic acid,C016780,64280-14-4,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,AANAT,5.33,,12736803
+"1,2,5,6-dibenzanthracene",C026486,53-70-3,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,BHLHE40,6.30,,25395965
+"1,2,5,6-dibenzanthracene",C026486,53-70-3,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,NFIL3,6.30,,25395965
+"1,2-Dimethylhydrazine",D019813,540-73-8,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,AANAT,6.13,,12736803
+"1,2-Dimethylhydrazine",D019813,540-73-8,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,BHLHE40,6.13,,25395965
+"1,2-Dimethylhydrazine",D019813,540-73-8,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,CRY1,6.13,614163,
+"1,2-Dimethylhydrazine",D019813,540-73-8,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,NFIL3,6.13,,25395965
+"1,2-Dimethylhydrazine",D019813,540-73-8,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,RORC,6.13,,25395965
+1-(2-trifluoromethoxyphenyl)-2-nitroethanone,C576882,,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,BHLHE40,4.40,,25395965
+"1,3-butadiene",C031763,106-99-0,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,CRY1,6.08,614163,
+"1,3-butadiene",C031763,106-99-0,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,RORC,6.08,,25395965
+"1,4-bis(2-(3,5-dichloropyridyloxy))benzene",C028474,76150-91-9,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,BHLHE40,7.53,,25395965
+"1,4-bis(2-(3,5-dichloropyridyloxy))benzene",C028474,76150-91-9,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,NFIL3,7.53,,25395965
+"1,4-bis(2-(3,5-dichloropyridyloxy))benzene",C028474,76150-91-9,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,RORC,7.53,,25395965
+"14-deoxy-11,12-didehydroandrographolide",C495626,,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,RORC,4.56,,25395965
+15-acetyldeoxynivalenol,C046760,88337-96-6,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,BHLHE40,4.70,,25395965
+18alpha-glycyrrhetinic acid,C119129,1449-05-4,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,RORC,5.10,,25395965
+1-Butanol,D020001,71-36-3,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,BHLHE40,3.81,,25395965
+"1H,1H,10H,10H-perfluorodecane-1,10-diol",C546883,,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,BHLHE40,4.43,,25395965
+"1H,1H,10H,10H-perfluorodecane-1,10-diol",C546883,,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,NFIL3,4.43,,25395965
+1-Methyl-3-isobutylxanthine,D015056,28822-58-4,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,BHLHE40,3.14,,25395965
+1-Methyl-4-phenylpyridinium,D015655,48134-75-4,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,BHLHE40,3.26,,25395965
+1-methylanthracene,C051246,610-48-0,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,NFIL3,3.86,,25395965
+1-Naphthylisothiocyanate,D015058,551-06-4,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,BHLHE40,7.50,,25395965
+1-Naphthylisothiocyanate,D015058,551-06-4,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,NFIL3,7.50,,25395965
+1-Naphthylisothiocyanate,D015058,551-06-4,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,RORC,7.50,,25395965
+"2-(1H-indazol-4-yl)-6-(4-methanesulfonylpiperazin-1-ylmethyl)-4-morpholin-4-ylthieno(3,2-d)pyrimidine",C532162,,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,BHLHE40,7.13,,25395965
+"2-(1H-indazol-4-yl)-6-(4-methanesulfonylpiperazin-1-ylmethyl)-4-morpholin-4-ylthieno(3,2-d)pyrimidine",C532162,,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,RORC,7.13,,25395965
+2-(1'H-indole-3'-carbonyl)thiazole-4-carboxylic acid methyl ester,C548651,,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,BHLHE40,6.42,,25395965
+2-(1'H-indole-3'-carbonyl)thiazole-4-carboxylic acid methyl ester,C548651,,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,RORC,6.42,,25395965
+"2,2',4,4',5-brominated diphenyl ether",C477694,,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,NFIL3,3.31,,25395965
+"2,2',4,4'-tetrabromodiphenyl ether",C511295,,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,BHLHE40,3.94,,25395965
+"2,2',4,4'-tetrabromodiphenyl ether",C511295,,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,NFIL3,3.94,,25395965
+"2,2,5,7,8-pentamethyl-1-hydroxychroman",C029141,950-99-2,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,NFIL3,4.28,,25395965
+"2,2-bis(4-hydroxyphenyl)-1,1,1-trichloroethane",C404910,2971-36-0,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,BHLHE40,4.35,,25395965
+"2,3,3',4',5-pentachloro-4-hydroxybiphenyl",C111120,,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,CRY1,12.49,614163,
+"2,3,3',4',5-pentachloro-4-hydroxybiphenyl",C111120,,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,RORC,12.49,,25395965
+"2,3',4,4',5-pentachlorobiphenyl",C070055,,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,CRY1,3.72,614163,
+"2,3,7,8-tetrachlorodibenzofuran",C014211,51207-31-9,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,NFIL3,3.35,,25395965
+"2,3-bis(3'-hydroxybenzyl)butyrolactone",C029497,76543-15-2,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,BHLHE40,9.35,,25395965
+"2,3-bis(3'-hydroxybenzyl)butyrolactone",C029497,76543-15-2,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,CRY1,9.35,614163,
+"2,3-bis(3'-hydroxybenzyl)butyrolactone",C029497,76543-15-2,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,NFIL3,9.35,,25395965
+"2,3-dimethoxy-1,4-naphthoquinone",C063002,6956-96-3,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,BHLHE40,4.49,,25395965
+"2,4,5,2',4',5'-hexachlorobiphenyl",C014024,35065-27-1,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,BHLHE40,4.88,,25395965
+"2,4,5,2',4',5'-hexachlorobiphenyl",C014024,35065-27-1,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,RORC,4.88,,25395965
+"2,4-dinitrotoluene",C016403,121-14-2,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,BHLHE40,4.77,,25395965
+"2,4-dinitrotoluene",C016403,121-14-2,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,CRY1,4.77,614163,
+25-hydroxycholesterol,C007997,2140-46-7,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,RORC,5.16,,25395965
+"2,6-dinitrotoluene",C023514,606-20-2,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,CRY1,3.45,614163,
+2-chloro-N-(4-chlorobiphenyl-2-yl)nicotinamide,C550088,,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,CRY1,12.07,614163,
+2-chloro-N-(4-chlorobiphenyl-2-yl)nicotinamide,C550088,,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,NFIL3,12.07,,25395965
+2-chloro-N-(4-chlorobiphenyl-2-yl)nicotinamide,C550088,,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,RORC,12.07,,25395965
+2-methyl-2H-pyrazole-3-carboxylic acid (2-methyl-4-o-tolylazophenyl)amide,C511621,,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,NFIL3,3.83,,25395965
+2-tert-butylhydroquinone,C018855,1948-33-0,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,RORC,4.48,,25395965
+"3,4,5,3',4'-pentachlorobiphenyl",C023035,57465-28-8,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,BHLHE40,3.26,,25395965
+3-((6-(2-methoxyphenyl)pyrimidin-4-yl)amino)phenyl)methane sulfonamide,C000590771,,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,BHLHE40,6.38,,25395965
+3-((6-(2-methoxyphenyl)pyrimidin-4-yl)amino)phenyl)methane sulfonamide,C000590771,,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,NFIL3,6.38,,25395965
+3-dinitrobenzene,C017906,99-65-0,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,BHLHE40,4.07,,25395965
+3-phenoxybenzoic acid,C017618,,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,RORC,5.33,,25395965
+"4,4'-diaminodiphenylmethane",C009505,101-77-9,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,CRY1,4.45,614163,
+"4,4'-diaminodiphenylmethane",C009505,101-77-9,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,RORC,4.45,,25395965
+"4-(5-benzo(1,3)dioxol-5-yl-4-pyridin-2-yl-1H-imidazol-2-yl)benzamide",C459179,,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,BHLHE40,3.00,,25395965
+"4-chloro-N-((4-(1,1-dimethylethyl)phenyl)methyl)-3-ethyl-1-methyl-1H-pyrazole-5-carboxamide",C429623,119168-77-3,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,NFIL3,4.12,,25395965
+4-hydroxy-2-nonenal,C027576,29343-52-0,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,BHLHE40,6.44,,25395965
+4-hydroxy-2-nonenal,C027576,29343-52-0,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,CRY1,6.44,614163,
+4-hydroxyphenyl 4-isopropoxyphenylsulfone,C000613560,,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,BHLHE40,5.66,,25395965
+4-hydroxyphenyl 4-isopropoxyphenylsulfone,C000613560,,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,CRY1,5.66,614163,
+4-hydroxyphenyl 4-isopropoxyphenylsulfone,C000613560,,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,NFIL3,5.66,,25395965
+4-hydroxyphenyl 4-isopropoxyphenylsulfone,C000613560,,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,RORC,5.66,,25395965
+4-nitro-3-cresol,C008636,,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,CRY1,5.50,614163,
+"6-formylindolo(3,2-b)carbazole",C111855,,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,CRY1,9.59,614163,
+"6-formylindolo(3,2-b)carbazole",C111855,,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,RORC,9.59,,25395965
+"7,8-Dihydro-7,8-dihydroxybenzo(a)pyrene 9,10-oxide",D015123,55097-80-8,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,CRY1,3.36,614163,
+"9,10-Dimethyl-1,2-benzanthracene",D015127,57-97-6,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,RORC,3.60,,25395965
+abrine,C496492,,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,BHLHE40,5.72,,25395965
+abrine,C496492,,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,CRY1,5.72,614163,
+abrine,C496492,,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,NFIL3,5.72,,25395965
+abrine,C496492,,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,RORC,5.72,,25395965
+Acetaldehyde,D000079,75-07-0,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,BHLHE40,4.29,,25395965
+Acetaminophen,D000082,103-90-2,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,BHLHE40,3.49,,25395965
+Acetaminophen,D000082,103-90-2,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,CRY1,3.49,614163,
+Acetaminophen,D000082,103-90-2,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,NFIL3,3.49,,25395965
+Acetaminophen,D000082,103-90-2,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,RORC,3.49,,25395965
+Acetylcysteine,D000111,616-91-1,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,CRY1,5.93,614163,
+Acetylcysteine,D000111,616-91-1,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,NFIL3,5.93,,25395965
+Acrolein,D000171,107-02-8,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,CRY1,3.47,614163,
+Acrylamide,D020106,,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,BHLHE40,4.29,,25395965
+Acrylamide,D020106,,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,CRY1,4.29,614163,
+Acrylamide,D020106,,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,NFIL3,4.29,,25395965
+afimoxifene,C016601,68392-35-8,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,BHLHE40,3.86,,25395965
+Aflatoxin B1,D016604,1162-65-8,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,AANAT,5.15,,12736803
+Aflatoxin B1,D016604,1162-65-8,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,BHLHE40,5.15,,25395965
+Aflatoxin B1,D016604,1162-65-8,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,CRY1,5.15,614163,
+Aflatoxin B1,D016604,1162-65-8,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,NFIL3,5.15,,25395965
+Aflatoxin B1,D016604,1162-65-8,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,RORC,5.15,,25395965
+Air Pollutants,D000393,,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,AANAT,5.65,,12736803
+Air Pollutants,D000393,,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,BHLHE40,5.65,,25395965
+Air Pollutants,D000393,,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,CRY1,5.65,614163,
+Air Pollutants,D000393,,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,NFIL3,5.65,,25395965
+Air Pollutants,D000393,,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,RORC,5.65,,25395965
+"Air Pollutants, Occupational",D000395,,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,CRY1,3.82,614163,
+Allergens,D000485,,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,NFIL3,7.47,,25395965
+Allergens,D000485,,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,RORC,7.47,,25395965
+Alloxan,D000496,50-71-5,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,RORC,4.94,,25395965
+alpha-Chlorohydrin,D000517,96-24-2,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,CRY1,7.59,614163,
+alpha-Chlorohydrin,D000517,96-24-2,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,NFIL3,7.59,,25395965
+alpha-Chlorohydrin,D000517,96-24-2,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,RORC,7.59,,25395965
+alpha-galactosylceramide,C493154,,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,RORC,5.99,,25395965
+alpha phellandrene,C005403,99-83-2,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,NFIL3,4.21,,25395965
+alpha-pinene,C005451,80-56-8,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,CRY1,3.58,614163,
+Aluminum,D000535,7429-90-5,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,NFIL3,3.40,,25395965
+Amiodarone,D000638,1951-25-3,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,BHLHE40,3.34,,25395965
+Amitrole,D000640,61-82-5,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,BHLHE40,4.32,,25395965
+Amitrole,D000640,61-82-5,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,CRY1,4.32,614163,
+"ammonium 2,3,3,3-tetrafluoro-2-(heptafluoropropoxy)-propanoate",C000611729,,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,NFIL3,3.20,,25395965
+Ammonium Chloride,D000643,12125-02-9,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,AANAT,5.11,,12736803
+Ammonium Chloride,D000643,12125-02-9,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,BHLHE40,5.11,,25395965
+Ammonium Chloride,D000643,12125-02-9,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,NFIL3,5.11,,25395965
+Amphetamine,D000661,300-62-9,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,NFIL3,3.33,,25395965
+"Antigens, Bacterial",D000942,,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,NFIL3,4.18,,25395965
+"Antigens, Polyomavirus Transforming",D000952,,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,BHLHE40,3.83,,25395965
+Antirheumatic Agents,D018501,,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,NFIL3,3.14,,25395965
+aristolochic acid I,C000228,313-67-7,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,AANAT,4.26,,12736803
+aristolochic acid I,C000228,313-67-7,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,BHLHE40,4.26,,25395965
+aristolochic acid I,C000228,313-67-7,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,CRY1,4.26,614163,
+aristolochic acid II,C042310,475-80-9,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,CRY1,4.85,614163,
+Arsenic,D001151,7440-38-2,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,BHLHE40,5.43,,25395965
+Arsenic,D001151,7440-38-2,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,CRY1,5.43,614163,
+Arsenic,D001151,7440-38-2,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,NFIL3,5.43,,25395965
+Arsenic,D001151,7440-38-2,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,RORC,5.43,,25395965
+Arsenic Trioxide,D000077237,1327-53-3,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,BHLHE40,4.16,,25395965
+Arsenic Trioxide,D000077237,1327-53-3,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,RORC,4.16,,25395965
+arsenite,C015001,15502-74-6,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,BHLHE40,3.77,,25395965
+arsenite,C015001,15502-74-6,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,NFIL3,3.77,,25395965
+artemisinin,C031327,,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,RORC,5.22,,25395965
+"Asbestos, Crocidolite",D017638,12001-28-4,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,BHLHE40,6.11,,25395965
+"Asbestos, Crocidolite",D017638,12001-28-4,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,CRY1,6.11,614163,
+"Asbestos, Crocidolite",D017638,12001-28-4,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,NFIL3,6.11,,25395965
+Atrazine,D001280,1912-24-9,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,BHLHE40,2.98,,25395965
+azaspiracid,C406592,,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,BHLHE40,4.72,,25395965
+azoxystrobin,C087670,131860-33-8,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,CRY1,9.94,614163,
+azoxystrobin,C087670,131860-33-8,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,NFIL3,9.94,,25395965
+azoxystrobin,C087670,131860-33-8,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,RORC,9.94,,25395965
+benz(a)anthracene,C030935,56-55-3,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,BHLHE40,8.31,,25395965
+benz(a)anthracene,C030935,56-55-3,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,NFIL3,8.31,,25395965
+benz(a)anthracene,C030935,56-55-3,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,RORC,8.31,,25395965
+Benzene,D001554,71-43-2,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,CRY1,3.74,614163,
+Benzo(a)pyrene,D001564,50-32-8,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,AANAT,3.54,,12736803
+Benzo(a)pyrene,D001564,50-32-8,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,BHLHE40,3.54,,25395965
+Benzo(a)pyrene,D001564,50-32-8,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,CRY1,3.54,614163,
+Benzo(a)pyrene,D001564,50-32-8,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,NFIL3,3.54,,25395965
+Benzo(a)pyrene,D001564,50-32-8,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,RORC,3.54,,25395965
+Benzoates,D001565,,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,NFIL3,4.69,,25395965
+benzo(b)fluoranthene,C006703,205-99-2,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,BHLHE40,7.86,,25395965
+benzo(b)fluoranthene,C006703,205-99-2,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,NFIL3,7.86,,25395965
+benzo(b)fluoranthene,C006703,205-99-2,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,RORC,7.86,,25395965
+Betaine,D001622,107-43-7,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,BHLHE40,4.25,,25395965
+beta-methylcholine,C044887,7562-87-0,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,CRY1,3.63,614163,
+beta-Naphthoflavone,D019324,6051-87-2,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,NFIL3,3.58,,25395965
+bifenthrin,C099952,82657-04-3,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,RORC,4.50,,25395965
+biochanin A,C004541,491-80-5,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,RORC,4.76,,25395965
+Biotin,D001710,58-85-5,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,BHLHE40,3.92,,25395965
+bismuth tripotassium dicitrate,C002791,57644-54-9,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,BHLHE40,4.39,,25395965
+bisphenol A,C006780,80-05-7,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,AANAT,2.56,,12736803
+bisphenol A,C006780,80-05-7,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,BHLHE40,2.56,,25395965
+bisphenol A,C006780,80-05-7,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,CRY1,2.56,614163,
+bisphenol A,C006780,80-05-7,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,NFIL3,2.56,,25395965
+bisphenol A,C006780,80-05-7,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,RORC,2.56,,25395965
+bisphenol F,C000611646,,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,BHLHE40,2.98,,25395965
+bisphenol S,C543008,,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,BHLHE40,3.85,,25395965
+bisphenol S,C543008,,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,CRY1,3.85,614163,
+bisphenol S,C543008,,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,NFIL3,3.85,,25395965
+bisphenol S,C543008,,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,RORC,3.85,,25395965
+Bortezomib,D000069286,,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,RORC,3.80,,25395965
+bromobenzene,C032036,108-86-1,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,BHLHE40,6.56,,25395965
+bromobenzene,C032036,108-86-1,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,CRY1,6.56,614163,
+bromuconazole,C573694,,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,NFIL3,10.50,,25395965
+bromuconazole,C573694,,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,RORC,10.50,,25395965
+Bu-Fei-Yi-Shen,C574914,,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,RORC,5.36,,25395965
+Buspirone,D002065,36505-84-7,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,BHLHE40,10.20,,25395965
+Buspirone,D002065,36505-84-7,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,CRY1,10.20,614163,
+Buspirone,D002065,36505-84-7,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,RORC,10.20,,25395965
+Buthionine Sulfoximine,D019328,5072-26-4,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,RORC,4.23,,25395965
+butylbenzyl phthalate,C027561,85-68-7,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,BHLHE40,6.23,,25395965
+butylbenzyl phthalate,C027561,85-68-7,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,NFIL3,6.23,,25395965
+butyraldehyde,C018475,123-72-8,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,AANAT,4.57,,12736803
+butyraldehyde,C018475,123-72-8,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,RORC,4.57,,25395965
+Cacodylic Acid,D002101,75-60-5,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,CRY1,5.95,614163,
+Cacodylic Acid,D002101,75-60-5,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,NFIL3,5.95,,25395965
+Cadmium,D002104,7440-43-9,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,NFIL3,3.64,,25395965
+Cadmium,D002104,7440-43-9,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,RORC,3.64,,25395965
+Cadmium Chloride,D019256,10108-64-2,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,BHLHE40,3.85,,25395965
+Cadmium Chloride,D019256,10108-64-2,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,CRY1,3.85,614163,
+Cadmium Chloride,D019256,10108-64-2,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,NFIL3,3.85,,25395965
+Cadmium Chloride,D019256,10108-64-2,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,RORC,3.85,,25395965
+cadmium sulfate,C037123,10124-36-4,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,BHLHE40,4.19,,25395965
+caffeic acid phenethyl ester,C055494,104594-70-9,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,AANAT,4.97,,12736803
+Calcitriol,D002117,32222-06-3,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,RORC,3.38,,25395965
+calyculin A,C059041,101932-71-2,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,AANAT,5.57,,12736803
+Cannabidiol,D002185,13956-29-1,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,AANAT,7.13,,12736803
+Cannabidiol,D002185,13956-29-1,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,NFIL3,7.13,,25395965
+Cannabidiol,D002185,13956-29-1,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,RORC,7.13,,25395965
+Cannabinol,D002187,521-35-7,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,AANAT,6.59,,12736803
+Captan,D002215,133-06-2,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,BHLHE40,7.33,,25395965
+Captan,D002215,133-06-2,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,NFIL3,7.33,,25395965
+Carbamazepine,D002220,298-46-4,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,BHLHE40,6.84,,25395965
+Carbamazepine,D002220,298-46-4,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,NFIL3,6.84,,25395965
+Carbamazepine,D002220,298-46-4,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,RORC,6.84,,25395965
+Carbon Tetrachloride,D002251,56-23-5,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,CRY1,4.04,614163,
+Carbon Tetrachloride,D002251,56-23-5,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,NFIL3,4.04,,25395965
+Carbon Tetrachloride,D002251,56-23-5,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,RORC,4.04,,25395965
+Cellulose,D002482,9004-34-6,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,CRY1,4.21,614163,
+Cellulose,D002482,9004-34-6,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,NFIL3,4.21,,25395965
+Cephaloridine,D002509,50-59-9,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,CRY1,7.28,614163,
+Cephaloridine,D002509,50-59-9,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,NFIL3,7.28,,25395965
+CGP 52608,C092451,87958-67-6,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,NFIL3,3.04,,25395965
+Chlordan,D002706,12789-03-6,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,RORC,4.02,,25395965
+Chlordecone,D007631,143-50-0,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,NFIL3,3.37,,25395965
+chlormidazole,C006971,3689-76-7,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,RORC,6.22,,25395965
+chloroacetaldehyde,C004656,107-20-0,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,BHLHE40,4.20,,25395965
+Chlorodiphenyl (54% Chlorine),D020111,11097-69-1,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,BHLHE40,3.39,,25395965
+chloropicrin,C100187,76-06-2,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,BHLHE40,3.55,,25395965
+Chloroprene,D002737,126-99-8,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,BHLHE40,11.68,,25395965
+Chloroprene,D002737,126-99-8,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,CRY1,11.68,614163,
+Chloroprene,D002737,126-99-8,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,NFIL3,11.68,,25395965
+Chloroprene,D002737,126-99-8,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,RORC,11.68,,25395965
+Chlorpromazine,D002746,50-53-3,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,BHLHE40,3.65,,25395965
+Chlorpyrifos,D004390,2921-88-2,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,BHLHE40,5.94,,25395965
+Chlorpyrifos,D004390,2921-88-2,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,CRY1,5.94,614163,
+Chlorpyrifos,D004390,2921-88-2,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,NFIL3,5.94,,25395965
+Chlorpyrifos,D004390,2921-88-2,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,RORC,5.94,,25395965
+chlorpyrifos-methyl,C007031,5598-13-0,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,NFIL3,8.92,,25395965
+chlorpyrifos-methyl,C007031,5598-13-0,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,RORC,8.92,,25395965
+Cholecalciferol,D002762,67-97-0,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,RORC,4.29,,25395965
+Choline,D002794,62-49-7,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,NFIL3,3.18,,25395965
+Chromium,D002857,7440-47-3,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,BHLHE40,4.20,,25395965
+chromium hexavalent ion,C074702,18540-29-9,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,BHLHE40,3.21,,25395965
+chrysene,C031180,218-01-9,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,BHLHE40,9.37,,25395965
+chrysene,C031180,218-01-9,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,NFIL3,9.37,,25395965
+chrysene,C031180,218-01-9,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,RORC,9.37,,25395965
+chrysin,C043561,480-40-0,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,RORC,4.52,,25395965
+cinobufagin,C002471,470-37-1,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,BHLHE40,5.22,,25395965
+Cisplatin,D002945,15663-27-1,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,BHLHE40,3.79,,25395965
+Cisplatin,D002945,15663-27-1,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,CRY1,3.79,614163,
+Cisplatin,D002945,15663-27-1,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,NFIL3,3.79,,25395965
+Clobetasol,D002990,25122-41-2,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,BHLHE40,6.33,,25395965
+Clobetasol,D002990,25122-41-2,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,CRY1,6.33,614163,
+Clofibrate,D002994,637-07-0,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,BHLHE40,8.61,,25395965
+Clofibrate,D002994,637-07-0,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,CRY1,8.61,614163,
+Clofibrate,D002994,637-07-0,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,NFIL3,8.61,,25395965
+Clofibrate,D002994,637-07-0,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,RORC,8.61,,25395965
+cobaltous chloride,C018021,7646-79-9,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,BHLHE40,5.21,,25395965
+cobaltous chloride,C018021,7646-79-9,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,CRY1,5.21,614163,
+cobaltous chloride,C018021,7646-79-9,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,NFIL3,5.21,,25395965
+cobalt oxide,C060728,11104-61-3,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,BHLHE40,10.81,,25395965
+cobalt oxide,C060728,11104-61-3,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,NFIL3,10.81,,25395965
+Cocaine,D003042,50-36-2,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,AANAT,7.55,,12736803
+Cocaine,D003042,50-36-2,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,BHLHE40,7.55,,25395965
+Cocaine,D003042,50-36-2,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,CRY1,7.55,614163,
+Copper,D003300,7440-50-8,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,BHLHE40,3.71,,25395965
+Copper,D003300,7440-50-8,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,NFIL3,3.71,,25395965
+Copper Sulfate,D019327,7758-98-7,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,CRY1,3.58,614163,
+Copper Sulfate,D019327,7758-98-7,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,NFIL3,3.58,,25395965
+Corn Oil,D003314,8001-30-7,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,BHLHE40,4.44,,25395965
+Coumestrol,D003375,479-13-0,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,BHLHE40,7.68,,25395965
+Coumestrol,D003375,479-13-0,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,CRY1,7.68,614163,
+Coumestrol,D003375,479-13-0,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,NFIL3,7.68,,25395965
+CPG-oligonucleotide,C408982,,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,CRY1,4.61,614163,
+cupric chloride,C029892,7447-39-4,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,CRY1,7.81,614163,
+cupric chloride,C029892,7447-39-4,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,NFIL3,7.81,,25395965
+cupric chloride,C029892,7447-39-4,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,RORC,7.81,,25395965
+cupric oxide,C030973,1317-38-0,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,NFIL3,3.95,,25395965
+Cyclophosphamide,D003520,50-18-0,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,RORC,3.70,,25395965
+cycloprothrin,C528277,,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,RORC,6.29,,25395965
+Cyclosporine,D016572,59865-13-3,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,BHLHE40,4.79,,25395965
+Cyclosporine,D016572,59865-13-3,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,CRY1,4.79,614163,
+Cyclosporine,D016572,59865-13-3,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,NFIL3,4.79,,25395965
+Cyclosporine,D016572,59865-13-3,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,RORC,4.79,,25395965
+cyhalothrin,C037304,68085-85-8,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,RORC,4.14,,25395965
+cylindrospermopsin,C089595,143545-90-8,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,CRY1,4.08,614163,
+daidzein,C004742,486-66-8,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,RORC,4.41,,25395965
+decabromobiphenyl ether,C010902,1163-19-5,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,BHLHE40,3.20,,25395965
+decamethrin,C017180,52820-00-5,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,BHLHE40,4.84,,25395965
+decamethrin,C017180,52820-00-5,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,CRY1,4.84,614163,
+decamethrin,C017180,52820-00-5,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,NFIL3,4.84,,25395965
+decamethrin,C017180,52820-00-5,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,RORC,4.84,,25395965
+Decitabine,D000077209,2353-33-5,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,BHLHE40,7.15,,25395965
+Decitabine,D000077209,2353-33-5,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,NFIL3,7.15,,25395965
+Decitabine,D000077209,2353-33-5,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,RORC,7.15,,25395965
+deoxynivalenol,C007262,51481-10-8,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,BHLHE40,5.12,,25395965
+deoxynivalenol,C007262,51481-10-8,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,CRY1,5.12,614163,
+deoxynivalenol,C007262,51481-10-8,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,RORC,5.12,,25395965
+Dexamethasone,D003907,50-02-2,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,AANAT,5.33,,12736803
+Dexamethasone,D003907,50-02-2,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,BHLHE40,5.33,,25395965
+Dexamethasone,D003907,50-02-2,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,NFIL3,5.33,,25395965
+Dexamethasone,D003907,50-02-2,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,RORC,5.33,,25395965
+Dextran Sulfate,D016264,9042-14-2,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,RORC,3.46,,25395965
+Diazinon,D003976,333-41-5,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,RORC,3.55,,25395965
+Dibutyl Phthalate,D003993,84-74-2,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,BHLHE40,3.74,,25395965
+Dibutyl Phthalate,D003993,84-74-2,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,NFIL3,3.74,,25395965
+Dichloroacetic Acid,D003999,79-43-6,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,BHLHE40,5.98,,25395965
+Dichloroacetic Acid,D003999,79-43-6,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,NFIL3,5.98,,25395965
+Dichlorodiphenyl Dichloroethylene,D003633,72-55-9,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,BHLHE40,4.63,,25395965
+Dichlorodiphenyl Dichloroethylene,D003633,72-55-9,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,NFIL3,4.63,,25395965
+Diclofenac,D004008,15307-86-5,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,CRY1,8.27,614163,
+Diclofenac,D004008,15307-86-5,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,NFIL3,8.27,,25395965
+Diclofenac,D004008,15307-86-5,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,RORC,8.27,,25395965
+dicyclohexyl phthalate,C036042,84-61-7,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,NFIL3,3.75,,25395965
+Dietary Fats,D004041,,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,BHLHE40,6.12,,25395965
+Dietary Fats,D004041,,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,CRY1,6.12,614163,
+Dietary Fats,D004041,,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,NFIL3,6.12,,25395965
+Dietary Fats,D004041,,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,RORC,6.12,,25395965
+Dietary Sucrose,D019422,,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,RORC,3.44,,25395965
+Diethylhexyl Phthalate,D004051,117-81-7,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,BHLHE40,5.21,,25395965
+Diethylhexyl Phthalate,D004051,117-81-7,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,CRY1,5.21,614163,
+Diethylhexyl Phthalate,D004051,117-81-7,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,NFIL3,5.21,,25395965
+Diethylhexyl Phthalate,D004051,117-81-7,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,RORC,5.21,,25395965
+Diethylnitrosamine,D004052,55-18-5,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,AANAT,4.61,,12736803
+Diethylnitrosamine,D004052,55-18-5,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,NFIL3,4.61,,25395965
+diethyl phthalate,C007379,84-66-2,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,BHLHE40,3.72,,25395965
+Diethylstilbestrol,D004054,56-53-1,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,BHLHE40,3.33,,25395965
+Digoxigenin,D004076,1672-46-4,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,RORC,5.99,,25395965
+Digoxin,D004077,20830-75-5,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,RORC,4.63,,25395965
+dihydroouabain,C000977,1183-35-3,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,RORC,6.22,,25395965
+dihydroxy-vitamin D3,C118756,,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,RORC,5.69,,25395965
+diisobutyl phthalate,C025605,84-69-5,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,BHLHE40,3.42,,25395965
+diisononyl phthalate,C012125,28553-12-0,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,BHLHE40,3.71,,25395965
+Dimethylnitrosamine,D004128,62-75-9,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,CRY1,3.86,614163,
+dimethyl phthalate,C024629,131-11-3,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,NFIL3,3.83,,25395965
+di-n-butylphosphoric acid,C065087,107-66-4,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,CRY1,3.77,614163,
+di-n-butylphosphoric acid,C065087,107-66-4,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,NFIL3,3.77,,25395965
+Dinoprostone,D015232,363-24-6,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,RORC,4.29,,25395965
+Dioxins,D004147,,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,CRY1,3.53,614163,
+Dioxins,D004147,,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,NFIL3,3.53,,25395965
+domoic acid,C012301,14277-97-5,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,BHLHE40,3.79,,25395965
+dorsomorphin,C516138,,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,BHLHE40,3.01,,25395965
+Doxorubicin,D004317,23214-92-8,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,BHLHE40,3.85,,25395965
+Doxorubicin,D004317,23214-92-8,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,CRY1,3.85,614163,
+Doxorubicin,D004317,23214-92-8,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,NFIL3,3.85,,25395965
+Doxycycline,D004318,564-25-0,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,RORC,4.55,,25395965
+Dronabinol,D013759,,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,BHLHE40,3.09,,25395965
+"Drugs, Chinese Herbal",D004365,,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,NFIL3,3.73,,25395965
+Endosulfan,D004726,115-29-7,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,NFIL3,3.98,,25395965
+Endosulfan,D004726,115-29-7,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,RORC,3.98,,25395965
+epicatechin gallate,C062669,863-03-6,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,CRY1,5.13,614163,
+epigallocatechin gallate,C045651,989-51-5,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,CRY1,4.89,614163,
+epigallocatechin gallate,C045651,989-51-5,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,NFIL3,4.89,,25395965
+epoxiconazole,C109476,,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,BHLHE40,5.57,,25395965
+epoxiconazole,C109476,,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,NFIL3,5.57,,25395965
+epoxiconazole,C109476,,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,RORC,5.57,,25395965
+"erucylphospho-N,N,N-trimethylpropylammonium",C472787,,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,BHLHE40,6.44,,25395965
+"erucylphospho-N,N,N-trimethylpropylammonium",C472787,,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,NFIL3,6.44,,25395965
+Estradiol,D004958,50-28-2,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,BHLHE40,3.72,,25395965
+Estradiol,D004958,50-28-2,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,CRY1,3.72,614163,
+Estradiol,D004958,50-28-2,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,NFIL3,3.72,,25395965
+Estradiol,D004958,50-28-2,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,RORC,3.72,,25395965
+Ethanol,D000431,64-17-5,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,BHLHE40,3.63,,25395965
+Ethanol,D000431,64-17-5,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,CRY1,3.63,614163,
+Ethanol,D000431,64-17-5,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,NFIL3,3.63,,25395965
+Ethinyl Estradiol,D004997,57-63-6,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,BHLHE40,4.53,,25395965
+Ethinyl Estradiol,D004997,57-63-6,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,CRY1,4.53,614163,
+Ethinyl Estradiol,D004997,57-63-6,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,NFIL3,4.53,,25395965
+Ethinyl Estradiol,D004997,57-63-6,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,RORC,4.53,,25395965
+Etoposide,D005047,33419-42-0,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,RORC,3.86,,25395965
+fatostatin,C545733,,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,BHLHE40,4.65,,25395965
+Fenofibrate,D011345,49562-28-9,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,BHLHE40,3.75,,25395965
+fenpyroximate,C415144,134098-61-6,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,NFIL3,8.01,,25395965
+fenpyroximate,C415144,134098-61-6,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,RORC,8.01,,25395965
+Fenretinide,D017313,65646-68-6,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,BHLHE40,5.47,,25395965
+Fenretinide,D017313,65646-68-6,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,NFIL3,5.47,,25395965
+Fenretinide,D017313,65646-68-6,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,RORC,5.47,,25395965
+ferric oxide,C000499,1309-37-1,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,BHLHE40,4.20,,25395965
+ferrous chloride,C029451,7758-94-3,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,BHLHE40,6.29,,25395965
+ferrous chloride,C029451,7758-94-3,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,NFIL3,6.29,,25395965
+fipronil,C082360,120068-37-3,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,NFIL3,3.25,,25395965
+Floxacillin,D005436,5250-39-5,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,RORC,5.10,,25395965
+fluoranthene,C007738,206-44-0,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,NFIL3,3.72,,25395965
+fluoxastrobin,C550006,,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,RORC,5.83,,25395965
+Fluoxetine,D005473,54910-89-3,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,AANAT,7.23,,12736803
+Fluoxetine,D005473,54910-89-3,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,CRY1,7.23,614163,
+flusilazole,C061365,85509-19-9,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,NFIL3,4.09,,25395965
+Flutamide,D005485,13311-84-7,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,BHLHE40,4.14,,25395965
+Flutamide,D005485,13311-84-7,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,RORC,4.14,,25395965
+fluvalinate,C034227,79472-91-6,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,RORC,5.83,,25395965
+Fluvastatin,D000077340,93957-54-1,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,BHLHE40,4.53,,25395965
+Folic Acid,D005492,59-30-3,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,AANAT,6.28,,12736803
+Folic Acid,D005492,59-30-3,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,BHLHE40,6.28,,25395965
+Folic Acid,D005492,59-30-3,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,CRY1,6.28,614163,
+Folic Acid,D005492,59-30-3,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,NFIL3,6.28,,25395965
+Folic Acid,D005492,59-30-3,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,RORC,6.28,,25395965
+folpet,C005020,133-07-3,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,BHLHE40,10.71,,25395965
+folpet,C005020,133-07-3,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,CRY1,10.71,614163,
+folpet,C005020,133-07-3,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,NFIL3,10.71,,25395965
+Formaldehyde,D005557,50-00-0,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,BHLHE40,4.14,,25395965
+Formaldehyde,D005557,50-00-0,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,RORC,4.14,,25395965
+formononetin,C007768,485-72-3,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,RORC,4.96,,25395965
+FR900359,C000607068,,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,NFIL3,3.14,,25395965
+Freund's Adjuvant,D005620,9007-81-2,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,RORC,4.33,,25395965
+fullerene C60,C069837,99685-96-8,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,NFIL3,5.43,,25395965
+fullerene C60,C069837,99685-96-8,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,RORC,5.43,,25395965
+Fungal Polysaccharides,D062610,,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,RORC,4.77,,25395965
+furan,C039281,110-00-9,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,BHLHE40,5.71,,25395965
+furan,C039281,110-00-9,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,CRY1,5.71,614163,
+furan,C039281,110-00-9,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,NFIL3,5.71,,25395965
+Gallic Acid,D005707,149-91-7,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,CRY1,4.09,614163,
+gallocatechol,C057580,1617-55-6,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,CRY1,5.19,614163,
+Gasoline,D005742,,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,BHLHE40,3.56,,25395965
+Genistein,D019833,446-72-0,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,BHLHE40,5.46,,25395965
+Genistein,D019833,446-72-0,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,NFIL3,5.46,,25395965
+Genistein,D019833,446-72-0,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,RORC,5.46,,25395965
+Gentamicins,D005839,,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,BHLHE40,5.51,,25395965
+Gentamicins,D005839,,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,CRY1,5.51,614163,
+Gentamicins,D005839,,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,NFIL3,5.51,,25395965
+Gentamicins,D005839,,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,RORC,5.51,,25395965
+geraniol,C007836,624-15-7,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,NFIL3,4.00,,25395965
+Glafenine,D005897,3820-67-5,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,BHLHE40,5.69,,25395965
+Glafenine,D005897,3820-67-5,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,RORC,5.69,,25395965
+Glyphosate,D000097797,,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,CRY1,6.21,614163,
+Glyphosate,D000097797,,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,NFIL3,6.21,,25395965
+Glyphosate,D000097797,,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,RORC,6.21,,25395965
+GSK-J4,C000593030,,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,CRY1,4.97,614163,
+GSK-J4,C000593030,,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,NFIL3,4.97,,25395965
+halofuginone,C010176,,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,BHLHE40,4.62,,25395965
+Haloperidol,D006220,52-86-8,"Sleep Disorders, Circadian Rhythm",MESH:D020178,marker/mechanism,,,,12405556|9463841
+Haloperidol,D006220,52-86-8,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,CRY1,3.66,614163,
+Haloperidol,D006220,52-86-8,"Sleep Disorders, Intrinsic",MESH:D020919,marker/mechanism,,,,16886695|16905684
+helveticoside,C007914,630-64-8,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,RORC,7.19,,25395965
+Heptachlor Epoxide,D006534,1024-57-3,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,BHLHE40,4.70,,25395965
+hexabromocyclododecane,C089796,25637-99-4,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,BHLHE40,5.42,,25395965
+hexabromocyclododecane,C089796,25637-99-4,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,CRY1,5.42,614163,
+hexabromocyclododecane,C089796,25637-99-4,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,NFIL3,5.42,,25395965
+Hexachlorocyclohexane,D001556,,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,BHLHE40,3.50,,25395965
+hexaconazole,C409722,,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,NFIL3,9.54,,25395965
+hexaconazole,C409722,,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,RORC,9.54,,25395965
+homosalate,C060446,,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,BHLHE40,5.30,,25395965
+"Hydrocarbons, Chlorinated",D006843,,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,NFIL3,3.88,,25395965
+Hydrocortisone,D006854,50-23-7,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,CRY1,4.23,614163,
+Hydrogen Peroxide,D006861,7722-84-1,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,CRY1,4.15,614163,
+Hydrogen Peroxide,D006861,7722-84-1,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,NFIL3,4.15,,25395965
+hydroxysafflor yellow A,C085278,146087-19-6,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,RORC,5.35,,25395965
+Hypochlorous Acid,D006997,7790-92-3,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,BHLHE40,4.08,,25395965
+ICG 001,C492448,,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,NFIL3,3.26,,25395965
+Ifosfamide,D007069,3778-73-2,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,BHLHE40,4.08,,25395965
+imidacloprid,C082359,105827-78-9,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,CRY1,10.85,614163,
+imidacloprid,C082359,105827-78-9,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,NFIL3,10.85,,25395965
+imidacloprid,C082359,105827-78-9,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,RORC,10.85,,25395965
+Imiquimod,D000077271,99011-02-6,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,RORC,4.66,,25395965
+"indeno(1,2,3-cd)pyrene",C041508,193-39-5,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,NFIL3,4.32,,25395965
+Indican,D007200,487-94-5,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,RORC,5.10,,25395965
+indole-3-carbinol,C016517,700-06-1,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,BHLHE40,5.63,,25395965
+indole-3-carbinol,C016517,700-06-1,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,NFIL3,5.63,,25395965
+Indomethacin,D007213,53-86-1,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,BHLHE40,3.05,,25395965
+Inulin,D007444,9005-80-5,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,CRY1,5.03,614163,
+Inulin,D007444,9005-80-5,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,NFIL3,5.03,,25395965
+Ionomycin,D015759,56092-81-0,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,BHLHE40,5.32,,25395965
+Ionomycin,D015759,56092-81-0,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,CRY1,5.32,614163,
+Ionomycin,D015759,56092-81-0,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,NFIL3,5.32,,25395965
+Iron,D007501,7439-89-6,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,NFIL3,3.96,,25395965
+isobutyl alcohol,C040507,78-83-1,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,BHLHE40,4.04,,25395965
+Isoproterenol,D007545,7683-59-2,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,NFIL3,3.58,,25395965
+Isotretinoin,D015474,4759-48-2,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,BHLHE40,3.68,,25395965
+jinfukang,C544151,,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,CRY1,3.75,614163,
+jinfukang,C544151,,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,NFIL3,3.75,,25395965
+JP8 aviation fuel,C098607,,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,BHLHE40,4.71,,25395965
+JP8 aviation fuel,C098607,,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,CRY1,4.71,614163,
+JP8 aviation fuel,C098607,,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,NFIL3,4.71,,25395965
+(+)-JQ1 compound,C561695,,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,BHLHE40,4.04,,25395965
+(+)-JQ1 compound,C561695,,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,RORC,4.04,,25395965
+jujuboside A,C087808,55466-04-1,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,NFIL3,5.30,,25395965
+K 7174,C410337,,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,NFIL3,3.38,,25395965
+Ketamine,D007649,6740-88-1,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,BHLHE40,6.02,,25395965
+Ketamine,D007649,6740-88-1,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,NFIL3,6.02,,25395965
+Ketorolac Tromethamine,D020911,74103-07-4,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,AANAT,6.45,,12736803
+kojic acid,C011890,501-30-4,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,NFIL3,4.07,,25395965
+kresoxim-methyl,C469328,,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,RORC,6.04,,25395965
+Lactic Acid,D019344,50-21-5,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,BHLHE40,4.33,,25395965
+Lactic Acid,D019344,50-21-5,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,NFIL3,4.33,,25395965
+Latex,D007840,,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,RORC,4.56,,25395965
+Lead,D007854,7439-92-1,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,BHLHE40,4.41,,25395965
+Lead,D007854,7439-92-1,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,RORC,4.41,,25395965
+lead acetate,C008261,301-04-2,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,NFIL3,4.60,,25395965
+lead acetate,C008261,301-04-2,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,RORC,4.60,,25395965
+lead chloride,C029891,7758-95-4,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,BHLHE40,4.48,,25395965
+Leflunomide,D000077339,75706-12-6,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,BHLHE40,6.47,,25395965
+Leflunomide,D000077339,75706-12-6,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,NFIL3,6.47,,25395965
+Leflunomide,D000077339,75706-12-6,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,RORC,6.47,,25395965
+Levamisole,D007978,14769-73-4,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,RORC,4.85,,25395965
+LG 100815,C533894,,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,BHLHE40,4.83,,25395965
+"lipopolysaccharide, E coli O55-B5",C482199,,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,BHLHE40,5.18,,25395965
+"lipopolysaccharide, E coli O55-B5",C482199,,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,CRY1,5.18,614163,
+Lipopolysaccharides,D008070,,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,BHLHE40,4.86,,25395965
+Lipopolysaccharides,D008070,,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,CRY1,4.86,614163,
+Lipopolysaccharides,D008070,,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,NFIL3,4.86,,25395965
+Lithium,D008094,7439-93-2,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,AANAT,4.85,,12736803
+Manganese,D008345,7439-96-5,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,BHLHE40,3.19,,25395965
+manganese chloride,C025340,7773-01-5,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,BHLHE40,3.75,,25395965
+manganese chloride,C025340,7773-01-5,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,CRY1,3.75,614163,
+Melatonin,D008550,73-31-4,"Sleep Disorders, Circadian Rhythm",MESH:D020178,therapeutic,,,,11684046|12405556|18078449|19452292|25395965|9095378
+Melatonin,D008550,73-31-4,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,CRY1,4.04,614163,
+mercuric bromide,C042720,7789-47-1,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,BHLHE40,3.62,,25395965
+Mercury,D008628,7439-97-6,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,BHLHE40,3.77,,25395965
+Metformin,D008687,657-24-9,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,BHLHE40,3.64,,25395965
+methacrylaldehyde,C039175,78-85-3,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,CRY1,3.55,614163,
+Methamphetamine,D008694,537-46-2,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,AANAT,7.24,,12736803
+Methamphetamine,D008694,537-46-2,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,CRY1,7.24,614163,
+Methamphetamine,D008694,537-46-2,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,NFIL3,7.24,,25395965
+Methamphetamine,D008694,537-46-2,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,RORC,7.24,,25395965
+methidathion,C005828,950-37-8,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,BHLHE40,3.40,,25395965
+Methimazole,D008713,60-56-0,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,CRY1,3.32,614163,
+Methionine,D008715,63-68-3,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,NFIL3,3.18,,25395965
+Methoprene,D008726,40596-69-8,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,CRY1,4.27,614163,
+Methotrexate,D008727,59-05-2,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,BHLHE40,4.51,,25395965
+Methotrexate,D008727,59-05-2,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,NFIL3,4.51,,25395965
+Methoxsalen,D008730,298-81-7,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,BHLHE40,4.84,,25395965
+methylarsine oxide,C080197,593-58-8,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,BHLHE40,10.39,,25395965
+methylarsine oxide,C080197,593-58-8,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,CRY1,10.39,614163,
+methylarsine oxide,C080197,593-58-8,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,RORC,10.39,,25395965
+Methylene Chloride,D008752,75-09-2,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,BHLHE40,13.33,,25395965
+Methylene Chloride,D008752,75-09-2,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,CRY1,13.33,614163,
+Methylene Chloride,D008752,75-09-2,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,NFIL3,13.33,,25395965
+methyleugenol,C005223,93-15-2,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,RORC,3.68,,25395965
+methylmercuric chloride,C004925,115-09-3,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,BHLHE40,3.21,,25395965
+methylmercuric chloride,C004925,115-09-3,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,NFIL3,3.21,,25395965
+Methyl Methanesulfonate,D008741,66-27-3,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,BHLHE40,3.45,,25395965
+Methyl Methanesulfonate,D008741,66-27-3,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,RORC,3.45,,25395965
+methylparaben,C015358,99-76-3,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,BHLHE40,3.67,,25395965
+methylselenic acid,C008493,,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,NFIL3,4.11,,25395965
+Mevalonic Acid,D008798,150-97-0,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,RORC,4.80,,25395965
+Midazolam,D008874,59467-70-8,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,NFIL3,4.62,,25395965
+Mitomycin,D016685,50-07-7,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,CRY1,7.14,614163,
+Mitomycin,D016685,50-07-7,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,NFIL3,7.14,,25395965
+monobutyl phthalate,C028577,131-70-4,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,CRY1,3.97,614163,
+monochloropropanediol,C585004,,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,CRY1,7.23,614163,
+monochloropropanediol,C585004,,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,RORC,7.23,,25395965
+monomethylarsonic acid,C020300,124-58-3,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,CRY1,6.66,614163,
+monomethylarsonic acid,C020300,124-58-3,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,NFIL3,6.66,,25395965
+monomethylarsonous acid,C406082,,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,NFIL3,3.66,,25395965
+monomethyl phthalate,C517284,,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,NFIL3,3.71,,25395965
+moringin,C000614007,,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,NFIL3,4.56,,25395965
+myelin oligodendrocyte glycoprotein (35-55),C445081,,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,RORC,5.83,,25395965
+"N-(2-(1,1'-bicyclopropyl)-2-ylphenyl)-3-(difluoromethyl)-1-methyl-1H-pyrazole-4-carboxamide",C583365,,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,BHLHE40,6.49,,25395965
+"N-(2-(1,1'-bicyclopropyl)-2-ylphenyl)-3-(difluoromethyl)-1-methyl-1H-pyrazole-4-carboxamide",C583365,,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,NFIL3,6.49,,25395965
+"Nanotubes, Carbon",D037742,,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,BHLHE40,3.83,,25395965
+"Nanotubes, Carbon",D037742,,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,NFIL3,3.83,,25395965
+"Nanotubes, Carbon",D037742,,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,RORC,3.83,,25395965
+Naphthoquinones,D009285,,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,NFIL3,4.22,,25395965
+n-butoxyethanol,C017096,111-76-2,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,BHLHE40,3.89,,25395965
+nefazodone,C051752,83366-66-9,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,CRY1,7.70,614163,
+nefazodone,C051752,83366-66-9,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,NFIL3,7.70,,25395965
+nefazodone,C051752,83366-66-9,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,RORC,7.70,,25395965
+Nickel,D009532,7440-02-0,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,CRY1,4.09,614163,
+Nickel,D009532,7440-02-0,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,RORC,4.09,,25395965
+nickel chloride,C022838,7718-54-9,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,NFIL3,3.55,,25395965
+nickel monoxide,C028007,1313-99-1,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,BHLHE40,6.99,,25395965
+nickel monoxide,C028007,1313-99-1,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,NFIL3,6.99,,25395965
+nickel monoxide,C028007,1313-99-1,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,RORC,6.99,,25395965
+nickel sulfate,C029938,7786-81-4,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,BHLHE40,5.37,,25395965
+nickel sulfate,C029938,7786-81-4,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,NFIL3,5.37,,25395965
+Niclosamide,D009534,50-65-7,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,BHLHE40,3.32,,25395965
+nimesulide,C012655,51803-78-2,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,BHLHE40,8.47,,25395965
+nimesulide,C012655,51803-78-2,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,NFIL3,8.47,,25395965
+nimesulide,C012655,51803-78-2,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,RORC,8.47,,25395965
+nitrosobenzylmethylamine,C014707,937-40-6,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,BHLHE40,3.89,,25395965
+N-Nitrosopyrrolidine,D009242,930-55-2,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,RORC,3.82,,25395965
+Norepinephrine,D009638,51-41-2,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,AANAT,8.38,,12736803
+Norepinephrine,D009638,51-41-2,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,NFIL3,8.38,,25395965
+norisoboldine,C464745,,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,RORC,5.72,,25395965
+"N-(oxo-5,6-dihydrophenanthridin-2-yl)-N,N-dimethylacetamide hydrochloride",C434926,,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,NFIL3,4.06,,25395965
+NSC305787,C570896,,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,BHLHE40,5.27,,25395965
+NSC 689534,C558013,,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,NFIL3,3.50,,25395965
+nuciferine,C008692,475-83-2,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,RORC,4.47,,25395965
+"octa-2,4,6-trienoic acid",C062198,5205-32-3,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,BHLHE40,4.82,,25395965
+Okadaic Acid,D019319,78111-17-8,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,AANAT,5.93,,12736803
+Okadaic Acid,D019319,78111-17-8,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,BHLHE40,5.93,,25395965
+Okadaic Acid,D019319,78111-17-8,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,CRY1,5.93,614163,
+Okadaic Acid,D019319,78111-17-8,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,RORC,5.93,,25395965
+Olanzapine,D000077152,,"Sleep Disorders, Intrinsic",MESH:D020919,marker/mechanism,,,,16886695
+Ovalbumin,D010047,9006-59-1,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,NFIL3,6.91,,25395965
+Ovalbumin,D010047,9006-59-1,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,RORC,6.91,,25395965
+Oxaliplatin,D000077150,,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,BHLHE40,3.24,,25395965
+oxidized-L-alpha-1-palmitoyl-2-arachidonoyl-sn-glycero-3-phosphorylcholine,C472349,,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,NFIL3,4.60,,25395965
+Oxygen,D010100,7782-44-7,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,BHLHE40,5.39,,25395965
+Oxygen,D010100,7782-44-7,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,CRY1,5.39,614163,
+Oxygen,D010100,7782-44-7,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,NFIL3,5.39,,25395965
+Oxyquinoline,D015125,148-24-3,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,BHLHE40,4.31,,25395965
+Ozone,D010126,10028-15-6,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,BHLHE40,5.21,,25395965
+Ozone,D010126,10028-15-6,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,CRY1,5.21,614163,
+Ozone,D010126,10028-15-6,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,NFIL3,5.21,,25395965
+Ozone,D010126,10028-15-6,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,RORC,5.21,,25395965
+Palmitic Acid,D019308,57-10-3,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,NFIL3,3.90,,25395965
+Palm Oil,D000073878,,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,BHLHE40,7.67,,25395965
+Palm Oil,D000073878,,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,CRY1,7.67,614163,
+Palm Oil,D000073878,,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,NFIL3,7.67,,25395965
+Panobinostat,D000077767,,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,BHLHE40,3.52,,25395965
+Pantothenic Acid,D010205,79-83-4,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,BHLHE40,3.92,,25395965
+Paraquat,D010269,4685-14-7,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,BHLHE40,5.11,,25395965
+Paraquat,D010269,4685-14-7,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,NFIL3,5.11,,25395965
+Paraquat,D010269,4685-14-7,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,RORC,5.11,,25395965
+Parathion,D010278,56-38-2,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,AANAT,6.19,,12736803
+Parathion,D010278,56-38-2,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,NFIL3,6.19,,25395965
+Particulate Matter,D052638,,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,AANAT,5.38,,12736803
+Particulate Matter,D052638,,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,BHLHE40,5.38,,25395965
+Particulate Matter,D052638,,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,CRY1,5.38,614163,
+Particulate Matter,D052638,,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,NFIL3,5.38,,25395965
+Particulate Matter,D052638,,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,RORC,5.38,,25395965
+p-Chloromercuribenzoic Acid,D020245,59-85-8,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,BHLHE40,3.70,,25395965
+PCI 5002,C568608,,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,NFIL3,3.84,,25395965
+Pectins,D010368,,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,CRY1,7.12,614163,
+Pectins,D010368,,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,NFIL3,7.12,,25395965
+Pectins,D010368,,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,RORC,7.12,,25395965
+pentabromodiphenyl ether,C086401,32534-81-9,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,BHLHE40,5.55,,25395965
+pentabromodiphenyl ether,C086401,32534-81-9,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,NFIL3,5.55,,25395965
+perfluorohexanesulfonic acid,C471071,355-46-4,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,BHLHE40,6.59,,25395965
+perfluorohexanesulfonic acid,C471071,355-46-4,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,NFIL3,6.59,,25395965
+perfluorohexanesulfonic acid,C471071,355-46-4,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,RORC,6.59,,25395965
+perfluoro-n-nonanoic acid,C101816,375-95-1,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,NFIL3,3.35,,25395965
+perfluorooctanesulfonamide,C063900,754-91-6,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,BHLHE40,4.03,,25395965
+perfluorooctanesulfonamide,C063900,754-91-6,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,NFIL3,4.03,,25395965
+perfluorooctane sulfonic acid,C076994,1763-23-1,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,CRY1,3.77,614163,
+perfluorooctane sulfonic acid,C076994,1763-23-1,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,NFIL3,3.77,,25395965
+perfluorooctane sulfonic acid,C076994,1763-23-1,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,RORC,3.77,,25395965
+perfluorooctanoic acid,C023036,335-67-1,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,BHLHE40,6.29,,25395965
+perfluorooctanoic acid,C023036,335-67-1,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,CRY1,6.29,614163,
+perfluorooctanoic acid,C023036,335-67-1,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,NFIL3,6.29,,25395965
+perfluorooctanoic acid,C023036,335-67-1,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,RORC,6.29,,25395965
+Perfume,D010476,,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,RORC,4.93,,25395965
+Pesticides,D010575,,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,NFIL3,3.81,,25395965
+PF-06840003,C000625742,,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,BHLHE40,4.85,,25395965
+Phenelzine,D010624,51-71-8,"Sleep Disorders, Circadian Rhythm",MESH:D020178,marker/mechanism,,,,3273886
+Phenformin,D010629,114-86-3,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,BHLHE40,7.49,,25395965
+Phenformin,D010629,114-86-3,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,CRY1,7.49,614163,
+Phenobarbital,D010634,50-06-6,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,BHLHE40,6.84,,25395965
+Phenobarbital,D010634,50-06-6,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,CRY1,6.84,614163,
+Phenobarbital,D010634,50-06-6,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,NFIL3,6.84,,25395965
+Phenobarbital,D010634,50-06-6,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,RORC,6.84,,25395965
+Phenol,D019800,108-95-2,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,BHLHE40,4.36,,25395965
+Phenylephrine,D010656,59-42-7,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,NFIL3,3.92,,25395965
+Phenylmercuric Acetate,D010662,62-38-4,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,BHLHE40,3.19,,25395965
+Phosgene,D010705,75-44-5,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,BHLHE40,4.44,,25395965
+picoxystrobin,C556557,,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,NFIL3,6.72,,25395965
+picoxystrobin,C556557,,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,RORC,6.72,,25395965
+Pioglitazone,D000077205,111025-46-8,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,RORC,3.83,,25395965
+pirinixic acid,C006253,50892-23-4,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,BHLHE40,5.51,,25395965
+pirinixic acid,C006253,50892-23-4,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,CRY1,5.51,614163,
+pirinixic acid,C006253,50892-23-4,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,NFIL3,5.51,,25395965
+pirinixic acid,C006253,50892-23-4,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,RORC,5.51,,25395965
+Plant Extracts,D010936,,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,CRY1,3.24,614163,
+platycodin D,C108953,58479-68-8,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,RORC,4.69,,25395965
+Polychlorinated Biphenyls,D011078,,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,BHLHE40,6.35,,25395965
+Polychlorinated Biphenyls,D011078,,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,NFIL3,6.35,,25395965
+Polycyclic Aromatic Hydrocarbons,D011084,,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,BHLHE40,3.50,,25395965
+Polyphenols,D059808,,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,CRY1,4.04,614163,
+Polystyrenes,D011137,,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,BHLHE40,7.29,,25395965
+Polystyrenes,D011137,,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,NFIL3,7.29,,25395965
+potassium chromate(VI),C027373,7789-00-6,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,BHLHE40,4.53,,25395965
+potassium chromate(VI),C027373,7789-00-6,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,NFIL3,4.53,,25395965
+Potassium Dichromate,D011192,7778-50-9,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,BHLHE40,4.90,,25395965
+Potassium Dichromate,D011192,7778-50-9,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,CRY1,4.90,614163,
+PP242,C572919,,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,BHLHE40,4.64,,25395965
+Prednisolone,D011239,50-24-8,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,CRY1,4.22,614163,
+Pregnenolone Carbonitrile,D011285,1434-54-4,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,RORC,3.44,,25395965
+Progesterone,D011374,57-83-0,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,BHLHE40,7.45,,25395965
+Progesterone,D011374,57-83-0,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,CRY1,7.45,614163,
+Progesterone,D011374,57-83-0,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,NFIL3,7.45,,25395965
+Progesterone,D011374,57-83-0,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,RORC,7.45,,25395965
+propionaldehyde,C005556,123-38-6,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,AANAT,4.23,,12736803
+Propranolol,D011433,525-66-6,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,AANAT,5.04,,12736803
+Propylthiouracil,D011441,51-52-5,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,BHLHE40,3.40,,25395965
+Propylthiouracil,D011441,51-52-5,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,CRY1,3.40,614163,
+Prostaglandin D2,D015230,41598-07-6,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,RORC,5.30,,25395965
+PX-866,C496788,,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,BHLHE40,5.47,,25395965
+pyrachlostrobin,C513428,,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,RORC,3.65,,25395965
+Qingdai compound,C530990,,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,RORC,5.21,,25395965
+Quercetin,D011794,117-39-5,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,BHLHE40,4.00,,25395965
+Quercetin,D011794,117-39-5,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,NFIL3,4.00,,25395965
+Quetiapine Fumarate,D000069348,,"Sleep Disorders, Intrinsic",MESH:D020919,marker/mechanism,,,,16905684
+Raloxifene Hydrochloride,D020849,,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,BHLHE40,5.96,,25395965
+Raloxifene Hydrochloride,D020849,,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,NFIL3,5.96,,25395965
+Ranitidine,D011899,66357-35-5,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,BHLHE40,4.35,,25395965
+resorcinol,C031389,108-46-3,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,BHLHE40,4.35,,25395965
+Resveratrol,D000077185,,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,BHLHE40,3.43,,25395965
+Resveratrol,D000077185,,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,CRY1,3.43,614163,
+Rifampin,D012293,13292-46-1,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,BHLHE40,3.88,,25395965
+rofecoxib,C116926,,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,RORC,4.60,,25395965
+Rosiglitazone,D000077154,,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,BHLHE40,4.97,,25395965
+Rosiglitazone,D000077154,,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,RORC,4.97,,25395965
+Rotenone,D012402,83-79-4,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,BHLHE40,7.09,,25395965
+Rotenone,D012402,83-79-4,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,CRY1,7.09,614163,
+Rotenone,D012402,83-79-4,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,NFIL3,7.09,,25395965
+Rotenone,D012402,83-79-4,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,RORC,7.09,,25395965
+Roxarsone,D012406,121-19-7,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,NFIL3,4.90,,25395965
+"S-(1,2-dichlorovinyl)cysteine",C039961,627-72-5,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,BHLHE40,3.19,,25395965
+saikosaponin D,C025759,,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,RORC,4.84,,25395965
+SCH 23390,C534628,,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,NFIL3,4.21,,25395965
+Serotonin,D012701,50-67-9,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,AANAT,5.31,,12736803
+Sevoflurane,D000077149,,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,NFIL3,3.96,,25395965
+Silicon Dioxide,D012822,7631-86-9,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,BHLHE40,4.90,,25395965
+Silicon Dioxide,D012822,7631-86-9,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,CRY1,4.90,614163,
+Silicon Dioxide,D012822,7631-86-9,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,NFIL3,4.90,,25395965
+Silicon Dioxide,D012822,7631-86-9,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,RORC,4.90,,25395965
+Silver,D012834,7440-22-4,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,BHLHE40,3.27,,25395965
+Simvastatin,D019821,79902-63-9,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,RORC,3.91,,25395965
+Smoke,D012906,,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,BHLHE40,3.87,,25395965
+Smoke,D012906,,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,CRY1,3.87,614163,
+Smoke,D012906,,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,NFIL3,3.87,,25395965
+sodium arsenate,C009277,,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,CRY1,4.27,614163,
+sodium arsenate,C009277,,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,NFIL3,4.27,,25395965
+sodium arsenite,C017947,13768-07-5,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,AANAT,3.83,,12736803
+sodium arsenite,C017947,13768-07-5,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,BHLHE40,3.83,,25395965
+sodium arsenite,C017947,13768-07-5,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,CRY1,3.83,614163,
+sodium arsenite,C017947,13768-07-5,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,NFIL3,3.83,,25395965
+sodium arsenite,C017947,13768-07-5,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,RORC,3.83,,25395965
+sodium bichromate,C016104,10588-01-9,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,BHLHE40,4.96,,25395965
+sodium bichromate,C016104,10588-01-9,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,NFIL3,4.96,,25395965
+Sodium Glutamate,D012970,142-47-2,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,CRY1,6.54,614163,
+Sodium Glutamate,D012970,142-47-2,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,NFIL3,6.54,,25395965
+Soman,D012999,96-64-0,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,NFIL3,3.35,,25395965
+Soot,D053260,,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,BHLHE40,7.06,,25395965
+Soot,D053260,,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,CRY1,7.06,614163,
+Soot,D053260,,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,NFIL3,7.06,,25395965
+Soot,D053260,,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,RORC,7.06,,25395965
+Streptozocin,D013311,18883-66-4,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,CRY1,3.65,614163,
+Strophanthidin,D013327,66-28-4,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,RORC,6.22,,25395965
+St. Thomas' Hospital cardioplegic solution,C041711,,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,BHLHE40,4.56,,25395965
+Styrene,D020058,,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,BHLHE40,9.26,,25395965
+Styrene,D020058,,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,NFIL3,9.26,,25395965
+Sulfadimethoxine,D013412,122-11-2,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,CRY1,3.43,614163,
+sulforaphane,C016766,,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,BHLHE40,5.18,,25395965
+sulforaphane,C016766,,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,RORC,5.18,,25395965
+Sulindac,D013467,38194-50-2,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,NFIL3,3.85,,25395965
+Sunitinib,D000077210,,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,BHLHE40,3.64,,25395965
+Sunitinib,D000077210,,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,CRY1,3.64,614163,
+T0901317,C423915,,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,RORC,4.72,,25395965
+T-2 Toxin,D013605,21259-20-1,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,NFIL3,4.54,,25395965
+T-2 Toxin,D013605,21259-20-1,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,RORC,4.54,,25395965
+TAK-243,C000622638,,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,BHLHE40,5.42,,25395965
+TAK-243,C000622638,,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,NFIL3,5.42,,25395965
+tallow,C013698,61789-97-7,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,RORC,4.34,,25395965
+tamibarotene,C061133,94497-51-5,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,BHLHE40,3.87,,25395965
+Tamoxifen,D013629,10540-29-1,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,BHLHE40,6.11,,25395965
+Tamoxifen,D013629,10540-29-1,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,CRY1,6.11,614163,
+Tamoxifen,D013629,10540-29-1,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,NFIL3,6.11,,25395965
+Testosterone,D013739,58-22-0,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,BHLHE40,5.12,,25395965
+Testosterone,D013739,58-22-0,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,NFIL3,5.12,,25395965
+Testosterone,D013739,58-22-0,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,RORC,5.12,,25395965
+testosterone-3-carboxymethyloxime-bovine serum albumin conjugate,C045037,,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,BHLHE40,4.46,,25395965
+tetrabromobisphenol A,C020806,79-94-7,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,CRY1,3.53,614163,
+Tetrachlorodibenzodioxin,D013749,1746-01-6,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,BHLHE40,3.01,,25395965
+Tetrachlorodibenzodioxin,D013749,1746-01-6,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,CRY1,3.01,614163,
+Tetrachlorodibenzodioxin,D013749,1746-01-6,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,NFIL3,3.01,,25395965
+Tetrachlorodibenzodioxin,D013749,1746-01-6,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,RORC,3.01,,25395965
+Tetradecanoylphorbol Acetate,D013755,16561-29-8,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,BHLHE40,5.05,,25395965
+Tetradecanoylphorbol Acetate,D013755,16561-29-8,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,CRY1,5.05,614163,
+Tetradecanoylphorbol Acetate,D013755,16561-29-8,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,NFIL3,5.05,,25395965
+tetrandrine,C009438,518-34-3,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,RORC,4.93,,25395965
+Thapsigargin,D019284,67526-95-8,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,BHLHE40,7.44,,25395965
+Thapsigargin,D019284,67526-95-8,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,CRY1,7.44,614163,
+Thapsigargin,D019284,67526-95-8,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,NFIL3,7.44,,25395965
+Thiabendazole,D013827,148-79-8,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,CRY1,11.98,614163,
+Thiabendazole,D013827,148-79-8,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,NFIL3,11.98,,25395965
+Thiabendazole,D013827,148-79-8,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,RORC,11.98,,25395965
+Thimerosal,D013849,54-64-8,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,BHLHE40,3.57,,25395965
+Thioacetamide,D013853,62-55-5,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,BHLHE40,4.43,,25395965
+Thioacetamide,D013853,62-55-5,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,CRY1,4.43,614163,
+Thioacetamide,D013853,62-55-5,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,NFIL3,4.43,,25395965
+Thioacetamide,D013853,62-55-5,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,RORC,4.43,,25395965
+Thiram,D013893,137-26-8,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,BHLHE40,3.77,,25395965
+Thiram,D013893,137-26-8,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,NFIL3,3.77,,25395965
+thymoquinone,C003466,490-91-5,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,RORC,4.53,,25395965
+tinuvin,C016151,3896-11-5,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,BHLHE40,7.42,,25395965
+tinuvin,C016151,3896-11-5,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,RORC,7.42,,25395965
+titanium dioxide,C009495,13463-67-7,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,BHLHE40,3.00,,25395965
+titanium dioxide,C009495,13463-67-7,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,CRY1,3.00,614163,
+titanium dioxide,C009495,13463-67-7,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,NFIL3,3.00,,25395965
+Tobacco Smoke Pollution,D014028,,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,BHLHE40,3.96,,25395965
+Tobacco Smoke Pollution,D014028,,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,CRY1,3.96,614163,
+Tobacco Smoke Pollution,D014028,,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,NFIL3,3.96,,25395965
+Tobacco Smoke Pollution,D014028,,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,RORC,3.96,,25395965
+tobacco tar,C024746,,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,NFIL3,4.27,,25395965
+tofacitinib,C479163,,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,RORC,4.83,,25395965
+"Toluene 2,4-Diisocyanate",D014051,584-84-9,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,RORC,4.34,,25395965
+Topotecan,D019772,123948-87-8,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,BHLHE40,3.24,,25395965
+torcetrapib,C483909,,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,NFIL3,4.20,,25395965
+Trans Fatty Acids,D044242,,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,CRY1,10.93,614163,
+Trans Fatty Acids,D044242,,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,NFIL3,10.93,,25395965
+Trans Fatty Acids,D044242,,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,RORC,10.93,,25395965
+Tranylcypromine,D014191,155-09-9,"Sleep Disorders, Circadian Rhythm",MESH:D020178,marker/mechanism,,,,3273886
+Tretinoin,D014212,302-79-4,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,BHLHE40,3.59,,25395965
+Tretinoin,D014212,302-79-4,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,CRY1,3.59,614163,
+Tretinoin,D014212,302-79-4,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,NFIL3,3.59,,25395965
+triadimefon,C032910,43121-43-3,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,CRY1,6.66,614163,
+triadimefon,C032910,43121-43-3,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,NFIL3,6.66,,25395965
+tributyltin,C011559,688-73-3,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,BHLHE40,7.54,,25395965
+tributyltin,C011559,688-73-3,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,CRY1,7.54,614163,
+tributyltin,C011559,688-73-3,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,NFIL3,7.54,,25395965
+Trichloroethylene,D014241,79-01-6,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,AANAT,5.91,,12736803
+Trichloroethylene,D014241,79-01-6,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,BHLHE40,5.91,,25395965
+Trichloroethylene,D014241,79-01-6,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,NFIL3,5.91,,25395965
+Trichloroethylene,D014241,79-01-6,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,RORC,5.91,,25395965
+trichostatin A,C012589,58880-19-6,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,BHLHE40,3.67,,25395965
+trichostatin A,C012589,58880-19-6,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,CRY1,3.67,614163,
+Triclosan,D014260,3380-34-5,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,BHLHE40,4.40,,25395965
+Triclosan,D014260,3380-34-5,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,CRY1,4.40,614163,
+trifloxystrobin,C467051,,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,RORC,5.23,,25395965
+triflumizol,C053549,68694-11-1,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,RORC,5.44,,25395965
+trimellitic anhydride,C015559,552-30-7,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,NFIL3,3.40,,25395965
+triphenyl phosphate,C005445,115-86-6,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,BHLHE40,5.14,,25395965
+triphenyl phosphate,C005445,115-86-6,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,CRY1,5.14,614163,
+triphenyl phosphate,C005445,115-86-6,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,NFIL3,5.14,,25395965
+triphenyl phosphate,C005445,115-86-6,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,RORC,5.14,,25395965
+triptolide,C001899,38748-32-2,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,BHLHE40,8.66,,25395965
+triptolide,C001899,38748-32-2,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,CRY1,8.66,614163,
+triptolide,C001899,38748-32-2,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,RORC,8.66,,25395965
+triptonide,C084079,38647-11-9,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,BHLHE40,3.63,,25395965
+triptonide,C084079,38647-11-9,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,RORC,3.63,,25395965
+"tris(1,3-dichloro-2-propyl)phosphate",C016805,13674-87-8,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,BHLHE40,5.20,,25395965
+"tris(1,3-dichloro-2-propyl)phosphate",C016805,13674-87-8,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,CRY1,5.20,614163,
+"tris(1,3-dichloro-2-propyl)phosphate",C016805,13674-87-8,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,NFIL3,5.20,,25395965
+triticonazole,C412303,,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,BHLHE40,4.41,,25395965
+Troglitazone,D000077288,97322-87-7,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,BHLHE40,6.49,,25395965
+Troglitazone,D000077288,97322-87-7,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,CRY1,6.49,614163,
+Troglitazone,D000077288,97322-87-7,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,NFIL3,6.49,,25395965
+trovafloxacin,C080163,146836-84-2,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,BHLHE40,5.08,,25395965
+trovafloxacin,C080163,146836-84-2,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,NFIL3,5.08,,25395965
+tryptanthrine,C046243,13220-57-0,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,RORC,5.47,,25395965
+Tunicamycin,D014415,11089-65-9,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,BHLHE40,7.05,,25395965
+Tunicamycin,D014415,11089-65-9,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,CRY1,7.05,614163,
+Tunicamycin,D014415,11089-65-9,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,NFIL3,7.05,,25395965
+U 0126,C113580,,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,NFIL3,3.98,,25395965
+undecane,C022884,1120-21-4,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,BHLHE40,8.72,,25395965
+undecane,C022884,1120-21-4,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,NFIL3,8.72,,25395965
+Uranium,D014501,7440-61-1,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,AANAT,5.04,,12736803
+Uranium Compounds,D017974,,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,BHLHE40,4.48,,25395965
+uranyl acetate,C005460,541-09-3,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,AANAT,5.14,,12736803
+Urethane,D014520,51-79-6,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,BHLHE40,5.30,,25395965
+Urethane,D014520,51-79-6,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,CRY1,5.30,614163,
+Urethane,D014520,51-79-6,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,RORC,5.30,,25395965
+Ursodeoxycholic Acid,D014580,128-13-2,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,RORC,4.25,,25395965
+valdecoxib,C406224,,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,RORC,3.92,,25395965
+Valproic Acid,D014635,99-66-1,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,AANAT,3.97,,12736803
+Valproic Acid,D014635,99-66-1,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,BHLHE40,3.97,,25395965
+Valproic Acid,D014635,99-66-1,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,CRY1,3.97,614163,
+Valproic Acid,D014635,99-66-1,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,NFIL3,3.97,,25395965
+Valproic Acid,D014635,99-66-1,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,RORC,3.97,,25395965
+Valsartan,D000068756,,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,NFIL3,4.43,,25395965
+Vehicle Emissions,D001335,,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,BHLHE40,4.40,,25395965
+Vehicle Emissions,D001335,,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,CRY1,4.40,614163,
+Vehicle Emissions,D001335,,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,NFIL3,4.40,,25395965
+Vehicle Emissions,D001335,,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,RORC,4.40,,25395965
+vinclozolin,C025643,50471-44-8,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,BHLHE40,4.72,,25395965
+vinclozolin,C025643,50471-44-8,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,CRY1,4.72,614163,
+vinclozolin,C025643,50471-44-8,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,NFIL3,4.72,,25395965
+vinylidene chloride,C029297,75-35-4,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,CRY1,3.67,614163,
+Volatile Organic Compounds,D055549,,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,CRY1,3.57,614163,
+Vorinostat,D000077337,,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,BHLHE40,6.54,,25395965
+Vorinostat,D000077337,,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,CRY1,6.54,614163,
+Vorinostat,D000077337,,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,RORC,6.54,,25395965
+Warfarin,D014859,81-81-2,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,BHLHE40,3.69,,25395965
+"Water Pollutants, Chemical",D014874,,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,CRY1,6.30,614163,
+"Water Pollutants, Chemical",D014874,,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,NFIL3,6.30,,25395965
+yessotoxin,C066632,,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,BHLHE40,4.59,,25395965
+Zeranol,D015029,26538-44-3,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,CRY1,6.95,614163,
+Zeranol,D015029,26538-44-3,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,NFIL3,6.95,,25395965
+Zeranol,D015029,26538-44-3,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,RORC,6.95,,25395965
+Zinc,D015032,7440-66-6,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,NFIL3,3.27,,25395965
+zinc chloride,C016837,7646-85-7,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,BHLHE40,3.88,,25395965
+zinc chromate,C023616,13530-65-9,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,BHLHE40,3.61,,25395965
+Zoledronic Acid,D000077211,,"Sleep Disorders, Circadian Rhythm",MESH:D020178,,BHLHE40,3.44,,25395965

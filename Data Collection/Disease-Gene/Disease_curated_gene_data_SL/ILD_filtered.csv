@@ -1,0 +1,22 @@
+GeneSymbol,GeneID,DiseaseName,DiseaseID,DirectEvidence,OmimIDs,PubMedIDs
+ALPL,249,"Hypophosphatasia, Childhood",MESH:C562440,marker/mechanism,241510,
+ATP1A2,477,Alternating hemiplegia of childhood,MESH:C536589,marker/mechanism,104290,
+ATP1A3,478,Alternating hemiplegia of childhood,MESH:C536589,marker/mechanism,614820,22842232|24631656
+CCN6,8838,"Arthropathy, progressive pseudorheumatoid, of childhood",MESH:C535387,marker/mechanism,208230,
+COL2A1,1280,Osteoarthritis with Mild Chondrodysplasia,MESH:C565740,marker/mechanism,604864,
+DNAJC12,56521,"HYPERPHENYLALANINEMIA, MILD, NON-BH4-DEFICIENT",OMIM:617384,marker/mechanism,617384,
+DRD4,1815,"Child Development Disorders, Pervasive",MESH:D002659,marker/mechanism,,20731709
+DYNC1H1,1778,Spinal Muscular Atrophies of Childhood,MESH:D014897,marker/mechanism,158600,
+FHL1,2273,"Myopathy, Reducing Body, X-Linked, Childhood-Onset",MESH:C567468,marker/mechanism,300718,
+GPR88,54112,"CHOREA, CHILDHOOD-ONSET, WITH PSYCHOMOTOR RETARDATION",OMIM:616939,marker/mechanism,616939,
+KL,9365,"Hypercalciuria, childhood idiopathic",MESH:C536082,marker/mechanism,,20394945
+MECP2,4204,"Child Development Disorders, Pervasive",MESH:D002659,marker/mechanism,,22231481
+MECR,51102,"DYSTONIA, CHILDHOOD-ONSET, WITH OPTIC ATROPHY AND BASAL GANGLIA ABNORMALITIES",OMIM:617282,marker/mechanism,617282,
+MRTFB,57496,"Child Development Disorders, Pervasive",MESH:D002659,marker/mechanism,,20442744
+PNPLA6,10908,Sick Building Syndrome,MESH:D018877,marker/mechanism,,23418070
+POLG,5428,Diffuse Cerebral Sclerosis of Schilder,MESH:D002549,marker/mechanism,,17923349|18716558|20138553
+SH3TC2,79628,"MONONEUROPATHY OF THE MEDIAN NERVE, MILD",OMIM:613353,marker/mechanism,613353,
+SMN1,6606,Spinal Muscular Atrophies of Childhood,MESH:D014897,marker/mechanism,253300|253400|253550,17924536
+SMN2,6607,Spinal Muscular Atrophies of Childhood,MESH:D014897,marker/mechanism,253400,
+SQSTM1,8878,"NEURODEGENERATION WITH ATAXIA, DYSTONIA, AND GAZE PALSY, CHILDHOOD-ONSET",OMIM:617145,marker/mechanism,617145,
+VAC14,55697,"STRIATONIGRAL DEGENERATION, CHILDHOOD-ONSET",OMIM:617054,marker/mechanism,617054,

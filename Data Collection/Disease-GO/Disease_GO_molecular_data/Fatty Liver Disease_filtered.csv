@@ -1,0 +1,661 @@
+GOName,GOID,DiseaseName,DiseaseID,InferenceChemicalQty,InferenceChemicalNames,InferenceGeneQty,InferenceGeneSymbols
+14-3-3 protein binding,GO:0071889,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,2,ESR1|PRKCE
+"17-alpha,20-alpha-dihydroxypregn-4-en-3-one dehydrogenase activity",GO:0047006,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,CYP17A1
+17-beta-hydroxysteroid dehydrogenase (NADP+) activity,GO:0072582,Non-alcoholic Fatty Liver Disease,MESH:D065626,2,Linoleic Acid|Tetrachlorodibenzodioxin,0,
+1-acylglycerol-3-phosphate O-acyltransferase activity,GO:0003841,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,PNPLA3
+1-phosphatidylinositol-3-kinase activity,GO:0016303,Non-alcoholic Fatty Liver Disease,MESH:D065626,1,sodium arsenite,0,
+1-phosphatidylinositol 4-kinase activity,GO:0004430,Non-alcoholic Fatty Liver Disease,MESH:D065626,1,Quercetin,0,
+1-phosphatidylinositol binding,GO:0005545,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,SCARB1
+1-pyrroline-5-carboxylate dehydrogenase activity,GO:0003842,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,ALDH4A1
+2-oxoglutarate-dependent dioxygenase activity,GO:0016706,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,2,FTO|TNFRSF1B
+3-beta-hydroxy-delta5-steroid dehydrogenase activity,GO:0003854,Non-alcoholic Fatty Liver Disease,MESH:D065626,1,sodium arsenite,0,
+3beta-hydroxysteroid dehydrogenase activity,GO:0102727,Non-alcoholic Fatty Liver Disease,MESH:D065626,4,mancozeb|sodium arsenite|Taurine|Tetrachlorodibenzodioxin,0,
+3-chloroallyl aldehyde dehydrogenase activity,GO:0004028,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,ALDH1A1
+3-deoxyglucosone dehydrogenase activity,GO:0106373,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,ALDH1A1
+3-hydroxybutyrate dehydrogenase activity,GO:0003858,Non-alcoholic Fatty Liver Disease,MESH:D065626,1,Arsenic Trioxide,0,
+3-phosphoinositide-dependent protein kinase activity,GO:0004676,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,EIF2AK1
+4-nitrophenol 2-monooxygenase activity,GO:0018601,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,CYP2E1
+5'-nucleotidase activity,GO:0008253,Non-alcoholic Fatty Liver Disease,MESH:D065626,8,Benzo(a)pyrene|bisphenol A|Cadmium Chloride|Fructose|geraniol|Silymarin|sodium arsenite|Streptozocin,0,
+ABC-type glutathione S-conjugate transporter activity,GO:0015431,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,ABCC2
+ABC-type oligopeptide transporter activity,GO:0015421,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,ABCB4
+ABC-type protein transporter activity,GO:0015462,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,ABCB4
+ABC-type transporter activity,GO:0140359,Non-alcoholic Fatty Liver Disease,MESH:D065626,1,Dietary Fats,2,ABCB4|ABCC2
+ABC-type xenobiotic transporter activity,GO:0008559,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,ABCC2
+acetylcholine-gated monoatomic cation-selective channel activity,GO:0022848,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,KLB
+acetylcholine receptor binding,GO:0033130,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,JAK2
+acetylcholinesterase activity,GO:0003990,Non-alcoholic Fatty Liver Disease,MESH:D065626,3,bisphenol A|Plant Extracts|Quercetin,1,ACE
+acetyl-CoA carboxylase activity,GO:0003989,Non-alcoholic Fatty Liver Disease,MESH:D065626,7,"5-(3-methoxy-5-(4-methoxystyryl)phenoxy)-2,2-dimethylpentanoic acid|Bile Acids and Salts|bisphenol A|Dietary Fats|Glucose|Niacinamide|Resveratrol",0,
+[acetyl-CoA carboxylase] kinase activity,GO:0050405,Non-alcoholic Fatty Liver Disease,MESH:D065626,1,Ethanol,0,
+acid phosphatase activity,GO:0003993,Non-alcoholic Fatty Liver Disease,MESH:D065626,14,Arsenic Trioxide|Benzo(a)pyrene|bisphenol A|Cadmium|Cadmium Chloride|Dextran Sulfate|Folic Acid|Iron|Plant Extracts|Quercetin|Resveratrol|sodium arsenite|Streptozocin|Tetrachlorodibenzodioxin,0,
+aconitate hydratase activity,GO:0003994,Non-alcoholic Fatty Liver Disease,MESH:D065626,3,bisphenol A|Dietary Fats|Streptozocin,0,
+actin binding,GO:0003779,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,3,ACE|MRTFA|RDX
+actin monomer binding,GO:0003785,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,3,COBLL1|MRTFA|PRKCE
+acyl-CoA oxidase activity,GO:0003997,Non-alcoholic Fatty Liver Disease,MESH:D065626,1,perfluoro-n-nonanoic acid,0,
+acylglycerol O-acyltransferase activity,GO:0016411,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,PNPLA3
+acylphosphatase activity,GO:0003998,Non-alcoholic Fatty Liver Disease,MESH:D065626,1,Quercetin,0,
+acyltransferase activity,GO:0016746,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,CPT1A
+adenosine deaminase activity,GO:0004000,Non-alcoholic Fatty Liver Disease,MESH:D065626,1,Allopurinol,0,
+adenosylhomocysteinase activity,GO:0004013,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,AHCY
+adenosylselenohomocysteinase activity,GO:0098604,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,AHCY
+adenylate cyclase activity,GO:0004016,Non-alcoholic Fatty Liver Disease,MESH:D065626,3,Cadmium Chloride|sodium arsenite|tributyltin,0,
+adenyl nucleotide binding,GO:0030554,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,AHCY
+ADP binding,GO:0043531,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,2,ATP5F1B|NLRP3
+ADP phosphatase activity,GO:0043262,Non-alcoholic Fatty Liver Disease,MESH:D065626,2,bisphenol A|Caffeine,0,
+alcohol dehydrogenase (NAD+) activity,GO:0004022,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,3,ADH1A|ADH1B|ADH4
+aldehyde dehydrogenase (NAD+) activity,GO:0004029,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,4,ALDH1A1|ALDH1B1|ALDH2|ALDH4A1
+aldehyde dehydrogenase [NAD(P)+] activity,GO:0004030,Non-alcoholic Fatty Liver Disease,MESH:D065626,3,Ethanol|Maneb|Plant Extracts,1,ALDH2
+alditol:NADP+ 1-oxidoreductase activity,GO:0004032,Non-alcoholic Fatty Liver Disease,MESH:D065626,4,hydroquinone|Quercetin|Streptozocin|Valproic Acid,1,ADH4
+alkaline phosphatase activity,GO:0004035,Non-alcoholic Fatty Liver Disease,MESH:D065626,38,"Acetaminophen|Allopurinol|Arsenic Trioxide|Benzo(a)pyrene|bisphenol A|Cadmium|Cadmium Chloride|cyanoginosin LR|Dextran Sulfate|Dietary Carbohydrates|Dietary Fats|Diethylnitrosamine|Dimethylnitrosamine|Ethanol|Fatty Acids, Omega-3|Folic Acid|Fructose|Genistein|Glucose|GW 4064|Methionine|Niacin|Niacinamide|Pioglitazone|Plant Extracts|Prednisolone|Quercetin|Raloxifene Hydrochloride|Resveratrol|Rosiglitazone|Silymarin|sodium arsenite|Sodium Glutamate|Streptozocin|Taurine|Tetrachlorodibenzodioxin|tributyltin|Valproic Acid",0,
+alkylhalidase activity,GO:0047651,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,GSTT1
+all-trans retinal binding,GO:0005503,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,ADH4
+alpha-actinin binding,GO:0051393,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,PPARG
+alpha-amylase activity,GO:0004556,Non-alcoholic Fatty Liver Disease,MESH:D065626,3,Acarbose|Carvedilol|Resveratrol,0,
+alpha-glucosidase activity,GO:0090599,Non-alcoholic Fatty Liver Disease,MESH:D065626,1,Acarbose,0,
+alpha-mannosidase activity,GO:0004559,Non-alcoholic Fatty Liver Disease,MESH:D065626,1,Plant Preparations,0,
+alpha-N-acetylglucosaminidase activity,GO:0004561,Non-alcoholic Fatty Liver Disease,MESH:D065626,1,tributyltin,0,
+amino acid transmembrane transporter activity,GO:0015171,Non-alcoholic Fatty Liver Disease,MESH:D065626,1,perfluorohexanesulfonic acid,0,
+aminoacylase activity,GO:0004046,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,CAT
+aminobutyraldehyde dehydrogenase activity,GO:0019145,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,ALDH1A1
+aminopeptidase activity,GO:0004177,Non-alcoholic Fatty Liver Disease,MESH:D065626,3,geraniol|Glucose|Streptozocin,0,
+AMP-activated protein kinase activity,GO:0004679,Non-alcoholic Fatty Liver Disease,MESH:D065626,19,"5-(3-methoxy-5-(4-methoxystyryl)phenoxy)-2,2-dimethylpentanoic acid|7,14-dihydroxydocosa-4,8,10,12,16,19-hexaenoic acid|acanthoic acid|Arsenic Trioxide|Bile Acids and Salts|bisphenol A|Caffeine|Cholesterol|Dextran Sulfate|Dietary Fats|Ethanol|Fenofibrate|Folic Acid|geraniol|Glucose|Niacinamide|Palmitic Acid|Resveratrol|Streptozocin",1,EIF2AK1
+AMP deaminase activity,GO:0003876,Non-alcoholic Fatty Liver Disease,MESH:D065626,2,Cadmium Chloride|sodium arsenite,0,
+amylase activity,GO:0016160,Non-alcoholic Fatty Liver Disease,MESH:D065626,5,Cadmium|Cadmium Chloride|Ethanol|Fructose|Streptozocin,0,
+amyloid-beta binding,GO:0001540,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,2,LDLR|SCARB1
+anaphase-promoting complex binding,GO:0010997,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,PTEN
+androgen binding,GO:0005497,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,ALDH1A1
+angiostatin binding,GO:0043532,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,ATP5F1B
+antigen binding,GO:0003823,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,2,TGFB1|TNFRSF1B
+antioxidant activity,GO:0016209,Non-alcoholic Fatty Liver Disease,MESH:D065626,8,Arsenic Trioxide|bisphenol A|Cholesterol|Dietary Fats|hydroquinone|Quercetin|sodium arsenite|tuberostemonine,2,CAT|PRDX3
+apolipoprotein A-I binding,GO:0034186,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,SCARB1
+apolipoprotein binding,GO:0034185,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,3,MTTP|SCARB1|VLDLR
+arachidonic acid binding,GO:0050544,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,PPARG
+arachidonic acid epoxygenase activity,GO:0008392,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,CYP2E1
+arachidonic acid omega-hydroxylase activity,GO:0052869,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,AHR
+arginase activity,GO:0004053,Non-alcoholic Fatty Liver Disease,MESH:D065626,4,bisphenol A|Caffeine|Streptozocin|Valproic Acid,0,
+aromatase activity,GO:0070330,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,2,CYP1A2|CYP2E1
+aryldialkylphosphatase activity,GO:0004063,Non-alcoholic Fatty Liver Disease,MESH:D065626,2,Thioctic Acid|Valproic Acid,0,
+arylesterase activity,GO:0004064,Non-alcoholic Fatty Liver Disease,MESH:D065626,1,Quercetin,0,
+aryl hydrocarbon receptor binding,GO:0017162,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,AHR
+aryl sulfotransferase activity,GO:0004062,Non-alcoholic Fatty Liver Disease,MESH:D065626,1,Acetaminophen,0,
+ATPase binding,GO:0051117,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,2,ESR1|RDX
+ATPase-coupled inorganic anion transmembrane transporter activity,GO:0043225,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,ABCC2
+ATPase-coupled intramembrane lipid transporter activity,GO:0140326,Non-alcoholic Fatty Liver Disease,MESH:D065626,1,Taurine,0,
+ATPase-coupled transmembrane transporter activity,GO:0042626,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,2,ABCB4|ABCC2
+ATP binding,GO:0005524,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,13,ABCB4|ABCC2|ATP5F1B|EIF2AK1|JAK2|NLRP3|PDK4|PRKACA|PRKCA|PRKCD|PRKCE|TRIB1|TRIB3
+ATP-dependent activity,GO:0140657,Non-alcoholic Fatty Liver Disease,MESH:D065626,4,bisphenol A|Caffeine|Iron|Streptozocin,0,
+ATP hydrolysis activity,GO:0016887,Non-alcoholic Fatty Liver Disease,MESH:D065626,18,Acetaminophen|Arsenic Trioxide|bisphenol A|Cadmium|Cadmium Chloride|cyanoginosin LR|Dietary Fats|Diethylnitrosamine|Fenofibrate|Genistein|Glucose|Plant Extracts|Quercetin|Resveratrol|Sodium Glutamate|Streptozocin|Taurine|Thioctic Acid,4,ABCB4|ABCC2|ATP5F1B|NLRP3
+A-type (transient outward) potassium channel activity,GO:0005250,Non-alcoholic Fatty Liver Disease,MESH:D065626,1,geraniol,0,
+benzaldehyde dehydrogenase (NAD+) activity,GO:0018479,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,2,ADH4|ALDH1A1
+beta-catenin binding,GO:0008013,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,2,ESR1|PTEN
+beta-galactosidase activity,GO:0004565,Non-alcoholic Fatty Liver Disease,MESH:D065626,2,Quercetin|Resveratrol,0,
+beta-tubulin binding,GO:0048487,Non-alcoholic Fatty Liver Disease,MESH:D065626,1,perfluorooctanoic acid,0,
+bHLH transcription factor binding,GO:0043425,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,SIRT1
+bile acid binding,GO:0032052,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,NR1H4
+bilirubin transmembrane transporter activity,GO:0015127,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,ABCC2
+bradykinin receptor binding,GO:0031711,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,ACE
+butanol dehydrogenase activity,GO:1990362,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,ADH1A
+caffeine oxidase activity,GO:0034875,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,CYP1A2
+calcium-activated potassium channel activity,GO:0015269,Non-alcoholic Fatty Liver Disease,MESH:D065626,1,geraniol,0,
+calcium channel activity,GO:0005262,Non-alcoholic Fatty Liver Disease,MESH:D065626,3,hydroquinone|Raloxifene Hydrochloride|Tamoxifen,0,
+calcium-dependent ATPase activity,GO:0030899,Non-alcoholic Fatty Liver Disease,MESH:D065626,4,Cadmium|Dietary Fats|Quercetin|Taurine,0,
+calcium-dependent cysteine-type endopeptidase activity,GO:0004198,Non-alcoholic Fatty Liver Disease,MESH:D065626,5,Acetaminophen|Glucose|sodium arsenite|Thioctic Acid|tributyltin,0,
+calcium-dependent phospholipase A2 activity,GO:0047498,Non-alcoholic Fatty Liver Disease,MESH:D065626,1,Quercetin,0,
+calcium-dependent protein binding,GO:0048306,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,VLDLR
+calcium-dependent protein kinase C activity,GO:0004698,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,3,PRKCA|PRKCD|PRKCE
+calcium-independent protein kinase C activity,GO:0004699,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,3,PRKCA|PRKCD|PRKCE
+calcium ion binding,GO:0005509,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,5,ATP5F1B|F2|LDLR|PRF1|VLDLR
+calmodulin binding,GO:0005516,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,3,ACE|ESR1|FAS
+calmodulin-dependent protein phosphatase activity,GO:0033192,Non-alcoholic Fatty Liver Disease,MESH:D065626,2,bisphenol A|sodium arsenite,1,PTEN
+cAMP-dependent protein kinase activity,GO:0004691,Non-alcoholic Fatty Liver Disease,MESH:D065626,2,"Glucose|N-(oxo-5,6-dihydrophenanthridin-2-yl)-N,N-dimethylacetamide hydrochloride",1,PRKACA
+carbonate dehydratase activity,GO:0004089,Non-alcoholic Fatty Liver Disease,MESH:D065626,4,Caffeine|Copper|Streptozocin|Valproic Acid,0,
+carboxylesterase activity,GO:0106435,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,ALDH2
+carboxylic ester hydrolase activity,GO:0052689,Non-alcoholic Fatty Liver Disease,MESH:D065626,4,Dietary Fats|geraniol|Oleic Acid|Palmitic Acid,0,
+carboxypeptidase activity,GO:0004180,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,ACE
+cargo receptor activity,GO:0038024,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,VLDLR
+carnitine O-octanoyltransferase activity,GO:0008458,Non-alcoholic Fatty Liver Disease,MESH:D065626,2,bisphenol A|Dietary Fats,0,
+carnitine O-palmitoyltransferase activity,GO:0004095,Non-alcoholic Fatty Liver Disease,MESH:D065626,7,Bile Acids and Salts|bisphenol A|Copper|Dietary Fats|gastrodin|Resveratrol|Sodium Glutamate,1,CPT1A
+caspase binding,GO:0089720,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,SIRT1
+catalase activity,GO:0004096,Non-alcoholic Fatty Liver Disease,MESH:D065626,4,Allopurinol|Carvedilol|Dextran Sulfate|Triclosan,1,CAT
+catalytic activity,GO:0003824,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,PNPLA3
+CD154 receptor binding,GO:0042615,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,TNFRSF1B
+CD40 receptor binding,GO:0005174,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,TNF
+cell adhesion molecule binding,GO:0050839,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,RDX
+ceramide 1-phosphate transfer activity,GO:1902388,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,MTTP
+cGMP-dependent protein kinase activity,GO:0004692,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,PRKACA
+channel activator activity,GO:0099103,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,PRKACA
+channel activity,GO:0015267,Non-alcoholic Fatty Liver Disease,MESH:D065626,6,Cadmium|Copper|Glucose|hydroquinone|Quercetin|sodium arsenite,0,
+chaperone binding,GO:0051087,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,AHR
+chenodeoxycholic acid binding,GO:1902122,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,NR1H4
+chloride ion binding,GO:0031404,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,ACE
+chloride transmembrane transporter activity,GO:0015108,Non-alcoholic Fatty Liver Disease,MESH:D065626,1,Quercetin,0,
+cholesterol transfer activity,GO:0120020,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,MTTP
+cholinesterase activity,GO:0004104,Non-alcoholic Fatty Liver Disease,MESH:D065626,2,Dietary Fats|sodium arsenite,1,ACE
+chromatin binding,GO:0003682,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,5,ESR1|NR5A2|PPARG|RAG2|SREBF1
+chromatin DNA binding,GO:0031490,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,XBP1
+chromium ion transmembrane transporter activity,GO:0070835,Non-alcoholic Fatty Liver Disease,MESH:D065626,1,Chromium,0,
+cis-regulatory region sequence-specific DNA binding,GO:0000987,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,2,AHR|XBP1
+citrate synthase activity,GO:0036440,Non-alcoholic Fatty Liver Disease,MESH:D065626,3,bisphenol A|Glucose|Streptozocin,0,
+clathrin heavy chain binding,GO:0032050,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,LDLR
+collagen binding involved in cell-matrix adhesion,GO:0098639,Non-alcoholic Fatty Liver Disease,MESH:D065626,1,Resveratrol,0,
+copper ion binding,GO:0005507,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,2,AHCY|IL1A
+creatine kinase activity,GO:0004111,Non-alcoholic Fatty Liver Disease,MESH:D065626,14,"Arsenic Trioxide|bisphenol A|Cadmium|Cadmium Chloride|Carvedilol|Cholesterol, Dietary|cobaltiprotoporphyrin|Dietary Fats|geraniol|Quercetin|Resveratrol|sodium arsenite|Sodium Glutamate|Streptozocin",0,
+cysteine-type endopeptidase activator activity,GO:0140608,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,NLRP3
+cysteine-type endopeptidase activity,GO:0004197,Non-alcoholic Fatty Liver Disease,MESH:D065626,13,"Arsenic Trioxide|bisphenol A|Cadmium|Cadmium Chloride|Ethanol|Glucose|hydroquinone|N-(oxo-5,6-dihydrophenanthridin-2-yl)-N,N-dimethylacetamide hydrochloride|osteum|Palmitic Acid|Raloxifene Hydrochloride|sodium arsenite|Tunicamycin",0,
+cysteine-type endopeptidase activity involved in apoptotic process,GO:0097153,Non-alcoholic Fatty Liver Disease,MESH:D065626,3,Folic Acid|Glucose|perfluorooctanoic acid,0,
+cysteine-type endopeptidase inhibitor activity involved in apoptotic process,GO:0043027,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,PRDX3
+cysteine-type peptidase activity,GO:0008234,Non-alcoholic Fatty Liver Disease,MESH:D065626,3,bisphenol A|hydroquinone|tributyltin,0,
+"cytochrome-b5 reductase activity, acting on NADH",GO:0090524,Non-alcoholic Fatty Liver Disease,MESH:D065626,2,Benzo(a)pyrene|sodium arsenite,0,
+"cytochrome-b5 reductase activity, acting on NAD(P)H",GO:0004128,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,NQO1
+"cytochrome-b5 reductase activity, acting on NADPH",GO:0090523,Non-alcoholic Fatty Liver Disease,MESH:D065626,1,Cadmium Chloride,0,
+cytochrome-c oxidase activity,GO:0004129,Non-alcoholic Fatty Liver Disease,MESH:D065626,25,"Acetaminophen|Benzo(a)pyrene|Bezafibrate|bisphenol A|bromodichloromethane|Cadmium|Cadmium Chloride|Carvedilol|Copper|cyanoginosin LR|Dietary Fats|Ethanol|Glucose|Iron|N-(oxo-5,6-dihydrophenanthridin-2-yl)-N,N-dimethylacetamide hydrochloride|Oleic Acid|Palmitic Acid|Quercetin|Resveratrol|sodium arsenite|Streptozocin|Taurine|Tobacco Smoke Pollution|Triclosan|Tunicamycin",0,
+cytokine activity,GO:0005125,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,11,ADIPOQ|CSF2|IL1A|IL1B|IL1RN|IL3|IL4|LEP|LIF|TGFB1|TNF
+cytokine receptor binding,GO:0005126,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,JAK2
+D-alanine:2-oxoglutarate aminotransferase activity,GO:0047810,Non-alcoholic Fatty Liver Disease,MESH:D065626,3,bisphenol A|Ethanol|sodium arsenite,0,
+deacetylase activity,GO:0019213,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,SIRT1
+death receptor agonist activity,GO:0038177,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,TNF
+demethylase activity,GO:0032451,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,CYP1A2
+deubiquitinase activator activity,GO:0035800,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,TGFB1
+D-glutamyltransferase activity,GO:0047823,Non-alcoholic Fatty Liver Disease,MESH:D065626,7,Benzo(a)pyrene|bisphenol A|Cadmium Chloride|Folic Acid|geraniol|Streptozocin|Thioctic Acid,0,
+diacylglycerol binding,GO:0019992,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,PRKCA
+diamine oxidase activity,GO:0052597,Non-alcoholic Fatty Liver Disease,MESH:D065626,1,bisphenol A,0,
+dimethylargininase activity,GO:0016403,Non-alcoholic Fatty Liver Disease,MESH:D065626,1,Folic Acid,0,
+dinitrosyl-iron complex binding,GO:0035731,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,2,GSTA1|GSTP1
+diolein transacylation activity,GO:0051265,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,PNPLA3
+dioxygenase activity,GO:0051213,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,FTO
+dipeptidyl-peptidase activity,GO:0008239,Non-alcoholic Fatty Liver Disease,MESH:D065626,1,bisphenol A,0,
+disulfide oxidoreductase activity,GO:0015036,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,IFI30
+DNA binding,GO:0003677,Non-alcoholic Fatty Liver Disease,MESH:D065626,2,Cadmium Chloride|Quercetin,15,AHR|AHR2|ATP5F1B|EIF2AK1|ESR1|LEP|NFE2L2|NR1H4|NR5A2|PPARA|PPARD|PPARG|RAG2|SREBF1|XBP1
+DNA binding domain binding,GO:0050692,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,PPARG
+DNA-binding transcription activator activity,GO:0001216,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,PPARA
+"DNA-binding transcription activator activity, RNA polymerase II-specific",GO:0001228,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,7,ESR1|NFE2L2|NR1H4|NR5A2|PPARA|PPARG|SREBF1
+DNA-binding transcription factor activity,GO:0003700,Non-alcoholic Fatty Liver Disease,MESH:D065626,2,bisphenol A|Cadmium,11,AHR|ESR1|MRTFA|NFE2L2|NR1H4|NR5A2|PPARA|PPARD|PPARG|SREBF1|XBP1
+"DNA-binding transcription factor activity, RNA polymerase II-specific",GO:0000981,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,12,AHR|AHR2|ESR1|F2|NFE2L2|NR1H4|NR5A2|PPARA|PPARD|PPARG|SREBF1|XBP1
+DNA-binding transcription factor binding,GO:0140297,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,5,NLRP3|PPARA|PPARD|PPARG|SIRT1
+"DNA-binding transcription repressor activity, RNA polymerase II-specific",GO:0001227,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,3,PPARA|PPARD|PPARG
+DNA-dependent protein kinase activity,GO:0004677,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,EIF2AK1
+DNA-methyltransferase activity,GO:0009008,Non-alcoholic Fatty Liver Disease,MESH:D065626,4,Dietary Fats|Folic Acid|Genistein|Plant Extracts,0,
+DNA replication origin binding,GO:0003688,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,RDX
+double-stranded DNA binding,GO:0003690,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,3,NR1H4|NR5A2|PPARG
+double-stranded DNA endodeoxyribonuclease activity,GO:1990238,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,RAG2
+D-sorbitol dehydrogenase (acceptor) activity,GO:0047833,Non-alcoholic Fatty Liver Disease,MESH:D065626,1,Valproic Acid,0,
+E-box binding,GO:0070888,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,2,AHR|PPARG
+ecdysone binding,GO:0035100,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,NR1H4
+efflux transmembrane transporter activity,GO:0015562,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,ABCB4
+electron transfer activity,GO:0009055,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,3,ALDH2|ALDH4A1|CYP1A2
+endopeptidase activity,GO:0004175,Non-alcoholic Fatty Liver Disease,MESH:D065626,2,Streptozocin|Tobacco Smoke Pollution,3,ACE|F2|MMP1
+endopeptidase inhibitor activity,GO:0004866,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,SERPINA1
+enzyme activator activity,GO:0008047,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,4,PPARD|PRKCD|PRKCE|SIRT1
+enzyme binding,GO:0019899,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,14,CAT|CYP1A2|CYP2E1|ESR1|GSTM1|PPARG|PRKCA|PRKCD|PRKCE|PTEN|SIRT1|STC2|TGFB1|TRIB3
+estradiol 17-beta-dehydrogenase activity,GO:0004303,Non-alcoholic Fatty Liver Disease,MESH:D065626,2,sodium arsenite|Taurine,0,
+estradiol binding,GO:1903924,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,ESR1
+estrogen 16-alpha-hydroxylase activity,GO:0101020,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,2,CYP17A1|CYP1A2
+estrogen 2-hydroxylase activity,GO:0101021,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,CYP1A2
+estrogen binding,GO:0099130,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,ESR1
+estrogen response element binding,GO:0034056,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,ESR1
+ethanol binding,GO:0035276,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,PRKCE
+eukaryotic translation initiation factor 2alpha kinase activity,GO:0004694,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,EIF2AK1
+exopeptidase activity,GO:0008238,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,ACE
+extracellular matrix structural constituent,GO:0005201,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,2,ADIPOQ|LAMA1
+fatty acid binding,GO:0005504,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,3,GSTA1|GSTP1|PPARD
+ferrous iron binding,GO:0008198,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,FTO
+ferroxidase activity,GO:0004322,Non-alcoholic Fatty Liver Disease,MESH:D065626,2,Ethanol|Fructose,0,
+fibroblast growth factor binding,GO:0017134,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,KLB
+fibroblast growth factor receptor binding,GO:0005104,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,2,FGF21|KLB
+flavin adenine dinucleotide binding,GO:0050660,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,ALDH2
+folic acid binding,GO:0005542,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,2,FOLR2|GNMT
+folic acid receptor activity,GO:0061714,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,FOLR2
+"fructose 1,6-bisphosphate 1-phosphatase activity",GO:0042132,Non-alcoholic Fatty Liver Disease,MESH:D065626,3,Dietary Fats|Quercetin|Streptozocin,0,
+galactosylgalactosylxylosylprotein 3-beta-glucuronosyltransferase activity,GO:0015018,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,B3GAT1
+gap junction channel activity,GO:0005243,Non-alcoholic Fatty Liver Disease,MESH:D065626,4,Benzo(a)pyrene|Diethylnitrosamine|perfluorooctanoic acid|Resveratrol,0,
+glucokinase activity,GO:0004340,Non-alcoholic Fatty Liver Disease,MESH:D065626,2,Plant Extracts|Streptozocin,0,
+glucose-6-phosphatase activity,GO:0004346,Non-alcoholic Fatty Liver Disease,MESH:D065626,6,Dietary Fats|Fructose|geraniol|Plant Extracts|Quercetin|Streptozocin,0,
+glucose-6-phosphate dehydrogenase activity,GO:0004345,Non-alcoholic Fatty Liver Disease,MESH:D065626,3,Dietary Fats|Plant Extracts|Streptozocin,0,
+glucuronosyltransferase activity,GO:0015020,Non-alcoholic Fatty Liver Disease,MESH:D065626,6,Benzo(a)pyrene|bisphenol A|Dimethylnitrosamine|Plant Preparations|Sodium Glutamate|Taurine,0,
+glutamate binding,GO:0016595,Non-alcoholic Fatty Liver Disease,MESH:D065626,1,Ethanol,0,
+glutamate-cysteine ligase activity,GO:0004357,Non-alcoholic Fatty Liver Disease,MESH:D065626,4,Cadmium|Cadmium Chloride|cyanoginosin LR|Thioctic Acid,0,
+glutaminase activity,GO:0004359,Non-alcoholic Fatty Liver Disease,MESH:D065626,1,bisphenol A,0,
+glutathione binding,GO:0043295,Non-alcoholic Fatty Liver Disease,MESH:D065626,1,Copper,2,GSTA1|GSTM1
+glutathione peroxidase activity,GO:0004602,Non-alcoholic Fatty Liver Disease,MESH:D065626,52,"3,4,5,3',4'-pentachlorobiphenyl|Acetaminophen|Arsenic Trioxide|Benzo(a)pyrene|Bezafibrate|Bile Acids and Salts|bisphenol A|Cadmium|Cadmium Chloride|Caffeine|Cholesterol, Dietary|Choline|Copper|cyanoginosin LR|Dextran Sulfate|Dietary Carbohydrates|Dietary Fats|Dietary Sugars|Diethylnitrosamine|Dimethylnitrosamine|Ethanol|Fatty Acids, Omega-3|Folic Acid|Fructose|gastrodin|Genistein|geraniol|Glucose|Iron|mancozeb|Niacinamide|Oleic Acid|Orlistat|Palmitic Acid|Pioglitazone|Plant Extracts|Plant Preparations|puerarin|Quercetin|Resveratrol|Rosiglitazone|Silymarin|sodium arsenite|Sodium Glutamate|Streptozocin|Taurine|Tetrachlorodibenzodioxin|Thioctic Acid|Tobacco Smoke Pollution|tributyltin|Tunicamycin|Valproic Acid",3,GSTA1|GSTP1|GSTT1
+glutathione transferase activity,GO:0004364,Non-alcoholic Fatty Liver Disease,MESH:D065626,40,"Acetaminophen|Allopurinol|Arsenic Trioxide|Benzo(a)pyrene|Bezafibrate|bisphenol A|Cadmium|Cadmium Chloride|Caffeine|Carvedilol|Chromium|Copper|cyanoginosin LR|Dextran Sulfate|Dietary Fats|Diethylnitrosamine|Dimethylnitrosamine|Ethanol|Fatty Acids, Omega-3|Folic Acid|geraniol|Glucose|Iron|mancozeb|Niacinamide|Orlistat|Pioglitazone|Plant Extracts|Plant Preparations|Quercetin|Resveratrol|Silymarin|sodium arsenite|Sodium Glutamate|Streptozocin|Taurine|Tetrachlorodibenzodioxin|Thioctic Acid|Triclosan|Valproic Acid",4,GSTA1|GSTM1|GSTP1|GSTT1
+glyceraldehyde-3-phosphate dehydrogenase (NAD+) (phosphorylating) activity,GO:0004365,Non-alcoholic Fatty Liver Disease,MESH:D065626,1,Glucose,0,
+glycerol-3-phosphate O-acyltransferase activity,GO:0004366,Non-alcoholic Fatty Liver Disease,MESH:D065626,3,Bile Acids and Salts|bisphenol A|Resveratrol,0,
+glycine binding,GO:0016594,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,GNMT
+glycine N-methyltransferase activity,GO:0017174,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,GNMT
+glycogen phosphorylase activity,GO:0008184,Non-alcoholic Fatty Liver Disease,MESH:D065626,5,bisphenol A|Dietary Fats|Fructose|Plant Extracts|Streptozocin,0,
+glycogen (starch) synthase activity,GO:0004373,Non-alcoholic Fatty Liver Disease,MESH:D065626,2,Plant Extracts|Streptozocin,0,
+glycosphingolipid binding,GO:0043208,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,LAMA1
+gonadotropin-releasing hormone binding,GO:0051448,Non-alcoholic Fatty Liver Disease,MESH:D065626,1,Cadmium Chloride,0,
+G protein-coupled estrogen receptor activity,GO:0038054,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,ESR1
+G protein-coupled receptor activity,GO:0004930,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,ALDH4A1
+G protein-coupled serotonin receptor activity,GO:0004993,Non-alcoholic Fatty Liver Disease,MESH:D065626,1,alisol B,0,
+granulocyte macrophage colony-stimulating factor receptor binding,GO:0005129,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,CSF2
+growth factor activity,GO:0008083,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,7,CSF2|F2|FGF21|IL3|IL4|LIF|TGFB1
+growth hormone receptor binding,GO:0005131,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,JAK2
+GTPase activator activity,GO:0005096,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,ALDH1A1
+guanylate cyclase activity,GO:0004383,Non-alcoholic Fatty Liver Disease,MESH:D065626,1,Quercetin,0,
+H3K27me3 modified histone binding,GO:0061628,Non-alcoholic Fatty Liver Disease,MESH:D065626,2,Acetaminophen|bisphenol A,0,
+heme binding,GO:0020037,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,7,CAT|CYP17A1|CYP1A2|CYP2E1|EIF2AK1|JAK2|STC2
+heparin binding,GO:0008201,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,2,APOH|F2
+heterocyclic compound binding,GO:1901363,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,ACE
+hexokinase activity,GO:0004396,Non-alcoholic Fatty Liver Disease,MESH:D065626,7,Arsenic Trioxide|Cadmium Chloride|Dietary Fats|Quercetin|sodium arsenite|Streptozocin|Valproic Acid,0,
+high-density lipoprotein particle binding,GO:0008035,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,SCARB1
+high-density lipoprotein particle receptor activity,GO:0070506,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,SCARB1
+high voltage-gated calcium channel activity,GO:0008331,Non-alcoholic Fatty Liver Disease,MESH:D065626,1,Ethanol,0,
+histone acetyltransferase activity,GO:0004402,Non-alcoholic Fatty Liver Disease,MESH:D065626,4,bisphenol A|Genistein|Quercetin|Valproic Acid,0,
+histone binding,GO:0042393,Non-alcoholic Fatty Liver Disease,MESH:D065626,1,bisphenol A,2,JAK2|SIRT1
+histone deacetylase activity,GO:0004407,Non-alcoholic Fatty Liver Disease,MESH:D065626,7,Dietary Fats|Genistein|hydroquinone|Plant Extracts|Quercetin|Streptozocin|Valproic Acid,1,SIRT1
+histone deacetylase binding,GO:0042826,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,XBP1
+histone H2AS121 kinase activity,GO:0072371,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,EIF2AK1
+histone H2AS139 kinase activity,GO:0035979,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,EIF2AK1
+histone H2AS1 kinase activity,GO:0044024,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,EIF2AK1
+histone H2AT120 kinase activity,GO:1990244,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,EIF2AK1
+histone H2BS14 kinase activity,GO:0044025,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,EIF2AK1
+histone H2BS36 kinase activity,GO:0140823,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,EIF2AK1
+histone H2S140 phosphatase activity,GO:0140791,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,PTEN
+histone H2Y142 phosphatase activity,GO:0140793,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,PTEN
+histone H3K27 dimethyltransferase activity,GO:0140952,Non-alcoholic Fatty Liver Disease,MESH:D065626,1,bisphenol A,0,
+histone H3K27 trimethyltransferase activity,GO:0140951,Non-alcoholic Fatty Liver Disease,MESH:D065626,1,bisphenol A,0,
+histone H3K4me/H3K4me2/H3K4me3 demethylase activity,GO:0034647,Non-alcoholic Fatty Liver Disease,MESH:D065626,1,sodium arsenite,0,
+histone H3K4 methyltransferase activity,GO:0042800,Non-alcoholic Fatty Liver Disease,MESH:D065626,2,bisphenol A|sodium arsenite,0,
+histone H3K9 demethylase activity,GO:0032454,Non-alcoholic Fatty Liver Disease,MESH:D065626,1,Dietary Fats,0,
+histone H3K9 trimethyltransferase activity,GO:0140949,Non-alcoholic Fatty Liver Disease,MESH:D065626,1,bisphenol A,0,
+histone H3S10 kinase activity,GO:0035175,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,EIF2AK1
+histone H3S28 kinase activity,GO:0044022,Non-alcoholic Fatty Liver Disease,MESH:D065626,1,bisphenol A,1,EIF2AK1
+histone H3S57 kinase activity,GO:0140855,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,EIF2AK1
+histone H3T11 kinase activity,GO:0035402,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,EIF2AK1
+histone H3T3 kinase activity,GO:0072354,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,EIF2AK1
+histone H3T45 kinase activity,GO:0140857,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,EIF2AK1
+histone H3T6 kinase activity,GO:0035403,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,2,EIF2AK1|PRKCA
+histone H3Y41 kinase activity,GO:0035401,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,JAK2
+histone H4K12 deacetylase activity,GO:0140937,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,SIRT1
+histone H4S1 kinase activity,GO:0044023,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,EIF2AK1
+histone methyltransferase activity,GO:0042054,Non-alcoholic Fatty Liver Disease,MESH:D065626,1,Genistein,0,
+HLH domain binding,GO:0043398,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,SIRT1
+hormone activity,GO:0005179,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,4,ADIPOQ|INS|LEP|STC2
+hormone binding,GO:0042562,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,3,ESR1|LDLR|VLDLR
+Hsp70 protein binding,GO:0030544,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,CYP2E1
+Hsp90 protein binding,GO:0051879,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,2,AHR|CYP2E1
+hyaluronic acid binding,GO:0005540,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,2,F2|TM6SF2
+hydrolase activity,GO:0016787,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,5,ACE|AHCY|F2|NLRP3|PNPLA3
+"hydrolase activity, hydrolyzing O-glycosyl compounds",GO:0004553,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,KLB
+hydroperoxy icosatetraenoate dehydratase activity,GO:0106256,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,CYP1A2
+identical protein binding,GO:0042802,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,30,ADIPOQ|AHCY|AHR|ALDH1A1|ALDH2|ALDH4A1|APOH|CAT|CPT1A|ESR1|FAS|GNMT|GSTM1|IKBKG|INS|JAK2|LDLR|NLRP3|NQO1|PPARG|PRDX3|PRF1|PTEN|SCARB1|SERPINA1|SIRT1|TGFB1|TM6SF2|TNF|XBP1
+IkappaB kinase activity,GO:0008384,Non-alcoholic Fatty Liver Disease,MESH:D065626,2,Dextran Sulfate|Resveratrol,0,
+"indoleamine 2,3-dioxygenase activity",GO:0033754,Non-alcoholic Fatty Liver Disease,MESH:D065626,3,Cadmium|Cadmium Chloride|Quercetin,0,
+"inositol-1,3,4,5,6-pentakisphosphate 3-phosphatase activity",GO:0030351,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,PTEN
+"inositol-1,3,4,5-tetrakisphosphate 3-phosphatase activity",GO:0051717,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,PTEN
+insulin-like growth factor receptor binding,GO:0005159,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,INS
+insulin receptor binding,GO:0005158,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,INS
+insulin receptor substrate binding,GO:0043560,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,2,JAK2|PRKCD
+integrin binding,GO:0005178,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,2,IL1B|PRKCA
+interleukin-12 receptor binding,GO:0005143,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,JAK2
+interleukin-1 receptor antagonist activity,GO:0005152,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,IL1RN
+interleukin-1 receptor binding,GO:0005149,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,3,IL1A|IL1B|IL1RN
+interleukin-1 type II receptor antagonist activity,GO:0045353,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,IL1RN
+"interleukin-1, type II receptor binding",GO:0005151,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,IL1RN
+interleukin-1 type I receptor antagonist activity,GO:0045352,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,IL1RN
+"interleukin-1, type I receptor binding",GO:0005150,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,IL1RN
+interleukin-3 receptor binding,GO:0005135,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,IL3
+interleukin-4 receptor binding,GO:0005136,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,IL4
+iodide peroxidase activity,GO:0004447,Non-alcoholic Fatty Liver Disease,MESH:D065626,1,bisphenol A,0,
+ionotropic glutamate receptor binding,GO:0035255,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,PTEN
+iron ion binding,GO:0005506,Non-alcoholic Fatty Liver Disease,MESH:D065626,2,Cadmium|Cadmium Chloride,3,CYP17A1|CYP1A2|CYP2E1
+isocitrate dehydrogenase (NAD+) activity,GO:0004449,Non-alcoholic Fatty Liver Disease,MESH:D065626,2,bisphenol A|tributyltin,0,
+isocitrate dehydrogenase [NAD(P)+] activity,GO:0004448,Non-alcoholic Fatty Liver Disease,MESH:D065626,3,Cadmium|Copper|Iron,0,
+JUN kinase activity,GO:0004705,Non-alcoholic Fatty Liver Disease,MESH:D065626,1,Cadmium,0,
+JUN kinase binding,GO:0008432,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,GSTP1
+K63-linked deubiquitinase activity,GO:0061578,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,FAS
+K63-linked polyubiquitin modification-dependent protein binding,GO:0070530,Non-alcoholic Fatty Liver Disease,MESH:D065626,1,sodium arsenite,1,IKBKG
+keratin filament binding,GO:1990254,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,SIRT1
+kinase activity,GO:0016301,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,3,EIF2AK1|IKBKG|PDK4
+kinase binding,GO:0019900,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,FAS
+kinase regulator activity,GO:0019207,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,GSTP1
+lactase activity,GO:0000016,Non-alcoholic Fatty Liver Disease,MESH:D065626,3,bisphenol A|geraniol|Streptozocin,0,
+lactate dehydrogenase activity,GO:0004457,Non-alcoholic Fatty Liver Disease,MESH:D065626,40,"2-methyl-2H-pyrazole-3-carboxylic acid (2-methyl-4-o-tolylazophenyl)amide|Acetaminophen|alpha-naphthoflavone|Arsenic Trioxide|Benzo(a)pyrene|bisphenol A|Cadmium|Cadmium Chloride|Caffeine|cobaltiprotoporphyrin|cyanoginosin LR|Dietary Carbohydrates|Dietary Fats|Diethylnitrosamine|Dimethylnitrosamine|Dust|Ethanol|Fatty Acids, Omega-3|Folic Acid|Fructose|gastrodin|geraniol|Glucose|hydroquinone|Maneb|Methionine|Niacinamide|Oleic Acid|Palmitic Acid|Plant Extracts|Quercetin|Raloxifene Hydrochloride|Resveratrol|Silymarin|sodium arsenite|Sodium Glutamate|Streptozocin|Tetrachlorodibenzodioxin|Thioctic Acid|Valproic Acid",0,
+L-alanine:2-oxoglutarate aminotransferase activity,GO:0004021,Non-alcoholic Fatty Liver Disease,MESH:D065626,10,Acetaminophen|bisphenol A|Choline|geraniol|Methionine|perfluoro-n-nonanoic acid|perfluorooctanoic acid|Plant Extracts|Quercetin|Silymarin,1,GPT
+L-aspartate:2-oxoglutarate aminotransferase activity,GO:0004069,Non-alcoholic Fatty Liver Disease,MESH:D065626,41,"3,4,5,3',4'-pentachlorobiphenyl|Acetaminophen|Arsenic Trioxide|Benzo(a)pyrene|bisphenol A|Cadmium|Cadmium Chloride|Caffeine|Cholesterol, Dietary|Choline|cyanoginosin LR|Dietary Carbohydrates|Dietary Fats|Dietary Sucrose|Diethylnitrosamine|Ethanol|Fatty Acids, Omega-3|Folic Acid|Fructose|Genistein|geraniol|GW 4064|Irinotecan|Iron|Methionine|Niacinamide|Oleic Acid|Orlistat|Palmitic Acid|Palm Oil|Pioglitazone|pirinixic acid|Plant Extracts|Quercetin|Resveratrol|Rosiglitazone|Silymarin|sodium arsenite|Sodium Glutamate|Streptozocin|Taurine",0,
+LBD domain binding,GO:0050693,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,PPARG
+leptin receptor binding,GO:1990460,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,LEP
+leucine zipper domain binding,GO:0043522,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,MRTFA
+leukemia inhibitory factor receptor binding,GO:0005146,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,LIF
+ligand-activated transcription factor activity,GO:0098531,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,AHR2
+ligand-gated monoatomic ion channel activity,GO:0015276,Non-alcoholic Fatty Liver Disease,MESH:D065626,1,geraniol,0,
+linear polyubiquitin binding,GO:1990450,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,IKBKG
+linoleic acid binding,GO:0070539,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,PPARD
+lipase activity,GO:0016298,Non-alcoholic Fatty Liver Disease,MESH:D065626,5,"Carvedilol|Cholesterol, Dietary|Ethanol|Orlistat|Plant Extracts",0,
+lipid binding,GO:0008289,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,8,APOH|ESR1|MTTP|PPARA|PPARD|PRKCA|PTEN|SCARB1
+lipid transfer activity,GO:0120013,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,MTTP
+lipid transporter activity,GO:0005319,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,2,MTTP|SCARB1
+lipopolysaccharide binding,GO:0001530,Non-alcoholic Fatty Liver Disease,MESH:D065626,1,Tobacco Smoke Pollution,3,CD14|F2|SCARB1
+lipopolysaccharide immune receptor activity,GO:0001875,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,2,CD14|SCARB1
+lipoprotein lipase activator activity,GO:0060230,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,APOH
+lipoprotein lipase activity,GO:0004465,Non-alcoholic Fatty Liver Disease,MESH:D065626,1,perfluorooctanoic acid,1,PNPLA3
+lipoprotein particle binding,GO:0071813,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,LDLR
+lipoprotein particle receptor activity,GO:0030228,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,ATP5F1B
+lipoteichoic acid binding,GO:0070891,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,CD14
+lithocholic acid receptor activity,GO:0038186,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,NR1H4
+long-chain fatty acid-CoA ligase activity,GO:0004467,Non-alcoholic Fatty Liver Disease,MESH:D065626,1,Palmitic Acid,0,
+long-chain fatty acid omega-1 hydroxylase activity,GO:0120319,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,CYP2E1
+long-chain fatty acyl-CoA binding,GO:0036042,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,PNPLA3
+low-density lipoprotein particle binding,GO:0030169,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,2,LDLR|SCARB1
+low-density lipoprotein particle receptor activity,GO:0005041,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,2,LDLR|VLDLR
+lyase activity,GO:0016829,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,2,CYP17A1|CYP1A2
+lysine-acetylated histone binding,GO:0070577,Non-alcoholic Fatty Liver Disease,MESH:D065626,5,Acetaminophen|bisphenol A|Ethanol|sodium arsenite|Valproic Acid,1,SIRT1
+lysophosphatidic acid acyltransferase activity,GO:0042171,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,PNPLA3
+lysophosphatidic acid binding,GO:0035727,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,PNPLA3
+lysozyme activity,GO:0003796,Non-alcoholic Fatty Liver Disease,MESH:D065626,1,bisphenol A,0,
+magnesium ion binding,GO:0000287,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,PRKACA
+malate dehydrogenase activity,GO:0016615,Non-alcoholic Fatty Liver Disease,MESH:D065626,3,Acetaminophen|bisphenol A|Cadmium,0,
+malic enzyme activity,GO:0004470,Non-alcoholic Fatty Liver Disease,MESH:D065626,3,Copper|Dietary Fats|Glucose,0,
+maltose alpha-glucosidase activity,GO:0032450,Non-alcoholic Fatty Liver Disease,MESH:D065626,2,bisphenol A|Streptozocin,0,
+manganese ion binding,GO:0030145,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,PRKACA
+MAP kinase activity,GO:0004707,Non-alcoholic Fatty Liver Disease,MESH:D065626,2,Cadmium|tributyltin,0,
+MAP kinase serine/threonine phosphatase activity,GO:1990439,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,PTEN
+MDM2/MDM4 family protein binding,GO:0097371,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,PPARA
+metal-dependent deubiquitinase activity,GO:0140492,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,FAS
+metal ion binding,GO:0046872,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,22,ACE|ADH1A|ADH1B|ADH4|B3GAT1|CAT|CYP17A1|ESR1|FTO|IKBKG|JAK2|MMP1|NR1H4|NR5A2|PPARA|PPARD|PPARG|PRKCA|PRKCE|PTEN|RAG2|SIRT1
+metallocarboxypeptidase activity,GO:0004181,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,ACE
+metallodipeptidase activity,GO:0070573,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,ACE
+metalloendopeptidase activity,GO:0004222,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,2,ACE|MMP1
+metallopeptidase activity,GO:0008237,Non-alcoholic Fatty Liver Disease,MESH:D065626,2,Cholesterol|Tobacco Smoke Pollution,2,ACE|MMP1
+methylated histone binding,GO:0035064,Non-alcoholic Fatty Liver Disease,MESH:D065626,2,Acetaminophen|sodium arsenite,1,RAG2
+methyltransferase activity,GO:0008168,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,3,GNMT|PEMT|TNFRSF1B
+MHC class I protein binding,GO:0042288,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,ATP5F1B
+microtubule motor activity,GO:0003777,Non-alcoholic Fatty Liver Disease,MESH:D065626,1,Glucose,0,
+mitogen-activated protein kinase binding,GO:0051019,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,2,ACE|SIRT1
+mitogen-activated protein kinase kinase binding,GO:0031434,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,3,ACE|TRIB1|TRIB3
+mitogen-activated protein kinase kinase kinase binding,GO:0031435,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,PPARA
+molecular adaptor activity,GO:0060090,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,3,LDLR|MRTFA|NLRP3
+molecular condensate scaffold activity,GO:0140693,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,2,NFE2L2|NLRP3
+molecular_function,GO:0003674,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,FTO
+molecular function inhibitor activity,GO:0140678,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,PTEN
+monoamine oxidase activity,GO:0097621,Non-alcoholic Fatty Liver Disease,MESH:D065626,3,bisphenol A|Cadmium|Thioctic Acid,0,
+monodehydroascorbate reductase (NADH) activity,GO:0016656,Non-alcoholic Fatty Liver Disease,MESH:D065626,2,Cadmium Chloride|sodium arsenite,0,
+mono-olein transacylation activity,GO:0051264,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,PNPLA3
+monooxygenase activity,GO:0004497,Non-alcoholic Fatty Liver Disease,MESH:D065626,2,Benzo(a)pyrene|Sulpiride,3,CYP17A1|CYP1A2|CYP2E1
+mRNA 3'-UTR binding,GO:0003730,Non-alcoholic Fatty Liver Disease,MESH:D065626,1,sodium arsenite,0,
+mRNA 5'-UTR binding,GO:0048027,Non-alcoholic Fatty Liver Disease,MESH:D065626,1,sodium arsenite,0,
+mRNA CDS binding,GO:1990715,Non-alcoholic Fatty Liver Disease,MESH:D065626,1,sodium arsenite,0,
+mRNA N6-methyladenosine dioxygenase activity,GO:1990931,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,FTO
+myosin light chain kinase activity,GO:0004687,Non-alcoholic Fatty Liver Disease,MESH:D065626,1,Genistein,0,
+myosin phosphatase activity,GO:0017018,Non-alcoholic Fatty Liver Disease,MESH:D065626,1,Glucose,1,PTEN
+N-acetyltransferase activity,GO:0008080,Non-alcoholic Fatty Liver Disease,MESH:D065626,1,Benzo(a)pyrene,0,
+NAD binding,GO:0051287,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,5,ADH4|AHCY|ALDH1A1|ALDH1B1|ALDH2
+NAD+ binding,GO:0070403,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,SIRT1
+NAD-dependent histone deacetylase activity,GO:0017136,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,SIRT1
+NAD-dependent histone decrotonylase activity,GO:0160012,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,SIRT1
+NAD-dependent histone H3K14 deacetylase activity,GO:0032041,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,SIRT1
+NAD-dependent histone H3K18 deacetylase activity,GO:0097372,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,SIRT1
+NAD-dependent histone H3K56 deacetylase activity,GO:0140765,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,SIRT1
+NAD-dependent histone H3K9 deacetylase activity,GO:0046969,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,SIRT1
+NAD-dependent histone H4K16 deacetylase activity,GO:0046970,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,SIRT1
+NAD-dependent protein deacetylase activity,GO:0034979,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,SIRT1
+NADH binding,GO:0070404,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,ALDH2
+NADH dehydrogenase activity,GO:0003954,Non-alcoholic Fatty Liver Disease,MESH:D065626,2,Carvedilol|Streptozocin,0,
+NADH dehydrogenase (quinone) activity,GO:0050136,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,NQO1
+NADH dehydrogenase (ubiquinone) activity,GO:0008137,Non-alcoholic Fatty Liver Disease,MESH:D065626,25,"Acetaminophen|Arsenic Trioxide|Bezafibrate|bisphenol A|Cadmium|Cadmium Chloride|Dietary Fats|Ethanol|Glucose|Maneb|Methionine|N-(oxo-5,6-dihydrophenanthridin-2-yl)-N,N-dimethylacetamide hydrochloride|Oleic Acid|Palmitic Acid|perfluorooctanoic acid|Plant Extracts|Quercetin|Resveratrol|Rosiglitazone|sodium arsenite|Streptozocin|Taurine|Thioctic Acid|Tunicamycin|Valproic Acid",0,
+NADH-dependent peroxiredoxin activity,GO:0102039,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,PRDX3
+NADP binding,GO:0050661,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,CAT
+NAD(P)H dehydrogenase (quinone) activity,GO:0003955,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,NQO1
+NADPH dehydrogenase (quinone) activity,GO:0008753,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,NQO1
+NADPH-hemoprotein reductase activity,GO:0003958,Non-alcoholic Fatty Liver Disease,MESH:D065626,3,Benzo(a)pyrene|Quercetin|Taurine,0,
+NAD(P)H oxidase H2O2-forming activity,GO:0016174,Non-alcoholic Fatty Liver Disease,MESH:D065626,6,2-methyl-2H-pyrazole-3-carboxylic acid (2-methyl-4-o-tolylazophenyl)amide|Arsenic Trioxide|Glucose|Quercetin|Resveratrol|sodium arsenite,0,
+NADPH:quinone reductase activity,GO:0003960,Non-alcoholic Fatty Liver Disease,MESH:D065626,1,geraniol,1,ADH4
+NAD-retinol dehydrogenase activity,GO:0004745,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,3,ADH1A|ADH1B|ADH4
+NFAT protein binding,GO:0051525,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,PPARA
+NF-kappaB binding,GO:0051059,Non-alcoholic Fatty Liver Disease,MESH:D065626,1,Ethanol,1,PPARD
+nickel cation binding,GO:0016151,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,GSTM1
+nitric oxide binding,GO:0070026,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,GSTP1
+nitric-oxide synthase activity,GO:0004517,Non-alcoholic Fatty Liver Disease,MESH:D065626,8,bisphenol A|Cadmium|Caffeine|Dietary Fats|Quercetin|Resveratrol|Thioctic Acid|Tobacco Smoke Pollution,0,
+nitric-oxide synthase regulator activity,GO:0030235,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,ESR1
+nitrite reductase (NO-forming) activity,GO:0050421,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,CYP1A2
+nitrogenase activity,GO:0016163,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,PTEN
+NMDA glutamate receptor activity,GO:0004972,Non-alcoholic Fatty Liver Disease,MESH:D065626,2,Genistein|Glucose,0,
+non-membrane spanning protein tyrosine kinase activity,GO:0004715,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,2,JAK2|PRKCD
+non-membrane spanning protein tyrosine phosphatase activity,GO:0004726,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,PTEN
+nuclear estrogen receptor activity,GO:0030284,Non-alcoholic Fatty Liver Disease,MESH:D065626,1,bisphenol A,1,ESR1
+nuclear estrogen receptor binding,GO:0030331,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,3,ESR1|PPARG|XBP1
+nuclear receptor activity,GO:0004879,Non-alcoholic Fatty Liver Disease,MESH:D065626,1,bisphenol A,9,AHR|AHR2|ESR1|NR1H4|NR5A2|PPARA|PPARD|PPARG|SREBF1
+nuclear receptor binding,GO:0016922,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,2,NR1H4|SIRT1
+nuclear retinoid X receptor binding,GO:0046965,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,2,NR1H4|PPARG
+nuclear steroid receptor activity,GO:0003707,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,4,ESR1|NR5A2|PPARA|PPARD
+nucleic acid binding,GO:0003676,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,3,PPARG|PTEN|SCARB1
+nucleoside triphosphate diphosphatase activity,GO:0047429,Non-alcoholic Fatty Liver Disease,MESH:D065626,2,Fructose|Streptozocin,0,
+nucleotide binding,GO:0000166,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,5,ABCB4|ABCC2|ATP5F1B|EIF2AK1|PDK4
+O-acyltransferase activity,GO:0008374,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,CPT1A
+olfactory receptor activity,GO:0004984,Non-alcoholic Fatty Liver Disease,MESH:D065626,1,perfluorooctanoic acid,0,
+opsonin receptor activity,GO:0001847,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,CD14
+organic anion transmembrane transporter activity,GO:0008514,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,ABCC2
+ornithine decarboxylase inhibitor activity,GO:0008073,Non-alcoholic Fatty Liver Disease,MESH:D065626,1,sodium arsenite,0,
+oxidative DNA demethylase activity,GO:0035516,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,FTO
+oxidative RNA demethylase activity,GO:0035515,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,FTO
+oxidoreductase activity,GO:0016491,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,14,ADH1A|ADH1B|ADH4|ALDH1A1|ALDH1B1|ALDH2|ALDH4A1|CAT|CYP17A1|CYP1A2|CYP2E1|FTO|IFI30|PRDX3
+"oxidoreductase activity, acting on a sulfur group of donors",GO:0016667,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,IFI30
+"oxidoreductase activity, acting on a sulfur group of donors, disulfide as acceptor",GO:0016671,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,IFI30
+"oxidoreductase activity, acting on NAD(P)H",GO:0016651,Non-alcoholic Fatty Liver Disease,MESH:D065626,1,geraniol,0,
+"oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen",GO:0016705,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,2,CYP17A1|CYP2E1
+"oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, NAD(P)H as one donor, and incorporation of one atom of oxygen",GO:0016709,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,CYP2E1
+"oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, reduced flavin or flavoprotein as one donor, and incorporation of one atom of oxygen",GO:0016712,Non-alcoholic Fatty Liver Disease,MESH:D065626,4,Benzo(a)pyrene|bisphenol A|Diethylnitrosamine|geraniol,2,CYP1A2|CYP2E1
+"oxidoreductase activity, acting on peroxide as acceptor",GO:0016684,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,CAT
+"oxidoreductase activity, acting on the aldehyde or oxo group of donors, NAD or NADP as acceptor",GO:0016620,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,5,ADH4|ALDH1A1|ALDH1B1|ALDH2|ALDH4A1
+"oxidoreductase activity, acting on the CH-CH group of donors",GO:0016627,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,2,ALDH2|PEMT
+oxoglutarate dehydrogenase (succinyl-transferring) activity,GO:0004591,Non-alcoholic Fatty Liver Disease,MESH:D065626,2,Cadmium|Thioctic Acid,0,
+oxygen binding,GO:0019825,Non-alcoholic Fatty Liver Disease,MESH:D065626,3,Benzo(a)pyrene|Resveratrol|Taurine,2,CYP17A1|CYP2E1
+p53 binding,GO:0002039,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,SIRT1
+palmitoyltransferase activity,GO:0016409,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,MTTP
+PDZ domain binding,GO:0030165,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,PTEN
+peptidase activator activity involved in apoptotic process,GO:0016505,Non-alcoholic Fatty Liver Disease,MESH:D065626,5,Ethanol|Glucose|Plant Extracts|tributyltin|Valproic Acid,0,
+peptidase activity,GO:0008233,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,3,ACE|F2|MMP1
+peptide binding,GO:0042277,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,2,NR1H4|PPARG
+peptide hormone receptor binding,GO:0051428,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,2,JAK2|LEP
+peptidoglycan binding,GO:0042834,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,NLRP3
+peptidoglycan immune receptor activity,GO:0016019,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,CD14
+peptidyl-dipeptidase activity,GO:0008241,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,ACE
+peroxidase activity,GO:0004601,Non-alcoholic Fatty Liver Disease,MESH:D065626,4,Arsenic Trioxide|bisphenol A|Dextran Sulfate|sodium arsenite,3,CAT|GSTA1|PRDX3
+peroxiredoxin activity,GO:0051920,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,PRDX3
+peroxisome proliferator activated receptor binding,GO:0042975,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,IKBKG
+phenylacetaldehyde dehydrogenase activity,GO:0008957,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,ALDH2
+phosphatase activity,GO:0016791,Non-alcoholic Fatty Liver Disease,MESH:D065626,2,Cadmium|Cadmium Chloride,1,PTEN
+phosphatase binding,GO:0019902,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,PPARA
+phosphatidylcholine floppase activity,GO:0090554,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,ABCB4
+phosphatidylcholine transfer activity,GO:0120019,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,MTTP
+phosphatidylethanolamine binding,GO:0008429,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,PEMT
+phosphatidylethanolamine N-methyltransferase activity,GO:0004608,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,PEMT
+phosphatidylethanolamine transfer activity,GO:1904121,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,MTTP
+"phosphatidylinositol-3,4,5-trisphosphate 3-phosphatase activity",GO:0016314,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,PTEN
+"phosphatidylinositol-3,4,5-trisphosphate binding",GO:0005547,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,RAG2
+"phosphatidylinositol-3,4-bisphosphate 3-phosphatase activity",GO:0051800,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,PTEN
+"phosphatidylinositol-3,4-bisphosphate binding",GO:0043325,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,RAG2
+"phosphatidylinositol-3,5-bisphosphate binding",GO:0080025,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,RAG2
+phosphatidylinositol 3-kinase binding,GO:0043548,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,JAK2
+phosphatidylinositol 3-kinase regulatory subunit binding,GO:0036312,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,2,ESR1|XBP1
+phosphatidylinositol-3-phosphate phosphatase activity,GO:0004438,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,PTEN
+"phosphatidylinositol-4,5-bisphosphate binding",GO:0005546,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,RAG2
+phosphatidylinositol-4-phosphate binding,GO:0070273,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,NLRP3
+phosphatidylinositol binding,GO:0035091,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,2,PTEN|RAG2
+phosphatidylinositol phosphate binding,GO:1901981,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,NLRP3
+phosphatidylinositol phosphate phosphatase activity,GO:0052866,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,PTEN
+phosphatidyl-N-methylethanolamine N-methyltransferase activity,GO:0000773,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,PEMT
+phosphatidylserine binding,GO:0001786,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,SCARB1
+phosphatidylserine floppase activity,GO:0090556,Non-alcoholic Fatty Liver Disease,MESH:D065626,1,Reactive Oxygen Species,0,
+phosphoenolpyruvate carboxykinase activity,GO:0004611,Non-alcoholic Fatty Liver Disease,MESH:D065626,4,Arsenic Trioxide|Plant Extracts|sodium arsenite|Streptozocin,0,
+phosphofructokinase activity,GO:0008443,Non-alcoholic Fatty Liver Disease,MESH:D065626,1,bisphenol A,0,
+phospholipase A2 activity,GO:0004623,Non-alcoholic Fatty Liver Disease,MESH:D065626,4,Cadmium|Cholesterol|Quercetin|Tunicamycin,1,PNPLA3
+phospholipid binding,GO:0005543,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,2,APOH|NR5A2
+phospholipid transfer activity,GO:0120014,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,MTTP
+phospholipid transporter activity,GO:0005548,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,2,ABCB4|MTTP
+phosphoprotein phosphatase activity,GO:0004721,Non-alcoholic Fatty Liver Disease,MESH:D065626,1,cyanoginosin LR,1,PTEN
+platelet-derived growth factor receptor binding,GO:0005161,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,PTEN
+polyubiquitin modification-dependent protein binding,GO:0031593,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,IKBKG
+pore-forming activity,GO:0140911,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,PRF1
+promoter-specific chromatin binding,GO:1990841,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,3,ESR1|PPARG|SIRT1
+prostacyclin receptor activity,GO:0016501,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,PPARD
+prostaglandin-endoperoxide synthase activity,GO:0004666,Non-alcoholic Fatty Liver Disease,MESH:D065626,2,"Cholesterol, Dietary|Tunicamycin",0,
+prostaglandin receptor activity,GO:0004955,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,PPARG
+protease binding,GO:0002020,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,6,FAS|INS|LDLR|SERPINA1|TNF|XBP1
+protein arginine kinase activity,GO:1990424,Non-alcoholic Fatty Liver Disease,MESH:D065626,1,perfluorooctanoic acid,0,
+protein binding,GO:0005515,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,82,ABCB4|ABCC2|ACE|ADH1A|ADH1B|ADH4|ADIPOQ|AHCY|AHR|AHR2|ALDH1A1|ALDH2|ALDH4A1|APOH|ATP5F1B|B3GAT1|C1QC|CD14|COBLL1|CPT1A|CSF2|CYP1A2|EIF2AK1|ESR1|F2|FAS|FGF21|FTO|GNMT|GSTA1|GSTM1|GSTP1|GSTT1|IFI30|IKBKG|IL1A|IL1B|IL1RN|IL3|IL4|INS|JAK2|KLB|LAMA1|LDLR|LEP|LIF|MMP1|MRTFA|MTTP|NFE2L2|NLRP3|NQO1|NR1H4|NR5A2|PDK4|PEMT|PPARA|PPARD|PPARG|PRDX3|PRF1|PRKACA|PRKCA|PRKCD|PRKCE|PTEN|RAG2|RDX|SCARB1|SERPINA1|SIRT1|SREBF1|STC2|TGFB1|TM6SF2|TNF|TNFRSF1B|TRIB1|TRIB3|VLDLR|XBP1
+protein-containing complex binding,GO:0044877,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,9,ESR1|FAS|IKBKG|MTTP|NR1H4|PPARA|PRKACA|SREBF1|TGFB1
+protein dimerization activity,GO:0046983,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,5,AHR|AHR2|JAK2|LDLR|SREBF1
+protein disulfide isomerase activity,GO:0003756,Non-alcoholic Fatty Liver Disease,MESH:D065626,1,bisphenol A,0,
+protein domain specific binding,GO:0019904,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,8,ABCC2|IKBKG|IL1B|NFE2L2|PPARA|PRKACA|RDX|SIRT1
+protein-glutamine gamma-glutamyltransferase activity,GO:0003810,Non-alcoholic Fatty Liver Disease,MESH:D065626,4,Cadmium|Cadmium Chloride|Silymarin|Valproic Acid,0,
+protein heterodimerization activity,GO:0046982,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,4,AHR|IKBKG|MTTP|XBP1
+protein homodimerization activity,GO:0042803,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,10,ACE|ADIPOQ|AHR|CAT|EIF2AK1|GSTA1|GSTM1|IKBKG|RDX|STC2
+protein kinase A binding,GO:0051018,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,RDX
+protein kinase activity,GO:0004672,Non-alcoholic Fatty Liver Disease,MESH:D065626,2,Genistein|Quercetin,9,EIF2AK1|JAK2|PDK4|PRKACA|PRKCA|PRKCD|PRKCE|TRIB1|TRIB3
+protein kinase A regulatory subunit binding,GO:0034237,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,PRKACA
+protein kinase B binding,GO:0043422,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,SIRT1
+protein kinase binding,GO:0019901,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,12,ESR1|GSTM1|GSTP1|JAK2|PRDX3|PRKACA|PRKCD|PRKCE|PTEN|SREBF1|TRIB3|XBP1
+protein kinase C activity,GO:0004697,Non-alcoholic Fatty Liver Disease,MESH:D065626,8,"Choline|Glucose|Methionine|monascin|N-(oxo-5,6-dihydrophenanthridin-2-yl)-N,N-dimethylacetamide hydrochloride|Quercetin|Silymarin|Streptozocin",3,PRKCA|PRKCD|PRKCE
+protein kinase inhibitor activity,GO:0004860,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,2,TRIB1|TRIB3
+protein lysine deacetylase activity,GO:0033558,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,SIRT1
+protein-macromolecule adaptor activity,GO:0030674,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,2,CPT1A|NLRP3
+protein phosphatase binding,GO:0019903,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,2,FAS|PPARG
+protein-propionyllysine depropionylase activity,GO:0106231,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,SIRT1
+protein serine kinase activity,GO:0106310,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,5,EIF2AK1|PRKACA|PRKCA|PRKCD|PRKCE
+protein serine/threonine kinase activator activity,GO:0043539,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,2,ADIPOQ|TGFB1
+protein serine/threonine kinase activity,GO:0004674,Non-alcoholic Fatty Liver Disease,MESH:D065626,1,Streptozocin,5,EIF2AK1|PRKACA|PRKCA|PRKCD|PRKCE
+protein serine/threonine kinase binding,GO:0120283,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,2,PRKCD|PRKCE
+protein serine/threonine phosphatase activity,GO:0004722,Non-alcoholic Fatty Liver Disease,MESH:D065626,1,cyanoginosin LR,1,PTEN
+protein serine/threonine/tyrosine kinase activity,GO:0004712,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,2,PDK4|PRKACA
+protein tag,GO:0031386,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,SCARB1
+protein tyrosine kinase activator activity,GO:0030296,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,VLDLR
+protein tyrosine kinase activity,GO:0004713,Non-alcoholic Fatty Liver Disease,MESH:D065626,1,Quercetin,2,JAK2|PRKCD
+protein tyrosine kinase binding,GO:1990782,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,PTEN
+protein tyrosine phosphatase activity,GO:0004725,Non-alcoholic Fatty Liver Disease,MESH:D065626,1,Arsenic Trioxide,1,PTEN
+"protein tyrosine phosphatase activity, metal-dependent",GO:0030946,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,PTEN
+protein tyrosine/serine/threonine phosphatase activity,GO:0008138,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,PTEN
+"proton-transporting ATPase activity, rotational mechanism",GO:0046961,Non-alcoholic Fatty Liver Disease,MESH:D065626,5,Genistein|perfluorooctanoic acid|Quercetin|Resveratrol|Taurine,1,ATP5F1B
+"proton-transporting ATP synthase activity, rotational mechanism",GO:0046933,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,ATP5F1B
+P-type calcium transporter activity,GO:0005388,Non-alcoholic Fatty Liver Disease,MESH:D065626,7,Arsenic Trioxide|bisphenol A|Cadmium|Cadmium Chloride|Quercetin|Thioctic Acid|Tobacco Smoke Pollution,0,
+P-type magnesium transporter activity,GO:0015444,Non-alcoholic Fatty Liver Disease,MESH:D065626,2,Cadmium|Cadmium Chloride,0,
+P-type sodium:potassium-exchanging transporter activity,GO:0005391,Non-alcoholic Fatty Liver Disease,MESH:D065626,17,Arsenic Trioxide|bisphenol A|Cadmium|Cadmium Chloride|Dietary Fats|Ethanol|Fenofibrate|Folic Acid|Glucose|Resveratrol|sodium arsenite|Sodium Glutamate|Streptozocin|Taurine|Thioctic Acid|Tobacco Smoke Pollution|Valproic Acid,0,
+pyridoxal phosphate binding,GO:0030170,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,GPT
+pyruvate dehydrogenase (acetyl-transferring) activity,GO:0004739,Non-alcoholic Fatty Liver Disease,MESH:D065626,1,Dietary Fats,0,
+pyruvate dehydrogenase (acetyl-transferring) kinase activity,GO:0004740,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,PDK4
+pyruvate dehydrogenase activity,GO:0004738,Non-alcoholic Fatty Liver Disease,MESH:D065626,3,Dietary Fats|GW 4064|Thioctic Acid,0,
+pyruvate kinase activity,GO:0004743,Non-alcoholic Fatty Liver Disease,MESH:D065626,4,Cadmium Chloride|Quercetin|sodium arsenite|Streptozocin,0,
+receptor ligand activity,GO:0048018,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,3,F2|IL1B|TNF
+reelin receptor activity,GO:0038025,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,VLDLR
+retinal dehydrogenase activity,GO:0001758,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,ALDH1A1
+retinol binding,GO:0019841,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,ADH4
+retinol transmembrane transporter activity,GO:0034632,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,ALDH1B1
+Rho-dependent protein serine/threonine kinase activity,GO:0072518,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,EIF2AK1
+ribosomal protein S6 kinase activity,GO:0004711,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,EIF2AK1
+RNA polymerase binding,GO:0070063,Non-alcoholic Fatty Liver Disease,MESH:D065626,1,Genistein,0,
+RNA polymerase II activity,GO:0001055,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,LDLR
+RNA polymerase II cis-regulatory region sequence-specific DNA binding,GO:0000978,Non-alcoholic Fatty Liver Disease,MESH:D065626,1,Tobacco Smoke Pollution,10,ESR1|NFE2L2|NR1H4|NR5A2|PPARA|PPARD|PPARG|SIRT1|SREBF1|XBP1
+RNA polymerase II core promoter sequence-specific DNA binding,GO:0000979,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,PPARG
+RNA polymerase II-specific DNA-binding transcription factor binding,GO:0061629,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,4,AHR|NFE2L2|PPARA|TRIB1
+RNA polymerase II transcription regulatory region sequence-specific DNA binding,GO:0000977,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,5,F2|NR1H4|PPARG|SREBF1|XBP1
+R-SMAD binding,GO:0070412,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,PPARG
+S-adenosyl-L-methionine binding,GO:1904047,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,GNMT
+S-adenosylmethionine-dependent methyltransferase activity,GO:0008757,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,2,GNMT|PEMT
+scavenger receptor activity,GO:0005044,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,SCARB1
+selenol Se-methyltransferase activity,GO:0098603,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,GNMT
+sequence-specific DNA binding,GO:0043565,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,14,AHR|AHR2|ESR1|LAMA1|NFE2L2|NLRP3|NR1H4|NR5A2|PPARA|PPARD|PPARG|RAG2|SREBF1|XBP1
+sequence-specific double-stranded DNA binding,GO:1990837,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,6,AHR|ESR1|NR5A2|PPARD|SREBF1|XBP1
+serine-type endopeptidase activity,GO:0004252,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,2,F2|MMP1
+serine-type endopeptidase inhibitor activity,GO:0004867,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,2,SERPINA1|SERPINB2
+serine-type peptidase activity,GO:0008236,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,F2
+SH2 domain binding,GO:0042169,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,JAK2
+SH3 domain binding,GO:0017124,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,PRKCE
+S-(hydroxymethyl)glutathione dehydrogenase activity,GO:0051903,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,ADH4
+sialic acid binding,GO:0033691,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,ADIPOQ
+signaling adaptor activity,GO:0035591,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,2,IKBKG|NLRP3
+signaling receptor activator activity,GO:0030546,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,2,JAK2|PRKCE
+signaling receptor activity,GO:0038023,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,5,ALDH1B1|FAS|FOLR2|PPARA|TNFRSF1B
+signaling receptor binding,GO:0005102,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,8,ADIPOQ|F2|JAK2|LAMA1|LEP|LIF|PRKCA|PRKCE
+small GTPase binding,GO:0031267,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,PRKACA
+small molecule sensor activity,GO:0140299,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,NLRP3
+S-nitrosoglutathione binding,GO:0035730,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,GSTP1
+sodium channel activity,GO:0005272,Non-alcoholic Fatty Liver Disease,MESH:D065626,2,Cadmium|Resveratrol,0,
+starch synthase activity,GO:0009011,Non-alcoholic Fatty Liver Disease,MESH:D065626,2,Dietary Fats|Streptozocin,0,
+STAT family protein binding,GO:0097677,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,PPARG
+steroid 17-alpha-monooxygenase activity,GO:0004508,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,2,CYP17A1|CYP1A2
+steroid binding,GO:0005496,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,2,ESR1|GSTM1
+steroid delta-isomerase activity,GO:0004769,Non-alcoholic Fatty Liver Disease,MESH:D065626,1,Linoleic Acid,1,GSTA1
+steroid hormone binding,GO:1990239,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,ESR1
+steroid hydroxylase activity,GO:0008395,Non-alcoholic Fatty Liver Disease,MESH:D065626,1,bisphenol A,0,
+steroid sulfotransferase activity,GO:0050294,Non-alcoholic Fatty Liver Disease,MESH:D065626,1,Triclosan,0,
+sterol response element binding,GO:0032810,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,SREBF1
+"stretch-activated, monoatomic cation-selective, calcium channel activity",GO:0015275,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,MMP1
+structural constituent of ribosome,GO:0003735,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,2,COBLL1|NQO1
+succinate dehydrogenase activity,GO:0000104,Non-alcoholic Fatty Liver Disease,MESH:D065626,11,Arsenic Trioxide|Bezafibrate|bisphenol A|Cadmium|Carvedilol|Dietary Fats|Methionine|Niacin|Plant Extracts|Streptozocin|Tobacco Smoke Pollution,0,
+succinate dehydrogenase (ubiquinone) activity,GO:0008177,Non-alcoholic Fatty Liver Disease,MESH:D065626,21,Acetaminophen|Arsenic Trioxide|Bezafibrate|bisphenol A|bromodichloromethane|Cadmium|Cadmium Chloride|cyanoginosin LR|Dietary Fats|Ethanol|Glucose|Oleic Acid|Palmitic Acid|perfluorooctanoic acid|Quercetin|sodium arsenite|Streptozocin|Thioctic Acid|Triclosan|Tunicamycin|Valproic Acid,0,
+sucrose alpha-glucosidase activity,GO:0004575,Non-alcoholic Fatty Liver Disease,MESH:D065626,5,bisphenol A|Choline|Folic Acid|geraniol|Streptozocin,0,
+sulfate binding,GO:0043199,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,ACE
+sulfotransferase activity,GO:0008146,Non-alcoholic Fatty Liver Disease,MESH:D065626,1,Plant Extracts,0,
+superoxide dismutase activity,GO:0004784,Non-alcoholic Fatty Liver Disease,MESH:D065626,65,"2-(2,5-difluorophenyl)-5-(2-(methylsulfonyl)-2,6-dihydropyrrolo(3,4-c)pyrazol-5(4H)-yl)tetrahydro-2H-pyran-3-amine|3,4,5,3',4'-pentachlorobiphenyl|Acetaminophen|Allopurinol|alpha-naphthoflavone|Arsenic Trioxide|Benzo(a)pyrene|Bezafibrate|Bile Acids and Salts|bisphenol A|Cadmium|Cadmium Chloride|carnosol|Carvedilol|Cholesterol, Dietary|Choline|cobaltiprotoporphyrin|Copper|cyanoginosin LR|Dextran Sulfate|Dietary Carbohydrates|Dietary Fats|Dietary Sugars|Diethylnitrosamine|Dimethylnitrosamine|Dust|Ethanol|Eucalyptol|Fatty Acids, Omega-3|Folic Acid|Fructose|gastrodin|Genistein|geraniol|Glucose|Iron|mancozeb|Methionine|Niacin|Niacinamide|Oleic Acid|Orlistat|Palmitic Acid|perfluorooctanoic acid|Pioglitazone|Plant Extracts|Plant Preparations|Prednisolone|puerarin|Quercetin|Resveratrol|Rosiglitazone|Silymarin|sodium arsenite|Sodium Glutamate|Streptozocin|Taurine|tectorigenin|Testosterone|Tetrachlorodibenzodioxin|Thioctic Acid|Tobacco Smoke Pollution|tributyltin|Tunicamycin|Valproic Acid",1,NQO1
+superoxide-generating NADPH oxidase activity,GO:0106292,Non-alcoholic Fatty Liver Disease,MESH:D065626,5,bisphenol A|Cadmium Chloride|Glucose|puerarin|Quercetin,0,
+sweet taste receptor activity,GO:0033041,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,ALDH4A1
+TBP-class protein binding,GO:0017025,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,2,AHR|ESR1
+telomerase activity,GO:0003720,Non-alcoholic Fatty Liver Disease,MESH:D065626,3,Arsenic Trioxide|Benzo(a)pyrene|bisphenol A,0,
+testosterone 17-beta-dehydrogenase (NADP+) activity,GO:0047045,Non-alcoholic Fatty Liver Disease,MESH:D065626,1,mancozeb,0,
+testosterone dehydrogenase [NAD(P)] activity,GO:0030283,Non-alcoholic Fatty Liver Disease,MESH:D065626,1,bisphenol A,0,
+TFIIB-class transcription factor binding,GO:0001093,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,ESR1
+TFIID-class transcription factor complex binding,GO:0001094,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,AHR
+thioredoxin-dependent peroxiredoxin activity,GO:0140824,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,PRDX3
+thioredoxin-disulfide reductase activity,GO:0004791,Non-alcoholic Fatty Liver Disease,MESH:D065626,6,Cadmium|geraniol|Iron|Quercetin|sodium arsenite|Streptozocin,0,
+thioredoxin peroxidase activity,GO:0008379,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,PRDX3
+thrombospondin receptor activity,GO:0070053,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,F2
+TIR domain binding,GO:0070976,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,PRKCD
+toxic substance binding,GO:0015643,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,2,AHR|GSTP1
+toxin transmembrane transporter activity,GO:0019534,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,ABCB4
+transaminase activity,GO:0008483,Non-alcoholic Fatty Liver Disease,MESH:D065626,1,Plant Extracts,1,GPT
+transcription cis-regulatory region binding,GO:0000976,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,9,AHR|AHR2|MRTFA|NFE2L2|NR1H4|NR5A2|PPARG|TNF|XBP1
+transcription coactivator activity,GO:0003713,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,2,MRTFA|SIRT1
+transcription coactivator binding,GO:0001223,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,6,AHR|ESR1|PPARA|PPARD|PPARG|SIRT1
+transcription coregulator binding,GO:0001221,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,6,ESR1|NFE2L2|NR1H4|NR5A2|PPARG|SREBF1
+transcription corepressor activity,GO:0003714,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,2,SIRT1|TRIB3
+transcription corepressor binding,GO:0001222,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,ESR1
+transcription factor binding,GO:0008134,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,3,ESR1|NFE2L2|PPARA
+transferase activity,GO:0016740,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,12,B3GAT1|EIF2AK1|FTO|GNMT|GPT|GSTM1|GSTP1|GSTT1|IKBKG|PDK4|PEMT|SIRT1
+transferrin receptor binding,GO:1990459,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,IKBKG
+transforming growth factor beta receptor binding,GO:0005160,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,TGFB1
+transketolase activity,GO:0004802,Non-alcoholic Fatty Liver Disease,MESH:D065626,1,Glucose,0,
+translation initiation factor activity,GO:0003743,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,EIF2AK1
+transmembrane signaling receptor activity,GO:0004888,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,3,FAS|KLB|TNFRSF1B
+transmembrane transporter activity,GO:0022857,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,ABCC2
+triglyceride lipase activity,GO:0004806,Non-alcoholic Fatty Liver Disease,MESH:D065626,1,Dietary Fats,1,PNPLA3
+triglyceride transfer activity,GO:0140344,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,MTTP
+tripeptidyl-peptidase activity,GO:0008240,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,ACE
+tRNA demethylase activity,GO:1990984,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,FTO
+tRNA-intron endonuclease activity,GO:0000213,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,PPARG
+"tryptophan 2,3-dioxygenase activity",GO:0004833,Non-alcoholic Fatty Liver Disease,MESH:D065626,3,Cadmium|Cadmium Chloride|Quercetin,0,
+tryptophan 5-monooxygenase activity,GO:0004510,Non-alcoholic Fatty Liver Disease,MESH:D065626,1,Tamoxifen,0,
+tumor necrosis factor binding,GO:0043120,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,TNFRSF1B
+tumor necrosis factor receptor activity,GO:0005031,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,2,FAS|TNFRSF1B
+tumor necrosis factor receptor binding,GO:0005164,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,TNF
+type 1 angiotensin receptor binding,GO:0031702,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,JAK2
+type 1 metabotropic glutamate receptor binding,GO:0031798,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,ESR1
+type III transforming growth factor beta receptor binding,GO:0034714,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,TGFB1
+type II transforming growth factor beta receptor binding,GO:0005114,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,TGFB1
+type I transforming growth factor beta receptor binding,GO:0034713,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,TGFB1
+tyrosinase activity,GO:0004503,Non-alcoholic Fatty Liver Disease,MESH:D065626,1,bisphenol A,0,
+ubiquinol-cytochrome-c reductase activity,GO:0008121,Non-alcoholic Fatty Liver Disease,MESH:D065626,12,Acetaminophen|Arsenic Trioxide|bisphenol A|Cadmium|Cadmium Chloride|cyanoginosin LR|Oleic Acid|perfluorooctanoic acid|sodium arsenite|Thioctic Acid|Triclosan|Tunicamycin,0,
+ubiquitin binding,GO:0043130,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,PTEN
+ubiquitin conjugating enzyme binding,GO:0031624,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,PPARA
+ubiquitin ligase activator activity,GO:1990757,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,PTEN
+ubiquitin ligase-substrate adaptor activity,GO:1990756,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,RDX
+ubiquitin-like protein ligase binding,GO:0044389,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,XBP1
+ubiquitin protein ligase activity,GO:0061630,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,INS
+ubiquitin protein ligase binding,GO:0031625,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,9,IKBKG|NFE2L2|PRKACA|RDX|SCARB1|TNFRSF1B|TRIB1|TRIB3|XBP1
+ubiquitin-protein transferase regulator activity,GO:0055106,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,2,TRIB1|TRIB3
+ubiquitin-specific protease binding,GO:1990381,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,PTEN
+very-low-density lipoprotein particle binding,GO:0034189,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,VLDLR
+very-low-density lipoprotein particle receptor activity,GO:0030229,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,2,LDLR|VLDLR
+virus receptor activity,GO:0001618,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,2,LDLR|SCARB1
+voltage-gated calcium channel activity,GO:0005245,Non-alcoholic Fatty Liver Disease,MESH:D065626,3,bisphenol A|Cadmium Chloride|Glucose,0,
+voltage-gated channel activity,GO:0022832,Non-alcoholic Fatty Liver Disease,MESH:D065626,1,Tamoxifen,0,
+voltage-gated monoatomic ion channel activity,GO:0005244,Non-alcoholic Fatty Liver Disease,MESH:D065626,1,geraniol,0,
+voltage-gated potassium channel activity,GO:0005249,Non-alcoholic Fatty Liver Disease,MESH:D065626,3,bisphenol A|Glucose|Valproic Acid,1,VLDLR
+voltage-gated sodium channel activity,GO:0005248,Non-alcoholic Fatty Liver Disease,MESH:D065626,1,bisphenol A,0,
+voltage-gated sodium channel activity involved in cardiac muscle cell action potential,GO:0086006,Non-alcoholic Fatty Liver Disease,MESH:D065626,1,bisphenol A,0,
+wide pore channel activity,GO:0022829,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,PRF1
+WW domain binding,GO:0050699,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,PPARG
+xanthine dehydrogenase activity,GO:0004854,Non-alcoholic Fatty Liver Disease,MESH:D065626,1,Allopurinol,0,
+xanthine oxidase activity,GO:0004855,Non-alcoholic Fatty Liver Disease,MESH:D065626,3,Allopurinol|Benzo(a)pyrene|Quercetin,0,
+xenobiotic transmembrane transporter activity,GO:0042910,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,1,ABCC2
+zinc ion binding,GO:0008270,Non-alcoholic Fatty Liver Disease,MESH:D065626,0,,16,ACE|ADH1A|ADH1B|ADH4|ESR1|IKBKG|MMP1|NR1H4|NR5A2|PPARA|PPARD|PPARG|PRKCA|PRKCD|PRKCE|RAG2

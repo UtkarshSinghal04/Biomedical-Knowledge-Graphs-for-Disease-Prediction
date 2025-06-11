@@ -1,0 +1,16 @@
+GeneSymbol,GeneID,DiseaseName,DiseaseID,DirectEvidence,InferenceChemicalName,InferenceScore,OmimIDs,PubMedIDs
+CYP1A2,1544,Upper Extremity Deep Vein Thrombosis,MESH:D056824,,"Contraceptives, Oral",4.93,,7145407
+DBH,1621,Upper Extremity Deep Vein Thrombosis,MESH:D056824,,"Contraceptives, Oral",6.09,,7145407
+F10,2159,Upper Extremity Deep Vein Thrombosis,MESH:D056824,,"Contraceptives, Oral",5.86,,7145407
+F2,2147,Upper Extremity Deep Vein Thrombosis,MESH:D056824,,"Contraceptives, Oral",5.59,,7145407
+F5,2153,Upper Extremity Deep Vein Thrombosis,MESH:D056824,,"Contraceptives, Oral",5.82,,7145407
+F7,2155,Upper Extremity Deep Vein Thrombosis,MESH:D056824,,"Contraceptives, Oral",5.93,,7145407
+F8,2157,Upper Extremity Deep Vein Thrombosis,MESH:D056824,,"Contraceptives, Oral",6.11,,7145407
+F9,2158,Upper Extremity Deep Vein Thrombosis,MESH:D056824,,"Contraceptives, Oral",6.27,,7145407
+MKI67,4288,Upper Extremity Deep Vein Thrombosis,MESH:D056824,,"Contraceptives, Oral",5.26,,7145407
+PLG,5340,Upper Extremity Deep Vein Thrombosis,MESH:D056824,,"Contraceptives, Oral",5.84,,7145407
+PRL,5617,Upper Extremity Deep Vein Thrombosis,MESH:D056824,,"Contraceptives, Oral",5.49,,7145407
+PROC,5624,Upper Extremity Deep Vein Thrombosis,MESH:D056824,,"Contraceptives, Oral",5.94,,7145407
+PROS1,5627,Upper Extremity Deep Vein Thrombosis,MESH:D056824,,"Contraceptives, Oral",5.87,,7145407
+REN,5972,Upper Extremity Deep Vein Thrombosis,MESH:D056824,,"Contraceptives, Oral",5.69,,7145407
+SERPINC1,462,Upper Extremity Deep Vein Thrombosis,MESH:D056824,,"Contraceptives, Oral",5.94,,7145407

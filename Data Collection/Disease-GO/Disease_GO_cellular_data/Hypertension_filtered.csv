@@ -1,0 +1,1065 @@
+GOName,GOID,DiseaseName,DiseaseID,InferenceChemicalQty,InferenceChemicalNames,InferenceGeneQty,InferenceGeneSymbols
+3-methyl-2-oxobutanoate dehydrogenase (lipoamide) complex,GO:0017086,Hypertension,MESH:D006973,1,Simvastatin,0,
+3-methyl-2-oxobutanoate dehydrogenase (lipoamide) complex,GO:0017086,"Hypertension, Pulmonary",MESH:D006976,1,Simvastatin,0,
+A band,GO:0031672,Familial Primary Pulmonary Hypertension,MESH:D065627,0,,1,HDAC4
+acrosomal membrane,GO:0002080,Familial Primary Pulmonary Hypertension,MESH:D065627,0,,1,CAV1
+acrosomal membrane,GO:0002080,Hypertension,MESH:D006973,1,sodium arsenite,1,CAV1
+acrosomal vesicle,GO:0001669,Hypertension,MESH:D006973,0,,3,DRD2|KLK1|SCNN1A
+acrosomal vesicle,GO:0001669,"Hypertension, Pulmonary",MESH:D006976,0,,1,PRKG1
+actin cap,GO:0030478,Hypertension,MESH:D006973,1,cobaltous chloride,0,
+actin cytoskeleton,GO:0015629,Hypertension,MESH:D006973,0,,1,TPM1
+actin cytoskeleton,GO:0015629,"Hypertension, Renal",MESH:D006977,0,,1,MYH9
+actin filament,GO:0005884,Essential Hypertension,MESH:D000075222,0,,1,AIF1
+actin filament,GO:0005884,Hypertension,MESH:D006973,2,Cadmium|Cadmium Chloride,3,AIF1|ANXA1|TPM1
+actin filament,GO:0005884,"Hypertension, Renal",MESH:D006977,0,,1,MYH9
+actin filament bundle,GO:0032432,Hypertension,MESH:D006973,1,Particulate Matter,0,
+actin filament bundle,GO:0032432,Pulmonary Arterial Hypertension,MESH:D000081029,1,Particulate Matter,0,
+actomyosin,GO:0042641,Familial Primary Pulmonary Hypertension,MESH:D065627,0,,1,HDAC4
+actomyosin,GO:0042641,"Hypertension, Renal",MESH:D006977,0,,1,MYH9
+actomyosin contractile ring,GO:0005826,"Hypertension, Renal",MESH:D006977,0,,1,MYH9
+adherens junction,GO:0005912,Essential Hypertension,MESH:D000075222,0,,2,ADD1|TJP1
+adherens junction,GO:0005912,Familial Primary Pulmonary Hypertension,MESH:D065627,0,,1,BMPR2
+adherens junction,GO:0005912,Hypertension,MESH:D006973,0,,2,ADD1|AGER
+adherens junction,GO:0005912,"Hypertension, Portal",MESH:D006975,0,,1,VEGFA
+adherens junction,GO:0005912,"Hypertension, Pulmonary",MESH:D006976,0,,1,BMPR2
+adherens junction,GO:0005912,"Hypertension, Renal",MESH:D006977,0,,1,MYH9
+adherens junction,GO:0005912,Pulmonary Arterial Hypertension,MESH:D000081029,0,,1,BMPR2
+AIM2 inflammasome complex,GO:0097169,Hypertension,MESH:D006973,1,perfluorooctane sulfonic acid,0,
+alpha9-beta1 integrin-vascular cell adhesion molecule-1 complex,GO:0071065,Hypertension,MESH:D006973,0,,1,VCAM1
+alphav-beta3 integrin-HMGB1 complex,GO:0035868,Essential Hypertension,MESH:D000075222,0,,1,HMGB1
+alphav-beta3 integrin-HMGB1 complex,GO:0035868,Hypertension,MESH:D006973,0,,1,HMGB1
+alphav-beta3 integrin-IGF-1-IGF1R complex,GO:0035867,Hypertension,MESH:D006973,0,,1,IGF1
+alveolar lamellar body,GO:0097208,Hypertension,MESH:D006973,2,Acetylcysteine|Particulate Matter,0,
+alveolar lamellar body,GO:0097208,"Hypertension, Pulmonary",MESH:D006976,0,,1,ABCA3
+alveolar lamellar body,GO:0097208,Intracranial Hypertension,MESH:D019586,1,Acetylcysteine,0,
+alveolar lamellar body,GO:0097208,Pulmonary Arterial Hypertension,MESH:D000081029,1,Particulate Matter,0,
+alveolar lamellar body membrane,GO:0097233,"Hypertension, Pulmonary",MESH:D006976,0,,1,ABCA3
+amyloid-beta complex,GO:0106003,Hypertension,MESH:D006973,1,ferulic acid,0,
+amyloid-beta complex,GO:0106003,"Hypertension, Pulmonary",MESH:D006976,1,Paraquat,0,
+anchoring junction,GO:0070161,Hypertension,MESH:D006973,0,,2,GJA4|GJC1
+anchoring junction,GO:0070161,"Hypertension, Pulmonary",MESH:D006976,0,,1,SLC6A4
+anchoring junction,GO:0070161,Ocular Hypertension,MESH:D009798,0,,1,SH3PXD2B
+ANPR-A receptor complex,GO:1990620,Hypertension,MESH:D006973,0,,1,NPR1
+apical dendrite,GO:0097440,Intracranial Hypertension,MESH:D019586,0,,1,SLC4A10
+apical junction complex,GO:0043296,Essential Hypertension,MESH:D000075222,0,,1,TJP1
+apical part of cell,GO:0045177,Essential Hypertension,MESH:D000075222,0,,2,NOS3|TJP1
+apical part of cell,GO:0045177,Hypertension,MESH:D006973,0,,11,AQP1|ATP2B1|CD36|HSD11B1|KLK1|NOS3|PLAT|REN|REN2|UMOD|VCAM1
+apical part of cell,GO:0045177,"Hypertension, Malignant",MESH:D006974,0,,2,REN|REN2
+apical part of cell,GO:0045177,"Hypertension, Portal",MESH:D006975,0,,1,NOS3
+apical part of cell,GO:0045177,"Hypertension, Pregnancy-Induced",MESH:D046110,0,,1,NOS3
+apical part of cell,GO:0045177,"Hypertension, Pulmonary",MESH:D006976,0,,1,NOS3
+apical part of cell,GO:0045177,"Hypertension, Renovascular",MESH:D006978,0,,1,NOS3
+apical plasma membrane,GO:0016324,Essential Hypertension,MESH:D000075222,0,,4,ATP1B1|CYBA|OCLN|TJP1
+apical plasma membrane,GO:0016324,Familial Primary Pulmonary Hypertension,MESH:D065627,0,,2,BMPR2|CAV1
+apical plasma membrane,GO:0016324,Hypertension,MESH:D006973,0,,30,ABCC1|ACE2|AGER|ANXA1|AQP1|ATP1A1|ATP2B1|CAV1|CD36|CLCNKA|CYBA|CYP4A10|CYP4F2|FN1|GJA1|GNAS|GRK2|NEDD4L|NHERF2|NOX4|PTEN|SCNN1A|SCNN1B|SCNN1G|SLC12A2|SLC12A3|SLC6A18|STK39|UMOD|VCAM1
+apical plasma membrane,GO:0016324,"Hypertension, Pulmonary",MESH:D006976,0,,5,ACE2|ATP7A|BMPR2|KCNMA1|SLC31A1
+apical plasma membrane,GO:0016324,"Hypertension, Renal",MESH:D006977,0,,1,MYH9
+apical plasma membrane,GO:0016324,Intracranial Hypertension,MESH:D019586,0,,1,SLC4A10
+apical plasma membrane,GO:0016324,Pulmonary Arterial Hypertension,MESH:D000081029,0,,1,BMPR2
+apicolateral plasma membrane,GO:0016327,Essential Hypertension,MESH:D000075222,0,,2,OCLN|TJP1
+apoptotic body,GO:0097189,Hypertension,MESH:D006973,13,Arsenic|Betaxolol|Cadmium|Cadmium Chloride|Cisplatin|Diethylhexyl Phthalate|Glycyrrhizic Acid|Indomethacin|Nickel|Quercetin|Raloxifene Hydrochloride|Rotenone|sodium arsenite,0,
+apoptotic body,GO:0097189,"Hypertension, Pregnancy-Induced",MESH:D046110,1,Arsenic,0,
+apoptotic body,GO:0097189,"Hypertension, Pulmonary",MESH:D006976,2,Indomethacin|Quercetin,0,
+apoptotic body,GO:0097189,"Hypertension, Renal",MESH:D006977,1,Indomethacin,0,
+apoptotic body,GO:0097189,"Hypertension, Renovascular",MESH:D006978,1,Cisplatin,0,
+apoptotic body,GO:0097189,Intracranial Hypertension,MESH:D019586,1,Indomethacin,0,
+aryl hydrocarbon receptor complex,GO:0034751,Hypertension,MESH:D006973,0,,1,AHR
+aryl hydrocarbon receptor complex,GO:0034751,Pulmonary Arterial Hypertension,MESH:D000081029,0,,1,AHR
+autolysosome,GO:0044754,Essential Hypertension,MESH:D000075222,1,Curcumin,0,
+autolysosome,GO:0044754,Hypertension,MESH:D006973,17,Cadmium|Cadmium Chloride|Calcitriol|Cisplatin|Curcumin|Dietary Fats|Doxorubicin|epigallocatechin gallate|Glucose|Metformin|Methamphetamine|Niacinamide|Rotenone|Sevoflurane|Sirolimus|sodium arsenite|Taurine,0,
+autolysosome,GO:0044754,"Hypertension, Pulmonary",MESH:D006976,4,Copper Sulfate|epigallocatechin gallate|Methamphetamine|Paraquat,0,
+autolysosome,GO:0044754,"Hypertension, Renovascular",MESH:D006978,1,Cisplatin,0,
+autolysosome,GO:0044754,Intracranial Hypertension,MESH:D019586,1,Glucose,0,
+autophagosome,GO:0005776,Hypertension,MESH:D006973,28,Acetaminophen|Arsenic|Benzo(a)pyrene|Berberine|Cadmium|Cadmium Chloride|Cisplatin|Diethylhexyl Phthalate|Doxorubicin|epigallocatechin gallate|Ethanol|ferulic acid|Glucose|Indomethacin|Iohexol|Lead|lead acetate|Melatonin|Metformin|Methamphetamine|NG-Nitroarginine Methyl Ester|Nickel|puerarin|Raloxifene Hydrochloride|Resveratrol|Sevoflurane|Sirolimus|Taurine,0,
+autophagosome,GO:0005776,"Hypertension, Pregnancy-Induced",MESH:D046110,2,Arsenic|Lead,0,
+autophagosome,GO:0005776,"Hypertension, Pulmonary",MESH:D006976,6,Copper Sulfate|epigallocatechin gallate|Indomethacin|Methamphetamine|Paraquat|Resveratrol,0,
+autophagosome,GO:0005776,"Hypertension, Renal",MESH:D006977,1,Indomethacin,0,
+autophagosome,GO:0005776,"Hypertension, Renovascular",MESH:D006978,1,Cisplatin,0,
+autophagosome,GO:0005776,Intracranial Hypertension,MESH:D019586,3,Acetaminophen|Glucose|Indomethacin,0,
+autophagosome,GO:0005776,Ocular Hypertension,MESH:D009798,1,NG-Nitroarginine Methyl Ester,0,
+axon,GO:0030424,Essential Hypertension,MESH:D000075222,0,,2,CALY|TH
+axon,GO:0030424,Familial Primary Pulmonary Hypertension,MESH:D065627,0,,1,BMPR2
+axon,GO:0030424,Hypertension,MESH:D006973,0,,15,AGER|AQP1|AR|ATP1A1|CACNA1C|CALCA|CRHR2|DRD2|GAD1|GRK2|GSK3B|NPTN|TGFB1|TH|UCN
+axon,GO:0030424,"Hypertension, Malignant",MESH:D006974,0,,1,CYP17A1
+axon,GO:0030424,"Hypertension, Pulmonary",MESH:D006976,0,,3,ATP7A|BMPR2|CALCA
+axon,GO:0030424,Pulmonary Arterial Hypertension,MESH:D000081029,0,,1,BMPR2
+axonal growth cone,GO:0044295,Familial Primary Pulmonary Hypertension,MESH:D065627,0,,1,HDAC5
+axonal spine,GO:0044308,Hypertension,MESH:D006973,2,Cadmium|Cadmium Chloride,0,
+axon cytoplasm,GO:1904115,Essential Hypertension,MESH:D000075222,0,,1,CALY
+axon cytoplasm,GO:1904115,Hypertension,MESH:D006973,0,,3,CACNA1C|HIF1A|SOD1
+axon cytoplasm,GO:1904115,"Hypertension, Pulmonary",MESH:D006976,0,,1,HIF1A
+axon hillock,GO:0043203,Hypertension,MESH:D006973,0,,1,AVP
+axon hillock,GO:0043203,"Hypertension, Portal",MESH:D006975,0,,1,AVP
+axon terminus,GO:0043679,Hypertension,MESH:D006973,0,,8,ADRA2A|AQP1|CCL2|CRHR2|DRD2|GAD1|GNRH1|UCN
+axon terminus,GO:0043679,"Hypertension, Pulmonary",MESH:D006976,0,,1,CCL2
+axon terminus,GO:0043679,Intracranial Hypertension,MESH:D019586,0,,1,SLC4A10
+azurophil granule lumen,GO:0035578,Hypertension,MESH:D006973,0,,1,PRKCD
+BAD-BCL-2 complex,GO:0097138,Hypertension,MESH:D006973,0,,1,BCL2
+basal dendrite,GO:0097441,Intracranial Hypertension,MESH:D019586,0,,1,SLC4A10
+basal part of cell,GO:0045178,Hypertension,MESH:D006973,0,,1,EDN1
+basal part of cell,GO:0045178,"Hypertension, Pulmonary",MESH:D006976,0,,1,EDN1
+basal plasma membrane,GO:0009925,Familial Primary Pulmonary Hypertension,MESH:D065627,0,,2,BMPR2|CAV1
+basal plasma membrane,GO:0009925,Hypertension,MESH:D006973,0,,7,ABCC1|ACE|AGER|AQP1|CAV1|INPPL1|SLC12A2
+basal plasma membrane,GO:0009925,"Hypertension, Pulmonary",MESH:D006976,0,,2,ACE|BMPR2
+basal plasma membrane,GO:0009925,Pulmonary Arterial Hypertension,MESH:D000081029,0,,1,BMPR2
+basal pole of outer hair cell,GO:0090712,Hypertension,MESH:D006973,0,,1,CACNA1C
+basement membrane,GO:0005604,Hypertension,MESH:D006973,0,,5,ALB|COL1A1|COL3A1|FN1|TIMP1
+basement membrane,GO:0005604,"Hypertension, Portal",MESH:D006975,0,,1,VEGFA
+basolateral plasma membrane,GO:0016323,Essential Hypertension,MESH:D000075222,0,,2,ATP1B1|TJP1
+basolateral plasma membrane,GO:0016323,Familial Primary Pulmonary Hypertension,MESH:D065627,0,,1,CAV1
+basolateral plasma membrane,GO:0016323,Hypertension,MESH:D006973,0,,16,ABCC1|ADRA2A|ANXA1|AQP1|ATP1A1|ATP2B1|CACNA1C|CAV1|CLCNKA|FXYD2|GRK2|LEPR|ORAI1|SLC12A2|STK39|UMOD
+basolateral plasma membrane,GO:0016323,"Hypertension, Pulmonary",MESH:D006976,0,,5,ATP7A|CA9|LEPR|SLC31A1|TGFA
+basolateral plasma membrane,GO:0016323,Intracranial Hypertension,MESH:D019586,0,,1,SLC4A10
+beta-catenin destruction complex,GO:0030877,Hypertension,MESH:D006973,0,,1,GSK3B
+bicellular tight junction,GO:0005923,Essential Hypertension,MESH:D000075222,0,,2,OCLN|TJP1
+bicellular tight junction,GO:0005923,Hypertension,MESH:D006973,0,,2,AOC1|WNK4
+bleb,GO:0032059,Hypertension,MESH:D006973,0,,1,TPM1
+blood microparticle,GO:0072562,Hypertension,MESH:D006973,0,,4,ALB|HP|KNG1|TGFB1
+blood microparticle,GO:0072562,"Hypertension, Pregnancy-Induced",MESH:D046110,0,,1,HP
+BMP receptor complex,GO:0070724,"Hypertension, Pulmonary",MESH:D006976,0,,1,ACVRL1
+brush border,GO:0005903,Hypertension,MESH:D006973,0,,2,AQP1|NPPA
+brush border,GO:0005903,"Hypertension, Renal",MESH:D006977,0,,2,MYH9|NPPA
+brush border membrane,GO:0031526,Hypertension,MESH:D006973,0,,5,ACE|ACE2|AQP1|CD36|SLC6A18
+brush border membrane,GO:0031526,"Hypertension, Pulmonary",MESH:D006976,0,,3,ACE|ACE2|ATP7A
+CA3 pyramidal cell dendrite,GO:0097442,Intracranial Hypertension,MESH:D019586,0,,1,SLC4A10
+calcium channel complex,GO:0034704,Hypertension,MESH:D006973,0,,2,ORAI1|TRPC5
+carbamoyl-phosphate synthase complex,GO:0005951,"PULMONARY HYPERTENSION, NEONATAL, SUSCEPTIBILITY TO",OMIM:615371,0,,1,CPS1
+cardiac Troponin complex,GO:1990584,Hypertension,MESH:D006973,2,Doxorubicin|Isoproterenol,0,
+cardiac Troponin complex,GO:1990584,"Hypertension, Portal",MESH:D006975,1,Isoproterenol,0,
+cardiac Troponin complex,GO:1990584,Ocular Hypertension,MESH:D009798,1,Isoproterenol,0,
+catalase complex,GO:0062151,Hypertension,MESH:D006973,0,,1,CAT
+catalytic complex,GO:1902494,Hypertension,MESH:D006973,0,,1,LPL
+cation channel complex,GO:0034703,Hypertension,MESH:D006973,0,,2,TRPC3|TRPC5
+CatSper complex,GO:0036128,Hypertension,MESH:D006973,1,bisphenol A,0,
+CatSper complex,GO:0036128,"Hypertension, Pregnancy-Induced",MESH:D046110,1,bisphenol A,0,
+caveola,GO:0005901,Essential Hypertension,MESH:D000075222,0,,3,ATP1B1|NOS3|PTGIS
+caveola,GO:0005901,Familial Primary Pulmonary Hypertension,MESH:D065627,0,,2,BMPR2|CAV1
+caveola,GO:0005901,Hypertension,MESH:D006973,0,,10,AQP1|ATP1A1|ATP1A2|CAV1|CD36|GRK2|HMOX1|NOS3|PTGS2|VDR
+caveola,GO:0005901,"Hypertension, Portal",MESH:D006975,0,,1,NOS3
+caveola,GO:0005901,"Hypertension, Pregnancy-Induced",MESH:D046110,0,,1,NOS3
+caveola,GO:0005901,"Hypertension, Pulmonary",MESH:D006976,0,,4,BMPR2|KCNA5|KCNMA1|NOS3
+caveola,GO:0005901,"Hypertension, Renovascular",MESH:D006978,0,,1,NOS3
+caveola,GO:0005901,Pulmonary Arterial Hypertension,MESH:D000081029,0,,1,BMPR2
+caveolar macromolecular signaling complex,GO:0002095,Familial Primary Pulmonary Hypertension,MESH:D065627,0,,1,CAV1
+caveolar macromolecular signaling complex,GO:0002095,Hypertension,MESH:D006973,0,,2,CACNA1C|CAV1
+CD40 receptor complex,GO:0035631,Hypertension,MESH:D006973,0,,1,IKBKB
+cell body,GO:0044297,Essential Hypertension,MESH:D000075222,0,,2,GNB3|TLR2
+cell body,GO:0044297,Familial Primary Pulmonary Hypertension,MESH:D065627,0,,1,BMPR2
+cell body,GO:0044297,Hypertension,MESH:D006973,0,,6,EPO|GNB3|SLC12A2|STK39|TACR1|WNK4
+cell body,GO:0044297,"Hypertension, Pulmonary",MESH:D006976,0,,2,BMPR2|CD40LG
+cell body,GO:0044297,Pulmonary Arterial Hypertension,MESH:D000081029,0,,1,BMPR2
+cell body fiber,GO:0070852,Hypertension,MESH:D006973,0,,1,CRHR2
+cell body membrane,GO:0044298,Hypertension,MESH:D006973,0,,1,SLC12A2
+cell-cell contact zone,GO:0044291,Hypertension,MESH:D006973,0,,1,GJA1
+cell-cell junction,GO:0005911,Essential Hypertension,MESH:D000075222,0,,2,OCLN|TJP1
+cell-cell junction,GO:0005911,Hypertension,MESH:D006973,2,bisphenol A|Fluorouracil,4,GJA1|NPTN|PRKCD|VCAM1
+cell-cell junction,GO:0005911,"Hypertension, Pregnancy-Induced",MESH:D046110,1,bisphenol A,0,
+cell cortex,GO:0005938,Familial Primary Pulmonary Hypertension,MESH:D065627,0,,1,CAV1
+cell cortex,GO:0005938,Hypertension,MESH:D006973,0,,4,CAV1|CCN2|GAD1|STK39
+cell cortex,GO:0005938,"Hypertension, Renal",MESH:D006977,0,,1,MYH9
+cell junction,GO:0030054,Essential Hypertension,MESH:D000075222,0,,3,HCAR3|OCLN|TJP1
+cell junction,GO:0030054,Hypertension,MESH:D006973,0,,2,AGER|GJA1
+cell leading edge,GO:0031252,Essential Hypertension,MESH:D000075222,0,,1,OCLN
+cell leading edge,GO:0031252,"Hypertension, Pulmonary",MESH:D006976,0,,1,ATP7A
+cell leading edge,GO:0031252,"Hypertension, Renal",MESH:D006977,0,,1,MYH9
+cell periphery,GO:0071944,Hypertension,MESH:D006973,0,,8,ADIPOQ|CD36|EDNRA|NOX4|ORAI1|SLC12A2|TACR1|VCAM1
+cell projection,GO:0042995,Essential Hypertension,MESH:D000075222,0,,5,AIF1|FFAR2|TH|TJP1|TLR2
+cell projection,GO:0042995,Hypertension,MESH:D006973,1,Lipopolysaccharides,12,ACE2|ADCY5|AIF1|ATP1A2|ATP2B1|CACNA1C|GJA5|GRK2|NPPA|PTEN|SLC12A2|TH
+cell projection,GO:0042995,"Hypertension, Malignant",MESH:D006974,0,,1,CYP17A1
+cell projection,GO:0042995,"Hypertension, Pulmonary",MESH:D006976,0,,3,ACE2|CD40LG|SLC6A4
+cell projection,GO:0042995,"Hypertension, Renal",MESH:D006977,0,,1,NPPA
+cell projection,GO:0042995,Ocular Hypertension,MESH:D009798,0,,1,SH3PXD2B
+cell projection membrane,GO:0031253,Hypertension,MESH:D006973,0,,1,SLC12A2
+cell surface,GO:0009986,Essential Hypertension,MESH:D000075222,0,,7,ECE1|HMGB1|OCLN|TJP1|TLR2|TLR4|TNF
+cell surface,GO:0009986,Familial Primary Pulmonary Hypertension,MESH:D065627,0,,2,BMPR2|CAV1
+cell surface,GO:0009986,Hypertension,MESH:D006973,0,,34,ACE2|ADIPOQ|AGER|ANXA1|AOC3|APOA1|APOE|ATP1A2|CACNA1C|CAV1|CD36|CXCR2|ECE1|EPO|GP1BA|HMGB1|ICAM1|LPL|LTF|MYD88|NPTN|PLAT|PLG|RPS6KB1|SCNN1B|SCNN1G|SLC6A2|TACR1|TGFB1|TLR3|TLR4|TNF|UMOD|VCAM1
+cell surface,GO:0009986,"Hypertension, Portal",MESH:D006975,0,,1,VEGFA
+cell surface,GO:0009986,"Hypertension, Pulmonary",MESH:D006976,0,,7,ACE2|ACVRL1|BMPR2|CD40LG|KCNA5|TGFA|TNF
+cell surface,GO:0009986,"Hypertension, Renal",MESH:D006977,0,,1,MYH9
+cell surface,GO:0009986,Pulmonary Arterial Hypertension,MESH:D000081029,0,,1,BMPR2
+cellular_component,GO:0005575,Hypertension,MESH:D006973,0,,1,ALB
+centrosome,GO:0005813,Hypertension,MESH:D006973,0,,6,GSK3B|MDH1|NFE2L2|NR3C1|STK11|TP53
+centrosome,GO:0005813,Ocular Hypertension,MESH:D009798,0,,1,NR3C1
+C-fiber,GO:0044299,Hypertension,MESH:D006973,0,,1,CCL2
+C-fiber,GO:0044299,"Hypertension, Pulmonary",MESH:D006976,0,,1,CCL2
+chloride channel complex,GO:0034707,Hypertension,MESH:D006973,0,,1,CLCNKA
+CHOP-ATF3 complex,GO:1990622,Ocular Hypertension,MESH:D009798,0,,1,DDIT3
+CHOP-ATF4 complex,GO:1990617,Ocular Hypertension,MESH:D009798,0,,1,DDIT3
+CHOP-C/EBP complex,GO:0036488,Ocular Hypertension,MESH:D009798,0,,1,DDIT3
+chromaffin granule,GO:0042583,Hypertension,MESH:D006973,0,,1,SERPINE1
+chromatin,GO:0000785,Essential Hypertension,MESH:D000075222,0,,2,CALY|HMGB1
+chromatin,GO:0000785,Familial Primary Pulmonary Hypertension,MESH:D065627,0,,4,HDAC1|HDAC4|HDAC5|SMAD9
+chromatin,GO:0000785,Hypertension,MESH:D006973,0,,15,AHR|AR|FOS|HIF1A|HMGB1|JUN|NFE2L2|NR3C1|PPARA|PPARG|RELA|SERPINE1|TGM2|TP53|VDR
+chromatin,GO:0000785,"Hypertension, Early-Onset, Autosomal Dominant, with Severe Exacerbation in Pregnancy",MESH:C565359,0,,1,NR3C2
+chromatin,GO:0000785,"Hypertension, Pulmonary",MESH:D006976,0,,4,BRD4|FOXO1|HIF1A|NFATC2
+chromatin,GO:0000785,Ocular Hypertension,MESH:D009798,0,,2,DDIT3|NR3C1
+chromatin,GO:0000785,Pulmonary Arterial Hypertension,MESH:D000081029,0,,1,AHR
+chromosome,GO:0005694,Essential Hypertension,MESH:D000075222,0,,1,HMGB1
+chromosome,GO:0005694,Hypertension,MESH:D006973,0,,3,HMGB1|NR3C1|TGM2
+chromosome,GO:0005694,"Hypertension, Pulmonary",MESH:D006976,0,,1,BRD4
+chromosome,GO:0005694,Ocular Hypertension,MESH:D009798,0,,1,NR3C1
+chylomicron,GO:0042627,Hypertension,MESH:D006973,0,,2,APOE|LPL
+chylomicron remnant,GO:0034360,Hypertension,MESH:D006973,0,,1,APOE
+ciliary basal body,GO:0036064,Hypertension,MESH:D006973,0,,1,NFE2L2
+ciliary membrane,GO:0060170,Hypertension,MESH:D006973,0,,3,DRD2|SCNN1A|UMOD
+cilium,GO:0005929,Familial Primary Pulmonary Hypertension,MESH:D065627,0,,1,CAV1
+cilium,GO:0005929,Hypertension,MESH:D006973,0,,9,ACE2|ADCY5|ANXA1|CACNA1C|CAV1|DRD2|GRK2|STK11|UMOD
+cilium,GO:0005929,"Hypertension, Pulmonary",MESH:D006976,0,,1,ACE2
+clathrin-coated endocytic vesicle membrane,GO:0030669,Hypertension,MESH:D006973,0,,2,APOE|AVP
+clathrin-coated endocytic vesicle membrane,GO:0030669,"Hypertension, Portal",MESH:D006975,0,,1,AVP
+clathrin-coated endocytic vesicle membrane,GO:0030669,"Hypertension, Pulmonary",MESH:D006976,0,,1,TGFA
+clathrin-coated pit,GO:0005905,Familial Primary Pulmonary Hypertension,MESH:D065627,0,,1,BMPR2
+clathrin-coated pit,GO:0005905,"Hypertension, Pulmonary",MESH:D006976,0,,1,BMPR2
+clathrin-coated pit,GO:0005905,Pulmonary Arterial Hypertension,MESH:D000081029,0,,1,BMPR2
+clathrin-sculpted gamma-aminobutyric acid transport vesicle membrane,GO:0061202,Hypertension,MESH:D006973,0,,1,GAD1
+cleavage furrow,GO:0032154,"Hypertension, Renal",MESH:D006977,0,,1,MYH9
+cochlear hair cell ribbon synapse,GO:0098683,Hypertension,MESH:D006973,2,2-tert-butylhydroquinone|Cisplatin,0,
+cochlear hair cell ribbon synapse,GO:0098683,"Hypertension, Renovascular",MESH:D006978,1,Cisplatin,0,
+collagen-containing extracellular matrix,GO:0062023,Hypertension,MESH:D006973,0,,10,COL1A1|COL3A1|ELN|FN1|REG3G|SERPINE1|SOD3|TGFB1|TGM2|VWF
+collagen-containing extracellular matrix,GO:0062023,"Hypertension, Pulmonary",MESH:D006976,0,,2,FBLN5|LOX
+collagen trimer,GO:0005581,Hypertension,MESH:D006973,0,,3,ADIPOQ|COL1A1|COL3A1
+collagen trimer,GO:0005581,"Hypertension, Pulmonary",MESH:D006976,0,,1,LOX
+collagen trimer,GO:0005581,Ocular Hypertension,MESH:D009798,0,,1,MMP1
+collagen type III trimer,GO:0005586,Hypertension,MESH:D006973,0,,1,COL3A1
+collagen type II trimer,GO:0005585,Hypertension,MESH:D006973,0,,2,COL1A1|COL3A1
+collagen type I trimer,GO:0005584,Hypertension,MESH:D006973,0,,1,COL1A1
+condensed chromosome,GO:0000793,Essential Hypertension,MESH:D000075222,0,,1,HMGB1
+condensed chromosome,GO:0000793,Hypertension,MESH:D006973,0,,1,HMGB1
+condensed chromosome,GO:0000793,"Hypertension, Pulmonary",MESH:D006976,0,,1,BRD4
+condensed nuclear chromosome,GO:0000794,"Hypertension, Pulmonary",MESH:D006976,0,,1,BRD4
+connexin complex,GO:0005922,Hypertension,MESH:D006973,0,,4,GJA1|GJA4|GJA5|GJC1
+contractile fiber,GO:0043292,Hypertension,MESH:D006973,0,,1,GJA1
+COP9 signalosome,GO:0008180,"Hypertension, Renal",MESH:D006977,0,,1,MYH9
+COPI-coated Golgi to ER transport vesicle,GO:0030142,Hypertension,MESH:D006973,0,,1,GNAS
+cornified envelope,GO:0001533,Hypertension,MESH:D006973,0,,1,ANXA1
+cortical actin cytoskeleton,GO:0030864,Hypertension,MESH:D006973,0,,1,SCNN1A
+cortical cytoskeleton,GO:0030863,Hypertension,MESH:D006973,0,,1,NOS2
+cortical cytoskeleton,GO:0030863,"Hypertension, Renal",MESH:D006977,0,,1,MYH9
+cortical endoplasmic reticulum,GO:0032541,Hypertension,MESH:D006973,0,,1,STIM1
+cortical granule,GO:0060473,Hypertension,MESH:D006973,3,Glutathione|Lipopolysaccharides|Resveratrol,0,
+cortical granule,GO:0060473,"Hypertension, Portal",MESH:D006975,1,Glutathione,0,
+cortical granule,GO:0060473,"Hypertension, Pulmonary",MESH:D006976,1,Resveratrol,0,
+cortical granule,GO:0060473,"Hypertension, Renal",MESH:D006977,0,,1,MYH9
+creatine kinase complex,GO:0002185,Hypertension,MESH:D006973,1,Taurine,0,
+cyclin/CDK positive transcription elongation factor complex,GO:0008024,"Hypertension, Pulmonary",MESH:D006976,0,,1,BRD4
+cytoplasm,GO:0005737,"Arterial Occlusive Disease, Progressive, with Hypertension, Heart Defects, Bone Fragility, and Brachysyndactyly",MESH:C566529,0,,1,YY1AP1
+cytoplasm,GO:0005737,Essential Hypertension,MESH:D000075222,0,,16,ADD1|AIF1|CALY|CYBA|CYBB|GNB3|HMGB1|IL1B|NCF1|NOS3|PTGIS|RGS5|TH|TJP1|TLR2|TLR4
+cytoplasm,GO:0005737,Familial Primary Pulmonary Hypertension,MESH:D065627,0,,4,HDAC1|HDAC4|HDAC5|SMAD9
+cytoplasm,GO:0005737,Hypertension,MESH:D006973,0,,98,ACE|ACE2|ADD1|ADRA2A|AHR|AIF1|ALB|ALOX15|ANXA1|AOC3|APOE|AQP1|AR|ATP1A2|BCL2|CACNA1C|CALCA|CAT|CBS|CD36|CMA1|COL1A1|CRP|CYBA|CYBB|CYP4A10|CYP4F2|DUSP5|EDN1|ERAP1|FGF21|FOS|GAD1|GCG|GCH1|GJA1|GNAS|GNB3|GPX1|GRK2|GSK3B|GSTA5|GSTP1|GSTT1|GSTT2|HIF1A|HMGB1|HTR2B|IKBKB|IL1B|INPPL1|INS2|LEP|LHB|LTF|MC2R|MDH1|MTOR|MYD88|MYH7|NCF1|NEDD4L|NFE2L2|NHERF2|NOS2|NOS3|NPPA|NPPB|NR3C1|OXSR1|OXT|PLAT|POMC|PPARG|PRKCD|PTEN|PTGS2|PTPN1|REG3G|RELA|RGS2|RGS5|RPS6KB1|SCNN1A|SOD1|STK11|STK39|TGFB1|TGM2|TH|TLR3|TLR4|TP53|TPM1|VAV3|VDR|WNK1|WNK4
+cytoplasm,GO:0005737,"Hypertension, Early-Onset, Autosomal Dominant, with Severe Exacerbation in Pregnancy",MESH:C565359,0,,1,NR3C2
+cytoplasm,GO:0005737,"Hypertension, Portal",MESH:D006975,0,,3,DGUOK|NOS3|VEGFA
+cytoplasm,GO:0005737,"Hypertension, Pregnancy-Induced",MESH:D046110,0,,1,NOS3
+cytoplasm,GO:0005737,"Hypertension, Pulmonary",MESH:D006976,0,,15,ACE|ACE2|ALOX5|ARG2|CALCA|EDN1|EIF2AK4|FOXO1|HIF1A|HTR2B|NFATC2|NOS3|NPPB|PRKG1|TPH1
+cytoplasm,GO:0005737,"Hypertension, Renal",MESH:D006977,0,,2,MYH9|NPPA
+cytoplasm,GO:0005737,"Hypertension, Renovascular",MESH:D006978,0,,1,NOS3
+cytoplasm,GO:0005737,Ocular Hypertension,MESH:D009798,0,,3,DDIT3|NR3C1|SH3PXD2B
+cytoplasm,GO:0005737,Pulmonary Arterial Hypertension,MESH:D000081029,0,,1,AHR
+cytoplasm,GO:0005737,"PULMONARY HYPERTENSION, NEONATAL, SUSCEPTIBILITY TO",OMIM:615371,0,,1,CPS1
+cytoplasmic ribonucleoprotein granule,GO:0036464,Hypertension,MESH:D006973,0,,1,CMA1
+cytoplasmic side of endoplasmic reticulum membrane,GO:0098554,Hypertension,MESH:D006973,0,,1,PTPN1
+cytoplasmic side of mitochondrial outer membrane,GO:0032473,Hypertension,MESH:D006973,0,,1,GRK2
+cytoplasmic side of plasma membrane,GO:0009898,Essential Hypertension,MESH:D000075222,0,,2,NCF1|TH
+cytoplasmic side of plasma membrane,GO:0009898,Hypertension,MESH:D006973,0,,8,ALOX15|ATP2B1|IKBKB|MYD88|NCF1|PTEN|RGS2|TH
+cytoplasmic side of plasma membrane,GO:0009898,"Hypertension, Renal",MESH:D006977,0,,1,MYH9
+cytoplasmic side of rough endoplasmic reticulum membrane,GO:0098556,Hypertension,MESH:D006973,0,,1,GNRH1
+cytoplasmic stress granule,GO:0010494,Hypertension,MESH:D006973,1,sodium arsenite,0,
+cytoplasmic vesicle,GO:0031410,Essential Hypertension,MESH:D000075222,0,,4,CALY|OCLN|TH|TJP1
+cytoplasmic vesicle,GO:0031410,Familial Primary Pulmonary Hypertension,MESH:D065627,0,,1,CAV1
+cytoplasmic vesicle,GO:0031410,Hypertension,MESH:D006973,1,Sucrose,7,APOA1|CAV1|GCH1|SCNN1A|SCNN1B|SOD1|TH
+cytoplasmic vesicle,GO:0031410,"Hypertension, Pulmonary",MESH:D006976,0,,2,ATP7A|TGFA
+cytoplasmic vesicle,GO:0031410,"Hypertension, Renal",MESH:D006977,0,,1,MYH9
+cytoplasmic vesicle membrane,GO:0030659,Essential Hypertension,MESH:D000075222,0,,2,CALY|TH
+cytoplasmic vesicle membrane,GO:0030659,Hypertension,MESH:D006973,0,,3,SCNN1B|SLC12A2|TH
+cytoplasmic vesicle membrane,GO:0030659,"Hypertension, Pulmonary",MESH:D006976,0,,1,ABCA3
+cytoskeleton,GO:0005856,Essential Hypertension,MESH:D000075222,0,,3,ADD1|AIF1|NOS3
+cytoskeleton,GO:0005856,Hypertension,MESH:D006973,0,,6,ADD1|AIF1|INPPL1|NOS3|NR3C1|TPM1
+cytoskeleton,GO:0005856,"Hypertension, Portal",MESH:D006975,0,,1,NOS3
+cytoskeleton,GO:0005856,"Hypertension, Pregnancy-Induced",MESH:D046110,0,,1,NOS3
+cytoskeleton,GO:0005856,"Hypertension, Pulmonary",MESH:D006976,0,,1,NOS3
+cytoskeleton,GO:0005856,"Hypertension, Renal",MESH:D006977,0,,1,MYH9
+cytoskeleton,GO:0005856,"Hypertension, Renovascular",MESH:D006978,0,,1,NOS3
+cytoskeleton,GO:0005856,Ocular Hypertension,MESH:D009798,0,,1,NR3C1
+cytosol,GO:0005829,Brachydactyly with hypertension,MESH:C537095,0,,1,PDE3A
+cytosol,GO:0005829,Essential Hypertension,MESH:D000075222,0,,11,ADD1|AIF1|GNB3|HMGB1|IL1B|NCF1|NOS3|RGS5|TH|TJP1|TLR2
+cytosol,GO:0005829,Familial Primary Pulmonary Hypertension,MESH:D065627,0,,4,HDAC1|HDAC4|HDAC5|SMAD9
+cytosol,GO:0005829,Hypertension,MESH:D006973,0,,75,ADD1|AHR|AIF1|ALAD|ALOX15|ANXA1|APOA1|APOE|AR|ATOX1|AVP|BCL2|CAT|CBS|CELA2A|CMA1|ERAP1|FGF21|FOS|GCH1|GCLC|GJA1|GNAS|GNB3|GPX1|GRK2|GSK3B|GSTA5|GSTP1|GSTT1|GSTT2|GUCY1A1|HIF1A|HMGB1|HMOX1|IER3|IKBKB|IL1B|INPPL1|INS2|JUN|LEP|MDH1|MTOR|MYD88|NCF1|NEDD4L|NFE2L2|NOS2|NOS3|NR3C1|OXSR1|PPARG|PRKCD|PTEN|PTGS2|PTPN1|RALBP1|RELA|RGS2|RGS5|RPS6KB1|SCNN1A|SLC12A3|SOD1|STK11|STK39|TGM2|TH|TP53|TPM1|VAV3|VDR|WNK1|WNK4
+cytosol,GO:0005829,"Hypertension, Early-Onset, Autosomal Dominant, with Severe Exacerbation in Pregnancy",MESH:C565359,0,,1,NR3C2
+cytosol,GO:0005829,"Hypertension, Portal",MESH:D006975,0,,3,AVP|DGUOK|NOS3
+cytosol,GO:0005829,"Hypertension, Pregnancy-Induced",MESH:D046110,0,,1,NOS3
+cytosol,GO:0005829,"Hypertension, Pulmonary",MESH:D006976,0,,10,ALOX5|ARG2|ATP7A|EIF2AK4|FOXO1|HIF1A|NFATC2|NOS3|PRKG1|TPH1
+cytosol,GO:0005829,"Hypertension, Renal",MESH:D006977,0,,1,MYH9
+cytosol,GO:0005829,"Hypertension, Renovascular",MESH:D006978,0,,1,NOS3
+cytosol,GO:0005829,Ocular Hypertension,MESH:D009798,0,,2,DDIT3|NR3C1
+cytosol,GO:0005829,Pulmonary Arterial Hypertension,MESH:D000081029,0,,1,AHR
+cytosol,GO:0005829,"PULMONARY HYPERTENSION, NEONATAL, SUSCEPTIBILITY TO",OMIM:615371,0,,1,CPS1
+cytosolic aryl hydrocarbon receptor complex,GO:0034752,Hypertension,MESH:D006973,0,,1,AHR
+cytosolic aryl hydrocarbon receptor complex,GO:0034752,Pulmonary Arterial Hypertension,MESH:D000081029,0,,1,AHR
+cytosolic ribosome,GO:0022626,"Hypertension, Pulmonary",MESH:D006976,0,,1,EIF2AK4
+dendrite,GO:0030425,Essential Hypertension,MESH:D000075222,0,,6,ADD1|CYBA|CYBB|GNB3|NCF1|TH
+dendrite,GO:0030425,Familial Primary Pulmonary Hypertension,MESH:D065627,0,,1,BMPR2
+dendrite,GO:0030425,Hypertension,MESH:D006973,0,,25,ADD1|APOE|AR|AVP|CACNA1C|CCL2|CRHR2|CYBA|CYBB|DRD2|GNAS|GNB3|GNRH1|GSK3B|HRH2|HRH3|HTR2B|MMP2|MTOR|NCF1|NPTN|TACR1|TH|TRPC5|UCN
+dendrite,GO:0030425,"Hypertension, Portal",MESH:D006975,0,,1,AVP
+dendrite,GO:0030425,"Hypertension, Pulmonary",MESH:D006976,0,,7,ACVRL1|ALOX5|ATP7A|BMPR2|CCL2|HTR2B|KCNMA1
+dendrite,GO:0030425,Intracranial Hypertension,MESH:D019586,0,,1,SLC4A10
+dendrite,GO:0030425,Ocular Hypertension,MESH:D009798,0,,1,MMP1
+dendrite,GO:0030425,Pulmonary Arterial Hypertension,MESH:D000081029,0,,1,BMPR2
+dendrite cytoplasm,GO:0032839,Hypertension,MESH:D006973,0,,1,SOD1
+dendrite membrane,GO:0032590,Hypertension,MESH:D006973,0,,1,ATP2B1
+dendritic branch,GO:0044307,Hypertension,MESH:D006973,2,bisphenol A|Dexamethasone,0,
+dendritic branch,GO:0044307,"Hypertension, Pregnancy-Induced",MESH:D046110,1,bisphenol A,0,
+dendritic branch,GO:0044307,Intracranial Hypertension,MESH:D019586,1,Dexamethasone,0,
+dendritic branch,GO:0044307,Ocular Hypertension,MESH:D009798,1,Dexamethasone,0,
+dendritic shaft,GO:0043198,Hypertension,MESH:D006973,0,,3,CACNA1C|GRK2|GSK3B
+dendritic spine,GO:0043197,Essential Hypertension,MESH:D000075222,0,,1,ADD1
+dendritic spine,GO:0043197,Hypertension,MESH:D006973,2,bisphenol A|Methamphetamine,7,ADD1|ATP1A2|DRD2|GRK2|GSK3B|NR3C1|PTEN
+dendritic spine,GO:0043197,"Hypertension, Pregnancy-Induced",MESH:D046110,1,bisphenol A,0,
+dendritic spine,GO:0043197,"Hypertension, Pulmonary",MESH:D006976,1,Methamphetamine,0,
+dendritic spine,GO:0043197,Ocular Hypertension,MESH:D009798,0,,1,NR3C1
+dendritic spine membrane,GO:0032591,Hypertension,MESH:D006973,0,,1,ATP2B1
+dense core granule,GO:0031045,Hypertension,MESH:D006973,0,,1,SOD1
+dense core granule membrane,GO:0032127,Hypertension,MESH:D006973,0,,1,AQP1
+dense fibrillar component,GO:0001651,Hypertension,MESH:D006973,0,,1,VDR
+discoidal high-density lipoprotein particle,GO:0034365,Hypertension,MESH:D006973,0,,2,APOA1|APOE
+"DNA topoisomerase type II (double strand cut, ATP-hydrolyzing) complex",GO:0009330,Hypertension,MESH:D006973,1,Reactive Oxygen Species,0,
+dopaminergic synapse,GO:0098691,Hypertension,MESH:D006973,0,,2,ADRA2A|DRD2
+early endosome,GO:0005769,Essential Hypertension,MESH:D000075222,0,,3,ECE1|HMGB1|TLR4
+early endosome,GO:0005769,Hypertension,MESH:D006973,0,,13,ADRB1|ANXA1|AOC3|APOA1|APOE|ECE1|GJA1|HMGB1|LTF|PTPN1|TLR3|TLR4|VCAM1
+early endosome membrane,GO:0031901,Familial Primary Pulmonary Hypertension,MESH:D065627,0,,1,CAV1
+early endosome membrane,GO:0031901,Hypertension,MESH:D006973,0,,2,ANXA1|CAV1
+early endosome membrane,GO:0031901,"Hypertension, Pulmonary",MESH:D006976,0,,2,ATP7A|SLC31A1
+elastic fiber,GO:0071953,Hypertension,MESH:D006973,0,,1,ELN
+elastic fiber,GO:0071953,"Hypertension, Pulmonary",MESH:D006976,0,,1,FBLN5
+endocytic vesicle,GO:0030139,Essential Hypertension,MESH:D000075222,0,,1,OCLN
+endocytic vesicle,GO:0030139,Hypertension,MESH:D006973,0,,3,APOA1|CCL2|DRD2
+endocytic vesicle,GO:0030139,"Hypertension, Pulmonary",MESH:D006976,0,,1,CCL2
+endocytic vesicle lumen,GO:0071682,Hypertension,MESH:D006973,0,,3,APOA1|APOE|HP
+endocytic vesicle lumen,GO:0071682,"Hypertension, Pregnancy-Induced",MESH:D046110,0,,1,HP
+endocytic vesicle membrane,GO:0030666,Essential Hypertension,MESH:D000075222,0,,1,NOS3
+endocytic vesicle membrane,GO:0030666,Familial Primary Pulmonary Hypertension,MESH:D065627,0,,1,CAV1
+endocytic vesicle membrane,GO:0030666,Hypertension,MESH:D006973,0,,4,ACE2|CAV1|CD36|NOS3
+endocytic vesicle membrane,GO:0030666,"Hypertension, Portal",MESH:D006975,0,,1,NOS3
+endocytic vesicle membrane,GO:0030666,"Hypertension, Pregnancy-Induced",MESH:D046110,0,,1,NOS3
+endocytic vesicle membrane,GO:0030666,"Hypertension, Pulmonary",MESH:D006976,0,,2,ACE2|NOS3
+endocytic vesicle membrane,GO:0030666,"Hypertension, Renovascular",MESH:D006978,0,,1,NOS3
+endolysosome,GO:0036019,Hypertension,MESH:D006973,0,,2,KNG1|PRKCD
+endolysosome membrane,GO:0036020,Hypertension,MESH:D006973,0,,1,TLR3
+endomembrane system,GO:0012505,Hypertension,MESH:D006973,0,,3,MTOR|NHERF2|PTPN1
+endomembrane system,GO:0012505,"Hypertension, Pulmonary",MESH:D006976,0,,1,SLC6A4
+endoplasmic reticulum,GO:0005783,Essential Hypertension,MESH:D000075222,0,,2,HMGB1|PTGIS
+endoplasmic reticulum,GO:0005783,Familial Primary Pulmonary Hypertension,MESH:D065627,0,,1,CAV1
+endoplasmic reticulum,GO:0005783,Hypertension,MESH:D006973,1,Glutathione,30,ADIPOQ|ALB|AOC3|APOE|ATP1A1|ATP1A2|BCL2|CAV1|CYP1A1|ERAP1|FNDC5|FOS|GJA1|GJC1|HMGB1|HMOX1|HSD11B1|HSD11B2|MTOR|NOX4|PRKCD|PROC|PTGS2|PTPN1|STIM1|TGM2|TP53|UMOD|VCAM1|VWF
+endoplasmic reticulum,GO:0005783,"Hypertension, Malignant",MESH:D006974,0,,1,CYP17A1
+endoplasmic reticulum,GO:0005783,"Hypertension, Portal",MESH:D006975,1,Glutathione,1,VEGFA
+endoplasmic reticulum,GO:0005783,"Hypertension, Pulmonary",MESH:D006976,0,,3,ATP7A|GBA1|KCNMA1
+endoplasmic reticulum-Golgi intermediate compartment,GO:0005793,Essential Hypertension,MESH:D000075222,0,,1,HMGB1
+endoplasmic reticulum-Golgi intermediate compartment,GO:0005793,Hypertension,MESH:D006973,0,,2,FN1|HMGB1
+endoplasmic reticulum-Golgi intermediate compartment membrane,GO:0033116,Hypertension,MESH:D006973,0,,1,INS
+endoplasmic reticulum-Golgi intermediate compartment membrane,GO:0033116,"Hypertension, Pulmonary",MESH:D006976,0,,1,TGFA
+endoplasmic reticulum lumen,GO:0005788,Hypertension,MESH:D006973,0,,16,ACE2|ALB|APOA1|APOE|COL1A1|COL3A1|ERAP1|FN1|GCG|IL6|INS|INS2|KNG1|PROC|PTGS2|TIMP1
+endoplasmic reticulum lumen,GO:0005788,"Hypertension, Pulmonary",MESH:D006976,0,,1,ACE2
+endoplasmic reticulum membrane,GO:0005789,Essential Hypertension,MESH:D000075222,0,,4,CYBA|CYBB|CYP3A5|PTGIS
+endoplasmic reticulum membrane,GO:0005789,Familial Primary Pulmonary Hypertension,MESH:D065627,0,,1,CAV1
+endoplasmic reticulum membrane,GO:0005789,Hypertension,MESH:D006973,0,,18,BCL2|CAV1|CYBA|CYBB|CYP1A1|CYP4A10|CYP4F2|ERAP1|GJA1|GJC1|HMOX1|HSD11B1|HSD11B2|MTOR|NOX4|PTGS2|STIM1|TLR3
+endoplasmic reticulum membrane,GO:0005789,"Hypertension, Early-Onset, Autosomal Dominant, with Severe Exacerbation in Pregnancy",MESH:C565359,0,,1,NR3C2
+endoplasmic reticulum membrane,GO:0005789,"Hypertension, Malignant",MESH:D006974,0,,1,CYP17A1
+endoplasmic reticulum membrane,GO:0005789,"Hypertension, Pulmonary",MESH:D006976,0,,2,KCNMA1|TGFA
+endosome,GO:0005768,Essential Hypertension,MESH:D000075222,0,,4,CALY|CYBA|ECE1|HMGB1
+endosome,GO:0005768,Familial Primary Pulmonary Hypertension,MESH:D065627,0,,1,CAV1
+endosome,GO:0005768,Hypertension,MESH:D006973,0,,14,ACE|ADCY5|ANXA1|APOE|ATP1A1|ATP1A2|BDKRB2|CAV1|CYBA|ECE1|GJA1|GNAS|HMGB1|ITM2B
+endosome,GO:0005768,"Hypertension, Pulmonary",MESH:D006976,0,,3,ACE|SLC31A1|SLC6A4
+endosome,GO:0005768,"Hypertension, Renal",MESH:D006977,0,,1,MYH9
+endosome lumen,GO:0031904,Hypertension,MESH:D006973,0,,2,INS|PTPN1
+endosome membrane,GO:0010008,Essential Hypertension,MESH:D000075222,0,,2,ECE1|TLR4
+endosome membrane,GO:0010008,Hypertension,MESH:D006973,0,,7,ANXA1|ECE1|ITM2B|MYD88|PTEN|TLR3|TLR4
+endosome membrane,GO:0010008,"Hypertension, Pulmonary",MESH:D006976,0,,1,SLC6A4
+ER to Golgi transport vesicle membrane,GO:0012507,"Hypertension, Pulmonary",MESH:D006976,0,,1,TGFA
+ESC/E(Z) complex,GO:0035098,Familial Primary Pulmonary Hypertension,MESH:D065627,0,,1,HDAC1
+ESCRT II complex,GO:0000814,Hypertension,MESH:D006973,0,,1,WNK4
+euchromatin,GO:0000791,Hypertension,MESH:D006973,0,,3,HIF1A|JUN|VDR
+euchromatin,GO:0000791,"Hypertension, Pulmonary",MESH:D006976,0,,1,HIF1A
+exocytic vesicle,GO:0070382,Familial Primary Pulmonary Hypertension,MESH:D065627,0,,1,CAV1
+exocytic vesicle,GO:0070382,Hypertension,MESH:D006973,0,,2,CAV1|IGF1
+exocytic vesicle,GO:0070382,"Hypertension, Renal",MESH:D006977,0,,1,MYH9
+external side of plasma membrane,GO:0009897,Essential Hypertension,MESH:D000075222,0,,5,AGTR1|ECE1|TLR2|TLR4|TNF
+external side of plasma membrane,GO:0009897,Hypertension,MESH:D006973,0,,22,ACE|AGTR1|AGTR1B|AGTR2|BDKRB2|CD36|CXCR2|ECE1|GP1BA|ICAM1|IL6|LEPR|MMP2|PLG|SCNN1A|SCNN1B|SCNN1G|SELP|TLR4|TNF|VCAM1|VWF
+external side of plasma membrane,GO:0009897,"Hypertension, Pulmonary",MESH:D006976,0,,5,ACE|CD40LG|KCNMA1|LEPR|TNF
+extracellular exosome,GO:0070062,Hypertension,MESH:D006973,0,,17,ACE|ACE2|ALB|ANXA1|AOC1|APOE|AQP1|FN1|GSTA5|ICAM1|ITM2B|SCNN1A|SCNN1B|SCNN1G|SERPINE1|SLC12A3|VCAM1
+extracellular exosome,GO:0070062,"Hypertension, Pulmonary",MESH:D006976,0,,2,ACE|ACE2
+extracellular matrix,GO:0031012,Essential Hypertension,MESH:D000075222,0,,1,TLR2
+extracellular matrix,GO:0031012,Hypertension,MESH:D006973,0,,14,APOE|CCN2|COL1A1|COL3A1|ELN|FN1|GP1BA|MMP2|MMP9|TGFB1|TGM2|TIMP1|TLR3|VWF
+extracellular matrix,GO:0031012,"Hypertension, Portal",MESH:D006975,0,,1,VEGFA
+extracellular matrix,GO:0031012,"Hypertension, Pulmonary",MESH:D006976,0,,2,FBLN5|LOX
+extracellular matrix,GO:0031012,Ocular Hypertension,MESH:D009798,0,,1,MMP1
+extracellular matrix of synaptic cleft,GO:0098965,Hypertension,MESH:D006973,0,,1,MMP9
+extracellular region,GO:0005576,Essential Hypertension,MESH:D000075222,0,,3,HMGB1|IL1B|TNF
+extracellular region,GO:0005576,Hypertension,MESH:D006973,0,,81,ACE|ACE2|ADIPOQ|AGER|AGT|ALAD|ALB|ANXA1|AOC1|APOA1|APOE|AVP|CALCA|CAT|CCL2|CCN2|CELA2A|CETP|CMA1|COL1A1|COL3A1|CRP|CXCL2|EDN1|EDN3|ELN|EPO|ERAP1|F11|F12|FGF21|FN1|FNDC5|GAL|GCG|GNAS|GNRH1|GSTP1|HMGB1|HP|IGF1|IL1B|IL6|INS|INS2|ITM2B|KNG1|LEP|LEPR|LHB|LPL|LTF|MMP2|MMP9|NPPA|NPPB|OLR1|OXT|PLAT|PLG|POMC|PPBP|PRKCD|PROC|PTEN|PTH|REG3G|REN|SERPINE1|SOD1|SOD3|TGFB1|TGM2|TIMP1|TNF|TRH|UCN|UMOD|UTS2|VCAM1|VWF
+extracellular region,GO:0005576,"Hypertension, Malignant",MESH:D006974,0,,2,AGT|REN
+extracellular region,GO:0005576,"Hypertension, Portal",MESH:D006975,0,,2,AVP|VEGFA
+extracellular region,GO:0005576,"Hypertension, Pregnancy-Induced",MESH:D046110,0,,1,HP
+extracellular region,GO:0005576,"Hypertension, Pulmonary",MESH:D006976,0,,18,ACE|ACE2|ALOX5|CALCA|CBLN2|CCL1|CCL2|CD40LG|CXCL8|EDN1|FBLN5|GDF2|LEPR|LOX|NPPB|RETNLA|TGFA|TNF
+extracellular region,GO:0005576,"Hypertension, Renal",MESH:D006977,0,,3,AGT|MYH9|NPPA
+extracellular region,GO:0005576,Ocular Hypertension,MESH:D009798,0,,1,MMP1
+extracellular space,GO:0005615,Essential Hypertension,MESH:D000075222,0,,5,HMGB1|IL1B|PTGIS|TLR2|TNF
+extracellular space,GO:0005615,Hypertension,MESH:D006973,0,,83,ACE|ACE2|ADIPOQ|AGER|AGT|AGTR1B|ALAD|ALB|ANXA1|AOC1|AOC3|APOA1|APOE|AVP|CALCA|CAT|CCL2|CCN2|CELA2A|CETP|CMA1|COL1A1|COL3A1|CRP|CXCL2|EDN1|EDN3|ELN|EPO|F11|F12|FGF21|FN1|GAL|GCG|GNRH1|GP1BA|HMGB1|HMOX1|HP|ICAM1|IGF1|IL1B|IL6|INS|INS2|ITM2B|KLK1|KNG1|LEP|LEPR|LHB|LPL|LTF|MCPT1|MMP2|MMP9|MOXD2|NOS2|NPPA|NPPB|OXT|PLAT|PLG|POMC|PPBP|PROC|PTH|REG3G|REN|REN2|SELP|SERPINE1|SOD1|SOD3|TGFB1|TIMP1|TLR3|TNF|UMOD|UTS2|VCAM1|VWF
+extracellular space,GO:0005615,"Hypertension, Malignant",MESH:D006974,0,,3,AGT|REN|REN2
+extracellular space,GO:0005615,"Hypertension, Portal",MESH:D006975,0,,2,AVP|VEGFA
+extracellular space,GO:0005615,"Hypertension, Pregnancy-Induced",MESH:D046110,0,,1,HP
+extracellular space,GO:0005615,"Hypertension, Pulmonary",MESH:D006976,0,,18,ACE|ACE2|CALCA|CBLN2|CCL1|CCL2|CD40LG|CXCL8|EDN1|FBLN5|GBA1|GDF2|LEPR|LOX|NPPB|TGFA|TNF|TPH1
+extracellular space,GO:0005615,"Hypertension, Renal",MESH:D006977,0,,2,AGT|NPPA
+extracellular space,GO:0005615,Ocular Hypertension,MESH:D009798,0,,1,MMP1
+extracellular vesicle,GO:1903561,Hypertension,MESH:D006973,10,Air Pollutants|Arsenic|Benzene|Benzo(a)pyrene|Cadmium|Lead|Nickel|Oxygen|Ozone|Vehicle Emissions,0,
+extracellular vesicle,GO:1903561,"Hypertension, Pregnancy-Induced",MESH:D046110,2,Arsenic|Lead,0,
+extracellular vesicle,GO:1903561,"Hypertension, Pulmonary",MESH:D006976,1,Oxygen,0,
+extracellular vesicle,GO:1903561,Pulmonary Arterial Hypertension,MESH:D000081029,1,Oxygen,0,
+extrinsic component of cytoplasmic side of plasma membrane,GO:0031234,Hypertension,MESH:D006973,0,,1,MYD88
+extrinsic component of external side of plasma membrane,GO:0031232,Hypertension,MESH:D006973,0,,1,APOE
+extrinsic component of membrane,GO:0019898,Hypertension,MESH:D006973,0,,1,UMOD
+extrinsic component of plasma membrane,GO:0019897,Hypertension,MESH:D006973,0,,4,MYD88|OLR1|PLAT|PLG
+F-actin capping protein complex,GO:0008290,Essential Hypertension,MESH:D000075222,0,,1,ADD1
+F-actin capping protein complex,GO:0008290,Hypertension,MESH:D006973,0,,1,ADD1
+fascia adherens,GO:0005916,Hypertension,MESH:D006973,0,,1,GJA1
+ferritin complex,GO:0070288,Hypertension,MESH:D006973,2,bisphenol A|trigonelline,0,
+ferritin complex,GO:0070288,"Hypertension, Pregnancy-Induced",MESH:D046110,1,bisphenol A,0,
+fibrillar center,GO:0001650,"Arterial Occlusive Disease, Progressive, with Hypertension, Heart Defects, Bone Fragility, and Brachysyndactyly",MESH:C566529,0,,1,YY1AP1
+fibrillar center,GO:0001650,Hypertension,MESH:D006973,0,,1,AGER
+fibrinogen complex,GO:0005577,Hypertension,MESH:D006973,1,Dietary Fats,1,FN1
+ficolin-1-rich granule lumen,GO:1904813,Essential Hypertension,MESH:D000075222,0,,1,HMGB1
+ficolin-1-rich granule lumen,GO:1904813,Hypertension,MESH:D006973,0,,5,ALAD|CAT|GSTP1|HMGB1|MMP9
+ficolin-1-rich granule lumen,GO:1904813,"Hypertension, Pulmonary",MESH:D006976,0,,1,ALOX5
+filamentous actin,GO:0031941,Hypertension,MESH:D006973,9,Acrolein|Air Pollutants|AM 281|bisphenol A|daidzein|Dexamethasone|fosbretabulin|Ozone|Rotenone,0,
+filamentous actin,GO:0031941,"Hypertension, Pregnancy-Induced",MESH:D046110,1,bisphenol A,0,
+filamentous actin,GO:0031941,Intracranial Hypertension,MESH:D019586,1,Dexamethasone,0,
+filamentous actin,GO:0031941,Ocular Hypertension,MESH:D009798,1,Dexamethasone,0,
+filopodium,GO:0030175,Hypertension,MESH:D006973,0,,3,CRP|INPPL1|VCAM1
+focal adhesion,GO:0005925,Essential Hypertension,MESH:D000075222,0,,2,ADD1|CYBA
+focal adhesion,GO:0005925,Familial Primary Pulmonary Hypertension,MESH:D065627,0,,1,CAV1
+focal adhesion,GO:0005925,Hypertension,MESH:D006973,0,,4,ADD1|CAV1|CYBA|NOX4
+focal adhesion,GO:0005925,"Hypertension, Pulmonary",MESH:D006976,0,,1,SLC6A4
+focal adhesion,GO:0005925,"Hypertension, Renal",MESH:D006977,0,,1,MYH9
+GABA-ergic synapse,GO:0098982,Hypertension,MESH:D006973,0,,9,ADRA2A|ATP2B1|ATP2B3|CACNA2D1|DRD2|GAD1|GUCY1A1|NPTN|WNK1
+GABA-ergic synapse,GO:0098982,"Hypertension, Early-Onset, Autosomal Dominant, with Severe Exacerbation in Pregnancy",MESH:C565359,0,,1,NR3C2
+GABA-ergic synapse,GO:0098982,Intracranial Hypertension,MESH:D019586,0,,1,SLC4A10
+gap junction,GO:0005921,Essential Hypertension,MESH:D000075222,0,,1,TJP1
+gap junction,GO:0005921,Hypertension,MESH:D006973,0,,4,GJA1|GJA4|GJA5|GJC1
+germ cell nucleus,GO:0043073,Hypertension,MESH:D006973,0,,1,TP53
+germinal vesicle,GO:0042585,Hypertension,MESH:D006973,1,Cyclophosphamide,0,
+glial cell projection,GO:0097386,Essential Hypertension,MESH:D000075222,0,,1,AIF1
+glial cell projection,GO:0097386,Hypertension,MESH:D006973,1,Benzene,1,AIF1
+glomerular endothelium fenestra,GO:0036053,Hypertension,MESH:D006973,1,Sorafenib,0,
+glutamate-cysteine ligase complex,GO:0017109,Hypertension,MESH:D006973,0,,1,GCLC
+glutamatergic synapse,GO:0098978,Essential Hypertension,MESH:D000075222,0,,1,CALY
+glutamatergic synapse,GO:0098978,Hypertension,MESH:D006973,0,,21,ADRA2A|APOE|ATP2B1|ATP2B3|CACNA1C|CACNA2D1|DRD2|GRK2|GSK3B|GUCY1A1|IGF1|MMP9|MTOR|NEDD4L|NPTN|NR3C1|PLAT|PLG|PTPN1|RELA|RPS6KB1
+glutamatergic synapse,GO:0098978,"Hypertension, Early-Onset, Autosomal Dominant, with Severe Exacerbation in Pregnancy",MESH:C565359,0,,1,NR3C2
+glutamatergic synapse,GO:0098978,"Hypertension, Pulmonary",MESH:D006976,0,,2,CBLN2|KCNMA1
+glutamatergic synapse,GO:0098978,Ocular Hypertension,MESH:D009798,0,,1,NR3C1
+glycinergic synapse,GO:0098690,Hypertension,MESH:D006973,0,,1,NPPA
+glycinergic synapse,GO:0098690,"Hypertension, Renal",MESH:D006977,0,,1,NPPA
+glycogen granule,GO:0042587,Hypertension,MESH:D006973,1,Ethanol,0,
+glycoprotein Ib-IX-V complex,GO:1990779,Hypertension,MESH:D006973,0,,1,GP1BA
+Golgi apparatus,GO:0005794,Essential Hypertension,MESH:D000075222,0,,3,ECE1|NOS3|TLR2
+Golgi apparatus,GO:0005794,Familial Primary Pulmonary Hypertension,MESH:D065627,0,,2,CAV1|HDAC5
+Golgi apparatus,GO:0005794,Hypertension,MESH:D006973,0,,18,ALB|AOC3|APOE|ATP1A1|BDKRB2|CAV1|CCN2|CD36|ECE1|GJA1|INPPL1|ITM2B|NEDD4L|NFE2L2|NOS3|PROC|SOD3|VCAM1
+Golgi apparatus,GO:0005794,"Hypertension, Portal",MESH:D006975,0,,2,NOS3|VEGFA
+Golgi apparatus,GO:0005794,"Hypertension, Pregnancy-Induced",MESH:D046110,0,,1,NOS3
+Golgi apparatus,GO:0005794,"Hypertension, Pulmonary",MESH:D006976,0,,5,ATP7A|CD40LG|GBA1|NOS3|PRKG1
+Golgi apparatus,GO:0005794,"Hypertension, Renovascular",MESH:D006978,0,,1,NOS3
+Golgi-associated vesicle,GO:0005798,Hypertension,MESH:D006973,0,,1,GNRH1
+Golgi-associated vesicle membrane,GO:0030660,Hypertension,MESH:D006973,0,,2,GJA1|ITM2B
+Golgi lumen,GO:0005796,Hypertension,MESH:D006973,0,,6,INS|LHB|PROC|SOD3|TGFB1|UMOD
+Golgi membrane,GO:0000139,Essential Hypertension,MESH:D000075222,0,,1,NOS3
+Golgi membrane,GO:0000139,Familial Primary Pulmonary Hypertension,MESH:D065627,0,,1,CAV1
+Golgi membrane,GO:0000139,Hypertension,MESH:D006973,0,,9,CAV1|DRD2|GJA1|INS|ITM2B|MTOR|NOS3|OXT|TLR3
+Golgi membrane,GO:0000139,"Hypertension, Portal",MESH:D006975,0,,1,NOS3
+Golgi membrane,GO:0000139,"Hypertension, Pregnancy-Induced",MESH:D046110,0,,1,NOS3
+Golgi membrane,GO:0000139,"Hypertension, Pulmonary",MESH:D006976,0,,1,NOS3
+Golgi membrane,GO:0000139,"Hypertension, Renovascular",MESH:D006978,0,,1,NOS3
+G protein-coupled receptor complex,GO:0097648,Hypertension,MESH:D006973,0,,1,DRD2
+G protein-coupled serotonin receptor complex,GO:0098666,Hypertension,MESH:D006973,0,,1,HTR2B
+G protein-coupled serotonin receptor complex,GO:0098666,"Hypertension, Pulmonary",MESH:D006976,0,,1,HTR2B
+growth cone,GO:0030426,Hypertension,MESH:D006973,0,,5,CRP|GSK3B|ORAI1|STIM1|TRPC5
+growth cone filopodium,GO:1990812,Hypertension,MESH:D006973,1,Ethanol,0,
+"guanylate cyclase complex, soluble",GO:0008074,Hypertension,MESH:D006973,0,,1,GUCY1A1
+haptoglobin-hemoglobin complex,GO:0031838,Hypertension,MESH:D006973,0,,1,HP
+haptoglobin-hemoglobin complex,GO:0031838,"Hypertension, Pregnancy-Induced",MESH:D046110,0,,1,HP
+heterochromatin,GO:0000792,Essential Hypertension,MESH:D000075222,0,,1,ADD1
+heterochromatin,GO:0000792,Familial Primary Pulmonary Hypertension,MESH:D065627,0,,1,HDAC1
+heterochromatin,GO:0000792,Hypertension,MESH:D006973,0,,2,ADD1|VDR
+heteromeric SMAD protein complex,GO:0071144,Familial Primary Pulmonary Hypertension,MESH:D065627,0,,1,SMAD9
+heterotrimeric G-protein complex,GO:0005834,Essential Hypertension,MESH:D000075222,0,,1,GNB3
+heterotrimeric G-protein complex,GO:0005834,Hypertension,MESH:D006973,0,,2,GNAS|GNB3
+high-density lipoprotein particle,GO:0034364,Hypertension,MESH:D006973,0,,3,APOA1|APOE|CETP
+hippocampal mossy fiber to CA3 synapse,GO:0098686,Hypertension,MESH:D006973,0,,1,CALCA
+hippocampal mossy fiber to CA3 synapse,GO:0098686,"Hypertension, Pulmonary",MESH:D006976,0,,1,CALCA
+histone deacetylase complex,GO:0000118,Familial Primary Pulmonary Hypertension,MESH:D065627,0,,3,HDAC1|HDAC4|HDAC5
+hyaline inclusion,GO:0097412,Hypertension,MESH:D006973,1,Doxorubicin,0,
+I band,GO:0031674,Essential Hypertension,MESH:D000075222,0,,1,TJP1
+"IgE immunoglobulin complex, circulating",GO:0071743,Hypertension,MESH:D006973,6,Air Pollutants|bisphenol A|Dexamethasone|Mercury|Particulate Matter|Polycyclic Aromatic Hydrocarbons,0,
+"IgE immunoglobulin complex, circulating",GO:0071743,"Hypertension, Pregnancy-Induced",MESH:D046110,1,bisphenol A,0,
+"IgE immunoglobulin complex, circulating",GO:0071743,"Hypertension, Pulmonary",MESH:D006976,1,Ovalbumin,0,
+"IgE immunoglobulin complex, circulating",GO:0071743,Intracranial Hypertension,MESH:D019586,1,Dexamethasone,0,
+"IgE immunoglobulin complex, circulating",GO:0071743,Ocular Hypertension,MESH:D009798,1,Dexamethasone,0,
+"IgE immunoglobulin complex, circulating",GO:0071743,Pulmonary Arterial Hypertension,MESH:D000081029,2,Ovalbumin|Particulate Matter,0,
+"IgG immunoglobulin complex, circulating",GO:0071736,Hypertension,MESH:D006973,5,Dexamethasone|perfluorohexanesulfonic acid|perfluorooctane sulfonic acid|perfluorooctanoic acid|Tetrachlorodibenzodioxin,0,
+"IgG immunoglobulin complex, circulating",GO:0071736,"Hypertension, Pulmonary",MESH:D006976,1,Ovalbumin,0,
+"IgG immunoglobulin complex, circulating",GO:0071736,Intracranial Hypertension,MESH:D019586,1,Dexamethasone,0,
+"IgG immunoglobulin complex, circulating",GO:0071736,Ocular Hypertension,MESH:D009798,1,Dexamethasone,0,
+"IgG immunoglobulin complex, circulating",GO:0071736,Pulmonary Arterial Hypertension,MESH:D000081029,1,Ovalbumin,0,
+IkappaB kinase complex,GO:0008385,Hypertension,MESH:D006973,0,,1,IKBKB
+immunological synapse,GO:0001772,Hypertension,MESH:D006973,0,,4,ATP2B1|ICAM1|NPTN|VAV3
+immunological synapse,GO:0001772,"Hypertension, Renal",MESH:D006977,0,,1,MYH9
+inflammasome complex,GO:0061702,Intracranial Hypertension,MESH:D019586,1,Adenosine Triphosphate,0,
+inhibin B complex,GO:0043513,Hypertension,MESH:D006973,1,bisphenol A,0,
+inhibin B complex,GO:0043513,"Hypertension, Pregnancy-Induced",MESH:D046110,1,bisphenol A,0,
+inhibitory synapse,GO:0060077,Hypertension,MESH:D006973,0,,2,GAD1|NPTN
+Ino80 complex,GO:0031011,"Arterial Occlusive Disease, Progressive, with Hypertension, Heart Defects, Bone Fragility, and Brachysyndactyly",MESH:C566529,0,,1,YY1AP1
+insulin-like growth factor binding protein complex,GO:0016942,Hypertension,MESH:D006973,0,,1,IGF1
+insulin-like growth factor ternary complex,GO:0042567,Hypertension,MESH:D006973,0,,1,IGF1
+intercalated disc,GO:0014704,Essential Hypertension,MESH:D000075222,0,,2,ATP1B1|TJP1
+intercalated disc,GO:0014704,Hypertension,MESH:D006973,0,,5,ATP1A1|ATP1A2|GJA1|GJA5|GJC1
+intercalated disc,GO:0014704,"Hypertension, Pulmonary",MESH:D006976,0,,2,KCNA5|SLC31A1
+intercellular canaliculus,GO:0046581,Essential Hypertension,MESH:D000075222,0,,1,TJP1
+interleukin-6 receptor complex,GO:0005896,Hypertension,MESH:D006973,0,,1,IL6
+intermediate-density lipoprotein particle,GO:0034363,Hypertension,MESH:D006973,0,,2,APOA1|APOE
+intermediate filament,GO:0005882,Hypertension,MESH:D006973,0,,1,GJA1
+interstitial matrix,GO:0005614,Hypertension,MESH:D006973,0,,1,IGF1
+intracellular anatomical structure,GO:0005622,Essential Hypertension,MESH:D000075222,0,,1,TNF
+intracellular anatomical structure,GO:0005622,Hypertension,MESH:D006973,0,,6,BCL2|CALCA|CMA1|MCPT1|NR3C1|TNF
+intracellular anatomical structure,GO:0005622,"Hypertension, Pulmonary",MESH:D006976,0,,2,CALCA|TNF
+intracellular anatomical structure,GO:0005622,Ocular Hypertension,MESH:D009798,0,,1,NR3C1
+intracellular canaliculus,GO:0046691,"Hypertension, Pulmonary",MESH:D006976,0,,1,KCNA5
+intracellular membrane-bounded organelle,GO:0043231,Essential Hypertension,MESH:D000075222,0,,3,CYP3A5|RGS5|TLR2
+intracellular membrane-bounded organelle,GO:0043231,Hypertension,MESH:D006973,0,,17,ATP2B1|ATP2B3|BDKRB2|CAT|CCN2|CMA1|CYP4A10|CYP4F2|GJA1|HSD11B1|HSD11B2|ITM2B|OLR1|PPARG|PTGS2|RGS5|STK39
+intracellular membrane-bounded organelle,GO:0043231,"Hypertension, Pulmonary",MESH:D006976,0,,2,ABCA3|ALOX5
+intracellular non-membrane-bounded organelle,GO:0043232,Hypertension,MESH:D006973,0,,1,WNK1
+intracellular protein-containing complex,GO:0140535,Hypertension,MESH:D006973,0,,2,GCH1|STK11
+ion channel complex,GO:0034702,Essential Hypertension,MESH:D000075222,0,,1,CYBB
+ion channel complex,GO:0034702,Hypertension,MESH:D006973,0,,4,CACNA1C|CACNA2D1|CYBB|KCNJ1
+ion channel complex,GO:0034702,"Hypertension, Pulmonary",MESH:D006976,0,,2,KCNA5|KCNMA1
+keratohyalin granule,GO:0036457,Hypertension,MESH:D006973,0,,1,CELA2A
+lamellar body,GO:0042599,"Hypertension, Pulmonary",MESH:D006976,0,,1,ABCA3
+lamellar body membrane,GO:0097232,"Hypertension, Pulmonary",MESH:D006976,0,,1,ABCA3
+lamellipodium,GO:0030027,Essential Hypertension,MESH:D000075222,0,,1,AIF1
+lamellipodium,GO:0030027,Hypertension,MESH:D006973,0,,2,AIF1|INPPL1
+lamellipodium,GO:0030027,"Hypertension, Renal",MESH:D006977,0,,1,MYH9
+laminin complex,GO:0043256,Hypertension,MESH:D006973,1,Thioctic Acid,0,
+large ribosomal subunit,GO:0015934,Hypertension,MESH:D006973,1,sodium arsenite,0,
+late endosome,GO:0005770,Hypertension,MESH:D006973,0,,2,APOE|GJA1
+late endosome,GO:0005770,"Hypertension, Pulmonary",MESH:D006976,0,,3,ABCA3|ATP7A|SLC31A1
+late endosome,GO:0005770,Ocular Hypertension,MESH:D009798,0,,1,DDIT3
+late endosome membrane,GO:0031902,"Hypertension, Pulmonary",MESH:D006976,0,,1,SLC31A1
+lateral plasma membrane,GO:0016328,Essential Hypertension,MESH:D000075222,0,,2,ATP1B1|OCLN
+lateral plasma membrane,GO:0016328,Hypertension,MESH:D006973,0,,6,ABCC1|ANXA1|ATP1A1|DRD2|GJA1|SLC12A2
+lateral plasma membrane,GO:0016328,"Hypertension, Renal",MESH:D006977,0,,1,MYH9
+Lewy body,GO:0097413,Hypertension,MESH:D006973,0,,1,GPX1
+lipid droplet,GO:0005811,Familial Primary Pulmonary Hypertension,MESH:D065627,0,,1,CAV1
+lipid droplet,GO:0005811,Hypertension,MESH:D006973,2,"Cholesterol, Dietary|Dietary Fats",2,ALOX15|CAV1
+lipopolysaccharide receptor complex,GO:0046696,Essential Hypertension,MESH:D000075222,0,,1,TLR4
+lipopolysaccharide receptor complex,GO:0046696,Hypertension,MESH:D006973,0,,1,TLR4
+lipoprotein particle,GO:1990777,Hypertension,MESH:D006973,0,,1,APOE
+low-density lipoprotein particle,GO:0034362,Hypertension,MESH:D006973,0,,2,APOA1|APOE
+L-type voltage-gated calcium channel complex,GO:1990454,Hypertension,MESH:D006973,0,,2,CACNA1C|CACNA2D1
+lysosomal lumen,GO:0043202,"Hypertension, Pulmonary",MESH:D006976,0,,1,GBA1
+lysosomal membrane,GO:0005765,Essential Hypertension,MESH:D000075222,0,,1,OCLN
+lysosomal membrane,GO:0005765,Hypertension,MESH:D006973,0,,1,MTOR
+lysosomal membrane,GO:0005765,"Hypertension, Pulmonary",MESH:D006976,0,,2,ABCA3|GBA1
+lysosome,GO:0005764,Essential Hypertension,MESH:D000075222,0,,1,IL1B
+lysosome,GO:0005764,Hypertension,MESH:D006973,4,Acetaminophen|Acetylcysteine|Sirolimus|sodium arsenite,6,ACE|GAL|GJA1|IL1B|MTOR|SOD1
+lysosome,GO:0005764,"Hypertension, Pulmonary",MESH:D006976,0,,2,ACE|GBA1
+lysosome,GO:0005764,Intracranial Hypertension,MESH:D019586,2,Acetaminophen|Acetylcysteine,0,
+major mitochondrial derivative,GO:0016008,Hypertension,MESH:D006973,0,,1,CAT
+mast cell granule,GO:0042629,Hypertension,MESH:D006973,0,,3,ANXA1|CXCR2|NPPA
+mast cell granule,GO:0042629,"Hypertension, Renal",MESH:D006977,0,,1,NPPA
+mediator complex,GO:0016592,Hypertension,MESH:D006973,0,,1,NFE2L2
+meiotic spindle,GO:0072687,Hypertension,MESH:D006973,0,,1,GSK3B
+melanosome,GO:0042470,Hypertension,MESH:D006973,0,,2,APOE|ATP1A1
+melanosome membrane,GO:0033162,Essential Hypertension,MESH:D000075222,0,,1,TH
+melanosome membrane,GO:0033162,Hypertension,MESH:D006973,0,,1,TH
+melanosome membrane,GO:0033162,"Hypertension, Pulmonary",MESH:D006976,0,,1,ATP7A
+membrane,GO:0016020,Brachydactyly with hypertension,MESH:C537095,0,,1,PDE3A
+membrane,GO:0016020,Essential Hypertension,MESH:D000075222,0,,19,ADD1|AGTR1|ATP1B1|CALY|CYBA|CYBB|CYP3A5|ECE1|FFAR2|FFAR3|HCAR3|NCF1|OCLN|PTGIS|RGS5|TJP1|TLR2|TLR4|TNF
+membrane,GO:0016020,Familial Primary Pulmonary Hypertension,MESH:D065627,0,,3,BMPR2|CAV1|KCNK3
+membrane,GO:0016020,Hypertension,MESH:D006973,0,,101,ABCC1|ACE|ACE2|ADCY5|ADD1|ADRA2A|ADRB1|AGER|AGTR1|AGTR1B|AGTR2|ALOX15|ANXA1|AOC3|AQP1|ATP1A1|ATP1A2|ATP2B1|ATP2B3|BCL2|BDKRB2|CACNA1C|CACNA2D1|CAV1|CD36|CLCNKA|CRHR2|CRP|CXCR2|CYBA|CYBB|CYP1A1|CYP4F2|DRD2|ECE1|EDNRA|ERAP1|F11|FXYD2|GJA1|GJA4|GJC1|GLP1R|GNAS|GP1BA|GRK2|GSK3B|HMOX1|HRH2|HRH3|HSD11B2|HTR2B|ICAM1|IER3|INPPL1|KCNJ1|KCNMB1|LEPR|MC2R|MOXD2|MTOR|NCF1|NHERF2|NOX4|NPR1|NPTN|NR3C1|OLR1|ORAI1|OXT|PLG|PRKCD|PTGS2|PTPN1|RALBP1|REN|RGS2|RGS5|SCNN1A|SCNN1B|SCNN1G|SELP|SLC12A2|SLC12A3|SLC6A18|SLC6A2|STIM1|STK11|STK39|TGM2|TLR3|TLR4|TNF|TRPC3|TRPC5|UCP2|UMOD|VCAM1|VWF|WNK1|WNK4
+membrane,GO:0016020,"Hypertension, Diastolic, Resistance to",MESH:C563897,0,,1,KCNMB1
+membrane,GO:0016020,"Hypertension, Malignant",MESH:D006974,0,,2,CYP17A1|REN
+membrane,GO:0016020,"Hypertension, Portal",MESH:D006975,0,,1,VEGFA
+membrane,GO:0016020,"Hypertension, Pulmonary",MESH:D006976,0,,20,ABCA3|ACE|ACE2|ACVRL1|ARG2|ATP7A|BMPR2|CA9|CBLN2|CD40LG|EDNRB|HTR2B|KCNA5|KCNK3|KCNMA1|LEPR|SLC31A1|SLC6A4|TGFA|TNF
+membrane,GO:0016020,Intracranial Hypertension,MESH:D019586,0,,1,SLC4A10
+membrane,GO:0016020,Ocular Hypertension,MESH:D009798,0,,1,NR3C1
+membrane,GO:0016020,Pulmonary Arterial Hypertension,MESH:D000081029,0,,1,BMPR2
+membrane-bounded organelle,GO:0043227,Hypertension,MESH:D006973,0,,1,GSK3B
+membrane raft,GO:0045121,Essential Hypertension,MESH:D000075222,0,,3,HMGB1|TLR2|TNF
+membrane raft,GO:0045121,Familial Primary Pulmonary Hypertension,MESH:D065627,0,,1,CAV1
+membrane raft,GO:0045121,Hypertension,MESH:D006973,0,,11,ACE2|ATP1A1|CAV1|CD36|GJA1|HMGB1|ICAM1|IKBKB|OLR1|ORAI1|TNF
+membrane raft,GO:0045121,"Hypertension, Pulmonary",MESH:D006976,0,,4,ACE2|KCNA5|SLC6A4|TNF
+microtubule,GO:0005874,Hypertension,MESH:D006973,0,,3,APOE|GSK3B|STIM1
+microtubule cytoskeleton,GO:0015630,Hypertension,MESH:D006973,0,,1,CXCR2
+microvillus,GO:0005902,Hypertension,MESH:D006973,0,,3,AOC3|TGFB1|VCAM1
+microvillus,GO:0005902,"Hypertension, Pulmonary",MESH:D006976,0,,1,ATP7A
+microvillus membrane,GO:0031528,"Hypertension, Pulmonary",MESH:D006976,0,,1,CA9
+mitochondria-associated endoplasmic reticulum membrane,GO:0044233,Hypertension,MESH:D006973,5,Air Pollutants|Cadmium|Cadmium Chloride|Particulate Matter|perfluorooctane sulfonic acid,0,
+mitochondria-associated endoplasmic reticulum membrane,GO:0044233,Ocular Hypertension,MESH:D009798,1,4-phenylbutyric acid,0,
+mitochondria-associated endoplasmic reticulum membrane,GO:0044233,Pulmonary Arterial Hypertension,MESH:D000081029,1,Particulate Matter,0,
+mitochondrial chromosome,GO:0000262,Hypertension,MESH:D006973,3,bisphenol A|Flavonoids|Methylmercury Compounds,0,
+mitochondrial chromosome,GO:0000262,"Hypertension, Pregnancy-Induced",MESH:D046110,1,bisphenol A,0,
+mitochondrial crista,GO:0030061,Hypertension,MESH:D006973,0,,2,BCL2|PTPN1
+mitochondrial inner membrane,GO:0005743,Hypertension,MESH:D006973,0,,2,CYP1A1|UCP2
+mitochondrial inner membrane,GO:0005743,"PULMONARY HYPERTENSION, NEONATAL, SUSCEPTIBILITY TO",OMIM:615371,0,,1,CPS1
+mitochondrial intermembrane space,GO:0005758,Hypertension,MESH:D006973,0,,1,SOD1
+mitochondrial matrix,GO:0005759,Hypertension,MESH:D006973,0,,6,GPX1|NR3C1|PTPN1|SOD1|SOD2|TP53
+mitochondrial matrix,GO:0005759,"Hypertension, Portal",MESH:D006975,0,,1,DGUOK
+mitochondrial matrix,GO:0005759,"Hypertension, Pulmonary",MESH:D006976,0,,2,ARG2|SOD2
+mitochondrial matrix,GO:0005759,"HYPERURICEMIA, PULMONARY HYPERTENSION, RENAL FAILURE, AND ALKALOSIS SYNDROME",OMIM:613845,0,,1,SARS2
+mitochondrial matrix,GO:0005759,Ocular Hypertension,MESH:D009798,0,,1,NR3C1
+mitochondrial matrix,GO:0005759,"PULMONARY HYPERTENSION, NEONATAL, SUSCEPTIBILITY TO",OMIM:615371,0,,1,CPS1
+mitochondrial membrane,GO:0031966,Hypertension,MESH:D006973,4,Cadmium|Cadmium Chloride|Lead|Mercury,3,ANXA1|BCL2|UCP2
+mitochondrial membrane,GO:0031966,"Hypertension, Pregnancy-Induced",MESH:D046110,1,Lead,0,
+mitochondrial nucleoid,GO:0042645,Hypertension,MESH:D006973,0,,1,SOD2
+mitochondrial nucleoid,GO:0042645,"Hypertension, Pulmonary",MESH:D006976,0,,1,SOD2
+mitochondrial nucleoid,GO:0042645,"PULMONARY HYPERTENSION, NEONATAL, SUSCEPTIBILITY TO",OMIM:615371,0,,1,CPS1
+mitochondrial outer membrane,GO:0005741,Hypertension,MESH:D006973,0,,5,BCL2|GJA1|HMOX1|MTOR|RPS6KB1
+mitochondrial permeability transition pore complex,GO:0005757,Brachydactyly with hypertension,MESH:C537095,1,Amlodipine,0,
+mitochondrial permeability transition pore complex,GO:0005757,Essential Hypertension,MESH:D000075222,1,Amlodipine,0,
+mitochondrial permeability transition pore complex,GO:0005757,Hypertension,MESH:D006973,12,Amlodipine|Calcium|cilnidipine|Ciprofloxacin|Doxorubicin|Iohexol|Lead|lead acetate|methylmercuric chloride|Nifedipine|Quercetin|thymoquinone,0,
+mitochondrial permeability transition pore complex,GO:0005757,"Hypertension, Malignant",MESH:D006974,1,Nifedipine,0,
+mitochondrial permeability transition pore complex,GO:0005757,"Hypertension, Portal",MESH:D006975,2,Nifedipine|Thioacetamide,0,
+mitochondrial permeability transition pore complex,GO:0005757,"Hypertension, Pregnancy-Induced",MESH:D046110,2,Lead|Nifedipine,0,
+mitochondrial permeability transition pore complex,GO:0005757,"Hypertension, Pulmonary",MESH:D006976,2,Nifedipine|Quercetin,0,
+mitochondrial permeability transition pore complex,GO:0005757,"Hypertension, Renal",MESH:D006977,2,Amlodipine|Nifedipine,0,
+mitochondrial permeability transition pore complex,GO:0005757,"Hypertension, Renovascular",MESH:D006978,1,Amlodipine,0,
+mitochondrial permeability transition pore complex,GO:0005757,Intracranial Hypertension,MESH:D019586,2,Amlodipine|Ciprofloxacin,0,
+mitochondrial proton-transporting ATP synthase complex,GO:0005753,Hypertension,MESH:D006973,2,Lipopolysaccharides|Sirolimus,0,
+mitochondrial respiratory chain complex I,GO:0005747,Hypertension,MESH:D006973,5,ferulic acid|Lipopolysaccharides|Melitten|Sirolimus|Streptozocin,0,
+mitochondrial respiratory chain complex I,GO:0005747,"Hypertension, Portal",MESH:D006975,1,Thioacetamide,0,
+mitochondrial respiratory chain complex III,GO:0005750,Hypertension,MESH:D006973,2,Lipopolysaccharides|Sirolimus,0,
+"mitochondrial respiratory chain complex II, succinate dehydrogenase complex (ubiquinone)",GO:0005749,Hypertension,MESH:D006973,2,ferulic acid|Streptozocin,0,
+mitochondrial respiratory chain complex IV,GO:0005751,Hypertension,MESH:D006973,2,ferulic acid|Streptozocin,0,
+mitochondrial respiratory chain complex IV,GO:0005751,"Hypertension, Portal",MESH:D006975,1,Thioacetamide,0,
+mitochondrion,GO:0005739,Essential Hypertension,MESH:D000075222,1,Curcumin,2,TH|TJP1
+mitochondrion,GO:0005739,Hypertension,MESH:D006973,8,Bupivacaine|Curcumin|Diethylhexyl Phthalate|Ethanol|Folic Acid|Isoproterenol|Methylmercury Compounds|Particulate Matter,26,BCL2|CAT|CYP1A1|GCH1|GCLC|GJA1|GPX1|GSK3B|GSTA5|GSTP1|IER3|MDH1|MMP2|NOX4|NR3C1|PRKCD|RALBP1|RGS2|RPS6KB1|SOD1|SOD2|STK11|TGM2|TH|TP53|UCP2
+mitochondrion,GO:0005739,"Hypertension, Portal",MESH:D006975,1,Isoproterenol,1,DGUOK
+mitochondrion,GO:0005739,"Hypertension, Pulmonary",MESH:D006976,2,Copper Sulfate|Paraquat,5,ARG2|EIF2AK4|FOXO1|SLC31A1|SOD2
+mitochondrion,GO:0005739,"HYPERURICEMIA, PULMONARY HYPERTENSION, RENAL FAILURE, AND ALKALOSIS SYNDROME",OMIM:613845,0,,1,SARS2
+mitochondrion,GO:0005739,Ocular Hypertension,MESH:D009798,1,Isoproterenol,1,NR3C1
+mitochondrion,GO:0005739,Pulmonary Arterial Hypertension,MESH:D000081029,1,Particulate Matter,0,
+mitochondrion,GO:0005739,"PULMONARY HYPERTENSION, NEONATAL, SUSCEPTIBILITY TO",OMIM:615371,0,,1,CPS1
+mitotic spindle,GO:0072686,Hypertension,MESH:D006973,0,,2,CXCR2|WNK1
+motile cilium,GO:0031514,Hypertension,MESH:D006973,0,,3,ANXA1|HIF1A|SCNN1A
+motile cilium,GO:0031514,"Hypertension, Pulmonary",MESH:D006976,0,,1,HIF1A
+mucus layer,GO:0070701,Hypertension,MESH:D006973,1,Particulate Matter,0,
+mucus layer,GO:0070701,Pulmonary Arterial Hypertension,MESH:D000081029,1,Particulate Matter,0,
+multivesicular body,GO:0005771,Hypertension,MESH:D006973,0,,3,APOE|GJA1|NEDD4L
+"multivesicular body, internal vesicle",GO:0097487,Hypertension,MESH:D006973,0,,1,APOE
+multivesicular body membrane,GO:0032585,"Hypertension, Pulmonary",MESH:D006976,0,,1,ABCA3
+muscle myosin complex,GO:0005859,Hypertension,MESH:D006973,0,,1,MYH7
+muscle thin filament tropomyosin,GO:0005862,Hypertension,MESH:D006973,0,,1,TPM1
+Myb complex,GO:0031523,Familial Primary Pulmonary Hypertension,MESH:D065627,0,,1,HDAC1
+myelin sheath,GO:0043209,Hypertension,MESH:D006973,0,,1,BCL2
+myelin sheath,GO:0043209,"Hypertension, Portal",MESH:D006975,1,Thioacetamide,0,
+myelin sheath adaxonal region,GO:0035749,Hypertension,MESH:D006973,0,,1,PTEN
+myofibril,GO:0030016,Hypertension,MESH:D006973,0,,2,MYH7|TPM1
+myosin complex,GO:0016459,Hypertension,MESH:D006973,0,,1,MYH7
+myosin complex,GO:0016459,"Hypertension, Pulmonary",MESH:D006976,0,,1,CA9
+myosin complex,GO:0016459,"Hypertension, Renal",MESH:D006977,0,,1,MYH9
+myosin filament,GO:0032982,Hypertension,MESH:D006973,0,,1,MYH7
+myosin filament,GO:0032982,"Hypertension, Renal",MESH:D006977,0,,1,MYH9
+myosin II complex,GO:0016460,Hypertension,MESH:D006973,0,,1,MYH7
+myosin II complex,GO:0016460,"Hypertension, Renal",MESH:D006977,0,,1,MYH9
+myosin II filament,GO:0097513,"Hypertension, Renal",MESH:D006977,0,,1,MYH9
+NADH dehydrogenase complex,GO:0030964,Hypertension,MESH:D006973,1,bisphenol A,0,
+NADH dehydrogenase complex,GO:0030964,"Hypertension, Pregnancy-Induced",MESH:D046110,1,bisphenol A,0,
+NADPH oxidase complex,GO:0043020,Essential Hypertension,MESH:D000075222,1,Curcumin,3,CYBA|CYBB|NCF1
+NADPH oxidase complex,GO:0043020,Hypertension,MESH:D006973,1,Curcumin,4,CYBA|CYBB|NCF1|NOX4
+neuromuscular junction,GO:0031594,Familial Primary Pulmonary Hypertension,MESH:D065627,0,,1,HDAC4
+neuromuscular junction,GO:0031594,"Hypertension, Renal",MESH:D006977,0,,1,MYH9
+neuronal cell body,GO:0043025,Essential Hypertension,MESH:D000075222,0,,5,CYBA|CYBB|NCF1|TH|TNF
+neuronal cell body,GO:0043025,Familial Primary Pulmonary Hypertension,MESH:D065627,0,,2,BMPR2|HDAC1
+neuronal cell body,GO:0043025,Hypertension,MESH:D006973,3,bisphenol A|Paclitaxel|Rotenone,28,ADRA2A|AGER|APOE|ATP1A2|AVP|CACNA1C|CALCA|CCL2|CRHR2|CYBA|CYBB|GAD1|GAL|GNAS|GSK3B|HTR2B|IGF1|MTOR|NCF1|NPTN|POMC|SLC12A2|SOD1|TGFB1|TH|TNF|TRPC5|UCN
+neuronal cell body,GO:0043025,"Hypertension, Malignant",MESH:D006974,0,,1,CYP17A1
+neuronal cell body,GO:0043025,"Hypertension, Portal",MESH:D006975,0,,1,AVP
+neuronal cell body,GO:0043025,"Hypertension, Pregnancy-Induced",MESH:D046110,1,bisphenol A,0,
+neuronal cell body,GO:0043025,"Hypertension, Pulmonary",MESH:D006976,1,Paclitaxel,9,ACVRL1|ATP7A|BMPR2|CALCA|CCL2|HTR2B|KCNMA1|SLC31A1|TNF
+neuronal cell body,GO:0043025,Intracranial Hypertension,MESH:D019586,0,,1,SLC4A10
+neuronal cell body,GO:0043025,Pulmonary Arterial Hypertension,MESH:D000081029,0,,1,BMPR2
+neuronal cell body membrane,GO:0032809,Hypertension,MESH:D006973,0,,3,AQP1|ATP2B1|SLC6A2
+neuronal dense core vesicle,GO:0098992,Hypertension,MESH:D006973,0,,6,ADRB1|AVP|CACNA2D1|CALCA|OXT|PLAT
+neuronal dense core vesicle,GO:0098992,"Hypertension, Portal",MESH:D006975,0,,1,AVP
+neuronal dense core vesicle,GO:0098992,"Hypertension, Pulmonary",MESH:D006976,0,,1,CALCA
+neuronal dense core vesicle lumen,GO:0099013,Hypertension,MESH:D006973,0,,1,IGF1
+neuron projection,GO:0043005,Essential Hypertension,MESH:D000075222,0,,2,HMGB1|TH
+neuron projection,GO:0043005,Hypertension,MESH:D006973,13,"Aspirin|Benzo(a)pyrene|Lead|lead acetate|Levodopa|Lidocaine|methylmercuric chloride|Methylmercury Compounds|N-Methyl-3,4-methylenedioxyamphetamine|Oxygen|Paclitaxel|Rotenone|Valproic Acid",11,CALCA|HMGB1|HTR2B|NPTN|PTEN|PTGS2|RPS6KB1|SLC12A2|SLC6A2|TH|TRH
+neuron projection,GO:0043005,"Hypertension, Pregnancy-Induced",MESH:D046110,2,Aspirin|Lead,0,
+neuron projection,GO:0043005,"Hypertension, Pulmonary",MESH:D006976,4,Oxygen|Paclitaxel|Paraquat|Valproic Acid,5,ATP7A|CALCA|HTR2B|SLC6A4|TPH1
+neuron projection,GO:0043005,Intracranial Hypertension,MESH:D019586,3,Aspirin|Tretinoin|Valproic Acid,0,
+neuron projection,GO:0043005,Pulmonary Arterial Hypertension,MESH:D000081029,1,Oxygen,0,
+neuron projection terminus,GO:0044306,Essential Hypertension,MESH:D000075222,0,,1,TH
+neuron projection terminus,GO:0044306,Hypertension,MESH:D006973,0,,5,CACNA1C|GAD1|GAL|GCH1|TH
+neurosecretory vesicle,GO:1990008,Hypertension,MESH:D006973,0,,1,GNRH1
+neutrophil extracellular trap,GO:0140644,Hypertension,MESH:D006973,5,Acetaminophen|Acrolein|Arsenic|bisphenol A|sodium arsenite,0,
+neutrophil extracellular trap,GO:0140644,"Hypertension, Pregnancy-Induced",MESH:D046110,2,Arsenic|bisphenol A,0,
+neutrophil extracellular trap,GO:0140644,Intracranial Hypertension,MESH:D019586,1,Acetaminophen,0,
+NF-kappaB complex,GO:0071159,Hypertension,MESH:D006973,0,,1,RELA
+NF-kappaB p50/p65 complex,GO:0035525,Hypertension,MESH:D006973,0,,1,RELA
+NLRP1 inflammasome complex,GO:0072558,Hypertension,MESH:D006973,1,Doxorubicin,0,
+NLRP3 inflammasome complex,GO:0072559,Essential Hypertension,MESH:D000075222,1,Cannabidiol,0,
+NLRP3 inflammasome complex,GO:0072559,Hypertension,MESH:D006973,1,Lipopolysaccharides,0,
+NLRP3 inflammasome complex,GO:0072559,"Hypertension, Renal",MESH:D006977,1,Cannabidiol,0,
+NLRP3 inflammasome complex,GO:0072559,Ocular Hypertension,MESH:D009798,1,Cannabidiol,0,
+non-membrane-bounded organelle,GO:0043228,Hypertension,MESH:D006973,0,,1,NFE2L2
+non-motile cilium,GO:0097730,Hypertension,MESH:D006973,0,,1,DRD2
+nuclear aryl hydrocarbon receptor complex,GO:0034753,Hypertension,MESH:D006973,1,Tetrachlorodibenzodioxin,1,AHR
+nuclear aryl hydrocarbon receptor complex,GO:0034753,Pulmonary Arterial Hypertension,MESH:D000081029,0,,1,AHR
+nuclear body,GO:0016604,Essential Hypertension,MESH:D000075222,0,,1,ADD1
+nuclear body,GO:0016604,Familial Primary Pulmonary Hypertension,MESH:D065627,0,,1,HDAC5
+nuclear body,GO:0016604,Hypertension,MESH:D006973,0,,4,ADD1|HIF1A|RALBP1|TP53
+nuclear body,GO:0016604,"Hypertension, Pulmonary",MESH:D006976,0,,1,HIF1A
+nuclear body,GO:0016604,"Hypertension, Renal",MESH:D006977,0,,1,MYH9
+nuclear chromosome,GO:0000228,Hypertension,MESH:D006973,0,,1,JUN
+nuclear envelope,GO:0005635,Essential Hypertension,MESH:D000075222,0,,1,CYBB
+nuclear envelope,GO:0005635,Hypertension,MESH:D006973,0,,3,APOE|CYBB|MTOR
+nuclear envelope,GO:0005635,"Hypertension, Pulmonary",MESH:D006976,0,,1,ALOX5
+nuclear envelope lumen,GO:0005641,"Hypertension, Pulmonary",MESH:D006976,0,,1,ALOX5
+nuclear inner membrane,GO:0005637,Hypertension,MESH:D006973,0,,1,PTGS2
+nuclear matrix,GO:0016363,Hypertension,MESH:D006973,0,,5,AR|FOS|PRKCD|TP53|VDR
+nuclear matrix,GO:0016363,"Hypertension, Pulmonary",MESH:D006976,0,,1,ALOX5
+nuclear membrane,GO:0031965,Hypertension,MESH:D006973,0,,5,AQP1|BCL2|EDNRA|GCH1|HSD11B1
+nuclear membrane,GO:0031965,"Hypertension, Pulmonary",MESH:D006976,0,,2,ALOX5|EDNRB
+nuclear outer membrane,GO:0005640,Hypertension,MESH:D006973,0,,1,PTGS2
+nuclear speck,GO:0016607,Familial Primary Pulmonary Hypertension,MESH:D065627,0,,2,HDAC4|HDAC5
+nuclear speck,GO:0016607,Hypertension,MESH:D006973,0,,5,AR|CACNA1C|HIF1A|INPPL1|NR3C1
+nuclear speck,GO:0016607,"Hypertension, Pulmonary",MESH:D006976,0,,1,HIF1A
+nuclear speck,GO:0016607,Ocular Hypertension,MESH:D009798,0,,1,NR3C1
+nucleolus,GO:0005730,"Arterial Occlusive Disease, Progressive, with Hypertension, Heart Defects, Bone Fragility, and Brachysyndactyly",MESH:C566529,0,,1,YY1AP1
+nucleolus,GO:0005730,Hypertension,MESH:D006973,0,,3,NOX4|RGS2|TP53
+nucleolus,GO:0005730,"Hypertension, Pulmonary",MESH:D006976,0,,1,CA9
+nucleolus,GO:0005730,"PULMONARY HYPERTENSION, NEONATAL, SUSCEPTIBILITY TO",OMIM:615371,0,,1,CPS1
+nucleoplasm,GO:0005654,"Arterial Occlusive Disease, Progressive, with Hypertension, Heart Defects, Bone Fragility, and Brachysyndactyly",MESH:C566529,0,,1,YY1AP1
+nucleoplasm,GO:0005654,Essential Hypertension,MESH:D000075222,0,,3,ADD1|HMGB1|TLR2
+nucleoplasm,GO:0005654,Familial Primary Pulmonary Hypertension,MESH:D065627,0,,5,BMPR2|HDAC1|HDAC4|HDAC5|SMAD9
+nucleoplasm,GO:0005654,Hypertension,MESH:D006973,0,,38,ADD1|AHR|ANXA1|AR|ATP2B1|CACNA1C|CXCR2|DUSP5|FOS|GCH1|GJA1|GJC1|GSK3B|HIF1A|HMGB1|HMOX1|HTR2B|JUN|MTOR|NEDD4L|NFE2L2|NOS2|NR3C1|OLR1|PPARA|PPARG|PRKCD|PTEN|RALBP1|RELA|RPS6KB1|SCNN1G|SERPINE1|SOD1|STK11|STK39|TP53|VDR
+nucleoplasm,GO:0005654,"Hypertension, Early-Onset, Autosomal Dominant, with Severe Exacerbation in Pregnancy",MESH:C565359,0,,1,NR3C2
+nucleoplasm,GO:0005654,"Hypertension, Pulmonary",MESH:D006976,0,,8,ALOX5|BMPR2|BRD4|FOXO1|HIF1A|HTR2B|NFATC2|PRKG1
+nucleoplasm,GO:0005654,Ocular Hypertension,MESH:D009798,0,,2,DDIT3|NR3C1
+nucleoplasm,GO:0005654,Pulmonary Arterial Hypertension,MESH:D000081029,0,,2,AHR|BMPR2
+nucleosome,GO:0000786,Hypertension,MESH:D006973,0,,1,TGM2
+nucleus,GO:0005634,"Arterial Occlusive Disease, Progressive, with Hypertension, Heart Defects, Bone Fragility, and Brachysyndactyly",MESH:C566529,0,,1,YY1AP1
+nucleus,GO:0005634,Essential Hypertension,MESH:D000075222,0,,8,ADD1|AIF1|CALY|HMGB1|NOS3|PTGIS|TH|TJP1
+nucleus,GO:0005634,Familial Primary Pulmonary Hypertension,MESH:D065627,0,,4,HDAC1|HDAC4|HDAC5|SMAD9
+nucleus,GO:0005634,Hypertension,MESH:D006973,0,,61,ADD1|AGER|AGT|AHR|AIF1|ANXA1|AQP1|AR|BCL2|CBS|CRP|DUSP5|FOS|GCH1|GCLC|GJA1|GNAS|GRK2|GSK3B|GSTP1|GSTT1|GSTT2|HIF1A|HMGB1|HMOX1|IER3|IKBKB|INPPL1|INS2|JUN|KLK1|MMP2|MTOR|MYD88|NEDD4L|NFE2L2|NHERF2|NOS2|NOS3|NOX4|NPPA|NPPB|NR3C1|PPARA|PPARG|PRKCD|PTEN|RALBP1|RELA|RGS2|RPS6KB1|SOD1|STK11|STK39|TGFB1|TGM2|TH|TP53|TRH|VDR|WNK1
+nucleus,GO:0005634,"Hypertension, Early-Onset, Autosomal Dominant, with Severe Exacerbation in Pregnancy",MESH:C565359,0,,1,NR3C2
+nucleus,GO:0005634,"Hypertension, Malignant",MESH:D006974,0,,1,AGT
+nucleus,GO:0005634,"Hypertension, Portal",MESH:D006975,0,,2,NOS3|VEGFA
+nucleus,GO:0005634,"Hypertension, Pregnancy-Induced",MESH:D046110,0,,1,NOS3
+nucleus,GO:0005634,"Hypertension, Pulmonary",MESH:D006976,0,,10,ALOX5|ARG2|BRD4|EIF2AK4|FOXO1|HIF1A|LOX|NFATC2|NOS3|NPPB
+nucleus,GO:0005634,"Hypertension, Renal",MESH:D006977,0,,3,AGT|MYH9|NPPA
+nucleus,GO:0005634,"Hypertension, Renovascular",MESH:D006978,0,,1,NOS3
+nucleus,GO:0005634,Ocular Hypertension,MESH:D009798,0,,2,DDIT3|NR3C1
+nucleus,GO:0005634,Pulmonary Arterial Hypertension,MESH:D000081029,0,,1,AHR
+NuRD complex,GO:0016581,Familial Primary Pulmonary Hypertension,MESH:D065627,0,,1,HDAC1
+organelle membrane,GO:0031090,Essential Hypertension,MESH:D000075222,0,,1,ATP1B1
+organelle membrane,GO:0031090,Hypertension,MESH:D006973,0,,3,ATP1A1|ATP1A2|ITM2B
+parallel fiber,GO:1990032,Hypertension,MESH:D006973,0,,1,ATP2B3
+parallel fiber to Purkinje cell synapse,GO:0098688,Hypertension,MESH:D006973,0,,1,ATP2B3
+paraspeckles,GO:0042382,"Hypertension, Pulmonary",MESH:D006976,1,Paraquat,0,
+P-body,GO:0000932,Hypertension,MESH:D006973,2,Arsenic|sodium arsenite,0,
+P-body,GO:0000932,"Hypertension, Pregnancy-Induced",MESH:D046110,1,Arsenic,0,
+peptidase inhibitor complex,GO:1904090,Hypertension,MESH:D006973,0,,1,SERPINE1
+pericentric heterochromatin,GO:0005721,Essential Hypertension,MESH:D000075222,0,,1,ADD1
+pericentric heterochromatin,GO:0005721,Hypertension,MESH:D006973,0,,1,ADD1
+perikaryon,GO:0043204,Essential Hypertension,MESH:D000075222,0,,2,AIF1|TH
+perikaryon,GO:0043204,Hypertension,MESH:D006973,0,,11,AIF1|CACNA1C|CCL2|CRHR2|DRD2|GAL|GNRH1|KNG1|NPPA|TH|UCN
+perikaryon,GO:0043204,"Hypertension, Pulmonary",MESH:D006976,0,,2,ATP7A|CCL2
+perikaryon,GO:0043204,"Hypertension, Renal",MESH:D006977,0,,1,NPPA
+perikaryon,GO:0043204,Intracranial Hypertension,MESH:D019586,0,,1,SLC4A10
+perinuclear endoplasmic reticulum,GO:0097038,Essential Hypertension,MESH:D000075222,0,,2,CYBA|CYBB
+perinuclear endoplasmic reticulum,GO:0097038,Hypertension,MESH:D006973,0,,3,CYBA|CYBB|NOX4
+perinuclear region of cytoplasm,GO:0048471,Essential Hypertension,MESH:D000075222,0,,5,ADD1|AIF1|ECE1|TH|TLR4
+perinuclear region of cytoplasm,GO:0048471,Familial Primary Pulmonary Hypertension,MESH:D065627,0,,2,CAV1|HDAC1
+perinuclear region of cytoplasm,GO:0048471,Hypertension,MESH:D006973,0,,25,ADD1|ADIPOQ|AGTR2|AIF1|BCL2|CAV1|CCL2|CCN2|ECE1|GAD1|GCLC|GNAS|GSK3B|HMOX1|NOS2|NOX4|NPPA|NPPB|PPARG|PRKCD|RPS6KB1|TGM2|TH|TLR4|VDR
+perinuclear region of cytoplasm,GO:0048471,"Hypertension, Pulmonary",MESH:D006976,0,,7,ALOX5|ATP7A|CCL2|KCNA5|KCNMA1|NPPB|TGFA
+perinuclear region of cytoplasm,GO:0048471,"Hypertension, Renal",MESH:D006977,0,,1,NPPA
+perisynaptic space,GO:0099544,Hypertension,MESH:D006973,0,,1,PLAT
+peroxisomal matrix,GO:0005782,Hypertension,MESH:D006973,0,,3,CAT|NOS2|POMC
+peroxisomal membrane,GO:0005778,Familial Primary Pulmonary Hypertension,MESH:D065627,0,,1,CAV1
+peroxisomal membrane,GO:0005778,Hypertension,MESH:D006973,0,,3,CAT|CAV1|FNDC5
+peroxisome,GO:0005777,Hypertension,MESH:D006973,1,perfluorooctane sulfonic acid,5,AOC1|CAT|MDH1|NOS2|SOD1
+phagocytic cup,GO:0001891,Essential Hypertension,MESH:D000075222,0,,3,AIF1|TLR4|TNF
+phagocytic cup,GO:0001891,Hypertension,MESH:D006973,1,bisphenol A,5,AGER|AIF1|ANXA1|TLR4|TNF
+phagocytic cup,GO:0001891,"Hypertension, Pregnancy-Induced",MESH:D046110,1,bisphenol A,0,
+phagocytic cup,GO:0001891,"Hypertension, Pulmonary",MESH:D006976,0,,1,TNF
+phagocytic vesicle,GO:0045335,Essential Hypertension,MESH:D000075222,0,,1,CYBB
+phagocytic vesicle,GO:0045335,Hypertension,MESH:D006973,0,,3,CD36|CYBB|MTOR
+phagocytic vesicle,GO:0045335,"Hypertension, Renal",MESH:D006977,0,,1,MYH9
+phagocytic vesicle lumen,GO:0097013,Hypertension,MESH:D006973,0,,1,LTF
+phagocytic vesicle membrane,GO:0030670,Essential Hypertension,MESH:D000075222,0,,3,CYBA|CYBB|TLR2
+phagocytic vesicle membrane,GO:0030670,Hypertension,MESH:D006973,0,,2,CYBA|CYBB
+phagocytic vesicle membrane,GO:0030670,"Hypertension, Pulmonary",MESH:D006976,0,,1,ATP7A
+phagolysosome,GO:0032010,Essential Hypertension,MESH:D000075222,0,,1,NCF1
+phagolysosome,GO:0032010,Hypertension,MESH:D006973,0,,1,NCF1
+phagophore,GO:0061908,"Hypertension, Pulmonary",MESH:D006976,1,Paraquat,0,
+photoreceptor inner segment membrane,GO:0060342,Hypertension,MESH:D006973,0,,1,ATP1A1
+photoreceptor outer segment,GO:0001750,"Hypertension, Pulmonary",MESH:D006976,0,,1,CD40LG
+photoreceptor ribbon synapse,GO:0098684,Hypertension,MESH:D006973,0,,1,ATP2B1
+pituitary gonadotropin complex,GO:0061696,Hypertension,MESH:D006973,0,,1,LHB
+plasma membrane,GO:0005886,Essential Hypertension,MESH:D000075222,0,,21,ADD1|AGTR1|AIF1|ATP1B1|CALY|CYBA|CYBB|ECE1|FFAR2|FFAR3|GNB3|HCAR3|HMGB1|NCF1|NOS3|OCLN|RGS5|TJP1|TLR2|TLR4|TNF
+plasma membrane,GO:0005886,Familial Primary Pulmonary Hypertension,MESH:D065627,0,,3,BMPR2|CAV1|KCNK3
+plasma membrane,GO:0005886,Hypertension,MESH:D006973,0,,113,ABCC1|ACE|ACE2|ADCY5|ADD1|ADRA2A|ADRB1|AGER|AGTR1|AGTR1B|AGTR2|AIF1|ALOX15|ANXA1|AOC1|AOC3|APOA1|APOE|AQP1|AR|ATP1A1|ATP1A2|ATP2B1|ATP2B3|BDKRB2|CACNA1C|CACNA2D1|CAV1|CCN2|CD36|CLCNKA|CRHR2|CXCR2|CYBA|CYBB|DRD2|ECE1|EDNRA|F11|F12|FN1|FNDC5|FXYD2|GAD1|GCG|GJA1|GJA4|GJA5|GJC1|GLP1R|GNAS|GNB3|GP1BA|GRK2|GSK3B|HMGB1|HRH2|HRH3|HTR2B|ICAM1|IGF1|INPPL1|ITM2B|KCNJ1|KCNMB1|KNG1|LEPR|LPL|LTF|MC2R|MMP2|MTOR|MYD88|NCF1|NEDD4L|NFE2L2|NHERF2|NOS3|NOX4|NPR1|NPTN|OLR1|ORAI1|PLG|PRKCD|PTEN|PTPN1|RALBP1|REN|RGS2|RGS5|SCNN1A|SCNN1B|SCNN1G|SELP|SERPINE1|SLC12A2|SLC12A3|SLC6A18|SLC6A2|SOD1|STIM1|TACR1|TGFB1|TGM2|TLR3|TLR4|TNF|TRPC3|TRPC5|UMOD|VAV3|VCAM1
+plasma membrane,GO:0005886,"Hypertension, Diastolic, Resistance to",MESH:C563897,0,,1,KCNMB1
+plasma membrane,GO:0005886,"Hypertension, Malignant",MESH:D006974,0,,1,REN
+plasma membrane,GO:0005886,"Hypertension, Portal",MESH:D006975,0,,2,NOS3|VEGFA
+plasma membrane,GO:0005886,"Hypertension, Pregnancy-Induced",MESH:D046110,0,,1,NOS3
+plasma membrane,GO:0005886,"Hypertension, Pulmonary",MESH:D006976,0,,20,ABCA3|ACE|ACE2|ACVRL1|ATP7A|BMPR2|CA9|CD40LG|EDNRB|HTR2B|KCNA5|KCNK3|KCNMA1|LEPR|NOS3|PRKG1|SLC31A1|SLC6A4|TGFA|TNF
+plasma membrane,GO:0005886,"Hypertension, Renal",MESH:D006977,0,,1,MYH9
+plasma membrane,GO:0005886,"Hypertension, Renovascular",MESH:D006978,0,,1,NOS3
+plasma membrane,GO:0005886,Intracranial Hypertension,MESH:D019586,0,,1,SLC4A10
+plasma membrane,GO:0005886,Ocular Hypertension,MESH:D009798,0,,1,MMP1
+plasma membrane,GO:0005886,Pulmonary Arterial Hypertension,MESH:D000081029,0,,1,BMPR2
+plasma membrane,GO:0005886,"PULMONARY HYPERTENSION, NEONATAL, SUSCEPTIBILITY TO",OMIM:615371,0,,1,CPS1
+plasma membrane raft,GO:0044853,Hypertension,MESH:D006973,0,,2,ORAI1|STIM1
+plasma membrane region,GO:0098590,Familial Primary Pulmonary Hypertension,MESH:D065627,0,,1,BMPR2
+plasma membrane region,GO:0098590,"Hypertension, Pulmonary",MESH:D006976,0,,1,BMPR2
+plasma membrane region,GO:0098590,Pulmonary Arterial Hypertension,MESH:D000081029,0,,1,BMPR2
+platelet alpha granule,GO:0031091,Hypertension,MESH:D006973,0,,3,IGF1|PPBP|VWF
+platelet alpha granule lumen,GO:0031093,Hypertension,MESH:D006973,0,,10,ALB|FN1|IGF1|KNG1|PLG|PPBP|SERPINE1|TGFB1|TIMP1|VWF
+platelet alpha granule lumen,GO:0031093,"Hypertension, Portal",MESH:D006975,0,,1,VEGFA
+platelet alpha granule membrane,GO:0031092,Hypertension,MESH:D006973,0,,2,CD36|SELP
+platelet dense granule membrane,GO:0031088,Hypertension,MESH:D006973,0,,1,SELP
+PML body,GO:0016605,Hypertension,MESH:D006973,0,,3,MTOR|PTEN|TP53
+podosome,GO:0002102,Essential Hypertension,MESH:D000075222,0,,1,TJP1
+podosome,GO:0002102,Hypertension,MESH:D006973,0,,1,VCAM1
+podosome,GO:0002102,Ocular Hypertension,MESH:D009798,0,,1,SH3PXD2B
+polysome,GO:0005844,Hypertension,MESH:D006973,1,sodium arsenite,0,
+polytene chromosome,GO:0005700,Essential Hypertension,MESH:D000075222,0,,1,ADD1
+polytene chromosome,GO:0005700,Familial Primary Pulmonary Hypertension,MESH:D065627,0,,1,HDAC1
+polytene chromosome,GO:0005700,Hypertension,MESH:D006973,0,,1,ADD1
+polytene chromosome band,GO:0005704,Essential Hypertension,MESH:D000075222,0,,1,ADD1
+polytene chromosome band,GO:0005704,Hypertension,MESH:D006973,0,,1,ADD1
+polytene chromosome chromocenter,GO:0005701,Essential Hypertension,MESH:D000075222,0,,1,ADD1
+polytene chromosome chromocenter,GO:0005701,Hypertension,MESH:D006973,0,,1,ADD1
+polytene chromosome interband,GO:0005705,Essential Hypertension,MESH:D000075222,0,,1,ADD1
+polytene chromosome interband,GO:0005705,Familial Primary Pulmonary Hypertension,MESH:D065627,0,,1,HDAC1
+polytene chromosome interband,GO:0005705,Hypertension,MESH:D006973,0,,1,ADD1
+pore complex,GO:0046930,Hypertension,MESH:D006973,0,,1,BCL2
+postsynapse,GO:0098794,Hypertension,MESH:D006973,0,,9,ADRB1|AGER|GRK2|GSK3B|IGF1|NEDD4L|PLAT|PTPN1|RPS6KB1
+postsynapse,GO:0098794,Intracranial Hypertension,MESH:D019586,0,,1,SLC4A10
+postsynaptic cytosol,GO:0099524,Hypertension,MESH:D006973,0,,3,MTOR|PRKCD|PTEN
+postsynaptic density,GO:0014069,Essential Hypertension,MESH:D000075222,0,,1,ADD1
+postsynaptic density,GO:0014069,Familial Primary Pulmonary Hypertension,MESH:D065627,0,,1,BMPR2
+postsynaptic density,GO:0014069,Hypertension,MESH:D006973,1,lead acetate,7,ADD1|ATP1A1|CACNA1C|GRK2|GSK3B|NPTN|PTEN
+postsynaptic density,GO:0014069,"Hypertension, Pulmonary",MESH:D006976,0,,2,ATP7A|BMPR2
+postsynaptic density,GO:0014069,Pulmonary Arterial Hypertension,MESH:D000081029,0,,1,BMPR2
+"postsynaptic density, intracellular component",GO:0099092,Hypertension,MESH:D006973,0,,2,MMP9|NR3C1
+"postsynaptic density, intracellular component",GO:0099092,"Hypertension, Early-Onset, Autosomal Dominant, with Severe Exacerbation in Pregnancy",MESH:C565359,0,,1,NR3C2
+"postsynaptic density, intracellular component",GO:0099092,Ocular Hypertension,MESH:D009798,0,,1,NR3C1
+postsynaptic density membrane,GO:0098839,Hypertension,MESH:D006973,0,,3,ADRA2A|CACNA1C|NPTN
+postsynaptic endocytic zone,GO:0098843,Essential Hypertension,MESH:D000075222,0,,1,CALY
+postsynaptic membrane,GO:0045211,Hypertension,MESH:D006973,0,,7,ADRA2A|CACNA1C|CACNA2D1|DRD2|NPTN|PTEN|TACR1
+postsynaptic membrane,GO:0045211,"Hypertension, Pulmonary",MESH:D006976,0,,2,KCNMA1|SLC6A4
+potassium channel complex,GO:0034705,"Hypertension, Pulmonary",MESH:D006976,0,,1,KCNA5
+PR-DUB complex,GO:0035517,Essential Hypertension,MESH:D000075222,0,,1,CALY
+presynapse,GO:0098793,Hypertension,MESH:D006973,1,Methamphetamine,6,ATP2B3|GAD1|GRK2|GSK3B|HRH3|TRPC5
+presynapse,GO:0098793,"Hypertension, Early-Onset, Autosomal Dominant, with Severe Exacerbation in Pregnancy",MESH:C565359,0,,1,NR3C2
+presynapse,GO:0098793,"Hypertension, Pulmonary",MESH:D006976,1,Methamphetamine,0,
+presynaptic active zone,GO:0048786,Hypertension,MESH:D006973,0,,1,GAD1
+presynaptic active zone cytoplasmic component,GO:0098831,"Hypertension, Early-Onset, Autosomal Dominant, with Severe Exacerbation in Pregnancy",MESH:C565359,0,,1,NR3C2
+presynaptic active zone membrane,GO:0048787,Hypertension,MESH:D006973,0,,4,ADRA2A|ATP2B1|CACNA2D1|NPTN
+presynaptic active zone membrane,GO:0048787,"Hypertension, Pulmonary",MESH:D006976,0,,1,KCNMA1
+presynaptic membrane,GO:0042734,Hypertension,MESH:D006973,0,,6,ATP2B1|ATP2B3|CACNA1C|DRD2|NPTN|SLC6A2
+presynaptic membrane,GO:0042734,"Hypertension, Pulmonary",MESH:D006976,0,,1,SLC6A4
+proteasome core complex,GO:0005839,Essential Hypertension,MESH:D000075222,1,Curcumin,0,
+proteasome core complex,GO:0005839,Hypertension,MESH:D006973,2,Curcumin|Thioctic Acid,0,
+protein-containing complex,GO:0032991,Essential Hypertension,MESH:D000075222,0,,3,OCLN|TJP1|TNF
+protein-containing complex,GO:0032991,Familial Primary Pulmonary Hypertension,MESH:D065627,0,,4,CAV1|HDAC1|HDAC4|HDAC5
+protein-containing complex,GO:0032991,Hypertension,MESH:D006973,0,,38,ADIPOQ|AHR|ALB|ANXA1|AR|ATP1A1|ATP1A2|BCL2|CACNA1C|CAT|CAV1|CD36|GCH1|GJA1|GSK3B|GSTP1|GUCY1A1|HIF1A|JUN|KLK1|LTF|MMP9|MTOR|MYD88|NHERF2|NPPA|NPPB|NR3C1|PTGS2|PTPN1|RELA|SOD1|STK11|TNF|TP53|TPM1|WNK1|WNK4
+protein-containing complex,GO:0032991,"Hypertension, Pulmonary",MESH:D006976,0,,4,HIF1A|KCNMA1|NPPB|TNF
+protein-containing complex,GO:0032991,"Hypertension, Renal",MESH:D006977,0,,2,MYH9|NPPA
+protein-containing complex,GO:0032991,Ocular Hypertension,MESH:D009798,0,,1,NR3C1
+protein-containing complex,GO:0032991,Pulmonary Arterial Hypertension,MESH:D000081029,0,,1,AHR
+protein-containing complex,GO:0032991,"PULMONARY HYPERTENSION, NEONATAL, SUSCEPTIBILITY TO",OMIM:615371,0,,1,CPS1
+protein-DNA complex,GO:0032993,Hypertension,MESH:D006973,0,,2,FOS|NFE2L2
+protein-DNA complex,GO:0032993,Ocular Hypertension,MESH:D009798,0,,1,DDIT3
+pseudopodium,GO:0031143,Hypertension,MESH:D006973,1,Mercury,0,
+pseudopodium,GO:0031143,"Hypertension, Pulmonary",MESH:D006976,1,Copper Sulfate,0,
+receptor complex,GO:0043235,Essential Hypertension,MESH:D000075222,0,,2,TLR2|TLR4
+receptor complex,GO:0043235,Familial Primary Pulmonary Hypertension,MESH:D065627,0,,1,BMPR2
+receptor complex,GO:0043235,Hypertension,MESH:D006973,0,,8,ADRA2A|CD36|LEPR|NPR1|OLR1|PPARG|TLR4|VDR
+receptor complex,GO:0043235,"Hypertension, Early-Onset, Autosomal Dominant, with Severe Exacerbation in Pregnancy",MESH:C565359,0,,1,NR3C2
+receptor complex,GO:0043235,"Hypertension, Pulmonary",MESH:D006976,0,,2,BMPR2|LEPR
+receptor complex,GO:0043235,Pulmonary Arterial Hypertension,MESH:D000081029,0,,1,BMPR2
+recycling endosome,GO:0055037,Essential Hypertension,MESH:D000075222,0,,1,TNF
+recycling endosome,GO:0055037,Hypertension,MESH:D006973,0,,4,GNAS|LTF|TNF|VCAM1
+recycling endosome,GO:0055037,"Hypertension, Pulmonary",MESH:D006976,0,,2,SLC31A1|TNF
+recycling endosome membrane,GO:0055038,"Hypertension, Pulmonary",MESH:D006976,0,,1,SLC31A1
+replication fork,GO:0005657,Hypertension,MESH:D006973,0,,1,TP53
+ribonucleoprotein complex,GO:1990904,Hypertension,MESH:D006973,0,,1,GSK3B
+ribonucleoprotein complex,GO:1990904,"Hypertension, Pulmonary",MESH:D006976,0,,1,NFATC2
+ribosome,GO:0005840,Brachydactyly with hypertension,MESH:C537095,0,,1,PDE3A
+ribosome,GO:0005840,Hypertension,MESH:D006973,0,,1,RPS6KB1
+ribosome,GO:0005840,"HYPERURICEMIA, PULMONARY HYPERTENSION, RENAL FAILURE, AND ALKALOSIS SYNDROME",OMIM:613845,0,,1,SARS2
+ripoptosome,GO:0097342,Hypertension,MESH:D006973,3,Ethanol|Metformin|Simvastatin,0,
+ripoptosome,GO:0097342,"Hypertension, Pulmonary",MESH:D006976,1,Simvastatin,0,
+RISC complex,GO:0016442,"Hypertension, Pulmonary",MESH:D006976,0,,1,MIR204
+RNA polymerase II transcription regulator complex,GO:0090575,Hypertension,MESH:D006973,0,,7,FOS|HIF1A|JUN|NFE2L2|PPARG|TP53|VDR
+RNA polymerase II transcription regulator complex,GO:0090575,"Hypertension, Pulmonary",MESH:D006976,0,,1,HIF1A
+RNA polymerase II transcription regulator complex,GO:0090575,Ocular Hypertension,MESH:D009798,0,,1,DDIT3
+RNA polymerase II transcription repressor complex,GO:0090571,Familial Primary Pulmonary Hypertension,MESH:D065627,0,,1,HDAC5
+rough endoplasmic reticulum,GO:0005791,Hypertension,MESH:D006973,1,Carbon Monoxide,1,F12
+rough endoplasmic reticulum lumen,GO:0048237,Hypertension,MESH:D006973,0,,1,EDN1
+rough endoplasmic reticulum lumen,GO:0048237,"Hypertension, Pulmonary",MESH:D006976,0,,1,EDN1
+ruffle,GO:0001726,Essential Hypertension,MESH:D000075222,0,,2,AIF1|TLR4
+ruffle,GO:0001726,Hypertension,MESH:D006973,0,,3,AIF1|GNAS|TLR4
+ruffle,GO:0001726,"Hypertension, Renal",MESH:D006977,0,,1,MYH9
+ruffle membrane,GO:0032587,Essential Hypertension,MESH:D000075222,0,,1,AIF1
+ruffle membrane,GO:0032587,Hypertension,MESH:D006973,0,,2,AIF1|TPM1
+sarcolemma,GO:0042383,Essential Hypertension,MESH:D000075222,0,,2,ATP1B1|NOS3
+sarcolemma,GO:0042383,Familial Primary Pulmonary Hypertension,MESH:D065627,0,,1,CAV1
+sarcolemma,GO:0042383,Hypertension,MESH:D006973,0,,12,ADCY5|ALOX15|ANXA1|AQP1|ATP1A1|ATP1A2|CACNA1C|CAV1|CD36|GNAS|NOS3|VCAM1
+sarcolemma,GO:0042383,"Hypertension, Portal",MESH:D006975,0,,1,NOS3
+sarcolemma,GO:0042383,"Hypertension, Pregnancy-Induced",MESH:D046110,0,,1,NOS3
+sarcolemma,GO:0042383,"Hypertension, Pulmonary",MESH:D006976,0,,3,ALOX5|NOS3|PRKG1
+sarcolemma,GO:0042383,"Hypertension, Renovascular",MESH:D006978,0,,1,NOS3
+sarcomere,GO:0030017,Familial Primary Pulmonary Hypertension,MESH:D065627,0,,1,HDAC4
+sarcomere,GO:0030017,Hypertension,MESH:D006973,0,,3,MMP2|MYH7|TPM1
+sarcoplasm,GO:0016528,"Hypertension, Pulmonary",MESH:D006976,0,,1,KCNMA1
+sarcoplasmic reticulum,GO:0016529,Hypertension,MESH:D006973,0,,2,CACNA2D1|NOX4
+sarcoplasmic reticulum membrane,GO:0033017,Hypertension,MESH:D006973,0,,1,STIM1
+Schaffer collateral - CA1 synapse,GO:0098685,Hypertension,MESH:D006973,0,,7,ADRB1|GSK3B|MMP9|NPTN|PLAT|PLG|RALBP1
+Schmidt-Lanterman incisure,GO:0043220,Hypertension,MESH:D006973,0,,1,PTEN
+secretory granule,GO:0030141,Essential Hypertension,MESH:D000075222,0,,4,CYBA|ECE1|IL1B|TNF
+secretory granule,GO:0030141,Hypertension,MESH:D006973,0,,18,AVP|CMA1|COL1A1|CYBA|ECE1|GAL|IL1B|INS2|KLK1|LTF|OXT|PLAT|POMC|REG3G|SOD1|TGFB1|TNF|TRH
+secretory granule,GO:0030141,"Hypertension, Portal",MESH:D006975,0,,2,AVP|VEGFA
+secretory granule,GO:0030141,"Hypertension, Pulmonary",MESH:D006976,0,,2,ATP7A|TNF
+secretory granule,GO:0030141,"HYPERURICEMIA, PULMONARY HYPERTENSION, RENAL FAILURE, AND ALKALOSIS SYNDROME",OMIM:613845,0,,1,SARS2
+secretory granule lumen,GO:0034774,Essential Hypertension,MESH:D000075222,0,,1,HMGB1
+secretory granule lumen,GO:0034774,Hypertension,MESH:D006973,0,,9,ALAD|APOA1|CAT|GCG|GSTP1|HMGB1|INS|INS2|POMC
+secretory granule lumen,GO:0034774,"Hypertension, Pulmonary",MESH:D006976,0,,1,ALOX5
+secretory granule membrane,GO:0030667,Essential Hypertension,MESH:D000075222,0,,1,TLR2
+secretory granule membrane,GO:0030667,Hypertension,MESH:D006973,0,,2,CXCR2|MOXD2
+serine protease inhibitor complex,GO:0097180,Hypertension,MESH:D006973,0,,2,PLAT|SERPINE1
+serine/threonine protein kinase complex,GO:1902554,Hypertension,MESH:D006973,0,,2,MTOR|STK11
+serotonergic synapse,GO:0099154,"Hypertension, Pulmonary",MESH:D006976,0,,1,SLC6A4
+side of membrane,GO:0098552,Hypertension,MESH:D006973,0,,1,UMOD
+Sin3-type complex,GO:0070822,Familial Primary Pulmonary Hypertension,MESH:D065627,0,,1,HDAC1
+site of double-strand break,GO:0035861,Essential Hypertension,MESH:D000075222,1,Curcumin,0,
+site of double-strand break,GO:0035861,Hypertension,MESH:D006973,3,8-Hydroxy-2'-Deoxyguanosine|Curcumin|Cyclosporine,1,TP53
+site of double-strand break,GO:0035861,"Hypertension, Renal",MESH:D006977,1,Cyclosporine,0,
+SMAD protein complex,GO:0071141,Familial Primary Pulmonary Hypertension,MESH:D065627,0,,1,SMAD9
+small ribosomal subunit,GO:0015935,Hypertension,MESH:D006973,1,sodium arsenite,0,
+small ribosomal subunit,GO:0015935,"HYPERURICEMIA, PULMONARY HYPERTENSION, RENAL FAILURE, AND ALKALOSIS SYNDROME",OMIM:613845,0,,1,SARS2
+smooth endoplasmic reticulum,GO:0005790,Essential Hypertension,MESH:D000075222,0,,1,TH
+smooth endoplasmic reticulum,GO:0005790,Hypertension,MESH:D006973,0,,1,TH
+SNARE complex,GO:0031201,Hypertension,MESH:D006973,0,,1,SCNN1A
+sno(s)RNA-containing ribonucleoprotein complex,GO:0005732,Hypertension,MESH:D006973,0,,1,INS2
+sodium channel complex,GO:0034706,Hypertension,MESH:D006973,0,,3,SCNN1A|SCNN1B|SCNN1G
+sodium:potassium-exchanging ATPase complex,GO:0005890,Essential Hypertension,MESH:D000075222,0,,1,ATP1B1
+sodium:potassium-exchanging ATPase complex,GO:0005890,Hypertension,MESH:D006973,0,,3,ATP1A1|ATP1A2|FXYD2
+somatodendritic compartment,GO:0036477,Intracranial Hypertension,MESH:D019586,0,,1,SLC4A10
+sorting endosome,GO:0097443,Hypertension,MESH:D006973,0,,1,PTPN1
+specific granule,GO:0042581,Hypertension,MESH:D006973,0,,1,LTF
+specific granule lumen,GO:0035580,Hypertension,MESH:D006973,0,,3,AOC1|HP|LTF
+specific granule lumen,GO:0035580,"Hypertension, Pregnancy-Induced",MESH:D046110,0,,1,HP
+specific granule membrane,GO:0035579,Essential Hypertension,MESH:D000075222,0,,2,CYBA|CYBB
+specific granule membrane,GO:0035579,Hypertension,MESH:D006973,0,,4,CD36|CYBA|CYBB|OLR1
+sperm flagellum,GO:0036126,Essential Hypertension,MESH:D000075222,0,,1,ATP1B1
+sperm flagellum,GO:0036126,Hypertension,MESH:D006973,2,bisphenol A|Cisplatin,3,ATP1A1|DRD2|TACR1
+sperm flagellum,GO:0036126,"Hypertension, Pregnancy-Induced",MESH:D046110,1,bisphenol A,0,
+sperm flagellum,GO:0036126,"Hypertension, Renovascular",MESH:D006978,1,Cisplatin,0,
+sperm head,GO:0061827,Hypertension,MESH:D006973,2,bisphenol A|Cisplatin,1,TACR1
+sperm head,GO:0061827,"Hypertension, Pregnancy-Induced",MESH:D046110,1,bisphenol A,0,
+sperm head,GO:0061827,"Hypertension, Renovascular",MESH:D006978,1,Cisplatin,0,
+sperm head plasma membrane,GO:1990913,Hypertension,MESH:D006973,1,bisphenol A,0,
+sperm head plasma membrane,GO:1990913,"Hypertension, Pregnancy-Induced",MESH:D046110,1,bisphenol A,0,
+sperm midpiece,GO:0097225,Hypertension,MESH:D006973,1,Cisplatin,2,ACE|TACR1
+sperm midpiece,GO:0097225,"Hypertension, Pulmonary",MESH:D006976,0,,1,ACE
+sperm midpiece,GO:0097225,"Hypertension, Renovascular",MESH:D006978,1,Cisplatin,0,
+sperm principal piece,GO:0097228,Hypertension,MESH:D006973,0,,1,SCNN1A
+spherical high-density lipoprotein particle,GO:0034366,Hypertension,MESH:D006973,0,,2,APOA1|HP
+spherical high-density lipoprotein particle,GO:0034366,"Hypertension, Pregnancy-Induced",MESH:D046110,0,,1,HP
+spindle,GO:0005819,Hypertension,MESH:D006973,0,,1,NR3C1
+spindle,GO:0005819,"Hypertension, Renal",MESH:D006977,0,,1,MYH9
+spindle,GO:0005819,Ocular Hypertension,MESH:D009798,0,,1,NR3C1
+spindle pole,GO:0000922,Hypertension,MESH:D006973,0,,3,INPPL1|RALBP1|UMOD
+stereocilium,GO:0032420,Hypertension,MESH:D006973,0,,1,NHERF2
+stereocilium bundle,GO:0032421,Hypertension,MESH:D006973,0,,1,NHERF2
+stress fiber,GO:0001725,Essential Hypertension,MESH:D000075222,0,,1,CYBA
+stress fiber,GO:0001725,Hypertension,MESH:D006973,0,,4,CYBA|MYH7|NOX4|TPM1
+stress fiber,GO:0001725,"Hypertension, Renal",MESH:D006977,0,,1,MYH9
+SUMO ligase complex,GO:0106068,Hypertension,MESH:D006973,0,,1,PPARG
+synapse,GO:0045202,Essential Hypertension,MESH:D000075222,1,Curcumin,1,ADD1
+synapse,GO:0045202,Familial Primary Pulmonary Hypertension,MESH:D065627,0,,1,KCNK3
+synapse,GO:0045202,Hypertension,MESH:D006973,3,Curcumin|sodium arsenite|Sodium Fluoride,16,ADD1|CACNA1C|DRD2|GAD1|GJC1|HRH2|HRH3|HTR2B|KCNMB1|NR3C1|ORAI1|PTEN|RELA|RPS6KB1|STIM1|UTS2
+synapse,GO:0045202,"Hypertension, Diastolic, Resistance to",MESH:C563897,0,,1,KCNMB1
+synapse,GO:0045202,"Hypertension, Pulmonary",MESH:D006976,0,,4,CBLN2|HTR2B|KCNK3|SLC6A4
+synapse,GO:0045202,Intracranial Hypertension,MESH:D019586,0,,1,SLC4A10
+synapse,GO:0045202,Ocular Hypertension,MESH:D009798,0,,1,NR3C1
+synaptic cleft,GO:0043083,Hypertension,MESH:D006973,0,,1,APOE
+synaptic cleft,GO:0043083,"Hypertension, Pulmonary",MESH:D006976,0,,1,CBLN2
+synaptic membrane,GO:0097060,Hypertension,MESH:D006973,0,,2,ANXA1|NPTN
+synaptic vesicle,GO:0008021,Essential Hypertension,MESH:D000075222,0,,1,TH
+synaptic vesicle,GO:0008021,Hypertension,MESH:D006973,1,lead acetate,2,GNAS|TH
+synaptic vesicle membrane,GO:0030672,Hypertension,MESH:D006973,0,,3,ATP2B1|DRD2|SLC6A2
+telopode,GO:0120327,Hypertension,MESH:D006973,2,Arsenic|sodium arsenite,0,
+telopode,GO:0120327,"Hypertension, Pregnancy-Induced",MESH:D046110,1,Arsenic,0,
+terminal bouton,GO:0043195,Essential Hypertension,MESH:D000075222,0,,1,TH
+terminal bouton,GO:0043195,Hypertension,MESH:D006973,0,,3,CALCA|OXT|TH
+terminal bouton,GO:0043195,"Hypertension, Pulmonary",MESH:D006976,0,,2,CALCA|KCNMA1
+tertiary granule lumen,GO:1904724,Hypertension,MESH:D006973,0,,4,HP|LTF|MMP9|PPBP
+tertiary granule lumen,GO:1904724,"Hypertension, Pregnancy-Induced",MESH:D046110,0,,1,HP
+tertiary granule membrane,GO:0070821,Essential Hypertension,MESH:D000075222,0,,2,CYBA|CYBB
+tertiary granule membrane,GO:0070821,Hypertension,MESH:D006973,0,,3,CYBA|CYBB|OLR1
+tight junction,GO:0070160,Essential Hypertension,MESH:D000075222,0,,2,OCLN|TJP1
+tight junction,GO:0070160,Hypertension,MESH:D006973,0,,1,GJA1
+Toll-like receptor 1-Toll-like receptor 2 protein complex,GO:0035354,Essential Hypertension,MESH:D000075222,0,,1,TLR2
+Toll-like receptor 2-Toll-like receptor 6 protein complex,GO:0035355,Essential Hypertension,MESH:D000075222,0,,1,TLR2
+TORC1 complex,GO:0031931,Hypertension,MESH:D006973,0,,1,MTOR
+TORC2 complex,GO:0031932,Hypertension,MESH:D006973,0,,1,MTOR
+TRAF2-GSTP1 complex,GO:0097057,Hypertension,MESH:D006973,0,,1,GSTP1
+transcription elongation factor complex,GO:0008023,Essential Hypertension,MESH:D000075222,0,,1,OCLN
+transcription factor AP-1 complex,GO:0035976,Hypertension,MESH:D006973,2,Bleomycin|SB 203580,2,FOS|JUN
+transcription factor AP-1 complex,GO:0035976,"Hypertension, Pulmonary",MESH:D006976,1,Bleomycin,1,NFATC2
+transcription factor AP-1 complex,GO:0035976,"Hypertension, Renovascular",MESH:D006978,1,Bleomycin,0,
+transcription regulator complex,GO:0005667,Familial Primary Pulmonary Hypertension,MESH:D065627,0,,2,HDAC1|SMAD9
+transcription regulator complex,GO:0005667,Hypertension,MESH:D006973,0,,7,AHR|FOS|HIF1A|JUN|NFE2L2|RELA|TP53
+transcription regulator complex,GO:0005667,"Hypertension, Pulmonary",MESH:D006976,0,,2,HIF1A|NFATC2
+transcription regulator complex,GO:0005667,Ocular Hypertension,MESH:D009798,0,,1,DDIT3
+transcription regulator complex,GO:0005667,Pulmonary Arterial Hypertension,MESH:D000081029,0,,1,AHR
+transcription repressor complex,GO:0017053,Essential Hypertension,MESH:D000075222,0,,1,HMGB1
+transcription repressor complex,GO:0017053,Familial Primary Pulmonary Hypertension,MESH:D065627,0,,2,HDAC1|HDAC4
+transcription repressor complex,GO:0017053,Hypertension,MESH:D006973,0,,3,HMGB1|JUN|TP53
+trans-Golgi network,GO:0005802,"Hypertension, Pulmonary",MESH:D006976,0,,2,ATP7A|GBA1
+trans-Golgi network membrane,GO:0032588,Hypertension,MESH:D006973,0,,1,GNAS
+trans-Golgi network membrane,GO:0032588,"Hypertension, Pulmonary",MESH:D006976,0,,1,ATP7A
+trans-Golgi network transport vesicle,GO:0030140,"Hypertension, Pulmonary",MESH:D006976,0,,1,ATP7A
+translation initiation complex,GO:0070992,Hypertension,MESH:D006973,1,bisphenol A,0,
+translation initiation complex,GO:0070992,"Hypertension, Pregnancy-Induced",MESH:D046110,1,bisphenol A,0,
+transport vesicle,GO:0030133,Hypertension,MESH:D006973,0,,3,EDN1|GNAS|INS
+transport vesicle,GO:0030133,"Hypertension, Pulmonary",MESH:D006976,0,,1,EDN1
+trans-synaptic protein complex,GO:0098820,"Hypertension, Pulmonary",MESH:D006976,0,,1,CBLN2
+tRNA-intron endonuclease complex,GO:0000214,Hypertension,MESH:D006973,0,,1,PPARG
+T-tubule,GO:0030315,Essential Hypertension,MESH:D000075222,0,,1,ATP1B1
+T-tubule,GO:0030315,Hypertension,MESH:D006973,0,,6,ATP1A1|ATP1A2|CACNA1C|CACNA2D1|EDNRA|VDR
+tubulin complex,GO:0045298,Hypertension,MESH:D006973,1,Particulate Matter,0,
+tubulin complex,GO:0045298,Pulmonary Arterial Hypertension,MESH:D000081029,1,Particulate Matter,0,
+uropod,GO:0001931,"Hypertension, Renal",MESH:D006977,0,,1,MYH9
+vacuole,GO:0005773,Hypertension,MESH:D006973,0,,1,GAL
+varicosity,GO:0043196,Hypertension,MESH:D006973,0,,2,CRHR2|UCN
+VEGF-A complex,GO:1990150,"Hypertension, Portal",MESH:D006975,0,,1,VEGFA
+very-low-density lipoprotein particle,GO:0034361,Hypertension,MESH:D006973,0,,3,APOA1|APOE|LPL
+very-low-density lipoprotein particle,GO:0034361,"Hypertension, Pulmonary",MESH:D006976,1,chrysin,0,
+vesicle,GO:0031982,Essential Hypertension,MESH:D000075222,0,,2,ECE1|IL1B
+vesicle,GO:0031982,Hypertension,MESH:D006973,0,,5,ACE|CETP|ECE1|IL1B|SLC12A3
+vesicle,GO:0031982,"Hypertension, Portal",MESH:D006975,0,,1,VEGFA
+vesicle,GO:0031982,"Hypertension, Pulmonary",MESH:D006976,0,,1,ACE
+vesicle,GO:0031982,"Hypertension, Renal",MESH:D006977,0,,1,MYH9
+vesicle membrane,GO:0012506,Hypertension,MESH:D006973,0,,1,GAD1
+voltage-gated calcium channel complex,GO:0005891,Hypertension,MESH:D006973,0,,2,CACNA1C|CACNA2D1
+voltage-gated potassium channel complex,GO:0008076,Hypertension,MESH:D006973,0,,2,KCNMB1|TLR3
+voltage-gated potassium channel complex,GO:0008076,"Hypertension, Diastolic, Resistance to",MESH:C563897,0,,1,KCNMB1
+voltage-gated potassium channel complex,GO:0008076,"Hypertension, Pulmonary",MESH:D006976,0,,2,KCNA5|KCNMA1
+Weibel-Palade body,GO:0033093,Essential Hypertension,MESH:D000075222,0,,1,ECE1
+Weibel-Palade body,GO:0033093,Hypertension,MESH:D006973,0,,3,ECE1|EDN1|VWF
+Weibel-Palade body,GO:0033093,"Hypertension, Pulmonary",MESH:D006976,0,,1,EDN1
+Wnt signalosome,GO:1990909,Hypertension,MESH:D006973,0,,1,GSK3B
+Z disc,GO:0030018,Familial Primary Pulmonary Hypertension,MESH:D065627,0,,1,HDAC4
+Z disc,GO:0030018,Hypertension,MESH:D006973,0,,4,CACNA1C|CRP|MYH7|STK11
+Z disc,GO:0030018,"Hypertension, Pulmonary",MESH:D006976,0,,1,KCNA5
+zymogen granule,GO:0042588,Hypertension,MESH:D006973,1,Plant Preparations,0,

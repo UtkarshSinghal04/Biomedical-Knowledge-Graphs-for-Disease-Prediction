@@ -1,0 +1,1924 @@
+GOName,GOID,DiseaseName,DiseaseID,InferenceChemicalQty,InferenceChemicalNames,InferenceGeneQty,InferenceGeneSymbols
+2-oxoglutarate metabolic process,GO:0006103,Osteoarthritis,MESH:D010003,0,,1,IDH2
+4-hydroxyproline metabolic process,GO:0019471,Osteoarthritis,MESH:D010003,2,Dietary Fats|Resveratrol,0,
+4-hydroxyproline metabolic process,GO:0019471,"Osteoarthritis, Knee",MESH:D020370,1,Resveratrol,0,
+5S class rRNA transcription by RNA polymerase III,GO:0042791,Osteoarthritis,MESH:D010003,1,Ethanol,0,
+9-cis-retinoic acid biosynthetic process,GO:0042904,Osteoarthritis,MESH:D010003,0,,1,ALDH1A2
+acetaldehyde biosynthetic process,GO:0046186,Osteoarthritis,MESH:D010003,1,Ethanol,0,
+acetaldehyde catabolic process,GO:0046187,Osteoarthritis,MESH:D010003,1,Ethanol,0,
+acetate metabolic process,GO:0006083,Osteoarthritis,MESH:D010003,1,Dietary Fats,0,
+acetylcholine-mediated vasodilation involved in regulation of systemic arterial blood pressure,GO:0003069,Osteoarthritis,MESH:D010003,0,,1,SOD2
+acetylcholine metabolic process,GO:0008291,Osteoarthritis,MESH:D010003,1,Lipopolysaccharides,0,
+acetylcholine metabolic process,GO:0008291,"Osteoarthritis, Knee",MESH:D020370,1,Lipopolysaccharides,0,
+acetylcholine receptor signaling pathway,GO:0095500,Osteoarthritis,MESH:D010003,1,Nicotine,0,
+acetyl-CoA biosynthetic process,GO:0006085,Osteoarthritis,MESH:D010003,1,Acetaminophen,0,
+acetyl-CoA biosynthetic process from pyruvate,GO:0006086,Osteoarthritis,MESH:D010003,0,,1,PDHA1
+acetyl-CoA metabolic process,GO:0006084,Osteoarthritis,MESH:D010003,0,,1,ACAA2
+actin cytoskeleton organization,GO:0030036,Osteoarthritis,MESH:D010003,0,,4,EZR|RAN|SDCBP|TRPV4
+actin filament bundle assembly,GO:0051017,Osteoarthritis,MESH:D010003,0,,2,EZR|PLS3
+actin filament network formation,GO:0051639,Osteoarthritis,MESH:D010003,0,,1,PLS3
+actin filament organization,GO:0007015,Osteoarthritis,MESH:D010003,0,,1,TRPV4
+actin filament polymerization,GO:0030041,Osteoarthritis,MESH:D010003,3,Ethanol|Lipopolysaccharides|Resveratrol,1,LTBP3
+actin filament polymerization,GO:0030041,"Osteoarthritis, Hip",MESH:D015207,0,,1,LTBP3
+actin filament polymerization,GO:0030041,"Osteoarthritis, Knee",MESH:D020370,2,Lipopolysaccharides|Resveratrol,0,
+action potential,GO:0001508,Osteoarthritis,MESH:D010003,1,Nicotine,0,
+activation of adenylate cyclase activity,GO:0007190,Osteoarthritis,MESH:D010003,2,Dinoprostone|Lithium Chloride,1,CALCA
+activation of adenylate cyclase activity,GO:0007190,"Osteoarthritis, Hip",MESH:D015207,0,,1,CRHR1
+activation of cysteine-type endopeptidase activity,GO:0097202,Osteoarthritis,MESH:D010003,4,Indomethacin|MF63 compound|Reactive Oxygen Species|Resveratrol,0,
+activation of cysteine-type endopeptidase activity,GO:0097202,"Osteoarthritis, Hip",MESH:D015207,1,Indomethacin,0,
+activation of cysteine-type endopeptidase activity,GO:0097202,"Osteoarthritis, Knee",MESH:D020370,1,Resveratrol,0,
+activation of cysteine-type endopeptidase activity involved in apoptotic process,GO:0006919,Osteoarthritis,MESH:D010003,4,"Diclofenac|Indomethacin|Resveratrol|theaflavin-3,3'-digallate",0,
+activation of cysteine-type endopeptidase activity involved in apoptotic process,GO:0006919,"Osteoarthritis, Hip",MESH:D015207,1,Indomethacin,0,
+activation of cysteine-type endopeptidase activity involved in apoptotic process,GO:0006919,"Osteoarthritis, Knee",MESH:D020370,1,Resveratrol,0,
+activation of NF-kappaB-inducing kinase activity,GO:0007250,Osteoarthritis,MESH:D010003,0,,2,CHI3L1|TNFSF15
+activation of protein kinase A activity,GO:0034199,Osteoarthritis,MESH:D010003,2,Dinoprostone|Resveratrol,0,
+activation of protein kinase A activity,GO:0034199,"Osteoarthritis, Knee",MESH:D020370,1,Resveratrol,0,
+activation of protein kinase activity,GO:0032147,Osteoarthritis,MESH:D010003,3,Aspirin|Ethanol|Lipopolysaccharides,1,CALCA
+activation of protein kinase activity,GO:0032147,"Osteoarthritis, Knee",MESH:D020370,1,Lipopolysaccharides,0,
+activation of protein kinase B activity,GO:0032148,Osteoarthritis,MESH:D010003,10,Curcumin|Dietary Fats|Dinoprostone|Ethanol|fisetin|Glucosamine|Lipopolysaccharides|Nicotine|Reactive Oxygen Species|Resveratrol,0,
+activation of protein kinase B activity,GO:0032148,"Osteoarthritis, Knee",MESH:D020370,2,Lipopolysaccharides|Resveratrol,0,
+activation of protein kinase C activity,GO:1990051,Osteoarthritis,MESH:D010003,1,Reactive Oxygen Species,0,
+activin receptor signaling pathway,GO:0032924,Osteoarthritis,MESH:D010003,0,,1,SMAD3
+activin receptor signaling pathway,GO:0032924,"Osteoarthritis, Hip",MESH:D015207,0,,1,SMAD3
+actomyosin contractile ring assembly,GO:0000915,Osteoarthritis,MESH:D010003,0,,1,PDCD6IP
+acute inflammatory response,GO:0002526,Osteoarthritis,MESH:D010003,3,Curcumin|Dietary Fats|Lipopolysaccharides,0,
+acute inflammatory response,GO:0002526,"Osteoarthritis, Knee",MESH:D020370,1,Lipopolysaccharides,0,
+acute-phase response,GO:0006953,"Osteoarthritis, Hip",MESH:D015207,0,,1,HFE
+acute-phase response,GO:0006953,"Osteoarthritis, Spine",MESH:D055013,0,,1,IL6
+acyl-CoA metabolic process,GO:0006637,Osteoarthritis,MESH:D010003,1,Dietary Fats,0,
+acylglycerol metabolic process,GO:0006639,Osteoarthritis,MESH:D010003,1,Acetaminophen,0,
+adaptive immune response based on somatic recombination of immune receptors built from immunoglobulin superfamily domains,GO:0002460,Osteoarthritis,MESH:D010003,0,,1,TGFB1
+adaptive thermogenesis,GO:1990845,Osteoarthritis,MESH:D010003,2,Caffeine|Capsaicin,0,
+adenohypophysis development,GO:0021984,"Osteoarthritis, Hip",MESH:D015207,0,,1,SMO
+adenosine metabolic process,GO:0046085,Osteoarthritis,MESH:D010003,1,Indomethacin,0,
+adenosine metabolic process,GO:0046085,"Osteoarthritis, Hip",MESH:D015207,1,Indomethacin,0,
+adenylate cyclase-activating G protein-coupled receptor signaling pathway,GO:0007189,Osteoarthritis,MESH:D010003,0,,3,ADGRG2|CALCA|NME2
+adenylate cyclase-activating G protein-coupled receptor signaling pathway,GO:0007189,"Osteoarthritis, Hip",MESH:D015207,0,,1,CRHR1
+adenylate cyclase-inhibiting G protein-coupled receptor signaling pathway,GO:0007193,"Osteoarthritis, Hip",MESH:D015207,0,,1,SMO
+adenylate cyclase-modulating G protein-coupled receptor signaling pathway,GO:0007188,"Osteoarthritis, Hip",MESH:D015207,0,,1,CRHR1
+adherens junction assembly,GO:0034333,Osteoarthritis,MESH:D010003,0,,1,ACTB
+adipose tissue development,GO:0060612,Osteoarthritis,MESH:D010003,6,Capsaicin|Dietary Fats|Indomethacin|Lithium Chloride|Nicotine|Resveratrol,0,
+adipose tissue development,GO:0060612,"Osteoarthritis, Hip",MESH:D015207,1,Indomethacin,0,
+adipose tissue development,GO:0060612,"Osteoarthritis, Knee",MESH:D020370,1,Resveratrol,0,
+ADP biosynthetic process,GO:0006172,Osteoarthritis,MESH:D010003,0,,1,AK4
+adrenal gland development,GO:0030325,Osteoarthritis,MESH:D010003,0,,1,SMAD3
+adrenal gland development,GO:0030325,"Osteoarthritis, Hip",MESH:D015207,0,,2,CRHR1|SMAD3
+adult feeding behavior,GO:0008343,Osteoarthritis,MESH:D010003,2,Dietary Fats|Ethanol,0,
+adult locomotory behavior,GO:0008344,Osteoarthritis,MESH:D010003,4,Acetaminophen|Ethanol|ferrostatin-1|Nicotine,1,ATP1A3
+adult walking behavior,GO:0007628,Osteoarthritis,MESH:D010003,1,Ethanol,0,
+adult walking behavior,GO:0007628,"Osteoarthritis, Hip",MESH:D015207,0,,1,MAPT
+aerobic electron transport chain,GO:0019646,Osteoarthritis,MESH:D010003,2,Curcumin|Diclofenac,0,
+aerobic respiration,GO:0009060,Osteoarthritis,MESH:D010003,8,Acetaminophen|Capsaicin|Curcumin|Dietary Fats|ferrostatin-1|Iodoacetic Acid|Lipopolysaccharides|Resveratrol,2,NDUFS8|NDUFV1
+aerobic respiration,GO:0009060,"Osteoarthritis, Knee",MESH:D020370,4,Adenosine Triphosphate|Iodoacetic Acid|Lipopolysaccharides|Resveratrol,0,
+aging,GO:0007568,Osteoarthritis,MESH:D010003,1,"theaflavin-3,3'-digallate",0,
+aldosterone biosynthetic process,GO:0032342,Osteoarthritis,MESH:D010003,1,Nicotine,0,
+aldosterone metabolic process,GO:0032341,Osteoarthritis,MESH:D010003,1,Dietary Fats,0,
+allantois development,GO:1905069,Osteoarthritis,MESH:D010003,1,Caffeine,0,
+alpha-tubulin acetylation,GO:0071929,Osteoarthritis,MESH:D010003,2,Lipopolysaccharides|Resveratrol,0,
+alpha-tubulin acetylation,GO:0071929,"Osteoarthritis, Hip",MESH:D015207,0,,1,SMO
+alpha-tubulin acetylation,GO:0071929,"Osteoarthritis, Knee",MESH:D020370,2,Lipopolysaccharides|Resveratrol,0,
+ameloblast differentiation,GO:0036305,Osteoarthritis,MESH:D010003,0,,1,BMP4
+amide metabolic process,GO:0043603,Osteoarthritis,MESH:D010003,2,Acetaminophen|Ethanol,0,
+amine metabolic process,GO:0009308,Osteoarthritis,MESH:D010003,1,Indomethacin,0,
+amine metabolic process,GO:0009308,"Osteoarthritis, Hip",MESH:D015207,1,Indomethacin,0,
+amino-acid betaine metabolic process,GO:0006577,Osteoarthritis,MESH:D010003,1,Ethanol,0,
+amino acid biosynthetic process,GO:0008652,Osteoarthritis,MESH:D010003,3,Acetaminophen|Dietary Fats|Ethanol,0,
+amino acid catabolic process,GO:0009063,Osteoarthritis,MESH:D010003,0,,1,ETFA
+amino acid import,GO:0043090,Osteoarthritis,MESH:D010003,1,Curcumin,0,
+amino acid metabolic process,GO:0006520,Osteoarthritis,MESH:D010003,3,Ethanol|Indomethacin|Resveratrol,0,
+amino acid metabolic process,GO:0006520,"Osteoarthritis, Hip",MESH:D015207,1,Indomethacin,0,
+amino acid metabolic process,GO:0006520,"Osteoarthritis, Knee",MESH:D020370,2,Adenosine Triphosphate|Resveratrol,0,
+ammonium homeostasis,GO:0097272,Osteoarthritis,MESH:D010003,1,Acetaminophen,0,
+AMP catabolic process,GO:0006196,Osteoarthritis,MESH:D010003,1,Caffeine,0,
+AMP metabolic process,GO:0046033,Osteoarthritis,MESH:D010003,2,Dietary Fats|Ethanol,1,AK4
+amylin receptor 1 signaling pathway,GO:0150059,Osteoarthritis,MESH:D010003,0,,1,CALCA
+amylin receptor 2 signaling pathway,GO:0150060,Osteoarthritis,MESH:D010003,0,,1,CALCA
+amyloid-beta clearance,GO:0097242,Osteoarthritis,MESH:D010003,0,,1,CLU
+amyloid fibril formation,GO:1990000,"Osteoarthritis, Hip",MESH:D015207,0,,1,MAPT
+anagen,GO:0042640,Osteoarthritis,MESH:D010003,0,,1,PTGS2
+anatomical structure development,GO:0048856,Osteoarthritis,MESH:D010003,0,,1,BMP4
+anatomical structure development,GO:0048856,"Osteoarthritis, Knee",MESH:D020370,0,,1,LTBP1
+anatomical structure formation involved in morphogenesis,GO:0048646,Osteoarthritis,MESH:D010003,0,,1,BMP4
+anatomical structure morphogenesis,GO:0009653,Osteoarthritis,MESH:D010003,0,,2,FGF18|SMAD3
+anatomical structure morphogenesis,GO:0009653,"Osteoarthritis, Hip",MESH:D015207,0,,1,SMAD3
+anatomical structure regression,GO:0060033,Osteoarthritis,MESH:D010003,1,Curcumin,1,BMP4
+androgen biosynthetic process,GO:0006702,Osteoarthritis,MESH:D010003,1,Nicotine,0,
+androgen metabolic process,GO:0008209,Osteoarthritis,MESH:D010003,1,ferrostatin-1,0,
+androgen receptor signaling pathway,GO:0030521,Osteoarthritis,MESH:D010003,1,Resveratrol,0,
+androgen receptor signaling pathway,GO:0030521,"Osteoarthritis, Knee",MESH:D020370,1,Resveratrol,0,
+androstenedione secretion,GO:0035941,Osteoarthritis,MESH:D010003,1,Iodoacetic Acid,0,
+androstenedione secretion,GO:0035941,"Osteoarthritis, Knee",MESH:D020370,1,Iodoacetic Acid,0,
+angioblast cell migration,GO:0035476,Osteoarthritis,MESH:D010003,1,Ethanol,0,
+angioblast cell migration from lateral mesoderm to midline,GO:0035479,"Osteoarthritis, Hip",MESH:D015207,0,,1,SMO
+angiogenesis,GO:0001525,Osteoarthritis,MESH:D010003,8,Acetaminophen|Aspartame|Caffeine|Curcumin|Ethanol|ferrostatin-1|morroniside|Nicotine,5,BMP4|CLIC4|FGF18|PLCD1|PTGS2
+angiogenesis,GO:0001525,"Osteoarthritis, Spine",MESH:D055013,0,,1,CXCL8
+angiogenesis involved in wound healing,GO:0060055,Osteoarthritis,MESH:D010003,1,morroniside,0,
+angiotensin-mediated vasoconstriction involved in regulation of systemic arterial blood pressure,GO:0001998,Osteoarthritis,MESH:D010003,1,Ketoprofen,0,
+animal organ morphogenesis,GO:0009887,Osteoarthritis,MESH:D010003,0,,4,COMP|ETFA|FGF18|TGFB1
+animal organ morphogenesis,GO:0009887,"Osteoarthritis, Hip",MESH:D015207,0,,1,COMP
+animal organ morphogenesis,GO:0009887,"Osteoarthritis, Spine",MESH:D055013,0,,1,TNF
+animal organ regeneration,GO:0031100,Osteoarthritis,MESH:D010003,0,,3,CXCL6|PPARG|TGFB1
+anoikis,GO:0043276,Osteoarthritis,MESH:D010003,3,Celecoxib|Dinoprostone|Nicotine,0,
+anterior head development,GO:0097065,Osteoarthritis,MESH:D010003,0,,1,COL2A1
+anterior head development,GO:0097065,Osteoarthritis with Mild Chondrodysplasia,MESH:C565740,0,,1,COL2A1
+anterior neuropore closure,GO:0021506,Osteoarthritis,MESH:D010003,1,Ethanol,0,
+anterior/posterior axis specification,GO:0009948,Osteoarthritis,MESH:D010003,0,,1,BMP4
+"anterior/posterior lineage restriction, imaginal disc",GO:0048099,"Osteoarthritis, Hip",MESH:D015207,0,,1,SMO
+anterior/posterior pattern specification,GO:0009952,Osteoarthritis,MESH:D010003,0,,1,ALDH1A2
+anterior/posterior pattern specification,GO:0009952,"Osteoarthritis, Hip",MESH:D015207,0,,1,SMO
+anterograde axonal transport,GO:0008089,Osteoarthritis,MESH:D010003,1,Lithium Chloride,0,
+antibacterial humoral response,GO:0019731,Osteoarthritis,MESH:D010003,0,,1,CALCA
+antibiotic metabolic process,GO:0016999,Osteoarthritis,MESH:D010003,0,,1,DPEP1
+antifungal humoral response,GO:0019732,Osteoarthritis,MESH:D010003,0,,1,CALCA
+antigen processing and presentation of endogenous peptide antigen via MHC class Ib,GO:0002476,"Osteoarthritis, Hip",MESH:D015207,0,,1,HFE
+"antigen processing and presentation of endogenous peptide antigen via MHC class I via ER pathway, TAP-independent",GO:0002486,"Osteoarthritis, Hip",MESH:D015207,0,,1,HFE
+antigen processing and presentation of exogenous peptide antigen via MHC class II,GO:0019886,Osteoarthritis,MESH:D010003,0,,1,CTSD
+antimicrobial humoral immune response mediated by antimicrobial peptide,GO:0061844,Osteoarthritis,MESH:D010003,0,,5,CALCA|CXCL2|CXCL6|GAPDH|LGALS3
+antimicrobial humoral immune response mediated by antimicrobial peptide,GO:0061844,"Osteoarthritis, Spine",MESH:D055013,0,,1,CXCL8
+antiviral innate immune response,GO:0140374,"Osteoarthritis, Spine",MESH:D055013,0,,1,TNF
+antral ovarian follicle growth,GO:0001547,Osteoarthritis,MESH:D010003,4,Acetaminophen|Curcumin|Iodoacetic Acid|Resveratrol,0,
+antral ovarian follicle growth,GO:0001547,"Osteoarthritis, Knee",MESH:D020370,2,Iodoacetic Acid|Resveratrol,0,
+aorta development,GO:0035904,"Osteoarthritis, Knee",MESH:D020370,0,,1,LTBP1
+aorta morphogenesis,GO:0035909,Osteoarthritis,MESH:D010003,1,Dietary Fats,0,
+aortic valve morphogenesis,GO:0003180,Osteoarthritis,MESH:D010003,0,,2,BMP4|TGFB1
+apical protein localization,GO:0045176,Osteoarthritis,MESH:D010003,0,,1,ACTB
+apoptotic cell clearance,GO:0043277,Osteoarthritis,MESH:D010003,2,Aspirin|Phenylbutazone,1,TGM2
+apoptotic cell clearance,GO:0043277,"Osteoarthritis, Hip",MESH:D015207,1,Phenylbutazone,0,
+apoptotic chromosome condensation,GO:0030263,Osteoarthritis,MESH:D010003,9,Acetaminophen|astaxanthine|Curcumin|diacerein|Dietary Fats|Ethanol|Lipopolysaccharides|Meloxicam|Resveratrol,0,
+apoptotic chromosome condensation,GO:0030263,"Osteoarthritis, Knee",MESH:D020370,2,Lipopolysaccharides|Resveratrol,0,
+apoptotic DNA fragmentation,GO:0006309,Osteoarthritis,MESH:D010003,23,Acetaminophen|Aspirin|Caffeine|Capsaicin|Celecoxib|Curcumin|Decitabine|Diclofenac|Dietary Fats|Dinoprostone|Doxycycline|Ethanol|fisetin|Ibuprofen|Indomethacin|Lipopolysaccharides|Lithium Chloride|Nicotine|nimesulide|Reactive Oxygen Species|Resveratrol|rofecoxib|Sulindac,0,
+apoptotic DNA fragmentation,GO:0006309,"Osteoarthritis, Hip",MESH:D015207,3,Ibuprofen|Indomethacin|nimesulide,0,
+apoptotic DNA fragmentation,GO:0006309,"Osteoarthritis, Knee",MESH:D020370,5,Adenosine Triphosphate|Lipopolysaccharides|nimesulide|Resveratrol|rofecoxib,0,
+apoptotic mitochondrial changes,GO:0008637,Osteoarthritis,MESH:D010003,1,Curcumin,1,SOD2
+apoptotic nuclear changes,GO:0030262,Osteoarthritis,MESH:D010003,1,Ethanol,0,
+apoptotic process,GO:0006915,Osteoarthritis,MESH:D010003,39,"Acetaminophen|Aspartame|Aspirin|astaxanthine|Caffeine|Capsaicin|Celecoxib|Curcumin|Decitabine|Diclofenac|Dietary Fats|Dinoprostone|Doxycycline|Ethanol|ferrostatin-1|fisetin|Glucosamine|Ibuprofen|Indomethacin|Iron|Lipopolysaccharides|Lithium Chloride|lumiracoxib|Meloxicam|morroniside|Naproxen|Nicotine|nimesulide|oxymatrine|Piroxicam|pregna-4,17-diene-3,16-dione|Reactive Oxygen Species|Resveratrol|rofecoxib|Salicylates|Sulindac|theaflavin-3,3'-digallate|Tramadol|xanthohumol",7,CHI3L1|COMP|GAPDH|IL1B|OPA1|PDCD6IP|SMAD3
+apoptotic process,GO:0006915,"Osteoarthritis, Hip",MESH:D015207,5,Ibuprofen|Indomethacin|Naproxen|nimesulide|Piroxicam,4,COMP|DIABLO|SMAD3|SMO
+apoptotic process,GO:0006915,"Osteoarthritis, Knee",MESH:D020370,7,Adenosine Triphosphate|argan oil|Lipopolysaccharides|nimesulide|Resveratrol|rofecoxib|Tramadol,1,WWP2
+apoptotic process,GO:0006915,"Osteoarthritis, Spine",MESH:D055013,1,Pentazocine,0,
+apoptotic signaling pathway,GO:0097190,Osteoarthritis,MESH:D010003,0,,1,SMAD3
+apoptotic signaling pathway,GO:0097190,"Osteoarthritis, Hip",MESH:D015207,0,,1,SMAD3
+apoptotic signaling pathway,GO:0097190,"Osteoarthritis, Spine",MESH:D055013,0,,1,TNF
+arabinose biosynthetic process,GO:0019567,Osteoarthritis,MESH:D010003,1,Dietary Fats,0,
+arachidonic acid metabolic process,GO:0019369,Osteoarthritis,MESH:D010003,4,Dinoprostone|ferrostatin-1|Resveratrol|rofecoxib,0,
+arachidonic acid metabolic process,GO:0019369,"Osteoarthritis, Knee",MESH:D020370,2,Resveratrol|rofecoxib,0,
+arginine catabolic process,GO:0006527,Osteoarthritis,MESH:D010003,1,Lipopolysaccharides,0,
+arginine catabolic process,GO:0006527,"Osteoarthritis, Knee",MESH:D020370,1,Lipopolysaccharides,0,
+arginine metabolic process,GO:0006525,Osteoarthritis,MESH:D010003,1,Resveratrol,0,
+arginine metabolic process,GO:0006525,"Osteoarthritis, Knee",MESH:D020370,1,Resveratrol,0,
+arsenite transport,GO:0015700,Osteoarthritis,MESH:D010003,1,Ethanol,0,
+arterial endothelial cell fate commitment,GO:0060844,"Osteoarthritis, Hip",MESH:D015207,0,,1,SMO
+artery development,GO:0060840,Osteoarthritis,MESH:D010003,1,Nicotine,0,
+artery morphogenesis,GO:0048844,Osteoarthritis,MESH:D010003,0,,1,COMP
+artery morphogenesis,GO:0048844,"Osteoarthritis, Hip",MESH:D015207,0,,1,COMP
+artery smooth muscle contraction,GO:0014824,Osteoarthritis,MESH:D010003,1,Resveratrol,0,
+artery smooth muscle contraction,GO:0014824,"Osteoarthritis, Knee",MESH:D020370,1,Resveratrol,0,
+artery vasodilation involved in baroreceptor response to increased systemic arterial blood pressure,GO:0001984,Osteoarthritis,MESH:D010003,0,,1,CALCA
+articular cartilage development,GO:0061975,Osteoarthritis,MESH:D010003,1,Ethanol,0,
+asparagine biosynthetic process,GO:0006529,Osteoarthritis,MESH:D010003,1,Acetaminophen,0,
+aspartate biosynthetic process,GO:0006532,Osteoarthritis,MESH:D010003,1,Acetaminophen,0,
+associative learning,GO:0008306,Osteoarthritis,MESH:D010003,1,Aspirin,0,
+astral microtubule organization,GO:0030953,Osteoarthritis,MESH:D010003,0,,1,EZR
+astrocyte activation,GO:0048143,Osteoarthritis,MESH:D010003,5,Dietary Fats|Ibuprofen|Lipopolysaccharides|Reactive Oxygen Species|Resveratrol,2,AGER|IL1B
+astrocyte activation,GO:0048143,"Osteoarthritis, Hip",MESH:D015207,1,Ibuprofen,2,MAPT|SMO
+astrocyte activation,GO:0048143,"Osteoarthritis, Knee",MESH:D020370,2,Lipopolysaccharides|Resveratrol,0,
+astrocyte activation,GO:0048143,"Osteoarthritis, Spine",MESH:D055013,0,,1,TNF
+astrocyte development,GO:0014002,Osteoarthritis,MESH:D010003,1,Ethanol,2,AGER|VIM
+asymmetric neuroblast division,GO:0055059,Osteoarthritis,MESH:D010003,0,,1,CLU
+ATP biosynthetic process,GO:0006754,Osteoarthritis,MESH:D010003,10,Acetaminophen|Caffeine|Curcumin|Dietary Fats|Ethanol|Iodoacetic Acid|Ketoprofen|Lipopolysaccharides|Resveratrol|Tramadol,1,TGFB1
+ATP biosynthetic process,GO:0006754,"Osteoarthritis, Knee",MESH:D020370,5,Adenosine Triphosphate|Iodoacetic Acid|Lipopolysaccharides|Resveratrol|Tramadol,0,
+ATP export,GO:1904669,Osteoarthritis,MESH:D010003,0,,1,TRPV4
+ATP export,GO:1904669,"Osteoarthritis, Knee",MESH:D020370,1,Adenosine Triphosphate,0,
+ATP generation from ADP,GO:0006757,Osteoarthritis,MESH:D010003,1,Lipopolysaccharides,0,
+ATP generation from ADP,GO:0006757,"Osteoarthritis, Knee",MESH:D020370,1,Lipopolysaccharides,0,
+ATP metabolic process,GO:0046034,Osteoarthritis,MESH:D010003,13,Acetaminophen|Capsaicin|Celecoxib|Curcumin|Diclofenac|Dietary Fats|Ethanol|ferrostatin-1|Indomethacin|Iodoacetic Acid|Lipopolysaccharides|Resveratrol|Sulindac,2,AK4|ATP6V1B2
+ATP metabolic process,GO:0046034,"Osteoarthritis, Hip",MESH:D015207,1,Indomethacin,0,
+ATP metabolic process,GO:0046034,"Osteoarthritis, Knee",MESH:D020370,4,Adenosine Triphosphate|Iodoacetic Acid|Lipopolysaccharides|Resveratrol,0,
+ATP transport,GO:0015867,Osteoarthritis,MESH:D010003,0,,1,TRPV4
+atrial septum morphogenesis,GO:0060413,"Osteoarthritis, Hip",MESH:D015207,0,,1,SMO
+atrioventricular valve development,GO:0003171,Osteoarthritis,MESH:D010003,0,,1,TRPV4
+auditory behavior,GO:0031223,Osteoarthritis,MESH:D010003,1,Dietary Fats,0,
+auditory receptor cell development,GO:0060117,Osteoarthritis,MESH:D010003,1,ferrostatin-1,0,
+autophagic cell death,GO:0048102,Osteoarthritis,MESH:D010003,3,fisetin|Lipopolysaccharides|Resveratrol,0,
+autophagic cell death,GO:0048102,"Osteoarthritis, Knee",MESH:D020370,3,Adenosine Triphosphate|Lipopolysaccharides|Resveratrol,0,
+autophagosome assembly,GO:0000045,Osteoarthritis,MESH:D010003,5,Caffeine|Ethanol|Lipopolysaccharides|Lithium Chloride|Resveratrol,1,CTSD
+autophagosome assembly,GO:0000045,"Osteoarthritis, Knee",MESH:D020370,2,Lipopolysaccharides|Resveratrol,0,
+autophagosome-lysosome fusion,GO:0061909,Osteoarthritis,MESH:D010003,2,Curcumin|ferrostatin-1,0,
+autophagosome organization,GO:1905037,Osteoarthritis,MESH:D010003,1,Resveratrol,0,
+autophagosome organization,GO:1905037,"Osteoarthritis, Knee",MESH:D020370,1,Resveratrol,0,
+autophagy,GO:0006914,Osteoarthritis,MESH:D010003,14,Caffeine|Capsaicin|Celecoxib|Curcumin|Dietary Fats|Ethanol|fisetin|Indomethacin|Iron|Lipopolysaccharides|Lithium Chloride|morroniside|Reactive Oxygen Species|Resveratrol,0,
+autophagy,GO:0006914,"Osteoarthritis, Hip",MESH:D015207,1,Indomethacin,0,
+autophagy,GO:0006914,"Osteoarthritis, Knee",MESH:D020370,2,Lipopolysaccharides|Resveratrol,0,
+autophagy of mitochondrion,GO:0000422,Osteoarthritis,MESH:D010003,1,Acetaminophen,0,
+axial mesoderm development,GO:0048318,Osteoarthritis,MESH:D010003,0,,1,ALDH1A2
+axis elongation,GO:0003401,Osteoarthritis,MESH:D010003,0,,1,YWHAQ
+axo-dendritic transport,GO:0008088,"Osteoarthritis, Hip",MESH:D015207,0,,1,MAPT
+axonal transport,GO:0098930,"Osteoarthritis, Hip",MESH:D015207,0,,1,MAPT
+axonal transport of mitochondrion,GO:0019896,Osteoarthritis,MESH:D010003,0,,1,OPA1
+axonal transport of mitochondrion,GO:0019896,"Osteoarthritis, Hip",MESH:D015207,0,,1,MAPT
+axon development,GO:0061564,"Osteoarthritis, Hip",MESH:D015207,0,,1,MAPT
+axon extension,GO:0048675,"Osteoarthritis, Hip",MESH:D015207,0,,1,MAPT
+axon extension involved in axon guidance,GO:0048846,"Osteoarthritis, Hip",MESH:D015207,0,,1,SMO
+axon guidance,GO:0007411,Osteoarthritis,MESH:D010003,1,Nicotine,0,
+axon guidance,GO:0007411,"Osteoarthritis, Hip",MESH:D015207,0,,1,SMO
+axonogenesis,GO:0007409,Osteoarthritis,MESH:D010003,0,,2,ACTB|COL6A2
+axonogenesis,GO:0007409,"Osteoarthritis, Hip",MESH:D015207,0,,1,MAPT
+B cell activation,GO:0042113,"Osteoarthritis, Hip",MESH:D015207,0,,1,HDAC9
+B cell differentiation,GO:0030183,"Osteoarthritis, Hip",MESH:D015207,0,,2,HDAC9|IL11
+B cell proliferation,GO:0042100,Osteoarthritis,MESH:D010003,2,Lipopolysaccharides|Resveratrol,0,
+B cell proliferation,GO:0042100,"Osteoarthritis, Knee",MESH:D020370,2,Lipopolysaccharides|Resveratrol,0,
+behavior,GO:0007610,Osteoarthritis,MESH:D010003,2,Dietary Fats|Lipopolysaccharides,1,ATP1A3
+behavior,GO:0007610,"Osteoarthritis, Knee",MESH:D020370,3,Lipopolysaccharides|Pregabalin|rhoifolin,0,
+behavioral defense response,GO:0002209,Osteoarthritis,MESH:D010003,2,Ethanol|Nicotine,0,
+behavioral fear response,GO:0001662,Osteoarthritis,MESH:D010003,1,Ethanol,0,
+behavioral response to acetic acid induced pain,GO:0061367,Osteoarthritis,MESH:D010003,4,Acetaminophen|Capsaicin|Diclofenac|Indomethacin,0,
+behavioral response to acetic acid induced pain,GO:0061367,"Osteoarthritis, Hip",MESH:D015207,1,Indomethacin,0,
+behavioral response to chemical pain,GO:0061366,Osteoarthritis,MESH:D010003,3,Capsaicin|Indomethacin|Resveratrol,0,
+behavioral response to chemical pain,GO:0061366,"Osteoarthritis, Hip",MESH:D015207,1,Indomethacin,0,
+behavioral response to chemical pain,GO:0061366,"Osteoarthritis, Knee",MESH:D020370,1,Resveratrol,0,
+behavioral response to cocaine,GO:0048148,Osteoarthritis,MESH:D010003,1,Nicotine,0,
+behavioral response to cocaine,GO:0048148,"Osteoarthritis, Hip",MESH:D015207,0,,1,CRHR1
+behavioral response to ethanol,GO:0048149,Osteoarthritis,MESH:D010003,1,Ethanol,0,
+behavioral response to ethanol,GO:0048149,"Osteoarthritis, Hip",MESH:D015207,0,,1,CRHR1
+behavioral response to formalin induced pain,GO:0061368,Osteoarthritis,MESH:D010003,3,Curcumin|Ketoprofen|Meloxicam,0,
+behavioral response to nicotine,GO:0035095,Osteoarthritis,MESH:D010003,1,Nicotine,0,
+behavioral response to pain,GO:0048266,Osteoarthritis,MESH:D010003,7,Acetaminophen|Diclofenac|Etodolac|Ibuprofen|Indomethacin|Iodoacetic Acid|Nicotine,0,
+behavioral response to pain,GO:0048266,"Osteoarthritis, Hip",MESH:D015207,2,Ibuprofen|Indomethacin,1,CRHR1
+behavioral response to pain,GO:0048266,"Osteoarthritis, Knee",MESH:D020370,2,argan oil|Iodoacetic Acid,0,
+benzene-containing compound metabolic process,GO:0042537,Osteoarthritis,MESH:D010003,0,,1,TXNRD1
+Bergmann glial cell differentiation,GO:0060020,Osteoarthritis,MESH:D010003,0,,1,VIM
+bicarbonate transport,GO:0015701,Osteoarthritis,MESH:D010003,1,Resveratrol,0,
+bicarbonate transport,GO:0015701,"Osteoarthritis, Knee",MESH:D020370,1,Resveratrol,0,
+bicellular tight junction assembly,GO:0070830,Osteoarthritis,MESH:D010003,0,,1,PDCD6IP
+bile acid and bile salt transport,GO:0015721,Osteoarthritis,MESH:D010003,1,Dietary Fats,1,AKR1C1
+bile acid biosynthetic process,GO:0006699,Osteoarthritis,MESH:D010003,3,Dietary Fats|Ethanol|Ibuprofen,0,
+bile acid biosynthetic process,GO:0006699,"Osteoarthritis, Hip",MESH:D015207,1,Ibuprofen,0,
+bile acid conjugation,GO:0002152,Osteoarthritis,MESH:D010003,1,Dietary Fats,0,
+bile acid metabolic process,GO:0008206,Osteoarthritis,MESH:D010003,5,Acetaminophen|Diclofenac|Dietary Fats|Ethanol|Lipopolysaccharides,1,AKR1C1
+bile acid metabolic process,GO:0008206,"Osteoarthritis, Knee",MESH:D020370,1,Lipopolysaccharides,0,
+bile acid secretion,GO:0032782,Osteoarthritis,MESH:D010003,1,Resveratrol,0,
+bile acid secretion,GO:0032782,"Osteoarthritis, Knee",MESH:D020370,1,Resveratrol,0,
+bilirubin transport,GO:0015723,Osteoarthritis,MESH:D010003,4,Acetaminophen|Dietary Fats|nimesulide|Resveratrol,0,
+bilirubin transport,GO:0015723,"Osteoarthritis, Hip",MESH:D015207,1,nimesulide,0,
+bilirubin transport,GO:0015723,"Osteoarthritis, Knee",MESH:D020370,2,nimesulide|Resveratrol,0,
+binding of sperm to zona pellucida,GO:0007339,Osteoarthritis,MESH:D010003,0,,1,VDAC2
+biological_process,GO:0008150,Osteoarthritis,MESH:D010003,0,,8,ESD|ETFA|FRZB|MATN3|NDUFS8|NDUFV1|P3H3|VDAC2
+biological_process,GO:0008150,"Osteoarthritis, Hip",MESH:D015207,0,,1,LMX1B
+biological process involved in interaction with host,GO:0051701,Osteoarthritis,MESH:D010003,1,Nicotine,0,
+biological process involved in symbiotic interaction,GO:0044403,Osteoarthritis,MESH:D010003,3,Dietary Fats|Lipopolysaccharides|Nicotine,0,
+biological process involved in symbiotic interaction,GO:0044403,"Osteoarthritis, Knee",MESH:D020370,1,Lipopolysaccharides,0,
+blastocyst formation,GO:0001825,Osteoarthritis,MESH:D010003,1,Resveratrol,0,
+blastocyst formation,GO:0001825,"Osteoarthritis, Knee",MESH:D020370,1,Resveratrol,0,
+blastocyst growth,GO:0001832,Osteoarthritis,MESH:D010003,1,Ethanol,0,
+blastocyst hatching,GO:0001835,Osteoarthritis,MESH:D010003,1,Resveratrol,0,
+blastocyst hatching,GO:0001835,"Osteoarthritis, Knee",MESH:D020370,1,Resveratrol,0,
+blastoderm segmentation,GO:0007350,"Osteoarthritis, Hip",MESH:D015207,0,,1,SMO
+bleb assembly,GO:0032060,Osteoarthritis,MESH:D010003,1,astaxanthine,0,
+blood circulation,GO:0008015,Osteoarthritis,MESH:D010003,2,Capsaicin|Diclofenac,1,ATP1A3
+blood coagulation,GO:0007596,Osteoarthritis,MESH:D010003,0,,2,COMP|TFPI2
+blood coagulation,GO:0007596,"Osteoarthritis, Hip",MESH:D015207,0,,1,COMP
+"blood coagulation, fibrin clot formation",GO:0072378,Osteoarthritis,MESH:D010003,2,Acetaminophen|Lipopolysaccharides,0,
+"blood coagulation, fibrin clot formation",GO:0072378,"Osteoarthritis, Knee",MESH:D020370,1,Lipopolysaccharides,0,
+blood vessel development,GO:0001568,Osteoarthritis,MESH:D010003,1,Resveratrol,3,ALDH1A2|BMP4|COL1A2
+blood vessel development,GO:0001568,"Osteoarthritis, Knee",MESH:D020370,1,Resveratrol,0,
+blood vessel diameter maintenance,GO:0097746,Osteoarthritis,MESH:D010003,1,Resveratrol,0,
+blood vessel diameter maintenance,GO:0097746,"Osteoarthritis, Knee",MESH:D020370,1,Resveratrol,0,
+blood vessel endothelial cell delamination,GO:0097497,Osteoarthritis,MESH:D010003,0,,1,TRPV4
+blood vessel endothelial cell proliferation involved in sprouting angiogenesis,GO:0002043,Osteoarthritis,MESH:D010003,0,,1,BMP4
+blood vessel remodeling,GO:0001974,Osteoarthritis,MESH:D010003,2,Dietary Fats|Lipopolysaccharides,1,TGM2
+blood vessel remodeling,GO:0001974,"Osteoarthritis, Knee",MESH:D020370,1,Lipopolysaccharides,0,
+BMP signaling pathway,GO:0030509,Osteoarthritis,MESH:D010003,0,,8,BMP4|BMP6|COMP|GDF5|PPARG|RUNX2|SMAD3|TGFB1
+BMP signaling pathway,GO:0030509,"Osteoarthritis, Hip",MESH:D015207,0,,4,COMP|HFE|RUNX2|SMAD3
+BMP signaling pathway,GO:0030509,"Osteoarthritis, Knee",MESH:D020370,0,,1,GDF5
+Bolwig's organ morphogenesis,GO:0001746,"Osteoarthritis, Hip",MESH:D015207,0,,1,SMO
+bone development,GO:0060348,Osteoarthritis,MESH:D010003,5,Caffeine|Curcumin|Ethanol|Glucosamine|morroniside,6,BMP4|BMP6|COL2A1|CTSK|PLS3|TGM2
+bone development,GO:0060348,Osteoarthritis with Mild Chondrodysplasia,MESH:C565740,0,,1,COL2A1
+bone growth,GO:0098868,Osteoarthritis,MESH:D010003,3,"Acetaminophen|Caffeine|theaflavin-3,3'-digallate",1,COMP
+bone growth,GO:0098868,"Osteoarthritis, Hip",MESH:D015207,0,,1,COMP
+bone mineralization,GO:0030282,Osteoarthritis,MESH:D010003,6,"Dietary Fats|Ethanol|fisetin|Lipopolysaccharides|morroniside|theaflavin-3,3'-digallate",7,ASPN|COL1A2|COMP|LTBP3|PLS3|PTGS2|RUNX2
+bone mineralization,GO:0030282,"Osteoarthritis, Hip",MESH:D015207,0,,3,COMP|LTBP3|RUNX2
+bone mineralization,GO:0030282,"Osteoarthritis, Knee",MESH:D020370,1,Lipopolysaccharides,1,LTBP1
+bone morphogenesis,GO:0060349,Osteoarthritis,MESH:D010003,0,,4,BMP6|COMP|CTSK|LTBP3
+bone morphogenesis,GO:0060349,"Osteoarthritis, Hip",MESH:D015207,0,,2,COMP|LTBP3
+bone morphogenesis,GO:0060349,"Osteoarthritis, Knee",MESH:D020370,0,,1,LTBP1
+bone remodeling,GO:0046849,Osteoarthritis,MESH:D010003,2,Ethanol|Nicotine,1,LTBP3
+bone remodeling,GO:0046849,"Osteoarthritis, Hip",MESH:D015207,0,,1,LTBP3
+bone remodeling,GO:0046849,"Osteoarthritis, Spine",MESH:D055013,0,,1,IL6
+bone resorption,GO:0045453,Osteoarthritis,MESH:D010003,2,Iron|Lipopolysaccharides,1,CTSK
+bone resorption,GO:0045453,"Osteoarthritis, Knee",MESH:D020370,1,Lipopolysaccharides,0,
+bone trabecula formation,GO:0060346,Osteoarthritis,MESH:D010003,1,Dietary Fats,0,
+brain-derived neurotrophic factor receptor signaling pathway,GO:0031547,Osteoarthritis,MESH:D010003,0,,1,ATP1A3
+brain development,GO:0007420,Osteoarthritis,MESH:D010003,4,Caffeine|Curcumin|Ethanol|Nicotine,3,MVP|POU3F3|PSMB1
+brain morphogenesis,GO:0048854,Osteoarthritis,MESH:D010003,1,Ethanol,0,
+branched-chain amino acid catabolic process,GO:0009083,Osteoarthritis,MESH:D010003,0,,1,HIBCH
+branch elongation involved in mammary gland duct branching,GO:0060751,Osteoarthritis,MESH:D010003,0,,1,TGFB1
+branching involved in prostate gland morphogenesis,GO:0060442,Osteoarthritis,MESH:D010003,0,,1,BMP4
+branching involved in salivary gland morphogenesis,GO:0060445,Osteoarthritis,MESH:D010003,0,,1,TGM2
+branching involved in salivary gland morphogenesis,GO:0060445,"Osteoarthritis, Spine",MESH:D055013,0,,1,IL6
+branching involved in ureteric bud morphogenesis,GO:0001658,Osteoarthritis,MESH:D010003,0,,1,BMP4
+branching morphogenesis of an epithelial tube,GO:0048754,Osteoarthritis,MESH:D010003,0,,1,CLIC4
+bronchiole development,GO:0060435,Osteoarthritis,MESH:D010003,0,,1,TGFB1
+bronchus development,GO:0060433,Osteoarthritis,MESH:D010003,0,,1,BMP4
+brown fat cell differentiation,GO:0050873,Osteoarthritis,MESH:D010003,2,Indomethacin|Resveratrol,2,PPARG|PTGS2
+brown fat cell differentiation,GO:0050873,"Osteoarthritis, Hip",MESH:D015207,1,Indomethacin,0,
+brown fat cell differentiation,GO:0050873,"Osteoarthritis, Knee",MESH:D020370,1,Resveratrol,0,
+bud dilation involved in lung branching,GO:0060503,Osteoarthritis,MESH:D010003,0,,1,BMP4
+bud elongation involved in lung branching,GO:0060449,Osteoarthritis,MESH:D010003,0,,1,BMP4
+bud outgrowth involved in lung branching,GO:0060447,"Osteoarthritis, Hip",MESH:D015207,0,,1,TNC
+butyrate metabolic process,GO:0019605,Osteoarthritis,MESH:D010003,1,Dietary Fats,0,
+C21-steroid hormone biosynthetic process,GO:0006700,Osteoarthritis,MESH:D010003,3,Caffeine|Ethanol|Nicotine,0,
+C-5 methylation of cytosine,GO:0090116,Osteoarthritis,MESH:D010003,2,Decitabine|Resveratrol,0,
+C-5 methylation of cytosine,GO:0090116,"Osteoarthritis, Knee",MESH:D020370,1,Resveratrol,0,
+calcitonin family receptor signaling pathway,GO:0097646,Osteoarthritis,MESH:D010003,0,,1,CALCA
+calcitonin gene-related peptide receptor signaling pathway,GO:1990408,Osteoarthritis,MESH:D010003,0,,1,CALCA
+calcium import into the mitochondrion,GO:0036444,Osteoarthritis,MESH:D010003,1,Lithium Chloride,2,OPA1|VDAC2
+calcium ion homeostasis,GO:0055074,Osteoarthritis,MESH:D010003,5,Acetaminophen|Curcumin|Dietary Fats|Ethanol|Resveratrol,1,CALCA
+calcium ion homeostasis,GO:0055074,"Osteoarthritis, Knee",MESH:D020370,2,Adenosine Triphosphate|Resveratrol,0,
+calcium ion import,GO:0070509,Osteoarthritis,MESH:D010003,2,Capsaicin|Nicotine,1,TRPV4
+calcium ion import,GO:0070509,"Osteoarthritis, Knee",MESH:D020370,1,Adenosine Triphosphate,0,
+calcium ion import across plasma membrane,GO:0098703,Osteoarthritis,MESH:D010003,0,,1,TRPV4
+calcium ion import into cytosol,GO:1902656,Osteoarthritis,MESH:D010003,0,,1,TRPV4
+calcium ion transmembrane transport,GO:0070588,Osteoarthritis,MESH:D010003,0,,1,TRPV4
+calcium ion transmembrane transport via high voltage-gated calcium channel,GO:0061577,Osteoarthritis,MESH:D010003,1,Resveratrol,0,
+calcium ion transmembrane transport via high voltage-gated calcium channel,GO:0061577,"Osteoarthritis, Knee",MESH:D020370,1,Resveratrol,0,
+calcium ion transport,GO:0006816,Osteoarthritis,MESH:D010003,1,Nicotine,1,TRPV4
+calcium-mediated signaling,GO:0019722,Osteoarthritis,MESH:D010003,8,Caffeine|Capsaicin|Celecoxib|Curcumin|Diclofenac|Dinoprostone|Nicotine|Resveratrol,1,ATP1A3
+calcium-mediated signaling,GO:0019722,"Osteoarthritis, Knee",MESH:D020370,2,Adenosine Triphosphate|Resveratrol,0,
+calcium-mediated signaling,GO:0019722,"Osteoarthritis, Spine",MESH:D055013,0,,2,CXCL8|TNF
+camera-type eye development,GO:0043010,Osteoarthritis,MESH:D010003,0,,2,ALDH1A2|BMP4
+camera-type eye development,GO:0043010,"Osteoarthritis, Hip",MESH:D015207,0,,1,LMX1B
+camera-type eye morphogenesis,GO:0048593,Osteoarthritis,MESH:D010003,0,,2,ALDH1A2|BMP4
+cAMP biosynthetic process,GO:0006171,Osteoarthritis,MESH:D010003,7,Caffeine|Curcumin|Dinoprostone|Ethanol|Lipopolysaccharides|Nicotine|Resveratrol,0,
+cAMP biosynthetic process,GO:0006171,"Osteoarthritis, Knee",MESH:D020370,2,Lipopolysaccharides|Resveratrol,0,
+cAMP-mediated signaling,GO:0019933,Osteoarthritis,MESH:D010003,0,,1,GAPDH
+cAMP metabolic process,GO:0046058,Osteoarthritis,MESH:D010003,4,Caffeine|Dietary Fats|Ethanol|Resveratrol,0,
+cAMP metabolic process,GO:0046058,"Osteoarthritis, Knee",MESH:D020370,1,Resveratrol,0,
+cannabinoid biosynthetic process,GO:1901696,Osteoarthritis,MESH:D010003,1,Dietary Fats,0,
+canonical glycolysis,GO:0061621,Osteoarthritis,MESH:D010003,0,,2,ENO1|GAPDH
+canonical glycolysis,GO:0061621,"Osteoarthritis, Knee",MESH:D020370,1,Adenosine Triphosphate,0,
+canonical Wnt signaling pathway,GO:0060070,Osteoarthritis,MESH:D010003,0,,2,FRZB|TGFB1
+carbohydrate export,GO:0033231,Osteoarthritis,MESH:D010003,2,Curcumin|xanthohumol,0,
+carbohydrate metabolic process,GO:0005975,Osteoarthritis,MESH:D010003,0,,3,CHI3L1|IDH2|IDH3A
+carbohydrate metabolic process,GO:0005975,"Osteoarthritis, Knee",MESH:D020370,1,Adenosine Triphosphate,0,
+carboxylic acid metabolic process,GO:0019752,Osteoarthritis,MESH:D010003,1,Indomethacin,0,
+carboxylic acid metabolic process,GO:0019752,"Osteoarthritis, Hip",MESH:D015207,1,Indomethacin,0,
+carboxylic acid metabolic process,GO:0019752,"Osteoarthritis, Knee",MESH:D020370,1,Adenosine Triphosphate,0,
+carboxylic acid transport,GO:0046942,Osteoarthritis,MESH:D010003,0,,1,ATP1A3
+cardiac muscle cell apoptotic process,GO:0010659,Osteoarthritis,MESH:D010003,1,morroniside,0,
+cardiac muscle cell contraction,GO:0086003,Osteoarthritis,MESH:D010003,2,Caffeine|Ethanol,0,
+cardiac muscle cell development,GO:0055013,Osteoarthritis,MESH:D010003,1,Nicotine,0,
+cardiac muscle cell differentiation,GO:0055007,Osteoarthritis,MESH:D010003,1,Nicotine,1,BMP4
+cardiac muscle cell proliferation,GO:0060038,Osteoarthritis,MESH:D010003,1,morroniside,0,
+cardiac muscle contraction,GO:0060048,Osteoarthritis,MESH:D010003,2,Iron|Nicotine,1,ATP1A3
+cardiac muscle hypertrophy,GO:0003300,Osteoarthritis,MESH:D010003,4,Ethanol|Lipopolysaccharides|Resveratrol|Tramadol,0,
+cardiac muscle hypertrophy,GO:0003300,"Osteoarthritis, Knee",MESH:D020370,3,Lipopolysaccharides|Resveratrol|Tramadol,0,
+cardiac muscle hypertrophy in response to stress,GO:0014898,Osteoarthritis,MESH:D010003,0,,1,BMP4
+cardiac muscle tissue development,GO:0048738,Osteoarthritis,MESH:D010003,0,,2,ALDH1A2|SGCG
+cardiac septum development,GO:0003279,Osteoarthritis,MESH:D010003,0,,1,BMP4
+cardiac ventricle development,GO:0003231,"Osteoarthritis, Hip",MESH:D015207,0,,1,SMO
+cardiac ventricle morphogenesis,GO:0003208,Osteoarthritis,MESH:D010003,0,,1,LTBP3
+cardiac ventricle morphogenesis,GO:0003208,"Osteoarthritis, Hip",MESH:D015207,0,,1,LTBP3
+cardioblast differentiation,GO:0010002,"Osteoarthritis, Hip",MESH:D015207,0,,1,SMO
+cardiolipin acyl-chain remodeling,GO:0035965,Osteoarthritis,MESH:D010003,0,,1,HADHA
+carnitine metabolic process,GO:0009437,Osteoarthritis,MESH:D010003,1,Indomethacin,0,
+carnitine metabolic process,GO:0009437,"Osteoarthritis, Hip",MESH:D015207,1,Indomethacin,0,
+"carnitine metabolic process, CoA-linked",GO:0019254,Osteoarthritis,MESH:D010003,1,Dietary Fats,0,
+carnitine transmembrane transport,GO:1902603,Osteoarthritis,MESH:D010003,1,Caffeine,0,
+cartilage condensation,GO:0001502,Osteoarthritis,MESH:D010003,0,,1,COL2A1
+cartilage condensation,GO:0001502,"Osteoarthritis, Hip",MESH:D015207,0,,1,COL11A1
+cartilage condensation,GO:0001502,Osteoarthritis with Mild Chondrodysplasia,MESH:C565740,0,,1,COL2A1
+cartilage condensation,GO:0001502,SHORT STATURE AND ADVANCED BONE AGE WITH OR WITHOUT EARLY-ONSET OSTEOARTHRITIS AND/OR OSTEOCHONDRITIS DISSECANS,OMIM:165800,0,,1,ACAN
+cartilage development,GO:0051216,Osteoarthritis,MESH:D010003,2,Ethanol|Nicotine,8,BMP4|BMP6|CHI3L1|COL2A1|COMP|CTSK|MATN3|SEC23A
+cartilage development,GO:0051216,"Osteoarthritis, Hip",MESH:D015207,0,,3,COL11A1|COMP|SMO
+cartilage development,GO:0051216,Osteoarthritis with Mild Chondrodysplasia,MESH:C565740,0,,1,COL2A1
+cartilage development involved in endochondral bone morphogenesis,GO:0060351,Osteoarthritis,MESH:D010003,0,,2,COL2A1|TRPV4
+cartilage development involved in endochondral bone morphogenesis,GO:0060351,Osteoarthritis with Mild Chondrodysplasia,MESH:C565740,0,,1,COL2A1
+cartilage homeostasis,GO:1990079,Osteoarthritis,MESH:D010003,0,,2,COMP|TRPV4
+cartilage homeostasis,GO:1990079,"Osteoarthritis, Hip",MESH:D015207,0,,1,COMP
+catecholamine secretion,GO:0050432,Osteoarthritis,MESH:D010003,1,Nicotine,0,
+caudal fin morphogenesis,GO:0035143,"Osteoarthritis, Hip",MESH:D015207,0,,1,SMO
+"CD4-positive, CD25-positive, alpha-beta regulatory T cell lineage commitment",GO:0002362,Osteoarthritis,MESH:D010003,0,,1,TGFB1
+cell activation,GO:0001775,Osteoarthritis,MESH:D010003,1,Resveratrol,1,TGFB1
+cell activation,GO:0001775,"Osteoarthritis, Knee",MESH:D020370,1,Resveratrol,0,
+cell adhesion,GO:0007155,Osteoarthritis,MESH:D010003,1,Resveratrol,6,AGER|CALCA|COL6A2|COMP|EDIL3|NME2
+cell adhesion,GO:0007155,"Osteoarthritis, Hip",MESH:D015207,0,,2,COMP|TNC
+cell adhesion,GO:0007155,"Osteoarthritis, Knee",MESH:D020370,1,Resveratrol,0,
+cell adhesion,GO:0007155,SHORT STATURE AND ADVANCED BONE AGE WITH OR WITHOUT EARLY-ONSET OSTEOARTHRITIS AND/OR OSTEOCHONDRITIS DISSECANS,OMIM:165800,0,,1,ACAN
+cell aggregation,GO:0098743,Osteoarthritis,MESH:D010003,7,Celecoxib|Diclofenac|Ibuprofen|Indomethacin|Lipopolysaccharides|Mefenamic Acid|Nicotine,0,
+cell aggregation,GO:0098743,"Osteoarthritis, Hip",MESH:D015207,3,Ibuprofen|Indomethacin|Mefenamic Acid,0,
+cell aggregation,GO:0098743,"Osteoarthritis, Knee",MESH:D020370,1,Lipopolysaccharides,0,
+cell-cell adhesion,GO:0098609,Osteoarthritis,MESH:D010003,1,Lipopolysaccharides,0,
+cell-cell adhesion,GO:0098609,"Osteoarthritis, Knee",MESH:D020370,1,Lipopolysaccharides,0,
+cell-cell adhesion in response to extracellular stimulus,GO:0140039,Osteoarthritis,MESH:D010003,1,Resveratrol,0,
+cell-cell adhesion in response to extracellular stimulus,GO:0140039,"Osteoarthritis, Knee",MESH:D020370,1,Resveratrol,0,
+cell-cell adhesion via plasma-membrane adhesion molecules,GO:0098742,Osteoarthritis,MESH:D010003,1,Curcumin,0,
+cell-cell junction assembly,GO:0007043,Osteoarthritis,MESH:D010003,0,,1,TRPV4
+cell-cell junction organization,GO:0045216,Osteoarthritis,MESH:D010003,2,ferrostatin-1|Resveratrol,2,SMAD3|TGFB1
+cell-cell junction organization,GO:0045216,"Osteoarthritis, Hip",MESH:D015207,0,,1,SMAD3
+cell-cell junction organization,GO:0045216,"Osteoarthritis, Knee",MESH:D020370,1,Resveratrol,0,
+cell-cell signaling,GO:0007267,Osteoarthritis,MESH:D010003,1,Resveratrol,5,CALCA|CXCL6|FGF18|GDF5|IL1B
+cell-cell signaling,GO:0007267,"Osteoarthritis, Hip",MESH:D015207,0,,1,MAPT
+cell-cell signaling,GO:0007267,"Osteoarthritis, Knee",MESH:D020370,1,Resveratrol,1,GDF5
+cell-cell signaling via exosome,GO:0099156,Osteoarthritis,MESH:D010003,2,Acetaminophen|Lipopolysaccharides,0,
+cell-cell signaling via exosome,GO:0099156,"Osteoarthritis, Knee",MESH:D020370,1,Lipopolysaccharides,0,
+cell chemotaxis,GO:0060326,Osteoarthritis,MESH:D010003,16,Acetaminophen|Aspartame|Aspirin|Curcumin|Decitabine|Diclofenac|Dinoprostone|ferrostatin-1|Ibuprofen|Indomethacin|Lipopolysaccharides|Lithium Chloride|Naproxen|Nicotine|oxymatrine|Resveratrol,1,CXCL2
+cell chemotaxis,GO:0060326,"Osteoarthritis, Hip",MESH:D015207,3,Ibuprofen|Indomethacin|Naproxen,0,
+cell chemotaxis,GO:0060326,"Osteoarthritis, Knee",MESH:D020370,3,Adenosine Triphosphate|Lipopolysaccharides|Resveratrol,0,
+cell communication by electrical coupling involved in cardiac conduction,GO:0086064,Osteoarthritis,MESH:D010003,0,,1,ATP1A3
+cell cycle,GO:0007049,Osteoarthritis,MESH:D010003,18,Acetaminophen|Aspirin|Caffeine|Capsaicin|Celecoxib|Curcumin|Decitabine|Dinoprostone|Ibuprofen|Indomethacin|Lithium Chloride|lumiracoxib|Naproxen|Nicotine|nimesulide|Reactive Oxygen Species|Resveratrol|Sulindac,0,
+cell cycle,GO:0007049,"Osteoarthritis, Hip",MESH:D015207,4,Ibuprofen|Indomethacin|Naproxen|nimesulide,0,
+cell cycle,GO:0007049,"Osteoarthritis, Knee",MESH:D020370,2,nimesulide|Resveratrol,0,
+cell death,GO:0008219,Osteoarthritis,MESH:D010003,35,Acetaminophen|Aspirin|Caffeine|Capsaicin|Celecoxib|Curcumin|Decitabine|Diclofenac|Dietary Fats|Dinoprostone|Doxycycline|Ethanol|ferrostatin-1|fisetin|Ibuprofen|Indomethacin|Iodoacetates|Iodoacetic Acid|Iron|Ketoprofen|Lipopolysaccharides|Lithium Chloride|Mefenamic Acid|Meloxicam|Misoprostol|Nicotine|nimesulide|Piroxicam|Reactive Oxygen Species|Resveratrol|rofecoxib|Sulindac|Tolmetin|Tramadol|xanthohumol,0,
+cell death,GO:0008219,"Osteoarthritis, Hip",MESH:D015207,5,Ibuprofen|Indomethacin|Mefenamic Acid|nimesulide|Piroxicam,0,
+cell death,GO:0008219,"Osteoarthritis, Knee",MESH:D020370,8,Adenosine Triphosphate|Iodoacetates|Iodoacetic Acid|Lipopolysaccharides|nimesulide|Resveratrol|rofecoxib|Tramadol,0,
+cell death in response to hydrogen peroxide,GO:0036474,Osteoarthritis,MESH:D010003,2,morroniside|Resveratrol,0,
+cell death in response to hydrogen peroxide,GO:0036474,"Osteoarthritis, Knee",MESH:D020370,1,Resveratrol,0,
+cell development,GO:0048468,Osteoarthritis,MESH:D010003,1,Ethanol,0,
+cell development,GO:0048468,"Osteoarthritis, Hip",MESH:D015207,0,,1,SMO
+cell differentiation,GO:0030154,Osteoarthritis,MESH:D010003,15,Aspirin|Caffeine|Capsaicin|Curcumin|Decitabine|Diclofenac|Dinoprostone|Ethanol|Indomethacin|Lipopolysaccharides|Nicotine|nimesulide|Reactive Oxygen Species|Resveratrol|rofecoxib,9,BMP4|CLIC4|DDX3X|DPYSL2|FGF18|FRZB|LGALS3|PPARG|SMAD3
+cell differentiation,GO:0030154,"Osteoarthritis, Hip",MESH:D015207,2,Indomethacin|nimesulide,1,SMAD3
+cell differentiation,GO:0030154,"Osteoarthritis, Knee",MESH:D020370,4,Lipopolysaccharides|nimesulide|Resveratrol|rofecoxib,0,
+cell differentiation,GO:0030154,"Osteoarthritis, Spine",MESH:D055013,0,,1,IL6
+cell division,GO:0051301,Osteoarthritis,MESH:D010003,0,,1,RAN
+cell fate commitment,GO:0045165,Osteoarthritis,MESH:D010003,0,,2,BMP4|PPARG
+cell fate specification,GO:0001708,"Osteoarthritis, Hip",MESH:D015207,0,,1,SMO
+cell growth,GO:0016049,Osteoarthritis,MESH:D010003,16,Acetaminophen|Caffeine|Capsaicin|Curcumin|Decitabine|Diclofenac|Dietary Fats|Ethanol|ferrostatin-1|fisetin|Ketoprofen|Lipopolysaccharides|Lithium Chloride|polygalacic acid|Resveratrol|Tramadol,0,
+cell growth,GO:0016049,"Osteoarthritis, Knee",MESH:D020370,3,Lipopolysaccharides|Resveratrol|Tramadol,0,
+cell maturation,GO:0048469,Osteoarthritis,MESH:D010003,2,Ethanol|Lipopolysaccharides,3,LTBP3|PPARG|RUNX2
+cell maturation,GO:0048469,"Osteoarthritis, Hip",MESH:D015207,0,,2,LTBP3|RUNX2
+cell maturation,GO:0048469,"Osteoarthritis, Knee",MESH:D020370,1,Lipopolysaccharides,0,
+cell migration,GO:0016477,Osteoarthritis,MESH:D010003,13,Aspartame|Celecoxib|Curcumin|Decitabine|Dietary Fats|Dinoprostone|Ethanol|ferrostatin-1|Indomethacin|Lipopolysaccharides|Lithium Chloride|Resveratrol|xanthohumol,1,DAPP1
+cell migration,GO:0016477,"Osteoarthritis, Hip",MESH:D015207,1,Indomethacin,0,
+cell migration,GO:0016477,"Osteoarthritis, Knee",MESH:D020370,2,Lipopolysaccharides|Resveratrol,0,
+cell migration involved in vasculogenesis,GO:0035441,Osteoarthritis,MESH:D010003,1,Ethanol,0,
+cell morphogenesis,GO:0000902,Osteoarthritis,MESH:D010003,1,"theaflavin-3,3'-digallate",2,CLU|TGFB1
+cell motility,GO:0048870,Osteoarthritis,MESH:D010003,0,,1,ACTB
+cell population proliferation,GO:0008283,Osteoarthritis,MESH:D010003,33,Acetaminophen|Aspirin|astaxanthine|benoxaprofen|Caffeine|Capsaicin|Celecoxib|Curcumin|Decitabine|Diclofenac|Dietary Fats|Dinoprostone|Ethanol|ferrostatin-1|fisetin|Ibuprofen|Indomethacin|Iodoacetic Acid|Iron|Lipopolysaccharides|Lithium Chloride|lumiracoxib|Meloxicam|morroniside|Nicotine|nimesulide|oxymatrine|Phenylbutazone|Reactive Oxygen Species|Resveratrol|rofecoxib|Sulindac|xanthohumol,9,ALDH1A2|BMP4|FGF18|MVP|PPARG|RUNX2|SMAD3|TGFB1|TXNRD1
+cell population proliferation,GO:0008283,"Osteoarthritis, Hip",MESH:D015207,4,Ibuprofen|Indomethacin|nimesulide|Phenylbutazone,5,IL11|LMX1B|RUNX2|SMAD3|SMO
+cell population proliferation,GO:0008283,"Osteoarthritis, Knee",MESH:D020370,7,Adenosine Triphosphate|Iodoacetic Acid|Lipopolysaccharides|nimesulide|Pregabalin|Resveratrol|rofecoxib,0,
+cell redox homeostasis,GO:0045454,Osteoarthritis,MESH:D010003,8,Acetaminophen|Aspirin|Curcumin|Dietary Fats|Ethanol|ferrostatin-1|Reactive Oxygen Species|Resveratrol,1,TXNRD1
+cell redox homeostasis,GO:0045454,"Osteoarthritis, Knee",MESH:D020370,1,Resveratrol,0,
+cell redox homeostasis,GO:0045454,"Osteoarthritis, Spine",MESH:D055013,0,,1,IL6
+cell-substrate adhesion,GO:0031589,Osteoarthritis,MESH:D010003,1,xanthohumol,0,
+cell surface receptor signaling pathway,GO:0007166,Osteoarthritis,MESH:D010003,0,,2,ADGRG2|AGER
+cell surface receptor signaling pathway,GO:0007166,"Osteoarthritis, Hip",MESH:D015207,0,,2,CRHR1|SMO
+cell surface receptor signaling pathway involved in heart development,GO:0061311,Osteoarthritis,MESH:D010003,0,,1,BMP4
+cellular aldehyde metabolic process,GO:0006081,Osteoarthritis,MESH:D010003,0,,2,ALDH1A2|NDUFS8
+cellular biogenic amine catabolic process,GO:0042402,Osteoarthritis,MESH:D010003,1,Caffeine,0,
+cellular calcium ion homeostasis,GO:0006874,Osteoarthritis,MESH:D010003,16,Aspartame|Caffeine|Capsaicin|Decitabine|Diclofenac|Dietary Fats|Ethanol|Etodolac|Ibuprofen|Indomethacin|Lipopolysaccharides|Lithium Chloride|Naproxen|Nicotine|oxymatrine|Resveratrol,3,CALCA|TGFB1|TRPV4
+cellular calcium ion homeostasis,GO:0006874,"Osteoarthritis, Hip",MESH:D015207,3,Ibuprofen|Indomethacin|Naproxen,0,
+cellular calcium ion homeostasis,GO:0006874,"Osteoarthritis, Knee",MESH:D020370,3,Adenosine Triphosphate|Lipopolysaccharides|Resveratrol,0,
+cellular chemical homeostasis,GO:0055082,Osteoarthritis,MESH:D010003,1,Curcumin,0,
+cellular detoxification,GO:1990748,Osteoarthritis,MESH:D010003,1,Meloxicam,0,
+cellular detoxification of hydrogen peroxide,GO:0061692,Osteoarthritis,MESH:D010003,1,Curcumin,0,
+cellular extravasation,GO:0045123,"Osteoarthritis, Spine",MESH:D055013,0,,1,TNF
+cellular glutamate homeostasis,GO:0090461,Osteoarthritis,MESH:D010003,0,,1,GLS
+cellular hyperosmotic response,GO:0071474,Osteoarthritis,MESH:D010003,0,,1,SLC2A1
+cellular hypotonic response,GO:0071476,Osteoarthritis,MESH:D010003,0,,1,TRPV4
+cellular hypotonic salinity response,GO:0071477,Osteoarthritis,MESH:D010003,0,,1,TRPV4
+cellular hypotonic salinity response,GO:0071477,"Osteoarthritis, Knee",MESH:D020370,1,Adenosine Triphosphate,0,
+cellular iron ion homeostasis,GO:0006879,Osteoarthritis,MESH:D010003,7,Acetaminophen|astaxanthine|Dietary Fats|Ethanol|ferrostatin-1|Iron|Resveratrol,3,ACO1|BMP6|FTL
+cellular iron ion homeostasis,GO:0006879,"Osteoarthritis, Hip",MESH:D015207,0,,1,HFE
+cellular iron ion homeostasis,GO:0006879,"Osteoarthritis, Knee",MESH:D020370,1,Resveratrol,0,
+cellular lipid catabolic process,GO:0044242,Osteoarthritis,MESH:D010003,6,Caffeine|Ethanol|Meloxicam|Nicotine|Reactive Oxygen Species|Resveratrol,0,
+cellular lipid catabolic process,GO:0044242,"Osteoarthritis, Knee",MESH:D020370,1,Resveratrol,0,
+cellular lipid metabolic process,GO:0044255,Osteoarthritis,MESH:D010003,1,Dietary Fats,0,
+cellular metabolic process,GO:0044237,Osteoarthritis,MESH:D010003,33,"Acetaminophen|Aspartame|Aspirin|astaxanthine|Caffeine|Capsaicin|Celecoxib|Curcumin|Decitabine|Diclofenac|Diflunisal|Dinoprostone|Doxycycline|Ethanol|Etodolac|ferrostatin-1|fisetin|Ibuprofen|Indomethacin|Iron|Lipopolysaccharides|Lithium Chloride|Mefenamic Acid|MF63 compound|morroniside|Naproxen|Nicotine|oxymatrine|pregna-4,17-diene-3,16-dione|Resveratrol|Salicylates|Sulindac|xanthohumol",0,
+cellular metabolic process,GO:0044237,"Osteoarthritis, Hip",MESH:D015207,4,Ibuprofen|Indomethacin|Mefenamic Acid|Naproxen,0,
+cellular metabolic process,GO:0044237,"Osteoarthritis, Knee",MESH:D020370,4,Adenosine Triphosphate|argan oil|Lipopolysaccharides|Resveratrol,0,
+cellular metal ion homeostasis,GO:0006875,Osteoarthritis,MESH:D010003,1,Iron,0,
+cellular nitric oxide homeostasis,GO:0033484,Osteoarthritis,MESH:D010003,2,Curcumin|Lipopolysaccharides,0,
+cellular nitric oxide homeostasis,GO:0033484,"Osteoarthritis, Knee",MESH:D020370,1,Lipopolysaccharides,0,
+cellular nitrogen compound metabolic process,GO:0034641,Osteoarthritis,MESH:D010003,1,Lipopolysaccharides,0,
+cellular nitrogen compound metabolic process,GO:0034641,"Osteoarthritis, Knee",MESH:D020370,1,Lipopolysaccharides,0,
+cellular oxidant detoxification,GO:0098869,Osteoarthritis,MESH:D010003,1,Reactive Oxygen Species,3,GSTK1|PTGS2|TXNRD1
+cellular oxygen homeostasis,GO:0032364,Osteoarthritis,MESH:D010003,1,Lipopolysaccharides,1,SOD2
+cellular oxygen homeostasis,GO:0032364,"Osteoarthritis, Knee",MESH:D020370,1,Lipopolysaccharides,0,
+cellular potassium ion homeostasis,GO:0030007,Osteoarthritis,MESH:D010003,0,,1,ATP1A3
+cellular respiration,GO:0045333,Osteoarthritis,MESH:D010003,6,Caffeine|Curcumin|Dietary Fats|Lipopolysaccharides|Nicotine|Resveratrol,0,
+cellular respiration,GO:0045333,"Osteoarthritis, Knee",MESH:D020370,3,Adenosine Triphosphate|Lipopolysaccharides|Resveratrol,0,
+cellular response to acetaldehyde,GO:1905641,Osteoarthritis,MESH:D010003,0,,1,TGFB1
+cellular response to acid chemical,GO:0071229,Osteoarthritis,MESH:D010003,0,,1,ENO1
+cellular response to aldehyde,GO:0110096,Osteoarthritis,MESH:D010003,0,,1,COL1A2
+cellular response to amino acid stimulus,GO:0071230,Osteoarthritis,MESH:D010003,0,,1,COL1A2
+cellular response to amino acid stimulus,GO:0071230,"Osteoarthritis, Spine",MESH:D055013,0,,1,TNF
+cellular response to ammonium ion,GO:0071242,Osteoarthritis,MESH:D010003,1,Resveratrol,0,
+cellular response to ammonium ion,GO:0071242,"Osteoarthritis, Knee",MESH:D020370,1,Resveratrol,0,
+cellular response to amyloid-beta,GO:1904646,Osteoarthritis,MESH:D010003,0,,2,AGER|ATP1A3
+cellular response to amyloid-beta,GO:1904646,"Osteoarthritis, Spine",MESH:D055013,0,,1,TNF
+cellular response to antibiotic,GO:0071236,Osteoarthritis,MESH:D010003,0,,1,IL1B
+cellular response to arsenic-containing substance,GO:0071243,Osteoarthritis,MESH:D010003,1,Resveratrol,1,DDX3X
+cellular response to arsenic-containing substance,GO:0071243,"Osteoarthritis, Knee",MESH:D020370,1,Resveratrol,0,
+cellular response to ATP,GO:0071318,Osteoarthritis,MESH:D010003,0,,1,PTGS2
+cellular response to blue light,GO:0071483,Osteoarthritis,MESH:D010003,1,Resveratrol,0,
+cellular response to blue light,GO:0071483,"Osteoarthritis, Knee",MESH:D020370,1,Resveratrol,0,
+cellular response to BMP stimulus,GO:0071773,Osteoarthritis,MESH:D010003,0,,3,BMP4|BMP6|COL2A1
+cellular response to BMP stimulus,GO:0071773,Osteoarthritis with Mild Chondrodysplasia,MESH:C565740,0,,1,COL2A1
+cellular response to brain-derived neurotrophic factor stimulus,GO:1990416,Osteoarthritis,MESH:D010003,0,,1,EEF2
+cellular response to brain-derived neurotrophic factor stimulus,GO:1990416,"Osteoarthritis, Hip",MESH:D015207,0,,1,MAPT
+cellular response to calcium ion,GO:0071277,Osteoarthritis,MESH:D010003,0,,3,CLIC4|DPEP1|PLCD1
+cellular response to cAMP,GO:0071320,Osteoarthritis,MESH:D010003,0,,1,EZR
+cellular response to cell-matrix adhesion,GO:0071460,"Osteoarthritis, Spine",MESH:D055013,0,,1,SKP2
+cellular response to chemokine,GO:1990869,"Osteoarthritis, Spine",MESH:D055013,0,,1,DUSP1
+cellular response to cholesterol,GO:0071397,"Osteoarthritis, Hip",MESH:D015207,0,,1,SMO
+cellular response to cisplatin,GO:0072719,Osteoarthritis,MESH:D010003,8,Aspirin|Celecoxib|Diclofenac|Ibuprofen|Indomethacin|Mefenamic Acid|Piroxicam|rofecoxib,0,
+cellular response to cisplatin,GO:0072719,"Osteoarthritis, Hip",MESH:D015207,4,Ibuprofen|Indomethacin|Mefenamic Acid|Piroxicam,0,
+cellular response to cisplatin,GO:0072719,"Osteoarthritis, Knee",MESH:D020370,1,rofecoxib,0,
+cellular response to cocaine,GO:0071314,Osteoarthritis,MESH:D010003,0,,1,TGM2
+cellular response to copper ion,GO:0071280,Osteoarthritis,MESH:D010003,0,,1,TXNRD1
+cellular response to corticotropin-releasing hormone stimulus,GO:0071376,"Osteoarthritis, Hip",MESH:D015207,0,,1,CRHR1
+cellular response to cytochalasin B,GO:0072749,Osteoarthritis,MESH:D010003,0,,1,ACTB
+cellular response to cytokine stimulus,GO:0071345,"Osteoarthritis, Spine",MESH:D055013,0,,1,IL6
+cellular response to dexamethasone stimulus,GO:0071549,Osteoarthritis,MESH:D010003,0,,2,BMP4|TGFB1
+cellular response to dexamethasone stimulus,GO:0071549,"Osteoarthritis, Spine",MESH:D055013,0,,1,IL6
+cellular response to DNA damage stimulus,GO:0006974,Osteoarthritis,MESH:D010003,16,Acetaminophen|Aspartame|Caffeine|Curcumin|diacerein|Diclofenac|Dietary Fats|Ethanol|Iodoacetic Acid|Iron|Lipopolysaccharides|Nicotine|Piroxicam|Resveratrol|Tramadol|xanthohumol,0,
+cellular response to DNA damage stimulus,GO:0006974,"Osteoarthritis, Hip",MESH:D015207,1,Piroxicam,1,MAPT
+cellular response to DNA damage stimulus,GO:0006974,"Osteoarthritis, Knee",MESH:D020370,4,Iodoacetic Acid|Lipopolysaccharides|Resveratrol|Tramadol,0,
+cellular response to dopamine,GO:1903351,Osteoarthritis,MESH:D010003,0,,1,TGM2
+cellular response to electrical stimulus,GO:0071257,Osteoarthritis,MESH:D010003,0,,1,ACTB
+cellular response to estradiol stimulus,GO:0071392,"Osteoarthritis, Spine",MESH:D055013,0,,1,IL6
+cellular response to ethanol,GO:0071361,Osteoarthritis,MESH:D010003,0,,1,SOD2
+cellular response to fatty acid,GO:0071398,Osteoarthritis,MESH:D010003,1,Reactive Oxygen Species,3,AGER|IL1B|NME2
+cellular response to fibroblast growth factor stimulus,GO:0044344,Osteoarthritis,MESH:D010003,0,,2,RUNX2|VIM
+cellular response to fibroblast growth factor stimulus,GO:0044344,"Osteoarthritis, Hip",MESH:D015207,0,,1,RUNX2
+cellular response to fibroblast growth factor stimulus,GO:0044344,"Osteoarthritis, Spine",MESH:D055013,0,,1,CXCL8
+cellular response to fluid shear stress,GO:0071498,Osteoarthritis,MESH:D010003,0,,2,PTGS2|TFPI2
+cellular response to fluoride,GO:1902618,Osteoarthritis,MESH:D010003,1,"theaflavin-3,3'-digallate",0,
+cellular response to food,GO:0071240,Osteoarthritis,MESH:D010003,1,Dietary Fats,0,
+cellular response to gamma radiation,GO:0071480,Osteoarthritis,MESH:D010003,3,Dinoprostone|Lipopolysaccharides|Reactive Oxygen Species,0,
+cellular response to gamma radiation,GO:0071480,"Osteoarthritis, Knee",MESH:D020370,2,Adenosine Triphosphate|Lipopolysaccharides,0,
+cellular response to glucose starvation,GO:0042149,Osteoarthritis,MESH:D010003,0,,1,SLC2A1
+cellular response to glucose stimulus,GO:0071333,Osteoarthritis,MESH:D010003,0,,6,AGER|IL1B|NME2|OPA1|SMAD3|TGFB1
+cellular response to glucose stimulus,GO:0071333,"Osteoarthritis, Hip",MESH:D015207,0,,1,SMAD3
+cellular response to glucose stimulus,GO:0071333,"Osteoarthritis, Spine",MESH:D055013,0,,1,MIR337
+cellular response to glyoxal,GO:0036471,Osteoarthritis,MESH:D010003,1,Capsaicin,0,
+cellular response to growth factor stimulus,GO:0071363,Osteoarthritis,MESH:D010003,0,,3,BMP4|CLU|TGFB1
+cellular response to growth factor stimulus,GO:0071363,"Osteoarthritis, Knee",MESH:D020370,0,,1,MIR219A1
+cellular response to growth factor stimulus,GO:0071363,SHORT STATURE AND ADVANCED BONE AGE WITH OR WITHOUT EARLY-ONSET OSTEOARTHRITIS AND/OR OSTEOCHONDRITIS DISSECANS,OMIM:165800,0,,1,ACAN
+cellular response to heat,GO:0034605,Osteoarthritis,MESH:D010003,0,,3,PTGS2|TRAP1|TRPV4
+cellular response to heat,GO:0034605,"Osteoarthritis, Hip",MESH:D015207,0,,1,MAPT
+cellular response to hepatocyte growth factor stimulus,GO:0035729,"Osteoarthritis, Spine",MESH:D055013,0,,1,IL6
+cellular response to high light intensity,GO:0071486,Osteoarthritis,MESH:D010003,1,Piroxicam,0,
+cellular response to high light intensity,GO:0071486,"Osteoarthritis, Hip",MESH:D015207,1,Piroxicam,0,
+cellular response to homocysteine,GO:1905375,Osteoarthritis,MESH:D010003,0,,1,PTGS2
+cellular response to hormone stimulus,GO:0032870,Osteoarthritis,MESH:D010003,0,,1,PLOD2
+cellular response to hormone stimulus,GO:0032870,"Osteoarthritis, Spine",MESH:D055013,0,,1,DUSP1
+cellular response to hydrogen peroxide,GO:0070301,Osteoarthritis,MESH:D010003,1,Decitabine,1,AGER
+cellular response to hydrogen peroxide,GO:0070301,"Osteoarthritis, Spine",MESH:D055013,0,,1,IL6
+cellular response to hyperoxia,GO:0071455,Osteoarthritis,MESH:D010003,0,,2,PPARG|TXNRD1
+cellular response to hypoxia,GO:0071456,Osteoarthritis,MESH:D010003,2,Curcumin|Resveratrol,7,ACAA2|AK4|ENO1|OPA1|PPARG|PTGS2|TGFB1
+cellular response to hypoxia,GO:0071456,"Osteoarthritis, Knee",MESH:D020370,1,Resveratrol,0,
+cellular response to insulin-like growth factor stimulus,GO:1990314,Osteoarthritis,MESH:D010003,0,,2,COL2A1|TGFB1
+cellular response to insulin-like growth factor stimulus,GO:1990314,Osteoarthritis with Mild Chondrodysplasia,MESH:C565740,0,,1,COL2A1
+cellular response to insulin stimulus,GO:0032869,Osteoarthritis,MESH:D010003,1,Resveratrol,2,DPEP1|PPARG
+cellular response to insulin stimulus,GO:0032869,"Osteoarthritis, Hip",MESH:D015207,0,,1,HDAC9
+cellular response to insulin stimulus,GO:0032869,"Osteoarthritis, Knee",MESH:D020370,1,Resveratrol,0,
+cellular response to interleukin-1,GO:0071347,Osteoarthritis,MESH:D010003,0,,2,CHI3L1|CXCL2
+cellular response to interleukin-1,GO:0071347,"Osteoarthritis, Spine",MESH:D055013,0,,2,CXCL8|IL6
+cellular response to interleukin-17,GO:0097398,Osteoarthritis,MESH:D010003,0,,1,IL1B
+cellular response to interleukin-17,GO:0097398,"Osteoarthritis, Spine",MESH:D055013,0,,1,IL6
+cellular response to interleukin-7,GO:0098761,Osteoarthritis,MESH:D010003,0,,1,ENO1
+cellular response to ionizing radiation,GO:0071479,Osteoarthritis,MESH:D010003,3,Curcumin|Reactive Oxygen Species|Resveratrol,1,TGFB1
+cellular response to ionizing radiation,GO:0071479,"Osteoarthritis, Knee",MESH:D020370,1,Resveratrol,0,
+cellular response to ionizing radiation,GO:0071479,"Osteoarthritis, Spine",MESH:D055013,0,,1,TNF
+cellular response to iron ion,GO:0071281,Osteoarthritis,MESH:D010003,0,,1,BMP6
+cellular response to iron ion,GO:0071281,"Osteoarthritis, Hip",MESH:D015207,0,,1,HFE
+cellular response to iron ion starvation,GO:0010106,"Osteoarthritis, Hip",MESH:D015207,0,,1,HFE
+cellular response to jasmonic acid stimulus,GO:0071395,Osteoarthritis,MESH:D010003,0,,2,AKR1C1|AKR1C2
+cellular response to lead ion,GO:0071284,Osteoarthritis,MESH:D010003,0,,1,PTGS2
+cellular response to leukemia inhibitory factor,GO:1990830,Osteoarthritis,MESH:D010003,0,,1,TRIM2
+cellular response to leukemia inhibitory factor,GO:1990830,"Osteoarthritis, Knee",MESH:D020370,0,,1,MIR219A1
+cellular response to L-glutamate,GO:1905232,Osteoarthritis,MESH:D010003,0,,1,OPA1
+cellular response to lipid,GO:0071396,Osteoarthritis,MESH:D010003,0,,1,IL1B
+cellular response to lipopolysaccharide,GO:0071222,Osteoarthritis,MESH:D010003,1,Lipopolysaccharides,5,CXCL2|CXCL6|IL1B|PTGS2|VIM
+cellular response to lipopolysaccharide,GO:0071222,"Osteoarthritis, Knee",MESH:D020370,1,Lipopolysaccharides,0,
+cellular response to lipopolysaccharide,GO:0071222,"Osteoarthritis, Spine",MESH:D055013,0,,3,CXCL8|IL6|TNF
+cellular response to lithium ion,GO:0071285,Osteoarthritis,MESH:D010003,0,,1,PPARG
+cellular response to low-density lipoprotein particle stimulus,GO:0071404,Osteoarthritis,MESH:D010003,0,,2,PPARG|TGFB1
+cellular response to mechanical stimulus,GO:0071260,Osteoarthritis,MESH:D010003,0,,7,BMP4|BMP6|COL2A1|IL1B|PTGS2|SLC2A1|TGFB1
+cellular response to mechanical stimulus,GO:0071260,"Osteoarthritis, Knee",MESH:D020370,0,,1,LTBP1
+cellular response to mechanical stimulus,GO:0071260,Osteoarthritis with Mild Chondrodysplasia,MESH:C565740,0,,1,COL2A1
+cellular response to mineralocorticoid stimulus,GO:0071389,Osteoarthritis,MESH:D010003,0,,1,RAN
+cellular response to molecule of bacterial origin,GO:0071219,Osteoarthritis,MESH:D010003,0,,1,IL1B
+cellular response to molecule of bacterial origin,GO:0071219,"Osteoarthritis, Spine",MESH:D055013,0,,1,TNF
+cellular response to muramyl dipeptide,GO:0071225,Osteoarthritis,MESH:D010003,0,,1,VIM
+cellular response to nerve growth factor stimulus,GO:1990090,Osteoarthritis,MESH:D010003,0,,1,CALCA
+cellular response to nerve growth factor stimulus,GO:1990090,"Osteoarthritis, Hip",MESH:D015207,0,,1,MAPT
+cellular response to nicotine,GO:0071316,Osteoarthritis,MESH:D010003,1,Nicotine,1,COL2A1
+cellular response to nicotine,GO:0071316,"Osteoarthritis, Spine",MESH:D055013,0,,1,TNF
+cellular response to nicotine,GO:0071316,Osteoarthritis with Mild Chondrodysplasia,MESH:C565740,0,,1,COL2A1
+cellular response to nitric oxide,GO:0071732,Osteoarthritis,MESH:D010003,0,,1,DPEP1
+cellular response to nitrosative stress,GO:0071500,Osteoarthritis,MESH:D010003,1,Ethanol,0,
+cellular response to non-ionic osmotic stress,GO:0071471,Osteoarthritis,MESH:D010003,0,,1,PTGS2
+cellular response to nutrient levels,GO:0031669,"Osteoarthritis, Spine",MESH:D055013,0,,1,IL6
+cellular response to organic cyclic compound,GO:0071407,Osteoarthritis,MESH:D010003,1,Ethanol,0,
+cellular response to oscillatory fluid shear stress,GO:0097704,Osteoarthritis,MESH:D010003,0,,1,TRPV4
+cellular response to osmotic stress,GO:0071470,Osteoarthritis,MESH:D010003,0,,2,DDX3X|TRPV4
+cellular response to oxidative stress,GO:0034599,Osteoarthritis,MESH:D010003,5,Curcumin|Ethanol|Lipopolysaccharides|Reactive Oxygen Species|Resveratrol,4,BMP4|NME2|SOD2|TXNRD1
+cellular response to oxidative stress,GO:0034599,"Osteoarthritis, Knee",MESH:D020370,3,Lipopolysaccharides|Resveratrol|rhoifolin,0,
+cellular response to parathyroid hormone stimulus,GO:0071374,Osteoarthritis,MESH:D010003,0,,1,COL2A1
+cellular response to parathyroid hormone stimulus,GO:0071374,"Osteoarthritis, Knee",MESH:D020370,0,,1,LTBP1
+cellular response to parathyroid hormone stimulus,GO:0071374,Osteoarthritis with Mild Chondrodysplasia,MESH:C565740,0,,1,COL2A1
+cellular response to peptide hormone stimulus,GO:0071375,Osteoarthritis,MESH:D010003,0,,1,COL2A1
+cellular response to peptide hormone stimulus,GO:0071375,Osteoarthritis with Mild Chondrodysplasia,MESH:C565740,0,,1,COL2A1
+cellular response to platelet-derived growth factor stimulus,GO:0036120,Osteoarthritis,MESH:D010003,1,Resveratrol,1,PPARG
+cellular response to platelet-derived growth factor stimulus,GO:0036120,"Osteoarthritis, Knee",MESH:D020370,1,Resveratrol,1,LTBP1
+cellular response to prolactin,GO:1990646,"Osteoarthritis, Spine",MESH:D055013,0,,1,IL6
+cellular response to prostaglandin D stimulus,GO:0071799,Osteoarthritis,MESH:D010003,0,,1,AKR1C2
+cellular response to prostaglandin D stimulus,GO:0071799,"Osteoarthritis, Hip",MESH:D015207,0,,1,TNC
+cellular response to prostaglandin E stimulus,GO:0071380,Osteoarthritis,MESH:D010003,0,,1,PPARG
+cellular response to prostaglandin stimulus,GO:0071379,Osteoarthritis,MESH:D010003,0,,1,PPARG
+cellular response to reactive oxygen species,GO:0034614,Osteoarthritis,MESH:D010003,1,Reactive Oxygen Species,0,
+cellular response to reactive oxygen species,GO:0034614,"Osteoarthritis, Hip",MESH:D015207,0,,1,MAPT
+cellular response to redox state,GO:0071461,Osteoarthritis,MESH:D010003,1,Reactive Oxygen Species,0,
+cellular response to retinoic acid,GO:0071300,Osteoarthritis,MESH:D010003,0,,5,ALDH1A2|ATP1A3|COL1A2|COL2A1|PPARG
+cellular response to retinoic acid,GO:0071300,"Osteoarthritis, Hip",MESH:D015207,0,,1,TNC
+cellular response to retinoic acid,GO:0071300,"Osteoarthritis, Spine",MESH:D055013,0,,1,TNF
+cellular response to retinoic acid,GO:0071300,Osteoarthritis with Mild Chondrodysplasia,MESH:C565740,0,,1,COL2A1
+cellular response to serotonin,GO:1904015,Osteoarthritis,MESH:D010003,0,,1,TGM2
+cellular response to sodium arsenite,GO:1903936,Osteoarthritis,MESH:D010003,1,Indomethacin,0,
+cellular response to sodium arsenite,GO:1903936,"Osteoarthritis, Hip",MESH:D015207,1,Indomethacin,0,
+cellular response to starvation,GO:0009267,Osteoarthritis,MESH:D010003,0,,1,MYH13
+cellular response to steroid hormone stimulus,GO:0071383,Osteoarthritis,MESH:D010003,0,,1,ATP1A3
+cellular response to stress,GO:0033554,Osteoarthritis,MESH:D010003,2,Aspirin|Indomethacin,0,
+cellular response to stress,GO:0033554,"Osteoarthritis, Hip",MESH:D015207,1,Indomethacin,0,
+cellular response to testosterone stimulus,GO:0071394,Osteoarthritis,MESH:D010003,0,,1,MSN
+cellular response to thyroid hormone stimulus,GO:0097067,Osteoarthritis,MESH:D010003,0,,3,ATP1A3|BMP4|COL1A2
+cellular response to toxic substance,GO:0097237,Osteoarthritis,MESH:D010003,4,Nicotine|Reactive Oxygen Species|Resveratrol|rofecoxib,0,
+cellular response to toxic substance,GO:0097237,"Osteoarthritis, Knee",MESH:D020370,2,Resveratrol|rofecoxib,0,
+cellular response to toxic substance,GO:0097237,"Osteoarthritis, Spine",MESH:D055013,0,,1,TNF
+cellular response to transforming growth factor beta stimulus,GO:0071560,Osteoarthritis,MESH:D010003,0,,3,CTSK|SMAD3|TGFB1
+cellular response to transforming growth factor beta stimulus,GO:0071560,"Osteoarthritis, Hip",MESH:D015207,0,,1,SMAD3
+cellular response to tumor necrosis factor,GO:0071356,Osteoarthritis,MESH:D010003,0,,4,CALCA|CHI3L1|COL2A1|CTSK
+cellular response to tumor necrosis factor,GO:0071356,"Osteoarthritis, Spine",MESH:D055013,0,,2,CXCL8|IL6
+cellular response to tumor necrosis factor,GO:0071356,Osteoarthritis with Mild Chondrodysplasia,MESH:C565740,0,,1,COL2A1
+cellular response to type II interferon,GO:0071346,Osteoarthritis,MESH:D010003,0,,2,GAPDH|VIM
+cellular response to type II interferon,GO:0071346,"Osteoarthritis, Spine",MESH:D055013,0,,1,TNF
+cellular response to UV-B,GO:0071493,Osteoarthritis,MESH:D010003,2,Reactive Oxygen Species|Resveratrol,0,
+cellular response to UV-B,GO:0071493,"Osteoarthritis, Knee",MESH:D020370,1,Resveratrol,0,
+cellular response to virus,GO:0098586,Osteoarthritis,MESH:D010003,1,Resveratrol,3,DDX3X|SMAD3|TGFB1
+cellular response to virus,GO:0098586,"Osteoarthritis, Hip",MESH:D015207,0,,1,SMAD3
+cellular response to virus,GO:0098586,"Osteoarthritis, Knee",MESH:D020370,1,Resveratrol,0,
+cellular response to virus,GO:0098586,"Osteoarthritis, Spine",MESH:D055013,0,,1,IL6
+cellular response to vitamin D,GO:0071305,"Osteoarthritis, Hip",MESH:D015207,0,,1,TNC
+cellular response to vitamin D,GO:0071305,"Osteoarthritis, Knee",MESH:D020370,0,,1,LTBP1
+cellular response to vitamin E,GO:0071306,Osteoarthritis,MESH:D010003,0,,2,COL2A1|PPARG
+cellular response to vitamin E,GO:0071306,Osteoarthritis with Mild Chondrodysplasia,MESH:C565740,0,,1,COL2A1
+cellular response to xenobiotic stimulus,GO:0071466,Osteoarthritis,MESH:D010003,0,,3,AGER|DPEP1|IL1B
+cellular response to X-ray,GO:0071481,Osteoarthritis,MESH:D010003,2,Caffeine|Reactive Oxygen Species,0,
+cellular response to zinc ion starvation,GO:0034224,Osteoarthritis,MESH:D010003,0,,2,CTSK|RUNX2
+cellular response to zinc ion starvation,GO:0034224,"Osteoarthritis, Hip",MESH:D015207,0,,1,RUNX2
+cellular senescence,GO:0090398,Osteoarthritis,MESH:D010003,6,Aspirin|Caffeine|Dietary Fats|ferrostatin-1|Nicotine|Resveratrol,2,COMP|OPA1
+cellular senescence,GO:0090398,"Osteoarthritis, Hip",MESH:D015207,0,,1,COMP
+cellular senescence,GO:0090398,"Osteoarthritis, Knee",MESH:D020370,1,Resveratrol,0,
+cellular sodium ion homeostasis,GO:0006883,Osteoarthritis,MESH:D010003,0,,1,ATP1A3
+cell volume homeostasis,GO:0006884,Osteoarthritis,MESH:D010003,3,astaxanthine|Iron|Lipopolysaccharides,1,TRPV4
+cell volume homeostasis,GO:0006884,"Osteoarthritis, Knee",MESH:D020370,2,Adenosine Triphosphate|Lipopolysaccharides,0,
+central nervous system development,GO:0007417,Osteoarthritis,MESH:D010003,0,,4,COL2A1|POU3F3|SLC2A1|TFPI2
+central nervous system development,GO:0007417,"Osteoarthritis, Hip",MESH:D015207,0,,1,SMO
+central nervous system development,GO:0007417,Osteoarthritis with Mild Chondrodysplasia,MESH:C565740,0,,1,COL2A1
+central nervous system development,GO:0007417,SHORT STATURE AND ADVANCED BONE AGE WITH OR WITHOUT EARLY-ONSET OSTEOARTHRITIS AND/OR OSTEOCHONDRITIS DISSECANS,OMIM:165800,0,,1,ACAN
+central nervous system myelination,GO:0022010,Osteoarthritis,MESH:D010003,1,Ethanol,1,ALDH1A2
+central nervous system myelin maintenance,GO:0032286,Osteoarthritis,MESH:D010003,0,,1,CLU
+central nervous system neuron development,GO:0021954,"Osteoarthritis, Hip",MESH:D015207,0,,2,LMX1B|MAPT
+central nervous system neuron differentiation,GO:0021953,"Osteoarthritis, Hip",MESH:D015207,0,,2,LMX1B|SMO
+ceramide biosynthetic process,GO:0046513,Osteoarthritis,MESH:D010003,1,Dietary Fats,0,
+cerebellar cortex morphogenesis,GO:0021696,"Osteoarthritis, Hip",MESH:D015207,0,,1,SMO
+cerebellum morphogenesis,GO:0021587,"Osteoarthritis, Hip",MESH:D015207,0,,2,LMX1B|SMO
+cerebral blood circulation,GO:0120275,Osteoarthritis,MESH:D010003,1,morroniside,0,
+cerebral cortex development,GO:0021987,Osteoarthritis,MESH:D010003,1,Reactive Oxygen Species,2,ATP1A3|SLC2A1
+cerebral cortex development,GO:0021987,"Osteoarthritis, Hip",MESH:D015207,0,,2,FILIP1|SMO
+cerebral cortex radially oriented cell migration,GO:0021799,Osteoarthritis,MESH:D010003,0,,1,POU3F3
+cGMP biosynthetic process,GO:0006182,Osteoarthritis,MESH:D010003,2,Caffeine|Resveratrol,0,
+cGMP biosynthetic process,GO:0006182,"Osteoarthritis, Knee",MESH:D020370,1,Resveratrol,0,
+chaperone-mediated protein complex assembly,GO:0051131,Osteoarthritis,MESH:D010003,0,,1,CLU
+chaperone-mediated protein folding,GO:0061077,Osteoarthritis,MESH:D010003,0,,2,CLU|TRAP1
+chemical homeostasis,GO:0048878,Osteoarthritis,MESH:D010003,0,,1,POU3F3
+chemical synaptic transmission,GO:0007268,Osteoarthritis,MESH:D010003,4,Capsaicin|Dinoprostone|Ethanol|Nicotine,3,ESD|GLS|SDCBP
+chemokine-mediated signaling pathway,GO:0070098,Osteoarthritis,MESH:D010003,0,,2,CXCL2|CXCL6
+chemokine-mediated signaling pathway,GO:0070098,"Osteoarthritis, Spine",MESH:D055013,0,,1,CXCL8
+chemosensory behavior,GO:0007635,Osteoarthritis,MESH:D010003,4,Caffeine|fisetin|Nicotine|Resveratrol,0,
+chemosensory behavior,GO:0007635,"Osteoarthritis, Knee",MESH:D020370,1,Resveratrol,0,
+chemotaxis,GO:0006935,Osteoarthritis,MESH:D010003,1,Curcumin,2,CXCL2|CXCL6
+chemotaxis,GO:0006935,"Osteoarthritis, Spine",MESH:D055013,0,,1,CXCL8
+chitin catabolic process,GO:0006032,Osteoarthritis,MESH:D010003,0,,1,CHI3L1
+chloride ion homeostasis,GO:0055064,Osteoarthritis,MESH:D010003,2,Dietary Fats|Resveratrol,1,CALCA
+chloride ion homeostasis,GO:0055064,"Osteoarthritis, Knee",MESH:D020370,1,Resveratrol,0,
+chloride transmembrane transport,GO:1902476,Osteoarthritis,MESH:D010003,0,,2,CLIC1|CLIC4
+chloride transmembrane transport,GO:1902476,"Osteoarthritis, Knee",MESH:D020370,1,Adenosine Triphosphate,0,
+chloride transport,GO:0006821,Osteoarthritis,MESH:D010003,2,Nicotine|Resveratrol,2,CLIC1|CLIC4
+chloride transport,GO:0006821,"Osteoarthritis, Knee",MESH:D020370,1,Resveratrol,0,
+cholesterol biosynthetic process,GO:0006695,Osteoarthritis,MESH:D010003,10,Aspartame|Caffeine|Capsaicin|Curcumin|Dietary Fats|Ethanol|Lipopolysaccharides|Nicotine|Resveratrol|Tramadol,1,ACAA2
+cholesterol biosynthetic process,GO:0006695,"Osteoarthritis, Knee",MESH:D020370,3,Lipopolysaccharides|Resveratrol|Tramadol,0,
+cholesterol efflux,GO:0033344,Osteoarthritis,MESH:D010003,2,Decitabine|Ethanol,0,
+cholesterol homeostasis,GO:0042632,Osteoarthritis,MESH:D010003,7,Curcumin|Dietary Fats|Ethanol|fisetin|Lipopolysaccharides|Nicotine|Resveratrol,1,AKR1C1
+cholesterol homeostasis,GO:0042632,"Osteoarthritis, Hip",MESH:D015207,0,,1,HDAC9
+cholesterol homeostasis,GO:0042632,"Osteoarthritis, Knee",MESH:D020370,2,Lipopolysaccharides|Resveratrol,0,
+cholesterol metabolic process,GO:0008203,Osteoarthritis,MESH:D010003,18,Acetaminophen|Aspirin|astaxanthine|Caffeine|Curcumin|diacerein|Diclofenac|Dietary Fats|Ethanol|ferrostatin-1|fisetin|Indomethacin|Iron|Lipopolysaccharides|morroniside|Nicotine|Resveratrol|Tramadol,0,
+cholesterol metabolic process,GO:0008203,"Osteoarthritis, Hip",MESH:D015207,1,Indomethacin,0,
+cholesterol metabolic process,GO:0008203,"Osteoarthritis, Knee",MESH:D020370,4,argan oil|Lipopolysaccharides|Resveratrol|Tramadol,0,
+cholesterol transport,GO:0030301,Osteoarthritis,MESH:D010003,1,Dietary Fats,0,
+choline biosynthetic process,GO:0042425,Osteoarthritis,MESH:D010003,1,Dietary Fats,0,
+choline metabolic process,GO:0019695,Osteoarthritis,MESH:D010003,1,Indomethacin,0,
+choline metabolic process,GO:0019695,"Osteoarthritis, Hip",MESH:D015207,1,Indomethacin,0,
+chondroblast differentiation,GO:0060591,Osteoarthritis,MESH:D010003,0,,1,GDF5
+chondroblast differentiation,GO:0060591,"Osteoarthritis, Knee",MESH:D020370,0,,1,GDF5
+chondroblast differentiation,GO:0060591,SHORT STATURE AND ADVANCED BONE AGE WITH OR WITHOUT EARLY-ONSET OSTEOARTHRITIS AND/OR OSTEOCHONDRITIS DISSECANS,OMIM:165800,0,,1,ACAN
+chondrocyte development,GO:0002063,Osteoarthritis,MESH:D010003,1,Nicotine,3,COMP|FGF18|RUNX2
+chondrocyte development,GO:0002063,"Osteoarthritis, Hip",MESH:D015207,0,,3,COL11A1|COMP|RUNX2
+chondrocyte development,GO:0002063,SHORT STATURE AND ADVANCED BONE AGE WITH OR WITHOUT EARLY-ONSET OSTEOARTHRITIS AND/OR OSTEOCHONDRITIS DISSECANS,OMIM:165800,0,,1,ACAN
+chondrocyte differentiation,GO:0002062,Osteoarthritis,MESH:D010003,1,Nicotine,7,BMP4|COL2A1|FGF18|GDF5|LTBP3|RUNX2|TGFB1
+chondrocyte differentiation,GO:0002062,"Osteoarthritis, Hip",MESH:D015207,0,,2,LTBP3|RUNX2
+chondrocyte differentiation,GO:0002062,"Osteoarthritis, Knee",MESH:D020370,0,,1,GDF5
+chondrocyte differentiation,GO:0002062,Osteoarthritis with Mild Chondrodysplasia,MESH:C565740,0,,1,COL2A1
+chondrocyte proliferation,GO:0035988,Osteoarthritis,MESH:D010003,0,,2,COMP|FRZB
+chondrocyte proliferation,GO:0035988,"Osteoarthritis, Hip",MESH:D015207,0,,1,COMP
+chordate embryonic development,GO:0043009,Osteoarthritis,MESH:D010003,0,,1,OPA1
+chromatin organization,GO:0006325,Osteoarthritis,MESH:D010003,1,Resveratrol,0,
+chromatin organization,GO:0006325,"Osteoarthritis, Hip",MESH:D015207,0,,1,HDAC9
+chromatin organization,GO:0006325,"Osteoarthritis, Knee",MESH:D020370,1,Resveratrol,0,
+chromatin remodeling,GO:0006338,Osteoarthritis,MESH:D010003,0,,3,ACTB|TGM2|TXNRD1
+chromatin remodeling,GO:0006338,"Osteoarthritis, Spine",MESH:D055013,0,,1,DUSP1
+chromosome segregation,GO:0007059,Osteoarthritis,MESH:D010003,1,fisetin,2,DDX3X|PPP2R1A
+chronic inflammatory response to antigenic stimulus,GO:0002439,Osteoarthritis,MESH:D010003,0,,1,IL1B
+chronic inflammatory response to antigenic stimulus,GO:0002439,"Osteoarthritis, Spine",MESH:D055013,0,,1,TNF
+circadian regulation of gene expression,GO:0032922,Osteoarthritis,MESH:D010003,2,Dietary Fats|Resveratrol,0,
+circadian regulation of gene expression,GO:0032922,"Osteoarthritis, Knee",MESH:D020370,1,Resveratrol,0,
+circadian rhythm,GO:0007623,Osteoarthritis,MESH:D010003,1,Ethanol,2,ACTB|ATP1A3
+circadian rhythm,GO:0007623,"Osteoarthritis, Spine",MESH:D055013,0,,1,TNF
+citrate metabolic process,GO:0006101,Osteoarthritis,MESH:D010003,1,Resveratrol,1,ACO1
+citrate metabolic process,GO:0006101,"Osteoarthritis, Knee",MESH:D020370,1,Resveratrol,0,
+cloaca development,GO:0035844,Osteoarthritis,MESH:D010003,0,,1,BMP4
+cobalamin metabolic process,GO:0009235,Osteoarthritis,MESH:D010003,1,Curcumin,0,
+cochlea development,GO:0090102,Osteoarthritis,MESH:D010003,0,,1,OPA1
+cochlea morphogenesis,GO:0090103,Osteoarthritis,MESH:D010003,0,,1,FRZB
+coenzyme A metabolic process,GO:0015936,Osteoarthritis,MESH:D010003,1,Dietary Fats,0,
+cognition,GO:0050890,Osteoarthritis,MESH:D010003,6,Acetaminophen|Curcumin|Dietary Fats|Ethanol|Lipopolysaccharides|Nicotine,1,ATP1A3
+cognition,GO:0050890,"Osteoarthritis, Knee",MESH:D020370,1,Lipopolysaccharides,0,
+cognition,GO:0050890,"Osteoarthritis, Spine",MESH:D055013,0,,1,TNF
+cold-induced thermogenesis,GO:0106106,Osteoarthritis,MESH:D010003,0,,1,PPARG
+collagen biosynthetic process,GO:0032964,Osteoarthritis,MESH:D010003,4,Acetaminophen|Dietary Fats|Ethanol|Resveratrol,3,P3H3|PLOD2|RCN3
+collagen biosynthetic process,GO:0032964,"Osteoarthritis, Knee",MESH:D020370,1,Resveratrol,0,
+collagen catabolic process,GO:0030574,Osteoarthritis,MESH:D010003,0,,1,CTSK
+collagen fibril organization,GO:0030199,Osteoarthritis,MESH:D010003,9,Curcumin|Dietary Fats|Ethanol|Lipopolysaccharides|Lithium Chloride|morroniside|Nicotine|Resveratrol|Tramadol,5,COL1A2|COL2A1|COMP|P3H3|PLOD2
+collagen fibril organization,GO:0030199,"Osteoarthritis, Hip",MESH:D015207,0,,3,COL11A1|COMP|LMX1B
+collagen fibril organization,GO:0030199,"Osteoarthritis, Knee",MESH:D020370,4,Adenosine Triphosphate|Lipopolysaccharides|Resveratrol|Tramadol,1,LTBP1
+collagen fibril organization,GO:0030199,Osteoarthritis with Mild Chondrodysplasia,MESH:C565740,0,,1,COL2A1
+collagen fibril organization,GO:0030199,SHORT STATURE AND ADVANCED BONE AGE WITH OR WITHOUT EARLY-ONSET OSTEOARTHRITIS AND/OR OSTEOCHONDRITIS DISSECANS,OMIM:165800,0,,1,ACAN
+collagen metabolic process,GO:0032963,Osteoarthritis,MESH:D010003,0,,2,COL1A2|P3H3
+columnar/cuboidal epithelial cell maturation,GO:0002069,Osteoarthritis,MESH:D010003,1,Lipopolysaccharides,1,TGFB1
+columnar/cuboidal epithelial cell maturation,GO:0002069,"Osteoarthritis, Knee",MESH:D020370,1,Lipopolysaccharides,0,
+commissural neuron axon guidance,GO:0071679,"Osteoarthritis, Hip",MESH:D015207,0,,1,SMO
+common myeloid progenitor cell proliferation,GO:0035726,Osteoarthritis,MESH:D010003,1,Dietary Fats,0,
+complement activation,GO:0006956,Osteoarthritis,MESH:D010003,1,Acetaminophen,1,CLU
+"complement activation, classical pathway",GO:0006958,Osteoarthritis,MESH:D010003,0,,1,CLU
+compound eye development,GO:0048749,"Osteoarthritis, Spine",MESH:D055013,0,,1,SKP2
+compound eye morphogenesis,GO:0001745,Osteoarthritis,MESH:D010003,0,,1,OPA1
+compound eye morphogenesis,GO:0001745,"Osteoarthritis, Hip",MESH:D015207,0,,1,SMO
+conditioned place preference,GO:1990708,Osteoarthritis,MESH:D010003,1,Ethanol,0,
+connective tissue development,GO:0061448,Osteoarthritis,MESH:D010003,0,,1,TGFB1
+connective tissue replacement involved in inflammatory response wound healing,GO:0002248,Osteoarthritis,MESH:D010003,0,,1,TGFB1
+contact inhibition,GO:0060242,"Osteoarthritis, Hip",MESH:D015207,0,,1,SMO
+convergent extension involved in organogenesis,GO:0060029,Osteoarthritis,MESH:D010003,0,,1,FRZB
+COPII-coated vesicle budding,GO:0090114,Osteoarthritis,MESH:D010003,0,,1,SEC23A
+COPII-coated vesicle cargo loading,GO:0090110,Osteoarthritis,MESH:D010003,0,,1,SEC23A
+copper ion homeostasis,GO:0055070,Osteoarthritis,MESH:D010003,1,Ethanol,0,
+coronary vasculature development,GO:0060976,Osteoarthritis,MESH:D010003,0,,1,BMP4
+coronary vasculature development,GO:0060976,"Osteoarthritis, Knee",MESH:D020370,0,,1,LTBP1
+corpus callosum development,GO:0022038,"Osteoarthritis, Hip",MESH:D015207,0,,1,FILIP1
+cortical actin cytoskeleton organization,GO:0030866,"Osteoarthritis, Spine",MESH:D055013,0,,1,TNF
+cortical microtubule organization,GO:0043622,Osteoarthritis,MESH:D010003,0,,2,EZR|TRPV4
+corticosterone secretion,GO:0035934,Osteoarthritis,MESH:D010003,3,Caffeine|Celecoxib|Indomethacin,0,
+corticosterone secretion,GO:0035934,"Osteoarthritis, Hip",MESH:D015207,1,Indomethacin,0,
+corticotropin secretion,GO:0051458,"Osteoarthritis, Hip",MESH:D015207,0,,1,CRHR1
+cortisol metabolic process,GO:0034650,Osteoarthritis,MESH:D010003,1,Ethanol,0,
+cranial skeletal system development,GO:1904888,Osteoarthritis,MESH:D010003,1,Ethanol,1,MVP
+cranial skeletal system development,GO:1904888,"Osteoarthritis, Knee",MESH:D020370,0,,1,LTBP1
+cranial suture morphogenesis,GO:0060363,Osteoarthritis,MESH:D010003,0,,1,BMP4
+creatine biosynthetic process,GO:0006601,Osteoarthritis,MESH:D010003,2,Curcumin|Dietary Fats,0,
+creatine metabolic process,GO:0006600,Osteoarthritis,MESH:D010003,3,Curcumin|Dietary Fats|Indomethacin,0,
+creatine metabolic process,GO:0006600,"Osteoarthritis, Hip",MESH:D015207,1,Indomethacin,0,
+creatinine metabolic process,GO:0046449,Osteoarthritis,MESH:D010003,12,Acetaminophen|Celecoxib|Curcumin|diacerein|Diclofenac|Dietary Fats|Doxycycline|ferrostatin-1|Indomethacin|Lipopolysaccharides|morroniside|Resveratrol,0,
+creatinine metabolic process,GO:0046449,"Osteoarthritis, Hip",MESH:D015207,1,Indomethacin,0,
+creatinine metabolic process,GO:0046449,"Osteoarthritis, Knee",MESH:D020370,2,Lipopolysaccharides|Resveratrol,0,
+cristae formation,GO:0042407,Osteoarthritis,MESH:D010003,0,,2,IMMT|OPA1
+CTP biosynthetic process,GO:0006241,Osteoarthritis,MESH:D010003,0,,1,NME2
+cyclooxygenase pathway,GO:0019371,Osteoarthritis,MESH:D010003,5,Celecoxib|Dinoprostone|Indomethacin|Lipopolysaccharides|Resveratrol,1,PTGS2
+cyclooxygenase pathway,GO:0019371,"Osteoarthritis, Hip",MESH:D015207,1,Indomethacin,0,
+cyclooxygenase pathway,GO:0019371,"Osteoarthritis, Knee",MESH:D020370,2,Lipopolysaccharides|Resveratrol,0,
+cysteine metabolic process,GO:0006534,Osteoarthritis,MESH:D010003,1,ferrostatin-1,0,
+cytokine-mediated signaling pathway,GO:0019221,Osteoarthritis,MESH:D010003,0,,1,IL1B
+cytokine-mediated signaling pathway,GO:0019221,"Osteoarthritis, Spine",MESH:D055013,0,,1,IL6
+cytokine production,GO:0001816,Osteoarthritis,MESH:D010003,0,,1,TNFSF15
+cytokine production involved in inflammatory response,GO:0002534,Osteoarthritis,MESH:D010003,4,Curcumin|Iron|Lipopolysaccharides|morroniside,0,
+cytokine production involved in inflammatory response,GO:0002534,"Osteoarthritis, Knee",MESH:D020370,1,Lipopolysaccharides,0,
+cytokinesis,GO:0000910,Osteoarthritis,MESH:D010003,1,fisetin,0,
+cytolysis,GO:0019835,Osteoarthritis,MESH:D010003,1,Lipopolysaccharides,0,
+cytolysis,GO:0019835,"Osteoarthritis, Knee",MESH:D020370,1,Lipopolysaccharides,0,
+cytoplasmic microtubule organization,GO:0031122,"Osteoarthritis, Hip",MESH:D015207,0,,1,MAPT
+cytoplasmic sequestering of NF-kappaB,GO:0007253,Osteoarthritis,MESH:D010003,3,Celecoxib|Lipopolysaccharides|Resveratrol,0,
+cytoplasmic sequestering of NF-kappaB,GO:0007253,"Osteoarthritis, Knee",MESH:D020370,2,Lipopolysaccharides|Resveratrol,0,
+cytosine metabolic process,GO:0019858,Osteoarthritis,MESH:D010003,1,Indomethacin,0,
+cytosine metabolic process,GO:0019858,"Osteoarthritis, Hip",MESH:D015207,1,Indomethacin,0,
+cytoskeleton organization,GO:0007010,Osteoarthritis,MESH:D010003,0,,3,ACTB|DPYSL2|MSN
+cytosolic pattern recognition receptor signaling pathway,GO:0002753,Osteoarthritis,MESH:D010003,0,,1,DDX3X
+cytosolic ribosome assembly,GO:0042256,Osteoarthritis,MESH:D010003,0,,1,DDX3X
+daunorubicin metabolic process,GO:0044597,Osteoarthritis,MESH:D010003,0,,2,AKR1C1|AKR1C2
+decidualization,GO:0046697,Osteoarthritis,MESH:D010003,1,Dinoprostone,2,PTGS2|VIM
+defecation,GO:0030421,Osteoarthritis,MESH:D010003,1,Lithium Chloride,0,
+defecation rhythm,GO:0035882,Osteoarthritis,MESH:D010003,1,Capsaicin,0,
+defense response,GO:0006952,Osteoarthritis,MESH:D010003,0,,3,CXCL2|CXCL6|TGFB1
+defense response,GO:0006952,"Osteoarthritis, Spine",MESH:D055013,0,,2,CXCL8|TNF
+defense response to bacterium,GO:0042742,Osteoarthritis,MESH:D010003,0,,2,CXCL6|IL1B
+defense response to bacterium,GO:0042742,"Osteoarthritis, Spine",MESH:D055013,0,,1,TNF
+defense response to fungus,GO:0050832,Osteoarthritis,MESH:D010003,0,,2,GAPDH|TGFB1
+defense response to Gram-negative bacterium,GO:0050829,Osteoarthritis,MESH:D010003,1,Resveratrol,1,CALCA
+defense response to Gram-negative bacterium,GO:0050829,"Osteoarthritis, Knee",MESH:D020370,1,Resveratrol,0,
+defense response to Gram-negative bacterium,GO:0050829,"Osteoarthritis, Spine",MESH:D055013,0,,1,IL6
+defense response to Gram-positive bacterium,GO:0050830,Osteoarthritis,MESH:D010003,1,Resveratrol,2,CALCA|IL1B
+defense response to Gram-positive bacterium,GO:0050830,"Osteoarthritis, Knee",MESH:D020370,1,Resveratrol,0,
+defense response to Gram-positive bacterium,GO:0050830,"Osteoarthritis, Spine",MESH:D055013,0,,2,IL6|TNF
+defense response to protozoan,GO:0042832,"Osteoarthritis, Spine",MESH:D055013,0,,1,IL6
+defense response to virus,GO:0051607,Osteoarthritis,MESH:D010003,1,"theaflavin-3,3'-digallate",0,
+defense response to virus,GO:0051607,"Osteoarthritis, Spine",MESH:D055013,0,,2,IL6|SKP2
+dehydroascorbic acid transport,GO:0070837,Osteoarthritis,MESH:D010003,0,,1,SLC2A1
+deltoid tuberosity development,GO:0035993,Osteoarthritis,MESH:D010003,0,,1,BMP4
+dendrite arborization,GO:0140059,Osteoarthritis,MESH:D010003,1,Nicotine,0,
+dendrite extension,GO:0097484,Osteoarthritis,MESH:D010003,2,nimesulide|Resveratrol,0,
+dendrite extension,GO:0097484,"Osteoarthritis, Hip",MESH:D015207,1,nimesulide,0,
+dendrite extension,GO:0097484,"Osteoarthritis, Knee",MESH:D020370,2,nimesulide|Resveratrol,0,
+dendritic cell differentiation,GO:0097028,Osteoarthritis,MESH:D010003,1,Lipopolysaccharides,0,
+dendritic cell differentiation,GO:0097028,"Osteoarthritis, Knee",MESH:D020370,1,Lipopolysaccharides,0,
+dendritic spine development,GO:0060996,Osteoarthritis,MESH:D010003,2,Dinoprostone|nimesulide,0,
+dendritic spine development,GO:0060996,"Osteoarthritis, Hip",MESH:D015207,1,nimesulide,0,
+dendritic spine development,GO:0060996,"Osteoarthritis, Knee",MESH:D020370,1,nimesulide,0,
+dentate gyrus development,GO:0021542,Osteoarthritis,MESH:D010003,1,Ethanol,0,
+dentate gyrus development,GO:0021542,"Osteoarthritis, Hip",MESH:D015207,0,,1,SMO
+deoxycytidine metabolic process,GO:0046092,Osteoarthritis,MESH:D010003,1,Indomethacin,0,
+deoxycytidine metabolic process,GO:0046092,"Osteoarthritis, Hip",MESH:D015207,1,Indomethacin,0,
+deoxyguanosine biosynthetic process,GO:0042452,Osteoarthritis,MESH:D010003,1,Dietary Fats,0,
+deoxyguanosine metabolic process,GO:0042453,Osteoarthritis,MESH:D010003,1,Iron,0,
+deoxyribonucleoside metabolic process,GO:0009120,Osteoarthritis,MESH:D010003,1,Indomethacin,0,
+deoxyribonucleoside metabolic process,GO:0009120,"Osteoarthritis, Hip",MESH:D015207,1,Indomethacin,0,
+dephosphorylation,GO:0016311,Osteoarthritis,MESH:D010003,0,,1,ATP6V1B2
+dephosphorylation,GO:0016311,"Osteoarthritis, Spine",MESH:D055013,0,,1,DUSP1
+detection of chemical stimulus involved in sensory perception of pain,GO:0050968,Osteoarthritis,MESH:D010003,1,Capsaicin,0,
+detection of chemical stimulus involved in sensory perception of taste,GO:0050912,Osteoarthritis,MESH:D010003,1,Dietary Fats,0,
+detection of glucose,GO:0051594,Osteoarthritis,MESH:D010003,1,Dietary Fats,0,
+detection of increased carbon dioxide by carotid body chemoreceptor signaling,GO:0003035,Osteoarthritis,MESH:D010003,1,Nicotine,0,
+detection of mechanical stimulus involved in sensory perception of pain,GO:0050966,Osteoarthritis,MESH:D010003,3,Celecoxib|Dinoprostone|Indomethacin,0,
+detection of mechanical stimulus involved in sensory perception of pain,GO:0050966,"Osteoarthritis, Hip",MESH:D015207,1,Indomethacin,0,
+detection of mechanical stimulus involved in sensory perception of pain,GO:0050966,"Osteoarthritis, Spine",MESH:D055013,0,,1,TNF
+detection of mechanical stimulus involved in sensory perception of sound,GO:0050910,"Osteoarthritis, Hip",MESH:D015207,0,,1,COL11A1
+detection of oxidative stress,GO:0070994,Osteoarthritis,MESH:D010003,20,Acetaminophen|Aspirin|astaxanthine|Capsaicin|Curcumin|diacerein|Dietary Fats|Ethanol|ferrostatin-1|fisetin|Indomethacin|Iron|Lipopolysaccharides|Lithium Chloride|morroniside|Nicotine|nimesulide|Reactive Oxygen Species|Resveratrol|Sulindac,0,
+detection of oxidative stress,GO:0070994,"Osteoarthritis, Hip",MESH:D015207,2,Indomethacin|nimesulide,0,
+detection of oxidative stress,GO:0070994,"Osteoarthritis, Knee",MESH:D020370,4,Adenosine Triphosphate|Lipopolysaccharides|nimesulide|Resveratrol,0,
+detection of oxygen,GO:0003032,Osteoarthritis,MESH:D010003,0,,1,SOD2
+detection of temperature stimulus involved in sensory perception of pain,GO:0050965,Osteoarthritis,MESH:D010003,0,,1,CALCA
+determination of adult lifespan,GO:0008340,Osteoarthritis,MESH:D010003,2,Doxycycline|Resveratrol,2,ATP1A3|SOD2
+determination of adult lifespan,GO:0008340,"Osteoarthritis, Hip",MESH:D015207,0,,1,HDAC9
+determination of adult lifespan,GO:0008340,"Osteoarthritis, Knee",MESH:D020370,1,Resveratrol,0,
+determination of bilateral symmetry,GO:0009855,Osteoarthritis,MESH:D010003,0,,1,ALDH1A2
+determination of heart left/right asymmetry,GO:0061371,Osteoarthritis,MESH:D010003,0,,1,BMP4
+determination of left/right asymmetry in lateral mesoderm,GO:0003140,"Osteoarthritis, Hip",MESH:D015207,0,,1,SMO
+determination of left/right symmetry,GO:0007368,Osteoarthritis,MESH:D010003,0,,2,ALDH1A2|BMP4
+determination of left/right symmetry,GO:0007368,"Osteoarthritis, Hip",MESH:D015207,0,,1,SMO
+determination of liver left/right asymmetry,GO:0071910,Osteoarthritis,MESH:D010003,0,,1,BMP4
+determination of pancreatic left/right asymmetry,GO:0035469,Osteoarthritis,MESH:D010003,0,,1,BMP4
+determination of ventral identity,GO:0048264,Osteoarthritis,MESH:D010003,0,,1,BMP4
+developmental growth,GO:0048589,Osteoarthritis,MESH:D010003,0,,1,SMAD3
+developmental growth,GO:0048589,"Osteoarthritis, Hip",MESH:D015207,0,,2,SMAD3|SMO
+developmental process,GO:0032502,Osteoarthritis,MESH:D010003,1,Doxycycline,0,
+developmental process involved in reproduction,GO:0003006,Osteoarthritis,MESH:D010003,1,Indomethacin,0,
+developmental process involved in reproduction,GO:0003006,"Osteoarthritis, Hip",MESH:D015207,1,Indomethacin,0,
+dicarboxylic acid metabolic process,GO:0043648,Osteoarthritis,MESH:D010003,1,Dietary Fats,0,
+dicarboxylic acid transport,GO:0006835,Osteoarthritis,MESH:D010003,1,Celecoxib,0,
+diencephalon development,GO:0021536,"Osteoarthritis, Hip",MESH:D015207,0,,1,SMO
+diestrus,GO:0060207,Osteoarthritis,MESH:D010003,2,Acetaminophen|diacerein,0,
+diet induced thermogenesis,GO:0002024,Osteoarthritis,MESH:D010003,0,,2,PPARG|TRPV4
+digestion,GO:0007586,Osteoarthritis,MESH:D010003,0,,2,AKR1C1|AKR1C2
+digestive tract development,GO:0048565,Osteoarthritis,MESH:D010003,1,Decitabine,2,BMP4|TGFB1
+digestive tract development,GO:0048565,"Osteoarthritis, Hip",MESH:D015207,0,,1,SMO
+digestive tract morphogenesis,GO:0048546,Osteoarthritis,MESH:D010003,0,,1,ALDH1A2
+DNA biosynthetic process,GO:0071897,Osteoarthritis,MESH:D010003,3,Dietary Fats|Lipopolysaccharides|Resveratrol,0,
+DNA biosynthetic process,GO:0071897,"Osteoarthritis, Knee",MESH:D020370,2,Lipopolysaccharides|Resveratrol,0,
+DNA catabolic process,GO:0006308,Osteoarthritis,MESH:D010003,5,Acetaminophen|Aspirin|Curcumin|Decitabine|Resveratrol,0,
+DNA catabolic process,GO:0006308,"Osteoarthritis, Knee",MESH:D020370,1,Resveratrol,0,
+"DNA catabolic process, endonucleolytic",GO:0000737,Osteoarthritis,MESH:D010003,9,Acetaminophen|Caffeine|Curcumin|Dietary Fats|Ethanol|Iron|Lipopolysaccharides|Reactive Oxygen Species|Resveratrol,0,
+"DNA catabolic process, endonucleolytic",GO:0000737,"Osteoarthritis, Knee",MESH:D020370,2,Lipopolysaccharides|Resveratrol,0,
+DNA hypomethylation,GO:0044028,Osteoarthritis,MESH:D010003,1,Curcumin,0,
+DNA integration,GO:0015074,Osteoarthritis,MESH:D010003,0,,2,CLIC1|DAPP1
+DNA metabolic process,GO:0006259,Osteoarthritis,MESH:D010003,0,,1,RAN
+DNA methylation,GO:0006306,Osteoarthritis,MESH:D010003,2,Decitabine|Lipopolysaccharides,0,
+DNA methylation,GO:0006306,"Osteoarthritis, Knee",MESH:D020370,1,Lipopolysaccharides,0,
+DNA methylation involved in embryo development,GO:0043045,Osteoarthritis,MESH:D010003,2,Dietary Fats|Ethanol,0,
+DNA methylation on cytosine,GO:0032776,Osteoarthritis,MESH:D010003,1,Dietary Fats,0,
+DNA methylation on cytosine within a CG sequence,GO:0010424,Osteoarthritis,MESH:D010003,2,Decitabine|Nicotine,0,
+DNA modification,GO:0006304,Osteoarthritis,MESH:D010003,8,Aspirin|astaxanthine|Curcumin|Dietary Fats|Iron|Lipopolysaccharides|Reactive Oxygen Species|Resveratrol,0,
+DNA modification,GO:0006304,"Osteoarthritis, Knee",MESH:D020370,2,Lipopolysaccharides|Resveratrol,0,
+DNA repair,GO:0006281,Osteoarthritis,MESH:D010003,1,Resveratrol,1,TXNRD1
+DNA repair,GO:0006281,"Osteoarthritis, Hip",MESH:D015207,0,,1,HDAC9
+DNA repair,GO:0006281,"Osteoarthritis, Knee",MESH:D020370,1,Resveratrol,0,
+DNA replication,GO:0006260,Osteoarthritis,MESH:D010003,1,Celecoxib,0,
+DNA synthesis involved in DNA replication,GO:0090592,Osteoarthritis,MESH:D010003,3,Acetaminophen|Dietary Fats|Indomethacin,0,
+DNA synthesis involved in DNA replication,GO:0090592,"Osteoarthritis, Hip",MESH:D015207,1,Indomethacin,0,
+DNA synthesis involved in UV-damage excision repair,GO:1904161,Osteoarthritis,MESH:D010003,1,Acetaminophen,0,
+dopamine biosynthetic process,GO:0042416,Osteoarthritis,MESH:D010003,5,Curcumin|Dietary Fats|Ketoprofen|Nicotine|Resveratrol,0,
+dopamine biosynthetic process,GO:0042416,"Osteoarthritis, Knee",MESH:D020370,1,Resveratrol,0,
+dopamine catabolic process,GO:0042420,Osteoarthritis,MESH:D010003,1,Curcumin,0,
+dopamine metabolic process,GO:0042417,Osteoarthritis,MESH:D010003,6,Acetaminophen|Curcumin|Ethanol|Indomethacin|Nicotine|Resveratrol,0,
+dopamine metabolic process,GO:0042417,"Osteoarthritis, Hip",MESH:D015207,1,Indomethacin,0,
+dopamine metabolic process,GO:0042417,"Osteoarthritis, Knee",MESH:D020370,1,Resveratrol,0,
+dopaminergic neuron differentiation,GO:0071542,"Osteoarthritis, Hip",MESH:D015207,0,,2,LMX1B|SMO
+dopamine secretion,GO:0014046,Osteoarthritis,MESH:D010003,1,Iron,1,TGM2
+dopamine uptake,GO:0090494,Osteoarthritis,MESH:D010003,1,Lipopolysaccharides,0,
+dopamine uptake,GO:0090494,"Osteoarthritis, Knee",MESH:D020370,1,Lipopolysaccharides,0,
+dorsal aorta morphogenesis,GO:0035912,"Osteoarthritis, Hip",MESH:D015207,0,,1,SMO
+dorsal closure,GO:0007391,Osteoarthritis,MESH:D010003,0,,1,MSN
+dorsal/ventral neural tube patterning,GO:0021904,Osteoarthritis,MESH:D010003,0,,1,BMP4
+dorsal/ventral neural tube patterning,GO:0021904,"Osteoarthritis, Hip",MESH:D015207,0,,1,SMO
+dorsal/ventral pattern formation,GO:0009953,Osteoarthritis,MESH:D010003,0,,1,BMP4
+dorsal/ventral pattern formation,GO:0009953,"Osteoarthritis, Hip",MESH:D015207,0,,2,LMX1B|SMO
+doxorubicin metabolic process,GO:0044598,Osteoarthritis,MESH:D010003,0,,2,AKR1C1|AKR1C2
+D-ribose metabolic process,GO:0006014,Osteoarthritis,MESH:D010003,1,Indomethacin,0,
+D-ribose metabolic process,GO:0006014,"Osteoarthritis, Hip",MESH:D015207,1,Indomethacin,0,
+drinking behavior,GO:0042756,Osteoarthritis,MESH:D010003,3,Dietary Fats|Ethanol|Nicotine,0,
+dTMP biosynthetic process,GO:0006231,Osteoarthritis,MESH:D010003,0,,1,NME2
+ear development,GO:0043583,Osteoarthritis,MESH:D010003,1,Ethanol,0,
+eating behavior,GO:0042755,Osteoarthritis,MESH:D010003,3,Dietary Fats|Ethanol|Nicotine,0,
+ectopic germ cell programmed cell death,GO:0035234,Osteoarthritis,MESH:D010003,0,,1,IL1B
+electron transport chain,GO:0022900,Osteoarthritis,MESH:D010003,3,Capsaicin|Dietary Fats|nimesulide,1,SDHA
+electron transport chain,GO:0022900,"Osteoarthritis, Hip",MESH:D015207,1,nimesulide,0,
+electron transport chain,GO:0022900,"Osteoarthritis, Knee",MESH:D020370,1,nimesulide,0,
+embryo development,GO:0009790,Osteoarthritis,MESH:D010003,5,astaxanthine|Caffeine|Diclofenac|Ethanol|Resveratrol,0,
+embryo development,GO:0009790,"Osteoarthritis, Knee",MESH:D020370,1,Resveratrol,0,
+embryo implantation,GO:0007566,Osteoarthritis,MESH:D010003,1,Resveratrol,3,CALCA|IL1B|PTGS2
+embryo implantation,GO:0007566,"Osteoarthritis, Knee",MESH:D020370,1,Resveratrol,0,
+embryonic anal fin morphogenesis,GO:0035125,Osteoarthritis,MESH:D010003,0,,1,BMP4
+embryonic body morphogenesis,GO:0010172,Osteoarthritis,MESH:D010003,1,Ethanol,1,SMAD3
+embryonic body morphogenesis,GO:0010172,"Osteoarthritis, Hip",MESH:D015207,0,,1,SMAD3
+embryonic camera-type eye development,GO:0031076,Osteoarthritis,MESH:D010003,0,,1,ALDH1A2
+embryonic camera-type eye development,GO:0031076,"Osteoarthritis, Hip",MESH:D015207,0,,1,SMO
+embryonic cleavage,GO:0040016,Osteoarthritis,MESH:D010003,2,Lipopolysaccharides|Resveratrol,0,
+embryonic cleavage,GO:0040016,"Osteoarthritis, Knee",MESH:D020370,2,Lipopolysaccharides|Resveratrol,0,
+embryonic cranial skeleton morphogenesis,GO:0048701,Osteoarthritis,MESH:D010003,0,,4,BMP4|PLS3|RUNX2|SMAD3
+embryonic cranial skeleton morphogenesis,GO:0048701,"Osteoarthritis, Hip",MESH:D015207,0,,2,RUNX2|SMAD3
+embryonic digestive tract development,GO:0048566,Osteoarthritis,MESH:D010003,0,,1,ALDH1A2
+embryonic digestive tract development,GO:0048566,"Osteoarthritis, Spine",MESH:D055013,0,,2,CXCL8|TNF
+embryonic digestive tract morphogenesis,GO:0048557,"Osteoarthritis, Hip",MESH:D015207,0,,1,SMO
+embryonic digit morphogenesis,GO:0042733,Osteoarthritis,MESH:D010003,0,,1,BMP4
+embryonic foregut morphogenesis,GO:0048617,Osteoarthritis,MESH:D010003,0,,1,SMAD3
+embryonic foregut morphogenesis,GO:0048617,"Osteoarthritis, Hip",MESH:D015207,0,,1,SMAD3
+embryonic forelimb morphogenesis,GO:0035115,Osteoarthritis,MESH:D010003,1,Caffeine,2,ALDH1A2|RUNX2
+embryonic forelimb morphogenesis,GO:0035115,"Osteoarthritis, Hip",MESH:D015207,0,,1,RUNX2
+embryonic hemopoiesis,GO:0035162,Osteoarthritis,MESH:D010003,0,,1,BMP4
+embryonic hindgut morphogenesis,GO:0048619,"Osteoarthritis, Hip",MESH:D015207,0,,1,TNC
+embryonic hindlimb morphogenesis,GO:0035116,Osteoarthritis,MESH:D010003,1,Caffeine,1,BMP4
+embryonic limb morphogenesis,GO:0030326,Osteoarthritis,MESH:D010003,0,,3,ALDH1A2|BMP4|GDF5
+embryonic limb morphogenesis,GO:0030326,"Osteoarthritis, Hip",MESH:D015207,0,,1,LMX1B
+embryonic limb morphogenesis,GO:0030326,"Osteoarthritis, Knee",MESH:D020370,0,,1,GDF5
+embryonic liver development,GO:1990402,Osteoarthritis,MESH:D010003,0,,1,TGFB1
+embryonic morphogenesis,GO:0048598,Osteoarthritis,MESH:D010003,1,Resveratrol,1,BMP4
+embryonic morphogenesis,GO:0048598,"Osteoarthritis, Knee",MESH:D020370,1,Resveratrol,0,
+embryonic neurocranium morphogenesis,GO:0048702,Osteoarthritis,MESH:D010003,0,,1,SEC23A
+embryonic neurocranium morphogenesis,GO:0048702,"Osteoarthritis, Hip",MESH:D015207,0,,1,SMO
+embryonic organ development,GO:0048568,Osteoarthritis,MESH:D010003,1,Acetaminophen,0,
+embryonic organ development,GO:0048568,"Osteoarthritis, Hip",MESH:D015207,0,,1,SMO
+embryonic pattern specification,GO:0009880,Osteoarthritis,MESH:D010003,0,,1,SMAD3
+embryonic pattern specification,GO:0009880,"Osteoarthritis, Hip",MESH:D015207,0,,2,SMAD3|SMO
+embryonic skeletal joint morphogenesis,GO:0060272,Osteoarthritis,MESH:D010003,0,,2,BMP4|COL2A1
+embryonic skeletal joint morphogenesis,GO:0060272,Osteoarthritis with Mild Chondrodysplasia,MESH:C565740,0,,1,COL2A1
+embryonic skeletal system development,GO:0048706,Osteoarthritis,MESH:D010003,0,,1,BMP4
+embryonic skeletal system morphogenesis,GO:0048704,Osteoarthritis,MESH:D010003,0,,1,BMP4
+embryonic skeletal system morphogenesis,GO:0048704,"Osteoarthritis, Hip",MESH:D015207,0,,1,COL11A1
+embryonic viscerocranium morphogenesis,GO:0048703,Osteoarthritis,MESH:D010003,0,,1,ALDH1A2
+embryonic viscerocranium morphogenesis,GO:0048703,"Osteoarthritis, Hip",MESH:D015207,0,,1,SMO
+endocardial cell differentiation,GO:0060956,"Osteoarthritis, Hip",MESH:D015207,0,,1,SMO
+endocardial cushion development,GO:0003197,Osteoarthritis,MESH:D010003,0,,1,BMP4
+endochondral bone growth,GO:0003416,Osteoarthritis,MESH:D010003,0,,1,COMP
+endochondral bone growth,GO:0003416,"Osteoarthritis, Hip",MESH:D015207,0,,1,COMP
+endochondral ossification,GO:0001958,Osteoarthritis,MESH:D010003,0,,5,BMP4|BMP6|COL2A1|FGF18|RUNX2
+endochondral ossification,GO:0001958,"Osteoarthritis, Hip",MESH:D015207,0,,1,RUNX2
+endochondral ossification,GO:0001958,Osteoarthritis with Mild Chondrodysplasia,MESH:C565740,0,,1,COL2A1
+endocrine pancreas development,GO:0031018,Osteoarthritis,MESH:D010003,0,,1,CLU
+endocrine pancreas development,GO:0031018,"Osteoarthritis, Hip",MESH:D015207,0,,1,SMO
+endocrine pancreas development,GO:0031018,"Osteoarthritis, Spine",MESH:D055013,0,,1,IL6
+endocrine system development,GO:0035270,"Osteoarthritis, Hip",MESH:D015207,0,,1,SMO
+endocytosis,GO:0006897,Osteoarthritis,MESH:D010003,1,Lipopolysaccharides,1,DPYSL2
+endocytosis,GO:0006897,"Osteoarthritis, Knee",MESH:D020370,1,Lipopolysaccharides,0,
+endodermal cell differentiation,GO:0035987,"Osteoarthritis, Hip",MESH:D015207,0,,1,COL11A1
+endoderm development,GO:0007492,Osteoarthritis,MESH:D010003,0,,3,BMP4|SMAD3|TGFB1
+endoderm development,GO:0007492,"Osteoarthritis, Hip",MESH:D015207,0,,1,SMAD3
+endoderm formation,GO:0001706,"Osteoarthritis, Spine",MESH:D055013,0,,1,DUSP1
+endomitotic cell cycle,GO:0007113,"Osteoarthritis, Spine",MESH:D055013,0,,1,SKP2
+endoplasmic reticulum cisternal network maintenance,GO:0071785,Osteoarthritis,MESH:D010003,1,Curcumin,0,
+endoplasmic reticulum disassembly,GO:1905692,Osteoarthritis,MESH:D010003,1,Doxycycline,0,
+endoplasmic reticulum organization,GO:0007029,Osteoarthritis,MESH:D010003,2,Caffeine|Ethanol,0,
+endoplasmic reticulum to Golgi vesicle-mediated transport,GO:0006888,Osteoarthritis,MESH:D010003,0,,1,SEC23A
+endosomal lumen acidification,GO:0048388,Osteoarthritis,MESH:D010003,1,Iron,0,
+endothelial cell apoptotic process,GO:0072577,"Osteoarthritis, Spine",MESH:D055013,0,,1,TNF
+endothelial cell-matrix adhesion,GO:0090673,Osteoarthritis,MESH:D010003,1,Resveratrol,0,
+endothelial cell-matrix adhesion,GO:0090673,"Osteoarthritis, Knee",MESH:D020370,1,Resveratrol,0,
+endothelial cell migration,GO:0043542,Osteoarthritis,MESH:D010003,0,,2,CALCA|S100A4
+endothelial cell morphogenesis,GO:0001886,Osteoarthritis,MESH:D010003,1,Dietary Fats,1,CLIC4
+endothelial cell proliferation,GO:0001935,Osteoarthritis,MESH:D010003,0,,1,CALCA
+endothelial tube morphogenesis,GO:0061154,Osteoarthritis,MESH:D010003,3,Curcumin|Nicotine|Resveratrol,0,
+endothelial tube morphogenesis,GO:0061154,"Osteoarthritis, Knee",MESH:D020370,1,Resveratrol,0,
+endothelin receptor signaling pathway,GO:0086100,Osteoarthritis,MESH:D010003,1,Celecoxib,0,
+energy homeostasis,GO:0097009,Osteoarthritis,MESH:D010003,2,Dietary Fats|Resveratrol,1,TRPV4
+energy homeostasis,GO:0097009,"Osteoarthritis, Knee",MESH:D020370,2,Adenosine Triphosphate|Resveratrol,0,
+entry of bacterium into host cell,GO:0035635,Osteoarthritis,MESH:D010003,1,Indomethacin,0,
+entry of bacterium into host cell,GO:0035635,"Osteoarthritis, Hip",MESH:D015207,1,Indomethacin,0,
+eosinophil chemotaxis,GO:0048245,Osteoarthritis,MESH:D010003,0,,1,LGALS3
+eosinophil extravasation,GO:0072682,Osteoarthritis,MESH:D010003,1,Resveratrol,0,
+eosinophil extravasation,GO:0072682,"Osteoarthritis, Knee",MESH:D020370,1,Resveratrol,0,
+eosinophil homeostasis,GO:1990959,Osteoarthritis,MESH:D010003,1,Decitabine,0,
+eosinophil migration,GO:0072677,Osteoarthritis,MESH:D010003,1,Lipopolysaccharides,0,
+eosinophil migration,GO:0072677,"Osteoarthritis, Knee",MESH:D020370,1,Lipopolysaccharides,0,
+epiboly,GO:0090504,"Osteoarthritis, Knee",MESH:D020370,1,Adenosine Triphosphate,0,
+epidermal growth factor receptor signaling pathway,GO:0007173,Osteoarthritis,MESH:D010003,1,"theaflavin-3,3'-digallate",0,
+epidermis morphogenesis,GO:0048730,Osteoarthritis,MESH:D010003,1,Caffeine,0,
+epigenetic regulation of gene expression,GO:0040029,Osteoarthritis,MESH:D010003,1,Dietary Fats,0,
+epinephrine biosynthetic process,GO:0042418,Osteoarthritis,MESH:D010003,1,Nicotine,0,
+epithelial cell-cell adhesion,GO:0090136,Osteoarthritis,MESH:D010003,2,Curcumin|Resveratrol,0,
+epithelial cell-cell adhesion,GO:0090136,"Osteoarthritis, Knee",MESH:D020370,1,Resveratrol,0,
+epithelial cell development,GO:0002064,Osteoarthritis,MESH:D010003,0,,1,FRZB
+epithelial cell differentiation,GO:0030855,Osteoarthritis,MESH:D010003,0,,6,AKR1C1|AKR1C2|EZR|GSTK1|LGALS3|PPARG
+epithelial cell differentiation,GO:0030855,"Osteoarthritis, Hip",MESH:D015207,0,,2,CRHR1|SMO
+epithelial cell proliferation,GO:0050673,Osteoarthritis,MESH:D010003,0,,4,BMP4|PPARG|RUNX2|TGFB1
+epithelial cell proliferation,GO:0050673,"Osteoarthritis, Hip",MESH:D015207,0,,2,RUNX2|SMO
+epithelial cell proliferation involved in lung morphogenesis,GO:0060502,Osteoarthritis,MESH:D010003,0,,1,BMP4
+epithelial cell proliferation involved in salivary gland morphogenesis,GO:0060664,"Osteoarthritis, Spine",MESH:D055013,0,,2,IL6|TNF
+epithelial fluid transport,GO:0042045,Osteoarthritis,MESH:D010003,2,Ethanol|Lipopolysaccharides,0,
+epithelial fluid transport,GO:0042045,"Osteoarthritis, Knee",MESH:D020370,1,Lipopolysaccharides,0,
+epithelial-mesenchymal cell signaling,GO:0060684,Osteoarthritis,MESH:D010003,0,,1,BMP4
+epithelial-mesenchymal cell signaling,GO:0060684,"Osteoarthritis, Hip",MESH:D015207,0,,1,SMO
+epithelial to mesenchymal transition,GO:0001837,Osteoarthritis,MESH:D010003,3,Lipopolysaccharides|Resveratrol|xanthohumol,2,S100A4|TGFB1
+epithelial to mesenchymal transition,GO:0001837,"Osteoarthritis, Knee",MESH:D020370,2,Lipopolysaccharides|Resveratrol,0,
+epithelial tube branching involved in lung morphogenesis,GO:0060441,Osteoarthritis,MESH:D010003,0,,1,BMP4
+epithelial tube formation,GO:0072175,"Osteoarthritis, Hip",MESH:D015207,0,,1,SMO
+epithelial tube morphogenesis,GO:0060562,"Osteoarthritis, Hip",MESH:D015207,0,,1,TNC
+epithelium development,GO:0060429,Osteoarthritis,MESH:D010003,0,,1,BMP4
+ERAD pathway,GO:0036503,Osteoarthritis,MESH:D010003,0,,1,RCN3
+ERBB signaling pathway,GO:0038127,Osteoarthritis,MESH:D010003,0,,1,MVP
+ERK1 and ERK2 cascade,GO:0070371,Osteoarthritis,MESH:D010003,2,Reactive Oxygen Species|Resveratrol,3,ATP1A3|ENO1|FGF18
+ERK1 and ERK2 cascade,GO:0070371,"Osteoarthritis, Knee",MESH:D020370,1,Resveratrol,0,
+ER overload response,GO:0006983,Osteoarthritis,MESH:D010003,2,Lipopolysaccharides|Nicotine,0,
+ER overload response,GO:0006983,"Osteoarthritis, Knee",MESH:D020370,1,Lipopolysaccharides,0,
+erythrocyte differentiation,GO:0030218,Osteoarthritis,MESH:D010003,1,Decitabine,1,BMP4
+erythrocyte homeostasis,GO:0034101,Osteoarthritis,MESH:D010003,4,ferrostatin-1|Ibuprofen|Indomethacin|Iron,0,
+erythrocyte homeostasis,GO:0034101,"Osteoarthritis, Hip",MESH:D015207,2,Ibuprofen|Indomethacin,0,
+erythrocyte maturation,GO:0043249,Osteoarthritis,MESH:D010003,1,Resveratrol,0,
+erythrocyte maturation,GO:0043249,"Osteoarthritis, Knee",MESH:D020370,1,Resveratrol,0,
+erythrophore differentiation,GO:0048773,Osteoarthritis,MESH:D010003,0,,1,SOD2
+establishment of body hair planar orientation,GO:0048105,"Osteoarthritis, Hip",MESH:D015207,0,,1,ASTN2
+establishment of cell polarity,GO:0030010,Osteoarthritis,MESH:D010003,1,Lipopolysaccharides,0,
+establishment of cell polarity,GO:0030010,"Osteoarthritis, Knee",MESH:D020370,1,Lipopolysaccharides,0,
+establishment of centrosome localization,GO:0051660,Osteoarthritis,MESH:D010003,0,,1,EZR
+establishment of endothelial barrier,GO:0061028,Osteoarthritis,MESH:D010003,0,,2,EZR|MSN
+establishment of endothelial barrier,GO:0061028,"Osteoarthritis, Knee",MESH:D020370,1,Adenosine Triphosphate,0,
+establishment of endothelial intestinal barrier,GO:0090557,Osteoarthritis,MESH:D010003,2,Ibuprofen|Lipopolysaccharides,0,
+establishment of endothelial intestinal barrier,GO:0090557,"Osteoarthritis, Hip",MESH:D015207,1,Ibuprofen,0,
+establishment of endothelial intestinal barrier,GO:0090557,"Osteoarthritis, Knee",MESH:D020370,1,Lipopolysaccharides,0,
+establishment of epithelial cell apical/basal polarity,GO:0045198,Osteoarthritis,MESH:D010003,0,,1,MSN
+establishment of meiotic spindle localization,GO:0051295,Osteoarthritis,MESH:D010003,2,Lipopolysaccharides|Resveratrol,0,
+establishment of meiotic spindle localization,GO:0051295,"Osteoarthritis, Knee",MESH:D020370,2,Lipopolysaccharides|Resveratrol,0,
+establishment of mitotic spindle orientation,GO:0000132,Osteoarthritis,MESH:D010003,0,,1,RAN
+establishment of protein localization to extracellular region,GO:0035592,"Osteoarthritis, Knee",MESH:D020370,0,,1,LTBP1
+establishment of protein localization to plasma membrane,GO:0061951,Osteoarthritis,MESH:D010003,2,Piroxicam|Resveratrol,0,
+establishment of protein localization to plasma membrane,GO:0061951,"Osteoarthritis, Hip",MESH:D015207,1,Piroxicam,0,
+establishment of protein localization to plasma membrane,GO:0061951,"Osteoarthritis, Knee",MESH:D020370,2,diosmetin|Resveratrol,0,
+establishment of skin barrier,GO:0061436,Osteoarthritis,MESH:D010003,4,"Ethanol|Indomethacin|Resveratrol|theaflavin-3,3'-digallate",0,
+establishment of skin barrier,GO:0061436,"Osteoarthritis, Hip",MESH:D015207,1,Indomethacin,0,
+establishment of skin barrier,GO:0061436,"Osteoarthritis, Knee",MESH:D020370,1,Resveratrol,0,
+establishment or maintenance of apical/basal cell polarity,GO:0035088,Osteoarthritis,MESH:D010003,0,,2,CLIC4|EZR
+establishment or maintenance of cell polarity,GO:0007163,Osteoarthritis,MESH:D010003,0,,1,ACTB
+establishment or maintenance of epithelial cell apical/basal polarity,GO:0045197,"Osteoarthritis, Knee",MESH:D020370,0,,1,LTBP1
+establishment or maintenance of transmembrane electrochemical gradient,GO:0010248,Osteoarthritis,MESH:D010003,0,,1,ATP1A3
+estradiol secretion,GO:0035938,Osteoarthritis,MESH:D010003,4,Acetaminophen|Dietary Fats|Iodoacetic Acid|Lipopolysaccharides,0,
+estradiol secretion,GO:0035938,"Osteoarthritis, Knee",MESH:D020370,2,Iodoacetic Acid|Lipopolysaccharides,0,
+estrogen biosynthetic process,GO:0006703,Osteoarthritis,MESH:D010003,3,Dietary Fats|Dinoprostone|Nicotine,0,
+estrogen metabolic process,GO:0008210,Osteoarthritis,MESH:D010003,5,Acetaminophen|Curcumin|diacerein|Ibuprofen|Resveratrol,0,
+estrogen metabolic process,GO:0008210,"Osteoarthritis, Hip",MESH:D015207,1,Ibuprofen,0,
+estrogen metabolic process,GO:0008210,"Osteoarthritis, Knee",MESH:D020370,1,Resveratrol,0,
+estrone secretion,GO:0035943,Osteoarthritis,MESH:D010003,1,Lipopolysaccharides,0,
+estrone secretion,GO:0035943,"Osteoarthritis, Knee",MESH:D020370,1,Lipopolysaccharides,0,
+estrous cycle,GO:0044849,Osteoarthritis,MESH:D010003,5,"Acetaminophen|Caffeine|Curcumin|ferrostatin-1|theaflavin-3,3'-digallate",1,CLU
+estrous cycle phase,GO:0060206,Osteoarthritis,MESH:D010003,1,Dietary Fats,0,
+estrus,GO:0060209,Osteoarthritis,MESH:D010003,3,Acetaminophen|Dietary Fats|Ibuprofen,0,
+estrus,GO:0060209,"Osteoarthritis, Hip",MESH:D015207,1,Ibuprofen,0,
+ethanol metabolic process,GO:0006067,Osteoarthritis,MESH:D010003,1,Ethanol,0,
+evoked excitatory postsynaptic potential,GO:0098817,Osteoarthritis,MESH:D010003,1,Caffeine,0,
+evoked excitatory postsynaptic potential,GO:0098817,"Osteoarthritis, Knee",MESH:D020370,1,Pregabalin,0,
+excitatory postsynaptic potential,GO:0060079,Osteoarthritis,MESH:D010003,3,Capsaicin|Dinoprostone|Nicotine,0,
+excretion,GO:0007588,Osteoarthritis,MESH:D010003,1,Curcumin,0,
+execution phase of apoptosis,GO:0097194,Osteoarthritis,MESH:D010003,0,,1,CTSD
+exocrine pancreas development,GO:0031017,"Osteoarthritis, Hip",MESH:D015207,0,,1,SMO
+exocytosis,GO:0006887,Osteoarthritis,MESH:D010003,0,,1,SCRN1
+exploration behavior,GO:0035640,Osteoarthritis,MESH:D010003,4,Ethanol|Iodoacetic Acid|Nicotine|Resveratrol,0,
+exploration behavior,GO:0035640,"Osteoarthritis, Hip",MESH:D015207,0,,1,CRHR1
+exploration behavior,GO:0035640,"Osteoarthritis, Knee",MESH:D020370,2,Iodoacetic Acid|Resveratrol,0,
+export from cell,GO:0140352,Osteoarthritis,MESH:D010003,1,Lipopolysaccharides,0,
+export from cell,GO:0140352,"Osteoarthritis, Knee",MESH:D020370,1,Lipopolysaccharides,0,
+external genitalia morphogenesis,GO:0035261,Osteoarthritis,MESH:D010003,1,Caffeine,0,
+extracellular exosome assembly,GO:0071971,Osteoarthritis,MESH:D010003,1,Acetaminophen,0,
+extracellular exosome biogenesis,GO:0097734,Osteoarthritis,MESH:D010003,1,Acetaminophen,1,PDCD6IP
+extracellular matrix assembly,GO:0085029,Osteoarthritis,MESH:D010003,1,Dietary Fats,2,COL1A2|TGFB1
+extracellular matrix disassembly,GO:0022617,Osteoarthritis,MESH:D010003,0,,1,CTSK
+extracellular matrix organization,GO:0030198,Osteoarthritis,MESH:D010003,0,,6,ASPN|COL1A2|COL2A1|COL6A2|LGALS3|MATN3
+extracellular matrix organization,GO:0030198,"Osteoarthritis, Hip",MESH:D015207,0,,2,COL11A1|ITIH1
+extracellular matrix organization,GO:0030198,"Osteoarthritis, Spine",MESH:D055013,0,,1,TNF
+extracellular matrix organization,GO:0030198,Osteoarthritis with Mild Chondrodysplasia,MESH:C565740,0,,1,COL2A1
+extracellular transport,GO:0006858,"Osteoarthritis, Knee",MESH:D020370,0,,1,WWP2
+extracellular vesicle biogenesis,GO:0140112,Osteoarthritis,MESH:D010003,2,Acetaminophen|Ethanol,0,
+extrinsic apoptotic signaling pathway,GO:0097191,Osteoarthritis,MESH:D010003,0,,2,SMAD3|TGFB1
+extrinsic apoptotic signaling pathway,GO:0097191,"Osteoarthritis, Hip",MESH:D015207,0,,1,SMAD3
+extrinsic apoptotic signaling pathway,GO:0097191,"Osteoarthritis, Spine",MESH:D055013,0,,1,TNF
+extrinsic apoptotic signaling pathway in absence of ligand,GO:0097192,Osteoarthritis,MESH:D010003,0,,2,COL2A1|IL1B
+extrinsic apoptotic signaling pathway in absence of ligand,GO:0097192,Osteoarthritis with Mild Chondrodysplasia,MESH:C565740,0,,1,COL2A1
+extrinsic apoptotic signaling pathway via death domain receptors,GO:0008625,Osteoarthritis,MESH:D010003,0,,1,DDX3X
+extrinsic apoptotic signaling pathway via death domain receptors,GO:0008625,"Osteoarthritis, Hip",MESH:D015207,0,,1,DIABLO
+extrinsic apoptotic signaling pathway via death domain receptors,GO:0008625,"Osteoarthritis, Spine",MESH:D055013,0,,1,TNF
+eye-antennal disc morphogenesis,GO:0007455,"Osteoarthritis, Hip",MESH:D015207,0,,1,SMO
+eye development,GO:0001654,Osteoarthritis,MESH:D010003,1,Ethanol,2,BMP6|MVP
+face development,GO:0060324,Osteoarthritis,MESH:D010003,0,,1,ALDH1A2
+face morphogenesis,GO:0060325,Osteoarthritis,MESH:D010003,0,,2,ALDH1A2|TGFB1
+facial nerve development,GO:0021561,"Osteoarthritis, Hip",MESH:D015207,0,,1,SMO
+fat cell differentiation,GO:0045444,Osteoarthritis,MESH:D010003,6,"Dietary Fats|Indomethacin|Lithium Chloride|Reactive Oxygen Species|Resveratrol|theaflavin-3,3'-digallate",2,PPARG|VIM
+fat cell differentiation,GO:0045444,"Osteoarthritis, Hip",MESH:D015207,1,Indomethacin,1,IL11
+fat cell differentiation,GO:0045444,"Osteoarthritis, Knee",MESH:D020370,1,Resveratrol,0,
+fat cell proliferation,GO:0070341,Osteoarthritis,MESH:D010003,2,Dietary Fats|Lipopolysaccharides,0,
+fat cell proliferation,GO:0070341,"Osteoarthritis, Knee",MESH:D020370,1,Lipopolysaccharides,0,
+fat pad development,GO:0060613,Osteoarthritis,MESH:D010003,3,Dietary Fats|Ethanol|Resveratrol,0,
+fat pad development,GO:0060613,"Osteoarthritis, Knee",MESH:D020370,1,Resveratrol,0,
+fatty acid beta-oxidation,GO:0006635,Osteoarthritis,MESH:D010003,2,Dietary Fats|Resveratrol,2,ACAA2|HADHA
+fatty acid beta-oxidation,GO:0006635,"Osteoarthritis, Knee",MESH:D020370,1,Resveratrol,0,
+fatty acid beta-oxidation using acyl-CoA dehydrogenase,GO:0033539,Osteoarthritis,MESH:D010003,0,,1,ETFA
+fatty acid beta-oxidation using acyl-CoA oxidase,GO:0033540,Osteoarthritis,MESH:D010003,1,Dietary Fats,0,
+fatty acid biosynthetic process,GO:0006633,Osteoarthritis,MESH:D010003,5,Acetaminophen|Dietary Fats|Ethanol|Lipopolysaccharides|Resveratrol,0,
+fatty acid biosynthetic process,GO:0006633,"Osteoarthritis, Knee",MESH:D020370,2,Lipopolysaccharides|Resveratrol,0,
+fatty acid derivative biosynthetic process,GO:1901570,Osteoarthritis,MESH:D010003,2,Dietary Fats|Resveratrol,0,
+fatty acid derivative biosynthetic process,GO:1901570,"Osteoarthritis, Knee",MESH:D020370,1,Resveratrol,0,
+fatty acid derivative metabolic process,GO:1901568,Osteoarthritis,MESH:D010003,1,Dietary Fats,0,
+"fatty acid elongation, unsaturated fatty acid",GO:0019368,Osteoarthritis,MESH:D010003,1,Ethanol,0,
+fatty acid homeostasis,GO:0055089,Osteoarthritis,MESH:D010003,2,Dietary Fats|Resveratrol,0,
+fatty acid homeostasis,GO:0055089,"Osteoarthritis, Knee",MESH:D020370,1,Resveratrol,0,
+fatty acid metabolic process,GO:0006631,Osteoarthritis,MESH:D010003,5,Acetaminophen|Dietary Fats|Ethanol|Indomethacin|Resveratrol,2,HADHA|PPARG
+fatty acid metabolic process,GO:0006631,"Osteoarthritis, Hip",MESH:D015207,1,Indomethacin,0,
+fatty acid metabolic process,GO:0006631,"Osteoarthritis, Knee",MESH:D020370,1,Resveratrol,0,
+fatty acid oxidation,GO:0019395,Osteoarthritis,MESH:D010003,6,Acetaminophen|Aspirin|Diclofenac|Dietary Fats|Indomethacin|Resveratrol,1,PPARG
+fatty acid oxidation,GO:0019395,"Osteoarthritis, Hip",MESH:D015207,1,Indomethacin,0,
+fatty acid oxidation,GO:0019395,"Osteoarthritis, Knee",MESH:D020370,1,Resveratrol,0,
+fatty acid transport,GO:0015908,Osteoarthritis,MESH:D010003,1,Resveratrol,0,
+fatty acid transport,GO:0015908,"Osteoarthritis, Knee",MESH:D020370,1,Resveratrol,0,
+Fc-epsilon receptor signaling pathway,GO:0038095,Osteoarthritis,MESH:D010003,1,Resveratrol,0,
+Fc-epsilon receptor signaling pathway,GO:0038095,"Osteoarthritis, Knee",MESH:D020370,1,Resveratrol,0,
+Fc-gamma receptor signaling pathway involved in phagocytosis,GO:0038096,Osteoarthritis,MESH:D010003,1,Iron,0,
+fear-induced aggressive behavior,GO:0002122,Osteoarthritis,MESH:D010003,1,Curcumin,0,
+fear response,GO:0042596,Osteoarthritis,MESH:D010003,0,,1,ATP1A3
+fear response,GO:0042596,"Osteoarthritis, Hip",MESH:D015207,0,,1,CRHR1
+feeding behavior,GO:0007631,Osteoarthritis,MESH:D010003,4,Curcumin|Dietary Fats|Ethanol|ferrostatin-1,1,CALCA
+feeding behavior,GO:0007631,"Osteoarthritis, Hip",MESH:D015207,0,,1,CRHR1
+female genitalia morphogenesis,GO:0048807,Osteoarthritis,MESH:D010003,1,Caffeine,0,
+female germ-line cyst formation,GO:0048135,Osteoarthritis,MESH:D010003,1,Acetaminophen,0,
+female gonad development,GO:0008585,Osteoarthritis,MESH:D010003,1,Nicotine,0,
+female meiotic nuclear division,GO:0007143,Osteoarthritis,MESH:D010003,0,,1,PPP2R1A
+female pregnancy,GO:0007565,Osteoarthritis,MESH:D010003,1,Caffeine,3,GAPDH|SLC2A1|TGFB1
+female pregnancy,GO:0007565,"Osteoarthritis, Hip",MESH:D015207,0,,3,CRHR1|HFE|MAPT
+ferroptosis,GO:0097707,Osteoarthritis,MESH:D010003,6,Acetaminophen|astaxanthine|Ethanol|ferrostatin-1|Iron|Resveratrol,0,
+ferroptosis,GO:0097707,"Osteoarthritis, Knee",MESH:D020370,1,Resveratrol,0,
+fertilization,GO:0009566,Osteoarthritis,MESH:D010003,1,Acetaminophen,1,CLIC4
+fever generation,GO:0001660,Osteoarthritis,MESH:D010003,0,,1,IL1B
+fibroblast growth factor receptor signaling pathway,GO:0008543,Osteoarthritis,MESH:D010003,0,,1,FGF18
+fibroblast migration,GO:0010761,Osteoarthritis,MESH:D010003,1,Resveratrol,0,
+fibroblast migration,GO:0010761,"Osteoarthritis, Knee",MESH:D020370,1,Resveratrol,0,
+fibroblast proliferation,GO:0048144,Osteoarthritis,MESH:D010003,1,Curcumin,0,
+filopodium assembly,GO:0046847,Osteoarthritis,MESH:D010003,1,Ethanol,1,EZR
+fin regeneration,GO:0031101,Osteoarthritis,MESH:D010003,0,,3,ALDH1A2|IL1B|VDAC2
+floor plate formation,GO:0021508,"Osteoarthritis, Hip",MESH:D015207,0,,1,SMO
+fluoride export across plasma membrane,GO:0140116,Osteoarthritis,MESH:D010003,1,"theaflavin-3,3'-digallate",0,
+foam cell differentiation,GO:0090077,Osteoarthritis,MESH:D010003,1,Resveratrol,0,
+foam cell differentiation,GO:0090077,"Osteoarthritis, Knee",MESH:D020370,1,Resveratrol,0,
+folic acid metabolic process,GO:0046655,Osteoarthritis,MESH:D010003,2,Curcumin|Dietary Fats,0,
+folic acid transport,GO:0015884,Osteoarthritis,MESH:D010003,1,Lipopolysaccharides,0,
+folic acid transport,GO:0015884,"Osteoarthritis, Knee",MESH:D020370,1,Lipopolysaccharides,0,
+follicle cell of egg chamber development,GO:0030707,"Osteoarthritis, Hip",MESH:D015207,0,,1,SMO
+forebrain development,GO:0030900,Osteoarthritis,MESH:D010003,1,Ethanol,2,ALDH1A2|BMP4
+forebrain development,GO:0030900,"Osteoarthritis, Hip",MESH:D015207,0,,1,SMO
+forebrain dorsal/ventral pattern formation,GO:0021798,"Osteoarthritis, Hip",MESH:D015207,0,,1,SMO
+forebrain morphogenesis,GO:0048853,"Osteoarthritis, Hip",MESH:D015207,0,,1,SMO
+forebrain ventricular zone progenitor cell division,GO:0021869,Osteoarthritis,MESH:D010003,0,,1,POU3F3
+forelimb morphogenesis,GO:0035136,Osteoarthritis,MESH:D010003,0,,1,GDF5
+forelimb morphogenesis,GO:0035136,"Osteoarthritis, Knee",MESH:D020370,0,,1,GDF5
+formaldehyde catabolic process,GO:0046294,Osteoarthritis,MESH:D010003,0,,1,ESD
+frontal suture morphogenesis,GO:0060364,Osteoarthritis,MESH:D010003,0,,1,TGFB1
+fructosamine biosynthetic process,GO:0030391,Osteoarthritis,MESH:D010003,2,Dietary Fats|Resveratrol,0,
+fructosamine biosynthetic process,GO:0030391,"Osteoarthritis, Knee",MESH:D020370,1,Resveratrol,0,
+fucose transmembrane transport,GO:0015756,Osteoarthritis,MESH:D010003,0,,1,SLC2A1
+G0 to G1 transition,GO:0045023,Osteoarthritis,MESH:D010003,5,Acetaminophen|Caffeine|Curcumin|Resveratrol|xanthohumol,0,
+G0 to G1 transition,GO:0045023,"Osteoarthritis, Knee",MESH:D020370,1,Resveratrol,0,
+G1/S transition of mitotic cell cycle,GO:0000082,"Osteoarthritis, Spine",MESH:D055013,0,,1,SKP2
+G2/M transition of mitotic cell cycle,GO:0000086,Osteoarthritis,MESH:D010003,6,"Caffeine|Curcumin|Diclofenac|pregna-4,17-diene-3,16-dione|Resveratrol|xanthohumol",0,
+G2/M transition of mitotic cell cycle,GO:0000086,"Osteoarthritis, Knee",MESH:D020370,1,Resveratrol,0,
+G2/M transition of mitotic cell cycle,GO:0000086,"Osteoarthritis, Spine",MESH:D055013,0,,1,SKP2
+galactose biosynthetic process,GO:0046369,Osteoarthritis,MESH:D010003,1,Dietary Fats,0,
+galactose metabolic process,GO:0006012,Osteoarthritis,MESH:D010003,2,Ethanol|Resveratrol,0,
+galactose metabolic process,GO:0006012,"Osteoarthritis, Knee",MESH:D020370,1,Resveratrol,0,
+gamete generation,GO:0007276,Osteoarthritis,MESH:D010003,0,,1,DDX3X
+gamma-aminobutyric acid biosynthetic process,GO:0009449,Osteoarthritis,MESH:D010003,2,Curcumin|Nicotine,0,
+gamma-aminobutyric acid metabolic process,GO:0009448,Osteoarthritis,MESH:D010003,1,Dietary Fats,0,
+gamma-aminobutyric acid signaling pathway,GO:0007214,Osteoarthritis,MESH:D010003,2,Decitabine|Ethanol,1,ATP1A3
+gap junction-mediated intercellular transport,GO:1990349,Osteoarthritis,MESH:D010003,2,Nicotine|Resveratrol,0,
+gap junction-mediated intercellular transport,GO:1990349,"Osteoarthritis, Knee",MESH:D020370,1,Resveratrol,0,
+gastro-intestinal system smooth muscle contraction,GO:0014831,Osteoarthritis,MESH:D010003,0,,1,LTBP3
+gastro-intestinal system smooth muscle contraction,GO:0014831,"Osteoarthritis, Hip",MESH:D015207,0,,1,LTBP3
+gastrulation,GO:0007369,Osteoarthritis,MESH:D010003,0,,2,SMAD3|TXNRD1
+gastrulation,GO:0007369,"Osteoarthritis, Hip",MESH:D015207,0,,1,SMAD3
+gastrulation with mouth forming second,GO:0001702,Osteoarthritis,MESH:D010003,0,,2,SMAD3|YWHAQ
+gastrulation with mouth forming second,GO:0001702,"Osteoarthritis, Hip",MESH:D015207,0,,1,SMAD3
+gene expression,GO:0010467,Osteoarthritis,MESH:D010003,0,,5,BMP4|RUNX2|SGCG|TGFB1|TGM2
+gene expression,GO:0010467,"Osteoarthritis, Hip",MESH:D015207,0,,2,RUNX2|SMO
+gene expression,GO:0010467,"Osteoarthritis, Spine",MESH:D055013,0,,1,IL6
+"general adaptation syndrome, behavioral process",GO:0051867,"Osteoarthritis, Hip",MESH:D015207,0,,1,CRHR1
+generation of neurons,GO:0048699,"Osteoarthritis, Hip",MESH:D015207,0,,1,MAPT
+germ cell development,GO:0007281,Osteoarthritis,MESH:D010003,1,Acetaminophen,1,BMP4
+germ cell migration,GO:0008354,Osteoarthritis,MESH:D010003,0,,1,TGFB1
+germinal center B cell differentiation,GO:0002314,"Osteoarthritis, Spine",MESH:D055013,0,,1,IL6
+gland morphogenesis,GO:0022612,Osteoarthritis,MESH:D010003,0,,1,MSN
+glial cell-derived neurotrophic factor receptor signaling pathway,GO:0035860,Osteoarthritis,MESH:D010003,1,Ethanol,0,
+glial cell development,GO:0021782,"Osteoarthritis, Hip",MESH:D015207,0,,1,SMO
+glial cell differentiation,GO:0010001,Osteoarthritis,MESH:D010003,2,Curcumin|Lithium Chloride,0,
+glial cell differentiation,GO:0010001,SHORT STATURE AND ADVANCED BONE AGE WITH OR WITHOUT EARLY-ONSET OSTEOARTHRITIS AND/OR OSTEOCHONDRITIS DISSECANS,OMIM:165800,0,,1,ACAN
+glial cell proliferation,GO:0014009,Osteoarthritis,MESH:D010003,0,,1,EEF2
+glomerular basement membrane development,GO:0032836,Osteoarthritis,MESH:D010003,2,Caffeine|Dietary Fats,0,
+glomerular capillary formation,GO:0072104,Osteoarthritis,MESH:D010003,0,,1,BMP4
+glomerular filtration,GO:0003094,Osteoarthritis,MESH:D010003,8,Acetaminophen|Aspirin|Diclofenac|Indomethacin|Lipopolysaccharides|Misoprostol|Naproxen|Nicotine,0,
+glomerular filtration,GO:0003094,"Osteoarthritis, Hip",MESH:D015207,2,Indomethacin|Naproxen,0,
+glomerular filtration,GO:0003094,"Osteoarthritis, Knee",MESH:D020370,1,Lipopolysaccharides,0,
+glucagon secretion,GO:0070091,"Osteoarthritis, Spine",MESH:D055013,0,,1,IL6
+glucocorticoid metabolic process,GO:0008211,Osteoarthritis,MESH:D010003,1,Ethanol,0,
+gluconeogenesis,GO:0006094,Osteoarthritis,MESH:D010003,5,Dietary Fats|Ethanol|Lithium Chloride|Nicotine|Resveratrol,2,ENO1|GAPDH
+gluconeogenesis,GO:0006094,"Osteoarthritis, Knee",MESH:D020370,1,Resveratrol,0,
+glucosamine metabolic process,GO:0006041,Osteoarthritis,MESH:D010003,1,Glucosamine,0,
+glucose catabolic process,GO:0006007,Osteoarthritis,MESH:D010003,3,Curcumin|Dietary Fats|Resveratrol,0,
+glucose catabolic process,GO:0006007,"Osteoarthritis, Knee",MESH:D020370,1,Resveratrol,0,
+glucose homeostasis,GO:0042593,Osteoarthritis,MESH:D010003,7,Curcumin|Dietary Fats|Ethanol|Glucosamine|Lipopolysaccharides|Nicotine|Resveratrol,2,PPARG|TRPV4
+glucose homeostasis,GO:0042593,"Osteoarthritis, Knee",MESH:D020370,2,Lipopolysaccharides|Resveratrol,0,
+glucose homeostasis,GO:0042593,"Osteoarthritis, Spine",MESH:D055013,0,,1,IL6
+glucose import,GO:0046323,Osteoarthritis,MESH:D010003,2,Lipopolysaccharides|Tramadol,1,SLC2A1
+glucose import,GO:0046323,"Osteoarthritis, Knee",MESH:D020370,2,Lipopolysaccharides|Tramadol,0,
+glucose import across plasma membrane,GO:0098708,Osteoarthritis,MESH:D010003,1,Resveratrol,1,SLC2A1
+glucose import across plasma membrane,GO:0098708,"Osteoarthritis, Knee",MESH:D020370,1,Resveratrol,0,
+glucose mediated signaling pathway,GO:0010255,Osteoarthritis,MESH:D010003,0,,1,AGER
+glucose metabolic process,GO:0006006,Osteoarthritis,MESH:D010003,6,Acetaminophen|Diclofenac|Dietary Fats|Ethanol|Lipopolysaccharides|Resveratrol,2,GAPDH|PDHA1
+glucose metabolic process,GO:0006006,"Osteoarthritis, Knee",MESH:D020370,3,Adenosine Triphosphate|Lipopolysaccharides|Resveratrol,0,
+glucose metabolic process,GO:0006006,"Osteoarthritis, Spine",MESH:D055013,0,,1,TNF
+glucose transmembrane transport,GO:1904659,Osteoarthritis,MESH:D010003,1,Dietary Fats,1,SLC2A1
+glucosylceramide biosynthetic process,GO:0006679,Osteoarthritis,MESH:D010003,1,Resveratrol,0,
+glucosylceramide biosynthetic process,GO:0006679,"Osteoarthritis, Knee",MESH:D020370,1,Resveratrol,0,
+glutamate biosynthetic process,GO:0006537,Osteoarthritis,MESH:D010003,0,,1,GLS
+glutamate metabolic process,GO:0006536,Osteoarthritis,MESH:D010003,3,Caffeine|Ethanol|Lithium Chloride,0,
+glutamine biosynthetic process,GO:0006542,Osteoarthritis,MESH:D010003,2,Acetaminophen|Dietary Fats,0,
+glutamine catabolic process,GO:0006543,Osteoarthritis,MESH:D010003,0,,1,GLS
+glutamine metabolic process,GO:0006541,Osteoarthritis,MESH:D010003,0,,1,GLS
+glutathione biosynthetic process,GO:0006750,Osteoarthritis,MESH:D010003,16,Acetaminophen|Aspirin|Caffeine|Celecoxib|Curcumin|Decitabine|Diclofenac|Dietary Fats|Ethanol|Indomethacin|Iron|Lipopolysaccharides|Lithium Chloride|Meloxicam|Nicotine|Resveratrol,0,
+glutathione biosynthetic process,GO:0006750,"Osteoarthritis, Hip",MESH:D015207,1,Indomethacin,0,
+glutathione biosynthetic process,GO:0006750,"Osteoarthritis, Knee",MESH:D020370,2,Lipopolysaccharides|Resveratrol,0,
+glutathione catabolic process,GO:0006751,Osteoarthritis,MESH:D010003,2,Curcumin|Dietary Fats,1,DPEP1
+glutathione derivative biosynthetic process,GO:1901687,Osteoarthritis,MESH:D010003,7,Acetaminophen|Aspartame|Diclofenac|Ethanol|Ibuprofen|Resveratrol|xanthohumol,0,
+glutathione derivative biosynthetic process,GO:1901687,"Osteoarthritis, Hip",MESH:D015207,1,Ibuprofen,0,
+glutathione derivative biosynthetic process,GO:1901687,"Osteoarthritis, Knee",MESH:D020370,1,Resveratrol,0,
+glutathione metabolic process,GO:0006749,Osteoarthritis,MESH:D010003,22,Acetaminophen|Aspartame|Aspirin|astaxanthine|Caffeine|Capsaicin|Curcumin|Diclofenac|Dietary Fats|Ethanol|ferrostatin-1|fisetin|Ibuprofen|Indomethacin|Iron|Lipopolysaccharides|Meloxicam|Naproxen|Nicotine|nimesulide|Reactive Oxygen Species|Resveratrol,4,DPEP1|GSTK1|SOD2|TXNRD1
+glutathione metabolic process,GO:0006749,"Osteoarthritis, Hip",MESH:D015207,4,Ibuprofen|Indomethacin|Naproxen|nimesulide,0,
+glutathione metabolic process,GO:0006749,"Osteoarthritis, Knee",MESH:D020370,5,Adenosine Triphosphate|Lipopolysaccharides|nimesulide|Pregabalin|Resveratrol,0,
+glutathione transport,GO:0034635,Osteoarthritis,MESH:D010003,2,Lipopolysaccharides|Resveratrol,0,
+glutathione transport,GO:0034635,"Osteoarthritis, Knee",MESH:D020370,2,Lipopolysaccharides|Resveratrol,0,
+glyceraldehyde-3-phosphate biosynthetic process,GO:0046166,Osteoarthritis,MESH:D010003,0,,2,ENO1|GAPDH
+glycerol-3-phosphate metabolic process,GO:0006072,Osteoarthritis,MESH:D010003,1,Ethanol,0,
+glycerol biosynthetic process from pyruvate,GO:0046327,Osteoarthritis,MESH:D010003,1,Resveratrol,0,
+glycerol biosynthetic process from pyruvate,GO:0046327,"Osteoarthritis, Knee",MESH:D020370,1,Resveratrol,0,
+glycerol transmembrane transport,GO:0015793,Osteoarthritis,MESH:D010003,1,Caffeine,0,
+glycerophospholipid metabolic process,GO:0006650,Osteoarthritis,MESH:D010003,3,Dietary Fats|Indomethacin|Lipopolysaccharides,0,
+glycerophospholipid metabolic process,GO:0006650,"Osteoarthritis, Hip",MESH:D015207,1,Indomethacin,0,
+glycerophospholipid metabolic process,GO:0006650,"Osteoarthritis, Knee",MESH:D020370,1,Lipopolysaccharides,0,
+glycine biosynthetic process,GO:0006545,Osteoarthritis,MESH:D010003,1,Acetaminophen,0,
+glycogen biosynthetic process,GO:0005978,Osteoarthritis,MESH:D010003,5,Diclofenac|Dietary Fats|Glucosamine|Lipopolysaccharides|Nicotine,0,
+glycogen biosynthetic process,GO:0005978,"Osteoarthritis, Knee",MESH:D020370,1,Lipopolysaccharides,0,
+glycogen catabolic process,GO:0005980,Osteoarthritis,MESH:D010003,6,Acetaminophen|Caffeine|Dietary Fats|Dinoprostone|Mefenamic Acid|Naproxen,0,
+glycogen catabolic process,GO:0005980,"Osteoarthritis, Hip",MESH:D015207,2,Mefenamic Acid|Naproxen,0,
+glycogen metabolic process,GO:0005977,Osteoarthritis,MESH:D010003,2,Diclofenac|Dietary Fats,0,
+glycolytic process,GO:0006096,Osteoarthritis,MESH:D010003,7,Aspirin|Dietary Fats|Dinoprostone|Iodoacetates|Iodoacetic Acid|Lipopolysaccharides|Mefenamic Acid,2,ENO1|GAPDH
+glycolytic process,GO:0006096,"Osteoarthritis, Hip",MESH:D015207,1,Mefenamic Acid,0,
+glycolytic process,GO:0006096,"Osteoarthritis, Knee",MESH:D020370,4,Adenosine Triphosphate|Iodoacetates|Iodoacetic Acid|Lipopolysaccharides,0,
+glycoprotein biosynthetic process,GO:0009101,Osteoarthritis,MESH:D010003,1,Ethanol,0,
+glycoprotein metabolic process,GO:0009100,Osteoarthritis,MESH:D010003,0,,1,AGER
+glycosaminoglycan biosynthetic process,GO:0006024,Osteoarthritis,MESH:D010003,1,"3,4,5-trihydroxy-N-(4-(thiazol-2-ylsulfamoyl)-phenyl)-benzamide",0,
+glycosaminoglycan metabolic process,GO:0030203,Osteoarthritis,MESH:D010003,1,Ethanol,0,
+glycosylation,GO:0070085,Osteoarthritis,MESH:D010003,2,Aspirin|Glucosamine,0,
+glyoxylate cycle,GO:0006097,Osteoarthritis,MESH:D010003,0,,1,IDH2
+G protein-coupled acetylcholine receptor signaling pathway,GO:0007213,Osteoarthritis,MESH:D010003,1,Dietary Fats,0,
+G protein-coupled receptor internalization,GO:0002031,Osteoarthritis,MESH:D010003,0,,1,CALCA
+G protein-coupled receptor signaling pathway,GO:0007186,Osteoarthritis,MESH:D010003,0,,7,ADGRG2|AKR1C2|FRZB|P3H3|PLCD1|PPARG|TGM2
+G protein-coupled receptor signaling pathway,GO:0007186,"Osteoarthritis, Hip",MESH:D015207,0,,3,CRHR1|DIABLO|SMO
+G protein-coupled receptor signaling pathway,GO:0007186,"Osteoarthritis, Spine",MESH:D055013,0,,1,CXCL8
+"G protein-coupled receptor signaling pathway, coupled to cyclic nucleotide second messenger",GO:0007187,Osteoarthritis,MESH:D010003,0,,1,ESD
+granulocyte activation,GO:0036230,Osteoarthritis,MESH:D010003,1,Reactive Oxygen Species,0,
+granulosa cell proliferation,GO:1990739,Osteoarthritis,MESH:D010003,1,Nicotine,0,
+grooming behavior,GO:0007625,Osteoarthritis,MESH:D010003,2,Ethanol|Nicotine,0,
+growth,GO:0040007,Osteoarthritis,MESH:D010003,1,Lipopolysaccharides,0,
+growth,GO:0040007,"Osteoarthritis, Knee",MESH:D020370,1,Lipopolysaccharides,0,
+growth plate cartilage development,GO:0003417,Osteoarthritis,MESH:D010003,0,,2,COL2A1|COMP
+growth plate cartilage development,GO:0003417,"Osteoarthritis, Hip",MESH:D015207,0,,1,COMP
+growth plate cartilage development,GO:0003417,Osteoarthritis with Mild Chondrodysplasia,MESH:C565740,0,,1,COL2A1
+GTP biosynthetic process,GO:0006183,Osteoarthritis,MESH:D010003,0,,1,NME2
+GTP metabolic process,GO:0046039,Osteoarthritis,MESH:D010003,0,,3,AK4|OPA1|RAN
+habenula development,GO:0021986,"Osteoarthritis, Hip",MESH:D015207,0,,1,SMO
+habituation,GO:0046959,Osteoarthritis,MESH:D010003,2,Acetaminophen|Nicotine,1,ATP1A3
+hair cycle,GO:0042633,Osteoarthritis,MESH:D010003,0,,1,PTGS2
+hair follicle development,GO:0001942,"Osteoarthritis, Hip",MESH:D015207,0,,1,SMO
+hair follicle morphogenesis,GO:0031069,"Osteoarthritis, Hip",MESH:D015207,0,,1,SMO
+halogen metabolic process,GO:0070276,Osteoarthritis,MESH:D010003,0,,1,TXNRD1
+hatching,GO:0035188,Osteoarthritis,MESH:D010003,2,Caffeine|Doxycycline,0,
+head development,GO:0060322,Osteoarthritis,MESH:D010003,2,Ethanol|Ibuprofen,0,
+head development,GO:0060322,"Osteoarthritis, Hip",MESH:D015207,1,Ibuprofen,0,
+head morphogenesis,GO:0060323,Osteoarthritis,MESH:D010003,1,Ethanol,0,
+heart contraction,GO:0060047,Osteoarthritis,MESH:D010003,5,astaxanthine|Caffeine|Decitabine|Diclofenac|Nicotine,1,SGCG
+heart development,GO:0007507,Osteoarthritis,MESH:D010003,5,astaxanthine|Caffeine|Diclofenac|Ethanol|Resveratrol,6,ALDH1A2|BMP4|PPARG|SOD2|TFPI2|TGFB1
+heart development,GO:0007507,"Osteoarthritis, Hip",MESH:D015207,0,,1,HDAC9
+heart development,GO:0007507,"Osteoarthritis, Knee",MESH:D020370,1,Resveratrol,0,
+heart development,GO:0007507,SHORT STATURE AND ADVANCED BONE AGE WITH OR WITHOUT EARLY-ONSET OSTEOARTHRITIS AND/OR OSTEOCHONDRITIS DISSECANS,OMIM:165800,0,,1,ACAN
+heart formation,GO:0060914,Osteoarthritis,MESH:D010003,1,Lithium Chloride,0,
+heart induction,GO:0003129,Osteoarthritis,MESH:D010003,0,,1,BMP4
+heart jogging,GO:0003146,Osteoarthritis,MESH:D010003,0,,1,BMP4
+heart looping,GO:0001947,Osteoarthritis,MESH:D010003,0,,3,ALDH1A2|BMP4|SMAD3
+heart looping,GO:0001947,"Osteoarthritis, Hip",MESH:D015207,0,,2,SMAD3|SMO
+heart morphogenesis,GO:0003007,Osteoarthritis,MESH:D010003,0,,4,ALDH1A2|BMP4|COL2A1|SOD2
+heart morphogenesis,GO:0003007,"Osteoarthritis, Hip",MESH:D015207,0,,2,COL11A1|SMO
+heart morphogenesis,GO:0003007,Osteoarthritis with Mild Chondrodysplasia,MESH:C565740,0,,1,COL2A1
+heart process,GO:0003015,Osteoarthritis,MESH:D010003,1,Ethanol,0,
+heart valve morphogenesis,GO:0003179,Osteoarthritis,MESH:D010003,0,,1,TGFB1
+heat acclimation,GO:0010286,Osteoarthritis,MESH:D010003,1,Resveratrol,0,
+heat acclimation,GO:0010286,"Osteoarthritis, Knee",MESH:D020370,1,Resveratrol,0,
+hematopoietic progenitor cell differentiation,GO:0002244,Osteoarthritis,MESH:D010003,0,,3,BMP4|EEF2|TGFB1
+hematopoietic stem cell differentiation,GO:0060218,Osteoarthritis,MESH:D010003,2,ferrostatin-1|Resveratrol,0,
+hematopoietic stem cell differentiation,GO:0060218,"Osteoarthritis, Knee",MESH:D020370,1,Resveratrol,0,
+hematopoietic stem cell differentiation,GO:0060218,"Osteoarthritis, Spine",MESH:D055013,0,,1,IL6
+heme catabolic process,GO:0042167,Osteoarthritis,MESH:D010003,1,Curcumin,0,
+heme metabolic process,GO:0042168,Osteoarthritis,MESH:D010003,2,Indomethacin|Iron,0,
+heme metabolic process,GO:0042168,"Osteoarthritis, Hip",MESH:D015207,1,Indomethacin,0,
+hemoglobin biosynthetic process,GO:0042541,Osteoarthritis,MESH:D010003,2,Decitabine|Ethanol,0,
+hemoglobin catabolic process,GO:0042540,Osteoarthritis,MESH:D010003,1,Curcumin,0,
+hemoglobin metabolic process,GO:0020027,Osteoarthritis,MESH:D010003,4,Curcumin|Indomethacin|Iron|Lipopolysaccharides,0,
+hemoglobin metabolic process,GO:0020027,"Osteoarthritis, Hip",MESH:D015207,1,Indomethacin,0,
+hemoglobin metabolic process,GO:0020027,"Osteoarthritis, Knee",MESH:D020370,1,Lipopolysaccharides,0,
+hemopoiesis,GO:0030097,Osteoarthritis,MESH:D010003,3,Diclofenac|ferrostatin-1|Resveratrol,2,RUNX2|SOD2
+hemopoiesis,GO:0030097,"Osteoarthritis, Hip",MESH:D015207,0,,1,RUNX2
+hemopoiesis,GO:0030097,"Osteoarthritis, Knee",MESH:D020370,1,Resveratrol,0,
+hemostasis,GO:0007599,Osteoarthritis,MESH:D010003,0,,1,TFPI2
+hepatic immune response,GO:0002384,"Osteoarthritis, Spine",MESH:D055013,0,,1,IL6
+hepatic stellate cell activation,GO:0035733,Osteoarthritis,MESH:D010003,3,Dietary Fats|Ethanol|morroniside,0,
+hepatocyte differentiation,GO:0070365,Osteoarthritis,MESH:D010003,1,Diclofenac,1,FRZB
+hepatocyte homeostasis,GO:0036333,Osteoarthritis,MESH:D010003,1,Acetaminophen,0,
+hepatocyte proliferation,GO:0072574,"Osteoarthritis, Spine",MESH:D055013,0,,1,IL6
+heterocycle metabolic process,GO:0046483,Osteoarthritis,MESH:D010003,2,Ethanol|Indomethacin,0,
+heterocycle metabolic process,GO:0046483,"Osteoarthritis, Hip",MESH:D015207,1,Indomethacin,0,
+heterophilic cell-cell adhesion via plasma membrane cell adhesion molecules,GO:0007157,Osteoarthritis,MESH:D010003,0,,1,AGER
+heterophilic cell-cell adhesion via plasma membrane cell adhesion molecules,GO:0007157,"Osteoarthritis, Knee",MESH:D020370,0,,1,LTBP1
+heterotypic cell-cell adhesion,GO:0034113,Osteoarthritis,MESH:D010003,1,Lipopolysaccharides,0,
+heterotypic cell-cell adhesion,GO:0034113,"Osteoarthritis, Knee",MESH:D020370,1,Lipopolysaccharides,0,
+hexose transmembrane transport,GO:0008645,Osteoarthritis,MESH:D010003,1,Resveratrol,0,
+hexose transmembrane transport,GO:0008645,"Osteoarthritis, Knee",MESH:D020370,1,Resveratrol,0,
+high-density lipoprotein particle clearance,GO:0034384,Osteoarthritis,MESH:D010003,1,Ethanol,0,
+hindbrain development,GO:0030902,Osteoarthritis,MESH:D010003,1,Ethanol,1,ALDH1A2
+hindbrain development,GO:0030902,"Osteoarthritis, Hip",MESH:D015207,0,,1,SMO
+hindbrain morphogenesis,GO:0021575,Osteoarthritis,MESH:D010003,0,,1,ALDH1A2
+hindlimb morphogenesis,GO:0035137,Osteoarthritis,MESH:D010003,0,,1,GDF5
+hindlimb morphogenesis,GO:0035137,"Osteoarthritis, Knee",MESH:D020370,0,,1,GDF5
+hippocampus development,GO:0021766,Osteoarthritis,MESH:D010003,1,Ethanol,1,RAN
+hippo signaling,GO:0035329,"Osteoarthritis, Knee",MESH:D020370,0,,1,WWP2
+histamine metabolic process,GO:0001692,Osteoarthritis,MESH:D010003,2,Indomethacin|Lipopolysaccharides,0,
+histamine metabolic process,GO:0001692,"Osteoarthritis, Hip",MESH:D015207,1,Indomethacin,0,
+histamine metabolic process,GO:0001692,"Osteoarthritis, Knee",MESH:D020370,1,Lipopolysaccharides,0,
+histamine secretion,GO:0001821,Osteoarthritis,MESH:D010003,2,Dietary Fats|Resveratrol,0,
+histamine secretion,GO:0001821,"Osteoarthritis, Knee",MESH:D020370,1,Resveratrol,0,
+histamine secretion mediated by immunoglobulin,GO:0097280,Osteoarthritis,MESH:D010003,7,Capsaicin|Dinoprostone|Ethanol|Indomethacin|Lipopolysaccharides|Misoprostol|nimesulide,0,
+histamine secretion mediated by immunoglobulin,GO:0097280,"Osteoarthritis, Hip",MESH:D015207,2,Indomethacin|nimesulide,0,
+histamine secretion mediated by immunoglobulin,GO:0097280,"Osteoarthritis, Knee",MESH:D020370,3,Adenosine Triphosphate|Lipopolysaccharides|nimesulide,0,
+histone H2B conserved C-terminal lysine ubiquitination,GO:0071894,Osteoarthritis,MESH:D010003,1,Dietary Fats,0,
+histone H3 acetylation,GO:0043966,Osteoarthritis,MESH:D010003,4,Curcumin|Dietary Fats|Lipopolysaccharides|Resveratrol,0,
+histone H3 acetylation,GO:0043966,"Osteoarthritis, Knee",MESH:D020370,2,Lipopolysaccharides|Resveratrol,0,
+histone H3 deacetylation,GO:0070932,Osteoarthritis,MESH:D010003,1,Ethanol,0,
+histone H3-K14 acetylation,GO:0044154,Osteoarthritis,MESH:D010003,7,Caffeine|Curcumin|Decitabine|Doxycycline|Lipopolysaccharides|Nicotine|Resveratrol,0,
+histone H3-K14 acetylation,GO:0044154,"Osteoarthritis, Knee",MESH:D020370,2,Lipopolysaccharides|Resveratrol,0,
+histone H3-K18 acetylation,GO:0043971,Osteoarthritis,MESH:D010003,1,Dietary Fats,0,
+histone H3-K23 acetylation,GO:0043972,Osteoarthritis,MESH:D010003,2,Dietary Fats|Lipopolysaccharides,0,
+histone H3-K23 acetylation,GO:0043972,"Osteoarthritis, Knee",MESH:D020370,1,Lipopolysaccharides,0,
+histone H3-K27 acetylation,GO:0043974,Osteoarthritis,MESH:D010003,4,Caffeine|Ethanol|Nicotine|Resveratrol,0,
+histone H3-K27 acetylation,GO:0043974,"Osteoarthritis, Knee",MESH:D020370,1,Resveratrol,0,
+histone H3-K27 trimethylation,GO:0098532,Osteoarthritis,MESH:D010003,5,Acetaminophen|Dietary Fats|Doxycycline|Ibuprofen|Resveratrol,0,
+histone H3-K27 trimethylation,GO:0098532,"Osteoarthritis, Hip",MESH:D015207,1,Ibuprofen,0,
+histone H3-K27 trimethylation,GO:0098532,"Osteoarthritis, Knee",MESH:D020370,1,Resveratrol,0,
+histone H3-K36 dimethylation,GO:0097676,Osteoarthritis,MESH:D010003,3,Dietary Fats|Ethanol|Lipopolysaccharides,0,
+histone H3-K36 dimethylation,GO:0097676,"Osteoarthritis, Knee",MESH:D020370,1,Lipopolysaccharides,0,
+histone H3-K36 methylation,GO:0010452,Osteoarthritis,MESH:D010003,1,Ethanol,0,
+histone H3-K36 trimethylation,GO:0097198,Osteoarthritis,MESH:D010003,2,Ethanol|Reactive Oxygen Species,0,
+histone H3-K4 dimethylation,GO:0044648,Osteoarthritis,MESH:D010003,2,Ethanol|Iron,0,
+histone H3-K4 methylation,GO:0051568,Osteoarthritis,MESH:D010003,1,Ethanol,0,
+histone H3-K4 trimethylation,GO:0080182,Osteoarthritis,MESH:D010003,2,Acetaminophen|Ethanol,0,
+histone H3-K56 acetylation,GO:0097043,Osteoarthritis,MESH:D010003,1,Ethanol,0,
+histone H3-K9 acetylation,GO:0043970,Osteoarthritis,MESH:D010003,7,Acetaminophen|Caffeine|Decitabine|Doxycycline|Ethanol|Nicotine|Resveratrol,0,
+histone H3-K9 acetylation,GO:0043970,"Osteoarthritis, Knee",MESH:D020370,1,Resveratrol,0,
+histone H3-K9 dimethylation,GO:0036123,Osteoarthritis,MESH:D010003,3,Ethanol|Iron|Reactive Oxygen Species,0,
+histone H3-K9 trimethylation,GO:0036124,Osteoarthritis,MESH:D010003,1,Ethanol,0,
+histone H4 acetylation,GO:0043967,Osteoarthritis,MESH:D010003,1,Curcumin,0,
+histone H4-K16 acetylation,GO:0043984,Osteoarthritis,MESH:D010003,1,Ethanol,0,
+histone H4-K16 deacetylation,GO:1990678,Osteoarthritis,MESH:D010003,1,Dietary Fats,0,
+histone H4-K20 trimethylation,GO:0034773,Osteoarthritis,MESH:D010003,1,Ethanol,0,
+homeostasis of number of cells,GO:0048872,Osteoarthritis,MESH:D010003,3,ferrostatin-1|Indomethacin|Lithium Chloride,0,
+homeostasis of number of cells,GO:0048872,"Osteoarthritis, Hip",MESH:D015207,1,Indomethacin,0,
+homeostasis of number of cells within a tissue,GO:0048873,"Osteoarthritis, Hip",MESH:D015207,0,,1,SMO
+homocysteine metabolic process,GO:0050667,Osteoarthritis,MESH:D010003,1,Dietary Fats,1,DPEP1
+homologous chromosome orientation involved in meiotic metaphase I plate congression,GO:0031619,Osteoarthritis,MESH:D010003,2,Lipopolysaccharides|Resveratrol,0,
+homologous chromosome orientation involved in meiotic metaphase I plate congression,GO:0031619,"Osteoarthritis, Knee",MESH:D020370,2,Lipopolysaccharides|Resveratrol,0,
+homophilic cell adhesion via plasma membrane adhesion molecules,GO:0007156,Osteoarthritis,MESH:D010003,0,,1,AGER
+hormone biosynthetic process,GO:0042446,"Osteoarthritis, Hip",MESH:D015207,0,,1,HFE
+hormone-mediated signaling pathway,GO:0009755,Osteoarthritis,MESH:D010003,0,,1,PPARG
+hormone-mediated signaling pathway,GO:0009755,"Osteoarthritis, Hip",MESH:D015207,0,,1,CRHR1
+hormone metabolic process,GO:0042445,Osteoarthritis,MESH:D010003,1,Lipopolysaccharides,0,
+hormone metabolic process,GO:0042445,"Osteoarthritis, Knee",MESH:D020370,1,Lipopolysaccharides,0,
+host-mediated regulation of intestinal microbiota composition,GO:0048874,Osteoarthritis,MESH:D010003,3,Dietary Fats|Ethanol|Lipopolysaccharides,0,
+host-mediated regulation of intestinal microbiota composition,GO:0048874,"Osteoarthritis, Knee",MESH:D020370,1,Lipopolysaccharides,0,
+humoral immune response,GO:0006959,"Osteoarthritis, Spine",MESH:D055013,0,,2,IL6|TNF
+hyaluronan biosynthetic process,GO:0030213,Osteoarthritis,MESH:D010003,0,,1,IL1B
+hyaluronan catabolic process,GO:0030214,Osteoarthritis,MESH:D010003,0,,1,TGFB1
+hyaluronan metabolic process,GO:0030212,"Osteoarthritis, Hip",MESH:D015207,0,,1,ITIH1
+hydrogen peroxide biosynthetic process,GO:0050665,Osteoarthritis,MESH:D010003,5,Curcumin|Dietary Fats|Ethanol|Lipopolysaccharides|Resveratrol,1,SOD2
+hydrogen peroxide biosynthetic process,GO:0050665,"Osteoarthritis, Knee",MESH:D020370,2,Lipopolysaccharides|Resveratrol,0,
+hydrogen peroxide catabolic process,GO:0042744,Osteoarthritis,MESH:D010003,0,,1,TXNRD1
+hydrogen peroxide metabolic process,GO:0042743,Osteoarthritis,MESH:D010003,6,Acetaminophen|Curcumin|Dietary Fats|Ethanol|MF63 compound|Resveratrol,1,SOD2
+hydrogen peroxide metabolic process,GO:0042743,"Osteoarthritis, Knee",MESH:D020370,2,argan oil|Resveratrol,0,
+hydrogen sulfide biosynthetic process,GO:0070814,Osteoarthritis,MESH:D010003,1,Caffeine,0,
+hydroxylysine biosynthetic process,GO:0046947,Osteoarthritis,MESH:D010003,0,,1,PLOD2
+hydroxyproline transport,GO:0034589,Osteoarthritis,MESH:D010003,1,"pregna-4,17-diene-3,16-dione",0,
+hypermethylation of CpG island,GO:0044027,Osteoarthritis,MESH:D010003,4,Curcumin|Decitabine|Nicotine|Resveratrol,0,
+hypermethylation of CpG island,GO:0044027,"Osteoarthritis, Knee",MESH:D020370,1,Resveratrol,0,
+hyperosmotic salinity response,GO:0042538,Osteoarthritis,MESH:D010003,0,,1,TRPV4
+hypomethylation of CpG island,GO:0044029,Osteoarthritis,MESH:D010003,2,Curcumin|Decitabine,0,
+hypothalamus development,GO:0021854,"Osteoarthritis, Hip",MESH:D015207,0,,1,CRHR1
+hypotonic response,GO:0006971,Osteoarthritis,MESH:D010003,0,,1,TRPV4
+hypoxanthine metabolic process,GO:0046100,Osteoarthritis,MESH:D010003,1,Indomethacin,0,
+hypoxanthine metabolic process,GO:0046100,"Osteoarthritis, Hip",MESH:D015207,1,Indomethacin,0,
+icosanoid biosynthetic process,GO:0046456,Osteoarthritis,MESH:D010003,1,Dinoprostone,0,
+icosanoid secretion,GO:0032309,Osteoarthritis,MESH:D010003,1,Lipopolysaccharides,0,
+icosanoid secretion,GO:0032309,"Osteoarthritis, Knee",MESH:D020370,1,Lipopolysaccharides,0,
+I-kappaB kinase/NF-kappaB signaling,GO:0007249,Osteoarthritis,MESH:D010003,2,Lipopolysaccharides|Reactive Oxygen Species,0,
+I-kappaB kinase/NF-kappaB signaling,GO:0007249,"Osteoarthritis, Knee",MESH:D020370,1,Lipopolysaccharides,0,
+I-kappaB phosphorylation,GO:0007252,Osteoarthritis,MESH:D010003,3,"Lipopolysaccharides|Resveratrol|theaflavin-3,3'-digallate",0,
+I-kappaB phosphorylation,GO:0007252,"Osteoarthritis, Knee",MESH:D020370,2,Lipopolysaccharides|Resveratrol,0,
+imaginal disc-derived male genitalia morphogenesis,GO:0048803,"Osteoarthritis, Hip",MESH:D015207,0,,1,TNC
+imaginal disc-derived wing morphogenesis,GO:0007476,"Osteoarthritis, Hip",MESH:D015207,0,,2,SMO|TNC
+"imaginal disc fusion, thorax closure",GO:0046529,Osteoarthritis,MESH:D010003,0,,1,MSN
+immune complex clearance,GO:0002434,Osteoarthritis,MESH:D010003,0,,1,CLU
+immune response,GO:0006955,Osteoarthritis,MESH:D010003,0,,7,BMP6|CTSK|CXCL2|CXCL6|IL1B|SMAD3|TNFSF15
+immune response,GO:0006955,"Osteoarthritis, Hip",MESH:D015207,0,,3,CHADL|CRHR1|SMAD3
+immune response,GO:0006955,"Osteoarthritis, Spine",MESH:D055013,0,,3,CXCL8|IL6|TNF
+immune system development,GO:0002520,Osteoarthritis,MESH:D010003,0,,1,SMAD3
+immune system development,GO:0002520,"Osteoarthritis, Hip",MESH:D015207,0,,1,SMAD3
+immune system process,GO:0002376,Osteoarthritis,MESH:D010003,1,Decitabine,0,
+immunological synapse formation,GO:0001771,Osteoarthritis,MESH:D010003,0,,1,MSN
+import into cell,GO:0098657,Osteoarthritis,MESH:D010003,2,Iron|Lipopolysaccharides,0,
+import into cell,GO:0098657,"Osteoarthritis, Knee",MESH:D020370,2,Adenosine Triphosphate|Lipopolysaccharides,0,
+import into nucleus,GO:0051170,Osteoarthritis,MESH:D010003,2,fisetin|Lipopolysaccharides,0,
+import into nucleus,GO:0051170,"Osteoarthritis, Knee",MESH:D020370,1,Lipopolysaccharides,0,
+indole metabolic process,GO:0042431,Osteoarthritis,MESH:D010003,1,Indomethacin,0,
+indole metabolic process,GO:0042431,"Osteoarthritis, Hip",MESH:D015207,1,Indomethacin,0,
+induction by virus of host cytokine production,GO:0044832,Osteoarthritis,MESH:D010003,1,"theaflavin-3,3'-digallate",0,
+induction of positive chemotaxis,GO:0050930,Osteoarthritis,MESH:D010003,0,,1,AGER
+induction of positive chemotaxis,GO:0050930,"Osteoarthritis, Spine",MESH:D055013,0,,1,CXCL8
+inflammasome complex assembly,GO:0140632,Osteoarthritis,MESH:D010003,1,Lipopolysaccharides,0,
+inflammasome complex assembly,GO:0140632,"Osteoarthritis, Knee",MESH:D020370,1,Lipopolysaccharides,0,
+inflammatory response,GO:0006954,Osteoarthritis,MESH:D010003,16,Acetaminophen|Aspirin|Caffeine|Celecoxib|Curcumin|Diclofenac|Dietary Fats|Ethanol|Glucosamine|Indomethacin|Iron|Ketoprofen|Lipopolysaccharides|Meloxicam|Nicotine|Resveratrol,11,AGER|BMP6|CALCA|CHI3L1|CXCL2|CXCL6|DDX3X|DPEP1|IL1B|PPARG|TGFB1
+inflammatory response,GO:0006954,"Osteoarthritis, Hip",MESH:D015207,1,Indomethacin,1,HDAC9
+inflammatory response,GO:0006954,"Osteoarthritis, Knee",MESH:D020370,3,argan oil|Lipopolysaccharides|Resveratrol,0,
+inflammatory response,GO:0006954,"Osteoarthritis, Spine",MESH:D055013,0,,3,CXCL8|IL6|TNF
+inflammatory response to antigenic stimulus,GO:0002437,Osteoarthritis,MESH:D010003,1,Resveratrol,1,IL1B
+inflammatory response to antigenic stimulus,GO:0002437,"Osteoarthritis, Knee",MESH:D020370,1,Resveratrol,0,
+inflammatory response to wounding,GO:0090594,"Osteoarthritis, Spine",MESH:D055013,0,,2,IL6|TNF
+inhibitory postsynaptic potential,GO:0060080,Osteoarthritis,MESH:D010003,2,Capsaicin|Nicotine,0,
+innate immune response,GO:0045087,Osteoarthritis,MESH:D010003,1,Lipopolysaccharides,7,CALCA|CLU|DDX3X|GAPDH|LGALS3|PPARG|SOD2
+innate immune response,GO:0045087,"Osteoarthritis, Knee",MESH:D020370,1,Lipopolysaccharides,0,
+innate immune response,GO:0045087,"Osteoarthritis, Spine",MESH:D055013,0,,1,SKP2
+inner cell mass cell proliferation,GO:0001833,Osteoarthritis,MESH:D010003,1,Resveratrol,0,
+inner cell mass cell proliferation,GO:0001833,"Osteoarthritis, Knee",MESH:D020370,1,Resveratrol,0,
+inner ear auditory receptor cell differentiation,GO:0042491,Osteoarthritis,MESH:D010003,0,,2,BMP4|PLS3
+inner ear development,GO:0048839,Osteoarthritis,MESH:D010003,0,,2,COL2A1|TGFB1
+inner ear development,GO:0048839,"Osteoarthritis, Hip",MESH:D015207,0,,1,SMO
+inner ear development,GO:0048839,Osteoarthritis with Mild Chondrodysplasia,MESH:C565740,0,,1,COL2A1
+inner ear morphogenesis,GO:0042472,Osteoarthritis,MESH:D010003,0,,2,COL2A1|FRZB
+inner ear morphogenesis,GO:0042472,"Osteoarthritis, Hip",MESH:D015207,0,,2,COL11A1|SMO
+inner ear morphogenesis,GO:0042472,Osteoarthritis with Mild Chondrodysplasia,MESH:C565740,0,,1,COL2A1
+inner mitochondrial membrane organization,GO:0007007,Osteoarthritis,MESH:D010003,0,,2,IMMT|OPA1
+innervation,GO:0060384,Osteoarthritis,MESH:D010003,1,Nicotine,0,
+inorganic cation import across plasma membrane,GO:0098659,Osteoarthritis,MESH:D010003,2,Reactive Oxygen Species|Resveratrol,0,
+inorganic cation import across plasma membrane,GO:0098659,"Osteoarthritis, Knee",MESH:D020370,1,Resveratrol,0,
+inositol metabolic process,GO:0006020,Osteoarthritis,MESH:D010003,1,Dietary Fats,0,
+insecticide metabolic process,GO:0017143,Osteoarthritis,MESH:D010003,1,Dietary Fats,0,
+insect visual primordium development,GO:0001748,Osteoarthritis,MESH:D010003,0,,1,MSN
+insulin catabolic process,GO:1901143,Osteoarthritis,MESH:D010003,0,,1,CTSD
+insulin-like growth factor receptor signaling pathway,GO:0048009,Osteoarthritis,MESH:D010003,2,Dietary Fats|Ethanol,0,
+insulin metabolic process,GO:1901142,Osteoarthritis,MESH:D010003,2,Dietary Fats|Resveratrol,0,
+insulin metabolic process,GO:1901142,"Osteoarthritis, Knee",MESH:D020370,1,Resveratrol,0,
+insulin processing,GO:0030070,Osteoarthritis,MESH:D010003,1,Dietary Fats,0,
+insulin receptor recycling,GO:0038020,Osteoarthritis,MESH:D010003,0,,1,CTSD
+insulin secretion,GO:0030073,Osteoarthritis,MESH:D010003,1,Dietary Fats,0,
+integrin-mediated signaling pathway,GO:0007229,Osteoarthritis,MESH:D010003,0,,1,NME2
+interferon-mediated signaling pathway,GO:0140888,Osteoarthritis,MESH:D010003,1,Nicotine,0,
+interleukin-10 production,GO:0032613,Osteoarthritis,MESH:D010003,2,Acetaminophen|Lipopolysaccharides,0,
+interleukin-10 production,GO:0032613,"Osteoarthritis, Knee",MESH:D020370,1,Lipopolysaccharides,0,
+interleukin-11-mediated signaling pathway,GO:0038154,"Osteoarthritis, Hip",MESH:D015207,0,,1,IL11
+interleukin-12 production,GO:0032615,Osteoarthritis,MESH:D010003,1,Lipopolysaccharides,0,
+interleukin-12 production,GO:0032615,"Osteoarthritis, Knee",MESH:D020370,1,Lipopolysaccharides,0,
+interleukin-17 production,GO:0032620,Osteoarthritis,MESH:D010003,1,Lipopolysaccharides,0,
+interleukin-17 production,GO:0032620,"Osteoarthritis, Knee",MESH:D020370,1,Lipopolysaccharides,0,
+interleukin-1 beta production,GO:0032611,Osteoarthritis,MESH:D010003,1,Lipopolysaccharides,1,IL1B
+interleukin-1 beta production,GO:0032611,"Osteoarthritis, Knee",MESH:D020370,1,Lipopolysaccharides,0,
+interleukin-1-mediated signaling pathway,GO:0070498,Osteoarthritis,MESH:D010003,0,,1,IL1B
+interleukin-1 production,GO:0032612,Osteoarthritis,MESH:D010003,1,Lipopolysaccharides,0,
+interleukin-1 production,GO:0032612,"Osteoarthritis, Knee",MESH:D020370,1,Lipopolysaccharides,0,
+interleukin-23 production,GO:0032627,Osteoarthritis,MESH:D010003,1,Lipopolysaccharides,0,
+interleukin-23 production,GO:0032627,"Osteoarthritis, Knee",MESH:D020370,1,Lipopolysaccharides,0,
+interleukin-27 production,GO:0032631,Osteoarthritis,MESH:D010003,1,Lipopolysaccharides,0,
+interleukin-27 production,GO:0032631,"Osteoarthritis, Knee",MESH:D020370,1,Lipopolysaccharides,0,
+interleukin-2 production,GO:0032623,Osteoarthritis,MESH:D010003,1,Lipopolysaccharides,0,
+interleukin-2 production,GO:0032623,"Osteoarthritis, Knee",MESH:D020370,1,Lipopolysaccharides,0,
+interleukin-6-mediated signaling pathway,GO:0070102,"Osteoarthritis, Spine",MESH:D055013,0,,1,IL6
+interleukin-6 production,GO:0032635,Osteoarthritis,MESH:D010003,2,Acetaminophen|Lipopolysaccharides,1,IL1B
+interleukin-6 production,GO:0032635,"Osteoarthritis, Knee",MESH:D020370,1,Lipopolysaccharides,0,
+interleukin-6 production,GO:0032635,"Osteoarthritis, Spine",MESH:D055013,0,,1,TNF
+inter-male aggressive behavior,GO:0002121,Osteoarthritis,MESH:D010003,1,Ethanol,0,
+intermediate filament-based process,GO:0045103,Osteoarthritis,MESH:D010003,0,,1,VIM
+intermediate filament organization,GO:0045109,Osteoarthritis,MESH:D010003,0,,1,VIM
+intermediate mesodermal cell differentiation,GO:0048392,Osteoarthritis,MESH:D010003,0,,1,BMP4
+intestinal absorption,GO:0050892,Osteoarthritis,MESH:D010003,1,Dietary Fats,1,ACO1
+intestinal cholesterol absorption,GO:0030299,Osteoarthritis,MESH:D010003,0,,1,AKR1C1
+intestinal D-glucose absorption,GO:0001951,Osteoarthritis,MESH:D010003,0,,1,EZR
+intestinal epithelial structure maintenance,GO:0060729,Osteoarthritis,MESH:D010003,4,Curcumin|Dietary Fats|Ethanol|Lipopolysaccharides,0,
+intestinal epithelial structure maintenance,GO:0060729,"Osteoarthritis, Knee",MESH:D020370,1,Lipopolysaccharides,0,
+intestinal motility,GO:0120054,Osteoarthritis,MESH:D010003,1,Nicotine,0,
+intracellular distribution of mitochondria,GO:0048312,Osteoarthritis,MESH:D010003,0,,2,CLU|OPA1
+intracellular distribution of mitochondria,GO:0048312,"Osteoarthritis, Hip",MESH:D015207,0,,1,MAPT
+intracellular protein transport,GO:0006886,Osteoarthritis,MESH:D010003,0,,2,RAN|SEC23A
+intracellular sequestering of iron ion,GO:0006880,Osteoarthritis,MESH:D010003,2,Acetaminophen|ferrostatin-1,1,FTL
+intracellular signal transduction,GO:0035556,Osteoarthritis,MESH:D010003,0,,4,DDX3X|PLCD1|PPP2R1A|SDCBP
+intracellular signal transduction,GO:0035556,"Osteoarthritis, Spine",MESH:D055013,0,,2,CXCL8|DUSP1
+intracellular transport,GO:0046907,"Osteoarthritis, Hip",MESH:D015207,0,,1,MAPT
+intramembranous ossification,GO:0001957,Osteoarthritis,MESH:D010003,0,,2,CTSK|FGF18
+intrinsic apoptotic signaling pathway,GO:0097193,Osteoarthritis,MESH:D010003,0,,2,CLU|DDX3X
+intrinsic apoptotic signaling pathway,GO:0097193,"Osteoarthritis, Hip",MESH:D015207,0,,1,DIABLO
+intrinsic apoptotic signaling pathway in response to DNA damage,GO:0008630,Osteoarthritis,MESH:D010003,0,,1,SOD2
+intrinsic apoptotic signaling pathway in response to DNA damage,GO:0008630,"Osteoarthritis, Spine",MESH:D055013,0,,1,TNF
+intrinsic apoptotic signaling pathway in response to oxidative stress,GO:0008631,Osteoarthritis,MESH:D010003,2,Lithium Chloride|Reactive Oxygen Species,1,SOD2
+intrinsic apoptotic signaling pathway in response to oxidative stress,GO:0008631,"Osteoarthritis, Hip",MESH:D015207,0,,2,DIABLO|MAPT
+in utero embryonic development,GO:0001701,Osteoarthritis,MESH:D010003,0,,2,ENO1|SMAD3
+in utero embryonic development,GO:0001701,"Osteoarthritis, Hip",MESH:D015207,0,,2,SMAD3|SMO
+ionotropic glutamate receptor signaling pathway,GO:0035235,Osteoarthritis,MESH:D010003,0,,1,ATP1A3
+iron import into cell,GO:0033212,Osteoarthritis,MESH:D010003,4,Dietary Fats|ferrostatin-1|Iron|Resveratrol,0,
+iron import into cell,GO:0033212,"Osteoarthritis, Knee",MESH:D020370,1,Resveratrol,0,
+iron ion homeostasis,GO:0055072,Osteoarthritis,MESH:D010003,6,Acetaminophen|Dietary Fats|Ethanol|ferrostatin-1|Iron|Lipopolysaccharides,0,
+iron ion homeostasis,GO:0055072,"Osteoarthritis, Knee",MESH:D020370,1,Lipopolysaccharides,0,
+iron ion import across cell outer membrane,GO:0098706,Osteoarthritis,MESH:D010003,1,Ethanol,0,
+iron ion import across plasma membrane,GO:0098711,Osteoarthritis,MESH:D010003,1,Iron,0,
+iron ion transport,GO:0006826,Osteoarthritis,MESH:D010003,1,Iron,1,FTL
+iron ion transport,GO:0006826,"Osteoarthritis, Hip",MESH:D015207,0,,1,HFE
+irritable aggressive behavior,GO:0002123,Osteoarthritis,MESH:D010003,1,Curcumin,0,
+isocitrate metabolic process,GO:0006102,Osteoarthritis,MESH:D010003,0,,2,IDH2|IDH3A
+isoleucine biosynthetic process,GO:0009097,Osteoarthritis,MESH:D010003,1,Dietary Fats,0,
+isopeptide cross-linking via N6-(L-isoglutamyl)-L-lysine,GO:0018153,Osteoarthritis,MESH:D010003,0,,1,TGM2
+JNK cascade,GO:0007254,Osteoarthritis,MESH:D010003,3,Curcumin|Reactive Oxygen Species|Resveratrol,3,IL1B|MSN|SMAD3
+JNK cascade,GO:0007254,"Osteoarthritis, Hip",MESH:D015207,0,,1,SMAD3
+JNK cascade,GO:0007254,"Osteoarthritis, Knee",MESH:D020370,1,Resveratrol,0,
+JNK cascade,GO:0007254,"Osteoarthritis, Spine",MESH:D055013,0,,1,TNF
+JUN phosphorylation,GO:0007258,Osteoarthritis,MESH:D010003,1,Lipopolysaccharides,0,
+JUN phosphorylation,GO:0007258,"Osteoarthritis, Knee",MESH:D020370,1,Lipopolysaccharides,0,
+keratinization,GO:0031424,"Osteoarthritis, Knee",MESH:D020370,1,Adenosine Triphosphate,0,
+keratinocyte differentiation,GO:0030216,Osteoarthritis,MESH:D010003,0,,2,CLIC4|PTGS2
+ketone body biosynthetic process,GO:0046951,Osteoarthritis,MESH:D010003,1,Dietary Fats,0,
+kidney development,GO:0001822,Osteoarthritis,MESH:D010003,0,,4,ALDH1A2|BMP4|BMP6|POU3F3
+killing by host of symbiont cells,GO:0051873,Osteoarthritis,MESH:D010003,0,,1,GAPDH
+killing of cells of another organism,GO:0031640,Osteoarthritis,MESH:D010003,0,,3,CXCL2|GAPDH|LGALS3
+killing of cells of another organism,GO:0031640,"Osteoarthritis, Spine",MESH:D055013,0,,1,CXCL8
+kynurenic acid metabolic process,GO:0034275,Osteoarthritis,MESH:D010003,1,Indomethacin,0,
+kynurenic acid metabolic process,GO:0034275,"Osteoarthritis, Hip",MESH:D015207,1,Indomethacin,0,
+labyrinthine layer blood vessel development,GO:0060716,Osteoarthritis,MESH:D010003,0,,1,PLCD1
+lactam catabolic process,GO:0072340,Osteoarthritis,MESH:D010003,0,,1,DPEP1
+lactate biosynthetic process,GO:0019249,Osteoarthritis,MESH:D010003,4,Acetaminophen|Dietary Fats|Nicotine|Resveratrol,0,
+lactate biosynthetic process,GO:0019249,"Osteoarthritis, Knee",MESH:D020370,1,Resveratrol,0,
+lactate metabolic process,GO:0006089,Osteoarthritis,MESH:D010003,4,Acetaminophen|Ethanol|Lipopolysaccharides|Resveratrol,0,
+lactate metabolic process,GO:0006089,"Osteoarthritis, Knee",MESH:D020370,3,Adenosine Triphosphate|Lipopolysaccharides|Resveratrol,0,
+lactic acid secretion,GO:0046722,Osteoarthritis,MESH:D010003,4,Acetaminophen|Dietary Fats|Dinoprostone|Lipopolysaccharides,0,
+lactic acid secretion,GO:0046722,"Osteoarthritis, Knee",MESH:D020370,1,Lipopolysaccharides,0,
+lactose metabolic process,GO:0005988,Osteoarthritis,MESH:D010003,1,Diclofenac,0,
+L-alanine catabolic process,GO:0042853,Osteoarthritis,MESH:D010003,1,Acetaminophen,0,
+lamellipodium assembly,GO:0030032,Osteoarthritis,MESH:D010003,1,Ethanol,0,
+Langerhans cell differentiation,GO:0061520,Osteoarthritis,MESH:D010003,0,,1,TGFB1
+larval development,GO:0002164,Osteoarthritis,MESH:D010003,1,ferrostatin-1,0,
+L-ascorbic acid biosynthetic process,GO:0019853,Osteoarthritis,MESH:D010003,1,Dietary Fats,0,
+L-ascorbic acid metabolic process,GO:0019852,Osteoarthritis,MESH:D010003,4,Ethanol|Indomethacin|Iron|Resveratrol,2,ATP1A3|SLC2A1
+L-ascorbic acid metabolic process,GO:0019852,"Osteoarthritis, Hip",MESH:D015207,1,Indomethacin,0,
+L-ascorbic acid metabolic process,GO:0019852,"Osteoarthritis, Knee",MESH:D020370,1,Resveratrol,0,
+lead ion transport,GO:0015692,Osteoarthritis,MESH:D010003,1,Dietary Fats,0,
+learning,GO:0007612,Osteoarthritis,MESH:D010003,7,Acetaminophen|Dietary Fats|fisetin|Lipopolysaccharides|Lithium Chloride|Nicotine|Resveratrol,2,ATP1A3|PTGS2
+learning,GO:0007612,"Osteoarthritis, Knee",MESH:D020370,2,Lipopolysaccharides|Resveratrol,0,
+learning or memory,GO:0007611,Osteoarthritis,MESH:D010003,3,"Aspartame|polygalacic acid|theaflavin-3,3'-digallate",2,AGER|IL1B
+learning or memory,GO:0007611,"Osteoarthritis, Hip",MESH:D015207,0,,1,MAPT
+left/right axis specification,GO:0070986,"Osteoarthritis, Hip",MESH:D015207,0,,1,SMO
+lens fiber cell development,GO:0070307,Osteoarthritis,MESH:D010003,0,,1,VIM
+lens fiber cell differentiation,GO:0070306,Osteoarthritis,MESH:D010003,0,,2,SMAD3|TGFB1
+lens fiber cell differentiation,GO:0070306,"Osteoarthritis, Hip",MESH:D015207,0,,1,SMAD3
+lens induction in camera-type eye,GO:0060235,Osteoarthritis,MESH:D010003,0,,1,BMP4
+leptin-mediated signaling pathway,GO:0033210,Osteoarthritis,MESH:D010003,1,Nicotine,0,
+leukocyte activation,GO:0045321,Osteoarthritis,MESH:D010003,1,Reactive Oxygen Species,0,
+leukocyte adhesion to vascular endothelial cell,GO:0061756,Osteoarthritis,MESH:D010003,1,Lipopolysaccharides,0,
+leukocyte adhesion to vascular endothelial cell,GO:0061756,"Osteoarthritis, Knee",MESH:D020370,1,Lipopolysaccharides,0,
+leukocyte cell-cell adhesion,GO:0007159,Osteoarthritis,MESH:D010003,1,Lipopolysaccharides,3,CALCA|EZR|MSN
+leukocyte cell-cell adhesion,GO:0007159,"Osteoarthritis, Knee",MESH:D020370,1,Lipopolysaccharides,0,
+leukocyte chemotaxis,GO:0030595,Osteoarthritis,MESH:D010003,9,Acetaminophen|Aspirin|benoxaprofen|Celecoxib|Diclofenac|Indomethacin|Lipopolysaccharides|Nicotine|nimesulide,1,CXCL2
+leukocyte chemotaxis,GO:0030595,"Osteoarthritis, Hip",MESH:D015207,2,Indomethacin|nimesulide,0,
+leukocyte chemotaxis,GO:0030595,"Osteoarthritis, Knee",MESH:D020370,2,Lipopolysaccharides|nimesulide,0,
+leukocyte chemotaxis involved in inflammatory response,GO:0002232,Osteoarthritis,MESH:D010003,7,Celecoxib|Diclofenac|Dietary Fats|Ethanol|Indomethacin|Lipopolysaccharides|Resveratrol,0,
+leukocyte chemotaxis involved in inflammatory response,GO:0002232,"Osteoarthritis, Hip",MESH:D015207,1,Indomethacin,0,
+leukocyte chemotaxis involved in inflammatory response,GO:0002232,"Osteoarthritis, Knee",MESH:D020370,2,Lipopolysaccharides|Resveratrol,0,
+leukocyte degranulation,GO:0043299,Osteoarthritis,MESH:D010003,3,Dinoprostone|Lipopolysaccharides|Nicotine,0,
+leukocyte degranulation,GO:0043299,"Osteoarthritis, Knee",MESH:D020370,1,Lipopolysaccharides,0,
+leukocyte homeostasis,GO:0001776,Osteoarthritis,MESH:D010003,4,Ibuprofen|Indomethacin|Lipopolysaccharides|Resveratrol,1,CXCL6
+leukocyte homeostasis,GO:0001776,"Osteoarthritis, Hip",MESH:D015207,2,Ibuprofen|Indomethacin,0,
+leukocyte homeostasis,GO:0001776,"Osteoarthritis, Knee",MESH:D020370,2,Lipopolysaccharides|Resveratrol,0,
+leukocyte migration,GO:0050900,Osteoarthritis,MESH:D010003,2,Dietary Fats|Lipopolysaccharides,2,IL1B|MSN
+leukocyte migration,GO:0050900,"Osteoarthritis, Knee",MESH:D020370,1,Lipopolysaccharides,0,
+leukocyte migration,GO:0050900,"Osteoarthritis, Spine",MESH:D055013,0,,1,TNF
+leukocyte migration involved in inflammatory response,GO:0002523,Osteoarthritis,MESH:D010003,17,"Acetaminophen|Aspirin|astaxanthine|Caffeine|Curcumin|diacerein|Diclofenac|Dietary Fats|Ethanol|Indomethacin|Iron|Lipopolysaccharides|Lithium Chloride|oxymatrine|pregna-4,17-diene-3,16-dione|Resveratrol|Tramadol",0,
+leukocyte migration involved in inflammatory response,GO:0002523,"Osteoarthritis, Hip",MESH:D015207,1,Indomethacin,0,
+leukocyte migration involved in inflammatory response,GO:0002523,"Osteoarthritis, Knee",MESH:D020370,4,Adenosine Triphosphate|Lipopolysaccharides|Resveratrol|Tramadol,0,
+leukocyte migration involved in inflammatory response,GO:0002523,"Osteoarthritis, Spine",MESH:D055013,0,,1,TNF
+leukocyte proliferation,GO:0070661,Osteoarthritis,MESH:D010003,1,Lipopolysaccharides,1,TGFB1
+leukocyte proliferation,GO:0070661,"Osteoarthritis, Knee",MESH:D020370,1,Lipopolysaccharides,0,
+leukocyte tethering or rolling,GO:0050901,Osteoarthritis,MESH:D010003,5,Celecoxib|Diclofenac|Indomethacin|Lipopolysaccharides|Nicotine,0,
+leukocyte tethering or rolling,GO:0050901,"Osteoarthritis, Hip",MESH:D015207,1,Indomethacin,0,
+leukocyte tethering or rolling,GO:0050901,"Osteoarthritis, Knee",MESH:D020370,1,Lipopolysaccharides,0,
+leukocyte tethering or rolling,GO:0050901,"Osteoarthritis, Spine",MESH:D055013,0,,1,TNF
+leukotriene D4 catabolic process,GO:1901749,Osteoarthritis,MESH:D010003,0,,1,DPEP1
+leukotriene metabolic process,GO:0006691,Osteoarthritis,MESH:D010003,0,,1,DPEP1
+leukotriene transport,GO:0071716,Osteoarthritis,MESH:D010003,1,Celecoxib,0,
+Leydig cell differentiation,GO:0033327,Osteoarthritis,MESH:D010003,2,Aspartame|Nicotine,0,
+L-glutamate import,GO:0051938,Osteoarthritis,MESH:D010003,1,Ethanol,0,
+ligamentous ossification,GO:0036076,Osteoarthritis,MESH:D010003,0,,1,RUNX2
+ligamentous ossification,GO:0036076,"Osteoarthritis, Hip",MESH:D015207,0,,1,RUNX2
+limb bud formation,GO:0060174,Osteoarthritis,MESH:D010003,0,,1,COL2A1
+limb bud formation,GO:0060174,Osteoarthritis with Mild Chondrodysplasia,MESH:C565740,0,,1,COL2A1
+limb development,GO:0060173,Osteoarthritis,MESH:D010003,1,Ethanol,1,COMP
+limb development,GO:0060173,"Osteoarthritis, Hip",MESH:D015207,0,,1,COMP
+limb morphogenesis,GO:0035108,Osteoarthritis,MESH:D010003,0,,1,COL2A1
+limb morphogenesis,GO:0035108,"Osteoarthritis, Hip",MESH:D015207,0,,1,LMX1B
+limb morphogenesis,GO:0035108,Osteoarthritis with Mild Chondrodysplasia,MESH:C565740,0,,1,COL2A1
+lipid biosynthetic process,GO:0008610,Osteoarthritis,MESH:D010003,13,"Aspirin|Caffeine|Curcumin|Dietary Fats|Dinoprostone|Doxycycline|Ethanol|Indomethacin|Iron|pregna-4,17-diene-3,16-dione|Resveratrol|Salicylates|Sulindac",0,
+lipid biosynthetic process,GO:0008610,"Osteoarthritis, Hip",MESH:D015207,1,Indomethacin,0,
+lipid biosynthetic process,GO:0008610,"Osteoarthritis, Knee",MESH:D020370,1,Resveratrol,0,
+lipid catabolic process,GO:0016042,Osteoarthritis,MESH:D010003,28,Acetaminophen|Aspartame|Aspirin|astaxanthine|Caffeine|Capsaicin|Celecoxib|Curcumin|diacerein|Diclofenac|Dietary Fats|Dinoprostone|Doxycycline|Ethanol|ferrostatin-1|fisetin|Indomethacin|Iron|Lipopolysaccharides|Lithium Chloride|Meloxicam|MF63 compound|Nicotine|oxymatrine|Resveratrol|rofecoxib|Tramadol|xanthohumol,1,PLCD1
+lipid catabolic process,GO:0016042,"Osteoarthritis, Hip",MESH:D015207,1,Indomethacin,0,
+lipid catabolic process,GO:0016042,"Osteoarthritis, Knee",MESH:D020370,6,Adenosine Triphosphate|argan oil|Lipopolysaccharides|Resveratrol|rofecoxib|Tramadol,0,
+lipid droplet formation,GO:0140042,Osteoarthritis,MESH:D010003,14,"Caffeine|Curcumin|Dietary Fats|Doxycycline|Ethanol|ferrostatin-1|Indomethacin|Iron|Lipopolysaccharides|Nicotine|pregna-4,17-diene-3,16-dione|Resveratrol|Salicylates|theaflavin-3,3'-digallate",0,
+lipid droplet formation,GO:0140042,"Osteoarthritis, Hip",MESH:D015207,1,Indomethacin,0,
+lipid droplet formation,GO:0140042,"Osteoarthritis, Knee",MESH:D020370,2,Lipopolysaccharides|Resveratrol,0,
+lipid droplet organization,GO:0034389,Osteoarthritis,MESH:D010003,2,Ethanol|Lipopolysaccharides,0,
+lipid droplet organization,GO:0034389,"Osteoarthritis, Knee",MESH:D020370,1,Lipopolysaccharides,0,
+lipid homeostasis,GO:0055088,Osteoarthritis,MESH:D010003,3,Dietary Fats|Ethanol|Resveratrol,2,DDX3X|PPARG
+lipid homeostasis,GO:0055088,"Osteoarthritis, Knee",MESH:D020370,1,Resveratrol,0,
+lipid import into cell,GO:0140354,Osteoarthritis,MESH:D010003,2,"Dietary Fats|pregna-4,17-diene-3,16-dione",0,
+lipid localization,GO:0010876,Osteoarthritis,MESH:D010003,1,Lithium Chloride,0,
+lipid metabolic process,GO:0006629,Osteoarthritis,MESH:D010003,7,Acetaminophen|Dietary Fats|Dinoprostone|Ethanol|ferrostatin-1|morroniside|Tramadol,4,CLU|DPEP1|PLCD1|PPARG
+lipid metabolic process,GO:0006629,"Osteoarthritis, Knee",MESH:D020370,1,Tramadol,0,
+lipid oxidation,GO:0034440,Osteoarthritis,MESH:D010003,22,Acetaminophen|Aspartame|Aspirin|astaxanthine|Caffeine|Celecoxib|Curcumin|Diclofenac|Dietary Fats|Ethanol|ferrostatin-1|Ibuprofen|Indomethacin|Iron|Lipopolysaccharides|Meloxicam|Nicotine|nimesulide|oxymatrine|Reactive Oxygen Species|Resveratrol|Sulindac,0,
+lipid oxidation,GO:0034440,"Osteoarthritis, Hip",MESH:D015207,3,Ibuprofen|Indomethacin|nimesulide,0,
+lipid oxidation,GO:0034440,"Osteoarthritis, Knee",MESH:D020370,6,Adenosine Triphosphate|diosmetin|Lipopolysaccharides|nimesulide|Pregabalin|Resveratrol,0,
+lipid storage,GO:0019915,Osteoarthritis,MESH:D010003,2,Indomethacin|Lithium Chloride,0,
+lipid storage,GO:0019915,"Osteoarthritis, Hip",MESH:D015207,1,Indomethacin,0,
+lipopolysaccharide biosynthetic process,GO:0009103,Osteoarthritis,MESH:D010003,2,Dietary Fats|Lipopolysaccharides,0,
+lipopolysaccharide biosynthetic process,GO:0009103,"Osteoarthritis, Knee",MESH:D020370,1,Lipopolysaccharides,0,
+lipopolysaccharide metabolic process,GO:0008653,Osteoarthritis,MESH:D010003,2,Dietary Fats|Lipopolysaccharides,0,
+lipopolysaccharide metabolic process,GO:0008653,"Osteoarthritis, Knee",MESH:D020370,1,Lipopolysaccharides,0,
+lipopolysaccharide transport,GO:0015920,Osteoarthritis,MESH:D010003,2,Ethanol|Lipopolysaccharides,0,
+lipopolysaccharide transport,GO:0015920,"Osteoarthritis, Knee",MESH:D020370,1,Lipopolysaccharides,0,
+lipoprotein biosynthetic process,GO:0042158,Osteoarthritis,MESH:D010003,1,Acetaminophen,0,
+lipoprotein catabolic process,GO:0042159,Osteoarthritis,MESH:D010003,0,,1,CTSD
+lipoprotein lipid oxidation,GO:0034439,Osteoarthritis,MESH:D010003,1,Curcumin,0,
+lipoprotein oxidation,GO:0042161,Osteoarthritis,MESH:D010003,3,Dinoprostone|Lipopolysaccharides|Resveratrol,0,
+lipoprotein oxidation,GO:0042161,"Osteoarthritis, Knee",MESH:D020370,2,Lipopolysaccharides|Resveratrol,0,
+lipoprotein transport,GO:0042953,Osteoarthritis,MESH:D010003,0,,1,PPARG
+lipoxin A4 biosynthetic process,GO:2001303,Osteoarthritis,MESH:D010003,4,Aspirin|Celecoxib|Naproxen|rofecoxib,0,
+lipoxin A4 biosynthetic process,GO:2001303,"Osteoarthritis, Hip",MESH:D015207,1,Naproxen,0,
+lipoxin A4 biosynthetic process,GO:2001303,"Osteoarthritis, Knee",MESH:D020370,1,rofecoxib,0,
+lipoxygenase pathway,GO:0019372,Osteoarthritis,MESH:D010003,1,Indomethacin,1,PTGS2
+lipoxygenase pathway,GO:0019372,"Osteoarthritis, Hip",MESH:D015207,1,Indomethacin,0,
+liver development,GO:0001889,Osteoarthritis,MESH:D010003,1,astaxanthine,5,ACO1|AK4|ALDH1A2|SMAD3|SOD2
+liver development,GO:0001889,"Osteoarthritis, Hip",MESH:D015207,0,,1,SMAD3
+liver regeneration,GO:0097421,Osteoarthritis,MESH:D010003,1,Acetaminophen,1,TGFB1
+liver regeneration,GO:0097421,"Osteoarthritis, Hip",MESH:D015207,0,,1,HFE
+liver regeneration,GO:0097421,"Osteoarthritis, Spine",MESH:D055013,0,,2,IL6|TNF
+locomotion,GO:0040011,Osteoarthritis,MESH:D010003,1,Ethanol,1,ATP1A3
+locomotion involved in locomotory behavior,GO:0031987,Osteoarthritis,MESH:D010003,12,Acetaminophen|Caffeine|Curcumin|Dietary Fats|Ethanol|ferrostatin-1|Indomethacin|Iodoacetic Acid|Lipopolysaccharides|Lithium Chloride|Nicotine|Resveratrol,0,
+locomotion involved in locomotory behavior,GO:0031987,"Osteoarthritis, Hip",MESH:D015207,1,Indomethacin,0,
+locomotion involved in locomotory behavior,GO:0031987,"Osteoarthritis, Knee",MESH:D020370,3,Iodoacetic Acid|Lipopolysaccharides|Resveratrol,0,
+locomotory behavior,GO:0007626,Osteoarthritis,MESH:D010003,3,Dietary Fats|Ethanol|Resveratrol,2,ATP1A3|SOD2
+locomotory behavior,GO:0007626,"Osteoarthritis, Hip",MESH:D015207,0,,1,LMX1B
+locomotory behavior,GO:0007626,"Osteoarthritis, Knee",MESH:D020370,1,Resveratrol,0,
+locomotory exploration behavior,GO:0035641,Osteoarthritis,MESH:D010003,2,Ethanol|Nicotine,0,
+locomotory exploration behavior,GO:0035641,"Osteoarthritis, Hip",MESH:D015207,0,,1,CRHR1
+long-chain fatty acid biosynthetic process,GO:0042759,Osteoarthritis,MESH:D010003,0,,1,PTGS2
+long-chain fatty acid import across plasma membrane,GO:0015911,Osteoarthritis,MESH:D010003,0,,1,SLC2A1
+long-chain fatty acid metabolic process,GO:0001676,Osteoarthritis,MESH:D010003,1,Dietary Fats,0,
+long-chain fatty acid transport,GO:0015909,Osteoarthritis,MESH:D010003,0,,1,PPARG
+long-term memory,GO:0007616,Osteoarthritis,MESH:D010003,1,Ethanol,0,
+long-term synaptic potentiation,GO:0060291,Osteoarthritis,MESH:D010003,2,Ethanol|Nicotine,0,
+long-term synaptic potentiation,GO:0060291,"Osteoarthritis, Hip",MESH:D015207,0,,1,CRHR1
+long-term synaptic potentiation,GO:0060291,"Osteoarthritis, Spine",MESH:D055013,0,,1,MIR337
+low-density lipoprotein particle clearance,GO:0034383,Osteoarthritis,MESH:D010003,2,Curcumin|Ethanol,0,
+low-density lipoprotein receptor particle metabolic process,GO:0032799,Osteoarthritis,MESH:D010003,1,Resveratrol,0,
+low-density lipoprotein receptor particle metabolic process,GO:0032799,"Osteoarthritis, Knee",MESH:D020370,1,Resveratrol,0,
+L-serine biosynthetic process,GO:0006564,Osteoarthritis,MESH:D010003,1,Acetaminophen,0,
+L-serine metabolic process,GO:0006563,Osteoarthritis,MESH:D010003,1,Resveratrol,0,
+L-serine metabolic process,GO:0006563,"Osteoarthritis, Knee",MESH:D020370,1,Resveratrol,0,
+lung alveolus development,GO:0048286,Osteoarthritis,MESH:D010003,0,,2,BMP4|TGFB1
+lung development,GO:0030324,Osteoarthritis,MESH:D010003,0,,6,AGER|ALDH1A2|BMP4|CHI3L1|FGF18|TGFB1
+lung epithelium development,GO:0060428,Osteoarthritis,MESH:D010003,0,,1,RCN3
+lung goblet cell differentiation,GO:0060480,Osteoarthritis,MESH:D010003,1,Curcumin,0,
+lung lobe development,GO:0060462,Osteoarthritis,MESH:D010003,0,,1,BMP4
+lung morphogenesis,GO:0060425,Osteoarthritis,MESH:D010003,0,,1,BMP4
+lung saccule development,GO:0060430,Osteoarthritis,MESH:D010003,0,,1,LTBP3
+lung saccule development,GO:0060430,"Osteoarthritis, Hip",MESH:D015207,0,,1,LTBP3
+lung vasculature development,GO:0060426,Osteoarthritis,MESH:D010003,0,,1,BMP4
+lymph node development,GO:0048535,Osteoarthritis,MESH:D010003,0,,1,TGFB1
+lymphocyte activation,GO:0046649,Osteoarthritis,MESH:D010003,2,Dinoprostone|Lipopolysaccharides,0,
+lymphocyte activation,GO:0046649,"Osteoarthritis, Knee",MESH:D020370,1,Lipopolysaccharides,0,
+lymphocyte chemotaxis,GO:0048247,Osteoarthritis,MESH:D010003,1,Curcumin,0,
+lymphocyte costimulation,GO:0031294,"Osteoarthritis, Spine",MESH:D055013,0,,1,IL6
+lymphocyte homeostasis,GO:0002260,Osteoarthritis,MESH:D010003,2,Ethanol|Lipopolysaccharides,0,
+lymphocyte homeostasis,GO:0002260,"Osteoarthritis, Knee",MESH:D020370,1,Lipopolysaccharides,0,
+lymphocyte migration,GO:0072676,Osteoarthritis,MESH:D010003,2,Iron|Lipopolysaccharides,0,
+lymphocyte migration,GO:0072676,"Osteoarthritis, Knee",MESH:D020370,1,Lipopolysaccharides,0,
+lymphocyte proliferation,GO:0046651,Osteoarthritis,MESH:D010003,1,Lipopolysaccharides,0,
+lymphocyte proliferation,GO:0046651,"Osteoarthritis, Knee",MESH:D020370,1,Lipopolysaccharides,0,
+lymphoid progenitor cell differentiation,GO:0002320,Osteoarthritis,MESH:D010003,0,,1,BMP4
+lymph vessel development,GO:0001945,Osteoarthritis,MESH:D010003,0,,1,ACAA2
+lysosomal lumen pH elevation,GO:0035752,Osteoarthritis,MESH:D010003,2,"Curcumin|theaflavin-3,3'-digallate",0,
+lysosomal membrane organization,GO:0097212,Osteoarthritis,MESH:D010003,1,Ibuprofen,0,
+lysosomal membrane organization,GO:0097212,"Osteoarthritis, Hip",MESH:D015207,1,Ibuprofen,0,
+lysosome organization,GO:0007040,Osteoarthritis,MESH:D010003,1,Doxycycline,0,
+macroautophagy,GO:0016236,Osteoarthritis,MESH:D010003,0,,1,PDCD6IP
+macrophage activation,GO:0042116,Osteoarthritis,MESH:D010003,6,Celecoxib|Curcumin|Dinoprostone|Lipopolysaccharides|nimesulide|xanthohumol,0,
+macrophage activation,GO:0042116,"Osteoarthritis, Hip",MESH:D015207,1,nimesulide,0,
+macrophage activation,GO:0042116,"Osteoarthritis, Knee",MESH:D020370,2,Lipopolysaccharides|nimesulide,0,
+macrophage activation involved in immune response,GO:0002281,Osteoarthritis,MESH:D010003,1,Lipopolysaccharides,0,
+macrophage activation involved in immune response,GO:0002281,"Osteoarthritis, Knee",MESH:D020370,1,Lipopolysaccharides,0,
+macrophage activation involved in immune response,GO:0002281,"Osteoarthritis, Spine",MESH:D055013,0,,1,TNF
+macrophage chemotaxis,GO:0048246,Osteoarthritis,MESH:D010003,1,Dietary Fats,2,IL1B|LGALS3
+macrophage cytokine production,GO:0010934,Osteoarthritis,MESH:D010003,0,,1,IL1B
+macrophage derived foam cell differentiation,GO:0010742,Osteoarthritis,MESH:D010003,0,,2,PPARG|TGFB1
+macrophage differentiation,GO:0030225,Osteoarthritis,MESH:D010003,1,Lipopolysaccharides,1,BMP4
+macrophage differentiation,GO:0030225,"Osteoarthritis, Knee",MESH:D020370,1,Lipopolysaccharides,0,
+macrophage differentiation,GO:0030225,"Osteoarthritis, Spine",MESH:D055013,0,,1,IL6
+macrophage migration,GO:1905517,Osteoarthritis,MESH:D010003,5,Acetaminophen|Curcumin|Dietary Fats|Lipopolysaccharides|Resveratrol,0,
+macrophage migration,GO:1905517,"Osteoarthritis, Knee",MESH:D020370,2,Lipopolysaccharides|Resveratrol,0,
+macrophage proliferation,GO:0061517,Osteoarthritis,MESH:D010003,1,Lipopolysaccharides,0,
+macrophage proliferation,GO:0061517,"Osteoarthritis, Knee",MESH:D020370,1,Lipopolysaccharides,0,
+maintenance of blood-brain barrier,GO:0035633,Osteoarthritis,MESH:D010003,3,Ethanol|Lipopolysaccharides|Resveratrol,2,ACTB|PTGS2
+maintenance of blood-brain barrier,GO:0035633,"Osteoarthritis, Knee",MESH:D020370,2,Lipopolysaccharides|Resveratrol,0,
+maintenance of blood-brain barrier,GO:0035633,"Osteoarthritis, Spine",MESH:D055013,0,,1,IL6
+maintenance of epithelial cell apical/basal polarity,GO:0045199,Osteoarthritis,MESH:D010003,0,,1,PDCD6IP
+maintenance of gastrointestinal epithelium,GO:0030277,Osteoarthritis,MESH:D010003,2,Curcumin|Diclofenac,0,
+maintenance of location in cell,GO:0051651,Osteoarthritis,MESH:D010003,1,Dietary Fats,0,
+maintenance of protein location in mitochondrion,GO:0072656,Osteoarthritis,MESH:D010003,1,nimesulide,0,
+maintenance of protein location in mitochondrion,GO:0072656,"Osteoarthritis, Hip",MESH:D015207,1,nimesulide,0,
+maintenance of protein location in mitochondrion,GO:0072656,"Osteoarthritis, Knee",MESH:D020370,1,nimesulide,0,
+maintenance of synapse structure,GO:0099558,Osteoarthritis,MESH:D010003,1,Dietary Fats,0,
+male anatomical structure morphogenesis,GO:0090598,Osteoarthritis,MESH:D010003,1,Nicotine,0,
+male genitalia development,GO:0030539,Osteoarthritis,MESH:D010003,0,,1,BMP6
+male gonad development,GO:0008584,Osteoarthritis,MESH:D010003,2,Dietary Fats|Resveratrol,0,
+male gonad development,GO:0008584,"Osteoarthritis, Knee",MESH:D020370,1,Resveratrol,0,
+male mating behavior,GO:0060179,Osteoarthritis,MESH:D010003,1,Nicotine,0,
+mammary duct terminal end bud growth,GO:0060763,Osteoarthritis,MESH:D010003,1,Resveratrol,0,
+mammary duct terminal end bud growth,GO:0060763,"Osteoarthritis, Knee",MESH:D020370,1,Resveratrol,0,
+mammary gland branching involved in thelarche,GO:0060744,Osteoarthritis,MESH:D010003,0,,1,TGFB1
+mammary gland development,GO:0030879,Osteoarthritis,MESH:D010003,0,,1,TGFB1
+mammary gland epithelial cell differentiation,GO:0060644,"Osteoarthritis, Hip",MESH:D015207,0,,1,SMO
+mammary gland formation,GO:0060592,Osteoarthritis,MESH:D010003,0,,1,BMP4
+manganese ion homeostasis,GO:0055071,Osteoarthritis,MESH:D010003,1,Ethanol,0,
+manganese ion transmembrane transport,GO:0071421,Osteoarthritis,MESH:D010003,1,Iron,0,
+MAPK cascade,GO:0000165,Osteoarthritis,MESH:D010003,5,Curcumin|Lipopolysaccharides|Nicotine|Reactive Oxygen Species|Sulindac,1,SMAD3
+MAPK cascade,GO:0000165,"Osteoarthritis, Hip",MESH:D015207,0,,1,SMAD3
+MAPK cascade,GO:0000165,"Osteoarthritis, Knee",MESH:D020370,1,Lipopolysaccharides,0,
+mast cell degranulation,GO:0043303,Osteoarthritis,MESH:D010003,3,Capsaicin|Dietary Fats|Lipopolysaccharides,0,
+mast cell degranulation,GO:0043303,"Osteoarthritis, Knee",MESH:D020370,1,Lipopolysaccharides,0,
+mast cell migration,GO:0097531,Osteoarthritis,MESH:D010003,1,Dietary Fats,0,
+mastication,GO:0071626,Osteoarthritis,MESH:D010003,1,Lithium Chloride,0,
+maternal behavior,GO:0042711,Osteoarthritis,MESH:D010003,1,Acetaminophen,0,
+mature conventional dendritic cell differentiation,GO:0097029,Osteoarthritis,MESH:D010003,1,Lipopolysaccharides,0,
+mature conventional dendritic cell differentiation,GO:0097029,"Osteoarthritis, Knee",MESH:D020370,1,Lipopolysaccharides,0,
+mechanosensory behavior,GO:0007638,Osteoarthritis,MESH:D010003,1,Nicotine,0,
+medial fin morphogenesis,GO:0035141,Osteoarthritis,MESH:D010003,0,,1,GDF5
+medial fin morphogenesis,GO:0035141,"Osteoarthritis, Knee",MESH:D020370,0,,1,GDF5
+megakaryocyte differentiation,GO:0030219,"Osteoarthritis, Hip",MESH:D015207,0,,1,IL11
+meiosis I cell cycle process,GO:0061982,Osteoarthritis,MESH:D010003,2,Lipopolysaccharides|Resveratrol,0,
+meiosis I cell cycle process,GO:0061982,"Osteoarthritis, Knee",MESH:D020370,2,Lipopolysaccharides|Resveratrol,0,
+meiotic cell cycle,GO:0051321,Osteoarthritis,MESH:D010003,1,Nicotine,0,
+"meiotic sister chromatid cohesion, centromeric",GO:0051754,Osteoarthritis,MESH:D010003,0,,1,PPP2R1A
+meiotic S phase,GO:0051332,Osteoarthritis,MESH:D010003,1,Decitabine,0,
+meiotic spindle elongation,GO:0051232,Osteoarthritis,MESH:D010003,0,,1,PPP2R1A
+meiotic spindle organization,GO:0000212,Osteoarthritis,MESH:D010003,0,,1,RAN
+melanin biosynthetic process,GO:0042438,Osteoarthritis,MESH:D010003,1,Resveratrol,0,
+melanin biosynthetic process,GO:0042438,"Osteoarthritis, Knee",MESH:D020370,2,argan oil|Resveratrol,0,
+membrane depolarization,GO:0051899,Osteoarthritis,MESH:D010003,4,Diclofenac|Lipopolysaccharides|Lithium Chloride|Nicotine,1,ATP1A3
+membrane depolarization,GO:0051899,"Osteoarthritis, Knee",MESH:D020370,1,Lipopolysaccharides,0,
+membrane fusion,GO:0061025,Osteoarthritis,MESH:D010003,0,,1,OPA1
+membrane hyperpolarization,GO:0060081,Osteoarthritis,MESH:D010003,1,Resveratrol,0,
+membrane hyperpolarization,GO:0060081,"Osteoarthritis, Knee",MESH:D020370,1,Resveratrol,0,
+membrane lipid catabolic process,GO:0046466,Osteoarthritis,MESH:D010003,22,"Acetaminophen|Aspirin|astaxanthine|Capsaicin|Celecoxib|Curcumin|Diclofenac|Dietary Fats|Ethanol|ferrostatin-1|Ibuprofen|Indomethacin|Iron|Lipopolysaccharides|Lithium Chloride|Naproxen|Nicotine|nimesulide|Reactive Oxygen Species|Resveratrol|theaflavin-3,3'-digallate|Tramadol",0,
+membrane lipid catabolic process,GO:0046466,"Osteoarthritis, Hip",MESH:D015207,4,Ibuprofen|Indomethacin|Naproxen|nimesulide,0,
+membrane lipid catabolic process,GO:0046466,"Osteoarthritis, Knee",MESH:D020370,4,Lipopolysaccharides|nimesulide|Resveratrol|Tramadol,0,
+membrane organization,GO:0061024,Osteoarthritis,MESH:D010003,1,Indomethacin,1,SGCG
+membrane organization,GO:0061024,"Osteoarthritis, Hip",MESH:D015207,1,Indomethacin,0,
+membrane protein intracellular domain proteolysis,GO:0031293,Osteoarthritis,MESH:D010003,0,,1,TGFB1
+membrane raft organization,GO:0031579,Osteoarthritis,MESH:D010003,1,Nicotine,0,
+membrane to membrane docking,GO:0022614,Osteoarthritis,MESH:D010003,0,,2,EZR|MSN
+membrane tubulation,GO:0097749,Osteoarthritis,MESH:D010003,0,,1,OPA1
+membranous septum morphogenesis,GO:0003149,Osteoarthritis,MESH:D010003,0,,1,BMP4
+memory,GO:0007613,Osteoarthritis,MESH:D010003,10,Aspirin|Dietary Fats|Ethanol|fisetin|Ibuprofen|Lipopolysaccharides|Lithium Chloride|Nicotine|polygalacic acid|Resveratrol,3,ATP1A3|IL1B|PTGS2
+memory,GO:0007613,"Osteoarthritis, Hip",MESH:D015207,1,Ibuprofen,3,CRHR1|LMX1B|MAPT
+memory,GO:0007613,"Osteoarthritis, Knee",MESH:D020370,3,Lipopolysaccharides|Resveratrol|rhoifolin,0,
+mesenchymal cell apoptotic process,GO:0097152,Osteoarthritis,MESH:D010003,0,,1,GDF5
+mesenchymal cell apoptotic process,GO:0097152,"Osteoarthritis, Knee",MESH:D020370,0,,1,GDF5
+mesenchymal-epithelial cell signaling involved in prostate gland development,GO:0060739,"Osteoarthritis, Hip",MESH:D015207,0,,1,TNC
+mesenchymal to epithelial transition,GO:0060231,"Osteoarthritis, Hip",MESH:D015207,0,,1,SMO
+mesenchymal to epithelial transition involved in metanephric renal vesicle formation,GO:0072285,"Osteoarthritis, Hip",MESH:D015207,0,,1,SMO
+mesodermal cell differentiation,GO:0048333,Osteoarthritis,MESH:D010003,0,,1,BMP4
+mesodermal cell fate determination,GO:0007500,Osteoarthritis,MESH:D010003,0,,1,BMP4
+mesoderm development,GO:0007498,Osteoarthritis,MESH:D010003,0,,1,BMP4
+mesoderm formation,GO:0001707,Osteoarthritis,MESH:D010003,0,,3,BMP4|SMAD3|TXNRD1
+mesoderm formation,GO:0001707,"Osteoarthritis, Hip",MESH:D015207,0,,1,SMAD3
+mesonephros development,GO:0001823,Osteoarthritis,MESH:D010003,0,,1,BMP4
+metabolic process,GO:0008152,Osteoarthritis,MESH:D010003,3,Capsaicin|Dietary Fats|Resveratrol,1,ATP1A3
+metabolic process,GO:0008152,"Osteoarthritis, Knee",MESH:D020370,1,Resveratrol,0,
+metal ion homeostasis,GO:0055065,Osteoarthritis,MESH:D010003,2,Dietary Fats|Iron,0,
+metal ion transport,GO:0030001,Osteoarthritis,MESH:D010003,1,Dietary Fats,0,
+metal ion transport,GO:0030001,"Osteoarthritis, Knee",MESH:D020370,1,Adenosine Triphosphate,0,
+metanephric ascending thin limb development,GO:0072218,Osteoarthritis,MESH:D010003,0,,1,POU3F3
+metanephric DCT cell differentiation,GO:0072240,Osteoarthritis,MESH:D010003,0,,1,POU3F3
+metanephric loop of Henle development,GO:0072236,Osteoarthritis,MESH:D010003,0,,1,POU3F3
+metanephric macula densa development,GO:0072227,Osteoarthritis,MESH:D010003,0,,1,POU3F3
+metanephric thick ascending limb development,GO:0072233,Osteoarthritis,MESH:D010003,0,,1,POU3F3
+metanephros development,GO:0001656,Osteoarthritis,MESH:D010003,0,,1,BMP4
+methanol biosynthetic process,GO:0046169,Osteoarthritis,MESH:D010003,1,Aspartame,0,
+methionine metabolic process,GO:0006555,Osteoarthritis,MESH:D010003,1,Resveratrol,0,
+methionine metabolic process,GO:0006555,"Osteoarthritis, Knee",MESH:D020370,1,Resveratrol,0,
+methotrexate transport,GO:0051958,Osteoarthritis,MESH:D010003,1,Resveratrol,0,
+methotrexate transport,GO:0051958,"Osteoarthritis, Knee",MESH:D020370,1,Resveratrol,0,
+methylation,GO:0032259,Osteoarthritis,MESH:D010003,1,Curcumin,0,
+microglia development,GO:0014005,Osteoarthritis,MESH:D010003,1,Lipopolysaccharides,0,
+microglia development,GO:0014005,"Osteoarthritis, Knee",MESH:D020370,1,Lipopolysaccharides,0,
+microglial cell activation,GO:0001774,Osteoarthritis,MESH:D010003,8,astaxanthine|Ethanol|Lipopolysaccharides|Lithium Chloride|morroniside|Nicotine|Reactive Oxygen Species|Resveratrol,2,AGER|CLU
+microglial cell activation,GO:0001774,"Osteoarthritis, Hip",MESH:D015207,0,,1,MAPT
+microglial cell activation,GO:0001774,"Osteoarthritis, Knee",MESH:D020370,2,Lipopolysaccharides|Resveratrol,0,
+microglial cell activation,GO:0001774,"Osteoarthritis, Spine",MESH:D055013,0,,1,TNF
+microglial cell proliferation,GO:0061518,Osteoarthritis,MESH:D010003,1,Ethanol,1,CLU
+micronucleus organization,GO:0032125,Osteoarthritis,MESH:D010003,5,Caffeine|Diclofenac|Ethanol|Nicotine|Piroxicam,0,
+micronucleus organization,GO:0032125,"Osteoarthritis, Hip",MESH:D015207,1,Piroxicam,0,
+micronucleus organization,GO:0032125,"Osteoarthritis, Knee",MESH:D020370,1,diosmetin,0,
+microtubule-based process,GO:0007017,"Osteoarthritis, Hip",MESH:D015207,0,,1,MAPT
+microtubule cytoskeleton organization,GO:0000226,Osteoarthritis,MESH:D010003,1,Reactive Oxygen Species,1,GAPDH
+microtubule cytoskeleton organization,GO:0000226,"Osteoarthritis, Hip",MESH:D015207,0,,1,MAPT
+microtubule polymerization,GO:0046785,Osteoarthritis,MESH:D010003,1,Resveratrol,1,TRPV4
+microtubule polymerization,GO:0046785,"Osteoarthritis, Hip",MESH:D015207,0,,1,MAPT
+microtubule polymerization,GO:0046785,"Osteoarthritis, Knee",MESH:D020370,1,Resveratrol,0,
+microvillus assembly,GO:0030033,Osteoarthritis,MESH:D010003,0,,1,EZR
+microvillus organization,GO:0032528,Osteoarthritis,MESH:D010003,1,"theaflavin-3,3'-digallate",0,
+micturition,GO:0060073,Osteoarthritis,MESH:D010003,1,Dietary Fats,0,
+midbody abscission,GO:0061952,Osteoarthritis,MESH:D010003,0,,1,PDCD6IP
+midbrain development,GO:0030901,Osteoarthritis,MESH:D010003,1,Ethanol,1,CXCL6
+midbrain development,GO:0030901,"Osteoarthritis, Hip",MESH:D015207,0,,1,LMX1B
+midgut development,GO:0007494,Osteoarthritis,MESH:D010003,0,,1,ALDH1A2
+midgut development,GO:0007494,"Osteoarthritis, Hip",MESH:D015207,0,,1,SMO
+mini excitatory postsynaptic potential,GO:0098816,"Osteoarthritis, Knee",MESH:D020370,1,Pregabalin,0,
+miRNA-mediated gene silencing,GO:0035195,"Osteoarthritis, Knee",MESH:D020370,0,,1,MIR219A1
+miRNA-mediated gene silencing,GO:0035195,"Osteoarthritis, Spine",MESH:D055013,0,,1,MIR337
+miRNA-mediated gene silencing by mRNA destabilization,GO:0035279,"Osteoarthritis, Spine",MESH:D055013,0,,1,MIR337
+mitochondrial ATP synthesis coupled electron transport,GO:0042775,Osteoarthritis,MESH:D010003,2,Acetaminophen|Diclofenac,1,NDUFV1
+mitochondrial ATP synthesis coupled electron transport,GO:0042775,"Osteoarthritis, Knee",MESH:D020370,1,Adenosine Triphosphate,0,
+mitochondrial calcium ion homeostasis,GO:0051560,Osteoarthritis,MESH:D010003,1,Ethanol,1,IMMT
+mitochondrial calcium ion homeostasis,GO:0051560,"Osteoarthritis, Knee",MESH:D020370,1,Adenosine Triphosphate,0,
+mitochondrial calcium ion transmembrane transport,GO:0006851,Osteoarthritis,MESH:D010003,1,Indomethacin,0,
+mitochondrial calcium ion transmembrane transport,GO:0006851,"Osteoarthritis, Hip",MESH:D015207,1,Indomethacin,0,
+mitochondrial depolarization,GO:0051882,Osteoarthritis,MESH:D010003,9,Acetaminophen|Aspirin|astaxanthine|Dietary Fats|Ethanol|ferrostatin-1|Iron|Lipopolysaccharides|Resveratrol,0,
+mitochondrial depolarization,GO:0051882,"Osteoarthritis, Knee",MESH:D020370,2,Lipopolysaccharides|Resveratrol,0,
+mitochondrial DNA metabolic process,GO:0032042,Osteoarthritis,MESH:D010003,1,Dietary Fats,0,
+mitochondrial DNA replication,GO:0006264,Osteoarthritis,MESH:D010003,4,Acetaminophen|Dietary Fats|Lipopolysaccharides|Resveratrol,0,
+mitochondrial DNA replication,GO:0006264,"Osteoarthritis, Knee",MESH:D020370,2,Lipopolysaccharides|Resveratrol,0,
+"mitochondrial electron transport, cytochrome c to oxygen",GO:0006123,Osteoarthritis,MESH:D010003,2,Curcumin|Resveratrol,1,VDAC2
+"mitochondrial electron transport, cytochrome c to oxygen",GO:0006123,"Osteoarthritis, Knee",MESH:D020370,1,Resveratrol,0,

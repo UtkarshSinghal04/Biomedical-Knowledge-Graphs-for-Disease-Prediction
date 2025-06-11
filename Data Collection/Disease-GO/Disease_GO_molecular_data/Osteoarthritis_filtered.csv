@@ -1,0 +1,782 @@
+GOName,GOID,DiseaseName,DiseaseID,InferenceChemicalQty,InferenceChemicalNames,InferenceGeneQty,InferenceGeneSymbols
+14-3-3 protein binding,GO:0071889,Osteoarthritis,MESH:D010003,0,,1,YWHAQ
+"17-alpha,20-alpha-dihydroxypregn-4-en-3-one dehydrogenase activity",GO:0047006,Osteoarthritis,MESH:D010003,0,,1,AKR1C1
+17-beta-hydroxysteroid dehydrogenase (NADP+) activity,GO:0072582,Osteoarthritis,MESH:D010003,0,,1,AKR1C2
+2-oxoglutarate-dependent dioxygenase activity,GO:0016706,"Osteoarthritis, Spine",MESH:D055013,0,,1,SKP2
+"3',5'-cyclic-AMP phosphodiesterase activity",GO:0004115,Osteoarthritis,MESH:D010003,1,Curcumin,0,
+3beta-hydroxy-5beta-steroid dehydrogenase activity,GO:0033703,Osteoarthritis,MESH:D010003,0,,1,AKR1C1
+3-beta-hydroxy-delta5-steroid dehydrogenase activity,GO:0003854,Osteoarthritis,MESH:D010003,2,Curcumin|Indomethacin,0,
+3-beta-hydroxy-delta5-steroid dehydrogenase activity,GO:0003854,"Osteoarthritis, Hip",MESH:D015207,1,Indomethacin,0,
+3-chloroallyl aldehyde dehydrogenase activity,GO:0004028,Osteoarthritis,MESH:D010003,0,,1,ALDH1A2
+3-hydroxyacyl-CoA dehydratase activity,GO:0018812,Osteoarthritis,MESH:D010003,0,,1,HADHA
+3-hydroxyacyl-CoA dehydrogenase activity,GO:0003857,Osteoarthritis,MESH:D010003,0,,1,HADHA
+3-hydroxyisobutyryl-CoA hydrolase activity,GO:0003860,Osteoarthritis,MESH:D010003,0,,1,HIBCH
+"3 iron, 4 sulfur cluster binding",GO:0051538,Osteoarthritis,MESH:D010003,0,,1,ACO1
+"4 iron, 4 sulfur cluster binding",GO:0051539,Osteoarthritis,MESH:D010003,0,,3,ACO1|NDUFS8|NDUFV1
+"5alpha-androstane-3beta,17beta-diol dehydrogenase activity",GO:0047024,Osteoarthritis,MESH:D010003,0,,2,AKR1C1|AKR1C2
+5'-nucleotidase activity,GO:0008253,Osteoarthritis,MESH:D010003,1,nimesulide,0,
+5'-nucleotidase activity,GO:0008253,"Osteoarthritis, Hip",MESH:D015207,1,nimesulide,0,
+5'-nucleotidase activity,GO:0008253,"Osteoarthritis, Knee",MESH:D020370,1,nimesulide,0,
+5S rRNA binding,GO:0008097,Osteoarthritis,MESH:D010003,0,,1,EEF2
+ABC-type transporter activity,GO:0140359,Osteoarthritis,MESH:D010003,1,Dietary Fats,0,
+acetylcholine-gated monoatomic cation-selective channel activity,GO:0022848,Osteoarthritis,MESH:D010003,1,Nicotine,0,
+acetylcholinesterase activity,GO:0003990,Osteoarthritis,MESH:D010003,1,polygalacic acid,0,
+acetyl-CoA C-acetyltransferase activity,GO:0003985,Osteoarthritis,MESH:D010003,0,,2,ACAA2|HADHA
+acetyl-CoA C-acyltransferase activity,GO:0003988,Osteoarthritis,MESH:D010003,0,,2,ACAA2|HADHA
+acetyl-CoA carboxylase activity,GO:0003989,Osteoarthritis,MESH:D010003,2,Dietary Fats|Resveratrol,0,
+acetyl-CoA carboxylase activity,GO:0003989,"Osteoarthritis, Knee",MESH:D020370,1,Resveratrol,0,
+[acetyl-CoA carboxylase] kinase activity,GO:0050405,Osteoarthritis,MESH:D010003,2,Ethanol|Lipopolysaccharides,0,
+[acetyl-CoA carboxylase] kinase activity,GO:0050405,"Osteoarthritis, Knee",MESH:D020370,1,Lipopolysaccharides,0,
+acetyl-CoA hydrolase activity,GO:0003986,Osteoarthritis,MESH:D010003,0,,1,ACAA2
+acid phosphatase activity,GO:0003993,Osteoarthritis,MESH:D010003,3,Curcumin|Iron|Resveratrol,0,
+acid phosphatase activity,GO:0003993,"Osteoarthritis, Knee",MESH:D020370,1,Resveratrol,0,
+aconitate hydratase activity,GO:0003994,Osteoarthritis,MESH:D010003,1,Dietary Fats,1,ACO1
+actin binding,GO:0003779,Osteoarthritis,MESH:D010003,0,,7,EZR|LTBP3|MSN|MYH13|PLS3|S100A4|TRPV4
+actin binding,GO:0003779,"Osteoarthritis, Hip",MESH:D015207,0,,2,LTBP3|MAPT
+actin filament binding,GO:0051015,Osteoarthritis,MESH:D010003,0,,5,EEF2|EZR|MYH13|PLS3|TRPV4
+active monoatomic ion transmembrane transporter activity,GO:0022853,Osteoarthritis,MESH:D010003,1,Nicotine,0,
+acyl-CoA hydrolase activity,GO:0047617,Osteoarthritis,MESH:D010003,0,,1,ACAA2
+acyltransferase activity,GO:0016746,Osteoarthritis,MESH:D010003,0,,2,ACAA2|TGM2
+"acyltransferase activity, transferring groups other than amino-acyl groups",GO:0016747,Osteoarthritis,MESH:D010003,0,,1,ACAA2
+adenylate kinase activity,GO:0004017,Osteoarthritis,MESH:D010003,0,,1,AK4
+ADP phosphatase activity,GO:0043262,Osteoarthritis,MESH:D010003,1,Caffeine,0,
+adrenergic receptor activity,GO:0004935,Osteoarthritis,MESH:D010003,1,Nicotine,0,
+advanced glycation end-product receptor activity,GO:0050785,Osteoarthritis,MESH:D010003,0,,2,AGER|LGALS3
+alcohol dehydrogenase (NAD+) activity,GO:0004022,Osteoarthritis,MESH:D010003,1,Curcumin,0,
+aldehyde dehydrogenase (NAD+) activity,GO:0004029,Osteoarthritis,MESH:D010003,0,,2,ALDH1A2|NDUFS8
+aldehyde dehydrogenase [NAD(P)+] activity,GO:0004030,Osteoarthritis,MESH:D010003,1,Ethanol,0,
+alditol:NADP+ 1-oxidoreductase activity,GO:0004032,Osteoarthritis,MESH:D010003,1,Capsaicin,2,AKR1C1|AKR1C2
+aldo-keto reductase (NADP) activity,GO:0004033,Osteoarthritis,MESH:D010003,0,,1,AKR1C1
+alkaline phosphatase activity,GO:0004035,Osteoarthritis,MESH:D010003,9,Acetaminophen|Curcumin|Diclofenac|Dietary Fats|Ethanol|fisetin|Lipopolysaccharides|Nicotine|Resveratrol,0,
+alkaline phosphatase activity,GO:0004035,"Osteoarthritis, Knee",MESH:D020370,2,Lipopolysaccharides|Resveratrol,0,
+alpha-actinin binding,GO:0051393,Osteoarthritis,MESH:D010003,0,,1,PPARG
+alpha-amylase activity,GO:0004556,Osteoarthritis,MESH:D010003,2,Curcumin|Resveratrol,0,
+alpha-amylase activity,GO:0004556,"Osteoarthritis, Knee",MESH:D020370,1,Resveratrol,0,
+alpha-tubulin binding,GO:0043014,Osteoarthritis,MESH:D010003,0,,1,TRPV4
+AMP-activated protein kinase activity,GO:0004679,Osteoarthritis,MESH:D010003,7,Caffeine|Dietary Fats|Ethanol|Lipopolysaccharides|Nicotine|Resveratrol|xanthohumol,0,
+AMP-activated protein kinase activity,GO:0004679,"Osteoarthritis, Knee",MESH:D020370,2,Lipopolysaccharides|Resveratrol,0,
+amylase activity,GO:0016160,Osteoarthritis,MESH:D010003,2,Ethanol|Lipopolysaccharides,0,
+amylase activity,GO:0016160,"Osteoarthritis, Knee",MESH:D020370,1,Lipopolysaccharides,0,
+amyloid-beta binding,GO:0001540,Osteoarthritis,MESH:D010003,0,,3,AGER|ATP1A3|CLU
+"androstan-3-alpha,17-beta-diol dehydrogenase activity",GO:0047044,Osteoarthritis,MESH:D010003,0,,2,AKR1C1|AKR1C2
+androsterone dehydrogenase activity,GO:0047023,Osteoarthritis,MESH:D010003,0,,2,AKR1C1|AKR1C2
+androsterone dehydrogenase (B-specific) activity,GO:0047042,Osteoarthritis,MESH:D010003,0,,1,AKR1C1
+antigen binding,GO:0003823,Osteoarthritis,MESH:D010003,0,,1,TGFB1
+antioxidant activity,GO:0016209,Osteoarthritis,MESH:D010003,3,"Curcumin|Dietary Fats|pregna-4,17-diene-3,16-dione",1,SOD2
+apolipoprotein binding,GO:0034185,"Osteoarthritis, Hip",MESH:D015207,0,,1,MAPT
+arachidonic acid binding,GO:0050544,Osteoarthritis,MESH:D010003,0,,1,PPARG
+arginase activity,GO:0004053,Osteoarthritis,MESH:D010003,1,Caffeine,0,
+aryl sulfotransferase activity,GO:0004062,Osteoarthritis,MESH:D010003,1,Acetaminophen,0,
+aspartic-type endopeptidase activity,GO:0004190,Osteoarthritis,MESH:D010003,0,,3,CLIC1|CTSD|SGCG
+aspartic-type endopeptidase activity involved in amyloid precursor protein catabolic process,GO:1902944,Osteoarthritis,MESH:D010003,1,Nicotine,0,
+aspartic-type endopeptidase inhibitor activity,GO:0019828,Osteoarthritis,MESH:D010003,0,,1,GAPDH
+aspartic-type peptidase activity,GO:0070001,Osteoarthritis,MESH:D010003,0,,1,CTSD
+ATPase binding,GO:0051117,Osteoarthritis,MESH:D010003,0,,1,EZR
+ATP binding,GO:0005524,Osteoarthritis,MESH:D010003,0,,13,ACTB|AK4|ATP1A3|ATP6V1B2|DDX3X|EEF2|MSN|MYH13|NME2|RUNX2|TRAP1|TRPV4|VDAC2
+ATP binding,GO:0005524,"Osteoarthritis, Hip",MESH:D015207,0,,1,RUNX2
+ATP-dependent activity,GO:0140657,Osteoarthritis,MESH:D010003,2,Caffeine|Iron,0,
+ATP-dependent activity,GO:0140657,"Osteoarthritis, Knee",MESH:D020370,1,Adenosine Triphosphate,0,
+ATP-dependent protein folding chaperone,GO:0140662,Osteoarthritis,MESH:D010003,0,,1,TRAP1
+ATP hydrolysis activity,GO:0016887,Osteoarthritis,MESH:D010003,4,Acetaminophen|Dietary Fats|Lipopolysaccharides|Resveratrol,4,ACTB|ATP1A3|DDX3X|TRAP1
+ATP hydrolysis activity,GO:0016887,"Osteoarthritis, Knee",MESH:D020370,2,Lipopolysaccharides|Resveratrol,0,
+beta-2-microglobulin binding,GO:0030881,"Osteoarthritis, Hip",MESH:D015207,0,,1,HFE
+beta-catenin binding,GO:0008013,Osteoarthritis,MESH:D010003,0,,1,SMAD3
+beta-catenin binding,GO:0008013,"Osteoarthritis, Hip",MESH:D015207,0,,1,SMAD3
+beta-galactosidase activity,GO:0004565,Osteoarthritis,MESH:D010003,1,Resveratrol,0,
+beta-galactosidase activity,GO:0004565,"Osteoarthritis, Knee",MESH:D020370,1,Resveratrol,0,
+beta-lactamase activity,GO:0008800,Osteoarthritis,MESH:D010003,0,,1,DPEP1
+beta-tubulin binding,GO:0048487,Osteoarthritis,MESH:D010003,0,,1,TRPV4
+bHLH transcription factor binding,GO:0043425,Osteoarthritis,MESH:D010003,0,,2,RUNX2|SMAD3
+bHLH transcription factor binding,GO:0043425,"Osteoarthritis, Hip",MESH:D015207,0,,2,RUNX2|SMAD3
+bile acid binding,GO:0032052,Osteoarthritis,MESH:D010003,0,,2,AKR1C1|AKR1C2
+BMP binding,GO:0036122,Osteoarthritis,MESH:D010003,0,,2,COMP|GDF5
+BMP binding,GO:0036122,"Osteoarthritis, Hip",MESH:D015207,0,,1,COMP
+BMP binding,GO:0036122,"Osteoarthritis, Knee",MESH:D020370,0,,1,GDF5
+BMP receptor binding,GO:0070700,Osteoarthritis,MESH:D010003,0,,2,BMP4|BMP6
+butyrate-CoA ligase activity,GO:0047760,Osteoarthritis,MESH:D010003,1,Diclofenac,0,
+calcitonin receptor binding,GO:0031716,Osteoarthritis,MESH:D010003,0,,1,CALCA
+calcium channel activity,GO:0005262,Osteoarthritis,MESH:D010003,1,Capsaicin,1,TRPV4
+calcium-dependent ATPase activity,GO:0030899,Osteoarthritis,MESH:D010003,2,Aspirin|Dietary Fats,0,
+calcium-dependent cysteine-type endopeptidase activity,GO:0004198,Osteoarthritis,MESH:D010003,1,Acetaminophen,0,
+calcium-dependent phospholipid binding,GO:0005544,Osteoarthritis,MESH:D010003,0,,1,PLCD1
+calcium-dependent protein binding,GO:0048306,Osteoarthritis,MESH:D010003,0,,2,PDCD6IP|S100A4
+calcium ion binding,GO:0005509,Osteoarthritis,MESH:D010003,0,,11,ASPN|COMP|EDIL3|LTBP3|MATN3|PLCD1|PLS3|RCN3|S100A4|TGM2|TRAP1
+calcium ion binding,GO:0005509,"Osteoarthritis, Hip",MESH:D015207,0,,4,ASTN2|COMP|ITIH1|LTBP3
+calcium ion binding,GO:0005509,"Osteoarthritis, Knee",MESH:D020370,0,,1,LTBP1
+calcium ion binding,GO:0005509,SHORT STATURE AND ADVANCED BONE AGE WITH OR WITHOUT EARLY-ONSET OSTEOARTHRITIS AND/OR OSTEOCHONDRITIS DISSECANS,OMIM:165800,0,,1,ACAN
+calmodulin binding,GO:0005516,Osteoarthritis,MESH:D010003,0,,2,MYH13|TRPV4
+calmodulin-dependent protein phosphatase activity,GO:0033192,"Osteoarthritis, Spine",MESH:D055013,0,,1,DUSP1
+cAMP-dependent protein kinase inhibitor activity,GO:0004862,"Osteoarthritis, Hip",MESH:D015207,0,,1,SMO
+carbohydrate binding,GO:0030246,Osteoarthritis,MESH:D010003,0,,2,CHI3L1|LGALS3
+carbohydrate binding,GO:0030246,"Osteoarthritis, Hip",MESH:D015207,0,,1,ITIH1
+carbohydrate binding,GO:0030246,SHORT STATURE AND ADVANCED BONE AGE WITH OR WITHOUT EARLY-ONSET OSTEOARTHRITIS AND/OR OSTEOCHONDRITIS DISSECANS,OMIM:165800,0,,1,ACAN
+carbonate dehydratase activity,GO:0004089,Osteoarthritis,MESH:D010003,1,Caffeine,0,
+carboxylic acid binding,GO:0031406,Osteoarthritis,MESH:D010003,0,,2,AKR1C1|AKR1C2
+carboxylic ester hydrolase activity,GO:0052689,Osteoarthritis,MESH:D010003,1,Dietary Fats,1,ESD
+cardiolipin binding,GO:1901612,Osteoarthritis,MESH:D010003,0,,1,OPA1
+carnitine O-octanoyltransferase activity,GO:0008458,Osteoarthritis,MESH:D010003,1,Dietary Fats,0,
+carnitine O-palmitoyltransferase activity,GO:0004095,Osteoarthritis,MESH:D010003,2,Dietary Fats|Resveratrol,0,
+carnitine O-palmitoyltransferase activity,GO:0004095,"Osteoarthritis, Knee",MESH:D020370,1,Resveratrol,0,
+catalytic activity,GO:0003824,Osteoarthritis,MESH:D010003,0,,1,EDIL3
+CD40 receptor binding,GO:0005174,"Osteoarthritis, Spine",MESH:D055013,0,,1,TNF
+cell adhesion molecule binding,GO:0050839,Osteoarthritis,MESH:D010003,0,,3,EZR|MSN|SDCBP
+ceramide binding,GO:0097001,Osteoarthritis,MESH:D010003,0,,1,VDAC2
+channel activity,GO:0015267,Osteoarthritis,MESH:D010003,1,Capsaicin,1,VDAC2
+chaperone binding,GO:0051087,Osteoarthritis,MESH:D010003,0,,2,ATP1A3|CLU
+chaperone binding,GO:0051087,"Osteoarthritis, Hip",MESH:D015207,0,,1,MAPT
+chemoattractant activity,GO:0042056,Osteoarthritis,MESH:D010003,0,,3,BMP4|LGALS3|S100A4
+chemokine activity,GO:0008009,Osteoarthritis,MESH:D010003,0,,2,CXCL2|CXCL6
+chemokine activity,GO:0008009,"Osteoarthritis, Spine",MESH:D055013,0,,1,CXCL8
+chitin binding,GO:0008061,Osteoarthritis,MESH:D010003,0,,1,CHI3L1
+chloride channel activity,GO:0005254,Osteoarthritis,MESH:D010003,0,,2,CLIC1|CLIC4
+cholesterol binding,GO:0015485,Osteoarthritis,MESH:D010003,0,,1,VDAC2
+cholinesterase activity,GO:0004104,Osteoarthritis,MESH:D010003,1,Dietary Fats,0,
+chromatin binding,GO:0003682,Osteoarthritis,MESH:D010003,0,,4,PPARG|RAN|RUNX2|SMAD3
+chromatin binding,GO:0003682,"Osteoarthritis, Hip",MESH:D015207,0,,2,RUNX2|SMAD3
+chromatin DNA binding,GO:0031490,Osteoarthritis,MESH:D010003,0,,2,RUNX2|SMAD3
+chromatin DNA binding,GO:0031490,"Osteoarthritis, Hip",MESH:D015207,0,,2,RUNX2|SMAD3
+chromatin DNA binding,GO:0031490,"Osteoarthritis, Knee",MESH:D020370,0,,1,SBNO1
+cis-regulatory region sequence-specific DNA binding,GO:0000987,Osteoarthritis,MESH:D010003,0,,2,RUNX2|SMAD3
+cis-regulatory region sequence-specific DNA binding,GO:0000987,"Osteoarthritis, Hip",MESH:D015207,0,,2,RUNX2|SMAD3
+CMP kinase activity,GO:0036430,Osteoarthritis,MESH:D010003,0,,1,AK4
+collagen binding,GO:0005518,Osteoarthritis,MESH:D010003,0,,5,COL6A2|COMP|CTSK|P3H3|SMAD3
+collagen binding,GO:0005518,"Osteoarthritis, Hip",MESH:D015207,0,,3,CHADL|COMP|SMAD3
+collagen binding involved in cell-matrix adhesion,GO:0098639,Osteoarthritis,MESH:D010003,1,Resveratrol,0,
+collagen binding involved in cell-matrix adhesion,GO:0098639,"Osteoarthritis, Knee",MESH:D020370,1,Resveratrol,0,
+collagen fibril binding,GO:0098633,"Osteoarthritis, Hip",MESH:D015207,0,,1,CHADL
+collagen V binding,GO:0070052,Osteoarthritis,MESH:D010003,0,,1,ASPN
+co-receptor binding,GO:0039706,Osteoarthritis,MESH:D010003,0,,1,BMP4
+co-receptor binding,GO:0039706,"Osteoarthritis, Hip",MESH:D015207,0,,1,HFE
+corticotrophin-releasing factor receptor activity,GO:0015056,"Osteoarthritis, Hip",MESH:D015207,0,,1,CRHR1
+corticotropin-releasing hormone binding,GO:0051424,"Osteoarthritis, Hip",MESH:D015207,0,,1,CRHR1
+corticotropin-releasing hormone receptor activity,GO:0043404,"Osteoarthritis, Hip",MESH:D015207,0,,1,CRHR1
+co-SMAD binding,GO:0070410,Osteoarthritis,MESH:D010003,0,,1,SMAD3
+co-SMAD binding,GO:0070410,"Osteoarthritis, Hip",MESH:D015207,0,,1,SMAD3
+creatine kinase activity,GO:0004111,Osteoarthritis,MESH:D010003,5,Dietary Fats|Doxycycline|Lipopolysaccharides|Resveratrol|Tramadol,0,
+creatine kinase activity,GO:0004111,"Osteoarthritis, Knee",MESH:D020370,3,Lipopolysaccharides|Resveratrol|Tramadol,0,
+CTPase activity,GO:0043273,Osteoarthritis,MESH:D010003,0,,1,DDX3X
+CXCR chemokine receptor binding,GO:0045236,Osteoarthritis,MESH:D010003,0,,2,CXCL2|CXCL6
+CXCR chemokine receptor binding,GO:0045236,"Osteoarthritis, Spine",MESH:D055013,0,,1,CXCL8
+cysteine-type endopeptidase activity,GO:0004197,Osteoarthritis,MESH:D010003,4,Capsaicin|Celecoxib|Ethanol|Lipopolysaccharides,2,CTSD|CTSK
+cysteine-type endopeptidase activity,GO:0004197,"Osteoarthritis, Knee",MESH:D020370,1,Lipopolysaccharides,0,
+cysteine-type endopeptidase inhibitor activity involved in apoptotic process,GO:0043027,Osteoarthritis,MESH:D010003,0,,1,DPEP1
+cysteine-type exopeptidase activity,GO:0070004,Osteoarthritis,MESH:D010003,0,,1,SCRN1
+cysteine-type peptidase activity,GO:0008234,Osteoarthritis,MESH:D010003,1,astaxanthine,1,CTSK
+cytochrome-c oxidase activity,GO:0004129,Osteoarthritis,MESH:D010003,9,Acetaminophen|Aspirin|Celecoxib|Curcumin|Dietary Fats|Ethanol|Iron|Lipopolysaccharides|Resveratrol,0,
+cytochrome-c oxidase activity,GO:0004129,"Osteoarthritis, Knee",MESH:D020370,2,Lipopolysaccharides|Resveratrol,0,
+cytokine activity,GO:0005125,Osteoarthritis,MESH:D010003,0,,7,BMP4|BMP6|CXCL2|GDF5|IL1B|TGFB1|TNFSF15
+cytokine activity,GO:0005125,"Osteoarthritis, Hip",MESH:D015207,0,,1,IL11
+cytokine activity,GO:0005125,"Osteoarthritis, Knee",MESH:D020370,0,,1,GDF5
+cytokine activity,GO:0005125,"Osteoarthritis, Spine",MESH:D055013,0,,2,IL6|TNF
+cytoskeletal anchor activity,GO:0008093,Osteoarthritis,MESH:D010003,0,,1,SDCBP
+cytoskeletal motor activity,GO:0003774,Osteoarthritis,MESH:D010003,0,,1,MYH13
+D1 dopamine receptor binding,GO:0031748,Osteoarthritis,MESH:D010003,0,,1,ATP1A3
+D-alanine:2-oxoglutarate aminotransferase activity,GO:0047810,Osteoarthritis,MESH:D010003,2,Curcumin|Ethanol,0,
+dCMP kinase activity,GO:0036431,Osteoarthritis,MESH:D010003,0,,1,AK4
+DEAD/H-box RNA helicase binding,GO:0017151,Osteoarthritis,MESH:D010003,0,,1,SMAD3
+DEAD/H-box RNA helicase binding,GO:0017151,"Osteoarthritis, Hip",MESH:D015207,0,,1,SMAD3
+death receptor agonist activity,GO:0038177,"Osteoarthritis, Spine",MESH:D055013,0,,1,TNF
+death receptor binding,GO:0005123,Osteoarthritis,MESH:D010003,0,,1,TNFSF15
+dehydroascorbic acid transmembrane transporter activity,GO:0033300,Osteoarthritis,MESH:D010003,0,,1,SLC2A1
+(deoxy)adenylate kinase activity,GO:0047506,Osteoarthritis,MESH:D010003,0,,1,AK4
+deubiquitinase activator activity,GO:0035800,Osteoarthritis,MESH:D010003,0,,1,TGFB1
+D-glucose transmembrane transporter activity,GO:0055056,Osteoarthritis,MESH:D010003,0,,1,SLC2A1
+dioxygenase activity,GO:0051213,Osteoarthritis,MESH:D010003,0,,3,P3H3|PLOD2|PTGS2
+dipeptidase activity,GO:0016805,Osteoarthritis,MESH:D010003,0,,2,DPEP1|SCRN1
+disaccharide binding,GO:0048030,Osteoarthritis,MESH:D010003,0,,1,LGALS3
+disordered domain specific binding,GO:0097718,Osteoarthritis,MESH:D010003,0,,2,EZR|GAPDH
+DNA binding,GO:0003677,Osteoarthritis,MESH:D010003,0,,9,AGER|DDX3X|NME2|POU3F3|PPARG|RUNX2|SGCG|SMAD3|SOD2
+DNA binding,GO:0003677,"Osteoarthritis, Hip",MESH:D015207,0,,4,LMX1B|MAPT|RUNX2|SMAD3
+DNA binding domain binding,GO:0050692,Osteoarthritis,MESH:D010003,0,,1,PPARG
+"DNA-binding transcription activator activity, RNA polymerase II-specific",GO:0001228,Osteoarthritis,MESH:D010003,0,,3,PPARG|RUNX2|SMAD3
+"DNA-binding transcription activator activity, RNA polymerase II-specific",GO:0001228,"Osteoarthritis, Hip",MESH:D015207,0,,3,LMX1B|RUNX2|SMAD3
+DNA-binding transcription factor activity,GO:0003700,Osteoarthritis,MESH:D010003,1,Lipopolysaccharides,4,POU3F3|PPARG|RUNX2|SMAD3
+DNA-binding transcription factor activity,GO:0003700,"Osteoarthritis, Hip",MESH:D015207,0,,3,LMX1B|RUNX2|SMAD3
+DNA-binding transcription factor activity,GO:0003700,"Osteoarthritis, Knee",MESH:D020370,1,Lipopolysaccharides,0,
+"DNA-binding transcription factor activity, RNA polymerase II-specific",GO:0000981,Osteoarthritis,MESH:D010003,0,,4,POU3F3|PPARG|RUNX2|SMAD3
+"DNA-binding transcription factor activity, RNA polymerase II-specific",GO:0000981,"Osteoarthritis, Hip",MESH:D015207,0,,3,LMX1B|RUNX2|SMAD3
+DNA-binding transcription factor binding,GO:0140297,Osteoarthritis,MESH:D010003,0,,3,PPARG|RUNX2|SMAD3
+DNA-binding transcription factor binding,GO:0140297,"Osteoarthritis, Hip",MESH:D015207,0,,3,HDAC9|RUNX2|SMAD3
+DNA-binding transcription repressor activity,GO:0001217,Osteoarthritis,MESH:D010003,0,,1,SMAD3
+DNA-binding transcription repressor activity,GO:0001217,"Osteoarthritis, Hip",MESH:D015207,0,,1,SMAD3
+"DNA-binding transcription repressor activity, RNA polymerase II-specific",GO:0001227,Osteoarthritis,MESH:D010003,0,,2,ENO1|PPARG
+DNA helicase activity,GO:0003678,Osteoarthritis,MESH:D010003,0,,1,DDX3X
+DNA-methyltransferase activity,GO:0009008,Osteoarthritis,MESH:D010003,3,Curcumin|Decitabine|Dietary Fats,0,
+double-stranded DNA binding,GO:0003690,Osteoarthritis,MESH:D010003,0,,3,PPARG|SMAD3|TRIM2
+double-stranded DNA binding,GO:0003690,"Osteoarthritis, Hip",MESH:D015207,0,,2,MAPT|SMAD3
+double-stranded RNA binding,GO:0003725,Osteoarthritis,MESH:D010003,0,,2,MSN|VIM
+dynactin binding,GO:0034452,"Osteoarthritis, Hip",MESH:D015207,0,,1,MAPT
+dynein intermediate chain binding,GO:0045505,Osteoarthritis,MESH:D010003,0,,1,RAN
+E-box binding,GO:0070888,Osteoarthritis,MESH:D010003,0,,1,PPARG
+electron transfer activity,GO:0009055,Osteoarthritis,MESH:D010003,0,,3,ETFA|PSMB1|SDHA
+endopeptidase activity,GO:0004175,Osteoarthritis,MESH:D010003,0,,1,CTSD
+endopeptidase inhibitor activity,GO:0004866,Osteoarthritis,MESH:D010003,0,,1,TXNRD1
+enoyl-CoA hydratase activity,GO:0004300,Osteoarthritis,MESH:D010003,0,,1,HADHA
+enzyme binding,GO:0019899,Osteoarthritis,MESH:D010003,0,,11,ENO1|GAPDH|MSN|NME2|PLCD1|PPARG|PTGS2|SMAD3|SOD2|TGFB1|TGM2
+enzyme binding,GO:0019899,"Osteoarthritis, Hip",MESH:D015207,0,,2,MAPT|SMAD3
+ephrin receptor binding,GO:0046875,Osteoarthritis,MESH:D010003,0,,1,SDCBP
+estradiol 17-beta-dehydrogenase activity,GO:0004303,Osteoarthritis,MESH:D010003,2,Curcumin|Indomethacin,2,AKR1C1|AKR1C2
+estradiol 17-beta-dehydrogenase activity,GO:0004303,"Osteoarthritis, Hip",MESH:D015207,1,Indomethacin,0,
+eukaryotic initiation factor 4E binding,GO:0008190,Osteoarthritis,MESH:D010003,0,,1,DDX3X
+extracellular matrix binding,GO:0050840,"Osteoarthritis, Hip",MESH:D015207,0,,1,COL11A1
+extracellular matrix structural constituent,GO:0005201,Osteoarthritis,MESH:D010003,0,,7,CHI3L1|COL1A2|COL2A1|COMP|EDIL3|MATN3|TFPI2
+extracellular matrix structural constituent,GO:0005201,"Osteoarthritis, Hip",MESH:D015207,0,,3,COL11A1|COMP|TNC
+extracellular matrix structural constituent,GO:0005201,"Osteoarthritis, Knee",MESH:D020370,0,,1,LTBP1
+extracellular matrix structural constituent,GO:0005201,Osteoarthritis with Mild Chondrodysplasia,MESH:C565740,0,,1,COL2A1
+extracellular matrix structural constituent,GO:0005201,SHORT STATURE AND ADVANCED BONE AGE WITH OR WITHOUT EARLY-ONSET OSTEOARTHRITIS AND/OR OSTEOCHONDRITIS DISSECANS,OMIM:165800,0,,1,ACAN
+extracellular matrix structural constituent conferring compression resistance,GO:0030021,Osteoarthritis,MESH:D010003,0,,1,ASPN
+extracellular matrix structural constituent conferring compression resistance,GO:0030021,"Osteoarthritis, Hip",MESH:D015207,0,,1,CHADL
+extracellular matrix structural constituent conferring compression resistance,GO:0030021,SHORT STATURE AND ADVANCED BONE AGE WITH OR WITHOUT EARLY-ONSET OSTEOARTHRITIS AND/OR OSTEOCHONDRITIS DISSECANS,OMIM:165800,0,,1,ACAN
+extracellular matrix structural constituent conferring tensile strength,GO:0030020,Osteoarthritis,MESH:D010003,0,,3,COL1A2|COL2A1|COL6A2
+extracellular matrix structural constituent conferring tensile strength,GO:0030020,"Osteoarthritis, Hip",MESH:D015207,0,,1,COL11A1
+extracellular matrix structural constituent conferring tensile strength,GO:0030020,Osteoarthritis with Mild Chondrodysplasia,MESH:C565740,0,,1,COL2A1
+FAD binding,GO:0071949,Osteoarthritis,MESH:D010003,0,,1,TXNRD1
+fatty acid binding,GO:0005504,Osteoarthritis,MESH:D010003,0,,1,NME2
+fatty-acyl-CoA binding,GO:0000062,Osteoarthritis,MESH:D010003,0,,1,HADHA
+Fc-gamma receptor I complex binding,GO:0034988,Osteoarthritis,MESH:D010003,0,,1,LGALS3
+ferric iron binding,GO:0008199,Osteoarthritis,MESH:D010003,0,,2,ETFA|FTL
+ferrous iron binding,GO:0008198,Osteoarthritis,MESH:D010003,0,,1,FTL
+ferroxidase activity,GO:0004322,Osteoarthritis,MESH:D010003,1,Ethanol,0,
+fibroblast growth factor receptor binding,GO:0005104,Osteoarthritis,MESH:D010003,0,,1,FGF18
+fibronectin binding,GO:0001968,Osteoarthritis,MESH:D010003,0,,2,COMP|CTSK
+fibronectin binding,GO:0001968,"Osteoarthritis, Hip",MESH:D015207,0,,2,COMP|TNC
+flavin adenine dinucleotide binding,GO:0050660,Osteoarthritis,MESH:D010003,0,,3,ETFA|SDHA|TXNRD1
+FMN binding,GO:0010181,Osteoarthritis,MESH:D010003,0,,1,NDUFV1
+frizzled binding,GO:0005109,Osteoarthritis,MESH:D010003,0,,1,SDCBP
+"fructose 1,6-bisphosphate 1-phosphatase activity",GO:0042132,Osteoarthritis,MESH:D010003,1,Dietary Fats,0,
+fucose transmembrane transporter activity,GO:0015150,Osteoarthritis,MESH:D010003,0,,1,SLC2A1
+galactoside binding,GO:0016936,Osteoarthritis,MESH:D010003,0,,1,LGALS3
+gamma-tubulin binding,GO:0043015,Osteoarthritis,MESH:D010003,0,,1,DDX3X
+ganglioside GM1 binding,GO:1905573,"Osteoarthritis, Hip",MESH:D015207,0,,1,CHADL
+ganglioside GT1b binding,GO:1905576,"Osteoarthritis, Hip",MESH:D015207,0,,1,CHADL
+gap junction channel activity,GO:0005243,Osteoarthritis,MESH:D010003,1,Resveratrol,0,
+gap junction channel activity,GO:0005243,"Osteoarthritis, Knee",MESH:D020370,1,Resveratrol,0,
+gap junction hemi-channel activity,GO:0055077,"Osteoarthritis, Knee",MESH:D020370,1,Adenosine Triphosphate,0,
+GDP binding,GO:0019003,Osteoarthritis,MESH:D010003,0,,2,NME2|RAN
+general transcription initiation factor binding,GO:0140296,Osteoarthritis,MESH:D010003,0,,1,RUNX2
+general transcription initiation factor binding,GO:0140296,"Osteoarthritis, Hip",MESH:D015207,0,,1,RUNX2
+glucose-6-phosphatase activity,GO:0004346,Osteoarthritis,MESH:D010003,1,Dietary Fats,0,
+glucose-6-phosphate dehydrogenase activity,GO:0004345,Osteoarthritis,MESH:D010003,1,Dietary Fats,0,
+glutamate binding,GO:0016595,Osteoarthritis,MESH:D010003,1,Ethanol,0,
+glutaminase activity,GO:0004359,Osteoarthritis,MESH:D010003,0,,1,GLS
+glutathione-disulfide reductase (NADPH) activity,GO:0004362,Osteoarthritis,MESH:D010003,0,,1,TXNRD1
+glutathione peroxidase activity,GO:0004602,Osteoarthritis,MESH:D010003,17,Acetaminophen|Aspartame|Caffeine|Curcumin|Diclofenac|Dietary Fats|Ethanol|ferrostatin-1|fisetin|Indomethacin|Iron|Lipopolysaccharides|Lithium Chloride|Meloxicam|morroniside|Nicotine|Resveratrol,1,GSTK1
+glutathione peroxidase activity,GO:0004602,"Osteoarthritis, Hip",MESH:D015207,1,Indomethacin,0,
+glutathione peroxidase activity,GO:0004602,"Osteoarthritis, Knee",MESH:D020370,2,Lipopolysaccharides|Resveratrol,0,
+glutathione transferase activity,GO:0004364,Osteoarthritis,MESH:D010003,9,Acetaminophen|Caffeine|Curcumin|Dietary Fats|Ethanol|Iron|Lipopolysaccharides|Nicotine|Resveratrol,1,GSTK1
+glutathione transferase activity,GO:0004364,"Osteoarthritis, Knee",MESH:D020370,2,Lipopolysaccharides|Resveratrol,0,
+glyceraldehyde-3-phosphate dehydrogenase (NAD+) (phosphorylating) activity,GO:0004365,Osteoarthritis,MESH:D010003,1,Iodoacetic Acid,1,GAPDH
+glyceraldehyde-3-phosphate dehydrogenase (NAD+) (phosphorylating) activity,GO:0004365,"Osteoarthritis, Knee",MESH:D020370,1,Iodoacetic Acid,0,
+glycerol-3-phosphate O-acyltransferase activity,GO:0004366,Osteoarthritis,MESH:D010003,1,Resveratrol,0,
+glycerol-3-phosphate O-acyltransferase activity,GO:0004366,"Osteoarthritis, Knee",MESH:D020370,1,Resveratrol,0,
+glycogen phosphorylase activity,GO:0008184,Osteoarthritis,MESH:D010003,1,Dietary Fats,0,
+GPI anchor binding,GO:0034235,Osteoarthritis,MESH:D010003,0,,1,DPEP1
+G protein activity,GO:0003925,Osteoarthritis,MESH:D010003,0,,1,RAN
+G-protein alpha-subunit binding,GO:0001965,"Osteoarthritis, Hip",MESH:D015207,0,,1,CRHR1
+G protein-coupled peptide receptor activity,GO:0008528,"Osteoarthritis, Hip",MESH:D015207,0,,1,CRHR1
+G protein-coupled receptor activity,GO:0004930,Osteoarthritis,MESH:D010003,0,,3,ADGRG2|FRZB|P3H3
+G protein-coupled receptor activity,GO:0004930,"Osteoarthritis, Hip",MESH:D015207,0,,2,CRHR1|SMO
+G protein-coupled serotonin receptor activity,GO:0004993,Osteoarthritis,MESH:D010003,0,,1,ESD
+G-quadruplex DNA binding,GO:0051880,Osteoarthritis,MESH:D010003,0,,1,NME2
+growth factor activity,GO:0008083,Osteoarthritis,MESH:D010003,0,,5,BMP4|BMP6|FGF18|GDF5|TGFB1
+growth factor activity,GO:0008083,"Osteoarthritis, Hip",MESH:D015207,0,,1,IL11
+growth factor activity,GO:0008083,"Osteoarthritis, Knee",MESH:D020370,0,,1,GDF5
+growth factor activity,GO:0008083,"Osteoarthritis, Spine",MESH:D055013,0,,1,IL6
+growth factor binding,GO:0019838,Osteoarthritis,MESH:D010003,0,,1,SDCBP
+growth factor binding,GO:0019838,"Osteoarthritis, Knee",MESH:D020370,0,,1,LTBP1
+growth factor binding,GO:0019838,"Osteoarthritis, Spine",MESH:D055013,0,,1,DUSP1
+GTPase activating protein binding,GO:0032794,Osteoarthritis,MESH:D010003,0,,1,PLCD1
+GTPase activator activity,GO:0005096,Osteoarthritis,MESH:D010003,0,,1,SEC23A
+GTPase activity,GO:0003924,Osteoarthritis,MESH:D010003,0,,4,DDX3X|EEF2|OPA1|RAN
+GTPase binding,GO:0051020,Osteoarthritis,MESH:D010003,0,,1,ENO1
+GTPase-dependent fusogenic activity,GO:0140523,Osteoarthritis,MESH:D010003,0,,1,OPA1
+GTP binding,GO:0005525,Osteoarthritis,MESH:D010003,0,,5,AK4|EEF2|OPA1|RAN|TGM2
+H3K27me3 modified histone binding,GO:0061628,Osteoarthritis,MESH:D010003,1,Acetaminophen,0,
+heat shock protein binding,GO:0031072,Osteoarthritis,MESH:D010003,0,,1,ENO1
+heat shock protein binding,GO:0031072,"Osteoarthritis, Hip",MESH:D015207,0,,1,MAPT
+helicase activity,GO:0004386,Osteoarthritis,MESH:D010003,0,,1,DDX3X
+heme binding,GO:0020037,Osteoarthritis,MESH:D010003,0,,2,PSMB1|PTGS2
+heparan sulfate binding,GO:1904399,"Osteoarthritis, Hip",MESH:D015207,0,,1,COL11A1
+heparan sulfate proteoglycan binding,GO:0043395,Osteoarthritis,MESH:D010003,0,,2,ATP1A3|COMP
+heparan sulfate proteoglycan binding,GO:0043395,"Osteoarthritis, Hip",MESH:D015207,0,,1,COMP
+heparin binding,GO:0008201,Osteoarthritis,MESH:D010003,0,,4,ASPN|BMP4|COMP|CXCL6
+heparin binding,GO:0008201,"Osteoarthritis, Hip",MESH:D015207,0,,2,COL11A1|COMP
+heparin binding,GO:0008201,"Osteoarthritis, Spine",MESH:D055013,0,,1,CXCL8
+heterocyclic compound binding,GO:1901363,Osteoarthritis,MESH:D010003,0,,1,NME2
+hexokinase activity,GO:0004396,Osteoarthritis,MESH:D010003,2,Dietary Fats|Indomethacin,0,
+hexokinase activity,GO:0004396,"Osteoarthritis, Hip",MESH:D015207,1,Indomethacin,0,
+hexose transmembrane transporter activity,GO:0015149,Osteoarthritis,MESH:D010003,0,,1,SLC2A1
+high mobility group box 1 binding,GO:0070379,Osteoarthritis,MESH:D010003,0,,1,AGER
+high voltage-gated calcium channel activity,GO:0008331,Osteoarthritis,MESH:D010003,1,Ethanol,0,
+histamine receptor activity,GO:0004969,"Osteoarthritis, Hip",MESH:D015207,0,,1,DIABLO
+histone acetyltransferase activity,GO:0004402,Osteoarthritis,MESH:D010003,2,astaxanthine|Curcumin,1,TRAP1
+histone binding,GO:0042393,Osteoarthritis,MESH:D010003,0,,1,AGER
+histone binding,GO:0042393,"Osteoarthritis, Knee",MESH:D020370,0,,1,SBNO1
+histone deacetylase activity,GO:0004407,Osteoarthritis,MESH:D010003,3,astaxanthine|Curcumin|Dietary Fats,0,
+histone deacetylase activity,GO:0004407,"Osteoarthritis, Hip",MESH:D015207,0,,1,HDAC9
+histone deacetylase binding,GO:0042826,Osteoarthritis,MESH:D010003,0,,1,RUNX2
+histone deacetylase binding,GO:0042826,"Osteoarthritis, Hip",MESH:D015207,0,,2,HDAC9|RUNX2
+histone-dependent DNA binding,GO:0099077,"Osteoarthritis, Hip",MESH:D015207,0,,1,MAPT
+histone dopaminyltransferase activity,GO:0120297,Osteoarthritis,MESH:D010003,0,,1,TGM2
+histone H2S140 phosphatase activity,GO:0140791,"Osteoarthritis, Spine",MESH:D055013,0,,1,DUSP1
+histone H2Y142 phosphatase activity,GO:0140793,"Osteoarthritis, Spine",MESH:D055013,0,,1,DUSP1
+histone H3K14 deacetylase activity,GO:0031078,"Osteoarthritis, Hip",MESH:D015207,0,,1,HDAC9
+histone H3K4 deacetylase activity,GO:1990162,"Osteoarthritis, Hip",MESH:D015207,0,,1,HDAC9
+histone H3K9 deacetylase activity,GO:0032129,"Osteoarthritis, Hip",MESH:D015207,0,,1,HDAC9
+histone H3K9 demethylase activity,GO:0032454,Osteoarthritis,MESH:D010003,1,Dietary Fats,0,
+histone H4K12 deacetylase activity,GO:0140937,"Osteoarthritis, Hip",MESH:D015207,0,,1,HDAC9
+histone H4K16 deacetylase activity,GO:0034739,"Osteoarthritis, Hip",MESH:D015207,0,,1,HDAC9
+histone serotonyltransferase activity,GO:0120295,Osteoarthritis,MESH:D010003,0,,1,TGM2
+HMG box domain binding,GO:0071837,Osteoarthritis,MESH:D010003,0,,1,POU3F3
+hormone activity,GO:0005179,Osteoarthritis,MESH:D010003,0,,1,CALCA
+Hsp90 protein binding,GO:0051879,"Osteoarthritis, Hip",MESH:D015207,0,,1,MAPT
+hyaluronic acid binding,GO:0005540,"Osteoarthritis, Hip",MESH:D015207,0,,1,ITIH1
+hyaluronic acid binding,GO:0005540,SHORT STATURE AND ADVANCED BONE AGE WITH OR WITHOUT EARLY-ONSET OSTEOARTHRITIS AND/OR OSTEOCHONDRITIS DISSECANS,OMIM:165800,0,,1,ACAN
+hydrolase activity,GO:0016787,Osteoarthritis,MESH:D010003,0,,11,ACTB|CTSD|CTSK|DDX3X|DPEP1|ESD|GLS|HIBCH|OPA1|PLCD1|RAN
+hydrolase activity,GO:0016787,"Osteoarthritis, Spine",MESH:D055013,0,,1,DUSP1
+"hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds",GO:0016810,Osteoarthritis,MESH:D010003,0,,1,DPYSL2
+"hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds, in cyclic amides",GO:0016812,Osteoarthritis,MESH:D010003,0,,1,DPYSL2
+"hydrolase activity, acting on ester bonds",GO:0016788,Osteoarthritis,MESH:D010003,0,,1,ESD
+identical protein binding,GO:0042802,Osteoarthritis,MESH:D010003,0,,32,ACTB|AGER|BMP4|CALCA|COL1A2|COL2A1|DPEP1|DPYSL2|ENO1|ESD|EZR|FTL|GAPDH|GDF5|GLS|MVP|NME2|PDCD6IP|PPARG|S100A4|SDCBP|SLC2A1|SMAD3|SOD2|TGFB1|TGM2|TRAP1|TRPV4|TXNRD1|VDAC2|VIM|YWHAQ
+identical protein binding,GO:0042802,"Osteoarthritis, Hip",MESH:D015207,0,,2,MAPT|SMAD3
+identical protein binding,GO:0042802,"Osteoarthritis, Knee",MESH:D020370,0,,1,GDF5
+identical protein binding,GO:0042802,"Osteoarthritis, Spine",MESH:D055013,0,,3,IL6|SKP2|TNF
+identical protein binding,GO:0042802,Osteoarthritis with Mild Chondrodysplasia,MESH:C565740,0,,1,COL2A1
+IgE binding,GO:0019863,Osteoarthritis,MESH:D010003,0,,1,LGALS3
+IkappaB kinase activity,GO:0008384,Osteoarthritis,MESH:D010003,1,Resveratrol,0,
+IkappaB kinase activity,GO:0008384,"Osteoarthritis, Knee",MESH:D020370,1,Resveratrol,0,
+importin-alpha family protein binding,GO:0061676,Osteoarthritis,MESH:D010003,0,,1,RAN
+indanol dehydrogenase activity,GO:0047718,Osteoarthritis,MESH:D010003,0,,2,AKR1C1|AKR1C2
+"indoleamine 2,3-dioxygenase activity",GO:0033754,Osteoarthritis,MESH:D010003,1,Lipopolysaccharides,0,
+"indoleamine 2,3-dioxygenase activity",GO:0033754,"Osteoarthritis, Knee",MESH:D020370,1,Lipopolysaccharides,0,
+"inositol 1,3,4,5 tetrakisphosphate binding",GO:0043533,"Osteoarthritis, Hip",MESH:D015207,0,,1,ASTN2
+"inositol 1,4,5 trisphosphate binding",GO:0070679,Osteoarthritis,MESH:D010003,0,,1,PLCD1
+integrin binding,GO:0005178,Osteoarthritis,MESH:D010003,0,,3,COMP|EDIL3|IL1B
+integrin binding,GO:0005178,"Osteoarthritis, Hip",MESH:D015207,0,,2,COMP|TNC
+interleukin-11 receptor binding,GO:0005142,"Osteoarthritis, Hip",MESH:D015207,0,,1,IL11
+interleukin-1 receptor binding,GO:0005149,Osteoarthritis,MESH:D010003,0,,1,IL1B
+interleukin-5 receptor binding,GO:0005137,Osteoarthritis,MESH:D010003,0,,1,SDCBP
+interleukin-6 receptor binding,GO:0005138,"Osteoarthritis, Spine",MESH:D055013,0,,1,IL6
+interleukin-8 receptor binding,GO:0005153,"Osteoarthritis, Spine",MESH:D055013,0,,1,CXCL8
+intermediate filament binding,GO:0019215,Osteoarthritis,MESH:D010003,0,,1,NME2
+ionotropic glutamate receptor binding,GO:0035255,Osteoarthritis,MESH:D010003,0,,1,SDCBP
+iron ion binding,GO:0005506,Osteoarthritis,MESH:D010003,0,,3,FTL|P3H3|PLOD2
+iron-responsive element binding,GO:0030350,Osteoarthritis,MESH:D010003,0,,1,ACO1
+iron-sulfur cluster binding,GO:0051536,Osteoarthritis,MESH:D010003,0,,2,ACO1|NDUFV1
+I-SMAD binding,GO:0070411,Osteoarthritis,MESH:D010003,0,,1,SMAD3
+I-SMAD binding,GO:0070411,"Osteoarthritis, Hip",MESH:D015207,0,,1,SMAD3
+isocitrate dehydrogenase (NAD+) activity,GO:0004449,Osteoarthritis,MESH:D010003,0,,1,IDH3A
+isocitrate dehydrogenase (NADP+) activity,GO:0004450,Osteoarthritis,MESH:D010003,0,,1,IDH2
+isocitrate dehydrogenase [NAD(P)+] activity,GO:0004448,Osteoarthritis,MESH:D010003,1,Iron,0,
+JUN kinase activity,GO:0004705,Osteoarthritis,MESH:D010003,1,Lipopolysaccharides,0,
+JUN kinase activity,GO:0004705,"Osteoarthritis, Knee",MESH:D020370,1,Lipopolysaccharides,0,
+JUN kinase kinase kinase kinase activity,GO:0042656,Osteoarthritis,MESH:D010003,0,,1,MSN
+keratin filament binding,GO:1990254,Osteoarthritis,MESH:D010003,0,,1,VIM
+ketosteroid monooxygenase activity,GO:0047086,Osteoarthritis,MESH:D010003,0,,2,AKR1C1|AKR1C2
+kinase activity,GO:0016301,Osteoarthritis,MESH:D010003,0,,2,AK4|NME2
+kinase activity,GO:0016301,"Osteoarthritis, Spine",MESH:D055013,0,,1,SKP2
+kinase binding,GO:0019900,Osteoarthritis,MESH:D010003,0,,3,OPA1|SLC2A1|VIM
+kinesin binding,GO:0019894,Osteoarthritis,MESH:D010003,0,,1,ACTB
+lactate dehydrogenase activity,GO:0004457,Osteoarthritis,MESH:D010003,11,Acetaminophen|Caffeine|Celecoxib|Curcumin|Decitabine|Dietary Fats|Ethanol|Lipopolysaccharides|Nicotine|Resveratrol|Tramadol,0,
+lactate dehydrogenase activity,GO:0004457,"Osteoarthritis, Knee",MESH:D020370,3,Lipopolysaccharides|Resveratrol|Tramadol,0,
+L-alanine:2-oxoglutarate aminotransferase activity,GO:0004021,Osteoarthritis,MESH:D010003,1,Acetaminophen,0,
+laminin binding,GO:0043236,Osteoarthritis,MESH:D010003,0,,1,LGALS3
+laminin receptor activity,GO:0005055,Osteoarthritis,MESH:D010003,0,,1,AGER
+L-ascorbic acid binding,GO:0031418,Osteoarthritis,MESH:D010003,0,,2,P3H3|PLOD2
+L-aspartate:2-oxoglutarate aminotransferase activity,GO:0004069,Osteoarthritis,MESH:D010003,11,Acetaminophen|Caffeine|Curcumin|Diclofenac|Dietary Fats|Ethanol|Iron|Lipopolysaccharides|Nicotine|Resveratrol|Tramadol,0,
+L-aspartate:2-oxoglutarate aminotransferase activity,GO:0004069,"Osteoarthritis, Knee",MESH:D020370,3,Lipopolysaccharides|Resveratrol|Tramadol,0,
+LBD domain binding,GO:0050693,Osteoarthritis,MESH:D010003,0,,1,PPARG
+ligase activity,GO:0016874,"Osteoarthritis, Knee",MESH:D020370,0,,1,WWP2
+lipase activity,GO:0016298,Osteoarthritis,MESH:D010003,1,Ethanol,0,
+lipid binding,GO:0008289,Osteoarthritis,MESH:D010003,0,,2,OPA1|TRPV4
+lipoprotein particle binding,GO:0071813,"Osteoarthritis, Hip",MESH:D015207,0,,1,MAPT
+lithocholic acid binding,GO:1902121,Osteoarthritis,MESH:D010003,0,,1,AKR1C2
+lncRNA binding,GO:0106222,Osteoarthritis,MESH:D010003,0,,1,EEF2
+long-chain-3-hydroxyacyl-CoA dehydrogenase activity,GO:0016509,Osteoarthritis,MESH:D010003,0,,1,HADHA
+long-chain fatty acid-CoA ligase activity,GO:0004467,Osteoarthritis,MESH:D010003,1,Diclofenac,0,
+long-chain fatty acid transporter activity,GO:0005324,Osteoarthritis,MESH:D010003,0,,1,SLC2A1
+low-density lipoprotein particle receptor binding,GO:0050750,Osteoarthritis,MESH:D010003,0,,1,CLU
+lyase activity,GO:0016829,Osteoarthritis,MESH:D010003,0,,3,ACO1|ENO1|HADHA
+lysine-acetylated histone binding,GO:0070577,Osteoarthritis,MESH:D010003,3,Acetaminophen|Ethanol|Nicotine,0,
+magnesium ion binding,GO:0000287,Osteoarthritis,MESH:D010003,0,,6,ENO1|IDH2|IDH3A|OPA1|RAN|TRAP1
+malate dehydrogenase activity,GO:0016615,Osteoarthritis,MESH:D010003,2,Acetaminophen|Curcumin,0,
+malic enzyme activity,GO:0004470,Osteoarthritis,MESH:D010003,1,Dietary Fats,0,
+manganese ion binding,GO:0030145,Osteoarthritis,MESH:D010003,0,,1,SOD2
+MAP kinase kinase kinase kinase activity,GO:0008349,Osteoarthritis,MESH:D010003,0,,1,MSN
+MAP kinase serine/threonine phosphatase activity,GO:1990439,"Osteoarthritis, Spine",MESH:D055013,0,,1,DUSP1
+MAP kinase tyrosine phosphatase activity,GO:0033550,"Osteoarthritis, Spine",MESH:D055013,0,,1,DUSP1
+MAP kinase tyrosine/serine/threonine phosphatase activity,GO:0017017,"Osteoarthritis, Spine",MESH:D055013,0,,1,DUSP1
+membrane scission GTPase motor activity,GO:1990606,Osteoarthritis,MESH:D010003,0,,1,OPA1
+mercury ion binding,GO:0045340,Osteoarthritis,MESH:D010003,0,,1,TXNRD1
+metal ion binding,GO:0046872,Osteoarthritis,MESH:D010003,0,,27,ACO1|ATP1A3|COL1A2|COL2A1|DPEP1|ENO1|IDH2|IDH3A|NDUFS8|NDUFV1|NME2|OPA1|P3H3|PDHA1|PLCD1|PLOD2|PLS3|PPARG|PTGS2|RAN|RCN3|SEC23A|SMAD3|SOD2|TGM2|TRAP1|TRPV4
+metal ion binding,GO:0046872,"Osteoarthritis, Hip",MESH:D015207,0,,4,COL11A1|HDAC9|LMX1B|SMAD3
+metal ion binding,GO:0046872,Osteoarthritis with Mild Chondrodysplasia,MESH:C565740,0,,1,COL2A1
+metal ion binding,GO:0046872,SHORT STATURE AND ADVANCED BONE AGE WITH OR WITHOUT EARLY-ONSET OSTEOARTHRITIS AND/OR OSTEOCHONDRITIS DISSECANS,OMIM:165800,0,,1,ACAN
+metallodipeptidase activity,GO:0070573,Osteoarthritis,MESH:D010003,0,,1,DPEP1
+metalloexopeptidase activity,GO:0008235,Osteoarthritis,MESH:D010003,0,,1,DPEP1
+metallopeptidase activity,GO:0008237,Osteoarthritis,MESH:D010003,0,,1,DPEP1
+methylated histone binding,GO:0035064,Osteoarthritis,MESH:D010003,1,Acetaminophen,0,
+methyltransferase activity,GO:0008168,"Osteoarthritis, Spine",MESH:D055013,0,,1,SKP2
+methylumbelliferyl-acetate deacetylase activity,GO:0047374,Osteoarthritis,MESH:D010003,0,,1,ESD
+MHC class II protein binding,GO:0042289,Osteoarthritis,MESH:D010003,0,,1,COL2A1
+MHC class II protein binding,GO:0042289,Osteoarthritis with Mild Chondrodysplasia,MESH:C565740,0,,1,COL2A1
+microfibril binding,GO:0050436,Osteoarthritis,MESH:D010003,0,,1,LTBP3
+microfibril binding,GO:0050436,"Osteoarthritis, Hip",MESH:D015207,0,,1,LTBP3
+microfibril binding,GO:0050436,"Osteoarthritis, Knee",MESH:D020370,0,,1,LTBP1
+microfilament motor activity,GO:0000146,Osteoarthritis,MESH:D010003,0,,1,MYH13
+microtubule binding,GO:0008017,Osteoarthritis,MESH:D010003,0,,5,EZR|GAPDH|LTBP3|OPA1|TRPV4
+microtubule binding,GO:0008017,"Osteoarthritis, Hip",MESH:D015207,0,,2,LTBP3|MAPT
+microtubule lateral binding,GO:0099609,"Osteoarthritis, Hip",MESH:D015207,0,,1,MAPT
+minor groove of adenine-thymine-rich DNA binding,GO:0003680,"Osteoarthritis, Hip",MESH:D015207,0,,1,MAPT
+misfolded protein binding,GO:0051787,Osteoarthritis,MESH:D010003,0,,1,CLU
+mitogen-activated protein kinase binding,GO:0051019,"Osteoarthritis, Spine",MESH:D055013,0,,1,DUSP1
+modified amino acid binding,GO:0072341,Osteoarthritis,MESH:D010003,0,,1,DPEP1
+molecular adaptor activity,GO:0060090,Osteoarthritis,MESH:D010003,0,,2,AGER|VIM
+molecular adaptor activity,GO:0060090,"Osteoarthritis, Knee",MESH:D020370,0,,2,LTBP1|WWP2
+molecular condensate scaffold activity,GO:0140693,Osteoarthritis,MESH:D010003,0,,1,LGALS3
+molecular_function,GO:0003674,Osteoarthritis,MESH:D010003,0,,3,PDCD6IP|SCRN1|SGCG
+molecular_function,GO:0003674,"Osteoarthritis, Hip",MESH:D015207,0,,1,FILIP1
+monoatomic cation channel activity,GO:0005261,Osteoarthritis,MESH:D010003,1,Lipopolysaccharides,1,TRPV4
+monoatomic cation channel activity,GO:0005261,"Osteoarthritis, Knee",MESH:D020370,2,Adenosine Triphosphate|Lipopolysaccharides,0,
+monoatomic ion channel activity,GO:0005216,Osteoarthritis,MESH:D010003,0,,1,TRPV4
+monooxygenase activity,GO:0004497,Osteoarthritis,MESH:D010003,0,,1,YWHAQ
+monosaccharide binding,GO:0048029,Osteoarthritis,MESH:D010003,0,,1,LGALS3
+mRNA 3'-UTR binding,GO:0003730,"Osteoarthritis, Knee",MESH:D020370,0,,1,MIR219A1
+mRNA 5'-UTR binding,GO:0048027,Osteoarthritis,MESH:D010003,0,,2,ACO1|DDX3X
+mRNA base-pairing translational repressor activity,GO:1903231,"Osteoarthritis, Knee",MESH:D020370,0,,1,MIR219A1
+mRNA base-pairing translational repressor activity,GO:1903231,"Osteoarthritis, Spine",MESH:D055013,0,,1,MIR337
+mRNA binding,GO:0003729,Osteoarthritis,MESH:D010003,0,,2,CLU|DDX3X
+mRNA regulatory element binding translation repressor activity,GO:0000900,Osteoarthritis,MESH:D010003,0,,1,ACO1
+myosin binding,GO:0017022,Osteoarthritis,MESH:D010003,0,,1,TRIM2
+myosin phosphatase activity,GO:0017018,"Osteoarthritis, Spine",MESH:D055013,0,,1,DUSP1
+NAD binding,GO:0051287,Osteoarthritis,MESH:D010003,0,,5,GAPDH|HADHA|IDH2|IDH3A|NDUFV1
+NAD+ binding,GO:0070403,Osteoarthritis,MESH:D010003,0,,1,HADHA
+NADH dehydrogenase activity,GO:0003954,Osteoarthritis,MESH:D010003,0,,1,NDUFS8
+NADH dehydrogenase (ubiquinone) activity,GO:0008137,Osteoarthritis,MESH:D010003,7,Acetaminophen|Curcumin|Dietary Fats|Ethanol|Lipopolysaccharides|Lithium Chloride|Resveratrol,2,NDUFS8|NDUFV1
+NADH dehydrogenase (ubiquinone) activity,GO:0008137,"Osteoarthritis, Knee",MESH:D020370,2,Lipopolysaccharides|Resveratrol,0,
+NADP binding,GO:0050661,Osteoarthritis,MESH:D010003,0,,1,GAPDH
+NADP+ binding,GO:0070401,Osteoarthritis,MESH:D010003,0,,1,AKR1C2
+NADPH binding,GO:0070402,Osteoarthritis,MESH:D010003,0,,1,AKR1C2
+NAD(P)H oxidase H2O2-forming activity,GO:0016174,Osteoarthritis,MESH:D010003,5,Celecoxib|Lipopolysaccharides|Nicotine|Resveratrol|rofecoxib,1,TXNRD1
+NAD(P)H oxidase H2O2-forming activity,GO:0016174,"Osteoarthritis, Knee",MESH:D020370,4,argan oil|Lipopolysaccharides|Resveratrol|rofecoxib,0,
+NADPH peroxidase activity,GO:0050137,Osteoarthritis,MESH:D010003,0,,1,TXNRD1
+neurexin family protein binding,GO:0042043,Osteoarthritis,MESH:D010003,0,,1,SDCBP
+neuropeptide hormone activity,GO:0005184,Osteoarthritis,MESH:D010003,0,,1,CALCA
+neurotransmitter receptor activity,GO:0030594,Osteoarthritis,MESH:D010003,0,,1,ESD
+NF-kappaB binding,GO:0051059,Osteoarthritis,MESH:D010003,2,Ethanol|Lipopolysaccharides,0,
+NF-kappaB binding,GO:0051059,"Osteoarthritis, Knee",MESH:D020370,1,Lipopolysaccharides,0,
+nitric-oxide synthase activity,GO:0004517,Osteoarthritis,MESH:D010003,3,Caffeine|Dietary Fats|Resveratrol,0,
+nitric-oxide synthase activity,GO:0004517,"Osteoarthritis, Knee",MESH:D020370,1,Resveratrol,0,
+nitric-oxide synthase binding,GO:0050998,Osteoarthritis,MESH:D010003,0,,1,ACTB
+non-membrane spanning protein tyrosine phosphatase activity,GO:0004726,"Osteoarthritis, Spine",MESH:D055013,0,,1,DUSP1
+nuclear estrogen receptor binding,GO:0030331,Osteoarthritis,MESH:D010003,0,,1,PPARG
+nuclear export signal receptor activity,GO:0005049,Osteoarthritis,MESH:D010003,0,,1,RAN
+nuclear glucocorticoid receptor binding,GO:0035259,Osteoarthritis,MESH:D010003,0,,1,SMAD3
+nuclear glucocorticoid receptor binding,GO:0035259,"Osteoarthritis, Hip",MESH:D015207,0,,1,SMAD3
+nuclear mineralocorticoid receptor binding,GO:0031962,Osteoarthritis,MESH:D010003,0,,1,SMAD3
+nuclear mineralocorticoid receptor binding,GO:0031962,"Osteoarthritis, Hip",MESH:D015207,0,,1,SMAD3
+nuclear receptor activity,GO:0004879,Osteoarthritis,MESH:D010003,0,,1,PPARG
+nuclear receptor binding,GO:0016922,Osteoarthritis,MESH:D010003,0,,1,SMAD3
+nuclear receptor binding,GO:0016922,"Osteoarthritis, Hip",MESH:D015207,0,,1,SMAD3
+nuclear retinoid X receptor binding,GO:0046965,Osteoarthritis,MESH:D010003,0,,1,PPARG
+nucleic acid binding,GO:0003676,Osteoarthritis,MESH:D010003,0,,6,AK4|CLIC1|DAPP1|DDX3X|OPA1|PPARG
+nucleobase-containing compound kinase activity,GO:0019205,Osteoarthritis,MESH:D010003,0,,1,AK4
+nucleoside diphosphate kinase activity,GO:0004550,Osteoarthritis,MESH:D010003,0,,2,AK4|NME2
+nucleoside monophosphate kinase activity,GO:0050145,Osteoarthritis,MESH:D010003,0,,1,AK4
+nucleoside triphosphate adenylate kinase activity,GO:0046899,Osteoarthritis,MESH:D010003,0,,1,AK4
+nucleosomal DNA binding,GO:0031492,Osteoarthritis,MESH:D010003,0,,1,ACTB
+nucleotide binding,GO:0000166,Osteoarthritis,MESH:D010003,0,,6,AK4|GAPDH|OPA1|RAN|TRAP1|TXNRD1
+oligosaccharide binding,GO:0070492,Osteoarthritis,MESH:D010003,0,,1,LGALS3
+osmosensor activity,GO:0005034,Osteoarthritis,MESH:D010003,0,,1,TRPV4
+oxidoreductase activity,GO:0016491,Osteoarthritis,MESH:D010003,0,,17,AKR1C1|AKR1C2|ALDH1A2|CLIC1|CLIC4|ETFA|GAPDH|GSTK1|HADHA|IDH2|IDH3A|P3H3|PDHA1|PLOD2|SDHA|SOD2|TXNRD1
+"oxidoreductase activity, acting on NAD(P)H",GO:0016651,Osteoarthritis,MESH:D010003,1,Curcumin,1,NDUFS8
+"oxidoreductase activity, acting on NAD(P)H, quinone or similar compound as acceptor",GO:0016655,Osteoarthritis,MESH:D010003,0,,2,AKR1C1|AKR1C2
+"oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen",GO:0016705,Osteoarthritis,MESH:D010003,0,,2,P3H3|PLOD2
+"oxidoreductase activity, acting on single donors with incorporation of molecular oxygen",GO:0016701,Osteoarthritis,MESH:D010003,0,,1,PTGS2
+"oxidoreductase activity, acting on single donors with incorporation of molecular oxygen, incorporation of two atoms of oxygen",GO:0016702,Osteoarthritis,MESH:D010003,0,,1,PTGS2
+"oxidoreductase activity, acting on the aldehyde or oxo group of donors, disulfide as acceptor",GO:0016624,Osteoarthritis,MESH:D010003,0,,1,PDHA1
+"oxidoreductase activity, acting on the aldehyde or oxo group of donors, NAD or NADP as acceptor",GO:0016620,Osteoarthritis,MESH:D010003,0,,2,ALDH1A2|GAPDH
+"oxidoreductase activity, acting on the CH-CH group of donors",GO:0016627,Osteoarthritis,MESH:D010003,0,,1,SDHA
+"oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor",GO:0016616,Osteoarthritis,MESH:D010003,0,,3,HADHA|IDH2|IDH3A
+"oxidoreductase activity, acting on the CH-OH group of donors, quinone or similar compound as acceptor",GO:0016901,Osteoarthritis,MESH:D010003,0,,1,SDHA
+oxygen binding,GO:0019825,Osteoarthritis,MESH:D010003,2,Curcumin|Resveratrol,1,SOD2
+oxygen binding,GO:0019825,"Osteoarthritis, Knee",MESH:D020370,1,Resveratrol,0,
+oxysterol binding,GO:0008142,Osteoarthritis,MESH:D010003,0,,1,VDAC2
+oxysterol binding,GO:0008142,"Osteoarthritis, Hip",MESH:D015207,0,,1,SMO
+p53 binding,GO:0002039,Osteoarthritis,MESH:D010003,0,,1,EEF2
+parathyroid hormone receptor activity,GO:0004991,"Osteoarthritis, Hip",MESH:D015207,0,,1,CRHR1
+patched binding,GO:0005113,"Osteoarthritis, Hip",MESH:D015207,0,,1,SMO
+peptidase activator activity involved in apoptotic process,GO:0016505,Osteoarthritis,MESH:D010003,1,Ethanol,0,
+peptidase activity,GO:0008233,Osteoarthritis,MESH:D010003,1,Diclofenac,4,CTSD|CTSK|DPEP1|TGM2
+peptidase inhibitor activity,GO:0030414,Osteoarthritis,MESH:D010003,0,,1,TFPI2
+peptide antigen binding,GO:0042605,"Osteoarthritis, Hip",MESH:D015207,0,,1,HFE
+peptide binding,GO:0042277,Osteoarthritis,MESH:D010003,0,,2,CTSD|PPARG
+peptide binding,GO:0042277,"Osteoarthritis, Hip",MESH:D015207,0,,1,CRHR1
+peptide histaminyltransferase activity,GO:0120299,Osteoarthritis,MESH:D010003,0,,1,TGM2
+peptide noradrenalinyltransferase activity,GO:0120298,Osteoarthritis,MESH:D010003,0,,1,TGM2
+peptidyl-cysteine S-nitrosylase activity,GO:0035605,Osteoarthritis,MESH:D010003,0,,1,GAPDH
+peroxidase activity,GO:0004601,Osteoarthritis,MESH:D010003,1,Curcumin,1,PTGS2
+phosphatase activity,GO:0016791,"Osteoarthritis, Knee",MESH:D020370,1,Adenosine Triphosphate,0,
+phosphatase binding,GO:0019902,Osteoarthritis,MESH:D010003,0,,1,SMAD3
+phosphatase binding,GO:0019902,"Osteoarthritis, Hip",MESH:D015207,0,,1,SMAD3
+phosphatidic acid binding,GO:0070300,Osteoarthritis,MESH:D010003,0,,2,OPA1|PLCD1
+phosphatidic acid binding,GO:0070300,"Osteoarthritis, Hip",MESH:D015207,0,,1,SMO
+phosphatidylcholine binding,GO:0031210,Osteoarthritis,MESH:D010003,0,,1,VDAC2
+"phosphatidylinositol-3,4,5-trisphosphate binding",GO:0005547,Osteoarthritis,MESH:D010003,0,,1,DAPP1
+"phosphatidylinositol-3,4-bisphosphate binding",GO:0043325,Osteoarthritis,MESH:D010003,0,,1,DAPP1
+"phosphatidylinositol-4,5-bisphosphate 5-phosphatase activity",GO:0004439,Osteoarthritis,MESH:D010003,0,,1,PLCD1
+"phosphatidylinositol-4,5-bisphosphate binding",GO:0005546,Osteoarthritis,MESH:D010003,0,,2,PLCD1|SDCBP
+phosphatidylinositol-4-phosphate binding,GO:0070273,"Osteoarthritis, Hip",MESH:D015207,0,,1,SMO
+phosphatidylinositol binding,GO:0035091,"Osteoarthritis, Hip",MESH:D015207,0,,1,MAPT
+phosphatidylinositol bisphosphate binding,GO:1902936,"Osteoarthritis, Hip",MESH:D015207,0,,1,MAPT
+phosphatidylinositol phospholipase C activity,GO:0004435,Osteoarthritis,MESH:D010003,0,,1,PLCD1
+phosphatidylserine binding,GO:0001786,Osteoarthritis,MESH:D010003,0,,1,PLCD1
+phosphatidylserine floppase activity,GO:0090556,Osteoarthritis,MESH:D010003,1,Reactive Oxygen Species,0,
+phosphofructokinase activity,GO:0008443,"Osteoarthritis, Knee",MESH:D020370,1,Adenosine Triphosphate,0,
+phospholipase A2 activity,GO:0004623,Osteoarthritis,MESH:D010003,2,Diclofenac|Indomethacin,0,
+phospholipase A2 activity,GO:0004623,"Osteoarthritis, Hip",MESH:D015207,1,Indomethacin,0,
+phospholipase binding,GO:0043274,Osteoarthritis,MESH:D010003,0,,1,TGM2
+phospholipid binding,GO:0005543,Osteoarthritis,MESH:D010003,0,,2,DAPP1|PLCD1
+phospholipid scramblase activity,GO:0017128,Osteoarthritis,MESH:D010003,0,,1,VDAC2
+phosphoprotein phosphatase activity,GO:0004721,"Osteoarthritis, Spine",MESH:D055013,0,,1,DUSP1
+phosphopyruvate hydratase activity,GO:0004634,Osteoarthritis,MESH:D010003,0,,1,ENO1
+phosphorelay sensor kinase activity,GO:0000155,Osteoarthritis,MESH:D010003,0,,1,NME2
+"phosphotransferase activity, for other substituted phosphate groups",GO:0016780,Osteoarthritis,MESH:D010003,0,,1,MVP
+"phosphotransferase activity, phosphate group as acceptor",GO:0016776,Osteoarthritis,MESH:D010003,0,,1,AK4
+platelet-derived growth factor binding,GO:0048407,Osteoarthritis,MESH:D010003,0,,2,COL1A2|COL2A1
+platelet-derived growth factor binding,GO:0048407,Osteoarthritis with Mild Chondrodysplasia,MESH:C565740,0,,1,COL2A1
+poly(A) binding,GO:0008143,Osteoarthritis,MESH:D010003,0,,1,DDX3X
+pore-forming activity,GO:0140911,"Osteoarthritis, Knee",MESH:D020370,1,Adenosine Triphosphate,0,
+porin activity,GO:0015288,Osteoarthritis,MESH:D010003,0,,1,VDAC2
+pre-miRNA binding,GO:0070883,Osteoarthritis,MESH:D010003,0,,1,RAN
+primary miRNA binding,GO:0070878,Osteoarthritis,MESH:D010003,0,,1,DDX3X
+procollagen-lysine 5-dioxygenase activity,GO:0008475,Osteoarthritis,MESH:D010003,0,,1,PLOD2
+procollagen-proline 3-dioxygenase activity,GO:0019797,Osteoarthritis,MESH:D010003,0,,1,P3H3
+promoter-specific chromatin binding,GO:1990841,Osteoarthritis,MESH:D010003,0,,2,PPARG|SMAD3
+promoter-specific chromatin binding,GO:1990841,"Osteoarthritis, Hip",MESH:D015207,0,,1,SMAD3
+prostaglandin-endoperoxide synthase activity,GO:0004666,Osteoarthritis,MESH:D010003,1,Diclofenac,1,PTGS2
+prostaglandin receptor activity,GO:0004955,Osteoarthritis,MESH:D010003,0,,1,PPARG
+protease binding,GO:0002020,Osteoarthritis,MESH:D010003,0,,2,COL1A2|COMP
+protease binding,GO:0002020,"Osteoarthritis, Hip",MESH:D015207,0,,1,COMP
+protease binding,GO:0002020,"Osteoarthritis, Spine",MESH:D055013,0,,1,TNF
+protein antigen binding,GO:1990405,Osteoarthritis,MESH:D010003,0,,1,PPP2R1A
+proteinase activated receptor binding,GO:0031871,Osteoarthritis,MESH:D010003,0,,1,PDCD6IP
+protein binding,GO:0005515,Osteoarthritis,MESH:D010003,0,,85,ACAA2|ACO1|ACTB|AGER|AK4|AKR1C1|ASPN|ATP1A3|ATP6V1B2|BMP4|BMP6|CALCA|CHI3L1|CLIC1|CLIC4|CLU|COL1A2|COL2A1|COL6A2|COMP|CTSD|CTSK|CXCL2|CXCL6|DAPP1|DDX3X|DPEP1|DPYSL2|EEF2|ENO1|ESD|ETFA|EZR|FRZB|FTL|GAPDH|GDF5|GLS|GSTK1|HADHA|IDH3A|IL1B|IMMT|ISOC2|LGALS3|LTBP3|MATN3|MSN|MVP|MYH13|NDUFS8|NDUFV1|NME2|OPA1|P3H3|PDCD6IP|PDHA1|PLCD1|POU3F3|PPARG|PPP2R1A|PSMB1|PTGS2|RAN|RCN3|RUNX2|S100A4|SCRN1|SDCBP|SDHA|SEC23A|SGCG|SLC2A1|SMAD3|SOD2|TGFB1|TGM2|TNFSF15|TRAP1|TRIM2|TRPV4|TXNRD1|VDAC2|VIM|YWHAQ
+protein binding,GO:0005515,"Osteoarthritis, Hip",MESH:D015207,0,,17,ASTN2|CHADL|COL11A1|COMP|CRHR1|DIABLO|HDAC9|HFE|IL11|ITIH1|LMX1B|LTBP3|MAPT|RUNX2|SMAD3|SMO|TNC
+protein binding,GO:0005515,"Osteoarthritis, Knee",MESH:D020370,0,,4,GDF5|LTBP1|SBNO1|WWP2
+protein binding,GO:0005515,"Osteoarthritis, Spine",MESH:D055013,0,,5,CXCL8|DUSP1|IL6|SKP2|TNF
+protein binding,GO:0005515,Osteoarthritis with Mild Chondrodysplasia,MESH:C565740,0,,1,COL2A1
+protein binding,GO:0005515,SHORT STATURE AND ADVANCED BONE AGE WITH OR WITHOUT EARLY-ONSET OSTEOARTHRITIS AND/OR OSTEOCHONDRITIS DISSECANS,OMIM:165800,0,,1,ACAN
+protein carrier chaperone,GO:0140597,Osteoarthritis,MESH:D010003,0,,1,CLU
+protein-containing complex binding,GO:0044877,Osteoarthritis,MESH:D010003,0,,12,AGER|CALCA|CLIC4|CLU|ENO1|EZR|HADHA|OPA1|RAN|S100A4|SDCBP|TGFB1
+protein-containing complex binding,GO:0044877,"Osteoarthritis, Hip",MESH:D015207,0,,2,CRHR1|MAPT
+protein dimerization activity,GO:0046983,Osteoarthritis,MESH:D010003,0,,3,COMP|PDCD6IP|RUNX2
+protein dimerization activity,GO:0046983,"Osteoarthritis, Hip",MESH:D015207,0,,2,COMP|RUNX2
+protein dimerization activity,GO:0046983,"Osteoarthritis, Knee",MESH:D020370,0,,1,SBNO1
+protein domain specific binding,GO:0019904,Osteoarthritis,MESH:D010003,0,,7,EZR|IL1B|RAN|RUNX2|TGM2|VIM|YWHAQ
+protein domain specific binding,GO:0019904,"Osteoarthritis, Hip",MESH:D015207,0,,1,RUNX2
+protein-glutamine gamma-glutamyltransferase activity,GO:0003810,Osteoarthritis,MESH:D010003,0,,1,TGM2
+protein-glutamine glutaminase activity,GO:0050568,Osteoarthritis,MESH:D010003,0,,1,TGM2
+protein heterodimerization activity,GO:0046982,Osteoarthritis,MESH:D010003,0,,5,BMP6|CLU|PPP2R1A|RAN|SDCBP
+protein homodimerization activity,GO:0042803,Osteoarthritis,MESH:D010003,0,,6,COL2A1|ENO1|PDCD6IP|POU3F3|PTGS2|SMAD3
+protein homodimerization activity,GO:0042803,"Osteoarthritis, Hip",MESH:D015207,0,,2,SMAD3|SMO
+protein homodimerization activity,GO:0042803,Osteoarthritis with Mild Chondrodysplasia,MESH:C565740,0,,1,COL2A1
+protein kinase A binding,GO:0051018,Osteoarthritis,MESH:D010003,0,,1,EZR
+protein kinase A catalytic subunit binding,GO:0034236,Osteoarthritis,MESH:D010003,0,,1,EZR
+protein kinase A catalytic subunit binding,GO:0034236,"Osteoarthritis, Hip",MESH:D015207,0,,1,SMO
+protein kinase activity,GO:0004672,Osteoarthritis,MESH:D010003,0,,2,EEF2|MSN
+protein kinase A regulatory subunit binding,GO:0034237,Osteoarthritis,MESH:D010003,0,,1,EZR
+protein kinase binding,GO:0019901,Osteoarthritis,MESH:D010003,0,,8,ACTB|DPYSL2|EEF2|MSN|MVP|SMAD3|TRAP1|TRPV4
+protein kinase binding,GO:0019901,"Osteoarthritis, Hip",MESH:D015207,0,,3,MAPT|SMAD3|SMO
+protein kinase C binding,GO:0005080,Osteoarthritis,MESH:D010003,0,,1,TRPV4
+protein kinase C binding,GO:0005080,"Osteoarthritis, Hip",MESH:D015207,0,,1,HDAC9
+protein lysine deacetylase activity,GO:0033558,"Osteoarthritis, Hip",MESH:D015207,0,,1,HDAC9
+protein-macromolecule adaptor activity,GO:0030674,Osteoarthritis,MESH:D010003,0,,2,COL1A2|MSN
+protein-macromolecule adaptor activity,GO:0030674,"Osteoarthritis, Hip",MESH:D015207,0,,2,COL11A1|MAPT
+protein phosphatase 2A binding,GO:0051721,Osteoarthritis,MESH:D010003,0,,1,VIM
+protein phosphatase 2A binding,GO:0051721,"Osteoarthritis, Hip",MESH:D015207,0,,1,MAPT
+protein phosphatase binding,GO:0019903,Osteoarthritis,MESH:D010003,0,,3,LGALS3|MVP|PPARG
+protein phosphatase inhibitor activity,GO:0004864,Osteoarthritis,MESH:D010003,0,,1,LGALS3
+protein phosphatase regulator activity,GO:0019888,Osteoarthritis,MESH:D010003,0,,1,PPP2R1A
+protein sequestering activity,GO:0140311,Osteoarthritis,MESH:D010003,0,,1,SDCBP
+protein sequestering activity,GO:0140311,"Osteoarthritis, Hip",MESH:D015207,0,,1,SMO
+protein serine/threonine kinase activator activity,GO:0043539,Osteoarthritis,MESH:D010003,0,,3,BMP4|DDX3X|TGFB1
+protein serine/threonine kinase activity,GO:0004674,Osteoarthritis,MESH:D010003,0,,1,NME2
+protein serine/threonine phosphatase activity,GO:0004722,Osteoarthritis,MESH:D010003,0,,1,PPP2R1A
+protein serine/threonine phosphatase activity,GO:0004722,"Osteoarthritis, Spine",MESH:D055013,0,,1,DUSP1
+protein tyrosine kinase binding,GO:1990782,Osteoarthritis,MESH:D010003,0,,1,VIM
+protein tyrosine phosphatase activity,GO:0004725,"Osteoarthritis, Spine",MESH:D055013,0,,1,DUSP1
+"protein tyrosine phosphatase activity, metal-dependent",GO:0030946,"Osteoarthritis, Spine",MESH:D055013,0,,1,DUSP1
+protein tyrosine/serine/threonine phosphatase activity,GO:0008138,Osteoarthritis,MESH:D010003,0,,1,ATP6V1B2
+protein tyrosine/serine/threonine phosphatase activity,GO:0008138,"Osteoarthritis, Spine",MESH:D055013,0,,1,DUSP1
+protein tyrosine/threonine phosphatase activity,GO:0008330,"Osteoarthritis, Spine",MESH:D055013,0,,1,DUSP1
+proteoglycan binding,GO:0043394,Osteoarthritis,MESH:D010003,0,,3,COL2A1|COMP|CTSK
+proteoglycan binding,GO:0043394,"Osteoarthritis, Hip",MESH:D015207,0,,1,COMP
+proteoglycan binding,GO:0043394,Osteoarthritis with Mild Chondrodysplasia,MESH:C565740,0,,1,COL2A1
+proton transmembrane transporter activity,GO:0015078,Osteoarthritis,MESH:D010003,0,,1,ATP6V1B2
+"proton-transporting ATPase activity, rotational mechanism",GO:0046961,Osteoarthritis,MESH:D010003,2,Curcumin|Resveratrol,1,ATP6V1B2
+"proton-transporting ATPase activity, rotational mechanism",GO:0046961,"Osteoarthritis, Knee",MESH:D020370,1,Resveratrol,0,
+P-type calcium transporter activity,GO:0005388,Osteoarthritis,MESH:D010003,2,Curcumin|Lipopolysaccharides,0,
+P-type calcium transporter activity,GO:0005388,"Osteoarthritis, Knee",MESH:D020370,1,Lipopolysaccharides,0,
+P-type potassium transmembrane transporter activity,GO:0008556,Osteoarthritis,MESH:D010003,0,,1,ATP1A3
+P-type sodium:potassium-exchanging transporter activity,GO:0005391,Osteoarthritis,MESH:D010003,7,Curcumin|Dietary Fats|Dinoprostone|Ethanol|Indomethacin|Lipopolysaccharides|Resveratrol,1,ATP1A3
+P-type sodium:potassium-exchanging transporter activity,GO:0005391,"Osteoarthritis, Hip",MESH:D015207,1,Indomethacin,0,
+P-type sodium:potassium-exchanging transporter activity,GO:0005391,"Osteoarthritis, Knee",MESH:D020370,2,Lipopolysaccharides|Resveratrol,0,
+P-type sodium:potassium-exchanging transporter activity involved in regulation of cardiac muscle cell membrane potential,GO:0086037,Osteoarthritis,MESH:D010003,0,,1,ATP1A3
+pyruvate dehydrogenase (acetyl-transferring) activity,GO:0004739,Osteoarthritis,MESH:D010003,1,Dietary Fats,1,PDHA1
+pyruvate dehydrogenase activity,GO:0004738,Osteoarthritis,MESH:D010003,1,Dietary Fats,1,PDHA1
+pyruvate dehydrogenase (NAD+) activity,GO:0034604,Osteoarthritis,MESH:D010003,0,,1,PDHA1
+RAGE receptor binding,GO:0050786,Osteoarthritis,MESH:D010003,0,,1,S100A4
+receptor ligand activity,GO:0048018,Osteoarthritis,MESH:D010003,0,,2,CLU|IL1B
+receptor ligand activity,GO:0048018,"Osteoarthritis, Spine",MESH:D055013,0,,1,TNF
+receptor tyrosine kinase binding,GO:0030971,Osteoarthritis,MESH:D010003,0,,1,DAPP1
+retinal binding,GO:0016918,Osteoarthritis,MESH:D010003,0,,1,ALDH1A2
+retinal dehydrogenase activity,GO:0001758,Osteoarthritis,MESH:D010003,0,,1,ALDH1A2
+ribonucleoside triphosphate phosphatase activity,GO:0017111,Osteoarthritis,MESH:D010003,0,,1,DDX3X
+ribosomal small subunit binding,GO:0043024,Osteoarthritis,MESH:D010003,0,,1,DDX3X
+ribosome binding,GO:0043022,Osteoarthritis,MESH:D010003,0,,2,CLU|EEF2
+RISC complex binding,GO:1905172,Osteoarthritis,MESH:D010003,0,,1,RAN
+RNA binding,GO:0003723,Osteoarthritis,MESH:D010003,0,,7,ACO1|AGER|DDX3X|EEF2|ENO1|TRAP1|VIM
+RNA binding,GO:0003723,"Osteoarthritis, Hip",MESH:D015207,0,,1,MAPT
+RNA helicase activity,GO:0003724,Osteoarthritis,MESH:D010003,0,,1,DDX3X
+RNA polymerase II cis-regulatory region sequence-specific DNA binding,GO:0000978,Osteoarthritis,MESH:D010003,0,,4,POU3F3|PPARG|RUNX2|SMAD3
+RNA polymerase II cis-regulatory region sequence-specific DNA binding,GO:0000978,"Osteoarthritis, Hip",MESH:D015207,0,,2,RUNX2|SMAD3
+RNA polymerase II core promoter sequence-specific DNA binding,GO:0000979,Osteoarthritis,MESH:D010003,0,,1,PPARG
+RNA polymerase II-specific DNA-binding transcription factor binding,GO:0061629,Osteoarthritis,MESH:D010003,0,,1,SMAD3
+RNA polymerase II-specific DNA-binding transcription factor binding,GO:0061629,"Osteoarthritis, Hip",MESH:D015207,0,,2,HDAC9|SMAD3
+RNA polymerase II-specific DNA-binding transcription factor binding,GO:0061629,"Osteoarthritis, Knee",MESH:D020370,0,,1,WWP2
+RNA polymerase II transcription regulatory region sequence-specific DNA binding,GO:0000977,Osteoarthritis,MESH:D010003,0,,3,ENO1|PPARG|SMAD3
+RNA polymerase II transcription regulatory region sequence-specific DNA binding,GO:0000977,"Osteoarthritis, Hip",MESH:D015207,0,,2,LMX1B|SMAD3
+RNA stem-loop binding,GO:0035613,Osteoarthritis,MESH:D010003,0,,1,DDX3X
+RNA strand annealing activity,GO:0033592,Osteoarthritis,MESH:D010003,0,,1,DDX3X
+R-SMAD binding,GO:0070412,Osteoarthritis,MESH:D010003,0,,2,PPARG|SMAD3
+R-SMAD binding,GO:0070412,"Osteoarthritis, Hip",MESH:D015207,0,,1,SMAD3
+S100 protein binding,GO:0044548,Osteoarthritis,MESH:D010003,0,,2,AGER|EZR
+scaffold protein binding,GO:0097110,Osteoarthritis,MESH:D010003,0,,1,VIM
+scavenger receptor activity,GO:0005044,Osteoarthritis,MESH:D010003,0,,1,AGER
+selenate reductase activity,GO:0033797,Osteoarthritis,MESH:D010003,0,,1,TXNRD1
+semaphorin receptor activity,GO:0017154,Osteoarthritis,MESH:D010003,0,,1,TXNRD1
+sequence-specific DNA binding,GO:0043565,Osteoarthritis,MESH:D010003,0,,3,POU3F3|PPARG|SMAD3
+sequence-specific DNA binding,GO:0043565,"Osteoarthritis, Hip",MESH:D015207,0,,2,MAPT|SMAD3
+sequence-specific double-stranded DNA binding,GO:1990837,Osteoarthritis,MESH:D010003,0,,1,RUNX2
+sequence-specific double-stranded DNA binding,GO:1990837,"Osteoarthritis, Hip",MESH:D015207,0,,2,LMX1B|RUNX2
+serine-type endopeptidase activity,GO:0004252,Osteoarthritis,MESH:D010003,0,,1,CTSK
+serine-type endopeptidase activity,GO:0004252,"Osteoarthritis, Hip",MESH:D015207,0,,1,SMO
+serine-type endopeptidase inhibitor activity,GO:0004867,Osteoarthritis,MESH:D010003,0,,2,COL2A1|TFPI2
+serine-type endopeptidase inhibitor activity,GO:0004867,"Osteoarthritis, Hip",MESH:D015207,0,,2,COL11A1|ITIH1
+serine-type endopeptidase inhibitor activity,GO:0004867,Osteoarthritis with Mild Chondrodysplasia,MESH:C565740,0,,1,COL2A1
+S-formylglutathione hydrolase activity,GO:0018738,Osteoarthritis,MESH:D010003,0,,1,ESD
+SH2 domain binding,GO:0042169,Osteoarthritis,MESH:D010003,0,,1,TRPV4
+SH3 domain binding,GO:0017124,Osteoarthritis,MESH:D010003,0,,1,PDCD6IP
+SH3 domain binding,GO:0017124,"Osteoarthritis, Hip",MESH:D015207,0,,1,MAPT
+signaling adaptor activity,GO:0035591,Osteoarthritis,MESH:D010003,0,,2,DAPP1|DDX3X
+signaling receptor activity,GO:0038023,Osteoarthritis,MESH:D010003,0,,2,AGER|EDIL3
+signaling receptor activity,GO:0038023,SHORT STATURE AND ADVANCED BONE AGE WITH OR WITHOUT EARLY-ONSET OSTEOARTHRITIS AND/OR OSTEOCHONDRITIS DISSECANS,OMIM:165800,0,,1,ACAN
+signaling receptor binding,GO:0005102,Osteoarthritis,MESH:D010003,0,,5,CALCA|CLU|GDF5|MSN|TNFSF15
+signaling receptor binding,GO:0005102,"Osteoarthritis, Hip",MESH:D015207,0,,1,HFE
+signaling receptor binding,GO:0005102,"Osteoarthritis, Knee",MESH:D020370,0,,2,GDF5|LTBP1
+signaling receptor binding,GO:0005102,"Osteoarthritis, Spine",MESH:D055013,0,,1,IL6
+signaling receptor complex adaptor activity,GO:0030159,Osteoarthritis,MESH:D010003,0,,1,P3H3
+signaling receptor inhibitor activity,GO:0030547,Osteoarthritis,MESH:D010003,0,,1,LGALS3
+single-stranded DNA binding,GO:0003697,"Osteoarthritis, Hip",MESH:D015207,0,,1,MAPT
+SMAD binding,GO:0046332,Osteoarthritis,MESH:D010003,0,,1,COL1A2
+sodium channel activity,GO:0005272,Osteoarthritis,MESH:D010003,1,Resveratrol,0,
+sodium channel activity,GO:0005272,"Osteoarthritis, Knee",MESH:D020370,1,Resveratrol,0,
+starch synthase activity,GO:0009011,Osteoarthritis,MESH:D010003,2,Dietary Fats|Nicotine,0,
+STAT family protein binding,GO:0097677,Osteoarthritis,MESH:D010003,0,,1,PPARG
+steroid binding,GO:0005496,Osteoarthritis,MESH:D010003,0,,1,AKR1C2
+steroid binding,GO:0005496,"Osteoarthritis, Knee",MESH:D020370,0,,1,LTBP1
+steroid dehydrogenase activity,GO:0016229,Osteoarthritis,MESH:D010003,0,,1,AKR1C1
+"steroid dehydrogenase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor",GO:0033764,Osteoarthritis,MESH:D010003,0,,2,AKR1C1|AKR1C2
+steroid hormone binding,GO:1990239,Osteoarthritis,MESH:D010003,0,,1,ATP1A3
+sterol response element binding,GO:0032810,Osteoarthritis,MESH:D010003,0,,1,SMAD3
+sterol response element binding,GO:0032810,"Osteoarthritis, Hip",MESH:D015207,0,,1,SMAD3
+"stretch-activated, monoatomic cation-selective, calcium channel activity",GO:0015275,Osteoarthritis,MESH:D010003,0,,1,TRPV4
+structural constituent of cytoskeleton,GO:0005200,Osteoarthritis,MESH:D010003,0,,3,ACTB|MSN|VIM
+structural constituent of eye lens,GO:0005212,Osteoarthritis,MESH:D010003,0,,1,VIM
+structural constituent of postsynaptic actin cytoskeleton,GO:0098973,Osteoarthritis,MESH:D010003,0,,1,ACTB
+structural constituent of presynaptic actin cytoskeleton,GO:0098699,Osteoarthritis,MESH:D010003,0,,1,PLS3
+structural molecule activity,GO:0005198,Osteoarthritis,MESH:D010003,0,,2,EZR|VIM
+succinate dehydrogenase activity,GO:0000104,Osteoarthritis,MESH:D010003,4,Celecoxib|Curcumin|Dietary Fats|Lipopolysaccharides,1,SDHA
+succinate dehydrogenase activity,GO:0000104,"Osteoarthritis, Knee",MESH:D020370,1,Lipopolysaccharides,0,
+succinate dehydrogenase (ubiquinone) activity,GO:0008177,Osteoarthritis,MESH:D010003,6,Acetaminophen|Aspirin|Curcumin|Dietary Fats|Ethanol|Lithium Chloride,1,SDHA
+superoxide dismutase activity,GO:0004784,Osteoarthritis,MESH:D010003,23,Acetaminophen|Aspartame|Aspirin|astaxanthine|Capsaicin|Celecoxib|Curcumin|diacerein|Diclofenac|Dietary Fats|Ethanol|ferrostatin-1|fisetin|Ibuprofen|Indomethacin|Iron|Lipopolysaccharides|Lithium Chloride|Meloxicam|morroniside|Nicotine|oxymatrine|Resveratrol,1,SOD2
+superoxide dismutase activity,GO:0004784,"Osteoarthritis, Hip",MESH:D015207,2,Ibuprofen|Indomethacin,1,COL11A1
+superoxide dismutase activity,GO:0004784,"Osteoarthritis, Knee",MESH:D020370,3,argan oil|Lipopolysaccharides|Resveratrol,0,
+superoxide-generating NADPH oxidase activity,GO:0106292,Osteoarthritis,MESH:D010003,1,Curcumin,0,
+superoxide-generating NADPH oxidase activity,GO:0106292,"Osteoarthritis, Knee",MESH:D020370,1,argan oil,0,
+syndecan binding,GO:0045545,Osteoarthritis,MESH:D010003,0,,1,SDCBP
+syndecan binding,GO:0045545,"Osteoarthritis, Hip",MESH:D015207,0,,1,TNC
+Tat protein binding,GO:0030957,Osteoarthritis,MESH:D010003,0,,1,ACTB
+tau protein binding,GO:0048156,Osteoarthritis,MESH:D010003,0,,2,ACTB|CLU
+testosterone 17-beta-dehydrogenase (NADP+) activity,GO:0047045,Osteoarthritis,MESH:D010003,0,,1,AKR1C1
+thioredoxin-disulfide reductase activity,GO:0004791,Osteoarthritis,MESH:D010003,2,Curcumin|Iron,1,TXNRD1
+"trans-1,2-dihydrobenzene-1,2-diol dehydrogenase activity",GO:0047115,Osteoarthritis,MESH:D010003,0,,2,AKR1C1|AKR1C2
+transaminase activity,GO:0008483,Osteoarthritis,MESH:D010003,0,,1,TGM2
+transcription cis-regulatory region binding,GO:0000976,Osteoarthritis,MESH:D010003,0,,3,PPARG|RUNX2|SMAD3
+transcription cis-regulatory region binding,GO:0000976,"Osteoarthritis, Hip",MESH:D015207,0,,2,RUNX2|SMAD3
+transcription cis-regulatory region binding,GO:0000976,"Osteoarthritis, Spine",MESH:D055013,0,,1,TNF
+transcription coactivator activity,GO:0003713,Osteoarthritis,MESH:D010003,0,,3,NME2|TRAP1|TXNRD1
+transcription coactivator activity,GO:0003713,"Osteoarthritis, Knee",MESH:D020370,0,,1,WWP2
+transcription coactivator binding,GO:0001223,Osteoarthritis,MESH:D010003,0,,2,PPARG|SMAD3
+transcription coactivator binding,GO:0001223,"Osteoarthritis, Hip",MESH:D015207,0,,1,SMAD3
+transcription coregulator binding,GO:0001221,Osteoarthritis,MESH:D010003,0,,1,PPARG
+transcription corepressor activity,GO:0003714,Osteoarthritis,MESH:D010003,0,,1,ENO1
+transcription corepressor activity,GO:0003714,"Osteoarthritis, Hip",MESH:D015207,0,,1,HDAC9
+transcription corepressor binding,GO:0001222,Osteoarthritis,MESH:D010003,0,,2,ENO1|SMAD3
+transcription corepressor binding,GO:0001222,"Osteoarthritis, Hip",MESH:D015207,0,,1,SMAD3
+transcription factor binding,GO:0008134,Osteoarthritis,MESH:D010003,0,,1,DDX3X
+transcription factor binding,GO:0008134,"Osteoarthritis, Knee",MESH:D020370,0,,1,WWP2
+transferase activity,GO:0016740,Osteoarthritis,MESH:D010003,0,,5,ACAA2|AK4|GAPDH|GSTK1|TRIM2
+transferase activity,GO:0016740,"Osteoarthritis, Knee",MESH:D020370,0,,1,WWP2
+transferase activity,GO:0016740,"Osteoarthritis, Spine",MESH:D055013,0,,1,SKP2
+transferrin receptor binding,GO:1990459,"Osteoarthritis, Hip",MESH:D015207,0,,1,HFE
+transforming growth factor beta binding,GO:0050431,Osteoarthritis,MESH:D010003,0,,1,LTBP3
+transforming growth factor beta binding,GO:0050431,"Osteoarthritis, Hip",MESH:D015207,0,,1,LTBP3
+transforming growth factor beta binding,GO:0050431,"Osteoarthritis, Knee",MESH:D020370,0,,1,LTBP1
+transforming growth factor beta receptor activity,GO:0005024,"Osteoarthritis, Knee",MESH:D020370,0,,1,LTBP1
+transforming growth factor beta receptor binding,GO:0005160,Osteoarthritis,MESH:D010003,0,,2,SMAD3|TGFB1
+transforming growth factor beta receptor binding,GO:0005160,"Osteoarthritis, Hip",MESH:D015207,0,,1,SMAD3
+transition metal ion binding,GO:0046914,Osteoarthritis,MESH:D010003,0,,1,S100A4
+translation elongation factor activity,GO:0003746,Osteoarthritis,MESH:D010003,0,,1,EEF2
+translation initiation factor binding,GO:0031369,Osteoarthritis,MESH:D010003,0,,1,DDX3X
+translation repressor activity,GO:0030371,Osteoarthritis,MESH:D010003,0,,1,TRIM2
+transmembrane signaling receptor activity,GO:0004888,Osteoarthritis,MESH:D010003,0,,1,AGER
+transmembrane signaling receptor activity,GO:0004888,"Osteoarthritis, Hip",MESH:D015207,0,,3,CHADL|CRHR1|SMO
+transmembrane signaling receptor activity,GO:0004888,SHORT STATURE AND ADVANCED BONE AGE WITH OR WITHOUT EARLY-ONSET OSTEOARTHRITIS AND/OR OSTEOCHONDRITIS DISSECANS,OMIM:165800,0,,1,ACAN
+transmembrane transporter activity,GO:0022857,Osteoarthritis,MESH:D010003,0,,2,CLU|SLC2A1
+transmembrane transporter binding,GO:0044325,Osteoarthritis,MESH:D010003,0,,1,YWHAQ
+triglyceride lipase activity,GO:0004806,Osteoarthritis,MESH:D010003,1,Dietary Fats,0,
+tRNA-intron endonuclease activity,GO:0000213,Osteoarthritis,MESH:D010003,0,,1,PPARG
+tumor necrosis factor receptor binding,GO:0005164,Osteoarthritis,MESH:D010003,0,,2,TNFSF15|TRAP1
+tumor necrosis factor receptor binding,GO:0005164,"Osteoarthritis, Spine",MESH:D055013,0,,1,TNF
+type 1 fibroblast growth factor receptor binding,GO:0005105,Osteoarthritis,MESH:D010003,0,,1,FGF18
+type 2 fibroblast growth factor receptor binding,GO:0005111,Osteoarthritis,MESH:D010003,0,,1,FGF18
+type III transforming growth factor beta receptor binding,GO:0034714,Osteoarthritis,MESH:D010003,0,,1,TGFB1
+type II transforming growth factor beta receptor binding,GO:0005114,Osteoarthritis,MESH:D010003,0,,1,TGFB1
+type I transforming growth factor beta receptor binding,GO:0034713,Osteoarthritis,MESH:D010003,0,,1,TGFB1
+ubiquinol-cytochrome-c reductase activity,GO:0008121,Osteoarthritis,MESH:D010003,2,Acetaminophen|Curcumin,0,
+ubiquitin binding,GO:0043130,Osteoarthritis,MESH:D010003,0,,1,SMAD3
+ubiquitin binding,GO:0043130,"Osteoarthritis, Hip",MESH:D015207,0,,1,SMAD3
+ubiquitin ligase-substrate adaptor activity,GO:1990756,"Osteoarthritis, Spine",MESH:D055013,0,,1,SKP2
+ubiquitin protein ligase activity,GO:0061630,Osteoarthritis,MESH:D010003,0,,2,DAPP1|TRIM2
+ubiquitin protein ligase activity,GO:0061630,"Osteoarthritis, Knee",MESH:D020370,0,,1,WWP2
+ubiquitin protein ligase binding,GO:0031625,Osteoarthritis,MESH:D010003,0,,2,CLU|SMAD3
+ubiquitin protein ligase binding,GO:0031625,"Osteoarthritis, Hip",MESH:D015207,0,,1,SMAD3
+ubiquitin-protein transferase activity,GO:0004842,Osteoarthritis,MESH:D010003,0,,1,TRIM2
+ubiquitin-protein transferase activity,GO:0004842,"Osteoarthritis, Knee",MESH:D020370,0,,1,WWP2
+unfolded protein binding,GO:0051082,Osteoarthritis,MESH:D010003,0,,2,CLU|TRAP1
+vitamin D binding,GO:0005499,Osteoarthritis,MESH:D010003,0,,1,COMP
+vitamin D binding,GO:0005499,"Osteoarthritis, Hip",MESH:D015207,0,,1,COMP
+voltage-gated channel activity,GO:0022832,"Osteoarthritis, Knee",MESH:D020370,1,Adenosine Triphosphate,0,
+voltage-gated chloride channel activity,GO:0005247,Osteoarthritis,MESH:D010003,0,,1,CLIC1
+voltage-gated chloride channel activity,GO:0005247,"Osteoarthritis, Knee",MESH:D020370,1,Adenosine Triphosphate,0,
+voltage-gated monoatomic anion channel activity,GO:0008308,Osteoarthritis,MESH:D010003,0,,1,VDAC2
+voltage-gated monoatomic ion channel activity,GO:0005244,Osteoarthritis,MESH:D010003,0,,1,VDAC2
+Wnt-protein binding,GO:0017147,Osteoarthritis,MESH:D010003,0,,1,FRZB
+Wnt receptor activity,GO:0042813,Osteoarthritis,MESH:D010003,0,,1,FRZB
+WW domain binding,GO:0050699,Osteoarthritis,MESH:D010003,0,,1,PPARG
+xanthine oxidase activity,GO:0004855,Osteoarthritis,MESH:D010003,1,Diclofenac,0,
+xenobiotic transmembrane transporter activity,GO:0042910,Osteoarthritis,MESH:D010003,0,,1,SLC2A1
+zinc ion binding,GO:0008270,Osteoarthritis,MESH:D010003,0,,9,AK4|CLIC1|CLU|DPEP1|OPA1|PPARG|SEC23A|SMAD3|TRIM2
+zinc ion binding,GO:0008270,"Osteoarthritis, Hip",MESH:D015207,0,,1,SMAD3

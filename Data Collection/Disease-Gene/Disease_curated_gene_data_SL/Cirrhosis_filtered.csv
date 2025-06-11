@@ -1,0 +1,1056 @@
+GeneSymbol,GeneID,DiseaseName,DiseaseID,DirectEvidence,OmimIDs,PubMedIDs
+A2M,2,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+AADAC,13,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+AADAT,51166,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+ABAT,18,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+ABCA8A,217258,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+ABCB1,5243,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,17072980
+ABCB1A,18671,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,16182555
+ABCB4,5244,Liver Cirrhosis,MESH:D008103,marker/mechanism,,18221819|8698195
+ABCB4,5244,"Liver Cirrhosis, Biliary",MESH:D008105,marker/mechanism,,20040336|30682444
+ABCC2,1244,"Liver Cirrhosis, Biliary",MESH:D008105,marker/mechanism,,15542527
+ABCC2,1244,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+ABCC5,10057,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+ABCG1,9619,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+ABCG2,9429,"Liver Cirrhosis, Biliary",MESH:D008105,marker/mechanism,,15542527
+ABCG5,64240,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+ABCG8,64241,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+ABLIM3,22885,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+ACAT1,38,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+ACBD4,79777,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+ACHE,43,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,16496349
+ACKR3,57007,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+ACOT9,23597,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+ACOX2,8309,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+ACP5,54,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+ACSL1,2180,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+ACTA2,59,Copper-Overload Cirrhosis,MESH:C566858,marker/mechanism,,22879914
+ACTA2,59,Liver Cirrhosis,MESH:D008103,marker/mechanism,,24239723|24321339|30097701|32659284
+ACTA2,59,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,26435214|26739621
+ACTN1,87,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+ADA,100,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+ADAM17,6868,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+ADD3,120,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+ADGRE1,2015,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+ADH1,11522,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+ADH4,127,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,17072980
+ADHFE1,137872,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+ADIPOQ,9370,"Liver Cirrhosis, Experimental",MESH:D008106,therapeutic,,14724832
+ADM,133,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,15370692|16610064
+ADORA2A,135,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,16783407
+ADORA3,140,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+ADRA1A,148,Liver Cirrhosis,MESH:D008103,marker/mechanism,,16782692
+ADRA1B,147,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+AEN,64782,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+AFM,173,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+AFP,174,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,17072980
+AGFG1,3267,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+AGL,178,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+AGT,183,Liver Cirrhosis,MESH:D008103,marker/mechanism,,15613622
+AGT,183,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,12667390
+AGTR1A,11607,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,12890498|25380136
+AHNAK,79026,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+AHR,196,Liver Cirrhosis,MESH:D008103,marker/mechanism,,29416063
+AIDA,64853,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+AIF1,199,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+AKR1B1,231,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+AKR1C1,1645,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+AKR1C19,432720,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+AKR1C3,8644,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+AKR1C3L1,498789,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,17072980|25380136
+AKTIP,64400,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+ALAD,210,Liver Cirrhosis,MESH:D008103,marker/mechanism,,25226513
+ALB,213,Liver Cirrhosis,MESH:D008103,marker/mechanism,,17977396|21851314
+ALB,213,"Liver Cirrhosis, Biliary",MESH:D008105,marker/mechanism,,30026087
+ALB,213,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,16642209|17963606|21163135
+ALDH1A1,216,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,17072980
+ALDH1A7,26358,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+ALDH1B1,219,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,15650968|25380136
+ALDH1L1,10840,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,15650968
+ALDH1L2,160428,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+ALDH2,217,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,15650968
+AMACR,23600,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,17072980|25380136
+ANGPTL3,27329,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+ANKS6,203286,Liver Cirrhosis,MESH:D008103,marker/mechanism,,23793029
+ANO6,196527,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+ANXA1,301,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+ANXA2,302,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+ANXA3,306,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+ANXA4,307,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+ANXA5,308,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+AP1S2,8905,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+AP3S1,1176,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+APAF1,317,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+APBB1IP,54518,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+APMAP,57136,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+APOA4,337,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+APOBEC1,339,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+APOL9A,223672,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+APON,28194,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+APP,351,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+APPL1,26060,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+AQP7,364,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,17072980|25380136
+ARHGAP30,257106,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+ARHGAP9,64333,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+ARHGDIB,397,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+ARL11,115761,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+ARL8A,127829,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+ARMCX1,51309,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+ARNT,405,Liver Cirrhosis,MESH:D008103,marker/mechanism,,22271822
+ARPC1B,10095,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+ARRB1,408,Liver Cirrhosis,MESH:D008103,marker/mechanism,,26396155
+ARRB2,409,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+ASAH1,427,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+ASNS,440,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+ASPN,54829,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+ATF3,467,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+ATG5,9474,Liver Cirrhosis,MESH:D008103,marker/mechanism,,33549628
+ATM,472,Liver Cirrhosis,MESH:D008103,marker/mechanism,,36526012
+ATP10D,57205,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+ATP6V1D,51382,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+ATP7B,540,Liver Cirrhosis,MESH:D008103,marker/mechanism,,25134866
+ATRN,8455,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+AXL,558,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+B4GALT5,9334,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+B9D1,27077,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+BAMBI,25805,Liver Cirrhosis,MESH:D008103,marker/mechanism,,30097701
+BBOX1,8424,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+BCL2,596,"Liver Cirrhosis, Alcoholic",MESH:D008104,marker/mechanism,,23274713
+BCL2A1D,12047,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+BCR,613,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+BDH1,622,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,17072980|25380136
+BGN,633,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+BICD2,23299,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+BIRC3,330,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+BLOC1S2,282991,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+BLVRA,644,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+BMF,90427,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+BMP7,655,"Liver Cirrhosis, Experimental",MESH:D008106,therapeutic,,17127702
+C11H3ORF70,498107,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+C13H1ORF21,289084,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+C1QA,712,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+C1QB,713,Liver Cirrhosis,MESH:D008103,marker/mechanism,,26396155
+C1QB,713,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+C1QC,714,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+C5AR1,728,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+C5H1ORF210,362576,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+C7,730,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+C8G,733,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+C8H11ORF54,363016,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+CA3,761,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,17072980
+CAMK2D,817,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+CAPG,822,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+CAR3,12350,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+CAR5A,12352,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+CASP1,834,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+CASP12,100506742,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+CASP3,836,Copper-Overload Cirrhosis,MESH:C566858,marker/mechanism,,22879914
+CASP4,837,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+CASP7,840,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+CAT,847,"Liver Cirrhosis, Alcoholic",MESH:D008104,marker/mechanism,,23274713
+CAV1,857,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+CCDC126,90693,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+CCL2,6347,Liver Cirrhosis,MESH:D008103,marker/mechanism,,20697377
+CCL2,6347,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,15492853
+CCL5,6352,"Liver Cirrhosis, Biliary",MESH:D008105,marker/mechanism,,12126966
+CCL5,6352,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+CCL6,20305,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+CCN2,1490,Liver Cirrhosis,MESH:D008103,marker/mechanism,,16652398|17657819|26396155
+CCN2,1490,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+CCNA2,890,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+CCNB2,9133,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+CCNG1,900,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+CD14,929,Liver Cirrhosis,MESH:D008103,marker/mechanism,,20353583
+CD163,9332,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+CD200R1,131450,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+CD200R2,271375,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+CD24,100133941,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+CD276,80381,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+CD36,948,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+CD38,952,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+CD3D,915,"Liver Cirrhosis, Biliary",MESH:D008105,marker/mechanism,,18422935
+CD48,962,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+CD53,963,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+CD5L,922,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+CD63,967,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+CD68,968,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+CD7,924,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+CD74,972,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+CD80,941,"Liver Cirrhosis, Biliary",MESH:D008105,marker/mechanism,,21399635
+CD83,9308,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+CD86,942,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+CD9,928,Liver Cirrhosis,MESH:D008103,marker/mechanism,,26396155
+CDC42SE1,56882,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+CDH1,999,Liver Cirrhosis,MESH:D008103,marker/mechanism,,32659284
+CDH5,1003,"Liver Cirrhosis, Biliary",MESH:D008105,marker/mechanism,,18422935
+CDH5,1003,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+CDK1,983,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+CDKN1A,1026,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+CDKN2AIPNL,91368,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+CDKN3,1033,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+CDO1,1036,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,17072980
+CEBPD,1052,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+CELA1,1990,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,17072980|25380136
+CELF2,10659,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+CEMIP2,23670,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+CERK,64781,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+CES2,8824,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,17072980
+CES3,23491,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,17072980
+CFD,1675,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+CFP,5199,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+CHRM3,1131,Liver Cirrhosis,MESH:D008103,marker/mechanism,,20197374
+CHSY1,22856,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+CIDEA,1149,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+CKLF,51192,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+CLEC16A,23274,"Liver Cirrhosis, Biliary",MESH:D008105,marker/mechanism,,21399635
+CLEC4A,50856,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+CLEC4A1,269799,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+CLEC4A3,73149,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+CLEC4F,165530,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+CLIC1,1192,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+CLIC2,1193,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+CLP1,10978,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+CMTM3,123920,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+CNDP1,84735,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+CNP,1267,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+CNPY4,245812,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+CNR1,1268,Liver Cirrhosis,MESH:D008103,marker/mechanism,,11433348|21863215
+CNR1,1268,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,17043671
+CNR2,1269,Liver Cirrhosis,MESH:D008103,marker/mechanism,,15765409
+COL12A1,1303,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+COL1A1,1277,Liver Cirrhosis,MESH:D008103,marker/mechanism,,21863215|24239723|24321339|26396155|32659284
+COL1A1,1277,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136|26435214|26739621
+COL1A2,1278,Liver Cirrhosis,MESH:D008103,marker/mechanism,,26396155
+COL1A2,1278,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+COL3A1,1281,Liver Cirrhosis,MESH:D008103,marker/mechanism,,11167689|15787813|16679477|1880254|2566230
+COL3A1,1281,"Liver Cirrhosis, Alcoholic",MESH:D008104,marker/mechanism,,23274713
+COL3A1,1281,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,11788567|25380136
+COL4A1,1282,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+COL4A2,1284,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+COL5A1,1289,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+COL5A2,1290,Liver Cirrhosis,MESH:D008103,marker/mechanism,,26396155
+COL5A2,1290,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+COL6A1,1291,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+COL6A2,1292,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+COLEC12,81035,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+COMMD1,150684,Copper-Overload Cirrhosis,MESH:C566858,marker/mechanism,,22879914
+COMMD1,150684,Liver Cirrhosis,MESH:D008103,marker/mechanism,,17919502
+COQ10A,93058,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+COTL1,23406,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+CP,1356,Liver Cirrhosis,MESH:D008103,marker/mechanism,,25226513|26396155
+CPQ,10404,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+CPS1,1373,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,15650968
+CRIP,44892,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+CROT,54677,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+CRTAP,10491,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+CRY1,1407,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+CRYAB,1410,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+CSAD,51380,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,17072980
+CSF1R,1436,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+CSF3,1440,"Liver Cirrhosis, Experimental",MESH:D008106,therapeutic,,15661404
+CSGALNACT1,55790,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+CTLA2A,13024,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+CTNNB1,1499,Liver Cirrhosis,MESH:D008103,marker/mechanism,,21047994
+CTSE,1510,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+CTSS,1520,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+CTSZ,1522,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+CTTNBP2NL,55917,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+CXADR,1525,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+CXCL1,2919,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+CXCL10,3627,"Liver Cirrhosis, Biliary",MESH:D008105,marker/mechanism,,18422935
+CXCL10,3627,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+CXCL12,6387,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+CXCL13,10563,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+CXCL14,9547,Liver Cirrhosis,MESH:D008103,marker/mechanism,,33069761
+CXCL15,20309,Liver Cirrhosis,MESH:D008103,therapeutic,,15763341
+CXCL16,58191,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+CXCL9,4283,"Liver Cirrhosis, Biliary",MESH:D008105,marker/mechanism,,18422935
+CXCL9,4283,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+CXCR5,643,"Liver Cirrhosis, Biliary",MESH:D008105,marker/mechanism,,21399635
+CYBA,1535,Liver Cirrhosis,MESH:D008103,marker/mechanism,,25226513
+CYBA,1535,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+CYBB,1536,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+CYGB,114757,"Liver Cirrhosis, Biliary",MESH:D008105,marker/mechanism,,30026087
+CYGB,114757,"Liver Cirrhosis, Experimental",MESH:D008106,therapeutic,,16581302
+CYP17A1,1586,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,17072980
+CYP1A2,1544,Liver Cirrhosis,MESH:D008103,marker/mechanism,,27565560
+CYP1A2,1544,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,17072980
+CYP26A1,1592,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+CYP27A1,1593,Liver Cirrhosis,MESH:D008103,marker/mechanism,,24381012
+CYP2A2,24895,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+CYP2C,100328933,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,17072980
+CYP2C11,29277,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+CYP2D4,171522,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+CYP2E1,1571,"Liver Cirrhosis, Alcoholic",MESH:D008104,marker/mechanism,,20843640
+CYP2R1,120227,Liver Cirrhosis,MESH:D008103,marker/mechanism,,24381012
+CYP2T1,171380,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+CYP3A11,13112,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,17072980
+CYP3A13,13113,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,17072980
+CYP3A9,171352,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+CYP4A11,1579,Liver Cirrhosis,MESH:D008103,marker/mechanism,,36368619
+CYRIA,81553,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+CYRIB,51571,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+CYSTM1,84418,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+DAO,1610,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+DBNDD2,55861,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+DCXR,51181,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+DDC,1644,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+DENND1B,163486,"Liver Cirrhosis, Biliary",MESH:D008105,marker/mechanism,,21399635
+DEPDC7,91614,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+DHCR7,1717,Liver Cirrhosis,MESH:D008103,marker/mechanism,,24381012
+DHRS3,9249,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+DHRS7,51635,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+DHTKD1,55526,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+DIO1,1733,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,17072980|25380136
+DIPK2A,205428,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+DOCK10,55619,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+DOCK7,85440,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+DPP7,29952,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+DPYS,1807,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+DRAM1,55332,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+DUS1L,64118,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+DUSP16,80824,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+DUSP6,1848,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+DYSF,8291,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+ECT2,1894,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+EDN1,1906,"Liver Cirrhosis, Experimental",MESH:D008106,therapeutic,,12609069
+EEIG2,284611,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+EGF,1950,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+EIF4E3,317649,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+ELOVL5,60481,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+EMB,133418,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+EMP1,2012,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+ENC1,8507,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+ENPEP,2028,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+ENPP2,5168,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,17072980
+ENTPD2,954,"Liver Cirrhosis, Biliary",MESH:D008105,marker/mechanism,,15651265
+EPB41L2,2037,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+EPCAM,4072,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+ERAP1,51752,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+ERN1,2081,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,30538632
+ES2,109579,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,17072980
+EXTL1,2134,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+EZR,7430,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+F2,2147,Liver Cirrhosis,MESH:D008103,marker/mechanism,,10216089
+F2R,2149,Liver Cirrhosis,MESH:D008103,marker/mechanism,,21037076
+F2R,2149,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+F3,2152,Liver Cirrhosis,MESH:D008103,marker/mechanism,,10216089
+F5,2153,Liver Cirrhosis,MESH:D008103,marker/mechanism,,18485088
+FABP2,2169,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+FABP7,2173,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,17072980|25380136
+FAHD1,81889,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+FAM167B,84734,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+FAM43A,131583,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+FAM89A,375061,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+FAS,355,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,30737368
+FAT1,2195,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+FBN1,2200,Liver Cirrhosis,MESH:D008103,marker/mechanism,,26396155
+FBN1,2200,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+FBXO9,26268,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+FCER1G,2207,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+FCGR1A,2209,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+FCGR3A,2214,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+FCN1,2219,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+FGF15,14170,Liver Cirrhosis,MESH:D008103,marker/mechanism,,28673684
+FGF2,2247,Liver Cirrhosis,MESH:D008103,therapeutic,,17093919
+FGF2,2247,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,16116963
+FGF7,2252,Liver Cirrhosis,MESH:D008103,marker/mechanism,,17692400
+FGFR2,2263,Liver Cirrhosis,MESH:D008103,marker/mechanism,,17692400
+FGL2,10875,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+FGR,2268,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+FHL1,2273,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+FHL2,2274,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+FKBP1A,2280,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+FLI1,2313,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+FLNA,2316,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+FLT1,2321,Liver Cirrhosis,MESH:D008103,marker/mechanism,,11981751
+FMNL1,752,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+FMNL2,114793,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+FMO1,2326,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,17072980|25380136
+FOCAD,54914,Liver Cirrhosis,MESH:D008103,marker/mechanism,,35864190
+FOLR2,2350,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+FOS,2353,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+FOXA2,3170,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+FOXO3,2309,Liver Cirrhosis,MESH:D008103,marker/mechanism,,33372984
+FRY,10129,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+FSTL1,11167,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+FTCD,10841,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+FXYD2,486,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+FXYD5,53827,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+FXYD6,53826,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+FYN,2534,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+FZD8,8325,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+G0S2,50486,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+G6PC1,2538,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+GALC,2581,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+GASK1B,51313,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+GBP2,2634,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+GBP4,115361,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+GC,2638,Liver Cirrhosis,MESH:D008103,marker/mechanism,,24381012
+GC,2638,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+GCAT,23464,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+GCHFR,2644,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+GCK,2645,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,17072980
+GCNT1,2650,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+GET1,7485,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+GFRA1,2674,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+GGH,8836,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+GGTA1,2681,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+GH1,2688,"Liver Cirrhosis, Experimental",MESH:D008106,therapeutic,,15334695
+GHR,2690,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,17072980|25380136
+GJA1,2697,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+GJA4,2701,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+GK,2710,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+GLIPR1,11010,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+GLS,2744,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+GLS2,27165,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+GLT8D1,55830,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+GMFG,9535,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+GNA14,9630,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+GNAI2,2771,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+GNGT2,2793,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+GNPDA1,10007,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+GOT1,2805,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,17072980
+GPAM,57678,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+GPNMB,10457,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+GPR137B-PS,664862,Liver Cirrhosis,MESH:D008103,marker/mechanism,,33069761
+GPR68,8111,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+GPT,2875,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,17072980
+GPX8,493869,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+GRN,2896,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+GSN,2934,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+GSTA2,2939,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,17072980
+GSTA3,2940,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+GSTM1,2944,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,15650968
+GSTP3,225884,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+GULO,268756,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,17072980
+GULP1,51454,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+GZMA,3001,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+HAGH,3029,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+HAL,3034,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+HAO1,54363,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+HAO2,51179,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,17072980|25380136
+HCK,3055,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+HDAC2,3066,Liver Cirrhosis,MESH:D008103,marker/mechanism,,27396813
+HELLS,3070,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+HEXIM1,10614,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+HGF,3082,Copper-Overload Cirrhosis,MESH:C566858,marker/mechanism,,22879914
+HGF,3082,Liver Cirrhosis,MESH:D008103,therapeutic,,17097021
+HGF,3082,"Liver Cirrhosis, Experimental",MESH:D008106,therapeutic,,10677585|12918455|15793283|16465399|16627068|17714472|18637143
+HIF1A,3091,Liver Cirrhosis,MESH:D008103,marker/mechanism,,36126797
+HIF1A,3091,"Liver Cirrhosis, Biliary",MESH:D008105,marker/mechanism,,22271822
+HIP1,3092,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+HJV,148738,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+HMGCR,3156,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+HMGN5B,120097335,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+HMOX1,3162,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism|therapeutic,,16025519|16610050|21163135|25380136
+HOPX,84525,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+HOXA3,3200,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+HPCAL1,3241,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+HPGDS,27306,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+HPSE,10855,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,15095483|18458672
+HSD11B2,3291,Liver Cirrhosis,MESH:D008103,marker/mechanism,,15199296
+HSD17B2,3294,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,17072980|25380136
+HSD17B6,8630,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,17072980
+HYKK,123688,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+ICAM2,3384,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+ICAM3,3385,"Liver Cirrhosis, Biliary",MESH:D008105,marker/mechanism,,18422935
+ID2,3398,"Liver Cirrhosis, Experimental",MESH:D008106,therapeutic,,17127702
+ID4,3400,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+IDO2,169355,Liver Cirrhosis,MESH:D008103,marker/mechanism,,32289347
+IFI204,15951,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+IFI27L2B,217845,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+IFI35,3430,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+IFITM1,8519,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+IFNA1,3439,Liver Cirrhosis,MESH:D008103,therapeutic,,18665156
+IFNA1,3439,"Liver Cirrhosis, Experimental",MESH:D008106,therapeutic,,12898905|14512876|16027843
+IFNA2,3440,"Liver Cirrhosis, Experimental",MESH:D008106,therapeutic,,12649538
+IFNG,3458,"Liver Cirrhosis, Experimental",MESH:D008106,therapeutic,,12389079|15996030|16953842|17347453
+IFNGR1,3459,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+IFRD1,3475,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+IGF1,3479,"Liver Cirrhosis, Experimental",MESH:D008106,therapeutic,,15591519|15745444
+IGF2BP3,10643,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+IGF2R,3482,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+IGFALS,3483,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+IGFBP1,3484,Liver Cirrhosis,MESH:D008103,marker/mechanism,,26396155
+IGFBP1,3484,"Liver Cirrhosis, Biliary",MESH:D008105,marker/mechanism,,18422935
+IGFBP1,3484,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,17072980|25380136
+IGFBP2,3485,Liver Cirrhosis,MESH:D008103,marker/mechanism,,26396155
+IGFBP2,3485,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,17072980|25380136
+IGFBP3,3486,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+IGFBP7,3490,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+IGSF6,10261,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+IKBKG,8517,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,30737368
+IL10,3586,"Liver Cirrhosis, Experimental",MESH:D008106,therapeutic,,12632514|15362042|16097045|16126171|16539848|16552806|16609999|16688825|18251166
+IL12A,3592,"Liver Cirrhosis, Biliary",MESH:D008105,marker/mechanism,,20639880
+IL12B,3593,"Liver Cirrhosis, Biliary",MESH:D008105,marker/mechanism,,20639880
+IL18,3606,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+IL18BP,10068,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+IL1B,3553,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,16085334
+IL2RB,3560,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+IL2RG,3561,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+IL33,90865,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+IL6,3569,Liver Cirrhosis,MESH:D008103,marker/mechanism,,12830005
+IL6,3569,"Liver Cirrhosis, Alcoholic",MESH:D008104,marker/mechanism,,23274713
+IL7R,3575,"Liver Cirrhosis, Biliary",MESH:D008105,marker/mechanism,,21399635
+IL7R,3575,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+ILK,3611,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,16941698
+INHBC,3626,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+INHBE,83729,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,17072980|25380136
+INMT,11185,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+INPP5D,3635,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+INPPL1,3636,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+INS,3630,"Liver Cirrhosis, Experimental",MESH:D008106,therapeutic,,26806094
+INSIG2,51141,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+IQGAP1,8826,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+IRF8,3394,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+ISG20,3669,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+ISYNA1,51477,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+ITGA2B,3674,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+ITGAL,3683,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+ITGB1,3688,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+ITGB2,3689,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+ITGB3,3690,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+ITGB6,3694,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,18221819
+IVD,3712,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+IYD,389434,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+JAK2,3717,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+JDP2,122953,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+JUND,3727,Liver Cirrhosis,MESH:D008103,marker/mechanism,,17133482
+KANK1,23189,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+KCNJ8,3764,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+KEAP1,9817,"Liver Cirrhosis, Biliary",MESH:D008105,marker/mechanism,,30026087
+KLF5,688,Liver Cirrhosis,MESH:D008103,marker/mechanism,,33549628
+KLF6,1316,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+KMO,8564,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+KNG1,3827,"Liver Cirrhosis, Experimental",MESH:D008106,therapeutic,,18054572
+KRT18,3875,"Cirrhosis, Familial",MESH:C566123,marker/mechanism,215600,
+KRT18,3875,Liver Cirrhosis,MESH:D008103,therapeutic,,20538000
+KRT18,3875,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,15999547|17072980|18395095|25380136
+KRT19,3880,Copper-Overload Cirrhosis,MESH:C566858,marker/mechanism,,22879914
+KRT19,3880,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+KRT7,3855,Copper-Overload Cirrhosis,MESH:C566858,marker/mechanism,,22879914
+KRT7,3855,"Liver Cirrhosis, Biliary",MESH:D008105,marker/mechanism,,21681009
+KRT8,3856,Liver Cirrhosis,MESH:D008103,therapeutic,,20538000
+KRT8,3856,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,17072980|25380136
+KTN1,3895,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+KYNU,8942,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+L3HYPDH,112849,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+LAMC2,3918,Liver Cirrhosis,MESH:D008103,marker/mechanism,,26396155
+LAPTM5,7805,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+LBH,81606,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+LBP,3929,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,17072980|25380136
+LCN2,3934,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,17072980|25380136
+LCP1,3936,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+LCP2,3937,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+LDHB,3945,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+LDLR,3949,Liver Cirrhosis,MESH:D008103,marker/mechanism,,36108984
+LEP,3952,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,12586293|16097051|29248466
+LGALS1,3956,Liver Cirrhosis,MESH:D008103,marker/mechanism,,26396155
+LGALS1,3956,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+LGALS2,3957,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+LGALS3,3958,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,16549783|25380136
+LGALS3BP,3959,Liver Cirrhosis,MESH:D008103,marker/mechanism,,26396155
+LGALSL,29094,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+LGMN,5641,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+LHFPL6,10186,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+LIMK2,3985,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+LIN7A,8825,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+LMO2,4005,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+LOX,4015,Liver Cirrhosis,MESH:D008103,marker/mechanism,,26396155
+LOX,4015,"Liver Cirrhosis, Biliary",MESH:D008105,marker/mechanism,,16023247
+LOX,4015,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+LOXL1,4016,Liver Cirrhosis,MESH:D008103,marker/mechanism,,30097701
+LOXL2,4017,"Liver Cirrhosis, Biliary",MESH:D008105,marker/mechanism,,16023247
+LOXL2,4017,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+LPL,4023,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+LPXN,9404,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+LRAT,9227,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+LRRC28,123355,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+LRRFIP1,9208,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+LTA4H,4048,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+LTB,4050,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+LTBP1,4052,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+LUM,4060,Liver Cirrhosis,MESH:D008103,marker/mechanism,,26396155
+LUM,4060,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+LURAP1L,286343,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+LY86,9450,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+LY96,23643,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+MAGEE1,57692,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+MALAT1,378938,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,26435214
+MAP1LC3A,84557,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+MAP3K8,1326,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+MAPK14,1432,"Liver Cirrhosis, Biliary",MESH:D008105,marker/mechanism,,30026087
+MBOAT7,79143,"Liver Cirrhosis, Alcoholic",MESH:D008104,marker/mechanism,,26482880
+MDH1,4190,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+MEOX2,4223,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+MET,4233,Copper-Overload Cirrhosis,MESH:C566858,marker/mechanism,,22879914
+METRNL,284207,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+MFAP4,4239,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+MGAT5,4249,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,23798564
+MGLL,11343,Liver Cirrhosis,MESH:D008103,therapeutic,,30301768
+MGMT,4255,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+MGP,4256,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+MICAL2,9645,Liver Cirrhosis,MESH:D008103,marker/mechanism,,32659284
+MID1IP1,58526,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+MINDY3,80013,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+MIR141,406933,"Liver Cirrhosis, Alcoholic",MESH:D008104,marker/mechanism,,28545106
+MIR153,387171,Liver Cirrhosis,MESH:D008103,marker/mechanism,,22363424
+MIR17,406952,"Liver Cirrhosis, Alcoholic",MESH:D008104,marker/mechanism,,28545106
+MIR193B,574455,"Liver Cirrhosis, Alcoholic",MESH:D008104,marker/mechanism,,28545106
+MIR203,387199,Liver Cirrhosis,MESH:D008103,therapeutic,,32659284
+MIR215,406997,Liver Cirrhosis,MESH:D008103,marker/mechanism,,22363424
+MIR29C,407026,Liver Cirrhosis,MESH:D008103,marker/mechanism,,22363424
+MIR302C,442895,Liver Cirrhosis,MESH:D008103,marker/mechanism,,22363424
+MIR30B,407030,Liver Cirrhosis,MESH:D008103,marker/mechanism,,22363424
+MIR30C-1,387227,Liver Cirrhosis,MESH:D008103,marker/mechanism,,22363424
+MIR30C2,407032,Liver Cirrhosis,MESH:D008103,marker/mechanism,,22363424
+MIR338,442906,"Liver Cirrhosis, Alcoholic",MESH:D008104,marker/mechanism,,28545106
+MIR345,442910,Liver Cirrhosis,MESH:D008103,therapeutic,,36126797
+MIR3615,100500847,"Liver Cirrhosis, Alcoholic",MESH:D008104,marker/mechanism,,28545106
+MIR376C,442913,Liver Cirrhosis,MESH:D008103,marker/mechanism,,22363424
+MIR421,693122,"Liver Cirrhosis, Alcoholic",MESH:D008104,marker/mechanism,,28545106
+MIR423,494335,"Liver Cirrhosis, Alcoholic",MESH:D008104,marker/mechanism,,28545106
+MIR483,619552,"Liver Cirrhosis, Alcoholic",MESH:D008104,marker/mechanism,,28545106
+MIR484,619553,"Liver Cirrhosis, Alcoholic",MESH:D008104,marker/mechanism,,28545106
+MIR503,574506,Liver Cirrhosis,MESH:D008103,marker/mechanism,,22363424
+MIR532,693124,"Liver Cirrhosis, Alcoholic",MESH:D008104,marker/mechanism,,28545106
+MIR589,693174,"Liver Cirrhosis, Alcoholic",MESH:D008104,marker/mechanism,,28545106
+MIR629,693214,"Liver Cirrhosis, Alcoholic",MESH:D008104,marker/mechanism,,28545106
+MIR764,100313838,Liver Cirrhosis,MESH:D008103,marker/mechanism,,22363424
+MIR885,100126334,Liver Cirrhosis,MESH:D008103,marker/mechanism,,27738331
+MIR885,100126334,"Liver Cirrhosis, Alcoholic",MESH:D008104,marker/mechanism,,28545106
+MIR93,407050,"Liver Cirrhosis, Alcoholic",MESH:D008104,marker/mechanism,,28545106
+MIR942,100126331,Liver Cirrhosis,MESH:D008103,marker/mechanism,,30097701
+MIS12,79003,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+MKI67,4288,Copper-Overload Cirrhosis,MESH:C566858,marker/mechanism,,22879914
+MKI67,4288,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+MME,4311,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,16085334
+MMEL1,79258,"Liver Cirrhosis, Biliary",MESH:D008105,marker/mechanism,,20639879
+MMP1,4312,"Liver Cirrhosis, Experimental",MESH:D008106,therapeutic,,12557150
+MMP13,4322,"Liver Cirrhosis, Experimental",MESH:D008106,therapeutic,,17404313
+MMP15,4324,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+MMP2,4313,Liver Cirrhosis,MESH:D008103,marker/mechanism,,15763341|26396155
+MMP2,4313,"Liver Cirrhosis, Alcoholic",MESH:D008104,marker/mechanism,,23274713
+MMP2,4313,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,15095483|25380136
+MMP8,4317,"Liver Cirrhosis, Experimental",MESH:D008106,therapeutic,,15057751
+MMP9,4318,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,15095483
+MOB3A,126308,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+MPO,4353,"Liver Cirrhosis, Alcoholic",MESH:D008104,marker/mechanism,,19731237|23274713
+MRO,83876,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+MRTFA,57591,Liver Cirrhosis,MESH:D008103,therapeutic,,33779332
+MSN,4478,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+MT1A,4489,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,17072980|25380136
+MT2A,4502,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+MTMR7,9108,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+MVP,9961,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+MYADM,91663,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+MYC,4609,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+MYL9,10398,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+MYO1C,4641,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+MYO1F,4542,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+MYO5A,4644,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+MYOC,4653,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+NAGK,55577,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+NAP1L5,266812,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+NAT8,9027,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+NBEA,26960,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+NCKAP1L,3071,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+NCOR2,9612,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+NDRG1,10397,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+NDRG2,57447,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+NECTIN2,5819,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+NEK6,10783,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+NFE2L2,4780,Liver Cirrhosis,MESH:D008103,therapeutic,,23793039
+NFE2L2,4780,"Liver Cirrhosis, Biliary",MESH:D008105,marker/mechanism,,30026087
+NFE2L2,4780,"Liver Cirrhosis, Experimental",MESH:D008106,therapeutic,,23341968
+NFKB1,4790,"Liver Cirrhosis, Biliary",MESH:D008105,marker/mechanism,,21399635
+NFKBIA,4792,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,26806094
+NFKBIE,4794,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+NFKBIZ,64332,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+NHSL3,57648,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+NID1,4811,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+NID2,22795,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+NIPAL2,79815,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+NLRC5,84166,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,26806094
+NMI,9111,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+NOCT,25819,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+NOS2,4843,"Liver Cirrhosis, Biliary",MESH:D008105,marker/mechanism,,30026087
+NOS2,4843,"Liver Cirrhosis, Experimental",MESH:D008106,therapeutic,,18380797
+NOS3,4846,"Liver Cirrhosis, Biliary",MESH:D008105,marker/mechanism,,30026087
+NOS3,4846,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,18555214
+NOX4,50507,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+NPAS2,4862,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+NPC1,4864,Liver Cirrhosis,MESH:D008103,marker/mechanism,,22216111
+NPDC1,56654,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+NPPA,4878,Liver Cirrhosis,MESH:D008103,marker/mechanism,,15613622
+NQO2,4835,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+NR0B2,8431,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,17072980
+NREP,9315,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+NRG1,3084,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+NRROS,375387,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+NSA2,10412,"Liver Cirrhosis, Biliary",MESH:D008105,marker/mechanism,,18422935
+NSMF,26012,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+NT5E,4907,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,18263696
+NUDT16,131870,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+NUPR1,26471,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+OAT,4942,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+OBP3,259247,Liver Cirrhosis,MESH:D008103,marker/mechanism,,25226513
+OBP3,259247,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,17072980
+OLFML2B,25903,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+OLFML3,56944,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+OLR59,170816,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+OSGIN1,29948,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+OSM,5008,"Liver Cirrhosis, Experimental",MESH:D008106,therapeutic,,17640959
+OTC,5009,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+OTUB2,78990,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+OTULINL,54491,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+P2RX7,5027,Liver Cirrhosis,MESH:D008103,marker/mechanism,,32721574
+PALMD,54873,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+PAMR1,25891,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+PAQR9,344838,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+PC,5091,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,17072980
+PCK1,5105,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,17072980
+PCK2,5106,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+PCOLCE,5118,Liver Cirrhosis,MESH:D008103,marker/mechanism,,26396155
+PDGFA,5154,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+PDGFRA,5156,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+PDGFRB,5159,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,15623374|18466260
+PDZRN3,23024,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+PEA15A,18611,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+PEMT,10400,Liver Cirrhosis,MESH:D008103,marker/mechanism,,29416063
+PFKP,5214,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+PFN1,5216,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+PKD2,5311,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+PKLR,5313,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+PLA2G12A,81579,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+PLA2G4A,5321,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+PLAC8,51316,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+PLAT,5327,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+PLAU,5328,Liver Cirrhosis,MESH:D008103,marker/mechanism|therapeutic,,18481824|26396155
+PLAU,5328,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+PLD4,122618,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+PLEK,5341,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+PLEKHB1,58473,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+PLEKHH1,57475,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+PLG,5340,"Liver Cirrhosis, Experimental",MESH:D008106,therapeutic,,14716496
+PLIN2,123,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+PLIN3,10226,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+PLOD2,5352,Liver Cirrhosis,MESH:D008103,marker/mechanism,,26396155
+PLOD2,5352,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+PLPP2,8612,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+PLSCR1,5359,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+PLSCR2,57047,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+PLTP,5360,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+PMEPA1,56937,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+PNPLA3,80339,"Liver Cirrhosis, Alcoholic",MESH:D008104,marker/mechanism,,19946271|26482880
+POMC,5443,"Liver Cirrhosis, Experimental",MESH:D008106,therapeutic,,16508911|16511523
+POSTN,10631,Liver Cirrhosis,MESH:D008103,marker/mechanism,,32344006
+PPAP2A,100164616,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+PPP1R18,170954,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+PPP1R3B,79660,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+PPP1R3C,5507,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+PRAF2,11230,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+PRKCB,5579,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+PRKCD,5580,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+PRLR,5618,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+PRNP,5621,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+PROCR,10544,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+PRODH,5625,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+PRODH2,58510,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+PRR13,54458,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+PRTFDC1,56952,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+PRTG,283659,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+PRUNE2,158471,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+PSMB10,5699,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+PSMB8,5696,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+PSMB9,5698,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+PSME2,5721,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+PSTPIP1,9051,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+PTAFR,5724,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+PTEN,5728,Liver Cirrhosis,MESH:D008103,marker/mechanism,,26023714
+PTER,9317,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+PTGER2,5732,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+PTGS1,5742,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+PTGS2,5743,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,17565644|18555214
+PTN,5764,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+PTPN1,5770,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,26739621
+PTPN18,26469,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+PTPRC,5788,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+PTPRD,5789,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+PTPRO,5800,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+PTRH1,138428,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+PTRHD1,391356,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+PXDN,7837,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+PYCARD,29108,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+PYCR1,5831,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+R3HDM2,22864,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+RAB30,27314,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+RAB31,11031,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+RAB32,10981,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+RAB40B,10966,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+RAB8B,51762,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+RABGAP1L,9910,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+RAC2,5880,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+RAMP1,10267,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+RARRES1,5918,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+RASSF4,83937,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+RBL2,5934,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+RBM3,5935,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+RCN1,5954,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+RCN2,5955,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+RCSD1,92241,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+RDH10,157506,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+RDH13,112724,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,27865848
+RDH2,107460,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,17072980
+RDH3,100305177,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,17072980
+RECK,8434,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+REEP5,7905,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+RELA,5970,"Liver Cirrhosis, Alcoholic",MESH:D008104,marker/mechanism,,23274713
+RELA,5970,"Liver Cirrhosis, Biliary",MESH:D008105,marker/mechanism,,30026087
+RELA,5970,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,26806094
+RELL1,768211,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+REN,5972,Liver Cirrhosis,MESH:D008103,marker/mechanism,,15613622
+RGN,9104,Liver Cirrhosis,MESH:D008103,marker/mechanism,,25226513
+RGN,9104,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,17072980|25380136
+RGS10,6001,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+RGS2,5997,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+RGS3,5998,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+RGS5,8490,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+RHOQ,23433,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+RIT1,6016,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+RMDN2,151393,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+RMND5B,64777,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+RNASE4,6038,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,17072980
+RNASEL,6041,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+RNF39,80352,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+ROBO2,6092,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+RPH3AL,9501,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,17072980
+RSRP1,57035,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+RT1-BA,309621,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+RT1-CE5,309607,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+RT1-DA,294269,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+RT1-DB1,294270,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+RT1-DMA,294274,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+RT1-DMB,294273,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+RT1-M3-1,24747,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+RTN4,57142,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+RTP3,83597,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+S100A10,6281,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+S100A11,6282,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+S100A6,6277,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+S100A9,6280,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+S1PR1,1901,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+SAMD11,148398,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+SASH3,54440,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+SCD2,20250,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+SDR42E1,93517,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+SDS,10993,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+SECTM1B,58210,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+SELENBP2,20342,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,15650968
+SELENOM,140606,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+SELENOP,6414,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+SELENOW,6415,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+SEMA6D,80031,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+SENP2,59343,"Liver Cirrhosis, Experimental",MESH:D008106,therapeutic,,29535048
+SERPINA1,5265,Liver Cirrhosis,MESH:D008103,marker/mechanism,,20511674|25579632|3485248
+SERPINA3K,20714,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,15650968
+SERPINA3M,20717,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+SERPINA4,5267,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+SERPINA6,866,Liver Cirrhosis,MESH:D008103,marker/mechanism,,25226513
+SERPINA6,866,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+SERPINA7,6906,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+SERPINB9,5272,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+SERPING1,710,Liver Cirrhosis,MESH:D008103,marker/mechanism,,26396155
+SERPINH1,871,Liver Cirrhosis,MESH:D008103,marker/mechanism,,24321339
+SERPINH1,871,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,18376398|25380136
+SEZ6,124925,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+SGCB,6443,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+SGK2,10110,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+SH3BGRL3,83442,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+SHC1,6464,Liver Cirrhosis,MESH:D008103,marker/mechanism,,32659284
+SHCBP1,79801,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+SHISA3,152573,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+SIGLEC5,8778,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+SIRT1,23411,"Liver Cirrhosis, Experimental",MESH:D008106,therapeutic,,26435214
+SKAP2,8935,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+SLA,6503,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+SLAMF9,89886,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+SLC10A1,6554,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,17072980
+SLC13A4,26266,Liver Cirrhosis,MESH:D008103,marker/mechanism,,25226513
+SLC15A3,51296,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+SLC17A1,6568,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,17072980|25380136
+SLC17A2,10246,Liver Cirrhosis,MESH:D008103,marker/mechanism,,25226513
+SLC17A2,10246,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+SLC19A2,10560,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+SLC20A1,6574,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+SLC22A23,63027,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+SLC22A8,9376,Liver Cirrhosis,MESH:D008103,marker/mechanism,,25226513
+SLC22A8,9376,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+SLC23A1,9963,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+SLC25A13,10165,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+SLC25A24,29957,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+SLC25A30,253512,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+SLC25A4,291,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+SLC30A10,55532,Hypermanganesemia with Dystonia Polycythemia and Cirrhosis,MESH:C548016,marker/mechanism,,22341971|22926781
+SLC30A10,55532,Liver Cirrhosis,MESH:D008103,marker/mechanism,,22926781
+SLC37A4,2542,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,17072980
+SLC39A6,25800,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+SLC39A8,64116,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+SLC43A2,124935,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+SLC44A2,57153,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+SLC46A1,113235,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+SLC4A2,6522,"Liver Cirrhosis, Biliary",MESH:D008105,marker/mechanism,,18188457
+SLC4A4,8671,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+SLC51A,200931,"Liver Cirrhosis, Biliary",MESH:D008105,marker/mechanism,,16423920
+SLC51B,123264,"Liver Cirrhosis, Biliary",MESH:D008105,marker/mechanism,,16423920
+SLC66A3,130814,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+SLC7A1,6541,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+SLFN2,20556,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+SMAD2,4087,Copper-Overload Cirrhosis,MESH:C566858,marker/mechanism,,22879914
+SMAD2,4087,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,16570350
+SMAD3,4088,Liver Cirrhosis,MESH:D008103,marker/mechanism,,21605584
+SMAD3,4088,"Liver Cirrhosis, Alcoholic",MESH:D008104,marker/mechanism,,23274713
+SMAD4,4089,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,16570350
+SMARCC1,6599,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+SMC2,10592,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+SMC5,23137,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+SMOC1,64093,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+SMOC2,64094,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+SNAP23,8773,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+SNAP29,9342,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+SNX7,51375,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+SOAT1,6646,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+SOCS1,8651,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,15197228
+SOCS2,8835,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+SOD2,6648,Liver Cirrhosis,MESH:D008103,marker/mechanism,,32659284
+SOD2,6648,"Liver Cirrhosis, Alcoholic",MESH:D008104,marker/mechanism,,19731237
+SOX4,6659,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+SP140,11262,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+SPARC,6678,Liver Cirrhosis,MESH:D008103,marker/mechanism,,23408952
+SPARC,6678,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism|therapeutic,,18615449|25380136
+SPIB,6689,"Liver Cirrhosis, Biliary",MESH:D008105,marker/mechanism,,20639880
+SPIN2A,54466,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,17072980
+SPP1,6696,Liver Cirrhosis,MESH:D008103,marker/mechanism,,16221502
+SPSB4,92369,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+SPTAN1,6709,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+SRD5A1,6715,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+SREBF1,6720,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+SRGN,5552,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+SRI,6717,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+SRR,63826,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+ST14,6768,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+STAC3,246329,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+STARD13,90627,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+STAT1,6772,Liver Cirrhosis,MESH:D008103,therapeutic,,17133483
+STAT3,6774,Copper-Overload Cirrhosis,MESH:C566858,marker/mechanism,,22879914
+STAT4,6775,"Liver Cirrhosis, Biliary",MESH:D008105,marker/mechanism,,21399635
+STAU2,27067,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+STEAP4,79689,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+STK10,6793,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+SULT1E1,6783,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,17072980
+SULT2A1,6822,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,17072980
+SYNRG,11276,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+TAGLN2,8407,Liver Cirrhosis,MESH:D008103,marker/mechanism,,25226513
+TAGLN2,8407,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+TAP2,6891,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+TAX1BP3,30851,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+TBC1D9,23158,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+TCF20,6942,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+TCF4,6925,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+TES,26136,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+TFEC,22797,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+TFPI2,7980,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+TGFB1,7040,Copper-Overload Cirrhosis,MESH:C566858,marker/mechanism,,22879914
+TGFB1,7040,Liver Cirrhosis,MESH:D008103,marker/mechanism,,21037076|35101388|36368619
+TGFB1,7040,"Liver Cirrhosis, Alcoholic",MESH:D008104,marker/mechanism,,23274713
+TGFB1,7040,"Liver Cirrhosis, Biliary",MESH:D008105,marker/mechanism,,30026087
+TGFB1,7040,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism|therapeutic,,12586293|15772939|16579972|26806094|27605418
+TGFB3,7043,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+TGFBR1,7046,Liver Cirrhosis,MESH:D008103,marker/mechanism,,28560358
+TGFBR2,7048,"Liver Cirrhosis, Experimental",MESH:D008106,therapeutic,,15942678|16627068
+THBD,7056,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+THBS1,7057,Liver Cirrhosis,MESH:D008103,marker/mechanism,,18407596
+THYN1,29087,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+TIAL1,7073,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+TIMP1,7076,"Liver Cirrhosis, Alcoholic",MESH:D008104,marker/mechanism,,23274713
+TIMP1,7076,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,16507762|16718785|16762003|21163135|25380136
+TIMP2,7077,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+TKFC,26007,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+TLR4,7099,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+TM6SF1,53346,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+TM6SF2,53345,"Liver Cirrhosis, Alcoholic",MESH:D008104,marker/mechanism,,26482880
+TMBIM1,64114,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+TMEM106A,113277,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+TMEM165,55858,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+TMEM178,68027,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+TMEM184B,25829,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+TMEM43,79188,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+TMEM65,157378,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+TMEM67,91147,Liver Cirrhosis,MESH:D008103,marker/mechanism,,19508969
+TMSB10,9168,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+TNF,7124,"Liver Cirrhosis, Alcoholic",MESH:D008104,marker/mechanism,,23274713
+TNF,7124,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,16085334
+TNFAIP8,25816,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+TNFRSF12A,51330,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+TNFRSF1A,7132,"Liver Cirrhosis, Biliary",MESH:D008105,marker/mechanism,,21399635
+TNFRSF1B,7133,Liver Cirrhosis,MESH:D008103,marker/mechanism,,20353583
+TOR4A,54863,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+TPM1,7168,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+TPM3,7170,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+TPM4,7171,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+TRAFD1,10906,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+TRAK2,66008,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+TRF,22041,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,15650968
+TRIB3,57761,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+TRIM24,8805,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+TRIM59,286827,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+TRPM7,54822,Liver Cirrhosis,MESH:D008103,marker/mechanism,,25150141
+TRPV1,7442,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,17043671
+TSC22D1,8848,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+TSPAN8,7103,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+TSPO,706,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+TSTD3,100130890,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+TTC36,143941,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+TUBB6,84617,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+TUG1,55000,Liver Cirrhosis,MESH:D008103,therapeutic,,37582412
+TUSC3,7991,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+TYK2,7297,"Liver Cirrhosis, Biliary",MESH:D008105,marker/mechanism,,22961000
+TYROBP,7305,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+U2SURP,23350,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+U2SURP-PS1,500042,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+UBD,10537,"Liver Cirrhosis, Biliary",MESH:D008105,marker/mechanism,,18422935
+UBD,10537,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+UGCG,7357,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+UGT2B,24862,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+UNC5CL,222643,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+UNC93B1,81622,Liver Cirrhosis,MESH:D008103,marker/mechanism,,25226513
+UNC93B1,81622,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+UST5R,171398,Liver Cirrhosis,MESH:D008103,marker/mechanism,,25226513
+UST5R,171398,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+VASP,7408,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+VAV1,7409,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+VEGFA,7422,Liver Cirrhosis,MESH:D008103,marker/mechanism,,11981751
+VEGFA,7422,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism|therapeutic,,18416461|18458672
+VIM,7431,Liver Cirrhosis,MESH:D008103,marker/mechanism,,25226513|26396155|32659284
+VIM,7431,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+VIPR1,7433,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+VOPP1,81552,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+VSIR,64115,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+VTN,7448,Liver Cirrhosis,MESH:D008103,marker/mechanism,,26396155
+VWF,7450,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,28527913
+WFDC2,10406,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+WFDC21,66107,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+WIPF1,7456,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+WLS,79971,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+XPNPEP2,7512,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+YBX1,4904,"Liver Cirrhosis, Experimental",MESH:D008106,therapeutic,,16012952
+YPEL3,83719,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+YWHAG,7532,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+YWHAZ,7534,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+ZBTB4,57659,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+ZDHHC13,54503,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+ZDHHC2,51201,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+ZEB2,9839,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+ZFP37,7539,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136
+ZFYVE16,9765,"Liver Cirrhosis, Experimental",MESH:D008106,marker/mechanism,,25380136

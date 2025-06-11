@@ -1,0 +1,8 @@
+ChemicalName,ChemicalID,CasRN,DiseaseName,DiseaseID,DirectEvidence,InferenceGeneSymbol,InferenceScore,OmimIDs,PubMedIDs
+Azathioprine,D001379,446-86-6,Retinal Hemorrhage,MESH:D012166,marker/mechanism,,,,12352092
+Cytarabine,D003561,147-94-4,Retinal Hemorrhage,MESH:D012166,marker/mechanism,,,,10997890
+Minocycline,D008911,10118-90-8,Retinal Hemorrhage,MESH:D012166,marker/mechanism,,,,11491116|15184329
+Tretinoin,D014212,302-79-4,Retinal Hemorrhage,MESH:D012166,marker/mechanism,,,,18452541
+Vitamin E,D014810,1406-18-4,Retinal Hemorrhage,MESH:D012166,marker/mechanism,,,,3547300
+Warfarin,D014859,81-81-2,Retinal Hemorrhage,MESH:D012166,marker/mechanism,,,,12855977
+Zidovudine,D015215,30516-87-1,Retinal Hemorrhage,MESH:D012166,marker/mechanism,,,,19668413

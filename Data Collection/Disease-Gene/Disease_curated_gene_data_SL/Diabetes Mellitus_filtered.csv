@@ -1,0 +1,438 @@
+GeneSymbol,GeneID,DiseaseName,DiseaseID,DirectEvidence,OmimIDs,PubMedIDs
+ABCC8,6833,"Diabetes Mellitus, Transient Neonatal, 2",MESH:C563672,marker/mechanism,610374,
+ABCC8,6833,"Diabetes Mellitus, Type 1",MESH:D003922,marker/mechanism,,18025464
+ABCC8,6833,"Diabetes Mellitus, Type 2",MESH:D003924,marker/mechanism,125853,22209866|9568693
+ACE,1636,"Diabetes Mellitus, Experimental",MESH:D003921,marker/mechanism,,22191573
+ACOT1,641371,"Diabetes Mellitus, Experimental",MESH:D003921,marker/mechanism,,14563825
+ACOX1,51,"Diabetes Mellitus, Experimental",MESH:D003921,marker/mechanism,,14563825
+ACSL1,2180,"Diabetes Mellitus, Experimental",MESH:D003921,marker/mechanism,,9452481
+ADAMTS9,56999,"Diabetes Mellitus, Type 2",MESH:D003924,marker/mechanism,,18372903|23967108
+ADCY5,111,"Diabetes Mellitus, Type 2",MESH:D003924,marker/mechanism,,20081858|23202124
+ADIPOQ,9370,Diabetes Mellitus,MESH:D003920,marker/mechanism,,12860835
+ADIPOQ,9370,"Diabetes Mellitus, Type 2",MESH:D003924,marker/mechanism,,12114044|12354786|15734870
+ADRA1A,148,"Diabetes Mellitus, Experimental",MESH:D003921,marker/mechanism,,19133277
+ADRB1,153,Diabetes Mellitus,MESH:D003920,marker/mechanism,,18378355
+ADRB3,155,"Diabetes Mellitus, Experimental",MESH:D003921,marker/mechanism,,17622774
+AGT,183,"Diabetes Mellitus, Experimental",MESH:D003921,marker/mechanism,,15831366|17177138|18829990
+AIFM1,9131,"Diabetes Mellitus, Experimental",MESH:D003921,marker/mechanism,,23499715
+AIFM1,9131,"Diabetes Mellitus, Type 1",MESH:D003922,marker/mechanism,,23499715
+AKT1,207,"Diabetes Mellitus, Type 2",MESH:D003924,marker/mechanism,,31626838
+AKT2,208,"Diabetes Mellitus, Type 2",MESH:D003924,marker/mechanism,125853,
+ALPK1,80216,Diabetes Mellitus,MESH:D003920,marker/mechanism,,27542954
+AOC3,8639,Diabetes Mellitus,MESH:D003920,marker/mechanism,,23154672
+AOC3,8639,"Diabetes Mellitus, Experimental",MESH:D003921,marker/mechanism,,14977883
+AP3S2,10239,"Diabetes Mellitus, Type 2",MESH:D003924,marker/mechanism,,21874001
+ATF3,467,"Diabetes Mellitus, Experimental",MESH:D003921,marker/mechanism,,16123366
+ATF3,467,"Diabetes Mellitus, Type 2",MESH:D003924,marker/mechanism,,16123366
+ATP2A2,488,"Diabetes Mellitus, Experimental",MESH:D003921,marker/mechanism,,16123366
+ATP2A2,488,"Diabetes Mellitus, Type 2",MESH:D003924,marker/mechanism,,16123366
+ATP2A3,489,"Diabetes Mellitus, Experimental",MESH:D003921,marker/mechanism,,16123366
+ATP2A3,489,"Diabetes Mellitus, Type 2",MESH:D003924,marker/mechanism,,16123366
+ATP6,4508,Diabetes Mellitus,MESH:D003920,marker/mechanism,,18273840
+AUTS2,26053,"Diabetes Mellitus, Type 2",MESH:D003924,marker/mechanism,,30718926
+BACH2,60468,"Diabetes Mellitus, Type 1",MESH:D003922,marker/mechanism,,18978792
+BAX,581,"Diabetes Mellitus, Experimental",MESH:D003921,marker/mechanism,,23090186
+BAX,581,"Diabetes Mellitus, Type 2",MESH:D003924,marker/mechanism,,31626838
+BCL2,596,"Diabetes Mellitus, Experimental",MESH:D003921,marker/mechanism,,16959961|23090186
+BCL2,596,"Diabetes Mellitus, Type 2",MESH:D003924,marker/mechanism,,16959961|31626838
+BCL2L1,598,"Diabetes Mellitus, Experimental",MESH:D003921,marker/mechanism,,16959961
+BCL2L1,598,"Diabetes Mellitus, Type 2",MESH:D003924,marker/mechanism,,16959961
+BCL2L11,10018,"Diabetes Mellitus, Type 2",MESH:D003924,marker/mechanism,,28869590
+BDKRB1,623,"Diabetes Mellitus, Experimental",MESH:D003921,marker/mechanism,,21430409
+BHMT,635,"Diabetes Mellitus, Type 2",MESH:D003924,marker/mechanism,,23665415
+BRAF,673,"Diabetes Mellitus, Type 2",MESH:D003924,marker/mechanism,,28869590
+C1QTNF6,114904,"Diabetes Mellitus, Type 1",MESH:D003922,marker/mechanism,,18978792
+C2CD4A,145741,"Diabetes Mellitus, Type 2",MESH:D003924,marker/mechanism,,20818381
+C2CD4B,388125,"Diabetes Mellitus, Type 2",MESH:D003924,marker/mechanism,,20818381
+C3,718,"Diabetes Mellitus, Type 2",MESH:D003924,marker/mechanism,,20504758
+CAPN10,11132,"Diabetes Mellitus, Noninsulin-Dependent, 1",MESH:C563359,marker/mechanism,601283,
+CAPN10,11132,"Diabetes Mellitus, Type 2",MESH:D003924,marker/mechanism,,23349674
+CASP12,100506742,"Diabetes Mellitus, Type 1",MESH:D003922,marker/mechanism,,23499715
+CASP3,836,"Diabetes Mellitus, Experimental",MESH:D003921,marker/mechanism,,20654064
+CASP3,836,"Diabetes Mellitus, Type 2",MESH:D003924,marker/mechanism,,15531508
+CASP8,841,"Diabetes Mellitus, Type 2",MESH:D003924,marker/mechanism,,15531508
+CAT,847,Diabetes Mellitus,MESH:D003920,marker/mechanism,,11117918
+CAT,847,"Diabetes Mellitus, Experimental",MESH:D003921,marker/mechanism|therapeutic,,12123627|15855331|20709041
+CAT,847,"Diabetes Mellitus, Type 1",MESH:D003922,therapeutic,,15111504
+CAT,847,"Diabetes Mellitus, Type 2",MESH:D003924,marker/mechanism|therapeutic,,15111504|15531508
+CAV1,857,"Diabetes Mellitus, Experimental",MESH:D003921,marker/mechanism,,18266981
+CAV3,859,"Diabetes Mellitus, Experimental",MESH:D003921,marker/mechanism,,18266981
+CBS,875,"Diabetes Mellitus, Type 2",MESH:D003924,marker/mechanism,,23665415
+CCDC92,80212,"Diabetes Mellitus, Type 2",MESH:D003924,marker/mechanism,,28869590
+CCL20,6364,"Diabetes Mellitus, Experimental",MESH:D003921,therapeutic,,21340626
+CCL20,6364,"Diabetes Mellitus, Type 1",MESH:D003922,therapeutic,,21340626
+CCND2,894,"Diabetes Mellitus, Type 2",MESH:D003924,marker/mechanism,,24464100
+CCR5,1234,"Diabetes Mellitus, Insulin-Dependent, 22",MESH:C567284,marker/mechanism,612522,
+CD36,948,"Diabetes Mellitus, Type 2",MESH:D003924,marker/mechanism,,31626838
+CD68,968,"Diabetes Mellitus, Experimental",MESH:D003921,marker/mechanism,,20388520
+CD69,969,"Diabetes Mellitus, Type 1",MESH:D003922,marker/mechanism,,19430480
+CDKAL1,54901,"Diabetes Mellitus, Type 2",MESH:D003924,marker/mechanism,,17460697|23104008|23202124
+CDO1,1036,"Diabetes Mellitus, Type 2",MESH:D003924,marker/mechanism,,23665415
+CHRM2,1129,"Diabetes Mellitus, Experimental",MESH:D003921,marker/mechanism,,18603373
+CHRM2,1129,"Diabetes Mellitus, Type 1",MESH:D003922,marker/mechanism,,18603373
+CISD2,493856,"Diabetes Mellitus, Type 2",MESH:D003924,marker/mechanism,,28869590
+CLEC16A,23274,"Diabetes Mellitus, Type 1",MESH:D003922,marker/mechanism,,17632545|18946483
+CMIP,80790,"Diabetes Mellitus, Type 2",MESH:D003924,marker/mechanism,,28869590
+CNKSR2,22866,"Diabetes Mellitus, Type 2",MESH:D003924,marker/mechanism,,30718926
+COX2,4513,"Diabetes Mellitus, Experimental",MESH:D003921,marker/mechanism,,14563825
+CP,1356,Diabetes Mellitus,MESH:D003920,marker/mechanism,,12572680
+CP,1356,"Diabetes Mellitus, Type 1",MESH:D003922,marker/mechanism,,20012460
+CPT1A,1374,Diabetes Mellitus,MESH:D003920,marker/mechanism,,19233164
+CPT1A,1374,"Diabetes Mellitus, Experimental",MESH:D003921,marker/mechanism,,16123366
+CPT1A,1374,"Diabetes Mellitus, Type 2",MESH:D003924,marker/mechanism,,16123366
+CPT1B,1375,"Diabetes Mellitus, Experimental",MESH:D003921,marker/mechanism,,14563825
+CRP,1401,"Diabetes Mellitus, Type 1",MESH:D003922,marker/mechanism,,20012460
+CTLA4,1493,"Diabetes Mellitus, Insulin-Dependent, 12",MESH:C563326,marker/mechanism,601388,
+CTSH,1512,"Diabetes Mellitus, Type 1",MESH:D003922,marker/mechanism,,18978792
+CX3CL1,6376,"Diabetes Mellitus, Experimental",MESH:D003921,marker/mechanism,,20388520
+CYBA,1535,"Diabetes Mellitus, Experimental",MESH:D003921,marker/mechanism,,11812764|12967931
+CYBA,1535,"Diabetes Mellitus, Type 2",MESH:D003924,marker/mechanism,,15531508
+CYBB,1536,Diabetes Mellitus,MESH:D003920,marker/mechanism,,23723366
+CYBB,1536,"Diabetes Mellitus, Experimental",MESH:D003921,marker/mechanism,,19478208
+CYP1A1,1543,"Diabetes Mellitus, Experimental",MESH:D003921,marker/mechanism,,22342832
+CYP1A2,1544,"Diabetes Mellitus, Type 2",MESH:D003924,marker/mechanism,,22244987
+CYP2B10,13088,"Diabetes Mellitus, Experimental",MESH:D003921,marker/mechanism,,22342832
+CYP2B9,13094,"Diabetes Mellitus, Experimental",MESH:D003921,marker/mechanism,,22342832
+CYP3A11,13112,"Diabetes Mellitus, Experimental",MESH:D003921,marker/mechanism,,22342832
+CYP3A2,266682,"Diabetes Mellitus, Type 2",MESH:D003924,marker/mechanism,,22244987
+CYP3A23-3A1,25642,"Diabetes Mellitus, Type 2",MESH:D003924,marker/mechanism,,22244987
+CYP4A10,13117,"Diabetes Mellitus, Experimental",MESH:D003921,marker/mechanism,,22342832
+CYP4A14,13119,"Diabetes Mellitus, Experimental",MESH:D003921,marker/mechanism,,22342832
+DDIT3,1649,"Diabetes Mellitus, Type 1",MESH:D003922,marker/mechanism,,23499715
+DGKD,8527,"Diabetes Mellitus, Type 2",MESH:D003924,marker/mechanism,,30718926
+DNAJC3,5611,"ATAXIA, COMBINED CEREBELLAR AND PERIPHERAL, WITH HEARING LOSS AND DIABETES MELLITUS",OMIM:616192,marker/mechanism,616192,
+ECE1,1889,"Diabetes Mellitus, Type 2",MESH:D003924,marker/mechanism,,16387788
+EDN1,1906,"Diabetes Mellitus, Experimental",MESH:D003921,marker/mechanism,,12458661|12967931
+EDN1,1906,"Diabetes Mellitus, Type 2",MESH:D003924,marker/mechanism,,16387788
+EDNRA,1909,"Diabetes Mellitus, Type 2",MESH:D003924,marker/mechanism,,16387788
+EDNRB,1910,"Diabetes Mellitus, Type 2",MESH:D003924,marker/mechanism,,16387788
+EGFR,1956,"Diabetes Mellitus, Type 2",MESH:D003924,marker/mechanism,,22238402
+ENPP1,5167,"Diabetes Mellitus, Type 2",MESH:D003924,marker/mechanism,125853,
+EPC2,26122,"Diabetes Mellitus, Type 2",MESH:D003924,marker/mechanism,,30718926
+ESRRA,2101,"Diabetes Mellitus, Experimental",MESH:D003921,marker/mechanism,,23090186
+ETS1,2113,"Diabetes Mellitus, Type 2",MESH:D003924,marker/mechanism,,30718926
+FAM234A,83986,"Diabetes Mellitus, Type 2",MESH:D003924,marker/mechanism,,28869590
+FAS,355,"Diabetes Mellitus, Experimental",MESH:D003921,marker/mechanism,,16123366
+FAS,355,"Diabetes Mellitus, Type 2",MESH:D003924,marker/mechanism,,16123366
+FGF21,26291,"Diabetes Mellitus, Experimental",MESH:D003921,therapeutic,,23499715
+FGF21,26291,"Diabetes Mellitus, Type 1",MESH:D003922,therapeutic,,23499715
+FGF21,26291,"Diabetes Mellitus, Type 2",MESH:D003924,therapeutic,,26797127
+FN1,2335,Diabetes Mellitus,MESH:D003920,marker/mechanism,,20551625
+FOXO3,2309,"Diabetes Mellitus, Experimental",MESH:D003921,marker/mechanism,,23090186|23792339
+FTO,79068,"Diabetes Mellitus, Type 2",MESH:D003924,marker/mechanism,,23104008
+GCG,2641,"Diabetes Mellitus, Type 2",MESH:D003924,marker/mechanism,,23466488
+GCK,2645,"Diabetes Mellitus, Experimental",MESH:D003921,marker/mechanism,,16123366
+GCK,2645,"Diabetes Mellitus, Permanent Neonatal",MESH:C563425,marker/mechanism,606176,
+GCK,2645,"Diabetes Mellitus, Type 2",MESH:D003924,marker/mechanism,125853,15102714|15161764|16123366|20081858
+GCKR,2646,"Diabetes Mellitus, Type 2",MESH:D003924,marker/mechanism,,20081858
+GCLC,2729,"Diabetes Mellitus, Type 2",MESH:D003924,therapeutic,,32715377
+GCLM,2730,"Diabetes Mellitus, Type 2",MESH:D003924,therapeutic,,32715377
+GLIS3,169792,"Diabetes Mellitus, Neonatal, with Congenital Hypothyroidism",MESH:C565705,marker/mechanism,610199,
+GLIS3,169792,"Diabetes Mellitus, Type 1",MESH:D003922,marker/mechanism,,19430480
+GLIS3,169792,"Diabetes Mellitus, Type 2",MESH:D003924,marker/mechanism,,22158537
+GLP1R,2740,"Diabetes Mellitus, Type 2",MESH:D003924,marker/mechanism,,30718926
+GNB3,2784,"Diabetes Mellitus, Type 2",MESH:D003924,marker/mechanism,,12511541
+GP2,2813,"Diabetes Mellitus, Type 2",MESH:D003924,marker/mechanism,,30718926
+GPAM,57678,"Diabetes Mellitus, Experimental",MESH:D003921,marker/mechanism,,9452481
+GPD2,2820,"Diabetes Mellitus, Experimental",MESH:D003921,marker/mechanism,,16123366
+GPD2,2820,"Diabetes Mellitus, Type 2",MESH:D003924,marker/mechanism,125853,16123366
+GPX1,2876,"Diabetes Mellitus, Experimental",MESH:D003921,marker/mechanism,,16123366
+GPX1,2876,"Diabetes Mellitus, Type 2",MESH:D003924,marker/mechanism,,16123366|23795780
+GRB14,2888,"Diabetes Mellitus, Type 2",MESH:D003924,marker/mechanism,,21874001
+GSR,2936,"Diabetes Mellitus, Experimental",MESH:D003921,marker/mechanism,,20620209
+GSTM1,2944,"Diabetes Mellitus, Type 2",MESH:D003924,marker/mechanism,,22652274
+HBA1,3039,"Diabetes Mellitus, Type 2",MESH:D003924,marker/mechanism,,16632892
+HECTD4,283450,"Diabetes Mellitus, Type 2",MESH:D003924,marker/mechanism,,35713687
+HHEX,3087,"Diabetes Mellitus, Type 2",MESH:D003924,marker/mechanism,,23104008
+HK1,3098,"Diabetes Mellitus, Experimental",MESH:D003921,marker/mechanism,,16123366
+HK1,3098,"Diabetes Mellitus, Type 2",MESH:D003924,marker/mechanism,,16123366
+HLA-DQA1,3117,"Diabetes Mellitus, Type 1",MESH:D003922,marker/mechanism,,26168013
+HLA-DQB1,3119,"Diabetes Mellitus, Type 1",MESH:D003922,marker/mechanism,,26168013
+HLA-DRB1,3123,"Diabetes Mellitus, Type 1",MESH:D003922,marker/mechanism,,26168013
+HLA-DRB5,3127,"Diabetes Mellitus, Type 2",MESH:D003924,marker/mechanism,,28869590
+HMG20A,10363,"Diabetes Mellitus, Type 2",MESH:D003924,marker/mechanism,,21874001
+HMGA1,3159,"Diabetes Mellitus, Type 2",MESH:D003924,marker/mechanism,125853,23512162
+HMOX1,3162,"Diabetes Mellitus, Experimental",MESH:D003921,marker/mechanism|therapeutic,,16123366|16959961|18375438|19804535
+HMOX1,3162,"Diabetes Mellitus, Type 2",MESH:D003924,marker/mechanism|therapeutic,,12136229|16123366|16959961
+HNF1A,6927,"Diabetes Mellitus, Insulin-Dependent, 20",MESH:C567286,marker/mechanism,612520,
+HNF1A,6927,"Diabetes Mellitus, Type 1",MESH:D003922,marker/mechanism,222100,
+HNF1A,6927,"Diabetes Mellitus, Type 2",MESH:D003924,marker/mechanism,125853,28869590
+HNF1B,6928,"Diabetes Mellitus, Type 2",MESH:D003924,marker/mechanism|therapeutic,125853,17603485
+HNF4A,3172,"Diabetes Mellitus, Type 2",MESH:D003924,marker/mechanism,125853,17317762|21874001|22158537
+HP,3240,"Diabetes Mellitus, Type 1",MESH:D003922,marker/mechanism,,16506275
+HP,3240,"Diabetes Mellitus, Type 2",MESH:D003924,marker/mechanism,,16506275
+HPX,3263,"Diabetes Mellitus, Type 2",MESH:D003924,marker/mechanism,,16506275
+HSD11B1,3290,"Diabetes Mellitus, Experimental",MESH:D003921,marker/mechanism,,14697232
+HSD11B2,3291,"Diabetes Mellitus, Type 1",MESH:D003922,marker/mechanism,,16616286
+HYMAI,57061,"Diabetes Mellitus, Transient Neonatal, 1",MESH:C563322,marker/mechanism,601410,
+IAPP,3375,"Diabetes Mellitus, Experimental",MESH:D003921,marker/mechanism,,16123366
+IAPP,3375,"Diabetes Mellitus, Type 2",MESH:D003924,marker/mechanism,,16123366|23793354
+ICAM1,3383,"Diabetes Mellitus, Experimental",MESH:D003921,marker/mechanism,,14871415|20388520|24513509
+ICAM1,3383,"Diabetes Mellitus, Type 2",MESH:D003924,marker/mechanism,,24513509
+ID1,3397,"Diabetes Mellitus, Experimental",MESH:D003921,marker/mechanism,,16123366
+ID1,3397,"Diabetes Mellitus, Type 2",MESH:D003924,marker/mechanism,,16123366
+IFNG,3458,"Diabetes Mellitus, Experimental",MESH:D003921,marker/mechanism,,21340626
+IFNG,3458,"Diabetes Mellitus, Type 1",MESH:D003922,marker/mechanism,,21340626
+IGF1,3479,"Diabetes Mellitus, Experimental",MESH:D003921,therapeutic,,24632065
+IGF1,3479,"Diabetes Mellitus, Type 1",MESH:D003922,therapeutic,,24632065
+IGF2BP2,10644,"Diabetes Mellitus, Type 2",MESH:D003924,marker/mechanism,125853,
+IL10,3586,"Diabetes Mellitus, Type 1",MESH:D003922,marker/mechanism,,19430480
+IL13RA1,3597,"Diabetes Mellitus, Type 2",MESH:D003924,marker/mechanism,,30718926
+IL19,29949,"Diabetes Mellitus, Type 1",MESH:D003922,marker/mechanism,,19430480
+IL1B,3553,"Diabetes Mellitus, Experimental",MESH:D003921,marker/mechanism,,12123627
+IL20,50604,"Diabetes Mellitus, Type 1",MESH:D003922,marker/mechanism,,19430480
+IL27,246778,"Diabetes Mellitus, Type 1",MESH:D003922,marker/mechanism,,19430480
+IL2RA,3559,"Diabetes Mellitus, Insulin-Dependent, 10",MESH:C566602,marker/mechanism,601942,
+IL2RA,3559,"Diabetes Mellitus, Type 1",MESH:D003922,marker/mechanism,,17676041|19119414|19701192|30224649
+IL6,3569,"Diabetes Mellitus, Experimental",MESH:D003921,marker/mechanism,,22138235
+IL6,3569,"Diabetes Mellitus, Type 1",MESH:D003922,marker/mechanism,222100,
+IL6,3569,"Diabetes Mellitus, Type 2",MESH:D003924,marker/mechanism,125853,
+INPPL1,3636,"Diabetes Mellitus, Type 2",MESH:D003924,marker/mechanism,,12086927|25635986
+INS,3630,Diabetes Mellitus,MESH:D003920,marker/mechanism|therapeutic,,11446671|15628829|17855560|18162506|2055425|7294224|7624867|8400068
+INS,3630,"Diabetes Mellitus, Insulin-Dependent, 2",MESH:C565100,marker/mechanism,125852,
+INS,3630,"Diabetes Mellitus, Type 1",MESH:D003922,therapeutic,,20620209
+INS,3630,"Diabetes Mellitus, Type 2",MESH:D003924,marker/mechanism|therapeutic,,11522680|11978674|15531508|16259526|16519038|21680998|21779873|23349674|3511099|7573102
+INS1,16333,"Diabetes Mellitus, Experimental",MESH:D003921,therapeutic,,2975197|3044883
+INS1,16333,"Diabetes Mellitus, Type 2",MESH:D003924,marker/mechanism,,19586609
+INS2,16334,Diabetes Mellitus,MESH:D003920,marker/mechanism,,19775285
+INS2,16334,"Diabetes Mellitus, Type 1",MESH:D003922,marker/mechanism,,17151334|29420703
+INSR,3643,"Diabetes Mellitus, Experimental",MESH:D003921,marker/mechanism,,22138235|9243097
+INSR,3643,"Diabetes Mellitus, Insulin-Resistant, with Acanthosis Nigricans",MESH:C562710,marker/mechanism,610549,
+IRS1,3667,Diabetes Mellitus,MESH:D003920,marker/mechanism,,10591678
+IRS1,3667,"Diabetes Mellitus, Experimental",MESH:D003921,marker/mechanism,,22138235
+IRS1,3667,"Diabetes Mellitus, Type 2",MESH:D003924,marker/mechanism,125853,10430617|12679424|15688983|19734900|28869590|8104271|8723689
+IRS2,8660,"Diabetes Mellitus, Experimental",MESH:D003921,marker/mechanism,,25808216
+IRS2,8660,"Diabetes Mellitus, Type 2",MESH:D003924,marker/mechanism,125853,
+ITGA1,3672,"Diabetes Mellitus, Type 2",MESH:D003924,marker/mechanism,,30718926
+ITLN1,55600,"Diabetes Mellitus, Type 2",MESH:D003924,marker/mechanism,,23555749
+ITPR3,3710,"Diabetes Mellitus, Type 1",MESH:D003922,marker/mechanism,222100,
+JADE2,23338,"Diabetes Mellitus, Type 2",MESH:D003924,marker/mechanism,,28869590
+JAZF1,221895,"Diabetes Mellitus, Type 2",MESH:D003924,marker/mechanism,,18372903
+KCNJ11,3767,"Diabetes Mellitus, Experimental",MESH:D003921,marker/mechanism,,16123366
+KCNJ11,3767,"Diabetes Mellitus, Transient Neonatal, 3",MESH:C566432,marker/mechanism,610582,
+KCNJ11,3767,"Diabetes Mellitus, Type 1",MESH:D003922,marker/mechanism,,18025464
+KCNJ11,3767,"Diabetes Mellitus, Type 2",MESH:D003924,marker/mechanism,,16123366|22209866
+KCNK16,83795,"Diabetes Mellitus, Type 2",MESH:D003924,marker/mechanism,,22158537
+KCNQ1,3784,"Diabetes Mellitus, Type 2",MESH:D003924,marker/mechanism,,18711366|18711367|26551672
+KCNU1,157855,"Diabetes Mellitus, Type 2",MESH:D003924,marker/mechanism,,28869590
+KIF1A,547,Diabetes Mellitus,MESH:D003920,marker/mechanism,,23776493
+KIF5B,3799,Diabetes Mellitus,MESH:D003920,marker/mechanism,,23776493
+KL,9365,"Diabetes Mellitus, Type 2",MESH:D003924,marker/mechanism,,28869590
+KLF14,136259,"Diabetes Mellitus, Type 2",MESH:D003924,marker/mechanism,,29632379
+KSR2,283455,"Diabetes Mellitus, Type 2",MESH:D003924,marker/mechanism,,30718926
+LEP,3952,"Diabetes Mellitus, Experimental",MESH:D003921,marker/mechanism,,28242381|31313498|31483951
+LEP,3952,"Diabetes Mellitus, Type 2",MESH:D003924,therapeutic,,15070752
+LEPR,3953,Diabetes Mellitus,MESH:D003920,marker/mechanism,,15028607
+LEPR,3953,"Diabetes Mellitus, Experimental",MESH:D003921,marker/mechanism,,15093691|16427799|17065336|19452630|19478208|20567778|22933112|24263156|26939912|27151219|30635400|35472412|36066211|39059604
+LEPR,3953,"Diabetes Mellitus, Type 2",MESH:D003924,marker/mechanism,,20175764|22933112|24263156|26939912|39059604
+LIPC,3990,"Diabetes Mellitus, Type 2",MESH:D003924,marker/mechanism,125853,15126514|15656877
+MAEA,10296,"Diabetes Mellitus, Type 2",MESH:D003924,marker/mechanism,,22158537
+MAP3K5,4217,Diabetes Mellitus,MESH:D003920,marker/mechanism,,16731828
+MAP3K5,4217,"Diabetes Mellitus, Experimental",MESH:D003921,marker/mechanism,,18342293
+MAPK8IP1,9479,"Diabetes Mellitus, Type 2",MESH:D003924,marker/mechanism,125853,
+MAT1A,4143,"Diabetes Mellitus, Type 2",MESH:D003924,marker/mechanism,,23665415
+MFGE8,4240,"Diabetes Mellitus, Experimental",MESH:D003921,marker/mechanism,,21505870
+MIR10B,406903,"Diabetes Mellitus, Type 2",MESH:D003924,marker/mechanism,,28545106
+MIR1226,100302232,"Diabetes Mellitus, Type 2",MESH:D003924,marker/mechanism,,28545106
+MIR1228,100302201,"Diabetes Mellitus, Type 2",MESH:D003924,marker/mechanism,,28545106
+MIR1249,100302149,"Diabetes Mellitus, Type 2",MESH:D003924,marker/mechanism,,28545106
+MIR125B1,406911,"Diabetes Mellitus, Type 2",MESH:D003924,marker/mechanism,,24478399
+MIR126,406913,"Diabetes Mellitus, Type 2",MESH:D003924,marker/mechanism,,24478399
+MIR1260A,100302236,"Diabetes Mellitus, Type 2",MESH:D003924,marker/mechanism,,28545106
+MIR1260B,100422991,"Diabetes Mellitus, Type 2",MESH:D003924,marker/mechanism,,28545106
+MIR127,406914,"Diabetes Mellitus, Type 2",MESH:D003924,marker/mechanism,,28545106
+MIR1296,100302150,"Diabetes Mellitus, Type 2",MESH:D003924,marker/mechanism,,28545106
+MIR1301,100302246,"Diabetes Mellitus, Type 2",MESH:D003924,marker/mechanism,,28545106
+MIR1306,100302197,"Diabetes Mellitus, Type 2",MESH:D003924,marker/mechanism,,28545106
+MIR1307,100302174,"Diabetes Mellitus, Type 2",MESH:D003924,marker/mechanism,,28545106
+MIR130B,406920,"Diabetes Mellitus, Type 2",MESH:D003924,marker/mechanism,,24478399
+MIR140,406932,"Diabetes Mellitus, Type 2",MESH:D003924,marker/mechanism,,24478399
+MIR141,406933,"Diabetes Mellitus, Type 2",MESH:D003924,marker/mechanism,,28545106
+MIR142,406934,"Diabetes Mellitus, Type 2",MESH:D003924,marker/mechanism,,24478399
+MIR144,406936,"Diabetes Mellitus, Type 2",MESH:D003924,marker/mechanism,,28545106
+MIR151A,442893,"Diabetes Mellitus, Type 2",MESH:D003924,marker/mechanism,,28545106
+MIR17HG,407975,"Diabetes Mellitus, Type 2",MESH:D003924,marker/mechanism,,28869590
+MIR181C,406957,"Diabetes Mellitus, Type 2",MESH:D003924,marker/mechanism,,28545106
+MIR1908,100302263,"Diabetes Mellitus, Type 2",MESH:D003924,marker/mechanism,,28545106
+MIR192,406967,"Diabetes Mellitus, Type 2",MESH:D003924,marker/mechanism,,24478399
+MIR195,406971,"Diabetes Mellitus, Type 2",MESH:D003924,marker/mechanism,,24478399
+MIR200A,406983,"Diabetes Mellitus, Type 2",MESH:D003924,marker/mechanism,,28545106
+MIR203A,406986,"Diabetes Mellitus, Type 2",MESH:D003924,marker/mechanism,,28545106
+MIR204,406987,"Diabetes Mellitus, Type 2",MESH:D003924,marker/mechanism,,28545106
+MIR205,406988,"Diabetes Mellitus, Type 2",MESH:D003924,marker/mechanism,,28545106
+MIR2116,100313886,"Diabetes Mellitus, Type 2",MESH:D003924,marker/mechanism,,28545106
+MIR214,406996,"Diabetes Mellitus, Type 2",MESH:D003924,marker/mechanism,,28545106
+MIR215,406997,"Diabetes Mellitus, Type 2",MESH:D003924,marker/mechanism,,28545106
+MIR221,407006,"Diabetes Mellitus, Type 2",MESH:D003924,marker/mechanism,,28545106
+MIR222,407007,"Diabetes Mellitus, Type 2",MESH:D003924,marker/mechanism,,24478399|28545106
+MIR27A,407018,"Diabetes Mellitus, Type 2",MESH:D003924,marker/mechanism,,28545106
+MIR30A,407029,"Diabetes Mellitus, Type 2",MESH:D003924,marker/mechanism,,28545106
+MIR3173,100422981,"Diabetes Mellitus, Type 2",MESH:D003924,marker/mechanism,,28545106
+MIR335,442904,"Diabetes Mellitus, Type 2",MESH:D003924,marker/mechanism,,28545106
+MIR339,442907,"Diabetes Mellitus, Type 2",MESH:D003924,marker/mechanism,,28545106
+MIR33B,693120,"Diabetes Mellitus, Type 2",MESH:D003924,marker/mechanism,,28545106
+MIR375,494324,"Diabetes Mellitus, Type 2",MESH:D003924,marker/mechanism,,28545106
+MIR377,494326,"Diabetes Mellitus, Type 2",MESH:D003924,marker/mechanism,,28545106
+MIR409,574413,"Diabetes Mellitus, Type 2",MESH:D003924,marker/mechanism,,28545106
+MIR423,494335,"Diabetes Mellitus, Type 2",MESH:D003924,marker/mechanism,,24478399
+MIR432,574451,"Diabetes Mellitus, Type 2",MESH:D003924,marker/mechanism,,28545106
+MIR4482,100616323,"Diabetes Mellitus, Type 2",MESH:D003924,marker/mechanism,,28545106
+MIR4516,100616258,"Diabetes Mellitus, Type 2",MESH:D003924,marker/mechanism,,28545106
+MIR483,619552,"Diabetes Mellitus, Type 2",MESH:D003924,marker/mechanism,,28545106
+MIR485,574436,"Diabetes Mellitus, Type 2",MESH:D003924,marker/mechanism,,28545106
+MIR487B,664616,"Diabetes Mellitus, Type 2",MESH:D003924,marker/mechanism,,28545106
+MIR532,693124,"Diabetes Mellitus, Type 2",MESH:D003924,marker/mechanism,,24478399
+MIR628,693213,"Diabetes Mellitus, Type 2",MESH:D003924,marker/mechanism,,28545106
+MIR6741,102466270,"Diabetes Mellitus, Type 2",MESH:D003924,marker/mechanism,,28545106
+MIR6803,102466739,"Diabetes Mellitus, Type 2",MESH:D003924,marker/mechanism,,28545106
+MIR744,100126313,"Diabetes Mellitus, Type 2",MESH:D003924,marker/mechanism,,28545106
+MIR7704,102465802,"Diabetes Mellitus, Type 2",MESH:D003924,marker/mechanism,,28545106
+MIR8061,102466251,"Diabetes Mellitus, Type 2",MESH:D003924,marker/mechanism,,28545106
+MIR885,100126334,"Diabetes Mellitus, Type 2",MESH:D003924,marker/mechanism,,28545106
+MIR92B,693235,"Diabetes Mellitus, Type 2",MESH:D003924,marker/mechanism,,28545106
+MIR939,100126351,"Diabetes Mellitus, Type 2",MESH:D003924,marker/mechanism,,28545106
+MIR98,407054,"Diabetes Mellitus, Type 2",MESH:D003924,marker/mechanism,,28545106
+MIRLET7D,406886,"Diabetes Mellitus, Type 2",MESH:D003924,marker/mechanism,,28545106
+MMP2,4313,"Diabetes Mellitus, Experimental",MESH:D003921,marker/mechanism,,21963884
+MMP9,4318,"Diabetes Mellitus, Experimental",MESH:D003921,marker/mechanism,,21963884|22191573
+MPO,4353,"Diabetes Mellitus, Experimental",MESH:D003921,marker/mechanism,,20388520
+MRAS,22808,"Diabetes Mellitus, Type 2",MESH:D003924,marker/mechanism,,28869590
+MT2A,4502,Diabetes Mellitus,MESH:D003920,marker/mechanism,,27122239
+MTNR1B,4544,"Diabetes Mellitus, Type 2",MESH:D003924,marker/mechanism,125853,19060907|19060908|19060909|22286214|26551672
+NCF1,653361,Diabetes Mellitus,MESH:D003920,marker/mechanism,,23723366
+NCF1,653361,"Diabetes Mellitus, Experimental",MESH:D003921,marker/mechanism,,14871415|16380483
+ND1,4535,"Diabetes Mellitus, Experimental",MESH:D003921,marker/mechanism,,14563825
+NEUROD1,4760,"Diabetes Mellitus, Experimental",MESH:D003921,marker/mechanism,,16123366
+NEUROD1,4760,"Diabetes Mellitus, Type 2",MESH:D003924,marker/mechanism,125853,16123366
+NFATC2,4773,"Diabetes Mellitus, Type 2",MESH:D003924,marker/mechanism,,30718926
+NFKB1,4790,"Diabetes Mellitus, Type 2",MESH:D003924,marker/mechanism,,17107852
+NKX6-1,4825,"Diabetes Mellitus, Experimental",MESH:D003921,marker/mechanism,,16123366
+NKX6-1,4825,"Diabetes Mellitus, Type 2",MESH:D003924,marker/mechanism,,16123366
+NOS1,4842,"Diabetes Mellitus, Type 1",MESH:D003922,marker/mechanism,,21666113
+NOS2,4843,"Diabetes Mellitus, Experimental",MESH:D003921,marker/mechanism,,16380483|16959961
+NOS2,4843,"Diabetes Mellitus, Type 2",MESH:D003924,marker/mechanism,,16959961
+NOS3,4846,"Diabetes Mellitus, Experimental",MESH:D003921,marker/mechanism,,11696579|14871415|15490108|16959961|18266981|19478208|22191573|22933112
+NOS3,4846,"Diabetes Mellitus, Type 1",MESH:D003922,marker/mechanism,,21666113
+NOS3,4846,"Diabetes Mellitus, Type 2",MESH:D003924,marker/mechanism,,12716763|16959961
+NOTCH2,4853,"Diabetes Mellitus, Type 2",MESH:D003924,marker/mechanism,,18372903
+NQO1,1728,"Diabetes Mellitus, Experimental",MESH:D003921,therapeutic,,23458895
+NR1I2,8856,Diabetes Mellitus,MESH:D003920,marker/mechanism,,20869355
+NR1I3,9970,Diabetes Mellitus,MESH:D003920,marker/mechanism,,20869355
+NUS1,116150,"Diabetes Mellitus, Type 2",MESH:D003924,marker/mechanism,,30718926|33812996
+OGG1,4968,"Diabetes Mellitus, Type 2",MESH:D003924,marker/mechanism,,22652274
+PAM,5066,"Diabetes Mellitus, Type 2",MESH:D003924,marker/mechanism,,24464100|30054598
+PAX4,5078,"Diabetes Mellitus, Type 1",MESH:D003922,marker/mechanism,612227,
+PAX4,5078,"Diabetes Mellitus, Type 2",MESH:D003924,marker/mechanism,125853,
+PAX6,5080,"Diabetes Mellitus, Experimental",MESH:D003921,marker/mechanism,,16123366
+PAX6,5080,"Diabetes Mellitus, Type 2",MESH:D003924,marker/mechanism,,16123366
+PCK1,5105,"Diabetes Mellitus, Experimental",MESH:D003921,marker/mechanism,,20363216
+PCSK2,5126,"Diabetes Mellitus, Experimental",MESH:D003921,marker/mechanism,,16123366
+PCSK2,5126,"Diabetes Mellitus, Type 2",MESH:D003924,marker/mechanism,,16123366
+PCX,18563,"Diabetes Mellitus, Experimental",MESH:D003921,marker/mechanism,,16123366
+PCX,18563,"Diabetes Mellitus, Type 2",MESH:D003924,marker/mechanism,,16123366
+PDK4,5166,"Diabetes Mellitus, Experimental",MESH:D003921,marker/mechanism,,14563825
+PDX1,3651,"Diabetes Mellitus, Experimental",MESH:D003921,marker/mechanism,,16123366
+PDX1,3651,"Diabetes Mellitus, Type 2",MESH:D003924,marker/mechanism,125853,16123366|24464100
+PEPD,5184,"Diabetes Mellitus, Type 2",MESH:D003924,marker/mechanism,,22158537
+PFKM,5213,"Diabetes Mellitus, Experimental",MESH:D003921,marker/mechanism,,14563825
+PIK3CG,5294,"Diabetes Mellitus, Type 2",MESH:D003924,marker/mechanism,,31626838
+PKLR,5313,"Diabetes Mellitus, Experimental",MESH:D003921,marker/mechanism,,20363216
+PLEKHA1,59338,"Diabetes Mellitus, Type 2",MESH:D003924,marker/mechanism,,28869590
+POMC,5443,Diabetes Mellitus,MESH:D003920,marker/mechanism,,19153526
+PON1,5444,Diabetes Mellitus,MESH:D003920,marker/mechanism,,16229851|19022366
+PPARA,5465,"Diabetes Mellitus, Experimental",MESH:D003921,marker/mechanism,,12967931|14563825|23090186
+PPARA,5465,"Diabetes Mellitus, Type 2",MESH:D003924,marker/mechanism,,17317762|31626838
+PPARG,5468,Diabetes Mellitus,MESH:D003920,therapeutic,,16168052
+PPARG,5468,"Diabetes Mellitus, Experimental",MESH:D003921,marker/mechanism,,12967931|16123366|21757225
+PPARG,5468,"Diabetes Mellitus, Type 2",MESH:D003924,marker/mechanism|therapeutic,125853,15592662|16123366|16249460|17317762|21484566|28182703|31626838
+PPARGC1A,10891,"Diabetes Mellitus, Experimental",MESH:D003921,marker/mechanism,,14563825
+PPARGC1A,10891,"Diabetes Mellitus, Type 2",MESH:D003924,marker/mechanism,,15592662|17317762
+PPP1R3A,5506,"Diabetes Mellitus, Type 2",MESH:D003924,marker/mechanism,125853,
+PRKCA,5578,"Diabetes Mellitus, Experimental",MESH:D003921,marker/mechanism,,12198386
+PRKCB,5579,"Diabetes Mellitus, Type 2",MESH:D003924,marker/mechanism,,15531508
+PRKCD,5580,"Diabetes Mellitus, Experimental",MESH:D003921,marker/mechanism,,12198386
+PRKCE,5581,"Diabetes Mellitus, Experimental",MESH:D003921,marker/mechanism,,12198386
+PRKCQ,5588,"Diabetes Mellitus, Type 1",MESH:D003922,marker/mechanism,,18978792
+PROX1,5629,"Diabetes Mellitus, Type 2",MESH:D003924,marker/mechanism,,20081858
+PSMD6,9861,"Diabetes Mellitus, Type 2",MESH:D003924,marker/mechanism,,22158537
+PTF1A,256297,"Diabetes Mellitus, Permanent Neonatal, with Cerebellar Agenesis",MESH:C563796,marker/mechanism,609069,15543146|19650412
+PTGS2,5743,Diabetes Mellitus,MESH:D003920,marker/mechanism,,15885672
+PTGS2,5743,"Diabetes Mellitus, Experimental",MESH:D003921,marker/mechanism,,14514642|21414306
+PTPN1,5770,"Diabetes Mellitus, Type 2",MESH:D003924,marker/mechanism,125853,
+PTPN22,26191,"Diabetes Mellitus, Type 1",MESH:D003922,marker/mechanism,222100,21190368|30224649
+RAC1,5879,Diabetes Mellitus,MESH:D003920,marker/mechanism,,23723366
+RELA,5970,"Diabetes Mellitus, Experimental",MESH:D003921,marker/mechanism,,22138235
+REN,5972,"Diabetes Mellitus, Experimental",MESH:D003921,marker/mechanism,,18829990
+RETN,56729,"Diabetes Mellitus, Type 2",MESH:D003924,marker/mechanism,125853,
+RNF6,6049,"Diabetes Mellitus, Type 2",MESH:D003924,marker/mechanism,,28869590
+S100A6,6277,"Diabetes Mellitus, Experimental",MESH:D003921,marker/mechanism,,16123366
+S100A6,6277,"Diabetes Mellitus, Type 2",MESH:D003924,marker/mechanism,,16123366
+S1PR2,9294,"Diabetes Mellitus, Experimental",MESH:D003921,marker/mechanism,,22406263
+S1PR4,8698,"Diabetes Mellitus, Experimental",MESH:D003921,marker/mechanism,,22406263
+S1PR5,53637,"Diabetes Mellitus, Experimental",MESH:D003921,marker/mechanism,,22406263
+SCTR,6344,"Diabetes Mellitus, Type 2",MESH:D003924,marker/mechanism,,30718926
+SERPINE1,5054,"Diabetes Mellitus, Experimental",MESH:D003921,marker/mechanism,,21757225
+SFRP4,6424,"Diabetes Mellitus, Type 2",MESH:D003924,marker/mechanism,,23140642
+SH2B3,10019,"Diabetes Mellitus, Type 1",MESH:D003922,marker/mechanism,,30224649
+SHBG,6462,"Diabetes Mellitus, Type 2",MESH:D003924,marker/mechanism,,21982312
+SIRT1,23411,Diabetes Mellitus,MESH:D003920,marker/mechanism,,24894401
+SIRT1,23411,"Diabetes Mellitus, Experimental",MESH:D003921,marker/mechanism,,23090186|23792339
+SIRT1,23411,"Diabetes Mellitus, Type 2",MESH:D003924,marker/mechanism,,23834033
+SLC11A1,6556,"Diabetes Mellitus, Type 1",MESH:D003922,marker/mechanism,,16597321
+SLC1A2,6506,"Diabetes Mellitus, Type 2",MESH:D003924,marker/mechanism,,30718926
+SLC22A3,6581,"Diabetes Mellitus, Type 2",MESH:D003924,marker/mechanism,,28869590
+SLC29A3,55315,"Diabetes Mellitus, Type 1",MESH:D003922,marker/mechanism,,19336477|20140240
+SLC2A1,6513,"Diabetes Mellitus, Type 2",MESH:D003924,marker/mechanism,,9589670
+SLC2A2,6514,"Diabetes Mellitus, Experimental",MESH:D003921,marker/mechanism,,16123366
+SLC2A2,6514,"Diabetes Mellitus, Type 2",MESH:D003924,marker/mechanism,125853,16123366
+SLC2A4,6517,"Diabetes Mellitus, Experimental",MESH:D003921,marker/mechanism,,11947963|14563825|18266981|22138235
+SLC2A4,6517,"Diabetes Mellitus, Type 2",MESH:D003924,marker/mechanism,,11947963|17107852|22384078|31626838
+SLC30A8,169026,"Diabetes Mellitus, Type 2",MESH:D003924,marker/mechanism|therapeutic,125853,19479076|19542200|20424817|21461562|21779873|24584071
+SLC9A1,6548,"Diabetes Mellitus, Experimental",MESH:D003921,marker/mechanism,,20003708
+SLC9A3,6550,"Diabetes Mellitus, Experimental",MESH:D003921,marker/mechanism,,20003708
+SMAD5,4090,"Diabetes Mellitus, Type 2",MESH:D003924,therapeutic,,20079400
+SMIM43,132332,"Diabetes Mellitus, Type 2",MESH:D003924,marker/mechanism,,28869590
+SNAP25,6616,"Diabetes Mellitus, Experimental",MESH:D003921,marker/mechanism,,16123366
+SNAP25,6616,"Diabetes Mellitus, Type 2",MESH:D003924,marker/mechanism,,16123366
+SOD1,6647,Diabetes Mellitus,MESH:D003920,marker/mechanism,,23786522
+SOD1,6647,"Diabetes Mellitus, Experimental",MESH:D003921,marker/mechanism,,23090186
+SOD1,6647,"Diabetes Mellitus, Type 2",MESH:D003924,marker/mechanism,,15531508
+SOD2,6648,"Diabetes Mellitus, Experimental",MESH:D003921,marker/mechanism|therapeutic,,15855331|23090186
+SOD2,6648,"Diabetes Mellitus, Type 2",MESH:D003924,marker/mechanism,,15531508
+SREBF1,6720,"Diabetes Mellitus, Experimental",MESH:D003921,marker/mechanism,,10900012|23090186
+ST6GAL1,6480,"Diabetes Mellitus, Type 2",MESH:D003924,marker/mechanism,,21874001
+STAT3,6774,"Diabetes Mellitus, Type 1",MESH:D003922,marker/mechanism,,25038750
+STS,412,"Diabetes Mellitus, Experimental",MESH:D003921,therapeutic,,24497646
+SUMO4,387082,"Diabetes Mellitus, Insulin-Dependent, 5",MESH:C563958,marker/mechanism,600320,
+TCF7L2,6934,"Diabetes Mellitus, Type 2",MESH:D003924,marker/mechanism,125853,17460697|23104008|28869590
+TGFB1,7040,"Diabetes Mellitus, Experimental",MESH:D003921,marker/mechanism,,17177138|23090186
+THADA,63892,"Diabetes Mellitus, Type 2",MESH:D003924,marker/mechanism,,18372903
+THBS2,7058,Diabetes Mellitus,MESH:D003920,marker/mechanism,,23723366
+TIMP1,7076,"Diabetes Mellitus, Experimental",MESH:D003921,marker/mechanism,,21963884
+TIMP1,7076,"Diabetes Mellitus, Type 2",MESH:D003924,marker/mechanism,,16023759
+TIMP2,7077,"Diabetes Mellitus, Experimental",MESH:D003921,marker/mechanism,,21963884
+TMEM18,129787,"Diabetes Mellitus, Type 2",MESH:D003924,marker/mechanism,,28869590
+TNF,7124,"Diabetes Mellitus, Experimental",MESH:D003921,marker/mechanism,,12123627|12193562|19478208|20388520|22138235|24513509
+TNF,7124,"Diabetes Mellitus, Type 1",MESH:D003922,marker/mechanism,,23640034
+TNF,7124,"Diabetes Mellitus, Type 2",MESH:D003924,marker/mechanism,,24513509
+TNFRSF1A,7132,"Diabetes Mellitus, Experimental",MESH:D003921,therapeutic,,12193562
+TNFRSF1A,7132,"Diabetes Mellitus, Type 2",MESH:D003924,marker/mechanism,,11882518
+TNFRSF1B,7133,"Diabetes Mellitus, Type 2",MESH:D003924,marker/mechanism,,11882518
+TNFSF8,944,"Diabetes Mellitus, Congenital Autoimmune",MESH:C565730,marker/mechanism,,12930356
+TP53,7157,"Diabetes Mellitus, Experimental",MESH:D003921,marker/mechanism,,23792339
+TRNL1,4567,Noninsulin-dependent diabetes mellitus with deafness,MESH:C536246,marker/mechanism,,17018649
+TRP53,22059,"Diabetes Mellitus, Experimental",MESH:D003921,marker/mechanism,,21078376
+TYK2,7297,"Diabetes Mellitus, Type 1",MESH:D003922,marker/mechanism,,30224649
+UBE2E2,7325,"Diabetes Mellitus, Type 2",MESH:D003924,marker/mechanism,,20818381
+UCP2,7351,"Diabetes Mellitus, Experimental",MESH:D003921,marker/mechanism,,14563825|16123366
+UCP2,7351,"Diabetes Mellitus, Type 2",MESH:D003924,marker/mechanism,,15562023|16123366
+USP48,84196,"Diabetes Mellitus, Type 2",MESH:D003924,marker/mechanism,,30718926
+VEGFA,7422,"Diabetes Mellitus, Experimental",MESH:D003921,marker/mechanism,,22191573
+VPS26A,9559,"Diabetes Mellitus, Type 2",MESH:D003924,marker/mechanism,,21874001
+WFS1,7466,"Diabetes Mellitus, Type 2",MESH:D003924,marker/mechanism,125853,17603484
+YWHAH,7533,"Diabetes Mellitus, Experimental",MESH:D003921,therapeutic,,18342293
+ZC3HC1,51530,"Diabetes Mellitus, Type 2",MESH:D003924,marker/mechanism,,28869590
+ZFAND3,60685,"Diabetes Mellitus, Type 2",MESH:D003924,marker/mechanism,,22158537
+ZFP57,346171,Diabetes Mellitus,MESH:D003920,marker/mechanism,,18622393
+ZFP57,346171,"Diabetes Mellitus, Transient Neonatal, 1",MESH:C563322,marker/mechanism,601410,
+ZNF257,113835,"Diabetes Mellitus, Type 2",MESH:D003924,marker/mechanism,,30718926

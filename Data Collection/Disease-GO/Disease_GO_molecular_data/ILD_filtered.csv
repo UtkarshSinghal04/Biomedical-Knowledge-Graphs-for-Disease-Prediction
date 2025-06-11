@@ -1,0 +1,356 @@
+GOName,GOID,DiseaseName,DiseaseID,InferenceChemicalQty,InferenceChemicalNames,InferenceGeneQty,InferenceGeneSymbols
+3'-5' exonuclease activity,GO:0008408,Diffuse Cerebral Sclerosis of Schilder,MESH:D002549,0,,1,POLG
+3beta-hydroxysteroid dehydrogenase activity,GO:0102727,Child Behavior Disorders,MESH:D002653,1,Chlorpromazine,0,
+3beta-hydroxysteroid dehydrogenase activity,GO:0102727,"Lead Poisoning, Nervous System, Childhood",MESH:D020264,1,lead acetate,0,
+5'-deoxyribose-5-phosphate lyase activity,GO:0051575,Diffuse Cerebral Sclerosis of Schilder,MESH:D002549,0,,1,POLG
+5'-nucleotidase activity,GO:0008253,Child Behavior Disorders,MESH:D002653,1,bisphenol A,0,
+6-phosphofructo-2-kinase activity,GO:0003873,Child Behavior Disorders,MESH:D002653,1,Lithium Carbonate,0,
+6-phosphofructokinase activity,GO:0003872,Child Behavior Disorders,MESH:D002653,1,Lead,0,
+6-phosphofructokinase activity,GO:0003872,"Lead Poisoning, Nervous System, Childhood",MESH:D020264,2,Lead|lead acetate,0,
+acetylcholinesterase activity,GO:0003990,Child Behavior Disorders,MESH:D002653,1,bisphenol A,0,
+acetylcholinesterase activity,GO:0003990,"Lead Poisoning, Nervous System, Childhood",MESH:D020264,1,Ascorbic Acid,0,
+acetyl-CoA carboxylase activity,GO:0003989,Child Behavior Disorders,MESH:D002653,2,bisphenol A|Niacinamide,0,
+acid phosphatase activity,GO:0003993,Child Behavior Disorders,MESH:D002653,2,bisphenol A|Lead,0,
+acid phosphatase activity,GO:0003993,"Lead Poisoning, Nervous System, Childhood",MESH:D020264,3,Ascorbic Acid|Lead|lead acetate,0,
+aconitate hydratase activity,GO:0003994,Child Behavior Disorders,MESH:D002653,1,bisphenol A,0,
+actin binding,GO:0003779,"Child Development Disorders, Pervasive",MESH:D002659,0,,1,MRTFB
+ADP phosphatase activity,GO:0043262,Child Behavior Disorders,MESH:D002653,1,bisphenol A,0,
+ADP phosphatase activity,GO:0043262,"Hypophosphatasia, Childhood",MESH:C562440,0,,1,ALPL
+alditol:NADP+ 1-oxidoreductase activity,GO:0004032,Child Behavior Disorders,MESH:D002653,1,Valproic Acid,0,
+alditol:NADP+ 1-oxidoreductase activity,GO:0004032,"Child Development Disorders, Pervasive",MESH:D002659,1,Valproic Acid,0,
+alkaline phosphatase activity,GO:0004035,Child Behavior Disorders,MESH:D002653,7,bisphenol A|Isoniazid|Lead|Niacinamide|Phenobarbital|Prednisolone|Valproic Acid,0,
+alkaline phosphatase activity,GO:0004035,"Child Development Disorders, Pervasive",MESH:D002659,2,Methionine|Valproic Acid,0,
+alkaline phosphatase activity,GO:0004035,Child Nutrition Disorders,MESH:D015362,2,Cholecalciferol|Vitamin A,0,
+alkaline phosphatase activity,GO:0004035,"Hypophosphatasia, Childhood",MESH:C562440,0,,1,ALPL
+alkaline phosphatase activity,GO:0004035,"Lead Poisoning, Nervous System, Childhood",MESH:D020264,3,Ascorbic Acid|Lead|lead acetate,0,
+alkane 1-monooxygenase activity,GO:0018685,Child Behavior Disorders,MESH:D002653,1,Phenobarbital,0,
+AMP-activated protein kinase activity,GO:0004679,Child Behavior Disorders,MESH:D002653,2,bisphenol A|Niacinamide,0,
+amyloid-beta binding,GO:0001540,Alternating hemiplegia of childhood,MESH:C536589,0,,1,ATP1A3
+antioxidant activity,GO:0016209,Child Behavior Disorders,MESH:D002653,1,bisphenol A,0,
+antioxidant activity,GO:0016209,Child Nutrition Disorders,MESH:D015362,1,Thiamine,0,
+antioxidant activity,GO:0016209,"Lead Poisoning, Nervous System, Childhood",MESH:D020264,2,Ascorbic Acid|lead acetate,0,
+arginase activity,GO:0004053,Child Behavior Disorders,MESH:D002653,3,bisphenol A|Haloperidol|Valproic Acid,0,
+arginase activity,GO:0004053,"Child Development Disorders, Pervasive",MESH:D002659,1,Valproic Acid,0,
+aryldialkylphosphatase activity,GO:0004063,Child Behavior Disorders,MESH:D002653,1,Valproic Acid,0,
+aryldialkylphosphatase activity,GO:0004063,"Child Development Disorders, Pervasive",MESH:D002659,1,Valproic Acid,0,
+ATPase-coupled intramembrane lipid transporter activity,GO:0140326,Child Behavior Disorders,MESH:D002653,1,Chlorpromazine,0,
+ATPase-coupled monoatomic cation transmembrane transporter activity,GO:0019829,Alternating hemiplegia of childhood,MESH:C536589,0,,1,ATP1A2
+ATP binding,GO:0005524,Alternating hemiplegia of childhood,MESH:C536589,0,,2,ATP1A2|ATP1A3
+ATP binding,GO:0005524,Spinal Muscular Atrophies of Childhood,MESH:D014897,0,,1,DYNC1H1
+ATP-dependent activity,GO:0140657,Child Behavior Disorders,MESH:D002653,3,bisphenol A|Haloperidol|Lead,0,
+ATP-dependent activity,GO:0140657,"Lead Poisoning, Nervous System, Childhood",MESH:D020264,2,Lead|lead acetate,0,
+ATP hydrolysis activity,GO:0016887,Alternating hemiplegia of childhood,MESH:C536589,0,,2,ATP1A2|ATP1A3
+ATP hydrolysis activity,GO:0016887,Child Behavior Disorders,MESH:D002653,1,bisphenol A,0,
+ATP hydrolysis activity,GO:0016887,"Hypophosphatasia, Childhood",MESH:C562440,0,,1,ALPL
+ATP hydrolysis activity,GO:0016887,Spinal Muscular Atrophies of Childhood,MESH:D014897,0,,1,DYNC1H1
+beta2-adrenergic receptor activity,GO:0004941,"CHOREA, CHILDHOOD-ONSET, WITH PSYCHOMOTOR RETARDATION",OMIM:616939,0,,1,GPR88
+beta-glucosidase activity,GO:0008422,"Hypercalciuria, childhood idiopathic",MESH:C536082,0,,1,KL
+beta-glucuronidase activity,GO:0004566,"Hypercalciuria, childhood idiopathic",MESH:C536082,0,,1,KL
+cADPR-sensitive calcium-release channel activity,GO:0072346,Child Behavior Disorders,MESH:D002653,1,Lead,0,
+cADPR-sensitive calcium-release channel activity,GO:0072346,"Lead Poisoning, Nervous System, Childhood",MESH:D020264,1,Lead,0,
+calcium-dependent ATPase activity,GO:0030899,Child Behavior Disorders,MESH:D002653,1,Chlorpromazine,0,
+calcium-dependent cysteine-type endopeptidase activity,GO:0004198,Child Behavior Disorders,MESH:D002653,1,methylmercuric chloride,0,
+calcium-dependent phospholipase A2 activity,GO:0047498,Child Nutrition Disorders,MESH:D015362,1,Vitamin A,0,
+calcium ion binding,GO:0005509,Alternating hemiplegia of childhood,MESH:C536589,0,,1,ATP1A2
+calcium ion binding,GO:0005509,"Hypophosphatasia, Childhood",MESH:C562440,0,,1,ALPL
+calmodulin-dependent protein kinase activity,GO:0004683,"Lead Poisoning, Nervous System, Childhood",MESH:D020264,1,Ascorbic Acid,0,
+calmodulin-dependent protein phosphatase activity,GO:0033192,Child Behavior Disorders,MESH:D002653,1,bisphenol A,0,
+carbonate dehydratase activity,GO:0004089,Child Behavior Disorders,MESH:D002653,1,Valproic Acid,0,
+carbonate dehydratase activity,GO:0004089,"Child Development Disorders, Pervasive",MESH:D002659,1,Valproic Acid,0,
+carboxylic ester hydrolase activity,GO:0052689,"Lead Poisoning, Nervous System, Childhood",MESH:D020264,1,lead acetate,0,
+carboxylic ester hydrolase activity,GO:0052689,Sick Building Syndrome,MESH:D018877,0,,1,PNPLA6
+cardiolipin binding,GO:1901612,Child Behavior Disorders,MESH:D002653,1,Lead,0,
+cardiolipin binding,GO:1901612,"Lead Poisoning, Nervous System, Childhood",MESH:D020264,2,Lead|lead acetate,0,
+carnitine O-octanoyltransferase activity,GO:0008458,Child Behavior Disorders,MESH:D002653,1,bisphenol A,0,
+carnitine O-palmitoyltransferase activity,GO:0004095,Child Behavior Disorders,MESH:D002653,1,bisphenol A,0,
+chaperone binding,GO:0051087,Alternating hemiplegia of childhood,MESH:C536589,0,,2,ATP1A2|ATP1A3
+cholinesterase activity,GO:0004104,Child Behavior Disorders,MESH:D002653,1,Manganese,0,
+chromatin binding,GO:0003682,"Child Development Disorders, Pervasive",MESH:D002659,0,,1,MECP2
+chromatin binding,GO:0003682,Diffuse Cerebral Sclerosis of Schilder,MESH:D002549,0,,1,POLG
+chromatin DNA binding,GO:0031490,"Child Development Disorders, Pervasive",MESH:D002659,0,,1,MECP2
+citrate synthase activity,GO:0036440,Child Behavior Disorders,MESH:D002653,1,bisphenol A,0,
+creatine kinase activity,GO:0004111,Child Behavior Disorders,MESH:D002653,2,bisphenol A|Lead,0,
+creatine kinase activity,GO:0004111,"Lead Poisoning, Nervous System, Childhood",MESH:D020264,2,Ascorbic Acid|Lead,0,
+cysteine-type endopeptidase activity,GO:0004197,Child Behavior Disorders,MESH:D002653,1,bisphenol A,0,
+cysteine-type endopeptidase activity involved in apoptotic process,GO:0097153,Child Nutrition Disorders,MESH:D015362,1,Mebendazole,0,
+cysteine-type endopeptidase activity involved in apoptotic process,GO:0097153,"Hypercalciuria, childhood idiopathic",MESH:C536082,1,Ketoconazole,0,
+cysteine-type peptidase activity,GO:0008234,Child Behavior Disorders,MESH:D002653,2,bisphenol A|Methylphenidate,0,
+cysteine-type peptidase activity,GO:0008234,"Child Development Disorders, Pervasive",MESH:D002659,1,Methylphenidate,0,
+cytochrome-c oxidase activity,GO:0004129,Child Behavior Disorders,MESH:D002653,2,bisphenol A|Lead,0,
+cytochrome-c oxidase activity,GO:0004129,Child Nutrition Disorders,MESH:D015362,1,Vitamin A,0,
+cytochrome-c oxidase activity,GO:0004129,"Lead Poisoning, Nervous System, Childhood",MESH:D020264,1,Lead,0,
+cytoskeletal motor activity,GO:0003774,"CHOREA, CHILDHOOD-ONSET, WITH PSYCHOMOTOR RETARDATION",OMIM:616939,0,,1,GPR88
+D1 dopamine receptor binding,GO:0031748,Alternating hemiplegia of childhood,MESH:C536589,0,,1,ATP1A3
+D-alanine:2-oxoglutarate aminotransferase activity,GO:0047810,Child Behavior Disorders,MESH:D002653,2,bisphenol A|Isoniazid,0,
+D-glutamyltransferase activity,GO:0047823,Child Behavior Disorders,MESH:D002653,2,bisphenol A|methylmercuric chloride,0,
+diamine oxidase activity,GO:0052597,Child Behavior Disorders,MESH:D002653,1,bisphenol A,0,
+dipeptidyl-peptidase activity,GO:0008239,Child Behavior Disorders,MESH:D002653,1,bisphenol A,0,
+DNA binding,GO:0003677,"Child Development Disorders, Pervasive",MESH:D002659,0,,1,MECP2
+DNA binding,GO:0003677,Diffuse Cerebral Sclerosis of Schilder,MESH:D002549,0,,1,POLG
+DNA-binding transcription factor activity,GO:0003700,Child Behavior Disorders,MESH:D002653,1,bisphenol A,0,
+DNA-binding transcription factor activity,GO:0003700,"Child Development Disorders, Pervasive",MESH:D002659,0,,2,MECP2|MRTFB
+DNA-binding transcription factor activity,GO:0003700,Sick Building Syndrome,MESH:D018877,0,,1,PNPLA6
+DNA-directed DNA polymerase activity,GO:0003887,Diffuse Cerebral Sclerosis of Schilder,MESH:D002549,0,,1,POLG
+"DNA topoisomerase type II (double strand cut, ATP-hydrolyzing) activity",GO:0003918,"Lead Poisoning, Nervous System, Childhood",MESH:D020264,1,Ascorbic Acid,0,
+dopamine binding,GO:0035240,"Child Development Disorders, Pervasive",MESH:D002659,0,,1,DRD4
+dopamine neurotransmitter receptor activity,GO:0004952,"Child Development Disorders, Pervasive",MESH:D002659,0,,1,DRD4
+"dopamine neurotransmitter receptor activity, coupled via Gi/Go",GO:0001591,"Child Development Disorders, Pervasive",MESH:D002659,0,,1,DRD4
+double-stranded methylated DNA binding,GO:0010385,"Child Development Disorders, Pervasive",MESH:D002659,0,,1,MECP2
+D-sorbitol dehydrogenase (acceptor) activity,GO:0047833,Child Behavior Disorders,MESH:D002653,1,Valproic Acid,0,
+D-sorbitol dehydrogenase (acceptor) activity,GO:0047833,"Child Development Disorders, Pervasive",MESH:D002659,1,Valproic Acid,0,
+dynein intermediate chain binding,GO:0045505,Spinal Muscular Atrophies of Childhood,MESH:D014897,0,,1,DYNC1H1
+dynein light intermediate chain binding,GO:0051959,Spinal Muscular Atrophies of Childhood,MESH:D014897,0,,1,DYNC1H1
+enzyme binding,GO:0019899,"Child Development Disorders, Pervasive",MESH:D002659,0,,1,MECP2
+enzyme binding,GO:0019899,"NEURODEGENERATION WITH ATAXIA, DYSTONIA, AND GAZE PALSY, CHILDHOOD-ONSET",OMIM:617145,0,,1,SQSTM1
+epinephrine binding,GO:0051379,"Child Development Disorders, Pervasive",MESH:D002659,0,,1,DRD4
+estradiol 17-beta-dehydrogenase activity,GO:0004303,Child Behavior Disorders,MESH:D002653,1,Chlorpromazine,0,
+estradiol 17-beta-dehydrogenase activity,GO:0004303,"Lead Poisoning, Nervous System, Childhood",MESH:D020264,1,lead acetate,0,
+exonuclease activity,GO:0004527,Diffuse Cerebral Sclerosis of Schilder,MESH:D002549,0,,1,POLG
+extracellular matrix structural constituent,GO:0005201,Osteoarthritis with Mild Chondrodysplasia,MESH:C565740,0,,1,COL2A1
+extracellular matrix structural constituent conferring tensile strength,GO:0030020,Osteoarthritis with Mild Chondrodysplasia,MESH:C565740,0,,1,COL2A1
+fibroblast growth factor binding,GO:0017134,"Hypercalciuria, childhood idiopathic",MESH:C536082,0,,1,KL
+fibroblast growth factor binding,GO:0017134,Spinal Muscular Atrophies of Childhood,MESH:D014897,0,,1,SMN1
+fibroblast growth factor receptor binding,GO:0005104,"Hypercalciuria, childhood idiopathic",MESH:C536082,0,,1,KL
+four-way junction DNA binding,GO:0000400,"Child Development Disorders, Pervasive",MESH:D002659,0,,1,MECP2
+gap junction channel activity,GO:0005243,Child Behavior Disorders,MESH:D002653,3,DDT|Lead|Pentachlorophenol,0,
+gap junction channel activity,GO:0005243,"Lead Poisoning, Nervous System, Childhood",MESH:D020264,2,Lead|lead acetate,0,
+glucokinase activity,GO:0004340,Child Behavior Disorders,MESH:D002653,1,Lithium Carbonate,0,
+glucose-6-phosphatase activity,GO:0004346,"Lead Poisoning, Nervous System, Childhood",MESH:D020264,1,Ascorbic Acid,0,
+glucuronosyltransferase activity,GO:0015020,Child Behavior Disorders,MESH:D002653,1,bisphenol A,0,
+glutamate-cysteine ligase activity,GO:0004357,Child Behavior Disorders,MESH:D002653,2,Lead|methylmercuric chloride,0,
+glutamate-cysteine ligase activity,GO:0004357,"Lead Poisoning, Nervous System, Childhood",MESH:D020264,1,Lead,0,
+glutaminase activity,GO:0004359,Child Behavior Disorders,MESH:D002653,1,bisphenol A,0,
+glutathione binding,GO:0043295,Child Behavior Disorders,MESH:D002653,1,Manganese,0,
+glutathione peroxidase activity,GO:0004602,Child Behavior Disorders,MESH:D002653,11,bisphenol A|Dextroamphetamine|Isoniazid|Lead|Lithium|Lithium Carbonate|Manganese|methylmercuric chloride|Niacinamide|Phenobarbital|Valproic Acid,0,
+glutathione peroxidase activity,GO:0004602,"Child Development Disorders, Pervasive",MESH:D002659,1,Valproic Acid,0,
+glutathione peroxidase activity,GO:0004602,Child Nutrition Disorders,MESH:D015362,2,Cholecalciferol|Riboflavin,0,
+glutathione peroxidase activity,GO:0004602,"Lead Poisoning, Nervous System, Childhood",MESH:D020264,3,Ascorbic Acid|Lead|lead acetate,0,
+glutathione peroxidase activity,GO:0004602,"Schizophrenia, Childhood",MESH:D012561,1,Clozapine,0,
+glutathione transferase activity,GO:0004364,Child Behavior Disorders,MESH:D002653,9,bisphenol A|Isoniazid|Lead|Lithium Carbonate|Manganese|methylmercuric chloride|Niacinamide|Phenobarbital|Valproic Acid,0,
+glutathione transferase activity,GO:0004364,"Child Development Disorders, Pervasive",MESH:D002659,1,Valproic Acid,0,
+glutathione transferase activity,GO:0004364,Child Nutrition Disorders,MESH:D015362,2,Thiamine|Vitamin A,0,
+glutathione transferase activity,GO:0004364,"Lead Poisoning, Nervous System, Childhood",MESH:D020264,3,Ascorbic Acid|Lead|lead acetate,0,
+glycerol-3-phosphate O-acyltransferase activity,GO:0004366,Child Behavior Disorders,MESH:D002653,1,bisphenol A,0,
+glycine N-benzoyltransferase activity,GO:0047962,Child Behavior Disorders,MESH:D002653,1,Phenobarbital,0,
+glycogen phosphorylase activity,GO:0008184,Child Behavior Disorders,MESH:D002653,2,bisphenol A|Lithium Carbonate,0,
+glycogen (starch) synthase activity,GO:0004373,Child Behavior Disorders,MESH:D002653,1,Lithium Carbonate,0,
+G protein-coupled photoreceptor activity,GO:0008020,"CHOREA, CHILDHOOD-ONSET, WITH PSYCHOMOTOR RETARDATION",OMIM:616939,0,,1,GPR88
+G protein-coupled receptor activity,GO:0004930,"Child Development Disorders, Pervasive",MESH:D002659,0,,1,DRD4
+G protein-coupled receptor activity,GO:0004930,"CHOREA, CHILDHOOD-ONSET, WITH PSYCHOMOTOR RETARDATION",OMIM:616939,0,,1,GPR88
+growth factor activity,GO:0008083,"Arthropathy, progressive pseudorheumatoid, of childhood",MESH:C535387,0,,1,CCN6
+H3K27me3 modified histone binding,GO:0061628,Child Behavior Disorders,MESH:D002653,1,bisphenol A,0,
+heparan sulfate proteoglycan binding,GO:0043395,Alternating hemiplegia of childhood,MESH:C536589,0,,1,ATP1A3
+heparin binding,GO:0008201,"Arthropathy, progressive pseudorheumatoid, of childhood",MESH:C535387,0,,1,CCN6
+heterocyclic compound binding,GO:1901363,"Child Development Disorders, Pervasive",MESH:D002659,0,,1,DRD4
+hexokinase activity,GO:0004396,Child Behavior Disorders,MESH:D002653,2,Chlorpromazine|Valproic Acid,0,
+hexokinase activity,GO:0004396,"Child Development Disorders, Pervasive",MESH:D002659,1,Valproic Acid,0,
+hexokinase activity,GO:0004396,"Lead Poisoning, Nervous System, Childhood",MESH:D020264,1,lead acetate,0,
+hexokinase activity,GO:0004396,"Schizophrenia, Childhood",MESH:D012561,1,Clozapine,0,
+histone acetyltransferase activity,GO:0004402,Child Behavior Disorders,MESH:D002653,2,bisphenol A|Valproic Acid,0,
+histone acetyltransferase activity,GO:0004402,"Child Development Disorders, Pervasive",MESH:D002659,1,Valproic Acid,0,
+histone acetyltransferase activity,GO:0004402,"Lead Poisoning, Nervous System, Childhood",MESH:D020264,1,Ascorbic Acid,0,
+histone binding,GO:0042393,Child Behavior Disorders,MESH:D002653,1,bisphenol A,0,
+histone deacetylase activity,GO:0004407,Child Behavior Disorders,MESH:D002653,1,Valproic Acid,0,
+histone deacetylase activity,GO:0004407,"Child Development Disorders, Pervasive",MESH:D002659,1,Valproic Acid,0,
+histone deacetylase activity,GO:0004407,"Lead Poisoning, Nervous System, Childhood",MESH:D020264,1,Ascorbic Acid,0,
+histone deacetylase binding,GO:0042826,"Child Development Disorders, Pervasive",MESH:D002659,0,,1,MECP2
+histone H3K27 dimethyltransferase activity,GO:0140952,Child Behavior Disorders,MESH:D002653,1,bisphenol A,0,
+histone H3K27 trimethyltransferase activity,GO:0140951,Child Behavior Disorders,MESH:D002653,1,bisphenol A,0,
+histone H3K4 methyltransferase activity,GO:0042800,Child Behavior Disorders,MESH:D002653,1,bisphenol A,0,
+histone H3K9 trimethyltransferase activity,GO:0140949,Child Behavior Disorders,MESH:D002653,1,bisphenol A,0,
+histone H3S28 kinase activity,GO:0044022,Child Behavior Disorders,MESH:D002653,1,bisphenol A,0,
+histone reader activity,GO:0140566,"Child Development Disorders, Pervasive",MESH:D002659,0,,1,MECP2
+hormone activity,GO:0005179,"Hypercalciuria, childhood idiopathic",MESH:C536082,0,,1,KL
+hydrolase activity,GO:0016787,"Hypophosphatasia, Childhood",MESH:C562440,0,,1,ALPL
+hydrolase activity,GO:0016787,Sick Building Syndrome,MESH:D018877,0,,1,PNPLA6
+"hydrolase activity, hydrolyzing O-glycosyl compounds",GO:0004553,"Hypercalciuria, childhood idiopathic",MESH:C536082,0,,1,KL
+identical protein binding,GO:0042802,"Child Development Disorders, Pervasive",MESH:D002659,0,,2,DRD4|MECP2
+identical protein binding,GO:0042802,"NEURODEGENERATION WITH ATAXIA, DYSTONIA, AND GAZE PALSY, CHILDHOOD-ONSET",OMIM:617145,0,,1,SQSTM1
+identical protein binding,GO:0042802,Osteoarthritis with Mild Chondrodysplasia,MESH:C565740,0,,1,COL2A1
+identical protein binding,GO:0042802,Spinal Muscular Atrophies of Childhood,MESH:D014897,0,,3,DYNC1H1|SMN1|SMN2
+identical protein binding,GO:0042802,"STRIATONIGRAL DEGENERATION, CHILDHOOD-ONSET",OMIM:617054,0,,1,VAC14
+inorganic diphosphate phosphatase activity,GO:0004427,"Hypophosphatasia, Childhood",MESH:C562440,0,,1,ALPL
+integrin binding,GO:0005178,"Arthropathy, progressive pseudorheumatoid, of childhood",MESH:C535387,0,,1,CCN6
+iodide peroxidase activity,GO:0004447,Child Behavior Disorders,MESH:D002653,1,bisphenol A,0,
+ionotropic glutamate receptor binding,GO:0035255,"NEURODEGENERATION WITH ATAXIA, DYSTONIA, AND GAZE PALSY, CHILDHOOD-ONSET",OMIM:617145,0,,1,SQSTM1
+isocitrate dehydrogenase (NAD+) activity,GO:0004449,Child Behavior Disorders,MESH:D002653,1,bisphenol A,0,
+JUN kinase activity,GO:0004705,"Lead Poisoning, Nervous System, Childhood",MESH:D020264,1,Ascorbic Acid,0,
+K63-linked polyubiquitin modification-dependent protein binding,GO:0070530,"NEURODEGENERATION WITH ATAXIA, DYSTONIA, AND GAZE PALSY, CHILDHOOD-ONSET",OMIM:617145,0,,1,SQSTM1
+kinase activator activity,GO:0019209,"STRIATONIGRAL DEGENERATION, CHILDHOOD-ONSET",OMIM:617054,0,,1,VAC14
+lactase activity,GO:0000016,Child Behavior Disorders,MESH:D002653,1,bisphenol A,0,
+lactate dehydrogenase activity,GO:0004457,Child Behavior Disorders,MESH:D002653,7,bisphenol A|Lead|Manganese|methylmercuric chloride|Methylphenidate|Niacinamide|Valproic Acid,0,
+lactate dehydrogenase activity,GO:0004457,"Child Development Disorders, Pervasive",MESH:D002659,3,Methionine|Methylphenidate|Valproic Acid,0,
+lactate dehydrogenase activity,GO:0004457,"Lead Poisoning, Nervous System, Childhood",MESH:D020264,3,Ascorbic Acid|Lead|lead acetate,0,
+lactate dehydrogenase activity,GO:0004457,"Schizophrenia, Childhood",MESH:D012561,1,Clozapine,0,
+L-alanine:2-oxoglutarate aminotransferase activity,GO:0004021,Child Behavior Disorders,MESH:D002653,3,bisphenol A|Lead|Pyridoxine,0,
+L-alanine:2-oxoglutarate aminotransferase activity,GO:0004021,"Child Development Disorders, Pervasive",MESH:D002659,1,Methionine,0,
+L-alanine:2-oxoglutarate aminotransferase activity,GO:0004021,Child Nutrition Disorders,MESH:D015362,1,Pyridoxine,0,
+L-alanine:2-oxoglutarate aminotransferase activity,GO:0004021,"Lead Poisoning, Nervous System, Childhood",MESH:D020264,2,Ascorbic Acid|Lead,0,
+L-aspartate:2-oxoglutarate aminotransferase activity,GO:0004069,Child Behavior Disorders,MESH:D002653,8,bisphenol A|Cocaine|Dextromethorphan|Isoniazid|Lead|methylmercuric chloride|Niacinamide|Phenobarbital,0,
+L-aspartate:2-oxoglutarate aminotransferase activity,GO:0004069,"Child Development Disorders, Pervasive",MESH:D002659,1,Methionine,0,
+L-aspartate:2-oxoglutarate aminotransferase activity,GO:0004069,"Hypercalciuria, childhood idiopathic",MESH:C536082,1,Ketoconazole,0,
+L-aspartate:2-oxoglutarate aminotransferase activity,GO:0004069,"Lead Poisoning, Nervous System, Childhood",MESH:D020264,2,Ascorbic Acid|Lead,0,
+lysine-acetylated histone binding,GO:0070577,Child Behavior Disorders,MESH:D002653,3,bisphenol A|Manganese|Valproic Acid,0,
+lysine-acetylated histone binding,GO:0070577,"Child Development Disorders, Pervasive",MESH:D002659,1,Valproic Acid,0,
+lysophospholipase activity,GO:0004622,Sick Building Syndrome,MESH:D018877,0,,1,PNPLA6
+lysozyme activity,GO:0003796,Child Behavior Disorders,MESH:D002653,1,bisphenol A,0,
+malate dehydrogenase activity,GO:0016615,Child Behavior Disorders,MESH:D002653,1,bisphenol A,0,
+maltose alpha-glucosidase activity,GO:0032450,Child Behavior Disorders,MESH:D002653,1,bisphenol A,0,
+MAP kinase activity,GO:0004707,Child Nutrition Disorders,MESH:D015362,1,Vitamin A,0,
+MAP kinase activity,GO:0004707,"Lead Poisoning, Nervous System, Childhood",MESH:D020264,1,Ascorbic Acid,0,
+metal ion binding,GO:0046872,Alternating hemiplegia of childhood,MESH:C536589,0,,2,ATP1A2|ATP1A3
+metal ion binding,GO:0046872,"Child Development Disorders, Pervasive",MESH:D002659,0,,1,DRD4
+metal ion binding,GO:0046872,Diffuse Cerebral Sclerosis of Schilder,MESH:D002549,0,,1,POLG
+metal ion binding,GO:0046872,"Hypophosphatasia, Childhood",MESH:C562440,0,,1,ALPL
+metal ion binding,GO:0046872,"Myopathy, Reducing Body, X-Linked, Childhood-Onset",MESH:C567468,0,,1,FHL1
+metal ion binding,GO:0046872,"NEURODEGENERATION WITH ATAXIA, DYSTONIA, AND GAZE PALSY, CHILDHOOD-ONSET",OMIM:617145,0,,1,SQSTM1
+metal ion binding,GO:0046872,Osteoarthritis with Mild Chondrodysplasia,MESH:C565740,0,,1,COL2A1
+methyl-CpG binding,GO:0008327,"Child Development Disorders, Pervasive",MESH:D002659,0,,1,MECP2
+methyltransferase activity,GO:0008168,"MONONEUROPATHY OF THE MEDIAN NERVE, MILD",OMIM:613353,0,,1,SH3TC2
+MHC class II protein binding,GO:0042289,Osteoarthritis with Mild Chondrodysplasia,MESH:C565740,0,,1,COL2A1
+minus-end-directed microtubule motor activity,GO:0008569,Spinal Muscular Atrophies of Childhood,MESH:D014897,0,,1,DYNC1H1
+molecular adaptor activity,GO:0060090,"Child Development Disorders, Pervasive",MESH:D002659,0,,1,MECP2
+molecular condensate scaffold activity,GO:0140693,"Child Development Disorders, Pervasive",MESH:D002659,0,,1,MECP2
+molecular condensate scaffold activity,GO:0140693,"NEURODEGENERATION WITH ATAXIA, DYSTONIA, AND GAZE PALSY, CHILDHOOD-ONSET",OMIM:617145,0,,1,SQSTM1
+molecular_function,GO:0003674,"HYPERPHENYLALANINEMIA, MILD, NON-BH4-DEFICIENT",OMIM:617384,0,,1,DNAJC12
+molecular sequestering activity,GO:0140313,"NEURODEGENERATION WITH ATAXIA, DYSTONIA, AND GAZE PALSY, CHILDHOOD-ONSET",OMIM:617145,0,,1,SQSTM1
+monoamine oxidase activity,GO:0097621,Child Behavior Disorders,MESH:D002653,1,bisphenol A,0,
+monoamine oxidase activity,GO:0097621,Child Nutrition Disorders,MESH:D015362,1,Vitamin A,0,
+monoamine oxidase activity,GO:0097621,"Lead Poisoning, Nervous System, Childhood",MESH:D020264,1,lead acetate,0,
+mRNA binding,GO:0003729,"Child Development Disorders, Pervasive",MESH:D002659,0,,1,MECP2
+NADH dehydrogenase activity,GO:0003954,Child Behavior Disorders,MESH:D002653,1,Lead,0,
+NADH dehydrogenase activity,GO:0003954,"Lead Poisoning, Nervous System, Childhood",MESH:D020264,3,Ascorbic Acid|Lead|lead acetate,0,
+NADH dehydrogenase (ubiquinone) activity,GO:0008137,Child Behavior Disorders,MESH:D002653,8,bisphenol A|Chlorpromazine|Dextroamphetamine|Haloperidol|Lead|Lithium|Risperidone|Valproic Acid,0,
+NADH dehydrogenase (ubiquinone) activity,GO:0008137,"Child Development Disorders, Pervasive",MESH:D002659,3,Methionine|Risperidone|Valproic Acid,0,
+NADH dehydrogenase (ubiquinone) activity,GO:0008137,"Lead Poisoning, Nervous System, Childhood",MESH:D020264,1,Lead,0,
+NADH dehydrogenase (ubiquinone) activity,GO:0008137,"Schizophrenia, Childhood",MESH:D012561,1,Clozapine,0,
+NAD(P)H oxidase H2O2-forming activity,GO:0016174,Child Behavior Disorders,MESH:D002653,2,Dextromethorphan|Lead,0,
+NAD(P)H oxidase H2O2-forming activity,GO:0016174,"Lead Poisoning, Nervous System, Childhood",MESH:D020264,2,Ascorbic Acid|Lead,0,
+nitric-oxide synthase activity,GO:0004517,Child Behavior Disorders,MESH:D002653,1,bisphenol A,0,
+norepinephrine binding,GO:0051380,"Child Development Disorders, Pervasive",MESH:D002659,0,,1,DRD4
+nuclear estrogen receptor activity,GO:0030284,Child Behavior Disorders,MESH:D002653,1,bisphenol A,0,
+nuclear receptor activity,GO:0004879,Child Behavior Disorders,MESH:D002653,1,bisphenol A,0,
+nuclear receptor binding,GO:0016922,"DYSTONIA, CHILDHOOD-ONSET, WITH OPTIC ATROPHY AND BASAL GANGLIA ABNORMALITIES",OMIM:617282,0,,1,MECR
+nucleic acid binding,GO:0003676,"Child Development Disorders, Pervasive",MESH:D002659,0,,1,MECP2
+nucleic acid binding,GO:0003676,"MONONEUROPATHY OF THE MEDIAN NERVE, MILD",OMIM:613353,0,,1,SH3TC2
+nucleotide binding,GO:0000166,Spinal Muscular Atrophies of Childhood,MESH:D014897,0,,1,DYNC1H1
+nucleotidyltransferase activity,GO:0016779,Diffuse Cerebral Sclerosis of Schilder,MESH:D002549,0,,1,POLG
+oxidoreductase activity,GO:0016491,"DYSTONIA, CHILDHOOD-ONSET, WITH OPTIC ATROPHY AND BASAL GANGLIA ABNORMALITIES",OMIM:617282,0,,1,MECR
+"oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, reduced flavin or flavoprotein as one donor, and incorporation of one atom of oxygen",GO:0016712,Child Behavior Disorders,MESH:D002653,2,bisphenol A|Phenobarbital,0,
+palmitoyl-CoA oxidase activity,GO:0016401,Child Behavior Disorders,MESH:D002653,1,Phenobarbital,0,
+peptidase activator activity involved in apoptotic process,GO:0016505,Child Behavior Disorders,MESH:D002653,1,Valproic Acid,0,
+peptidase activator activity involved in apoptotic process,GO:0016505,"Child Development Disorders, Pervasive",MESH:D002659,1,Valproic Acid,0,
+peroxidase activity,GO:0004601,Child Behavior Disorders,MESH:D002653,1,bisphenol A,0,
+phosphatase activity,GO:0016791,Alternating hemiplegia of childhood,MESH:C536589,0,,1,ATP1A2
+phosphatase activity,GO:0016791,Child Behavior Disorders,MESH:D002653,1,methylmercuric chloride,0,
+phosphatase activity,GO:0016791,"Hypophosphatasia, Childhood",MESH:C562440,0,,1,ALPL
+phosphoamidase activity,GO:0050187,"Hypophosphatasia, Childhood",MESH:C562440,0,,1,ALPL
+phosphoethanolamine phosphatase activity,GO:0052732,"Hypophosphatasia, Childhood",MESH:C562440,0,,1,ALPL
+phosphofructokinase activity,GO:0008443,Child Behavior Disorders,MESH:D002653,1,bisphenol A,0,
+platelet-derived growth factor binding,GO:0048407,Osteoarthritis with Mild Chondrodysplasia,MESH:C565740,0,,1,COL2A1
+potassium channel regulator activity,GO:0015459,"Child Development Disorders, Pervasive",MESH:D002659,0,,1,DRD4
+potassium ion binding,GO:0030955,Alternating hemiplegia of childhood,MESH:C536589,0,,1,ATP1A2
+promoter-specific chromatin binding,GO:1990841,"Child Development Disorders, Pervasive",MESH:D002659,0,,1,MECP2
+protease binding,GO:0002020,Diffuse Cerebral Sclerosis of Schilder,MESH:D002549,0,,1,POLG
+protein binding,GO:0005515,Alternating hemiplegia of childhood,MESH:C536589,0,,2,ATP1A2|ATP1A3
+protein binding,GO:0005515,"Arthropathy, progressive pseudorheumatoid, of childhood",MESH:C535387,0,,1,CCN6
+protein binding,GO:0005515,Child Behavior Disorders,MESH:D002653,1,Lead,0,
+protein binding,GO:0005515,"Child Development Disorders, Pervasive",MESH:D002659,0,,3,DRD4|MECP2|MRTFB
+protein binding,GO:0005515,Diffuse Cerebral Sclerosis of Schilder,MESH:D002549,0,,1,POLG
+protein binding,GO:0005515,"Hypercalciuria, childhood idiopathic",MESH:C536082,0,,1,KL
+protein binding,GO:0005515,"HYPERPHENYLALANINEMIA, MILD, NON-BH4-DEFICIENT",OMIM:617384,0,,1,DNAJC12
+protein binding,GO:0005515,"Hypophosphatasia, Childhood",MESH:C562440,0,,1,ALPL
+protein binding,GO:0005515,"Lead Poisoning, Nervous System, Childhood",MESH:D020264,1,Lead,0,
+protein binding,GO:0005515,"MONONEUROPATHY OF THE MEDIAN NERVE, MILD",OMIM:613353,0,,1,SH3TC2
+protein binding,GO:0005515,"Myopathy, Reducing Body, X-Linked, Childhood-Onset",MESH:C567468,0,,1,FHL1
+protein binding,GO:0005515,"NEURODEGENERATION WITH ATAXIA, DYSTONIA, AND GAZE PALSY, CHILDHOOD-ONSET",OMIM:617145,0,,1,SQSTM1
+protein binding,GO:0005515,Osteoarthritis with Mild Chondrodysplasia,MESH:C565740,0,,1,COL2A1
+protein binding,GO:0005515,Spinal Muscular Atrophies of Childhood,MESH:D014897,0,,3,DYNC1H1|SMN1|SMN2
+protein binding,GO:0005515,"STRIATONIGRAL DEGENERATION, CHILDHOOD-ONSET",OMIM:617054,0,,1,VAC14
+protein-containing complex binding,GO:0044877,"NEURODEGENERATION WITH ATAXIA, DYSTONIA, AND GAZE PALSY, CHILDHOOD-ONSET",OMIM:617145,0,,1,SQSTM1
+protein disulfide isomerase activity,GO:0003756,Child Behavior Disorders,MESH:D002653,1,bisphenol A,0,
+protein domain specific binding,GO:0019904,"Child Development Disorders, Pervasive",MESH:D002659,0,,1,MECP2
+protein-glutamine gamma-glutamyltransferase activity,GO:0003810,Child Behavior Disorders,MESH:D002653,1,Valproic Acid,0,
+protein-glutamine gamma-glutamyltransferase activity,GO:0003810,"Child Development Disorders, Pervasive",MESH:D002659,1,Valproic Acid,0,
+protein heterodimerization activity,GO:0046982,Alternating hemiplegia of childhood,MESH:C536589,0,,1,ATP1A2
+protein homodimerization activity,GO:0042803,Osteoarthritis with Mild Chondrodysplasia,MESH:C565740,0,,1,COL2A1
+protein kinase binding,GO:0019901,"NEURODEGENERATION WITH ATAXIA, DYSTONIA, AND GAZE PALSY, CHILDHOOD-ONSET",OMIM:617145,0,,1,SQSTM1
+protein kinase C activity,GO:0004697,Child Behavior Disorders,MESH:D002653,2,DDT|Lead,0,
+protein kinase C activity,GO:0004697,"Child Development Disorders, Pervasive",MESH:D002659,1,Methionine,0,
+protein kinase C activity,GO:0004697,"Lead Poisoning, Nervous System, Childhood",MESH:D020264,2,Lead|lead acetate,0,
+protein kinase C binding,GO:0005080,"NEURODEGENERATION WITH ATAXIA, DYSTONIA, AND GAZE PALSY, CHILDHOOD-ONSET",OMIM:617145,0,,1,SQSTM1
+protein-macromolecule adaptor activity,GO:0030674,"NEURODEGENERATION WITH ATAXIA, DYSTONIA, AND GAZE PALSY, CHILDHOOD-ONSET",OMIM:617145,0,,1,SQSTM1
+protein sequestering activity,GO:0140311,"NEURODEGENERATION WITH ATAXIA, DYSTONIA, AND GAZE PALSY, CHILDHOOD-ONSET",OMIM:617145,0,,1,SQSTM1
+protein serine/threonine phosphatase activity,GO:0004722,"Lead Poisoning, Nervous System, Childhood",MESH:D020264,1,lead acetate,0,
+proteoglycan binding,GO:0043394,Osteoarthritis with Mild Chondrodysplasia,MESH:C565740,0,,1,COL2A1
+"proton-transporting ATPase activity, rotational mechanism",GO:0046961,Child Behavior Disorders,MESH:D002653,1,Chlorpromazine,0,
+P-type calcium transporter activity,GO:0005388,Child Behavior Disorders,MESH:D002653,2,bisphenol A|methylmercuric chloride,0,
+P-type potassium transmembrane transporter activity,GO:0008556,Alternating hemiplegia of childhood,MESH:C536589,0,,2,ATP1A2|ATP1A3
+P-type sodium:potassium-exchanging transporter activity,GO:0005391,Alternating hemiplegia of childhood,MESH:C536589,0,,2,ATP1A2|ATP1A3
+P-type sodium:potassium-exchanging transporter activity,GO:0005391,Child Behavior Disorders,MESH:D002653,7,bisphenol A|Chlorpromazine|Lead|Lithium Carbonate|Manganese|methylmercuric chloride|Valproic Acid,0,
+P-type sodium:potassium-exchanging transporter activity,GO:0005391,"Child Development Disorders, Pervasive",MESH:D002659,1,Valproic Acid,0,
+P-type sodium:potassium-exchanging transporter activity,GO:0005391,"Lead Poisoning, Nervous System, Childhood",MESH:D020264,2,Lead|lead acetate,0,
+P-type sodium:potassium-exchanging transporter activity involved in regulation of cardiac muscle cell membrane potential,GO:0086037,Alternating hemiplegia of childhood,MESH:C536589,0,,1,ATP1A3
+pyridoxal phosphatase activity,GO:0033883,"Hypophosphatasia, Childhood",MESH:C562440,0,,1,ALPL
+pyrophosphatase activity,GO:0016462,"Hypophosphatasia, Childhood",MESH:C562440,0,,1,ALPL
+pyruvate kinase activity,GO:0004743,Child Behavior Disorders,MESH:D002653,2,Lead|Lithium Carbonate,0,
+pyruvate kinase activity,GO:0004743,"Lead Poisoning, Nervous System, Childhood",MESH:D020264,2,Lead|lead acetate,0,
+receptor tyrosine kinase binding,GO:0030971,"NEURODEGENERATION WITH ATAXIA, DYSTONIA, AND GAZE PALSY, CHILDHOOD-ONSET",OMIM:617145,0,,1,SQSTM1
+RNA binding,GO:0003723,Spinal Muscular Atrophies of Childhood,MESH:D014897,0,,2,SMN1|SMN2
+serine-type endopeptidase inhibitor activity,GO:0004867,Osteoarthritis with Mild Chondrodysplasia,MESH:C565740,0,,1,COL2A1
+SH2 domain binding,GO:0042169,"NEURODEGENERATION WITH ATAXIA, DYSTONIA, AND GAZE PALSY, CHILDHOOD-ONSET",OMIM:617145,0,,1,SQSTM1
+SH3 domain binding,GO:0017124,"Child Development Disorders, Pervasive",MESH:D002659,0,,1,DRD4
+signaling adaptor activity,GO:0035591,"NEURODEGENERATION WITH ATAXIA, DYSTONIA, AND GAZE PALSY, CHILDHOOD-ONSET",OMIM:617145,0,,1,SQSTM1
+signaling receptor activity,GO:0038023,"NEURODEGENERATION WITH ATAXIA, DYSTONIA, AND GAZE PALSY, CHILDHOOD-ONSET",OMIM:617145,0,,1,SQSTM1
+signaling receptor activity,GO:0038023,"STRIATONIGRAL DEGENERATION, CHILDHOOD-ONSET",OMIM:617054,0,,1,VAC14
+signaling receptor binding,GO:0005102,"DYSTONIA, CHILDHOOD-ONSET, WITH OPTIC ATROPHY AND BASAL GANGLIA ABNORMALITIES",OMIM:617282,0,,1,MECR
+single-stranded DNA 3'-5' exodeoxyribonuclease activity,GO:0008310,Diffuse Cerebral Sclerosis of Schilder,MESH:D002549,0,,1,POLG
+siRNA binding,GO:0035197,"Child Development Disorders, Pervasive",MESH:D002659,0,,1,MECP2
+sodium ion binding,GO:0031402,Alternating hemiplegia of childhood,MESH:C536589,0,,1,ATP1A2
+steroid binding,GO:0005496,Alternating hemiplegia of childhood,MESH:C536589,0,,1,ATP1A2
+steroid hormone binding,GO:1990239,Alternating hemiplegia of childhood,MESH:C536589,0,,2,ATP1A2|ATP1A3
+steroid hydroxylase activity,GO:0008395,Child Behavior Disorders,MESH:D002653,1,bisphenol A,0,
+succinate dehydrogenase activity,GO:0000104,Child Behavior Disorders,MESH:D002653,1,bisphenol A,0,
+succinate dehydrogenase activity,GO:0000104,"Child Development Disorders, Pervasive",MESH:D002659,1,Methionine,0,
+succinate dehydrogenase activity,GO:0000104,"Lead Poisoning, Nervous System, Childhood",MESH:D020264,1,lead acetate,0,
+succinate dehydrogenase (ubiquinone) activity,GO:0008177,Child Behavior Disorders,MESH:D002653,6,bisphenol A|Dextroamphetamine|Lead|Lithium|Lithium Carbonate|Valproic Acid,0,
+succinate dehydrogenase (ubiquinone) activity,GO:0008177,"Child Development Disorders, Pervasive",MESH:D002659,1,Valproic Acid,0,
+succinate dehydrogenase (ubiquinone) activity,GO:0008177,"Lead Poisoning, Nervous System, Childhood",MESH:D020264,1,Lead,0,
+sucrose alpha-glucosidase activity,GO:0004575,Child Behavior Disorders,MESH:D002653,2,bisphenol A|Lead,0,
+sucrose alpha-glucosidase activity,GO:0004575,"Lead Poisoning, Nervous System, Childhood",MESH:D020264,1,Lead,0,
+superoxide dismutase activity,GO:0004784,Child Behavior Disorders,MESH:D002653,13,bisphenol A|Cocaine|DDT|Isoniazid|Lead|Lithium Carbonate|Manganese|methylmercuric chloride|Methylphenidate|Niacinamide|Phenobarbital|Prednisolone|Valproic Acid,0,
+superoxide dismutase activity,GO:0004784,"Child Development Disorders, Pervasive",MESH:D002659,4,Methionine|Methylphenidate|Topiramate|Valproic Acid,0,
+superoxide dismutase activity,GO:0004784,Child Nutrition Disorders,MESH:D015362,4,Cholecalciferol|Riboflavin|Thiamine|Vitamin A,0,
+superoxide dismutase activity,GO:0004784,"Lead Poisoning, Nervous System, Childhood",MESH:D020264,3,Ascorbic Acid|Lead|lead acetate,0,
+superoxide-generating NADPH oxidase activity,GO:0106292,Child Behavior Disorders,MESH:D002653,1,bisphenol A,0,
+superoxide-generating NADPH oxidase activity,GO:0106292,Child Nutrition Disorders,MESH:D015362,1,Cholecalciferol,0,
+telomerase activity,GO:0003720,Child Behavior Disorders,MESH:D002653,1,bisphenol A,0,
+testosterone 6-beta-hydroxylase activity,GO:0050649,Child Behavior Disorders,MESH:D002653,1,Phenobarbital,0,
+testosterone dehydrogenase [NAD(P)] activity,GO:0030283,Child Behavior Disorders,MESH:D002653,1,bisphenol A,0,
+thioredoxin-disulfide reductase activity,GO:0004791,Child Behavior Disorders,MESH:D002653,1,methylmercuric chloride,0,
+thioredoxin-disulfide reductase activity,GO:0004791,"Lead Poisoning, Nervous System, Childhood",MESH:D020264,2,Ascorbic Acid|lead acetate,0,
+trans-2-enoyl-CoA reductase (NADPH) activity,GO:0019166,"DYSTONIA, CHILDHOOD-ONSET, WITH OPTIC ATROPHY AND BASAL GANGLIA ABNORMALITIES",OMIM:617282,0,,1,MECR
+transcription coactivator activity,GO:0003713,"Child Development Disorders, Pervasive",MESH:D002659,0,,1,MRTFB
+transcription coregulator activity,GO:0003712,"NEURODEGENERATION WITH ATAXIA, DYSTONIA, AND GAZE PALSY, CHILDHOOD-ONSET",OMIM:617145,0,,1,SQSTM1
+transcription corepressor activity,GO:0003714,"Child Development Disorders, Pervasive",MESH:D002659,0,,1,MECP2
+transcription factor binding,GO:0008134,"Child Development Disorders, Pervasive",MESH:D002659,0,,1,MECP2
+transferase activity,GO:0016740,Diffuse Cerebral Sclerosis of Schilder,MESH:D002549,0,,1,POLG
+transmembrane signaling receptor activity,GO:0004888,"CHOREA, CHILDHOOD-ONSET, WITH PSYCHOMOTOR RETARDATION",OMIM:616939,0,,1,GPR88
+transmembrane transporter binding,GO:0044325,"Myopathy, Reducing Body, X-Linked, Childhood-Onset",MESH:C567468,0,,1,FHL1
+tyrosinase activity,GO:0004503,Child Behavior Disorders,MESH:D002653,1,bisphenol A,0,
+tyrosine decarboxylase activity,GO:0004837,Child Behavior Disorders,MESH:D002653,1,Pyridoxine,0,
+tyrosine decarboxylase activity,GO:0004837,Child Nutrition Disorders,MESH:D015362,1,Pyridoxine,0,
+ubiquinol-cytochrome-c reductase activity,GO:0008121,Child Behavior Disorders,MESH:D002653,4,bisphenol A|Chlorpromazine|Haloperidol|Lead,0,
+ubiquinol-cytochrome-c reductase activity,GO:0008121,"Lead Poisoning, Nervous System, Childhood",MESH:D020264,1,Lead,0,
+ubiquitin binding,GO:0043130,"NEURODEGENERATION WITH ATAXIA, DYSTONIA, AND GAZE PALSY, CHILDHOOD-ONSET",OMIM:617145,0,,1,SQSTM1
+ubiquitin-dependent protein binding,GO:0140036,"NEURODEGENERATION WITH ATAXIA, DYSTONIA, AND GAZE PALSY, CHILDHOOD-ONSET",OMIM:617145,0,,1,SQSTM1
+ubiquitin protein ligase binding,GO:0031625,"NEURODEGENERATION WITH ATAXIA, DYSTONIA, AND GAZE PALSY, CHILDHOOD-ONSET",OMIM:617145,0,,1,SQSTM1
+unmethylated CpG binding,GO:0045322,"Child Development Disorders, Pervasive",MESH:D002659,0,,1,MECP2
+vitamin D binding,GO:0005499,"Hypercalciuria, childhood idiopathic",MESH:C536082,0,,1,KL
+voltage-gated calcium channel activity,GO:0005245,Child Behavior Disorders,MESH:D002653,1,bisphenol A,0,
+voltage-gated potassium channel activity,GO:0005249,Child Behavior Disorders,MESH:D002653,2,bisphenol A|Valproic Acid,0,
+voltage-gated potassium channel activity,GO:0005249,"Child Development Disorders, Pervasive",MESH:D002659,1,Valproic Acid,0,
+voltage-gated sodium channel activity,GO:0005248,Child Behavior Disorders,MESH:D002653,1,bisphenol A,0,
+voltage-gated sodium channel activity involved in cardiac muscle cell action potential,GO:0086006,Child Behavior Disorders,MESH:D002653,1,bisphenol A,0,
+zinc ion binding,GO:0008270,"Myopathy, Reducing Body, X-Linked, Childhood-Onset",MESH:C567468,0,,1,FHL1
+zinc ion binding,GO:0008270,"NEURODEGENERATION WITH ATAXIA, DYSTONIA, AND GAZE PALSY, CHILDHOOD-ONSET",OMIM:617145,0,,1,SQSTM1

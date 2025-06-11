@@ -1,0 +1,186 @@
+GeneSymbol,GeneID,DiseaseName,DiseaseID,DirectEvidence,OmimIDs,PubMedIDs
+ABCB1,5243,Parkinson Disease,MESH:D010300,marker/mechanism,,20558393
+ABCB1,5243,"Parkinson Disease, Secondary",MESH:D010302,marker/mechanism,,26457621
+ADARB2,105,Parkinson Disease,MESH:D010300,marker/mechanism,,25475535
+ADH1C,126,"PARKINSON DISEASE, LATE-ONSET",OMIM:168600,marker/mechanism,168600,
+AIF1,199,Parkinson Disease,MESH:D010300,marker/mechanism,,19276553
+ALDH1A1,216,Parkinsonian Disorders,MESH:D020734,marker/mechanism,,25045800
+ALDH1A2,8854,Parkinsonian Disorders,MESH:D020734,marker/mechanism,,25045800
+ALDH2,217,Parkinson Disease,MESH:D010300,marker/mechanism,,24491970
+ATP13A2,23400,Parkinson Disease,MESH:D010300,marker/mechanism,,23628791|25149416
+ATP13A2,23400,"Parkinson Disease, Secondary",MESH:D010302,marker/mechanism,,22285144
+ATP13A2,23400,Parkinsonian Disorders,MESH:D020734,marker/mechanism,,23046578
+ATP1A3,478,Parkinsonian Disorders,MESH:D020734,marker/mechanism,,15260953
+ATP6AP2,10159,"PARKINSONISM WITH SPASTICITY, X-LINKED",OMIM:300911,marker/mechanism,300911,
+ATPSYNBETA,43829,Parkinson Disease,MESH:D010300,marker/mechanism,,18353766
+ATXN2,6311,"PARKINSON DISEASE, LATE-ONSET",OMIM:168600,marker/mechanism,168600,
+ATXN3,4287,"PARKINSON DISEASE, LATE-ONSET",OMIM:168600,marker/mechanism,168600,
+ATXN8OS,6315,"PARKINSON DISEASE, LATE-ONSET",OMIM:168600,marker/mechanism,168600,
+BAG5,9529,Parkinson Disease,MESH:D010300,marker/mechanism,,28348719
+BCHE,590,"Parkinson Disease, Secondary",MESH:D010302,marker/mechanism,,30410011
+BDNF,627,Parkinson Disease,MESH:D010300,marker/mechanism,,19276553
+BST1,683,Parkinson Disease,MESH:D010300,marker/mechanism,,19915576
+CAT-2,173411,Parkinsonian Disorders,MESH:D020734,marker/mechanism,,22483307
+CEACAM6,4680,Parkinson Disease,MESH:D010300,marker/mechanism,,25475535
+CHCHD2,51142,"PARKINSON DISEASE 22, AUTOSOMAL DOMINANT",OMIM:616710,marker/mechanism,616710,
+CHP,43690,Parkinson Disease,MESH:D010300,marker/mechanism,,18353766
+CNR2,1269,"Parkinson Disease, Secondary",MESH:D010302,marker/mechanism,,27317300
+CNTNAP2,26047,Parkinson Disease,MESH:D010300,marker/mechanism,,25475535
+CNX99A,44643,Parkinson Disease,MESH:D010300,marker/mechanism,,18353766
+COL19A1,1310,Parkinson Disease,MESH:D010300,marker/mechanism,,25475535
+CP,1356,Parkinson Disease,MESH:D010300,marker/mechanism,,19159062|25758665
+CPR,33883,Parkinson Disease,MESH:D010300,marker/mechanism,,18353766
+CPR64AA,38508,Parkinson Disease,MESH:D010300,marker/mechanism,,18353766
+CPR66D,38990,Parkinson Disease,MESH:D010300,marker/mechanism,,18353766
+CYP2D6,1565,Parkinson Disease,MESH:D010300,marker/mechanism,,14991823|15174030
+CYP2E1,1571,Parkinson Disease,MESH:D010300,marker/mechanism,,16510128
+DCTN1,1639,Parkinsonian Disorders,MESH:D020734,marker/mechanism,,19136952
+DDC,1644,Parkinson Disease,MESH:D010300,therapeutic,,11445284|2969953
+DDC,1644,Parkinsonian Disorders,MESH:D020734,therapeutic,,16269145
+DDIT4,54541,Parkinson Disease,MESH:D010300,therapeutic,,17005863
+DEFA4,1669,Parkinson Disease,MESH:D010300,marker/mechanism,,25475535
+DJ-1BETA,43652,Parkinsonian Disorders,MESH:D020734,marker/mechanism,,20423725
+DNAJC6,9829,"PARKINSON DISEASE 19A, JUVENILE-ONSET",OMIM:615528,marker/mechanism,615528,
+DNM1L,10059,Parkinson Disease,MESH:D010300,marker/mechanism,,28215578
+DOP1R2,43484,Parkinsonian Disorders,MESH:D020734,marker/mechanism,,25158689
+DRAXIN,374946,Parkinson Disease,MESH:D010300,marker/mechanism,,25475535
+DRD1,1812,Parkinson Disease,MESH:D010300,therapeutic,,8558425
+DRD2,1813,Parkinson Disease,MESH:D010300,therapeutic,,8558425
+DRD2,1813,Parkinsonian Disorders,MESH:D020734,marker/mechanism|therapeutic,,12476322|15469457|9171869
+EDN1,1906,Parkinson Disease,MESH:D010300,marker/mechanism,,19276553
+EIF4G1,1981,"PARKINSON DISEASE 18, AUTOSOMAL DOMINANT, SUSCEPTIBILITY TO",OMIM:614251,marker/mechanism,614251,
+ENO2,2026,Parkinson Disease,MESH:D010300,marker/mechanism,,30236862
+FAX,39826,Parkinson Disease,MESH:D010300,marker/mechanism,,18353766
+FBP1,2203,Parkinson Disease,MESH:D010300,marker/mechanism,,18353766
+FCER2,2208,Parkinson Disease,MESH:D010300,marker/mechanism,,25475535
+FGB,2244,Parkinson Disease,MESH:D010300,marker/mechanism,,23233872
+FMC1,154791,"Parkinson Disease, Mitochondrial",MESH:C564015,marker/mechanism,,29371327
+FMC1,154791,"Parkinson Disease, Secondary",MESH:D010302,marker/mechanism,,29371327
+GAK,2580,Parkinson Disease,MESH:D010300,marker/mechanism,,20711177
+GAPDH,2597,Parkinsonian Disorders,MESH:D020734,marker/mechanism,,29886133
+GBA1,2629,Parkinson Disease,MESH:D010300,marker/mechanism,,20947659|25064009
+GBA1,2629,"PARKINSON DISEASE, LATE-ONSET",OMIM:168600,marker/mechanism,168600,
+GBA1,2629,Parkinsonian Disorders,MESH:D020734,marker/mechanism,,25881142
+GDNF,2668,Parkinson Disease,MESH:D010300,therapeutic,,11031079|16324109
+GDNF,2668,"Parkinson Disease, Secondary",MESH:D010302,therapeutic,,19909981
+GDNF,2668,Parkinsonian Disorders,MESH:D020734,therapeutic,,12213621|9266731
+GFAP,2670,Parkinson Disease,MESH:D010300,marker/mechanism,,19276553
+GIGYF2,26058,Parkinson Disease 11,MESH:C564345,marker/mechanism,607688,
+GPDH1,33824,Parkinson Disease,MESH:D010300,marker/mechanism,,18353766
+GSR,2936,Parkinsonian Disorders,MESH:D020734,therapeutic,,22721943
+GSTA4,2941,Parkinson Disease,MESH:D010300,marker/mechanism,,16510128
+GSTM1,2944,Parkinson Disease,MESH:D010300,marker/mechanism,,17449559
+GSTP1,2950,Parkinson Disease,MESH:D010300,marker/mechanism,,17190945|23721876
+HBG1,3047,Parkinson Disease,MESH:D010300,marker/mechanism,,25475535
+HFE,3077,Parkinson Disease,MESH:D010300,marker/mechanism,,16824219
+HGF,3082,Parkinson Disease,MESH:D010300,therapeutic,,16791285
+HLA-DRA,3122,Parkinson Disease,MESH:D010300,marker/mechanism,,20711177
+HLA-DRB5,3127,Parkinson Disease,MESH:D010300,marker/mechanism,,27713094
+HMOX1,3162,Parkinson Disease,MESH:D010300,marker/mechanism,,21318773
+HOTAIR,100124700,Parkinsonian Disorders,MESH:D020734,therapeutic,,32968928
+HSC70-3,32133,Parkinson Disease,MESH:D010300,marker/mechanism,,18353766
+HSPA1A,3303,Parkinson Disease,MESH:D010300,therapeutic,,15585408
+HSPA9,3313,Parkinson Disease,MESH:D010300,marker/mechanism,,16565515
+HTRA2,27429,Parkinson Disease 13,MESH:C565204,marker/mechanism,610297,
+HTRA2,27429,Parkinsonian Disorders,MESH:D020734,marker/mechanism,,26558463
+IGF1R,3480,Parkinson Disease,MESH:D010300,marker/mechanism,,19276553
+IGF2,3481,Parkinson Disease,MESH:D010300,marker/mechanism,,19276553
+IGF2R,3482,Parkinson Disease,MESH:D010300,marker/mechanism,,19276553
+IL6,3569,Parkinson Disease,MESH:D010300,marker/mechanism,,21318773
+INS,3630,Parkinson Disease,MESH:D010300,marker/mechanism,,19276553
+INSR,3643,Parkinson Disease,MESH:D010300,marker/mechanism,,19276553
+KCNJ4,3761,Parkinson Disease,MESH:D010300,therapeutic,,18619942
+KST,38418,Parkinson Disease,MESH:D010300,marker/mechanism,,18353766
+LRRK2,120892,Parkinson Disease,MESH:D010300,marker/mechanism,,17388990|19915575|19915576|20205471|22043175|23017109|23472874|23628791|25149416|25475535|25631236
+LRRK2,120892,"PARKINSON DISEASE 8, AUTOSOMAL DOMINANT",OMIM:607060,marker/mechanism,607060,
+LRRK2,120892,Parkinsonian Disorders,MESH:D020734,marker/mechanism,,23046578|25017139|26558463
+MAG,4099,Parkinson Disease,MESH:D010300,marker/mechanism,,19276553
+MAOA,4128,Parkinson Disease,MESH:D010300,marker/mechanism,,17449559
+MAOB,4129,Parkinson Disease,MESH:D010300,marker/mechanism,,21318773
+MAP2,4133,Parkinson Disease,MESH:D010300,marker/mechanism,,30236862
+MAP3K5,4217,Parkinson Disease,MESH:D010300,marker/mechanism,,21815648
+MAPT,4137,Parkinson Disease,MESH:D010300,marker/mechanism,,19915575|20711177
+MAPT,4137,"PARKINSON DISEASE, LATE-ONSET",OMIM:168600,marker/mechanism,168600,
+MAPT,4137,Parkinsonian Disorders,MESH:D020734,marker/mechanism,,10802785|19458322
+MIR181C,406957,Parkinson Disease,MESH:D010300,marker/mechanism,,28770951
+MLP60A,37853,Parkinson Disease,MESH:D010300,marker/mechanism,,18353766
+MTA1,9112,Parkinson Disease,MESH:D010300,marker/mechanism,,27044752
+MTHFR,4524,Parkinson Disease,MESH:D010300,marker/mechanism,,30726997
+NCAPG2,54892,Parkinson Disease,MESH:D010300,marker/mechanism,,25475535
+NECTIN2,5819,Parkinson Disease,MESH:D010300,marker/mechanism,,25475535
+NGF,4803,Parkinson Disease,MESH:D010300,marker/mechanism,,19276553
+NGF,4803,Parkinsonian Disorders,MESH:D020734,therapeutic,,19694610
+NOS1,4842,Parkinson Disease,MESH:D010300,marker/mechanism,,26383258
+NOS2,4843,"Parkinson Disease, Secondary",MESH:D010302,marker/mechanism,,25634431
+NQO1,1728,Parkinson Disease,MESH:D010300,marker/mechanism,,17188257
+NR4A2,4929,"PARKINSON DISEASE, LATE-ONSET",OMIM:168600,marker/mechanism,168600,
+OBP99B,43497,Parkinson Disease,MESH:D010300,marker/mechanism,,18353766
+PARK16,100359403,Parkinson Disease,MESH:D010300,marker/mechanism,,19915575|19915576
+PARK7,11315,Parkinson Disease,MESH:D010300,marker/mechanism,,15784737|17010972|20423725|20800516|22043175|22898350|23037695|23792957|25149416
+PARK7,11315,"Parkinson Disease 7, Autosomal Recessive Early-Onset",MESH:C565238,marker/mechanism,606324,28348719
+PARK7,11315,Parkinsonian Disorders,MESH:D020734,marker/mechanism,,23046578|26558463
+PARP1,142,Parkinsonian Disorders,MESH:D020734,marker/mechanism,,17640816
+PDYN,5173,Parkinsonian Disorders,MESH:D020734,marker/mechanism,,9930741
+PINK1,65018,Parkinson Disease,MESH:D010300,marker/mechanism,,17010972|21366594|22043175|24374061|25149416|30734931
+PINK1,65018,"Parkinson Disease 6, Autosomal Recessive Early-Onset",MESH:C565276,marker/mechanism,605909,19048950|21421046|24475098|27003823
+PINK1,65018,Parkinsonian Disorders,MESH:D020734,marker/mechanism,,11254447|15349871|23046578|24441527|24792327|26558463
+PLA2G6,8398,"PARKINSON DISEASE 14, AUTOSOMAL RECESSIVE",OMIM:612953,marker/mechanism,612953,
+PNOC,5368,Parkinsonian Disorders,MESH:D020734,marker/mechanism,,26687234
+POLG,5428,Parkinsonian Disorders,MESH:D020734,marker/mechanism,,17923349
+PON1,5444,"Parkinson Disease, Secondary",MESH:D010302,marker/mechanism,,26457621
+PPARGC1A,10891,Parkinson Disease,MESH:D010300,marker/mechanism,,30236862
+PRKAG2,51422,Wolff-Parkinson-White Syndrome,MESH:D014927,marker/mechanism,194200,
+PRKCD,5580,Parkinsonian Disorders,MESH:D020734,therapeutic,,15681813
+PRKN,5071,Parkinson Disease,MESH:D010300,marker/mechanism,,12588799|15198987|15882845|16573651|17010972|19946270|22043175|22841634|23628791|24582596|25149416|25631236|28284907
+PRKN,5071,"Parkinson Disease, Secondary",MESH:D010302,marker/mechanism,,15993444
+PRKN,5071,Parkinsonian Disorders,MESH:D020734,marker/mechanism|therapeutic,600116,10072423|10894217|11254447|12764051|16914382|23046578|25640678|26558463
+PRKRA,8575,Parkinsonian Disorders,MESH:D020734,marker/mechanism,,18243799
+PRL,5617,Parkinsonian Disorders,MESH:D020734,marker/mechanism,,240179
+PRM,39002,Parkinson Disease,MESH:D010300,marker/mechanism,,18353766
+RAB32,10981,Parkinson Disease,MESH:D010300,marker/mechanism,,38858457
+RAB39B,116442,"Parkinsonism, early onset with mental retardation",MESH:C537179,marker/mechanism,311510,
+RDGA,31826,Parkinson Disease,MESH:D010300,marker/mechanism,,18353766
+RETININ,53564,Parkinson Disease,MESH:D010300,marker/mechanism,,18353766
+RGS2,5997,"Parkinson Disease, Secondary",MESH:D010302,marker/mechanism,,18347610
+RPL14,9045,Parkinson Disease,MESH:D010300,marker/mechanism,,18353766
+RPL23A,6147,Parkinson Disease,MESH:D010300,marker/mechanism,,18353766
+RPL6,6128,Parkinson Disease,MESH:D010300,marker/mechanism,,18353766
+RPS8,6202,Parkinson Disease,MESH:D010300,marker/mechanism,,18353766
+RTNL1,33721,Parkinson Disease,MESH:D010300,marker/mechanism,,18353766
+SHH,6469,"Parkinson Disease, Secondary",MESH:D010302,therapeutic,,11771942
+SLC18A2,6571,Parkinson Disease,MESH:D010300,marker/mechanism,,16112329|34774656
+SLC18A2,6571,"Parkinson Disease, Secondary",MESH:D010302,marker/mechanism,,34774656
+SLC18A2,6571,Parkinsonian Disorders,MESH:D020734,therapeutic,,16269145
+SLC2A14,144195,Parkinson Disease,MESH:D010300,marker/mechanism,,25475535
+SLC30A10,55532,Parkinson Disease,MESH:D010300,marker/mechanism,,25149416
+SLC30A10,55532,Parkinsonian Disorders,MESH:D020734,marker/mechanism,,26220508
+SLC38A2,54407,Parkinson Disease,MESH:D010300,therapeutic,,35728354
+SLC39A14,23516,"Dystonia-Parkinsonism, Adult-Onset",MESH:C567844,marker/mechanism,,36152728
+SLC6A3,6531,Parkinson Disease,MESH:D010300,marker/mechanism,,16112329|16963468|19590691|9763484
+SLC6A3,6531,"Parkinsonism-Dystonia, Infantile",MESH:C567730,marker/mechanism,613135,27555326
+SNCA,6622,Parkinson Disease,MESH:D010300,marker/mechanism,,11535288|12151787|12732244|12885775|14535945|15099020|17131421|17690948|18322262|18353766|18841091|19915575|19915576|20664293|20711177|21245015|21892157|22043175|22110584|22166454|22185909|22355530|24509835|24833599|25064009|25106480|25149416|25475535|25631236
+SNCA,6622,"PARKINSON DISEASE 1, AUTOSOMAL DOMINANT",OMIM:168601,marker/mechanism,168601,
+SNCA,6622,"Parkinson Disease 4, Autosomal Dominant Lewy Body",MESH:C565324,marker/mechanism,605543,
+SNCA,6622,"Parkinson Disease, Secondary",MESH:D010302,marker/mechanism,,34332006
+SNCA,6622,Parkinsonian Disorders,MESH:D020734,marker/mechanism,,20464527|22319455|23046578|23295396|26075822|26558463|26687234|27026137|27324791|38016618
+SNCAIP,9627,"PARKINSON DISEASE, LATE-ONSET",OMIM:168600,marker/mechanism,168600,
+SOD1,6647,Parkinson Disease,MESH:D010300,marker/mechanism|therapeutic,,16353238|21318773
+SOD2,6648,Parkinson Disease,MESH:D010300,marker/mechanism,,17188257|18353766|25279756
+SYNJ1,8867,"PARKINSON DISEASE 20, EARLY-ONSET",OMIM:615530,marker/mechanism,615530,
+TALDO1,6888,Parkinson Disease,MESH:D010300,marker/mechanism,,23233872
+TBP,6908,"PARKINSON DISEASE, LATE-ONSET",OMIM:168600,marker/mechanism,168600,
+TCL1B,9623,Parkinson Disease,MESH:D010300,marker/mechanism,,25475535
+TFAM,7019,"Parkinson Disease, Secondary",MESH:D010302,marker/mechanism,,28595911
+TH,7054,Parkinson Disease,MESH:D010300,marker/mechanism,,30236862
+TH,7054,Parkinsonian Disorders,MESH:D020734,marker/mechanism,,11246459|8817341
+TMEM230,29058,Parkinson Disease,MESH:D010300,marker/mechanism,,27270108
+TNF,7124,Parkinson Disease,MESH:D010300,marker/mechanism,,21318773
+TRNT,4576,"PARKINSON DISEASE, LATE-ONSET",OMIM:168600,marker/mechanism,168600,
+TRNT,4576,"Parkinson Disease, Mitochondrial",MESH:C564015,marker/mechanism,556500,
+TRPM2,7226,Parkinson Disease,MESH:D010300,marker/mechanism,,27957685
+TRPM7,54822,AMYOTROPHIC LATERAL SCLEROSIS-PARKINSONISM/DEMENTIA COMPLEX 1,OMIM:105500,marker/mechanism,105500,
+UCHL1,7345,"PARKINSON DISEASE 5, AUTOSOMAL DOMINANT, SUSCEPTIBILITY TO",OMIM:613643,marker/mechanism,613643,
+UP,104073,Parkinson Disease,MESH:D010300,marker/mechanism,,18353766
+VPS13C,54832,"PARKINSON DISEASE 23, AUTOSOMAL RECESSIVE EARLY-ONSET",OMIM:616840,marker/mechanism,616840,
+VPS35,55737,Parkinson Disease,MESH:D010300,marker/mechanism,,25149416
+VPS35,55737,PARKINSON DISEASE 17,OMIM:614203,marker/mechanism,614203,

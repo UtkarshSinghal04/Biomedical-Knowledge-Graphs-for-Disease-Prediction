@@ -1,0 +1,182 @@
+GOName,GOID,DiseaseName,DiseaseID,InferenceChemicalQty,InferenceChemicalNames,InferenceGeneQty,InferenceGeneSymbols
+actin cytoskeleton,GO:0015629,Psoriasis,MESH:D011565,0,,1,RIGI
+adherens junction,GO:0005912,Psoriasis,MESH:D011565,0,,1,VEGFA
+aggresome,GO:0016235,Psoriasis,MESH:D011565,0,,1,CARD14
+AP-1 adaptor complex,GO:0030121,Psoriasis,MESH:D011565,0,,1,AP1S3
+apical part of cell,GO:0045177,Psoriasis,MESH:D011565,0,,1,REN
+astrocyte projection,GO:0097449,Psoriasis,MESH:D011565,0,,1,GJB2
+autolysosome,GO:0044754,Psoriasis,MESH:D011565,2,Calcitriol|Sirolimus,0,
+autophagosome,GO:0005776,Psoriasis,MESH:D011565,1,Sirolimus,0,
+axoneme,GO:0005930,Psoriasis,MESH:D011565,0,,1,PTTG1
+azurophil granule lumen,GO:0035578,Psoriasis,MESH:D011565,0,,1,S100A7
+azurophil granule membrane,GO:0035577,Psoriasis,MESH:D011565,0,,1,VNN1
+basement membrane,GO:0005604,Psoriasis,MESH:D011565,0,,1,VEGFA
+basolateral plasma membrane,GO:0016323,Psoriasis,MESH:D011565,0,,1,TGFA
+bicellular tight junction,GO:0005923,Psoriasis,MESH:D011565,0,,1,RIGI
+catalase complex,GO:0062151,Psoriasis,MESH:D011565,0,,1,CAT
+cell body,GO:0044297,Psoriasis,MESH:D011565,0,,1,GJB2
+cell junction,GO:0030054,Psoriasis,MESH:D011565,0,,2,GJB2|HCAR2
+cell surface,GO:0009986,Parapsoriasis,MESH:D010267,0,,2,HLA-A|HLA-E
+cell surface,GO:0009986,Psoriasis,MESH:D011565,0,,8,APOE|CP|HLA-C|IL12B|IL23R|TGFA|TNF|VEGFA
+cellular_component,GO:0005575,Psoriasis,MESH:D011565,0,,4,CSMD1|LCE3C|LCE3D|ZC3H12C
+centrosome,GO:0005813,Psoriasis,MESH:D011565,0,,2,PCNA|TP53
+chromatin,GO:0000785,Psoriasis,MESH:D011565,0,,6,PCNA|PPARG|REL|RUNX3|STAT3|TP53
+chromosome,GO:0005694,Psoriasis,MESH:D011565,0,,2,CARM1|MKI67
+"chromosome, centromeric region",GO:0000775,Psoriasis,MESH:D011565,0,,1,MKI67
+chylomicron,GO:0042627,Psoriasis,MESH:D011565,0,,1,APOE
+chylomicron remnant,GO:0034360,Psoriasis,MESH:D011565,0,,1,APOE
+cilium,GO:0005929,Psoriasis,MESH:D011565,0,,1,PTTG1
+clathrin-coated endocytic vesicle membrane,GO:0030669,Psoriasis,MESH:D011565,0,,2,APOE|TGFA
+clathrin-coated pit,GO:0005905,Psoriasis,MESH:D011565,0,,1,AP1S3
+collagen-containing extracellular matrix,GO:0062023,Psoriasis,MESH:D011565,0,,1,S100A7
+condensed chromosome,GO:0000793,Psoriasis,MESH:D011565,0,,1,MKI67
+connexin complex,GO:0005922,Psoriasis,MESH:D011565,0,,1,GJB2
+core-binding factor complex,GO:0016513,Psoriasis,MESH:D011565,0,,1,RUNX3
+cortical cytoskeleton,GO:0030863,Psoriasis,MESH:D011565,0,,1,NOS2
+CRLF-CLCF1 complex,GO:0097058,Psoriasis,MESH:D011565,0,,1,IL23R
+cyclin-dependent protein kinase holoenzyme complex,GO:0000307,Psoriasis,MESH:D011565,0,,1,PCNA
+cytoplasm,GO:0005737,Psoriasis,MESH:D011565,0,,33,APOE|CARD14|CARM1|CAT|CP|CRP|CYP2S1|ERAP1|FBXL19|IFIH1|IL12B|IL13|IL1B|IL36RN|MKI67|NFKBIA|NOS2|PCNA|PPARG|PTTG1|REL|RIGI|RNF114|RUNX3|S100A7|SERPINB8|STAT3|TNFAIP3|TNIP1|TP53|TRAF3IP2|TYK2|VEGFA
+cytoplasmic ribonucleoprotein granule,GO:0036464,Psoriasis,MESH:D011565,0,,1,ZC3H12C
+cytoplasmic side of plasma membrane,GO:0009898,Psoriasis,MESH:D011565,0,,1,TYK2
+cytoplasmic vesicle,GO:0031410,Psoriasis,MESH:D011565,1,Hydroxychloroquine,3,AP1S3|TGFA|TRAF3IP2
+cytoplasmic vesicle membrane,GO:0030659,Psoriasis,MESH:D011565,0,,1,AP1S3
+cytoskeleton,GO:0005856,Psoriasis,MESH:D011565,0,,1,TYK2
+cytosol,GO:0005829,Psoriasis,MESH:D011565,0,,27,AP1S3|APOE|CARD14|CARM1|CAT|ERAP1|FBXL19|IFIH1|IL12B|IL1B|LCE3D|NFKBIA|NOS2|PPARG|PTTG1|REL|RIGI|RNF114|RUNX3|S100A7|SERPINB8|STAT3|TAGAP|TNFAIP3|TNIP1|TP53|TYK2
+dendrite,GO:0030425,Psoriasis,MESH:D011565,0,,1,APOE
+discoidal high-density lipoprotein particle,GO:0034365,Psoriasis,MESH:D011565,0,,1,APOE
+early endosome,GO:0005769,Psoriasis,MESH:D011565,1,Hydroxychloroquine,2,AP1S3|APOE
+early endosome membrane,GO:0031901,Parapsoriasis,MESH:D010267,0,,2,HLA-A|HLA-E
+early endosome membrane,GO:0031901,Psoriasis,MESH:D011565,0,,1,HLA-C
+endocytic vesicle lumen,GO:0071682,Psoriasis,MESH:D011565,0,,1,APOE
+endolysosome,GO:0036019,Psoriasis,MESH:D011565,1,Hydroxychloroquine,0,
+endomembrane system,GO:0012505,Psoriasis,MESH:D011565,0,,2,AP1S3|TYK2
+endoplasmic reticulum,GO:0005783,Parapsoriasis,MESH:D010267,0,,1,HLA-A
+endoplasmic reticulum,GO:0005783,Psoriasis,MESH:D011565,0,,7,APOE|CYP2S1|ERAP1|HLA-C|S100A7|TP53|VEGFA
+endoplasmic reticulum exit site,GO:0070971,Parapsoriasis,MESH:D010267,0,,1,HLA-A
+endoplasmic reticulum-Golgi intermediate compartment,GO:0005793,Psoriasis,MESH:D011565,0,,1,GJB2
+endoplasmic reticulum-Golgi intermediate compartment membrane,GO:0033116,Psoriasis,MESH:D011565,0,,1,TGFA
+endoplasmic reticulum lumen,GO:0005788,Psoriasis,MESH:D011565,0,,6,APOE|CP|ERAP1|IL12B|IL23A|IL6
+endoplasmic reticulum membrane,GO:0005789,Parapsoriasis,MESH:D010267,0,,1,HLA-A
+endoplasmic reticulum membrane,GO:0005789,Psoriasis,MESH:D011565,0,,3,CYP2S1|ERAP1|TGFA
+endosome,GO:0005768,Psoriasis,MESH:D011565,0,,1,APOE
+endosome lumen,GO:0031904,Psoriasis,MESH:D011565,0,,1,IL12B
+ER to Golgi transport vesicle membrane,GO:0012507,Parapsoriasis,MESH:D010267,0,,2,HLA-A|HLA-E
+ER to Golgi transport vesicle membrane,GO:0012507,Psoriasis,MESH:D011565,0,,2,HLA-C|TGFA
+euchromatin,GO:0000791,Psoriasis,MESH:D011565,0,,1,REL
+external side of plasma membrane,GO:0009897,Psoriasis,MESH:D011565,0,,6,IL12B|IL13|IL23R|IL4|IL6|TNF
+extracellular exosome,GO:0070062,Psoriasis,MESH:D011565,0,,2,APOE|S100A7
+extracellular matrix,GO:0031012,Psoriasis,MESH:D011565,0,,2,APOE|VEGFA
+extracellular region,GO:0005576,Psoriasis,MESH:D011565,0,,20,APOE|CAT|CP|CRP|CSF2|ERAP1|IL12B|IL13|IL1B|IL23A|IL36RN|IL4|IL6|REN|S100A7|TGFA|TNF|VEGFA|VNN1|VNN2
+extracellular space,GO:0005615,Parapsoriasis,MESH:D010267,0,,1,HLA-E
+extracellular space,GO:0005615,Psoriasis,MESH:D011565,0,,20,APOE|CAT|CP|CRP|CSF2|IL12B|IL13|IL1B|IL23A|IL36RN|IL4|IL6|NOS2|REN|S100A7|SERPINB8|TGFA|TNF|VEGFA|VNN1
+extrinsic component of cytoplasmic side of plasma membrane,GO:0031234,Psoriasis,MESH:D011565,0,,2,TRAF3IP2|TYK2
+extrinsic component of external side of plasma membrane,GO:0031232,Psoriasis,MESH:D011565,0,,1,APOE
+extrinsic component of plasma membrane,GO:0019897,Psoriasis,MESH:D011565,0,,1,TYK2
+ficolin-1-rich granule lumen,GO:1904813,Psoriasis,MESH:D011565,0,,1,CAT
+filopodium,GO:0030175,Psoriasis,MESH:D011565,0,,1,CRP
+focal adhesion,GO:0005925,Psoriasis,MESH:D011565,0,,1,S100A7
+gap junction,GO:0005921,Psoriasis,MESH:D011565,0,,1,GJB2
+germ cell nucleus,GO:0043073,Psoriasis,MESH:D011565,0,,1,TP53
+glutamatergic synapse,GO:0098978,Psoriasis,MESH:D011565,0,,2,APOE|STAT3
+Golgi apparatus,GO:0005794,Parapsoriasis,MESH:D010267,0,,1,HLA-A
+Golgi apparatus,GO:0005794,Psoriasis,MESH:D011565,0,,4,AP1S3|APOE|HLA-C|VEGFA
+Golgi lumen,GO:0005796,Psoriasis,MESH:D011565,0,,1,IL12B
+Golgi medial cisterna,GO:0005797,Parapsoriasis,MESH:D010267,0,,1,HLA-A
+Golgi membrane,GO:0000139,Parapsoriasis,MESH:D010267,0,,2,HLA-A|HLA-E
+Golgi membrane,GO:0000139,Psoriasis,MESH:D011565,0,,2,AP1S3|HLA-C
+granulocyte macrophage colony-stimulating factor receptor complex,GO:0030526,Psoriasis,MESH:D011565,0,,1,CSF2
+growth cone,GO:0030426,Psoriasis,MESH:D011565,0,,1,CRP
+high-density lipoprotein particle,GO:0034364,Psoriasis,MESH:D011565,0,,1,APOE
+"IgG immunoglobulin complex, circulating",GO:0071736,Psoriasis,MESH:D011565,1,indirubin,0,
+I-kappaB/NF-kappaB complex,GO:0033256,Psoriasis,MESH:D011565,0,,1,NFKBIA
+interleukin-12 complex,GO:0043514,Psoriasis,MESH:D011565,0,,1,IL12B
+interleukin-12 receptor complex,GO:0042022,Psoriasis,MESH:D011565,0,,1,TYK2
+interleukin-23 complex,GO:0070743,Psoriasis,MESH:D011565,0,,2,IL12B|IL23A
+interleukin-23 receptor complex,GO:0072536,Psoriasis,MESH:D011565,0,,2,IL23R|TYK2
+interleukin-28 receptor complex,GO:0032002,Psoriasis,MESH:D011565,0,,1,IFNLR1
+interleukin-6 receptor complex,GO:0005896,Psoriasis,MESH:D011565,0,,1,IL6
+intermediate-density lipoprotein particle,GO:0034363,Psoriasis,MESH:D011565,0,,1,APOE
+intracellular anatomical structure,GO:0005622,Psoriasis,MESH:D011565,0,,2,PCNA|TNF
+intracellular membrane-bounded organelle,GO:0043231,Psoriasis,MESH:D011565,0,,6,AP1S3|CAT|CSF2|CYP2S1|PPARG|RUNX3
+late endosome,GO:0005770,Psoriasis,MESH:D011565,0,,1,APOE
+late endosome lumen,GO:0031906,Psoriasis,MESH:D011565,0,,1,IL12B
+lateral plasma membrane,GO:0016328,Psoriasis,MESH:D011565,0,,1,GJB2
+lipoprotein particle,GO:1990777,Psoriasis,MESH:D011565,0,,1,APOE
+low-density lipoprotein particle,GO:0034362,Psoriasis,MESH:D011565,0,,1,APOE
+lumenal side of endoplasmic reticulum membrane,GO:0098553,Parapsoriasis,MESH:D010267,0,,2,HLA-A|HLA-E
+lumenal side of endoplasmic reticulum membrane,GO:0098553,Psoriasis,MESH:D011565,0,,1,HLA-C
+lysosomal membrane,GO:0005765,Psoriasis,MESH:D011565,0,,1,AP1S3
+lysosome,GO:0005764,Psoriasis,MESH:D011565,1,Sirolimus,2,IL1B|TNFAIP3
+major mitochondrial derivative,GO:0016008,Psoriasis,MESH:D011565,0,,1,CAT
+male germ cell nucleus,GO:0001673,Psoriasis,MESH:D011565,0,,1,PCNA
+melanosome,GO:0042470,Psoriasis,MESH:D011565,0,,1,APOE
+membrane,GO:0016020,Psoriasis,MESH:D011565,0,,16,AP1S3|CARD14|CP|CRP|CSMD1|ERAP1|HCAR2|IFNLR1|IL12B|IL23R|REN|TGFA|TNF|TYK2|VEGFA|VNN1
+membrane coat,GO:0030117,Psoriasis,MESH:D011565,0,,1,AP1S3
+membrane raft,GO:0045121,Psoriasis,MESH:D011565,0,,1,TNF
+MHC class Ib protein complex,GO:0032398,Parapsoriasis,MESH:D010267,0,,1,HLA-E
+MHC class I peptide loading complex,GO:0042824,Parapsoriasis,MESH:D010267,0,,1,HLA-A
+MHC class I protein complex,GO:0042612,Parapsoriasis,MESH:D010267,0,,2,HLA-A|HLA-E
+MHC class I protein complex,GO:0042612,Psoriasis,MESH:D011565,0,,1,HLA-C
+microtubule,GO:0005874,Psoriasis,MESH:D011565,0,,1,APOE
+mitochondrial inner membrane,GO:0005743,Psoriasis,MESH:D011565,0,,1,STAT3
+mitochondrial matrix,GO:0005759,Psoriasis,MESH:D011565,0,,2,SOD2|TP53
+mitochondrial membrane,GO:0031966,Psoriasis,MESH:D011565,1,Fatty Acids,0,
+mitochondrial nucleoid,GO:0042645,Psoriasis,MESH:D011565,0,,1,SOD2
+mitochondrial proton-transporting ATP synthase complex,GO:0005753,Psoriasis,MESH:D011565,1,Sirolimus,0,
+mitochondrial respiratory chain complex I,GO:0005747,Psoriasis,MESH:D011565,1,Sirolimus,0,
+mitochondrial respiratory chain complex III,GO:0005750,Psoriasis,MESH:D011565,1,Sirolimus,0,
+mitochondrion,GO:0005739,Psoriasis,MESH:D011565,2,Folic Acid|Uridine,5,CAT|IFIH1|REL|SOD2|TP53
+multivesicular body,GO:0005771,Psoriasis,MESH:D011565,0,,1,APOE
+"multivesicular body, internal vesicle",GO:0097487,Psoriasis,MESH:D011565,0,,1,APOE
+neuronal cell body,GO:0043025,Psoriasis,MESH:D011565,0,,2,APOE|TNF
+neuron projection,GO:0043005,Psoriasis,MESH:D011565,1,Tretinoin,0,
+NF-kappaB complex,GO:0071159,Psoriasis,MESH:D011565,0,,1,REL
+nuclear body,GO:0016604,Psoriasis,MESH:D011565,0,,3,MKI67|PCNA|TP53
+nuclear envelope,GO:0005635,Psoriasis,MESH:D011565,0,,1,APOE
+nuclear lamina,GO:0005652,Psoriasis,MESH:D011565,0,,1,PCNA
+nuclear matrix,GO:0016363,Psoriasis,MESH:D011565,0,,1,TP53
+nuclear replication fork,GO:0043596,Psoriasis,MESH:D011565,0,,2,CARM1|PCNA
+nucleolus,GO:0005730,Psoriasis,MESH:D011565,0,,3,MKI67|RUNX3|TP53
+nucleoplasm,GO:0005654,Psoriasis,MESH:D011565,0,,11,CARM1|MKI67|NFKBIA|NOS2|PCNA|PPARG|REL|RUNX3|STAT3|TNIP1|TP53
+nucleus,GO:0005634,Psoriasis,MESH:D011565,0,,25,CARM1|CP|CRP|FBXL19|IFIH1|MKI67|NFKBIA|NOS2|PCNA|PPARG|PTTG1|REL|RIGI|RNF114|RUNX3|S100A7|STAT3|TNFAIP3|TNIP1|TP53|TRAF3IP2|TYK2|VEGFA|ZC3H12C|ZNF816
+PCNA complex,GO:0043626,Psoriasis,MESH:D011565,0,,1,PCNA
+PCNA-p21 complex,GO:0070557,Psoriasis,MESH:D011565,0,,1,PCNA
+perinuclear region of cytoplasm,GO:0048471,Psoriasis,MESH:D011565,0,,4,GJB2|NOS2|PPARG|TGFA
+peroxisomal matrix,GO:0005782,Psoriasis,MESH:D011565,0,,2,CAT|NOS2
+peroxisomal membrane,GO:0005778,Psoriasis,MESH:D011565,0,,1,CAT
+peroxisome,GO:0005777,Psoriasis,MESH:D011565,0,,2,CAT|NOS2
+phagocytic cup,GO:0001891,Psoriasis,MESH:D011565,0,,1,TNF
+phagocytic vesicle membrane,GO:0030670,Parapsoriasis,MESH:D010267,0,,2,HLA-A|HLA-E
+phagocytic vesicle membrane,GO:0030670,Psoriasis,MESH:D011565,0,,1,HLA-C
+plasma membrane,GO:0005886,Parapsoriasis,MESH:D010267,0,,2,HLA-A|HLA-E
+plasma membrane,GO:0005886,Psoriasis,MESH:D011565,0,,19,APOE|CARD14|CP|CSF2|GJB2|HCAR2|HLA-C|IFNLR1|IL23R|NFKBIA|REN|RNF114|STAT3|TGFA|TNF|TYK2|VEGFA|VNN1|VNN2
+platelet alpha granule lumen,GO:0031093,Psoriasis,MESH:D011565,0,,1,VEGFA
+PML body,GO:0016605,Psoriasis,MESH:D011565,0,,1,TP53
+postsynaptic density,GO:0014069,Psoriasis,MESH:D011565,0,,1,STAT3
+protein-containing complex,GO:0032991,Psoriasis,MESH:D011565,0,,6,CARM1|CAT|NFKBIA|STAT3|TNF|TP53
+receptor complex,GO:0043235,Psoriasis,MESH:D011565,0,,3,IL23R|PPARG|TYK2
+recycling endosome,GO:0055037,Psoriasis,MESH:D011565,0,,1,TNF
+recycling endosome membrane,GO:0055038,Parapsoriasis,MESH:D010267,0,,2,HLA-A|HLA-E
+recycling endosome membrane,GO:0055038,Psoriasis,MESH:D011565,0,,1,HLA-C
+replication fork,GO:0005657,Psoriasis,MESH:D011565,0,,2,PCNA|TP53
+replisome,GO:0030894,Psoriasis,MESH:D011565,0,,1,PCNA
+ribonucleoprotein complex,GO:1990904,Psoriasis,MESH:D011565,0,,1,RIGI
+RNA polymerase II transcription regulator complex,GO:0090575,Psoriasis,MESH:D011565,0,,4,CARM1|PPARG|STAT3|TP53
+ruffle membrane,GO:0032587,Psoriasis,MESH:D011565,0,,1,RIGI
+SCF ubiquitin ligase complex,GO:0019005,Psoriasis,MESH:D011565,0,,1,FBXL19
+Schaffer collateral - CA1 synapse,GO:0098685,Psoriasis,MESH:D011565,0,,1,STAT3
+secretory granule,GO:0030141,Psoriasis,MESH:D011565,0,,3,IL1B|TNF|VEGFA
+secretory granule lumen,GO:0034774,Psoriasis,MESH:D011565,0,,1,CAT
+secretory granule membrane,GO:0030667,Psoriasis,MESH:D011565,0,,1,HLA-C
+side of membrane,GO:0098552,Psoriasis,MESH:D011565,0,,2,VNN1|VNN2
+site of double-strand break,GO:0035861,Psoriasis,MESH:D011565,1,Cyclosporine,1,TP53
+SUMO ligase complex,GO:0106068,Psoriasis,MESH:D011565,0,,1,PPARG
+synaptic cleft,GO:0043083,Psoriasis,MESH:D011565,0,,1,APOE
+transcription regulator complex,GO:0005667,Psoriasis,MESH:D011565,0,,2,STAT3|TP53
+transcription repressor complex,GO:0017053,Psoriasis,MESH:D011565,0,,1,TP53
+trans-Golgi network membrane,GO:0032588,Psoriasis,MESH:D011565,0,,1,AP1S3
+tRNA-intron endonuclease complex,GO:0000214,Psoriasis,MESH:D011565,0,,1,PPARG
+VEGF-A complex,GO:1990150,Psoriasis,MESH:D011565,0,,1,VEGFA
+very-low-density lipoprotein particle,GO:0034361,Psoriasis,MESH:D011565,0,,1,APOE
+vesicle,GO:0031982,Psoriasis,MESH:D011565,0,,2,IL1B|VEGFA
+Z disc,GO:0030018,Psoriasis,MESH:D011565,0,,1,CRP

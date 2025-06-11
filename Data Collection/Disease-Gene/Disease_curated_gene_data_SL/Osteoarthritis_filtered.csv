@@ -1,0 +1,127 @@
+GeneSymbol,GeneID,DiseaseName,DiseaseID,DirectEvidence,OmimIDs,PubMedIDs
+ACAA2,10449,Osteoarthritis,MESH:D010003,marker/mechanism,,18784066
+ACAN,176,SHORT STATURE AND ADVANCED BONE AGE WITH OR WITHOUT EARLY-ONSET OSTEOARTHRITIS AND/OR OSTEOCHONDRITIS DISSECANS,OMIM:165800,marker/mechanism,165800,
+ACO1,48,Osteoarthritis,MESH:D010003,marker/mechanism,,18784066
+ACTB,60,Osteoarthritis,MESH:D010003,marker/mechanism,,18784066
+ADGRG2,10149,Osteoarthritis,MESH:D010003,marker/mechanism,,17568789
+AGER,177,Osteoarthritis,MESH:D010003,marker/mechanism,,16948116
+AK4,205,Osteoarthritis,MESH:D010003,marker/mechanism,,18784066
+AKR1C1,1645,Osteoarthritis,MESH:D010003,marker/mechanism,,18784066
+AKR1C2,1646,Osteoarthritis,MESH:D010003,marker/mechanism,,18784066
+ALDH1A2,8854,Osteoarthritis,MESH:D010003,marker/mechanism,,24728293
+ASPN,54829,Osteoarthritis,MESH:D010003,marker/mechanism,607850,
+ASTN2,23245,"Osteoarthritis, Hip",MESH:D015207,marker/mechanism,,30374069
+ATP1A3,478,Osteoarthritis,MESH:D010003,marker/mechanism,,18784066
+ATP6V1B2,526,Osteoarthritis,MESH:D010003,marker/mechanism,,18784066
+BMP4,652,Osteoarthritis,MESH:D010003,marker/mechanism,,20008919
+BMP6,654,Osteoarthritis,MESH:D010003,marker/mechanism,,20008919
+CALCA,796,Osteoarthritis,MESH:D010003,marker/mechanism,,16690336
+CHADL,150356,"Osteoarthritis, Hip",MESH:D015207,marker/mechanism,,28319091|30374069
+CHI3L1,1116,Osteoarthritis,MESH:D010003,marker/mechanism,,18784066
+CLIC1,1192,Osteoarthritis,MESH:D010003,marker/mechanism,,18784066
+CLIC4,25932,Osteoarthritis,MESH:D010003,marker/mechanism,,18784066
+CLU,1191,Osteoarthritis,MESH:D010003,marker/mechanism,,17568789|18784066
+COL11A1,1301,"Osteoarthritis, Hip",MESH:D015207,marker/mechanism,,30374069
+COL1A2,1278,Osteoarthritis,MESH:D010003,marker/mechanism,,18784066
+COL2A1,1280,Osteoarthritis,MESH:D010003,marker/mechanism,,16189708|9061443
+COL2A1,1280,Osteoarthritis with Mild Chondrodysplasia,MESH:C565740,marker/mechanism,604864,
+COL6A2,1292,Osteoarthritis,MESH:D010003,marker/mechanism,,18784066
+COMP,1311,Osteoarthritis,MESH:D010003,marker/mechanism,,7670472
+COMP,1311,"Osteoarthritis, Hip",MESH:D015207,marker/mechanism,,28319091
+CRHR1,1394,"Osteoarthritis, Hip",MESH:D015207,marker/mechanism,,30664745
+CTSD,1509,Osteoarthritis,MESH:D010003,marker/mechanism,,18784066
+CTSK,1513,Osteoarthritis,MESH:D010003,marker/mechanism,,30664745
+CXCL2,2920,Osteoarthritis,MESH:D010003,marker/mechanism,,15292528
+CXCL6,6372,Osteoarthritis,MESH:D010003,marker/mechanism,,15292528
+CXCL8,3576,"Osteoarthritis, Spine",MESH:D055013,marker/mechanism,,34697729
+DAPP1,27071,Osteoarthritis,MESH:D010003,marker/mechanism,,18784066
+DDX3X,1654,Osteoarthritis,MESH:D010003,marker/mechanism,,18784066
+DIABLO,56616,"Osteoarthritis, Hip",MESH:D015207,marker/mechanism,,30664745
+DPEP1,1800,Osteoarthritis,MESH:D010003,marker/mechanism,,30664745
+DPYSL2,1808,Osteoarthritis,MESH:D010003,marker/mechanism,,18784066
+DUSP1,1843,"Osteoarthritis, Spine",MESH:D055013,marker/mechanism,,34697729
+EDIL3,10085,Osteoarthritis,MESH:D010003,marker/mechanism,,18784066
+EEF2,1938,Osteoarthritis,MESH:D010003,marker/mechanism,,18784066
+ENO1,2023,Osteoarthritis,MESH:D010003,marker/mechanism,,18784066
+ESD,2098,Osteoarthritis,MESH:D010003,marker/mechanism,,18784066
+ETFA,2108,Osteoarthritis,MESH:D010003,marker/mechanism,,18784066
+EZR,7430,Osteoarthritis,MESH:D010003,marker/mechanism,,18784066
+FGF18,8817,Osteoarthritis,MESH:D010003,marker/mechanism,,30664745
+FILIP1,27145,"Osteoarthritis, Hip",MESH:D015207,marker/mechanism,,30374069
+FRZB,2487,Osteoarthritis,MESH:D010003,marker/mechanism,165720,
+FTL,2512,Osteoarthritis,MESH:D010003,marker/mechanism,,18784066
+GAPDH,2597,Osteoarthritis,MESH:D010003,marker/mechanism,,18784066
+GDF5,8200,Osteoarthritis,MESH:D010003,marker/mechanism,612400,18830904|30664745
+GDF5,8200,"Osteoarthritis, Knee",MESH:D020370,marker/mechanism,,30374069
+GLS,2744,Osteoarthritis,MESH:D010003,marker/mechanism,,18784066
+GSTK1,373156,Osteoarthritis,MESH:D010003,marker/mechanism,,18784066
+HADHA,3030,Osteoarthritis,MESH:D010003,marker/mechanism,,18784066
+HDAC9,9734,"Osteoarthritis, Hip",MESH:D015207,marker/mechanism,,30374069
+HFE,3077,"Osteoarthritis, Hip",MESH:D015207,marker/mechanism,,30374069
+HIBCH,26275,Osteoarthritis,MESH:D010003,marker/mechanism,,18784066
+IDH2,3418,Osteoarthritis,MESH:D010003,marker/mechanism,,18784066
+IDH3A,3419,Osteoarthritis,MESH:D010003,marker/mechanism,,18784066
+IL11,3589,"Osteoarthritis, Hip",MESH:D015207,marker/mechanism,,30374069|30664745
+IL1B,3553,Osteoarthritis,MESH:D010003,marker/mechanism,,21954917|37943572
+IL6,3569,"Osteoarthritis, Spine",MESH:D055013,marker/mechanism,,34697729
+IMMT,10989,Osteoarthritis,MESH:D010003,marker/mechanism,,18784066
+ISOC2,79763,Osteoarthritis,MESH:D010003,marker/mechanism,,18784066
+ITIH1,3697,"Osteoarthritis, Hip",MESH:D015207,marker/mechanism,,30374069
+LGALS3,3958,Osteoarthritis,MESH:D010003,marker/mechanism,,34894372
+LMX1B,4010,"Osteoarthritis, Hip",MESH:D015207,marker/mechanism,,30374069
+LTBP1,4052,"Osteoarthritis, Knee",MESH:D020370,marker/mechanism,,30374069
+LTBP3,4054,Osteoarthritis,MESH:D010003,marker/mechanism,,11790802|12379497
+LTBP3,4054,"Osteoarthritis, Hip",MESH:D015207,marker/mechanism,,30374069
+MAPT,4137,"Osteoarthritis, Hip",MESH:D015207,marker/mechanism,,30664745
+MATN3,4148,Osteoarthritis,MESH:D010003,marker/mechanism,140600,
+MIR219A1,407002,"Osteoarthritis, Knee",MESH:D020370,therapeutic,,35962723
+MIR337,442905,"Osteoarthritis, Spine",MESH:D055013,marker/mechanism,,34697729
+MSN,4478,Osteoarthritis,MESH:D010003,marker/mechanism,,18784066
+MVP,9961,Osteoarthritis,MESH:D010003,marker/mechanism,,18784066
+MYH13,8735,Osteoarthritis,MESH:D010003,marker/mechanism,,18784066
+NDUFS8,4728,Osteoarthritis,MESH:D010003,marker/mechanism,,18784066
+NDUFV1,4723,Osteoarthritis,MESH:D010003,marker/mechanism,,18784066
+NME2,4831,Osteoarthritis,MESH:D010003,marker/mechanism,,18784066
+OPA1,4976,Osteoarthritis,MESH:D010003,marker/mechanism,,18784066
+P3H3,10536,Osteoarthritis,MESH:D010003,marker/mechanism,,18784066
+PDCD6IP,10015,Osteoarthritis,MESH:D010003,marker/mechanism,,18784066
+PDHA1,5160,Osteoarthritis,MESH:D010003,marker/mechanism,,18784066
+PLCD1,5333,Osteoarthritis,MESH:D010003,marker/mechanism,,18784066
+PLOD2,5352,Osteoarthritis,MESH:D010003,marker/mechanism,,18784066
+PLS3,5358,Osteoarthritis,MESH:D010003,marker/mechanism,,18784066
+POU3F3,5455,Osteoarthritis,MESH:D010003,marker/mechanism,,17568789
+PPARG,5468,Osteoarthritis,MESH:D010003,marker/mechanism,,17568789
+PPP2R1A,5518,Osteoarthritis,MESH:D010003,marker/mechanism,,18784066
+PSMB1,5689,Osteoarthritis,MESH:D010003,marker/mechanism,,18784066
+PTGS2,5743,Osteoarthritis,MESH:D010003,marker/mechanism,,32004530
+RAN,5901,Osteoarthritis,MESH:D010003,marker/mechanism,,18784066
+RCN3,57333,Osteoarthritis,MESH:D010003,marker/mechanism,,18784066
+RUNX2,860,Osteoarthritis,MESH:D010003,marker/mechanism,,20008919
+RUNX2,860,"Osteoarthritis, Hip",MESH:D015207,marker/mechanism,,30374069
+S100A4,6275,Osteoarthritis,MESH:D010003,marker/mechanism,,16948116
+SBNO1,55206,"Osteoarthritis, Knee",MESH:D020370,marker/mechanism,,30374069
+SCRN1,9805,Osteoarthritis,MESH:D010003,marker/mechanism,,18784066
+SDCBP,6386,Osteoarthritis,MESH:D010003,marker/mechanism,,18784066
+SDHA,6389,Osteoarthritis,MESH:D010003,marker/mechanism,,18784066
+SEC23A,10484,Osteoarthritis,MESH:D010003,marker/mechanism,,18784066
+SGCG,6445,Osteoarthritis,MESH:D010003,marker/mechanism,,17568789
+SKP2,6502,"Osteoarthritis, Spine",MESH:D055013,marker/mechanism,,34697729
+SLC2A1,6513,Osteoarthritis,MESH:D010003,marker/mechanism,,18973239
+SMAD3,4088,Osteoarthritis,MESH:D010003,marker/mechanism,,21217753|22772368
+SMAD3,4088,"Osteoarthritis, Hip",MESH:D015207,marker/mechanism,,30374069
+SMO,6608,"Osteoarthritis, Hip",MESH:D015207,marker/mechanism,,30374069
+SOD2,6648,Osteoarthritis,MESH:D010003,marker/mechanism,,15292528|18784066|22108257
+TFPI2,7980,Osteoarthritis,MESH:D010003,marker/mechanism,,15292528
+TGFB1,7040,Osteoarthritis,MESH:D010003,marker/mechanism,,30664745
+TGM2,7052,Osteoarthritis,MESH:D010003,marker/mechanism,,18784066
+TNC,3371,"Osteoarthritis, Hip",MESH:D015207,marker/mechanism,,30374069
+TNF,7124,"Osteoarthritis, Spine",MESH:D055013,marker/mechanism,,34697729
+TNFSF15,9966,Osteoarthritis,MESH:D010003,marker/mechanism,,30664745
+TRAP1,10131,Osteoarthritis,MESH:D010003,marker/mechanism,,18784066
+TRIM2,23321,Osteoarthritis,MESH:D010003,marker/mechanism,,17568789
+TRPV4,59341,Osteoarthritis,MESH:D010003,marker/mechanism,,21964574
+TXNRD1,7296,Osteoarthritis,MESH:D010003,marker/mechanism,,18784066
+VDAC2,7417,Osteoarthritis,MESH:D010003,marker/mechanism,,18784066
+VIM,7431,Osteoarthritis,MESH:D010003,marker/mechanism,,16876394|18784066
+WWP2,11060,"Osteoarthritis, Knee",MESH:D020370,marker/mechanism,,30374069
+YWHAQ,10971,Osteoarthritis,MESH:D010003,marker/mechanism,,18784066

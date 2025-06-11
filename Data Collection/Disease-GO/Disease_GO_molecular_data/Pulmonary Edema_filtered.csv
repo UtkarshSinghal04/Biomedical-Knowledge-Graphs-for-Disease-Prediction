@@ -1,0 +1,328 @@
+GOName,GOID,DiseaseName,DiseaseID,InferenceChemicalQty,InferenceChemicalNames,InferenceGeneQty,InferenceGeneSymbols
+1-phosphatidylinositol 4-kinase activity,GO:0004430,Pulmonary Edema,MESH:D011654,1,Quercetin,0,
+"3',5'-cyclic-AMP phosphodiesterase activity",GO:0004115,Pulmonary Edema,MESH:D011654,1,Curcumin,0,
+3-beta-hydroxy-delta5-steroid dehydrogenase activity,GO:0003854,Pulmonary Edema,MESH:D011654,2,Curcumin|Indomethacin,0,
+3-hydroxybutyrate dehydrogenase activity,GO:0003858,Pulmonary Edema,MESH:D011654,1,Arsenic Trioxide,0,
+5'-nucleotidase activity,GO:0008253,Pulmonary Edema,MESH:D011654,5,"bisphenol A|geraniol|lipopolysaccharide, Escherichia coli O111 B4|Metformin|naringin",0,
+ABC-type xenobiotic transporter activity,GO:0008559,Pulmonary Edema,MESH:D011654,3,Chlorpyrifos|Dronabinol|Verapamil,0,
+acetylcholine-gated monoatomic cation-selective channel activity,GO:0022848,Pulmonary Edema,MESH:D011654,2,Dronabinol|Nicotine,0,
+acetylcholinesterase activity,GO:0003990,Pulmonary Edema,MESH:D011654,10,Ascorbic Acid|bisphenol A|Chlorpyrifos|Dronabinol|Melatonin|Particulate Matter|Quercetin|Sodium Fluoride|Tretinoin|Vehicle Emissions,0,
+acetyl-CoA carboxylase activity,GO:0003989,Pulmonary Edema,MESH:D011654,3,bisphenol A|ferulic acid|Resveratrol,0,
+[acetyl-CoA carboxylase] kinase activity,GO:0050405,Pulmonary Edema,MESH:D011654,2,Ethanol|Lipopolysaccharides,0,
+acid phosphatase activity,GO:0003993,Pulmonary Edema,MESH:D011654,10,alpha-Tocopherol|Arsenic|Arsenic Trioxide|Ascorbic Acid|bisphenol A|Cadmium|Chlorpyrifos|Curcumin|Quercetin|Resveratrol,0,
+aconitate hydratase activity,GO:0003994,Pulmonary Edema,MESH:D011654,2,bisphenol A|Paraquat,0,
+actin binding,GO:0003779,Pulmonary Edema,MESH:D011654,0,,1,NOS3
+actin monomer binding,GO:0003785,Pulmonary Edema,MESH:D011654,0,,1,NOS3
+active monoatomic ion transmembrane transporter activity,GO:0022853,Pulmonary Edema,MESH:D011654,1,Nicotine,0,
+acylphosphatase activity,GO:0003998,Pulmonary Edema,MESH:D011654,1,Quercetin,0,
+adenosine kinase activity,GO:0004001,Pulmonary Edema,MESH:D011654,1,Oxygen,0,
+adenylate cyclase activity,GO:0004016,Pulmonary Edema,MESH:D011654,2,"3-(2-hydroxy-4-(1,1-dimethylheptyl)phenyl)-4-(3-hydroxypropyl)cyclohexanol|Dronabinol",0,
+adenylate cyclase activity,GO:0004016,Pulmonary edema of mountaineers,MESH:C535833,0,,1,GUCY1A1
+adenylate kinase activity,GO:0004017,Pulmonary Edema,MESH:D011654,2,Berberine|Mustard Gas,0,
+ADP binding,GO:0043531,Pulmonary Edema,MESH:D011654,0,,1,NLRP3
+ADP phosphatase activity,GO:0043262,Pulmonary Edema,MESH:D011654,3,bisphenol A|Caffeine|naringin,0,
+adrenergic receptor activity,GO:0004935,Pulmonary Edema,MESH:D011654,3,Chlorpyrifos|Dexamethasone|Nicotine,0,
+alcohol dehydrogenase (NAD+) activity,GO:0004022,Pulmonary Edema,MESH:D011654,1,Curcumin,0,
+aldehyde dehydrogenase (NAD+) activity,GO:0004029,Pulmonary Edema,MESH:D011654,1,Disulfiram,0,
+aldehyde dehydrogenase [NAD(P)+] activity,GO:0004030,Pulmonary Edema,MESH:D011654,1,Ethanol,0,
+alditol:NADP+ 1-oxidoreductase activity,GO:0004032,Pulmonary Edema,MESH:D011654,5,Berberine|Metformin|Quercetin|Rutin|Vancomycin,0,
+alkaline phosphatase activity,GO:0004035,Pulmonary Edema,MESH:D011654,41,"Acetaminophen|Acetylcysteine|Alloxan|alpha-Tocopherol|Arsenic|Arsenic Trioxide|Ascorbic Acid|bisphenol A|Cadmium|Calcitriol|Chlorpyrifos|chrysin|Curcumin|Cyclophosphamide|Dexamethasone|Doxorubicin|Epinephrine|Ethanol|ferulic acid|Fluorouracil|Glyburide|Glycyrrhizic Acid|Hydrogen Sulfide|lipopolysaccharide, Escherichia coli O111 B4|Lipopolysaccharides|Metformin|Methotrexate|naringin|Nickel|Nicotine|Nitroprusside|Pioglitazone|pyrazolanthrone|Quercetin|Resveratrol|Rosiglitazone|Rutin|Sildenafil Citrate|Simvastatin|Sodium Fluoride|Vancomycin",0,
+alpha-amylase activity,GO:0004556,Pulmonary Edema,MESH:D011654,4,Berberine|Curcumin|Phenylephrine|Resveratrol,0,
+alpha-glucosidase activity,GO:0090599,Pulmonary Edema,MESH:D011654,1,Berberine,0,
+aminoacylase activity,GO:0004046,Pulmonary Edema,MESH:D011654,0,,1,CAT
+aminopeptidase activity,GO:0004177,Pulmonary Edema,MESH:D011654,2,Chlorpyrifos|geraniol,0,
+AMP-activated protein kinase activity,GO:0004679,Pulmonary Edema,MESH:D011654,17,Arsenic Trioxide|Berberine|bisphenol A|Bleomycin|Caffeine|Doxorubicin|Ethanol|ferulic acid|geraniol|Hydrogen Sulfide|lanthanum chloride|Lipopolysaccharides|Metformin|Nicotine|Oxygen|Resveratrol|Simvastatin,0,
+amylase activity,GO:0016160,Pulmonary Edema,MESH:D011654,5,Cadmium|Dexamethasone|Ethanol|Lipopolysaccharides|Metformin,0,
+antioxidant activity,GO:0016209,Pulmonary Edema,MESH:D011654,15,alpha-Tocopherol|Arsenic Trioxide|Ascorbic Acid|bisphenol A|Chlorpyrifos|Curcumin|Cyclophosphamide|Doxorubicin|eriodictyol|Isoproterenol|Melatonin|naringin|Particulate Matter|Quercetin|Tretinoin,1,CAT
+AP-1 adaptor complex binding,GO:0035650,Pulmonary Edema,MESH:D011654,1,Silicon Dioxide,0,
+arginase activity,GO:0004053,Pulmonary Edema,MESH:D011654,4,bisphenol A|Caffeine|naringin|Oxygen,0,
+arginine binding,GO:0034618,Pulmonary Edema,MESH:D011654,0,,1,NOS3
+arginine kinase activity,GO:0004054,Pulmonary Edema,MESH:D011654,1,Chlorpyrifos,0,
+aryldialkylphosphatase activity,GO:0004063,Pulmonary Edema,MESH:D011654,1,Thioctic Acid,0,
+arylesterase activity,GO:0004064,Pulmonary Edema,MESH:D011654,3,Acetylcysteine|Chlorpyrifos|Quercetin,0,
+aryl sulfotransferase activity,GO:0004062,Pulmonary Edema,MESH:D011654,1,Acetaminophen,0,
+aspartic-type endopeptidase activity involved in amyloid precursor protein catabolic process,GO:1902944,Pulmonary Edema,MESH:D011654,1,Nicotine,0,
+ATP-activated inward rectifier potassium channel activity,GO:0015272,Pulmonary Edema,MESH:D011654,1,Glyburide,0,
+ATP binding,GO:0005524,Pulmonary Edema,MESH:D011654,0,,3,HSPA12B|NLRP3|PARP1
+ATP-dependent activity,GO:0140657,Pulmonary Edema,MESH:D011654,7,Arsenic|bisphenol A|Caffeine|naringin|Oxygen|Sodium Fluoride|Verapamil,0,
+ATP-dependent peptidase activity,GO:0004176,Pulmonary Edema,MESH:D011654,0,,1,PARP1
+ATP-dependent protein folding chaperone,GO:0140662,Pulmonary Edema,MESH:D011654,0,,1,HSPA12B
+ATP hydrolysis activity,GO:0016887,Pulmonary Edema,MESH:D011654,20,Acetaminophen|Acetylcysteine|Arsenic|Arsenic Trioxide|bisphenol A|Cadmium|Chlorpyrifos|Doxorubicin|ferulic acid|Lipopolysaccharides|Metformin|naringin|Particulate Matter|pyrazolanthrone|Quercetin|Resveratrol|Silicon Dioxide|Thioctic Acid|Vehicle Emissions|Verapamil,2,NLRP3|PARP1
+A-type (transient outward) potassium channel activity,GO:0005250,Pulmonary Edema,MESH:D011654,1,geraniol,0,
+beta-catenin binding,GO:0008013,Pulmonary Edema,MESH:D011654,0,,1,NOS3
+beta-galactosidase activity,GO:0004565,Pulmonary Edema,MESH:D011654,8,Acetylcysteine|Dronabinol|Paraquat|Particulate Matter|Quercetin|Resveratrol|Vehicle Emissions|wogonin,0,
+beta-glucosidase activity,GO:0008422,Pulmonary Edema,MESH:D011654,1,Isoproterenol,0,
+beta-glucuronidase activity,GO:0004566,Pulmonary Edema,MESH:D011654,1,Isoproterenol,0,
+cadherin binding,GO:0045296,Pulmonary Edema,MESH:D011654,0,,1,NOS3
+cadmium ion binding,GO:0046870,Pulmonary Edema,MESH:D011654,0,,1,NOS3
+calcium-activated potassium channel activity,GO:0015269,Pulmonary Edema,MESH:D011654,1,geraniol,0,
+calcium channel activity,GO:0005262,Pulmonary Edema,MESH:D011654,2,"Dronabinol|lipopolysaccharide, Escherichia coli O111 B4",0,
+calcium-dependent ATPase activity,GO:0030899,Pulmonary Edema,MESH:D011654,8,Acetylcysteine|Aspirin|Berberine|Cadmium|Chlorpyrifos|Glyburide|Isoproterenol|Quercetin,0,
+calcium-dependent cysteine-type endopeptidase activity,GO:0004198,Pulmonary Edema,MESH:D011654,5,Acetaminophen|Arsenic|Glyburide|Propofol|Thioctic Acid,0,
+calcium-dependent phospholipase A2 activity,GO:0047498,Pulmonary Edema,MESH:D011654,3,Quercetin|Rutin|Tretinoin,0,
+calmodulin binding,GO:0005516,Pulmonary Edema,MESH:D011654,0,,1,NOS3
+calmodulin-dependent protein kinase activity,GO:0004683,Pulmonary Edema,MESH:D011654,1,Ascorbic Acid,0,
+calmodulin-dependent protein phosphatase activity,GO:0033192,Pulmonary Edema,MESH:D011654,2,bisphenol A|Verapamil,0,
+cAMP-dependent protein kinase activity,GO:0004691,Pulmonary Edema,MESH:D011654,2,"N-(oxo-5,6-dihydrophenanthridin-2-yl)-N,N-dimethylacetamide hydrochloride|Roflumilast",0,
+carbonate dehydratase activity,GO:0004089,Pulmonary Edema,MESH:D011654,4,Caffeine|Dexamethasone|Ifosfamide|Vancomycin,0,
+carbonate dehydratase activity,GO:0004089,Pulmonary edema of mountaineers,MESH:C535833,2,Acetazolamide|cobaltous chloride,0,
+carboxylesterase activity,GO:0106435,Pulmonary Edema,MESH:D011654,1,Chlorpyrifos,0,
+carboxylic ester hydrolase activity,GO:0052689,Pulmonary Edema,MESH:D011654,3,Chlorpyrifos|geraniol|Oleic Acid,0,
+carnitine O-octanoyltransferase activity,GO:0008458,Pulmonary Edema,MESH:D011654,1,bisphenol A,0,
+carnitine O-palmitoyltransferase activity,GO:0004095,Pulmonary Edema,MESH:D011654,3,bisphenol A|Epinephrine|Resveratrol,0,
+catalase activity,GO:0004096,Pulmonary Edema,MESH:D011654,1,Isoproterenol,1,CAT
+catalytic activity,GO:0003824,Pulmonary Edema,MESH:D011654,0,,1,PARP1
+CD40 receptor binding,GO:0005174,Pulmonary Edema,MESH:D011654,0,,1,TNF
+channel activity,GO:0015267,Pulmonary Edema,MESH:D011654,3,Bupivacaine|Cadmium|Quercetin,0,
+chloride transmembrane transporter activity,GO:0015108,Pulmonary Edema,MESH:D011654,1,Quercetin,0,
+cholinesterase activity,GO:0004104,Pulmonary Edema,MESH:D011654,3,Atropine|Chlorpyrifos|Mustard Gas,0,
+chromatin binding,GO:0003682,Pulmonary Edema,MESH:D011654,0,,1,PARP1
+citrate synthase activity,GO:0036440,Pulmonary Edema,MESH:D011654,1,bisphenol A,0,
+collagen binding involved in cell-matrix adhesion,GO:0098639,Pulmonary Edema,MESH:D011654,1,Resveratrol,0,
+creatine kinase activity,GO:0004111,Pulmonary Edema,MESH:D011654,19,"3-(2-hydroxy-4-(1,1-dimethylheptyl)phenyl)-4-(3-hydroxypropyl)cyclohexanol|Arsenic|Arsenic Trioxide|Ascorbic Acid|bisphenol A|Cadmium|Dexamethasone|Doxorubicin|ferulic acid|geraniol|Isoproterenol|lipopolysaccharide, Escherichia coli O111 B4|Lipopolysaccharides|Metformin|Oxygen|Quercetin|Resveratrol|Rutin|Simvastatin",0,
+cysteine-type endopeptidase activator activity,GO:0140608,Pulmonary Edema,MESH:D011654,0,,1,NLRP3
+cysteine-type endopeptidase activity,GO:0004197,Pulmonary Edema,MESH:D011654,17,"Acetylcysteine|Acrolein|Arsenic|Arsenic Trioxide|bisphenol A|Cadmium|Doxorubicin|Dronabinol|Ethanol|Fluorouracil|Isoflurane|Lipopolysaccharides|N-(oxo-5,6-dihydrophenanthridin-2-yl)-N,N-dimethylacetamide hydrochloride|Oxygen|Particulate Matter|pyrazolanthrone|Vehicle Emissions",0,
+cysteine-type endopeptidase activity involved in apoptotic process,GO:0097153,Pulmonary Edema,MESH:D011654,1,Chlorpyrifos,0,
+cysteine-type peptidase activity,GO:0008234,Pulmonary Edema,MESH:D011654,3,bisphenol A|Cyclophosphamide|Fluorouracil,0,
+cytidine deaminase activity,GO:0004126,Pulmonary Edema,MESH:D011654,1,Arsenic,0,
+cytidylate cyclase activity,GO:0047805,Pulmonary edema of mountaineers,MESH:C535833,0,,1,GUCY1A1
+cytochrome-c oxidase activity,GO:0004129,Pulmonary Edema,MESH:D011654,27,"Acetaminophen|Acetylcysteine|Acrolein|aluminum phosphide|Aspirin|Berberine|bisphenol A|Cadmium|Curcumin|Cyclophosphamide|Doxorubicin|Dronabinol|Ethanol|Hydrogen Sulfide|Isoproterenol|Lipopolysaccharides|naringin|N-(oxo-5,6-dihydrophenanthridin-2-yl)-N,N-dimethylacetamide hydrochloride|Oleic Acid|Oxygen|Ozone|Paraquat|Particulate Matter|Phenylephrine|Quercetin|Resveratrol|Vehicle Emissions",0,
+cytokine activity,GO:0005125,Pulmonary Edema,MESH:D011654,0,,3,ADIPOQ|IL17A|TNF
+D-alanine:2-oxoglutarate aminotransferase activity,GO:0047810,Pulmonary Edema,MESH:D011654,4,bisphenol A|Curcumin|Ethanol|Rutin,0,
+damaged DNA binding,GO:0003684,Pulmonary Edema,MESH:D011654,0,,1,PARP1
+death receptor agonist activity,GO:0038177,Pulmonary Edema,MESH:D011654,0,,1,TNF
+D-glutamyltransferase activity,GO:0047823,Pulmonary Edema,MESH:D011654,6,bisphenol A|Doxorubicin|geraniol|Nickel|Particulate Matter|Thioctic Acid,0,
+diamine oxidase activity,GO:0052597,Pulmonary Edema,MESH:D011654,1,bisphenol A,0,
+dimethylargininase activity,GO:0016403,Pulmonary Edema,MESH:D011654,1,Oxygen,0,
+dipeptidyl-peptidase activity,GO:0008239,Pulmonary Edema,MESH:D011654,2,bisphenol A|naringin,0,
+DNA binding,GO:0003677,Pulmonary Edema,MESH:D011654,2,eriodictyol|Quercetin,1,PARP1
+DNA-binding transcription factor activity,GO:0003700,Pulmonary Edema,MESH:D011654,5,bisphenol A|Cadmium|Lipopolysaccharides|Oxygen|Ozone,0,
+DNA-binding transcription factor binding,GO:0140297,Pulmonary Edema,MESH:D011654,0,,1,NLRP3
+DNA-directed DNA polymerase activity,GO:0003887,Pulmonary Edema,MESH:D011654,1,Metformin,0,
+DNA-methyltransferase activity,GO:0009008,Pulmonary Edema,MESH:D011654,2,Curcumin|procyanidin B2,0,
+"DNA topoisomerase type II (double strand cut, ATP-hydrolyzing) activity",GO:0003918,Pulmonary Edema,MESH:D011654,1,Ascorbic Acid,0,
+efflux transmembrane transporter activity,GO:0015562,Pulmonary Edema,MESH:D011654,1,Acetylcysteine,0,
+endopeptidase activity,GO:0004175,Pulmonary Edema,MESH:D011654,1,Particulate Matter,0,
+enzyme activator activity,GO:0008047,Pulmonary Edema,MESH:D011654,0,,1,PARP1
+enzyme binding,GO:0019899,Pulmonary Edema,MESH:D011654,0,,2,CAT|PARP1
+epidermal growth factor receptor binding,GO:0005154,Pulmonary Edema,MESH:D011654,0,,1,TGFA
+estradiol 17-beta-dehydrogenase activity,GO:0004303,Pulmonary Edema,MESH:D011654,2,Curcumin|Indomethacin,0,
+extracellular matrix structural constituent,GO:0005201,Pulmonary Edema,MESH:D011654,0,,1,ADIPOQ
+ferroxidase activity,GO:0004322,Pulmonary Edema,MESH:D011654,1,Ethanol,0,
+flavin adenine dinucleotide binding,GO:0050660,Pulmonary Edema,MESH:D011654,0,,1,NOS3
+FMN binding,GO:0010181,Pulmonary Edema,MESH:D011654,0,,1,NOS3
+"fructose 1,6-bisphosphate 1-phosphatase activity",GO:0042132,Pulmonary Edema,MESH:D011654,2,Alloxan|Quercetin,0,
+gap junction channel activity,GO:0005243,Pulmonary Edema,MESH:D011654,6,"Acetylcysteine|lipopolysaccharide, E coli O55-B5|Particulate Matter|pyrazolanthrone|Resveratrol|Tretinoin",0,
+gap junction channel activity involved in cardiac conduction electrical coupling,GO:0086075,Pulmonary Edema,MESH:D011654,1,pyrazolanthrone,0,
+Gi/o-coupled serotonin receptor activity,GO:0001586,Pulmonary Edema,MESH:D011654,1,Dronabinol,0,
+glucose-6-phosphatase activity,GO:0004346,Pulmonary Edema,MESH:D011654,5,Alloxan|Ascorbic Acid|geraniol|Metformin|Quercetin,0,
+glucuronosyltransferase activity,GO:0015020,Pulmonary Edema,MESH:D011654,1,bisphenol A,0,
+glutamate binding,GO:0016595,Pulmonary Edema,MESH:D011654,1,Ethanol,0,
+glutamate-cysteine ligase activity,GO:0004357,Pulmonary Edema,MESH:D011654,2,Cadmium|Thioctic Acid,0,
+glutamate dehydrogenase (NAD+) activity,GO:0004352,Pulmonary Edema,MESH:D011654,1,Melatonin,0,
+glutaminase activity,GO:0004359,Pulmonary Edema,MESH:D011654,1,bisphenol A,0,
+glutathione hydrolase activity,GO:0036374,Pulmonary Edema,MESH:D011654,2,alpha-Tocopherol|Arsenic,0,
+glutathione peroxidase activity,GO:0004602,Pulmonary Edema,MESH:D011654,73,"2''-galloylhyperin|Acetaminophen|Acetylcysteine|Acrolein|Alloxan|alpha-Tocopherol|Arsenic|Arsenic Trioxide|Ascorbic Acid|Berberine|bisphenol A|Bleomycin|Bupivacaine|Cadmium|Caffeine|Calcitriol|Chlorpyrifos|chrysin|Clozapine|Curcumin|Cyclophosphamide|Dexamethasone|Doxorubicin|Ephedrine|eriodictyol|Ethanol|ferulic acid|Fluorouracil|geraniol|Glyburide|Glycyrrhizic Acid|hesperetin|hibifolin|Ifosfamide|Indomethacin|Isoflurane|Isoproterenol|Ketamine|lanthanum chloride|lipopolysaccharide, E coli O55-B5|lipopolysaccharide, Escherichia coli O111 B4|Lipopolysaccharides|Lithium Chloride|Melatonin|Metformin|Methamphetamine|Methotrexate|Morphine|naringin|Nickel|Nicotine|nilotinib|Nitroprusside|Oleic Acid|Oxygen|Ozone|Paraquat|Particulate Matter|Pioglitazone|procyanidin B2|Propofol|protocatechuic acid methyl ester|Quercetin|resolvin D1|Resveratrol|Rosiglitazone|Rutin|Simvastatin|Smoke|Sodium Fluoride|Thioctic Acid|Vancomycin|Vehicle Emissions",0,
+glutathione peroxidase activity,GO:0004602,Pulmonary edema of mountaineers,MESH:C535833,1,cobaltous chloride,0,
+glutathione transferase activity,GO:0004364,Pulmonary Edema,MESH:D011654,53,"Acetaminophen|Acetylcysteine|Alloxan|alpha-Tocopherol|Arsenic|Arsenic Trioxide|Ascorbic Acid|beta-Naphthoflavone|bisphenol A|Bleomycin|Cadmium|Caffeine|Chlorpyrifos|Curcumin|Cyclophosphamide|Dexamethasone|Doxorubicin|Ethanol|fasudil|ferulic acid|Fluorouracil|geraniol|Glyburide|hesperetin|Hydrochloric Acid|Isoproterenol|lanthanum chloride|lipopolysaccharide, Escherichia coli O111 B4|Lipopolysaccharides|Lisinopril|Melatonin|Metformin|Methotrexate|Morphine|naringin|Nickel|Nicotine|nilotinib|Nitroglycerin|Nitroprusside|Oxygen|Ozone|Paraquat|Particulate Matter|Pioglitazone|Quercetin|Resveratrol|Rutin|Sodium Fluoride|T0901317|Thioctic Acid|Tretinoin|Vehicle Emissions",0,
+glutathione transferase activity,GO:0004364,Pulmonary edema of mountaineers,MESH:C535833,1,cobaltous chloride,0,
+glycerol-3-phosphate O-acyltransferase activity,GO:0004366,Pulmonary Edema,MESH:D011654,2,bisphenol A|Resveratrol,0,
+glycogen phosphorylase activity,GO:0008184,Pulmonary Edema,MESH:D011654,4,bisphenol A|Glyburide|lanthanum chloride|Metformin,0,
+glycogen (starch) synthase activity,GO:0004373,Pulmonary Edema,MESH:D011654,1,Glyburide,0,
+glycosyltransferase activity,GO:0016757,Pulmonary Edema,MESH:D011654,0,,1,PARP1
+growth factor activity,GO:0008083,Pulmonary Edema,MESH:D011654,0,,1,TGFA
+growth hormone-releasing hormone activity,GO:0016608,Pulmonary Edema,MESH:D011654,0,,1,GHRH
+growth hormone-releasing hormone receptor binding,GO:0031770,Pulmonary Edema,MESH:D011654,0,,1,GHRH
+GTP binding,GO:0005525,Pulmonary edema of mountaineers,MESH:C535833,0,,1,GUCY1A1
+guanylate cyclase activity,GO:0004383,Pulmonary Edema,MESH:D011654,2,Acetylcysteine|Quercetin,0,
+guanylate cyclase activity,GO:0004383,Pulmonary edema of mountaineers,MESH:C535833,0,,1,GUCY1A1
+H3K27me3 modified histone binding,GO:0061628,Pulmonary Edema,MESH:D011654,5,Acetaminophen|bisphenol A|Particulate Matter|Smoke|Vehicle Emissions,0,
+H3K9me3 modified histone binding,GO:0062072,Pulmonary Edema,MESH:D011654,1,Dronabinol,0,
+heme binding,GO:0020037,Pulmonary Edema,MESH:D011654,0,,2,CAT|NOS3
+heme binding,GO:0020037,Pulmonary edema of mountaineers,MESH:C535833,0,,1,GUCY1A1
+heme oxygenase (decyclizing) activity,GO:0004392,Pulmonary Edema,MESH:D011654,1,Dronabinol,0,
+hexokinase activity,GO:0004396,Pulmonary Edema,MESH:D011654,8,Alloxan|Arsenic Trioxide|Clozapine|Glyburide|Indomethacin|Nitroprusside|Particulate Matter|Quercetin,0,
+high voltage-gated calcium channel activity,GO:0008331,Pulmonary Edema,MESH:D011654,3,Ethanol|Nifedipine|Particulate Matter,0,
+histone acetyltransferase activity,GO:0004402,Pulmonary Edema,MESH:D011654,6,"Ascorbic Acid|bisphenol A|Curcumin|Fluorouracil|lipopolysaccharide, E coli O55-B5|Quercetin",0,
+histone binding,GO:0042393,Pulmonary Edema,MESH:D011654,1,bisphenol A,1,PARP1
+histone deacetylase activity,GO:0004407,Pulmonary Edema,MESH:D011654,7,"Ascorbic Acid|Curcumin|Doxorubicin|lipopolysaccharide, E coli O55-B5|Mechlorethamine|Metformin|Quercetin",0,
+histone deacetylase binding,GO:0042826,Pulmonary Edema,MESH:D011654,0,,1,PARP1
+histone H3K27 dimethyltransferase activity,GO:0140952,Pulmonary Edema,MESH:D011654,1,bisphenol A,0,
+histone H3K27 trimethyltransferase activity,GO:0140951,Pulmonary Edema,MESH:D011654,1,bisphenol A,0,
+histone H3K4 methyltransferase activity,GO:0042800,Pulmonary Edema,MESH:D011654,1,bisphenol A,0,
+histone H3K9 demethylase activity,GO:0032454,Pulmonary Edema,MESH:D011654,2,Melatonin|Particulate Matter,0,
+histone H3K9 trimethyltransferase activity,GO:0140949,Pulmonary Edema,MESH:D011654,1,bisphenol A,0,
+histone H3S28 kinase activity,GO:0044022,Pulmonary Edema,MESH:D011654,1,bisphenol A,0,
+hormone activity,GO:0005179,Pulmonary Edema,MESH:D011654,0,,2,ADIPOQ|GHRH
+Hsp90 protein binding,GO:0051879,Pulmonary Edema,MESH:D011654,0,,1,NOS3
+hydrolase activity,GO:0016787,Pulmonary Edema,MESH:D011654,0,,1,NLRP3
+"hydrolase activity, acting on ester bonds",GO:0016788,Pulmonary Edema,MESH:D011654,3,Chlorpyrifos|Cyclophosphamide|Oxygen,0,
+"hydrolase activity, acting on glycosyl bonds",GO:0016798,Pulmonary Edema,MESH:D011654,1,Vancomycin,0,
+identical protein binding,GO:0042802,Pulmonary Edema,MESH:D011654,0,,5,ADIPOQ|CAT|NLRP3|PARP1|TNF
+IkappaB kinase activity,GO:0008384,Pulmonary Edema,MESH:D011654,2,Fluorouracil|Resveratrol,0,
+"indoleamine 2,3-dioxygenase activity",GO:0033754,Pulmonary Edema,MESH:D011654,4,Cadmium|Cyclophosphamide|Lipopolysaccharides|Quercetin,0,
+interleukin-1 receptor activity,GO:0004908,Pulmonary Edema,MESH:D011654,1,"lipopolysaccharide, Escherichia coli O111 B4",0,
+intracellular cAMP-activated cation channel activity,GO:0005222,Pulmonary Edema,MESH:D011654,1,Dronabinol,0,
+inward rectifier potassium channel activity,GO:0005242,Pulmonary Edema,MESH:D011654,1,Verapamil,0,
+iodide peroxidase activity,GO:0004447,Pulmonary Edema,MESH:D011654,1,bisphenol A,0,
+iron ion binding,GO:0005506,Pulmonary Edema,MESH:D011654,1,Cadmium,0,
+isocitrate dehydrogenase (NAD+) activity,GO:0004449,Pulmonary Edema,MESH:D011654,2,bisphenol A|Clofibrate,0,
+isocitrate dehydrogenase (NADP+) activity,GO:0004450,Pulmonary Edema,MESH:D011654,1,Acrolein,0,
+isocitrate dehydrogenase [NAD(P)+] activity,GO:0004448,Pulmonary Edema,MESH:D011654,4,Cadmium|Doxorubicin|Isoproterenol|T0901317,0,
+JUN kinase activity,GO:0004705,Pulmonary Edema,MESH:D011654,6,Acetylcysteine|Ascorbic Acid|Cadmium|Fluorouracil|Lipopolysaccharides|pyrazolanthrone,0,
+lactase activity,GO:0000016,Pulmonary Edema,MESH:D011654,2,bisphenol A|geraniol,0,
+lactate dehydrogenase activity,GO:0004457,Pulmonary Edema,MESH:D011654,53,"12-(3-adamantan-1-ylureido)dodecanoic acid|Acetaminophen|Acetylcysteine|Alloxan|allyl sulfide|alpha-Tocopherol|Arsenic|Arsenic Trioxide|Ascorbic Acid|Berberine|bisphenol A|Bleomycin|Cadmium|Caffeine|Chlorpyrifos|Clofibrate|Clozapine|Curcumin|Cyclophosphamide|Dexamethasone|Doxorubicin|Ethanol|ferulic acid|Fluorouracil|geraniol|Isoflurane|Isoproterenol|Ketamine|lanthanum chloride|lipopolysaccharide, E coli O55-B5|lipopolysaccharide, Escherichia coli O111 B4|Lipopolysaccharides|Metformin|Methotrexate|naringin|Nickel|Nicotine|Nitrofurantoin|Nitroglycerin|Nitroprusside|octamethylcyclotetrasiloxane|Oleic Acid|Oxygen|Ozone|Paraquat|Particulate Matter|Quercetin|Resveratrol|Rutin|Sildenafil Citrate|Silicon Dioxide|Sodium Fluoride|Thioctic Acid",0,
+L-alanine:2-oxoglutarate aminotransferase activity,GO:0004021,Pulmonary Edema,MESH:D011654,6,Acetaminophen|Alloxan|Ascorbic Acid|bisphenol A|geraniol|Quercetin,0,
+L-aspartate:2-oxoglutarate aminotransferase activity,GO:0004069,Pulmonary Edema,MESH:D011654,48,"Acetaminophen|Acetylcysteine|Alloxan|alpha-Tocopherol|Arsenic|Arsenic Trioxide|Ascorbic Acid|Berberine|bisphenol A|Cadmium|Caffeine|Chlorpyrifos|chrysin|Cocaine|Curcumin|Cyclophosphamide|Dexamethasone|Doxorubicin|Dronabinol|Ethanol|ferulic acid|Fluorouracil|geraniol|Glyburide|Glycyrrhizic Acid|Isoproterenol|lipopolysaccharide, Escherichia coli O111 B4|Lipopolysaccharides|Melatonin|Metformin|Methotrexate|naringin|Nicotine|nilotinib|Nitroglycerin|Nitroprusside|octamethylcyclotetrasiloxane|Oleic Acid|Ozone|Paraquat|Pioglitazone|Quercetin|Resveratrol|Rosiglitazone|Rutin|Sildenafil Citrate|Sodium Fluoride|Vancomycin",0,
+ligand-gated monoatomic ion channel activity,GO:0015276,Pulmonary Edema,MESH:D011654,1,geraniol,0,
+linoleate 13S-lipoxygenase activity,GO:0016165,Pulmonary Edema,MESH:D011654,1,Dexamethasone,0,
+lipase activity,GO:0016298,Pulmonary Edema,MESH:D011654,3,Berberine|Ethanol|Ozone,0,
+lyase activity,GO:0016829,Pulmonary edema of mountaineers,MESH:C535833,0,,1,GUCY1A1
+lysine-acetylated histone binding,GO:0070577,Pulmonary Edema,MESH:D011654,5,Acetaminophen|Arsenic|bisphenol A|Ethanol|Nicotine,0,
+lysozyme activity,GO:0003796,Pulmonary Edema,MESH:D011654,1,bisphenol A,0,
+malate dehydrogenase activity,GO:0016615,Pulmonary Edema,MESH:D011654,11,Acetaminophen|Arsenic|bisphenol A|Cadmium|Clofibrate|Curcumin|Cyclophosphamide|Doxorubicin|Isoproterenol|Nitroprusside|Particulate Matter,0,
+malic enzyme activity,GO:0004470,Pulmonary Edema,MESH:D011654,2,Nitroprusside|T0901317,0,
+maltose alpha-glucosidase activity,GO:0032450,Pulmonary Edema,MESH:D011654,3,bisphenol A|Nickel|Paraquat,0,
+MAP kinase activity,GO:0004707,Pulmonary Edema,MESH:D011654,6,Acetylcysteine|allyl sulfide|Ascorbic Acid|Cadmium|Dronabinol|Tretinoin,0,
+metal ion binding,GO:0046872,Pulmonary Edema,MESH:D011654,0,,3,CAT|NOS3|PARP1
+metalloendopeptidase activity,GO:0004222,Pulmonary Edema,MESH:D011654,0,,1,PARP1
+methylated histone binding,GO:0035064,Pulmonary Edema,MESH:D011654,3,Acetaminophen|Particulate Matter|Vehicle Emissions,0,
+methyltransferase activity,GO:0008168,Pulmonary Edema,MESH:D011654,1,Ozone,0,
+molecular adaptor activity,GO:0060090,Pulmonary Edema,MESH:D011654,0,,1,NLRP3
+molecular condensate scaffold activity,GO:0140693,Pulmonary Edema,MESH:D011654,0,,1,NLRP3
+molecular_function,GO:0003674,Pulmonary Edema,MESH:D011654,0,,1,HSPA12B
+molecular sequestering activity,GO:0140313,Pulmonary Edema,MESH:D011654,0,,1,TGFA
+monoamine oxidase activity,GO:0097621,Pulmonary Edema,MESH:D011654,6,"Berberine|bisphenol A|Cadmium|hesperetin|Thioctic Acid|Toxins, Biological",0,
+monoatomic cation channel activity,GO:0005261,Pulmonary Edema,MESH:D011654,2,Glyburide|Lipopolysaccharides,0,
+monoatomic ion channel activity,GO:0005216,Pulmonary Edema,MESH:D011654,1,"1,1-dimethylbutyl-1-deoxy-Delta(9)-THC",0,
+NAD+ ADP-ribosyltransferase activity,GO:0003950,Pulmonary Edema,MESH:D011654,1,Paraquat,1,PARP1
+NAD binding,GO:0051287,Pulmonary Edema,MESH:D011654,0,,1,PARP1
+NAD DNA ADP-ribosyltransferase activity,GO:0140294,Pulmonary Edema,MESH:D011654,0,,1,PARP1
+NADH dehydrogenase activity,GO:0003954,Pulmonary Edema,MESH:D011654,3,Ascorbic Acid|Doxorubicin|Isoproterenol,0,
+NADH dehydrogenase (ubiquinone) activity,GO:0008137,Pulmonary Edema,MESH:D011654,30,"Acetaminophen|Acetylcysteine|Acrolein|aluminum phosphide|Arsenic|Arsenic Trioxide|Berberine|bisphenol A|Cadmium|Clozapine|Curcumin|Cyclophosphamide|Dronabinol|Ethanol|Isoproterenol|Lipopolysaccharides|Lithium Chloride|naringin|N-(oxo-5,6-dihydrophenanthridin-2-yl)-N,N-dimethylacetamide hydrochloride|Oleic Acid|Oxygen|Ozone|Paraquat|Particulate Matter|Quercetin|Resveratrol|Rosiglitazone|Sodium Fluoride|Thioctic Acid|Vehicle Emissions",0,
+NAD+-histone H2BE18 glutamate ADP-ribosyltransferase activity,GO:0140867,Pulmonary Edema,MESH:D011654,0,,1,PARP1
+NAD+-histone H2BE2 glutamate ADP-ribosyltransferase activity,GO:0140844,Pulmonary Edema,MESH:D011654,0,,1,PARP1
+NAD+-histone H2BE35 glutamate ADP-ribosyltransferase activity,GO:0140822,Pulmonary Edema,MESH:D011654,0,,1,PARP1
+NAD+-histone H2BS6 serine ADP-ribosyltransferase activity,GO:0140816,Pulmonary Edema,MESH:D011654,0,,1,PARP1
+NAD+-histone H3S10 serine ADP-ribosyltransferase activity,GO:0140817,Pulmonary Edema,MESH:D011654,0,,1,PARP1
+NADP binding,GO:0050661,Pulmonary Edema,MESH:D011654,0,,2,CAT|NOS3
+NADPH dehydrogenase activity,GO:0003959,Pulmonary Edema,MESH:D011654,1,Chlorpyrifos,0,
+NADPH-hemoprotein reductase activity,GO:0003958,Pulmonary Edema,MESH:D011654,1,Quercetin,0,
+NAD(P)H oxidase H2O2-forming activity,GO:0016174,Pulmonary Edema,MESH:D011654,7,Arsenic Trioxide|Ascorbic Acid|Lipopolysaccharides|Nicotine|Particulate Matter|Quercetin|Resveratrol,0,
+NADPH:quinone reductase activity,GO:0003960,Pulmonary Edema,MESH:D011654,1,geraniol,0,
+NAD+-protein ADP-ribosyltransferase activity,GO:1990404,Pulmonary Edema,MESH:D011654,0,,1,PARP1
+NAD+- protein-aspartate ADP-ribosyltransferase activity,GO:0140806,Pulmonary Edema,MESH:D011654,0,,1,PARP1
+NAD+-protein-glutamate ADP-ribosyltransferase activity,GO:0140807,Pulmonary Edema,MESH:D011654,0,,1,PARP1
+NAD+-protein-histidine ADP-ribosyltransferase activity,GO:0140815,Pulmonary Edema,MESH:D011654,0,,1,PARP1
+NAD+-protein-serine ADP-ribosyltransferase activity,GO:0140805,Pulmonary Edema,MESH:D011654,0,,1,PARP1
+NAD+-protein-tyrosine ADP-ribosyltransferase activity,GO:0140808,Pulmonary Edema,MESH:D011654,0,,1,PARP1
+neuropeptide hormone activity,GO:0005184,Pulmonary Edema,MESH:D011654,0,,1,GHRH
+NF-kappaB binding,GO:0051059,Pulmonary Edema,MESH:D011654,2,Ethanol|Lipopolysaccharides,0,
+nitric oxide binding,GO:0070026,Pulmonary edema of mountaineers,MESH:C535833,0,,1,GUCY1A1
+nitric-oxide synthase activity,GO:0004517,Pulmonary Edema,MESH:D011654,11,bisphenol A|Cadmium|Caffeine|Doxorubicin|Glycyrrhizic Acid|Isoproterenol|Methamphetamine|Paraquat|Quercetin|Resveratrol|Thioctic Acid,1,NOS3
+nitric-oxide synthase binding,GO:0050998,Pulmonary Edema,MESH:D011654,0,,1,NOS3
+nuclear estrogen receptor activity,GO:0030284,Pulmonary Edema,MESH:D011654,1,bisphenol A,0,
+nuclear estrogen receptor binding,GO:0030331,Pulmonary Edema,MESH:D011654,0,,1,PARP1
+nuclear receptor activity,GO:0004879,Pulmonary Edema,MESH:D011654,1,bisphenol A,0,
+nucleic acid binding,GO:0003676,Pulmonary Edema,MESH:D011654,0,,1,HSPA12B
+nucleoside triphosphate diphosphatase activity,GO:0047429,Pulmonary Edema,MESH:D011654,1,Metformin,0,
+nucleosome binding,GO:0031491,Pulmonary Edema,MESH:D011654,0,,1,PARP1
+nucleotidyltransferase activity,GO:0016779,Pulmonary Edema,MESH:D011654,0,,1,PARP1
+nutrient reservoir activity,GO:0045735,Pulmonary Edema,MESH:D011654,1,Particulate Matter,0,
+oxidoreductase activity,GO:0016491,Pulmonary Edema,MESH:D011654,0,,2,CAT|NOS3
+"oxidoreductase activity, acting on NAD(P)H",GO:0016651,Pulmonary Edema,MESH:D011654,2,Curcumin|geraniol,0,
+"oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, reduced flavin or flavoprotein as one donor, and incorporation of one atom of oxygen",GO:0016712,Pulmonary Edema,MESH:D011654,2,bisphenol A|geraniol,0,
+"oxidoreductase activity, acting on peroxide as acceptor",GO:0016684,Pulmonary Edema,MESH:D011654,0,,1,CAT
+oxoglutarate dehydrogenase (succinyl-transferring) activity,GO:0004591,Pulmonary Edema,MESH:D011654,5,"Cadmium|Cyclophosphamide|Doxorubicin|lipopolysaccharide, E coli O55-B5|Thioctic Acid",0,
+oxygen binding,GO:0019825,Pulmonary Edema,MESH:D011654,2,Curcumin|Resveratrol,0,
+pentosyltransferase activity,GO:0016763,Pulmonary Edema,MESH:D011654,0,,1,PARP1
+peptidase activator activity involved in apoptotic process,GO:0016505,Pulmonary Edema,MESH:D011654,5,Acetylcysteine|Doxorubicin|Ethanol|Melatonin|Vancomycin,0,
+peptidase activity,GO:0008233,Pulmonary Edema,MESH:D011654,2,Particulate Matter|Vehicle Emissions,0,
+peptide hormone receptor binding,GO:0051428,Pulmonary Edema,MESH:D011654,0,,1,GHRH
+peptidoglycan binding,GO:0042834,Pulmonary Edema,MESH:D011654,0,,1,NLRP3
+peroxidase activity,GO:0004601,Pulmonary Edema,MESH:D011654,4,Arsenic|Arsenic Trioxide|bisphenol A|Curcumin,1,CAT
+phosphatase activity,GO:0016791,Pulmonary Edema,MESH:D011654,1,Cadmium,0,
+phosphatidylinositol 3-kinase activity,GO:0035004,Pulmonary Edema,MESH:D011654,1,Sodium Fluoride,0,
+phosphatidylinositol-4-phosphate binding,GO:0070273,Pulmonary Edema,MESH:D011654,0,,1,NLRP3
+phosphatidylinositol phosphate binding,GO:1901981,Pulmonary Edema,MESH:D011654,0,,1,NLRP3
+phosphoenolpyruvate carboxykinase activity,GO:0004611,Pulmonary Edema,MESH:D011654,3,Arsenic|Arsenic Trioxide|Glyburide,0,
+phosphofructokinase activity,GO:0008443,Pulmonary Edema,MESH:D011654,2,Acrolein|bisphenol A,0,
+phospholipase A2 activity,GO:0004623,Pulmonary Edema,MESH:D011654,4,Cadmium|Dexamethasone|Indomethacin|Quercetin,0,
+phosphorus-oxygen lyase activity,GO:0016849,Pulmonary edema of mountaineers,MESH:C535833,0,,1,GUCY1A1
+prostaglandin-endoperoxide synthase activity,GO:0004666,Pulmonary Edema,MESH:D011654,1,Particulate Matter,0,
+protease binding,GO:0002020,Pulmonary Edema,MESH:D011654,0,,1,TNF
+protein binding,GO:0005515,Pulmonary Edema,MESH:D011654,0,,9,ADIPOQ|GHRH|HSPA12B|IL17A|NLRP3|NOS3|PARP1|TGFA|TNF
+protein binding,GO:0005515,Pulmonary edema of mountaineers,MESH:C535833,0,,1,GUCY1A1
+protein-containing complex binding,GO:0044877,Pulmonary edema of mountaineers,MESH:C535833,0,,1,GUCY1A1
+protein dimerization activity,GO:0046983,Pulmonary Edema,MESH:D011654,0,,1,PARP1
+protein disulfide isomerase activity,GO:0003756,Pulmonary Edema,MESH:D011654,2,bisphenol A|Methamphetamine,0,
+protein-glutamine gamma-glutamyltransferase activity,GO:0003810,Pulmonary Edema,MESH:D011654,5,Cadmium|Cyclophosphamide|Doxorubicin|naringin|nilotinib,0,
+protein heterodimerization activity,GO:0046982,Pulmonary Edema,MESH:D011654,0,,1,IL17A
+protein homodimerization activity,GO:0042803,Pulmonary Edema,MESH:D011654,0,,4,ADIPOQ|CAT|IL17A|PARP1
+protein kinase activity,GO:0004672,Pulmonary Edema,MESH:D011654,1,Quercetin,0,
+protein kinase binding,GO:0019901,Pulmonary Edema,MESH:D011654,0,,1,PARP1
+protein kinase C activity,GO:0004697,Pulmonary Edema,MESH:D011654,4,"chrysin|N-(oxo-5,6-dihydrophenanthridin-2-yl)-N,N-dimethylacetamide hydrochloride|Paraquat|Quercetin",0,
+protein lysine deacetylase activity,GO:0033558,Pulmonary Edema,MESH:D011654,1,Paraquat,0,
+protein-macromolecule adaptor activity,GO:0030674,Pulmonary Edema,MESH:D011654,0,,1,NLRP3
+protein serine/threonine kinase activator activity,GO:0043539,Pulmonary Edema,MESH:D011654,0,,1,ADIPOQ
+protein serine/threonine phosphatase activity,GO:0004722,Pulmonary Edema,MESH:D011654,1,Verapamil,0,
+protein tyrosine kinase activity,GO:0004713,Pulmonary Edema,MESH:D011654,1,Quercetin,0,
+protein tyrosine phosphatase activity,GO:0004725,Pulmonary Edema,MESH:D011654,4,Acetylcysteine|Arsenic Trioxide|Particulate Matter|Vehicle Emissions,0,
+"proton-transporting ATPase activity, rotational mechanism",GO:0046961,Pulmonary Edema,MESH:D011654,4,Arsenic|Curcumin|Quercetin|Resveratrol,0,
+"proton-transporting ATP synthase activity, rotational mechanism",GO:0046933,Pulmonary Edema,MESH:D011654,1,Particulate Matter,0,
+P-type calcium transporter activity,GO:0005388,Pulmonary Edema,MESH:D011654,8,Arsenic|Arsenic Trioxide|bisphenol A|Cadmium|Curcumin|Lipopolysaccharides|Quercetin|Thioctic Acid,0,
+P-type magnesium transporter activity,GO:0015444,Pulmonary Edema,MESH:D011654,2,Arsenic|Cadmium,0,
+P-type sodium:potassium-exchanging transporter activity,GO:0005391,Pulmonary Edema,MESH:D011654,16,Acetylcysteine|Arsenic|Arsenic Trioxide|bisphenol A|Cadmium|Chlorpyrifos|Curcumin|Ethanol|Glyburide|Indomethacin|Isoproterenol|Lipopolysaccharides|polyhexamethyleneguanidine|Resveratrol|Silicon Dioxide|Thioctic Acid,0,
+pyruvate dehydrogenase activity,GO:0004738,Pulmonary Edema,MESH:D011654,1,Thioctic Acid,0,
+pyruvate kinase activity,GO:0004743,Pulmonary Edema,MESH:D011654,2,Particulate Matter|Quercetin,0,
+receptor ligand activity,GO:0048018,Pulmonary Edema,MESH:D011654,0,,2,TGFA|TNF
+Rho-dependent protein serine/threonine kinase activity,GO:0072518,Pulmonary Edema,MESH:D011654,3,Dronabinol|fasudil|Oxygen,0,
+RNA polymerase II-specific DNA-binding transcription factor binding,GO:0061629,Pulmonary Edema,MESH:D011654,0,,1,PARP1
+R-SMAD binding,GO:0070412,Pulmonary Edema,MESH:D011654,0,,1,PARP1
+scaffold protein binding,GO:0097110,Pulmonary Edema,MESH:D011654,0,,1,NOS3
+sequence-specific DNA binding,GO:0043565,Pulmonary Edema,MESH:D011654,0,,1,NLRP3
+serine-type endopeptidase inhibitor activity,GO:0004867,Pulmonary Edema,MESH:D011654,0,,1,OVAL
+sialic acid binding,GO:0033691,Pulmonary Edema,MESH:D011654,0,,1,ADIPOQ
+signaling adaptor activity,GO:0035591,Pulmonary Edema,MESH:D011654,0,,1,NLRP3
+signaling receptor activity,GO:0038023,Pulmonary edema of mountaineers,MESH:C535833,0,,1,GUCY1A1
+signaling receptor binding,GO:0005102,Pulmonary Edema,MESH:D011654,0,,1,ADIPOQ
+small molecule sensor activity,GO:0140299,Pulmonary Edema,MESH:D011654,0,,1,NLRP3
+sodium channel activity,GO:0005272,Pulmonary Edema,MESH:D011654,2,Cadmium|Resveratrol,0,
+starch synthase activity,GO:0009011,Pulmonary Edema,MESH:D011654,1,Nicotine,0,
+"steroid dehydrogenase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor",GO:0033764,Pulmonary Edema,MESH:D011654,1,Cyclophosphamide,0,
+steroid hydroxylase activity,GO:0008395,Pulmonary Edema,MESH:D011654,1,bisphenol A,0,
+succinate dehydrogenase activity,GO:0000104,Pulmonary Edema,MESH:D011654,10,Arsenic|Arsenic Trioxide|bisphenol A|Cadmium|Curcumin|Cyclophosphamide|Doxorubicin|Isoproterenol|Lipopolysaccharides|Sodium Fluoride,0,
+succinate dehydrogenase (ubiquinone) activity,GO:0008177,Pulmonary Edema,MESH:D011654,24,Acetaminophen|Acetylcysteine|aluminum phosphide|Arsenic|Arsenic Trioxide|Aspirin|Berberine|bisphenol A|Cadmium|Curcumin|Cyclophosphamide|Doxorubicin|Dronabinol|Ethanol|Heparin|Isoproterenol|Lithium Chloride|Melatonin|naringin|Oleic Acid|Oxygen|Paraquat|Quercetin|Thioctic Acid,0,
+sucrose alpha-glucosidase activity,GO:0004575,Pulmonary Edema,MESH:D011654,4,bisphenol A|geraniol|Nickel|Paraquat,0,
+superoxide dismutase activity,GO:0004784,Pulmonary Edema,MESH:D011654,95,"2''-galloylhyperin|Acetaminophen|Acetylcysteine|Acrolein|alkannin|Alloxan|alpha-Tocopherol|Arsenic|Arsenic Trioxide|Ascorbic Acid|Aspirin|Beclomethasone|Berberine|bisphenol A|Bleomycin|Boron|Bupivacaine|Cadmium|Chlorpyrifos|chrysin|Clofibrate|Cocaine|Curcumin|Cyclophosphamide|Dexamethasone|Dexmedetomidine|Doxorubicin|Dronabinol|Ephedrine|eriodictyol|Ethanol|fasudil|ferulic acid|Fluorouracil|Furosemide|geraniol|Glyburide|Glycyrrhizic Acid|hesperetin|hibifolin|Hydrochloric Acid|Hydrogen Sulfide|Ifosfamide|Indomethacin|Iohexol|Isoflurane|Isoproterenol|Ketamine|lanthanum chloride|lipopolysaccharide, E coli O55-B5|lipopolysaccharide, Escherichia coli O111 B4|Lipopolysaccharides|Lisinopril|Lithium Chloride|Melatonin|Metformin|Methamphetamine|Methotrexate|Morphine|Naloxone|naringin|Nickel|Nicotine|Nifedipine|nilotinib|Nitroprusside|Oleic Acid|Oxygen|Ozone|pachymic acid|Paraquat|Particulate Matter|Pioglitazone|pirfenidone|procyanidin B2|Propofol|protocatechuic acid methyl ester|Quercetin|resolvin D1|Resveratrol|Roflumilast|Rosiglitazone|Rutin|S-allylmercapto-N-acetylcysteine|Sevoflurane|Sildenafil Citrate|Silicon Dioxide|Simvastatin|Smoke|Sodium Fluoride|T0901317|Thioctic Acid|Vancomycin|Vehicle Emissions|Verapamil",0,
+superoxide dismutase activity,GO:0004784,Pulmonary edema of mountaineers,MESH:C535833,1,cobaltous chloride,0,
+superoxide-generating NAD(P)H oxidase activity,GO:0016175,Pulmonary Edema,MESH:D011654,0,,1,NOS3
+superoxide-generating NADPH oxidase activity,GO:0106292,Pulmonary Edema,MESH:D011654,5,bisphenol A|Curcumin|Doxorubicin|Methamphetamine|Quercetin,0,
+telomerase activity,GO:0003720,Pulmonary Edema,MESH:D011654,4,Acetylcysteine|Arsenic Trioxide|bisphenol A|Particulate Matter,0,
+testosterone 6-beta-hydroxylase activity,GO:0050649,Pulmonary Edema,MESH:D011654,1,Dexamethasone,0,
+testosterone dehydrogenase [NAD(P)] activity,GO:0030283,Pulmonary Edema,MESH:D011654,1,bisphenol A,0,
+tetrahydrobiopterin binding,GO:0034617,Pulmonary Edema,MESH:D011654,0,,1,NOS3
+thioredoxin-disulfide reductase activity,GO:0004791,Pulmonary Edema,MESH:D011654,6,allyl sulfide|Ascorbic Acid|Cadmium|Curcumin|geraniol|Quercetin,0,
+Toll-like receptor 4 binding,GO:0035662,Pulmonary Edema,MESH:D011654,1,"lipopolysaccharide, Escherichia coli O111 B4",0,
+transaminase activity,GO:0008483,Pulmonary Edema,MESH:D011654,1,Arsenic,0,
+transcription cis-regulatory region binding,GO:0000976,Pulmonary Edema,MESH:D011654,0,,1,TNF
+transcription factor binding,GO:0008134,Pulmonary Edema,MESH:D011654,1,Sevoflurane,0,
+transcription regulator activator activity,GO:0140537,Pulmonary Edema,MESH:D011654,0,,1,PARP1
+transferase activity,GO:0016740,Pulmonary Edema,MESH:D011654,0,,1,PARP1
+transmembrane receptor protein tyrosine kinase activator activity,GO:0030297,Pulmonary Edema,MESH:D011654,0,,1,TGFA
+trehalase activity,GO:0015927,Pulmonary Edema,MESH:D011654,1,Ozone,0,
+"tryptophan 2,3-dioxygenase activity",GO:0004833,Pulmonary Edema,MESH:D011654,3,Cadmium|Cyclophosphamide|Quercetin,0,
+tumor necrosis factor receptor binding,GO:0005164,Pulmonary Edema,MESH:D011654,0,,1,TNF
+tyrosinase activity,GO:0004503,Pulmonary Edema,MESH:D011654,1,bisphenol A,0,
+ubiquinol-cytochrome-c reductase activity,GO:0008121,Pulmonary Edema,MESH:D011654,15,"Acetaminophen|Arsenic|Arsenic Trioxide|bisphenol A|Cadmium|Curcumin|Cyclophosphamide|Isoproterenol|lipopolysaccharide, E coli O55-B5|naringin|Oleic Acid|Oxygen|Paraquat|pyrazolanthrone|Thioctic Acid",0,
+ubiquitin protein ligase binding,GO:0031625,Pulmonary Edema,MESH:D011654,0,,1,PARP1
+voltage-gated calcium channel activity,GO:0005245,Pulmonary Edema,MESH:D011654,1,bisphenol A,0,
+voltage-gated calcium channel activity involved in regulation of cytosolic calcium levels,GO:0099511,Pulmonary Edema,MESH:D011654,1,Doxorubicin,0,
+voltage-gated channel activity,GO:0022832,Pulmonary Edema,MESH:D011654,1,Furosemide,0,
+voltage-gated monoatomic ion channel activity,GO:0005244,Pulmonary Edema,MESH:D011654,1,geraniol,0,
+voltage-gated potassium channel activity,GO:0005249,Pulmonary Edema,MESH:D011654,1,bisphenol A,0,
+voltage-gated sodium channel activity,GO:0005248,Pulmonary Edema,MESH:D011654,2,bisphenol A|Lidocaine,0,
+voltage-gated sodium channel activity involved in cardiac muscle cell action potential,GO:0086006,Pulmonary Edema,MESH:D011654,1,bisphenol A,0,
+wide pore channel activity,GO:0022829,Pulmonary Edema,MESH:D011654,1,glyceryl 2-arachidonate,0,
+xanthine oxidase activity,GO:0004855,Pulmonary Edema,MESH:D011654,1,Quercetin,0,
+zinc ion binding,GO:0008270,Pulmonary Edema,MESH:D011654,1,Arsenic,1,PARP1

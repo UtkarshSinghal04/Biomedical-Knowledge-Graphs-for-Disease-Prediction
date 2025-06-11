@@ -1,0 +1,1063 @@
+GOName,GOID,DiseaseName,DiseaseID,InferenceChemicalQty,InferenceChemicalNames,InferenceGeneQty,InferenceGeneSymbols
+16-hydroxypalmitate dehydrogenase activity,GO:0103002,"Hepatitis, Animal",MESH:D006520,0,,1,CYP4A14
+17-beta-hydroxysteroid dehydrogenase (NADP+) activity,GO:0072582,"Hepatitis, Animal",MESH:D006520,1,Linoleic Acid,0,
+17-beta-hydroxysteroid dehydrogenase (NADP+) activity,GO:0072582,Hepatitis C,MESH:D006526,1,Linoleic Acid,0,
+"1,8-cineole 2-exo-monooxygenase activity",GO:0102320,Hepatitis C,MESH:D006526,0,,1,CYP3A4
+"1-alpha,25-dihydroxyvitamin D3 23-hydroxylase activity",GO:0062181,Hepatitis C,MESH:D006526,0,,1,CYP3A4
+1-phosphatidylinositol binding,GO:0005545,Hepatitis C,MESH:D006526,0,,1,SCARB1
+3-beta-hydroxy-delta5-steroid dehydrogenase activity,GO:0003854,"Hepatitis, Autoimmune",MESH:D019693,1,Indomethacin,0,
+3-beta-hydroxy-delta5-steroid dehydrogenase activity,GO:0003854,Hepatitis B,MESH:D006509,1,Indomethacin,0,
+3-beta-hydroxy-delta5-steroid dehydrogenase activity,GO:0003854,"Hepatitis C, Chronic",MESH:D019698,1,Indomethacin,0,
+3beta-hydroxysteroid dehydrogenase activity,GO:0102727,Hepatitis,MESH:D006505,2,cypermethrin|Propylthiouracil,0,
+3beta-hydroxysteroid dehydrogenase activity,GO:0102727,"Hepatitis, Chronic",MESH:D006521,2,Chlorpromazine|Propylthiouracil,0,
+5-aminolevulinate synthase activity,GO:0003870,Hepatitis,MESH:D006505,2,Benzene|Trichloroethylene,0,
+5-aminolevulinate synthase activity,GO:0003870,"Hepatitis, Autoimmune",MESH:D019693,1,Trichloroethylene,0,
+5'-nucleotidase activity,GO:0008253,Hepatitis,MESH:D006505,3,Metformin|nimesulide|Thioacetamide,0,
+ABC-type transporter activity,GO:0140359,Hepatitis,MESH:D006505,1,Dietary Fats,0,
+ABC-type transporter activity,GO:0140359,"Hepatitis, Animal",MESH:D006520,1,Dietary Fats,0,
+acetylation-dependent protein binding,GO:0140033,"Hepatitis, Chronic",MESH:D006521,0,,1,STAT3
+acetylcholinesterase activity,GO:0003990,Hepatitis,MESH:D006505,2,Aluminum Chloride|Melatonin,0,
+acetylcholinesterase activity,GO:0003990,"Hepatitis, Autoimmune",MESH:D019693,1,Melatonin,0,
+acetyl-CoA carboxylase activity,GO:0003989,Hepatitis,MESH:D006505,2,Dietary Fats|Resveratrol,0,
+acetyl-CoA carboxylase activity,GO:0003989,"Hepatitis, Animal",MESH:D006520,2,"5-(3-methoxy-5-(4-methoxystyryl)phenoxy)-2,2-dimethylpentanoic acid|Dietary Fats",0,
+acetyl-CoA carboxylase activity,GO:0003989,Hepatitis C,MESH:D006526,1,Resveratrol,0,
+[acetyl-CoA carboxylase] kinase activity,GO:0050405,Hepatitis,MESH:D006505,2,Ethanol|Lipopolysaccharides,0,
+[acetyl-CoA carboxylase] kinase activity,GO:0050405,"Hepatitis, Alcoholic",MESH:D006519,2,diallyl disulfide|Ethanol,0,
+acid phosphatase activity,GO:0003993,Hepatitis,MESH:D006505,3,Finasteride|Resveratrol|Sulfasalazine,0,
+acid phosphatase activity,GO:0003993,"Hepatitis, Autoimmune",MESH:D019693,1,Mercuric Chloride,0,
+acid phosphatase activity,GO:0003993,"Hepatitis B, Chronic",MESH:D019694,1,Cyclosporine,0,
+acid phosphatase activity,GO:0003993,Hepatitis C,MESH:D006526,2,Cyclosporine|Resveratrol,0,
+acid phosphatase activity,GO:0003993,"Hepatitis, Viral, Human",MESH:D006525,1,Iron,0,
+aconitate hydratase activity,GO:0003994,Hepatitis,MESH:D006505,1,Dietary Fats,0,
+aconitate hydratase activity,GO:0003994,"Hepatitis, Animal",MESH:D006520,1,Dietary Fats,0,
+actin binding,GO:0003779,Hepatitis C,MESH:D006526,0,,1,CCR5
+actin filament binding,GO:0051015,"Hepatitis, Chronic",MESH:D006521,0,,1,MET
+actin monomer binding,GO:0003785,Hepatitis C,MESH:D006526,0,,1,TLR8
+adenosine deaminase activity,GO:0004000,Hepatitis,MESH:D006505,2,efavirenz|Lamivudine,0,
+adenosine deaminase activity,GO:0004000,Hepatitis B,MESH:D006509,2,Lamivudine|Tenofovir,0,
+adenosine deaminase activity,GO:0004000,"Hepatitis B, Chronic",MESH:D019694,2,Lamivudine|Tenofovir,0,
+adenosine deaminase activity,GO:0004000,Hepatitis C,MESH:D006526,1,Lamivudine,0,
+adenosine kinase activity,GO:0004001,Hepatitis,MESH:D006505,1,Oxygen,0,
+adenylate kinase activity,GO:0004017,Hepatitis,MESH:D006505,1,cypermethrin,0,
+ADP phosphatase activity,GO:0043262,Hepatitis,MESH:D006505,1,Caffeine,0,
+aldehyde dehydrogenase (NAD+) activity,GO:0004029,Hepatitis,MESH:D006505,1,Disulfiram,0,
+aldehyde dehydrogenase [NAD(P)+] activity,GO:0004030,Hepatitis,MESH:D006505,1,Ethanol,0,
+aldehyde dehydrogenase [NAD(P)+] activity,GO:0004030,"Hepatitis, Alcoholic",MESH:D006519,1,Ethanol,0,
+alditol:NADP+ 1-oxidoreductase activity,GO:0004032,Hepatitis,MESH:D006505,3,Metformin|Valproic Acid|Vancomycin,0,
+alkaline phosphatase activity,GO:0004035,Hepatitis,MESH:D006505,37,1-Naphthylisothiocyanate|Acetaminophen|Acetylcysteine|Aluminum Chloride|Amphotericin B|Ampicillin|Carbon Tetrachloride|Chloroquine|cypermethrin|Dietary Fats|Diethylnitrosamine|Edaravone|Ethanol|Finasteride|Galactosamine|Glyburide|Imatinib Mesylate|Isoniazid|Lipopolysaccharides|Metformin|Methimazole|Methionine|Niacin|Paroxetine|Phenobarbital|Prednisolone|Resveratrol|Rosiglitazone|Sorafenib|Sulfasalazine|Thioacetamide|Ursodeoxycholic Acid|Valproic Acid|Vancomycin|Warfarin|Zidovudine|Zinc Sulfate,0,
+alkaline phosphatase activity,GO:0004035,Hepatitis A,MESH:D006506,1,Glycyrrhizic Acid,0,
+alkaline phosphatase activity,GO:0004035,"Hepatitis, Alcoholic",MESH:D006519,2,Ethanol|Prednisolone,0,
+alkaline phosphatase activity,GO:0004035,"Hepatitis, Animal",MESH:D006520,3,deoxynivalenol|Dietary Fats|Methionine,0,
+alkaline phosphatase activity,GO:0004035,"Hepatitis, Autoimmune",MESH:D019693,3,Imatinib Mesylate|Mercuric Chloride|Prednisolone,0,
+alkaline phosphatase activity,GO:0004035,Hepatitis B,MESH:D006509,3,baicalin|Cyclophosphamide|Zidovudine,0,
+alkaline phosphatase activity,GO:0004035,"Hepatitis B, Chronic",MESH:D019694,3,Colchicine|Cyclosporine|Prednisolone,0,
+alkaline phosphatase activity,GO:0004035,Hepatitis C,MESH:D006526,4,Cyclosporine|Resveratrol|Vitamin E|Zidovudine,0,
+alkaline phosphatase activity,GO:0004035,"Hepatitis C, Chronic",MESH:D019698,3,Prednisolone|Ursodeoxycholic Acid|Vitamin A,0,
+alkaline phosphatase activity,GO:0004035,"Hepatitis, Chronic",MESH:D006521,4,Cyclophosphamide|Diclofenac|Prednisolone|Ursodeoxycholic Acid,0,
+alkane 1-monooxygenase activity,GO:0018685,Hepatitis,MESH:D006505,1,Phenobarbital,0,
+alkane 1-monooxygenase activity,GO:0018685,"Hepatitis, Animal",MESH:D006520,0,,1,CYP4A14
+alkylglycerophosphoethanolamine phosphodiesterase activity,GO:0047391,Hepatitis,MESH:D006505,0,,1,ENPP2
+alpha-amylase activity,GO:0004556,Hepatitis,MESH:D006505,1,Resveratrol,0,
+alpha-amylase activity,GO:0004556,Hepatitis C,MESH:D006526,1,Resveratrol,0,
+alpha-mannosidase activity,GO:0004559,"Hepatitis, Autoimmune",MESH:D019693,1,Plant Preparations,0,
+aminoacylase activity,GO:0004046,Hepatitis,MESH:D006505,0,,1,CAT
+aminoacylase activity,GO:0004046,"Hepatitis, Chronic",MESH:D006521,0,,1,CAT
+aminopeptidase activity,GO:0004177,Hepatitis,MESH:D006505,1,Dichlorodiphenyl Dichloroethylene,0,
+AMP-activated protein kinase activity,GO:0004679,Hepatitis,MESH:D006505,10,5-Methoxypsoralen|Caffeine|Dietary Fats|Ethanol|Fenofibrate|Imatinib Mesylate|Lipopolysaccharides|Metformin|Oxygen|Resveratrol,0,
+AMP-activated protein kinase activity,GO:0004679,"Hepatitis, Alcoholic",MESH:D006519,1,Ethanol,0,
+AMP-activated protein kinase activity,GO:0004679,"Hepatitis, Animal",MESH:D006520,2,"5-(3-methoxy-5-(4-methoxystyryl)phenoxy)-2,2-dimethylpentanoic acid|Dietary Fats",0,
+AMP-activated protein kinase activity,GO:0004679,"Hepatitis, Autoimmune",MESH:D019693,2,celastrol|Imatinib Mesylate,0,
+AMP-activated protein kinase activity,GO:0004679,Hepatitis C,MESH:D006526,1,Resveratrol,0,
+AMP-activated protein kinase activity,GO:0004679,"Hepatitis, Chronic",MESH:D006521,1,Fenofibrate,0,
+amylase activity,GO:0016160,Hepatitis,MESH:D006505,3,Ethanol|Lipopolysaccharides|Metformin,0,
+amylase activity,GO:0016160,"Hepatitis, Alcoholic",MESH:D006519,1,Ethanol,0,
+amyloid-beta binding,GO:0001540,Hepatitis C,MESH:D006526,0,,1,SCARB1
+"anandamide 11,12 epoxidase activity",GO:0062188,Hepatitis C,MESH:D006526,0,,1,CYP3A4
+"anandamide 14,15 epoxidase activity",GO:0062189,Hepatitis C,MESH:D006526,0,,1,CYP3A4
+"anandamide 8,9 epoxidase activity",GO:0062187,Hepatitis C,MESH:D006526,0,,1,CYP3A4
+antigen binding,GO:0003823,"Hepatitis, Autoimmune",MESH:D019693,0,,1,TGFB1
+antigen binding,GO:0003823,"Hepatitis, Chronic",MESH:D006521,0,,1,TGFB1
+antioxidant activity,GO:0016209,Hepatitis,MESH:D006505,6,Atorvastatin|Carbon Tetrachloride|Dietary Fats|Melatonin|perfluorooctane sulfonic acid|Sulfasalazine,2,ALB|CAT
+antioxidant activity,GO:0016209,"Hepatitis, Animal",MESH:D006520,1,Dietary Fats,0,
+antioxidant activity,GO:0016209,"Hepatitis, Autoimmune",MESH:D019693,2,Atorvastatin|Melatonin,0,
+antioxidant activity,GO:0016209,Hepatitis B,MESH:D006509,2,alisol B 23-acetate|Cyclophosphamide,1,HP
+antioxidant activity,GO:0016209,"Hepatitis B, Chronic",MESH:D019694,1,Colchicine,1,HP
+antioxidant activity,GO:0016209,Hepatitis C,MESH:D006526,1,platycodin D,0,
+antioxidant activity,GO:0016209,"Hepatitis C, Chronic",MESH:D019698,0,,1,HP
+antioxidant activity,GO:0016209,"Hepatitis, Chronic",MESH:D006521,1,Cyclophosphamide,2,CAT|SOD1
+apolipoprotein A-I binding,GO:0034186,Hepatitis C,MESH:D006526,0,,1,SCARB1
+apolipoprotein binding,GO:0034185,Hepatitis C,MESH:D006526,0,,2,LPL|SCARB1
+arachidonic acid binding,GO:0050544,"Hepatitis, Animal",MESH:D006520,0,,1,CYP4A14
+arachidonic acid epoxygenase activity,GO:0008392,"Hepatitis, Animal",MESH:D006520,0,,1,CYP4A14
+arachidonic acid epoxygenase activity,GO:0008392,Hepatitis B,MESH:D006509,0,,1,CYP2A6
+arachidonic acid epoxygenase activity,GO:0008392,Hepatitis C,MESH:D006526,0,,1,CYP2A6
+arachidonic acid monooxygenase activity,GO:0008391,"Hepatitis, Animal",MESH:D006520,0,,1,CYP4A14
+arachidonic acid omega-hydroxylase activity,GO:0052869,Hepatitis,MESH:D006505,0,,1,HMOX1
+arginase activity,GO:0004053,Hepatitis,MESH:D006505,5,Caffeine|Edaravone|Oxygen|Valproic Acid|Zinc Sulfate,0,
+argininosuccinate lyase activity,GO:0004056,Hepatitis,MESH:D006505,1,Zidovudine,0,
+argininosuccinate lyase activity,GO:0004056,Hepatitis B,MESH:D006509,1,Zidovudine,0,
+argininosuccinate lyase activity,GO:0004056,Hepatitis C,MESH:D006526,1,Zidovudine,0,
+aromatase activity,GO:0070330,Hepatitis,MESH:D006505,2,Erlotinib Hydrochloride|trovafloxacin,0,
+aromatase activity,GO:0070330,Hepatitis C,MESH:D006526,0,,1,CYP2B1
+aryldialkylphosphatase activity,GO:0004063,Hepatitis,MESH:D006505,1,Valproic Acid,0,
+arylesterase activity,GO:0004064,Hepatitis,MESH:D006505,3,Acetylcysteine|cypermethrin|Galactosamine,0,
+arylsulfatase activity,GO:0004065,"Hepatitis, Alcoholic",MESH:D006519,0,,1,STS
+aryl sulfotransferase activity,GO:0004062,Hepatitis,MESH:D006505,1,Acetaminophen,0,
+aryl sulfotransferase activity,GO:0004062,"Hepatitis, Alcoholic",MESH:D006519,0,,1,SULT1E1
+aspartic-type endopeptidase activity,GO:0004190,"Hepatitis, Chronic",MESH:D006521,0,,1,CASP3
+ATP-activated inward rectifier potassium channel activity,GO:0015272,Hepatitis,MESH:D006505,1,Glyburide,0,
+ATPase binding,GO:0051117,"Hepatitis, Autoimmune",MESH:D019693,0,,1,ALDOB
+ATPase binding,GO:0051117,"Hepatitis, Chronic",MESH:D006521,0,,1,ATOX1
+ATPase-coupled intramembrane lipid transporter activity,GO:0140326,"Hepatitis, Chronic",MESH:D006521,1,Chlorpromazine,0,
+ATPase-coupled monoatomic cation transmembrane transporter activity,GO:0019829,Hepatitis,MESH:D006505,0,,1,ATP7B
+ATPase-coupled monoatomic cation transmembrane transporter activity,GO:0019829,"Hepatitis, Chronic",MESH:D006521,0,,1,ATP7A
+ATP binding,GO:0005524,Hepatitis,MESH:D006505,0,,2,ATP7B|PARP1
+ATP binding,GO:0005524,"Hepatitis, Alcoholic",MESH:D006519,0,,1,STS
+ATP binding,GO:0005524,Hepatitis B,MESH:D006509,0,,1,IFNB1
+ATP binding,GO:0005524,"Hepatitis B, Chronic",MESH:D019694,0,,1,UBE2L3
+ATP binding,GO:0005524,Hepatitis C,MESH:D006526,0,,1,RIGI
+ATP binding,GO:0005524,"Hepatitis, Chronic",MESH:D006521,0,,4,ACTA2|ATP7A|MET|MKI67
+ATP-dependent activity,GO:0140657,Hepatitis,MESH:D006505,4,Caffeine|Clomipramine|cypermethrin|Oxygen,0,
+ATP-dependent activity,GO:0140657,"Hepatitis, Viral, Human",MESH:D006525,1,Iron,0,
+ATP-dependent peptidase activity,GO:0004176,Hepatitis,MESH:D006505,0,,1,PARP1
+ATP-dependent protein folding chaperone,GO:0140662,"Hepatitis, Alcoholic",MESH:D006519,0,,1,STS
+ATP hydrolysis activity,GO:0016887,Hepatitis,MESH:D006505,13,Acetaminophen|Acetylcysteine|Chloroquine|Cimetidine|cypermethrin|Dietary Fats|Diethylnitrosamine|Fenofibrate|Lipopolysaccharides|Metformin|Omeprazole|Resveratrol|zinc protoporphyrin,2,ATP7B|PARP1
+ATP hydrolysis activity,GO:0016887,"Hepatitis, Alcoholic",MESH:D006519,0,,1,STS
+ATP hydrolysis activity,GO:0016887,"Hepatitis, Animal",MESH:D006520,1,Dietary Fats,0,
+ATP hydrolysis activity,GO:0016887,"Hepatitis, Autoimmune",MESH:D019693,1,Mercuric Chloride,0,
+ATP hydrolysis activity,GO:0016887,Hepatitis C,MESH:D006526,1,Resveratrol,1,RIGI
+ATP hydrolysis activity,GO:0016887,"Hepatitis, Chronic",MESH:D006521,1,Fenofibrate,1,ATP7A
+beta-2-microglobulin binding,GO:0030881,Hepatitis C,MESH:D006526,0,,1,HFE
+beta-catenin binding,GO:0008013,"Hepatitis, Chronic",MESH:D006521,0,,1,MET
+beta-endorphin receptor activity,GO:0004979,Hepatitis C,MESH:D006526,0,,1,OPRM1
+beta-galactosidase activity,GO:0004565,Hepatitis,MESH:D006505,3,Acetylcysteine|Aluminum Chloride|Resveratrol,0,
+beta-galactosidase activity,GO:0004565,Hepatitis C,MESH:D006526,1,Resveratrol,0,
+beta-N-acetylhexosaminidase activity,GO:0004563,"Hepatitis B, Chronic",MESH:D019694,1,Cyclosporine,0,
+beta-N-acetylhexosaminidase activity,GO:0004563,Hepatitis C,MESH:D006526,1,Cyclosporine,0,
+beta-tubulin binding,GO:0048487,Hepatitis,MESH:D006505,1,perfluorooctanoic acid,0,
+bile acid:sodium symporter activity,GO:0008508,Hepatitis B,MESH:D006509,0,,1,SLC10A1
+bile acid transmembrane transporter activity,GO:0015125,Hepatitis B,MESH:D006509,1,alisol B 23-acetate,1,SLC10A1
+boss receptor activity,GO:0008288,"Hepatitis, Chronic",MESH:D006521,0,,1,MET
+brain-derived neurotrophic factor receptor activity,GO:0060175,"Hepatitis, Chronic",MESH:D006521,0,,1,MET
+butyrate-CoA ligase activity,GO:0047760,"Hepatitis, Chronic",MESH:D006521,1,Diclofenac,0,
+caffeine oxidase activity,GO:0034875,Hepatitis C,MESH:D006526,0,,1,CYP3A4
+calcium activated cation channel activity,GO:0005227,Hepatitis,MESH:D006505,1,Clotrimazole,0,
+calcium-dependent ATPase activity,GO:0030899,Hepatitis,MESH:D006505,6,Acetylcysteine|Aspirin|Atorvastatin|Dietary Fats|Glyburide|Propylthiouracil,0,
+calcium-dependent ATPase activity,GO:0030899,"Hepatitis, Animal",MESH:D006520,1,Dietary Fats,0,
+calcium-dependent ATPase activity,GO:0030899,"Hepatitis, Autoimmune",MESH:D019693,1,Atorvastatin,0,
+calcium-dependent ATPase activity,GO:0030899,"Hepatitis, Chronic",MESH:D006521,3,Aspirin|Chlorpromazine|Propylthiouracil,0,
+calcium-dependent cysteine-type endopeptidase activity,GO:0004198,Hepatitis,MESH:D006505,3,Acetaminophen|glimepiride|Glyburide,0,
+calcium-dependent phospholipase A2 activity,GO:0047498,"Hepatitis C, Chronic",MESH:D019698,1,Vitamin A,0,
+calcium-dependent protein serine/threonine phosphatase activity,GO:0004723,Hepatitis C,MESH:D006526,1,Tacrolimus,0,
+calcium ion binding,GO:0005509,Hepatitis,MESH:D006505,0,,2,ENPP2|SPARC
+calcium ion binding,GO:0005509,"Hepatitis, Autoimmune",MESH:D019693,0,,1,C1S
+calcium ion binding,GO:0005509,Hepatitis B,MESH:D006509,0,,1,LOXL2
+calcium ion binding,GO:0005509,Hepatitis C,MESH:D006526,0,,2,LOXL2|LPL
+cAMP-dependent protein kinase activity,GO:0004691,Hepatitis,MESH:D006505,1,Propylthiouracil,0,
+cAMP-dependent protein kinase activity,GO:0004691,"Hepatitis, Chronic",MESH:D006521,1,Propylthiouracil,0,
+carbohydrate binding,GO:0030246,"Hepatitis, Autoimmune",MESH:D019693,0,,1,IL2
+carbohydrate binding,GO:0030246,Hepatitis C,MESH:D006526,0,,1,CD209
+carbonate dehydratase activity,GO:0004089,Hepatitis,MESH:D006505,6,Caffeine|Copper|Edaravone|Galactosamine|Valproic Acid|Vancomycin,0,
+carbonate dehydratase activity,GO:0004089,"Hepatitis, Animal",MESH:D006520,1,Copper,0,
+carbonate dehydratase activity,GO:0004089,"Hepatitis, Chronic",MESH:D006521,1,Copper,0,
+carboxylic ester hydrolase activity,GO:0052689,Hepatitis,MESH:D006505,1,Dietary Fats,0,
+carboxylic ester hydrolase activity,GO:0052689,"Hepatitis, Animal",MESH:D006520,2,Dietary Fats|Oleic Acid,0,
+carboxylic ester hydrolase activity,GO:0052689,Hepatitis C,MESH:D006526,0,,1,LPL
+carnitine O-octanoyltransferase activity,GO:0008458,Hepatitis,MESH:D006505,1,Dietary Fats,0,
+carnitine O-octanoyltransferase activity,GO:0008458,"Hepatitis, Animal",MESH:D006520,1,Dietary Fats,0,
+carnitine O-palmitoyltransferase activity,GO:0004095,Hepatitis,MESH:D006505,3,Copper|Dietary Fats|Resveratrol,0,
+carnitine O-palmitoyltransferase activity,GO:0004095,"Hepatitis, Animal",MESH:D006520,2,Copper|Dietary Fats,0,
+carnitine O-palmitoyltransferase activity,GO:0004095,Hepatitis C,MESH:D006526,1,Resveratrol,0,
+carnitine O-palmitoyltransferase activity,GO:0004095,"Hepatitis, Chronic",MESH:D006521,1,Copper,0,
+catalase activity,GO:0004096,Hepatitis,MESH:D006505,1,cypermethrin,1,CAT
+catalase activity,GO:0004096,"Hepatitis, Chronic",MESH:D006521,0,,1,CAT
+catalytic activity,GO:0003824,Hepatitis,MESH:D006505,0,,1,PARP1
+catalytic activity,GO:0003824,"Hepatitis, Chronic",MESH:D006521,0,,1,COMMD1
+C-C chemokine binding,GO:0019957,Hepatitis C,MESH:D006526,0,,1,CCR5
+C-C chemokine receptor activity,GO:0016493,Hepatitis C,MESH:D006526,0,,1,CCR5
+CCR1 chemokine receptor binding,GO:0031726,"Hepatitis, Alcoholic",MESH:D006519,0,,1,CCL5
+CCR1 chemokine receptor binding,GO:0031726,"Hepatitis, Autoimmune",MESH:D019693,0,,1,CCL5
+CCR2 chemokine receptor binding,GO:0031727,"Hepatitis, Autoimmune",MESH:D019693,0,,1,CCL2
+CCR4 chemokine receptor binding,GO:0031729,"Hepatitis, Alcoholic",MESH:D006519,0,,1,CCL5
+CCR4 chemokine receptor binding,GO:0031729,"Hepatitis, Autoimmune",MESH:D019693,0,,1,CCL5
+CCR5 chemokine receptor binding,GO:0031730,"Hepatitis, Alcoholic",MESH:D006519,0,,1,CCL5
+CCR5 chemokine receptor binding,GO:0031730,"Hepatitis, Autoimmune",MESH:D019693,0,,1,CCL5
+CCR5 chemokine receptor binding,GO:0031730,"Hepatitis, Chronic",MESH:D006521,0,,1,STAT3
+CCR chemokine receptor binding,GO:0048020,"Hepatitis, Alcoholic",MESH:D006519,0,,1,CCL5
+CCR chemokine receptor binding,GO:0048020,"Hepatitis, Autoimmune",MESH:D019693,0,,2,CCL2|CCL5
+CD40 receptor binding,GO:0005174,Hepatitis,MESH:D006505,0,,1,TNF
+CD40 receptor binding,GO:0005174,"Hepatitis, Alcoholic",MESH:D006519,0,,1,TNF
+channel activity,GO:0015267,Hepatitis,MESH:D006505,1,Copper,0,
+channel activity,GO:0015267,"Hepatitis, Animal",MESH:D006520,1,Copper,0,
+channel activity,GO:0015267,"Hepatitis, Chronic",MESH:D006521,1,Copper,0,
+chaperone binding,GO:0051087,Hepatitis,MESH:D006505,0,,1,ALB
+chaperone binding,GO:0051087,"Hepatitis, Chronic",MESH:D006521,0,,3,ATP7A|CP|SOD1
+chemoattractant activity,GO:0042056,"Hepatitis, Alcoholic",MESH:D006519,0,,1,CCL5
+chemoattractant activity,GO:0042056,"Hepatitis, Autoimmune",MESH:D019693,0,,2,CCL2|CCL5
+chemoattractant activity,GO:0042056,"Hepatitis, Chronic",MESH:D006521,0,,1,HGF
+chemokine activity,GO:0008009,"Hepatitis, Alcoholic",MESH:D006519,0,,2,CCL5|CXCL8
+chemokine activity,GO:0008009,"Hepatitis, Autoimmune",MESH:D019693,0,,3,CCL2|CCL5|CXCL1
+chemokine (C-C motif) ligand 5 binding,GO:0071791,Hepatitis C,MESH:D006526,0,,1,CCR5
+chemokine receptor activity,GO:0004950,Hepatitis C,MESH:D006526,0,,1,CCR5
+chemokine receptor antagonist activity,GO:0046817,"Hepatitis, Alcoholic",MESH:D006519,0,,1,CCL5
+chemokine receptor antagonist activity,GO:0046817,"Hepatitis, Autoimmune",MESH:D019693,0,,1,CCL5
+chemokine receptor binding,GO:0042379,"Hepatitis, Alcoholic",MESH:D006519,0,,1,CCL5
+chemokine receptor binding,GO:0042379,"Hepatitis, Autoimmune",MESH:D019693,0,,1,CCL5
+chloramphenicol O-acetyltransferase activity,GO:0008811,Hepatitis B,MESH:D006509,0,,1,IFNB1
+cholesterol binding,GO:0015485,Hepatitis C,MESH:D006526,1,platycodin D,1,CD81
+cholinesterase activity,GO:0004104,Hepatitis,MESH:D006505,3,Diazinon|Dietary Fats|Monocrotophos,0,
+cholinesterase activity,GO:0004104,"Hepatitis, Animal",MESH:D006520,1,Dietary Fats,0,
+chromatin binding,GO:0003682,Hepatitis,MESH:D006505,0,,1,PARP1
+chromatin binding,GO:0003682,"Hepatitis, Chronic",MESH:D006521,0,,1,SMAD2
+chromatin DNA binding,GO:0031490,"Hepatitis, Chronic",MESH:D006521,0,,1,STAT3
+cis-regulatory region sequence-specific DNA binding,GO:0000987,"Hepatitis, Chronic",MESH:D006521,0,,1,SMAD2
+collagen binding,GO:0005518,Hepatitis,MESH:D006505,0,,1,SPARC
+collagen binding,GO:0005518,Hepatitis B,MESH:D006509,0,,1,LOX
+collagen binding,GO:0005518,Hepatitis C,MESH:D006526,0,,1,LOX
+collagen binding involved in cell-matrix adhesion,GO:0098639,Hepatitis,MESH:D006505,2,Atorvastatin|Resveratrol,0,
+collagen binding involved in cell-matrix adhesion,GO:0098639,"Hepatitis, Autoimmune",MESH:D019693,1,Atorvastatin,0,
+collagen binding involved in cell-matrix adhesion,GO:0098639,Hepatitis C,MESH:D006526,1,Resveratrol,0,
+copper chaperone activity,GO:0016531,"Hepatitis, Chronic",MESH:D006521,0,,2,ATOX1|COX17
+copper-dependent protein binding,GO:0032767,"Hepatitis, Chronic",MESH:D006521,0,,2,ATOX1|ATP7A
+copper ion binding,GO:0005507,Hepatitis,MESH:D006505,0,,2,ALB|ATP7B
+copper ion binding,GO:0005507,Hepatitis B,MESH:D006509,0,,2,LOX|LOXL2
+copper ion binding,GO:0005507,Hepatitis C,MESH:D006526,0,,2,LOX|LOXL2
+copper ion binding,GO:0005507,"Hepatitis, Chronic",MESH:D006521,0,,7,ATOX1|ATP7A|CCS|COMMD1|COX17|CP|SOD1
+copper ion transmembrane transporter activity,GO:0005375,Hepatitis,MESH:D006505,0,,1,ATP7B
+copper ion transmembrane transporter activity,GO:0005375,"Hepatitis, Chronic",MESH:D006521,0,,1,ATP7A
+coreceptor activity,GO:0015026,Hepatitis B,MESH:D006509,0,,1,IL10RB
+coreceptor activity,GO:0015026,Hepatitis C,MESH:D006526,0,,1,CCR5
+co-receptor binding,GO:0039706,Hepatitis C,MESH:D006526,0,,1,HFE
+co-SMAD binding,GO:0070410,"Hepatitis, Chronic",MESH:D006521,0,,1,SMAD2
+coumarin 7-hydroxylase activity,GO:0008389,Hepatitis B,MESH:D006509,0,,1,CYP2A6
+coumarin 7-hydroxylase activity,GO:0008389,Hepatitis C,MESH:D006526,0,,1,CYP2A6
+creatine kinase activity,GO:0004111,Hepatitis,MESH:D006505,11,Atorvastatin|Chitosan|cobaltiprotoporphyrin|Dietary Fats|Lipopolysaccharides|Metformin|Norfloxacin|Ofloxacin|Oxygen|Resveratrol|Rosuvastatin Calcium,0,
+creatine kinase activity,GO:0004111,"Hepatitis, Alcoholic",MESH:D006519,1,cobaltiprotoporphyrin,0,
+creatine kinase activity,GO:0004111,"Hepatitis, Animal",MESH:D006520,1,Dietary Fats,0,
+creatine kinase activity,GO:0004111,"Hepatitis, Autoimmune",MESH:D019693,1,Atorvastatin,0,
+creatine kinase activity,GO:0004111,Hepatitis B,MESH:D006509,1,baicalin,0,
+creatine kinase activity,GO:0004111,Hepatitis C,MESH:D006526,1,Resveratrol,0,
+cuprous ion binding,GO:1903136,"Hepatitis, Chronic",MESH:D006521,0,,3,ATOX1|ATP7A|COX17
+CXCR chemokine receptor binding,GO:0045236,"Hepatitis, Alcoholic",MESH:D006519,0,,1,CXCL8
+CXCR chemokine receptor binding,GO:0045236,"Hepatitis, Autoimmune",MESH:D019693,0,,1,CXCL1
+cyclin-dependent protein serine/threonine kinase inhibitor activity,GO:0004861,"Hepatitis, Chronic",MESH:D006521,0,,1,CASP3
+cysteine-S-conjugate beta-lyase activity,GO:0047804,Hepatitis,MESH:D006505,1,Trichloroethylene,0,
+cysteine-S-conjugate beta-lyase activity,GO:0047804,"Hepatitis, Autoimmune",MESH:D019693,1,Trichloroethylene,0,
+cysteine-type endopeptidase activity,GO:0004197,Hepatitis,MESH:D006505,11,Acetylcysteine|Amiodarone|Benzene|cypermethrin|Docetaxel|Ethanol|Galactosamine|Lipopolysaccharides|Oxygen|Perhexiline|perhexiline maleate,0,
+cysteine-type endopeptidase activity,GO:0004197,"Hepatitis, Alcoholic",MESH:D006519,1,Ethanol,0,
+cysteine-type endopeptidase activity,GO:0004197,"Hepatitis, Autoimmune",MESH:D019693,1,Mercuric Chloride,0,
+cysteine-type endopeptidase activity,GO:0004197,"Hepatitis, Chronic",MESH:D006521,0,,1,CASP3
+cysteine-type endopeptidase activity,GO:0004197,"Hepatitis, Viral, Animal",MESH:D006524,1,remdesivir,0,
+cysteine-type endopeptidase activity involved in apoptotic process,GO:0097153,Hepatitis,MESH:D006505,5,Chloroquine|Docetaxel|perfluorooctanoic acid|Rifampin|Sorafenib,0,
+cysteine-type endopeptidase activity involved in apoptotic process,GO:0097153,"Hepatitis, Alcoholic",MESH:D006519,1,diallyl disulfide,0,
+cysteine-type peptidase activity,GO:0008234,Hepatitis,MESH:D006505,2,Carbon Tetrachloride|Dichlorodiphenyl Dichloroethylene,0,
+cysteine-type peptidase activity,GO:0008234,"Hepatitis, Autoimmune",MESH:D019693,1,Methylphenidate,0,
+cysteine-type peptidase activity,GO:0008234,Hepatitis B,MESH:D006509,1,Cyclophosphamide,0,
+cysteine-type peptidase activity,GO:0008234,"Hepatitis, Chronic",MESH:D006521,1,Cyclophosphamide,1,CASP3
+cystine:glutamate antiporter activity,GO:0015327,Hepatitis,MESH:D006505,1,Sulfasalazine,0,
+cytochrome-c oxidase activity,GO:0004129,Hepatitis,MESH:D006505,14,Acetaminophen|Acetylcysteine|Aspirin|Chloroquine|Copper|Dietary Fats|Ethanol|Galactosamine|Lipopolysaccharides|Monocrotophos|Oxygen|Resveratrol|Telbivudine|Thioacetamide,0,
+cytochrome-c oxidase activity,GO:0004129,"Hepatitis, Alcoholic",MESH:D006519,1,Ethanol,0,
+cytochrome-c oxidase activity,GO:0004129,"Hepatitis, Animal",MESH:D006520,4,Copper|deoxynivalenol|Dietary Fats|Oleic Acid,0,
+cytochrome-c oxidase activity,GO:0004129,"Hepatitis, Autoimmune",MESH:D019693,2,celastrol|Mercuric Chloride,0,
+cytochrome-c oxidase activity,GO:0004129,Hepatitis B,MESH:D006509,2,Cyclophosphamide|Telbivudine,0,
+cytochrome-c oxidase activity,GO:0004129,"Hepatitis B, Chronic",MESH:D019694,1,Telbivudine,0,
+cytochrome-c oxidase activity,GO:0004129,Hepatitis C,MESH:D006526,1,Resveratrol,0,
+cytochrome-c oxidase activity,GO:0004129,"Hepatitis C, Chronic",MESH:D019698,2,Bezafibrate|Vitamin A,0,
+cytochrome-c oxidase activity,GO:0004129,"Hepatitis, Chronic",MESH:D006521,3,Aspirin|Copper|Cyclophosphamide,0,
+cytochrome-c oxidase activity,GO:0004129,"Hepatitis, Viral, Human",MESH:D006525,1,Iron,0,
+cytokine activity,GO:0005125,Hepatitis,MESH:D006505,0,,3,FASLG|IFNG|TNF
+cytokine activity,GO:0005125,"Hepatitis, Alcoholic",MESH:D006519,0,,2,CCL5|TNF
+cytokine activity,GO:0005125,"Hepatitis, Autoimmune",MESH:D019693,0,,14,CCL2|CCL5|IFNG|IL10|IL13|IL18|IL2|IL22|IL4|IL5|IL6|IL9|LEP|TGFB1
+cytokine activity,GO:0005125,Hepatitis B,MESH:D006509,0,,4,IFNA1|IFNA2|IFNB1|IFNG
+cytokine activity,GO:0005125,"Hepatitis B, Chronic",MESH:D019694,0,,1,IFNA2
+cytokine activity,GO:0005125,Hepatitis C,MESH:D006526,0,,3,IFNA2|IFNG|IFNL3
+cytokine activity,GO:0005125,"Hepatitis C, Chronic",MESH:D019698,0,,2,IFNA|IFNA2
+cytokine activity,GO:0005125,"Hepatitis, Chronic",MESH:D006521,0,,2,IFNA2|TGFB1
+cytokine binding,GO:0019955,Hepatitis B,MESH:D006509,0,,2,IFNAR2|IFNGR1
+cytokine receptor activity,GO:0004896,Hepatitis B,MESH:D006509,0,,3,IFNAR2|IFNGR1|IL10RB
+cytokine receptor binding,GO:0005126,"Hepatitis, Autoimmune",MESH:D019693,0,,3,IL13|IL2|IL9
+cytokine receptor binding,GO:0005126,Hepatitis B,MESH:D006509,0,,3,IFNA1|IFNA2|IFNB1
+cytokine receptor binding,GO:0005126,"Hepatitis B, Chronic",MESH:D019694,0,,1,IFNA2
+cytokine receptor binding,GO:0005126,Hepatitis C,MESH:D006526,0,,1,IFNA2
+cytokine receptor binding,GO:0005126,"Hepatitis C, Chronic",MESH:D019698,0,,1,IFNA2
+cytokine receptor binding,GO:0005126,"Hepatitis, Chronic",MESH:D006521,0,,1,IFNA2
+cytoskeletal protein binding,GO:0008092,"Hepatitis, Autoimmune",MESH:D019693,0,,1,ALDOB
+D-alanine:2-oxoglutarate aminotransferase activity,GO:0047810,Hepatitis,MESH:D006505,4,Carbon Tetrachloride|Ethanol|Isoniazid|Rifampin,0,
+D-alanine:2-oxoglutarate aminotransferase activity,GO:0047810,"Hepatitis, Alcoholic",MESH:D006519,1,Ethanol,0,
+damaged DNA binding,GO:0003684,Hepatitis,MESH:D006505,0,,1,PARP1
+death receptor agonist activity,GO:0038177,Hepatitis,MESH:D006505,0,,1,TNF
+death receptor agonist activity,GO:0038177,"Hepatitis, Alcoholic",MESH:D006519,0,,1,TNF
+death receptor binding,GO:0005123,Hepatitis,MESH:D006505,0,,1,FASLG
+death receptor binding,GO:0005123,"Hepatitis, Chronic",MESH:D006521,0,,1,CASP3
+deubiquitinase activator activity,GO:0035800,"Hepatitis, Autoimmune",MESH:D019693,0,,1,TGFB1
+deubiquitinase activator activity,GO:0035800,"Hepatitis, Chronic",MESH:D006521,0,,1,TGFB1
+D-glutamyltransferase activity,GO:0047823,Hepatitis,MESH:D006505,2,Carbon Tetrachloride|Finasteride,0,
+dimethylargininase activity,GO:0016403,Hepatitis,MESH:D006505,1,Oxygen,0,
+dinucleotide phosphatase activity,GO:0004551,Hepatitis,MESH:D006505,0,,1,ENPP2
+disordered domain specific binding,GO:0097718,Hepatitis,MESH:D006505,0,,1,KEAP1
+disordered domain specific binding,GO:0097718,"Hepatitis, Chronic",MESH:D006521,0,,1,SMAD2
+DNA binding,GO:0003677,Hepatitis,MESH:D006505,0,,2,ALB|PARP1
+DNA binding,GO:0003677,"Hepatitis, Autoimmune",MESH:D019693,0,,1,LEP
+DNA binding,GO:0003677,Hepatitis B,MESH:D006509,0,,1,STAT4
+DNA binding,GO:0003677,Hepatitis C,MESH:D006526,0,,2,RIGI|TLR8
+DNA binding,GO:0003677,"Hepatitis, Chronic",MESH:D006521,0,,3,MKI67|SMAD2|STAT3
+"DNA-binding transcription activator activity, RNA polymerase II-specific",GO:0001228,Hepatitis B,MESH:D006509,0,,1,STAT4
+"DNA-binding transcription activator activity, RNA polymerase II-specific",GO:0001228,"Hepatitis, Chronic",MESH:D006521,0,,2,SMAD2|STAT3
+DNA-binding transcription factor activity,GO:0003700,Hepatitis,MESH:D006505,3,Lipopolysaccharides|Oxygen|zinc protoporphyrin,0,
+DNA-binding transcription factor activity,GO:0003700,Hepatitis B,MESH:D006509,0,,1,STAT4
+DNA-binding transcription factor activity,GO:0003700,"Hepatitis, Chronic",MESH:D006521,0,,2,SMAD2|STAT3
+"DNA-binding transcription factor activity, RNA polymerase II-specific",GO:0000981,Hepatitis B,MESH:D006509,0,,2,LOX|STAT4
+"DNA-binding transcription factor activity, RNA polymerase II-specific",GO:0000981,Hepatitis C,MESH:D006526,0,,1,LOX
+"DNA-binding transcription factor activity, RNA polymerase II-specific",GO:0000981,"Hepatitis, Chronic",MESH:D006521,0,,3,MET|SMAD2|STAT3
+DNA-binding transcription factor binding,GO:0140297,"Hepatitis, Chronic",MESH:D006521,0,,2,SMAD2|STAT3
+DNA-directed DNA polymerase activity,GO:0003887,Hepatitis,MESH:D006505,1,Metformin,0,
+DNA-methyltransferase activity,GO:0009008,Hepatitis,MESH:D006505,1,Dietary Fats,0,
+DNA-methyltransferase activity,GO:0009008,"Hepatitis, Animal",MESH:D006520,1,Dietary Fats,0,
+DNA topoisomerase binding,GO:0044547,Hepatitis,MESH:D006505,1,Etoposide,0,
+"DNA topoisomerase type II (double strand cut, ATP-hydrolyzing) activity",GO:0003918,Hepatitis,MESH:D006505,1,Etoposide,0,
+double-stranded DNA binding,GO:0003690,Hepatitis C,MESH:D006526,0,,1,RIGI
+double-stranded DNA binding,GO:0003690,"Hepatitis, Chronic",MESH:D006521,0,,1,SMAD2
+double-stranded RNA binding,GO:0003725,Hepatitis C,MESH:D006526,0,,3,RIGI|TLR7|TLR8
+D-sorbitol dehydrogenase (acceptor) activity,GO:0047833,Hepatitis,MESH:D006505,1,Valproic Acid,0,
+efflux transmembrane transporter activity,GO:0015562,Hepatitis,MESH:D006505,3,Acetylcysteine|Floxacillin|trovafloxacin,0,
+endopeptidase activity,GO:0004175,"Hepatitis, Chronic",MESH:D006521,0,,2,CASP3|HGF
+enterobactin binding,GO:1903981,Hepatitis,MESH:D006505,0,,1,ALB
+enterobactin binding,GO:1903981,"Hepatitis, Animal",MESH:D006520,0,,1,LCN2
+enzyme activator activity,GO:0008047,Hepatitis,MESH:D006505,0,,1,PARP1
+enzyme activator activity,GO:0008047,"Hepatitis, Autoimmune",MESH:D019693,0,,1,CXCL1
+enzyme activator activity,GO:0008047,"Hepatitis, Chronic",MESH:D006521,0,,1,COX17
+enzyme binding,GO:0019899,Hepatitis,MESH:D006505,0,,5,ALB|CAT|HMOX1|PARP1|TF
+enzyme binding,GO:0019899,"Hepatitis, Autoimmune",MESH:D019693,0,,1,TGFB1
+enzyme binding,GO:0019899,Hepatitis B,MESH:D006509,0,,1,CYP2A6
+enzyme binding,GO:0019899,"Hepatitis B, Chronic",MESH:D019694,0,,1,UBE2L3
+enzyme binding,GO:0019899,Hepatitis C,MESH:D006526,0,,2,CYP2A6|CYP3A4
+enzyme binding,GO:0019899,"Hepatitis, Chronic",MESH:D006521,0,,4,CAT|CCS|SOD1|TGFB1
+epidermal growth factor receptor activity,GO:0005006,"Hepatitis, Chronic",MESH:D006521,0,,1,MET
+estradiol 17-beta-dehydrogenase activity,GO:0004303,Hepatitis,MESH:D006505,2,cypermethrin|Propylthiouracil,0,
+estradiol 17-beta-dehydrogenase activity,GO:0004303,"Hepatitis, Autoimmune",MESH:D019693,1,Indomethacin,0,
+estradiol 17-beta-dehydrogenase activity,GO:0004303,Hepatitis B,MESH:D006509,1,Indomethacin,0,
+estradiol 17-beta-dehydrogenase activity,GO:0004303,"Hepatitis C, Chronic",MESH:D019698,1,Indomethacin,0,
+estradiol 17-beta-dehydrogenase activity,GO:0004303,"Hepatitis, Chronic",MESH:D006521,2,Chlorpromazine|Propylthiouracil,0,
+estrogen 16-alpha-hydroxylase activity,GO:0101020,Hepatitis C,MESH:D006526,0,,1,CYP3A4
+estrogen 2-hydroxylase activity,GO:0101021,Hepatitis C,MESH:D006526,0,,1,CYP3A4
+estrone sulfotransferase activity,GO:0004304,"Hepatitis, Alcoholic",MESH:D006519,0,,1,SULT1E1
+exogenous protein binding,GO:0140272,Hepatitis,MESH:D006505,0,,1,ALB
+extracellular matrix binding,GO:0050840,Hepatitis,MESH:D006505,0,,1,SPARC
+extracellular matrix structural constituent,GO:0005201,Hepatitis,MESH:D006505,0,,1,SPARC
+fatty acid binding,GO:0005504,Hepatitis,MESH:D006505,0,,1,ALB
+fatty acid binding,GO:0005504,"Hepatitis, Animal",MESH:D006520,0,,1,CYP4A14
+ferric iron binding,GO:0008199,Hepatitis,MESH:D006505,0,,1,TF
+ferrous iron binding,GO:0008198,Hepatitis,MESH:D006505,0,,1,TF
+ferroxidase activity,GO:0004322,Hepatitis,MESH:D006505,1,Ethanol,0,
+ferroxidase activity,GO:0004322,"Hepatitis, Alcoholic",MESH:D006519,1,Ethanol,0,
+ferroxidase activity,GO:0004322,"Hepatitis, Chronic",MESH:D006521,0,,1,CP
+fibroblast growth factor receptor activity,GO:0005007,"Hepatitis, Chronic",MESH:D006521,0,,1,MET
+fibronectin binding,GO:0001968,"Hepatitis B, Chronic",MESH:D019694,0,,1,CCN2
+flavonol 3-sulfotransferase activity,GO:0047894,"Hepatitis, Alcoholic",MESH:D006519,0,,1,SULT1E1
+folic acid binding,GO:0005542,Hepatitis,MESH:D006505,0,,1,GNMT
+folic acid binding,GO:0005542,"Hepatitis, Chronic",MESH:D006521,0,,1,GNMT
+"fructose 1,6-bisphosphate 1-phosphatase activity",GO:0042132,Hepatitis,MESH:D006505,2,Dietary Fats|Gatifloxacin,0,
+"fructose 1,6-bisphosphate 1-phosphatase activity",GO:0042132,"Hepatitis, Animal",MESH:D006520,1,Dietary Fats,0,
+fructose-1-phosphate aldolase activity,GO:0061609,"Hepatitis, Autoimmune",MESH:D019693,0,,1,ALDOB
+fructose binding,GO:0070061,"Hepatitis, Autoimmune",MESH:D019693,0,,1,ALDOB
+fructose-bisphosphate aldolase activity,GO:0004332,"Hepatitis, Autoimmune",MESH:D019693,0,,1,ALDOB
+fucose binding,GO:0042806,Hepatitis C,MESH:D006526,0,,1,CD209
+gap junction channel activity,GO:0005243,Hepatitis,MESH:D006505,6,Acetylcysteine|DDT|Diethylnitrosamine|perfluorooctane sulfonic acid|perfluorooctanoic acid|Resveratrol,0,
+gap junction channel activity,GO:0005243,Hepatitis C,MESH:D006526,1,Resveratrol,0,
+glucose-6-phosphatase activity,GO:0004346,Hepatitis,MESH:D006505,3,Dietary Fats|Gliclazide|Metformin,0,
+glucose-6-phosphatase activity,GO:0004346,"Hepatitis, Animal",MESH:D006520,1,Dietary Fats,0,
+glucose-6-phosphatase activity,GO:0004346,Hepatitis C,MESH:D006526,1,Vitamin E,0,
+glucose-6-phosphate dehydrogenase activity,GO:0004345,Hepatitis,MESH:D006505,1,Dietary Fats,0,
+glucose-6-phosphate dehydrogenase activity,GO:0004345,"Hepatitis, Animal",MESH:D006520,1,Dietary Fats,0,
+glucuronosyltransferase activity,GO:0015020,Hepatitis,MESH:D006505,1,Carbon Tetrachloride,0,
+glucuronosyltransferase activity,GO:0015020,"Hepatitis, Autoimmune",MESH:D019693,1,Plant Preparations,0,
+glutamate binding,GO:0016595,Hepatitis,MESH:D006505,1,Ethanol,0,
+glutamate binding,GO:0016595,"Hepatitis, Alcoholic",MESH:D006519,1,Ethanol,0,
+glutamate dehydrogenase (NAD+) activity,GO:0004352,Hepatitis,MESH:D006505,2,Carbon Tetrachloride|Melatonin,0,
+glutamate dehydrogenase (NAD+) activity,GO:0004352,"Hepatitis, Autoimmune",MESH:D019693,1,Melatonin,0,
+glutathione binding,GO:0043295,Hepatitis,MESH:D006505,1,Copper,0,
+glutathione binding,GO:0043295,"Hepatitis, Animal",MESH:D006520,1,Copper,0,
+glutathione binding,GO:0043295,"Hepatitis, Autoimmune",MESH:D019693,1,Mercuric Chloride,0,
+glutathione binding,GO:0043295,"Hepatitis, Chronic",MESH:D006521,1,Copper,0,
+glutathione hydrolase activity,GO:0036374,"Hepatitis, Autoimmune",MESH:D019693,1,Mercuric Chloride,0,
+glutathione peroxidase activity,GO:0004602,Hepatitis,MESH:D006505,44,1-Naphthylisothiocyanate|5-Methoxypsoralen|Acetaminophen|Acetylcysteine|Aluminum Chloride|Amiodarone|Atorvastatin|Benzene|Caffeine|Carbimazole|Carbon Tetrachloride|Chitosan|Chloroquine|Choline|Copper|cypermethrin|Diazinon|Dichlorodiphenyl Dichloroethylene|Dietary Fats|Diethylnitrosamine|Edaravone|Ethanol|Galactosamine|Glyburide|Isoniazid|Lipopolysaccharides|Melatonin|Metformin|Methamphetamine|Orlistat|Oxygen|Phenobarbital|Propylthiouracil|Ranitidine|Resveratrol|Rosiglitazone|schizandrin B|Spironolactone|Sulfasalazine|Thioacetamide|Thyroxine|Valproic Acid|Vancomycin|Zinc Sulfate,0,
+glutathione peroxidase activity,GO:0004602,Hepatitis A,MESH:D006506,1,Glycyrrhizic Acid,0,
+glutathione peroxidase activity,GO:0004602,"Hepatitis, Alcoholic",MESH:D006519,2,diallyl disulfide|Ethanol,0,
+glutathione peroxidase activity,GO:0004602,"Hepatitis, Animal",MESH:D006520,5,Choline|Copper|deoxynivalenol|Dietary Fats|Oleic Acid,0,
+glutathione peroxidase activity,GO:0004602,"Hepatitis, Autoimmune",MESH:D019693,7,Atorvastatin|celastrol|Indomethacin|Melatonin|Mercuric Chloride|Phytochemicals|Plant Preparations,0,
+glutathione peroxidase activity,GO:0004602,Hepatitis B,MESH:D006509,2,Cyclophosphamide|Indomethacin,0,
+glutathione peroxidase activity,GO:0004602,"Hepatitis B, Chronic",MESH:D019694,1,Cyclosporine,0,
+glutathione peroxidase activity,GO:0004602,Hepatitis C,MESH:D006526,5,beta Carotene|Cyclosporine|Morphine|Resveratrol|Vitamin E,0,
+glutathione peroxidase activity,GO:0004602,"Hepatitis C, Chronic",MESH:D019698,2,Bezafibrate|Indomethacin,0,
+glutathione peroxidase activity,GO:0004602,"Hepatitis, Chronic",MESH:D006521,4,Copper|Cyclophosphamide|Diclofenac|Propylthiouracil,2,CP|GPX1
+glutathione peroxidase activity,GO:0004602,"Hepatitis, Viral, Human",MESH:D006525,1,Iron,0,
+glutathione transferase activity,GO:0004364,Hepatitis,MESH:D006505,35,"Acetaminophen|Acetylcysteine|Caffeine|Carbon Tetrachloride|Copper|cypermethrin|Dichlorodiphenyl Dichloroethylene|Dietary Fats|Diethylnitrosamine|Drugs, Chinese Herbal|Edaravone|efavirenz|Ethambutol|Ethanol|Finasteride|Galactosamine|Glyburide|Isoniazid|Lamivudine|Lipopolysaccharides|Melatonin|Metformin|Monocrotophos|Nitroglycerin|Orlistat|Oxygen|Phenobarbital|Propylthiouracil|Resveratrol|Rosuvastatin Calcium|Thioacetamide|Thyroxine|Trichloroethylene|Valproic Acid|Zinc Sulfate",0,
+glutathione transferase activity,GO:0004364,"Hepatitis, Alcoholic",MESH:D006519,2,diallyl disulfide|Ethanol,0,
+glutathione transferase activity,GO:0004364,"Hepatitis, Animal",MESH:D006520,2,Copper|Dietary Fats,0,
+glutathione transferase activity,GO:0004364,"Hepatitis, Autoimmune",MESH:D019693,5,celastrol|Melatonin|Mercuric Chloride|Plant Preparations|Trichloroethylene,0,
+glutathione transferase activity,GO:0004364,Hepatitis B,MESH:D006509,3,Cyclophosphamide|Lamivudine|Tenofovir,0,
+glutathione transferase activity,GO:0004364,"Hepatitis B, Chronic",MESH:D019694,3,Cyclosporine|Lamivudine|Tenofovir,0,
+glutathione transferase activity,GO:0004364,Hepatitis C,MESH:D006526,5,Cyclosporine|Lamivudine|Morphine|Resveratrol|Vitamin E,0,
+glutathione transferase activity,GO:0004364,"Hepatitis C, Chronic",MESH:D019698,3,Bezafibrate|Buprenorphine|Vitamin A,0,
+glutathione transferase activity,GO:0004364,"Hepatitis, Chronic",MESH:D006521,3,Copper|Cyclophosphamide|Propylthiouracil,0,
+glutathione transferase activity,GO:0004364,"Hepatitis, Viral, Human",MESH:D006525,1,Iron,0,
+glycerol-3-phosphate dehydrogenase (quinone) activity,GO:0004368,"Hepatitis, Autoimmune",MESH:D019693,1,celastrol,0,
+glycerol-3-phosphate O-acyltransferase activity,GO:0004366,Hepatitis,MESH:D006505,1,Resveratrol,0,
+glycerol-3-phosphate O-acyltransferase activity,GO:0004366,Hepatitis C,MESH:D006526,1,Resveratrol,0,
+glycine binding,GO:0016594,Hepatitis,MESH:D006505,0,,1,GNMT
+glycine binding,GO:0016594,"Hepatitis, Chronic",MESH:D006521,0,,1,GNMT
+glycine N-benzoyltransferase activity,GO:0047962,Hepatitis,MESH:D006505,1,Phenobarbital,0,
+glycine N-methyltransferase activity,GO:0017174,Hepatitis,MESH:D006505,0,,1,GNMT
+glycine N-methyltransferase activity,GO:0017174,"Hepatitis, Chronic",MESH:D006521,0,,1,GNMT
+glycine-tRNA ligase activity,GO:0004820,Hepatitis B,MESH:D006509,0,,1,IFNB1
+glycogen phosphorylase activity,GO:0008184,Hepatitis,MESH:D006505,4,cypermethrin|Dietary Fats|Glyburide|Metformin,0,
+glycogen phosphorylase activity,GO:0008184,"Hepatitis, Animal",MESH:D006520,1,Dietary Fats,0,
+glycogen (starch) synthase activity,GO:0004373,Hepatitis,MESH:D006505,1,Glyburide,0,
+glycosphingolipid binding,GO:0043208,"Hepatitis, Autoimmune",MESH:D019693,0,,1,IL2
+glycosyltransferase activity,GO:0016757,Hepatitis,MESH:D006505,0,,1,PARP1
+gonadotropin-releasing hormone binding,GO:0051448,Hepatitis,MESH:D006505,1,Gonadotropin-Releasing Hormone,0,
+GPI-linked ephrin receptor activity,GO:0005004,"Hepatitis, Chronic",MESH:D006521,0,,1,MET
+G-protein alpha-subunit binding,GO:0001965,Hepatitis,MESH:D006505,0,,1,F2R
+G-protein alpha-subunit binding,GO:0001965,Hepatitis C,MESH:D006526,0,,1,OPRM1
+G-protein beta-subunit binding,GO:0031681,Hepatitis,MESH:D006505,0,,1,F2R
+G-protein beta-subunit binding,GO:0031681,Hepatitis C,MESH:D006526,0,,1,OPRM1
+G protein-coupled enkephalin receptor activity,GO:0038046,Hepatitis C,MESH:D006526,0,,1,OPRM1
+G protein-coupled opioid receptor activity,GO:0004985,Hepatitis C,MESH:D006526,0,,1,OPRM1
+G protein-coupled receptor activity,GO:0004930,Hepatitis,MESH:D006505,0,,1,F2R
+G protein-coupled receptor activity,GO:0004930,Hepatitis B,MESH:D006509,0,,1,IFNGR1
+G protein-coupled receptor activity,GO:0004930,Hepatitis C,MESH:D006526,0,,1,OPRM1
+G protein-coupled receptor binding,GO:0001664,"Hepatitis, Autoimmune",MESH:D019693,0,,1,CCL2
+G protein-coupled serotonin receptor activity,GO:0004993,Hepatitis B,MESH:D006509,1,alisol B 23-acetate,0,
+growth factor activity,GO:0008083,"Hepatitis, Autoimmune",MESH:D019693,0,,9,CXCL1|IL10|IL13|IL2|IL4|IL5|IL6|IL9|TGFB1
+growth factor activity,GO:0008083,"Hepatitis B, Chronic",MESH:D019694,0,,1,CCN2
+growth factor activity,GO:0008083,"Hepatitis, Chronic",MESH:D006521,0,,2,HGF|TGFB1
+GTPase activity,GO:0003924,Hepatitis C,MESH:D006526,1,Fluvastatin,0,
+GTP binding,GO:0005525,Hepatitis,MESH:D006505,0,,1,TF
+GTP binding,GO:0005525,Hepatitis C,MESH:D006526,0,,1,RIGI
+guanylate cyclase activity,GO:0004383,Hepatitis,MESH:D006505,1,Acetylcysteine,0,
+H3K27me3 modified histone binding,GO:0061628,Hepatitis,MESH:D006505,2,Acetaminophen|Dichlorodiphenyl Dichloroethylene,0,
+helicase activity,GO:0004386,Hepatitis C,MESH:D006526,0,,1,RIGI
+heme binding,GO:0020037,Hepatitis,MESH:D006505,0,,2,CAT|HMOX1
+heme binding,GO:0020037,"Hepatitis, Animal",MESH:D006520,0,,1,CYP4A14
+heme binding,GO:0020037,Hepatitis B,MESH:D006509,0,,1,CYP2A6
+heme binding,GO:0020037,Hepatitis C,MESH:D006526,0,,3,CYP2A6|CYP2B1|CYP3A4
+heme binding,GO:0020037,"Hepatitis, Chronic",MESH:D006521,0,,1,CAT
+heme oxygenase (decyclizing) activity,GO:0004392,Hepatitis,MESH:D006505,0,,1,HMOX1
+hemoglobin binding,GO:0030492,Hepatitis B,MESH:D006509,0,,1,HP
+hemoglobin binding,GO:0030492,"Hepatitis B, Chronic",MESH:D019694,0,,1,HP
+hemoglobin binding,GO:0030492,"Hepatitis C, Chronic",MESH:D019698,0,,1,HP
+heparan sulfate proteoglycan binding,GO:0043395,Hepatitis C,MESH:D006526,0,,1,LPL
+heparin binding,GO:0008201,"Hepatitis, Alcoholic",MESH:D006519,0,,2,CCL5|CXCL8
+heparin binding,GO:0008201,"Hepatitis, Autoimmune",MESH:D019693,0,,2,CCL2|CCL5
+heparin binding,GO:0008201,"Hepatitis B, Chronic",MESH:D019694,0,,1,CCN2
+heparin binding,GO:0008201,Hepatitis C,MESH:D006526,0,,1,LPL
+hepatocyte growth factor receptor activity,GO:0005008,"Hepatitis, Chronic",MESH:D006521,0,,1,MET
+heterotrimeric G-protein binding,GO:0032795,Hepatitis,MESH:D006505,0,,1,F2R
+hexokinase activity,GO:0004396,Hepatitis,MESH:D006505,6,Atorvastatin|Dietary Fats|Diltiazem|Gatifloxacin|Glyburide|Valproic Acid,0,
+hexokinase activity,GO:0004396,"Hepatitis, Animal",MESH:D006520,1,Dietary Fats,0,
+hexokinase activity,GO:0004396,"Hepatitis, Autoimmune",MESH:D019693,2,Atorvastatin|Indomethacin,0,
+hexokinase activity,GO:0004396,Hepatitis B,MESH:D006509,1,Indomethacin,0,
+hexokinase activity,GO:0004396,"Hepatitis C, Chronic",MESH:D019698,1,Indomethacin,0,
+hexokinase activity,GO:0004396,"Hepatitis, Chronic",MESH:D006521,1,Chlorpromazine,0,
+high-affinity phosphate transmembrane transporter activity,GO:0048249,"Hepatitis, Viral, Human",MESH:D006525,1,Foscarnet,0,
+high-density lipoprotein particle binding,GO:0008035,Hepatitis C,MESH:D006526,0,,1,SCARB1
+high-density lipoprotein particle receptor activity,GO:0070506,Hepatitis C,MESH:D006526,0,,1,SCARB1
+high voltage-gated calcium channel activity,GO:0008331,Hepatitis,MESH:D006505,2,Ethanol|Nifedipine,0,
+high voltage-gated calcium channel activity,GO:0008331,"Hepatitis, Alcoholic",MESH:D006519,1,Ethanol,0,
+histone acetyltransferase activity,GO:0004402,Hepatitis,MESH:D006505,1,Valproic Acid,0,
+histone binding,GO:0042393,Hepatitis,MESH:D006505,0,,1,PARP1
+histone deacetylase activity,GO:0004407,Hepatitis,MESH:D006505,3,Dietary Fats|Metformin|Valproic Acid,0,
+histone deacetylase activity,GO:0004407,"Hepatitis, Animal",MESH:D006520,1,Dietary Fats,0,
+histone deacetylase binding,GO:0042826,Hepatitis,MESH:D006505,0,,1,PARP1
+histone H3K9 demethylase activity,GO:0032454,Hepatitis,MESH:D006505,2,Dietary Fats|Melatonin,0,
+histone H3K9 demethylase activity,GO:0032454,"Hepatitis, Animal",MESH:D006520,1,Dietary Fats,0,
+histone H3K9 demethylase activity,GO:0032454,"Hepatitis, Autoimmune",MESH:D019693,1,Melatonin,0,
+hormone activity,GO:0005179,Hepatitis,MESH:D006505,0,,1,INS
+hormone activity,GO:0005179,"Hepatitis, Autoimmune",MESH:D019693,0,,1,LEP
+Hsp70 protein binding,GO:0030544,Hepatitis C,MESH:D006526,0,,1,CYP2B1
+Hsp90 protein binding,GO:0051879,Hepatitis C,MESH:D006526,0,,1,CYP2B1
+hydrolase activity,GO:0016787,Hepatitis,MESH:D006505,0,,2,ENPP2|F2R
+hydrolase activity,GO:0016787,"Hepatitis, Alcoholic",MESH:D006519,0,,1,STS
+hydrolase activity,GO:0016787,Hepatitis C,MESH:D006526,0,,2,LPL|RIGI
+hydrolase activity,GO:0016787,"Hepatitis, Chronic",MESH:D006521,0,,1,ACTA2
+"hydrolase activity, acting on ester bonds",GO:0016788,Hepatitis,MESH:D006505,1,Oxygen,1,ENPP2
+"hydrolase activity, acting on ester bonds",GO:0016788,Hepatitis B,MESH:D006509,1,Cyclophosphamide,0,
+"hydrolase activity, acting on ester bonds",GO:0016788,"Hepatitis, Chronic",MESH:D006521,1,Cyclophosphamide,0,
+"hydrolase activity, acting on glycosyl bonds",GO:0016798,Hepatitis,MESH:D006505,1,Vancomycin,0,
+identical protein binding,GO:0042802,Hepatitis,MESH:D006505,0,,8,ALB|CAT|GNMT|HMOX1|INS|KEAP1|PARP1|TNF
+identical protein binding,GO:0042802,"Hepatitis, Alcoholic",MESH:D006519,0,,2,CCL5|TNF
+identical protein binding,GO:0042802,"Hepatitis, Animal",MESH:D006520,0,,2,LCN2|TFF3
+identical protein binding,GO:0042802,"Hepatitis, Autoimmune",MESH:D019693,0,,5,ALDOB|C1S|CCL5|IL6|TGFB1
+identical protein binding,GO:0042802,Hepatitis B,MESH:D006509,0,,2,HP|STAT4
+identical protein binding,GO:0042802,"Hepatitis B, Chronic",MESH:D019694,0,,1,HP
+identical protein binding,GO:0042802,Hepatitis C,MESH:D006526,0,,4,CCR5|RIGI|SCARB1|TLR8
+identical protein binding,GO:0042802,"Hepatitis C, Chronic",MESH:D019698,0,,1,HP
+identical protein binding,GO:0042802,"Hepatitis, Chronic",MESH:D006521,0,,9,CAT|COMMD1|GNMT|HGF|MET|SMAD2|SOD1|STAT3|TGFB1
+IgA receptor activity,GO:0019766,Hepatitis,MESH:D006505,1,Dichlorodiphenyl Dichloroethylene,0,
+IgG receptor activity,GO:0019770,Hepatitis,MESH:D006505,1,Dichlorodiphenyl Dichloroethylene,0,
+IkappaB kinase activity,GO:0008384,Hepatitis,MESH:D006505,2,Resveratrol|Sulfasalazine,0,
+IkappaB kinase activity,GO:0008384,Hepatitis C,MESH:D006526,1,Resveratrol,0,
+IMP dehydrogenase activity,GO:0003938,Hepatitis,MESH:D006505,1,Mycophenolic Acid,0,
+IMP dehydrogenase activity,GO:0003938,Hepatitis A,MESH:D006506,1,Ribavirin,0,
+IMP dehydrogenase activity,GO:0003938,"Hepatitis, Autoimmune",MESH:D019693,1,Mycophenolic Acid,0,
+IMP dehydrogenase activity,GO:0003938,"Hepatitis B, Chronic",MESH:D019694,1,Ribavirin,0,
+IMP dehydrogenase activity,GO:0003938,Hepatitis C,MESH:D006526,2,Mycophenolic Acid|Ribavirin,0,
+IMP dehydrogenase activity,GO:0003938,"Hepatitis C, Chronic",MESH:D019698,1,Ribavirin,0,
+IMP dehydrogenase activity,GO:0003938,"Hepatitis, Chronic",MESH:D006521,1,Ribavirin,0,
+"indoleamine 2,3-dioxygenase activity",GO:0033754,Hepatitis,MESH:D006505,1,Lipopolysaccharides,0,
+"indoleamine 2,3-dioxygenase activity",GO:0033754,Hepatitis B,MESH:D006509,1,Cyclophosphamide,0,
+"indoleamine 2,3-dioxygenase activity",GO:0033754,"Hepatitis, Chronic",MESH:D006521,1,Cyclophosphamide,0,
+insulin-like growth factor binding,GO:0005520,"Hepatitis B, Chronic",MESH:D019694,0,,1,CCN2
+insulin-like growth factor receptor activity,GO:0005010,"Hepatitis, Chronic",MESH:D006521,0,,1,MET
+insulin-like growth factor receptor binding,GO:0005159,Hepatitis,MESH:D006505,0,,1,INS
+insulin receptor activity,GO:0005009,"Hepatitis, Chronic",MESH:D006521,0,,1,MET
+insulin receptor binding,GO:0005158,Hepatitis,MESH:D006505,0,,1,INS
+integrin binding,GO:0005178,"Hepatitis B, Chronic",MESH:D019694,0,,1,CCN2
+integrin binding,GO:0005178,Hepatitis C,MESH:D006526,0,,1,CD81
+integrin binding,GO:0005178,"Hepatitis C, Chronic",MESH:D019698,0,,1,ITGB6
+interferon receptor activity,GO:0004904,Hepatitis B,MESH:D006509,0,,1,IL10RB
+interleukin-10 receptor activity,GO:0004920,Hepatitis B,MESH:D006509,0,,2,IFNAR2|IL10RB
+interleukin-10 receptor binding,GO:0005141,"Hepatitis, Autoimmune",MESH:D019693,0,,1,IL10
+interleukin-13 receptor binding,GO:0005144,"Hepatitis, Autoimmune",MESH:D019693,0,,1,IL13
+interleukin-18 receptor binding,GO:0045515,"Hepatitis, Autoimmune",MESH:D019693,0,,1,IL18
+interleukin-22 receptor activity,GO:0042018,Hepatitis B,MESH:D006509,0,,2,IFNAR2|IL10RB
+interleukin-22 receptor binding,GO:0045518,"Hepatitis, Autoimmune",MESH:D019693,0,,1,IL22
+interleukin-28 receptor binding,GO:0032003,Hepatitis C,MESH:D006526,0,,1,IFNL3
+interleukin-2 receptor binding,GO:0005134,"Hepatitis, Autoimmune",MESH:D019693,0,,1,IL2
+interleukin-4 receptor binding,GO:0005136,"Hepatitis, Autoimmune",MESH:D019693,0,,2,IL13|IL4
+interleukin-5 receptor binding,GO:0005137,"Hepatitis, Autoimmune",MESH:D019693,0,,1,IL5
+interleukin-6 receptor binding,GO:0005138,"Hepatitis, Autoimmune",MESH:D019693,0,,1,IL6
+interleukin-8 receptor binding,GO:0005153,"Hepatitis, Alcoholic",MESH:D006519,0,,1,CXCL8
+interleukin-9 receptor binding,GO:0005140,"Hepatitis, Autoimmune",MESH:D019693,0,,1,IL9
+inward rectifier potassium channel activity,GO:0005242,Hepatitis,MESH:D006505,1,Terfenadine,0,
+iron chaperone activity,GO:0034986,Hepatitis,MESH:D006505,0,,1,TF
+iron ion binding,GO:0005506,"Hepatitis, Animal",MESH:D006520,0,,2,CYP4A14|LCN2
+iron ion binding,GO:0005506,Hepatitis B,MESH:D006509,0,,1,CYP2A6
+iron ion binding,GO:0005506,Hepatitis C,MESH:D006526,0,,3,CYP2A6|CYP2B1|CYP3A4
+iron ion sequestering activity,GO:0140315,"Hepatitis, Animal",MESH:D006520,0,,1,LCN2
+I-SMAD binding,GO:0070411,"Hepatitis, Chronic",MESH:D006521,0,,1,SMAD2
+isocitrate dehydrogenase [NAD(P)+] activity,GO:0004448,Hepatitis,MESH:D006505,1,Copper,0,
+isocitrate dehydrogenase [NAD(P)+] activity,GO:0004448,"Hepatitis, Animal",MESH:D006520,1,Copper,0,
+isocitrate dehydrogenase [NAD(P)+] activity,GO:0004448,"Hepatitis, Chronic",MESH:D006521,1,Copper,0,
+isocitrate dehydrogenase [NAD(P)+] activity,GO:0004448,"Hepatitis, Viral, Human",MESH:D006525,1,Iron,0,
+JAK pathway signal transduction adaptor activity,GO:0008269,Hepatitis B,MESH:D006509,0,,1,IFNAR2
+JUN kinase activity,GO:0004705,Hepatitis,MESH:D006505,2,Acetylcysteine|Lipopolysaccharides,0,
+kappa-type opioid receptor binding,GO:0031851,"Hepatitis, Autoimmune",MESH:D019693,0,,1,IL2
+kinase activator activity,GO:0019209,"Hepatitis, Autoimmune",MESH:D019693,0,,1,IL2
+kinase activity,GO:0016301,"Hepatitis, Chronic",MESH:D006521,0,,1,MET
+lactate dehydrogenase activity,GO:0004457,Hepatitis,MESH:D006505,36,"Acetaminophen|Acetylcysteine|Aluminum Chloride|Atorvastatin|Bilirubin|Caffeine|Carbon Tetrachloride|Chitosan|Chloroquine|Cimetidine|Clomipramine|cobaltiprotoporphyrin|cypermethrin|Dichlorodiphenyl Dichloroethylene|Dietary Fats|Diethylnitrosamine|Drugs, Chinese Herbal|Edaravone|efavirenz|Ethambutol|Ethanol|Finasteride|Galactosamine|Imatinib Mesylate|Lamivudine|Lipopolysaccharides|Metformin|Methionine|Nitrofurantoin|Nitroglycerin|Oxygen|Resveratrol|Rosuvastatin Calcium|Thioacetamide|Trichloroethylene|Valproic Acid",0,
+lactate dehydrogenase activity,GO:0004457,"Hepatitis, Alcoholic",MESH:D006519,2,cobaltiprotoporphyrin|Ethanol,0,
+lactate dehydrogenase activity,GO:0004457,"Hepatitis, Animal",MESH:D006520,4,deoxynivalenol|Dietary Fats|Methionine|Oleic Acid,0,
+lactate dehydrogenase activity,GO:0004457,"Hepatitis, Autoimmune",MESH:D019693,6,Atorvastatin|celastrol|Imatinib Mesylate|Mercuric Chloride|Methylphenidate|Trichloroethylene,0,
+lactate dehydrogenase activity,GO:0004457,Hepatitis B,MESH:D006509,4,baicalin|Cyclophosphamide|Lamivudine|Tenofovir,0,
+lactate dehydrogenase activity,GO:0004457,"Hepatitis B, Chronic",MESH:D019694,3,Cyclosporine|Lamivudine|Tenofovir,0,
+lactate dehydrogenase activity,GO:0004457,Hepatitis C,MESH:D006526,4,beta Carotene|Cyclosporine|Lamivudine|Resveratrol,0,
+lactate dehydrogenase activity,GO:0004457,"Hepatitis C, Chronic",MESH:D019698,1,Buprenorphine,0,
+lactate dehydrogenase activity,GO:0004457,"Hepatitis, Chronic",MESH:D006521,2,Cyclophosphamide|Nitrofurantoin,0,
+lactate dehydrogenase activity,GO:0004457,"Hepatitis, Viral, Human",MESH:D006525,1,allyl sulfide,0,
+L-alanine:2-oxoglutarate aminotransferase activity,GO:0004021,Hepatitis,MESH:D006505,4,Acetaminophen|Choline|Methionine|perfluorooctanoic acid,0,
+L-alanine:2-oxoglutarate aminotransferase activity,GO:0004021,"Hepatitis, Animal",MESH:D006520,2,Choline|Methionine,0,
+L-aspartate:2-oxoglutarate aminotransferase activity,GO:0004069,Hepatitis,MESH:D006505,41,"1-Naphthylisothiocyanate|Acetaminophen|Acetylcysteine|Aluminum Chloride|Atorvastatin|Caffeine|Carbon Tetrachloride|Choline|Cimetidine|Clomipramine|cypermethrin|Dietary Fats|Diethylnitrosamine|Dimethylformamide|Drugs, Chinese Herbal|Ethanol|Galactosamine|Glyburide|Imatinib Mesylate|Isoniazid|Lipopolysaccharides|Melatonin|Metformin|Methimazole|Methionine|Monocrotophos|Nitroglycerin|Orlistat|Paroxetine|perfluorooctane sulfonic acid|Phenobarbital|Pyrazinamide|Resveratrol|Rosiglitazone|Rosuvastatin Calcium|schizandrin B|Sorafenib|Thioacetamide|Ursodeoxycholic Acid|Vancomycin|Zidovudine",0,
+L-aspartate:2-oxoglutarate aminotransferase activity,GO:0004069,Hepatitis A,MESH:D006506,1,Glycyrrhizic Acid,0,
+L-aspartate:2-oxoglutarate aminotransferase activity,GO:0004069,"Hepatitis, Alcoholic",MESH:D006519,2,diallyl disulfide|Ethanol,0,
+L-aspartate:2-oxoglutarate aminotransferase activity,GO:0004069,"Hepatitis, Animal",MESH:D006520,5,Choline|deoxynivalenol|Dietary Fats|Methionine|Oleic Acid,0,
+L-aspartate:2-oxoglutarate aminotransferase activity,GO:0004069,"Hepatitis, Autoimmune",MESH:D019693,4,Atorvastatin|celastrol|Imatinib Mesylate|Melatonin,0,
+L-aspartate:2-oxoglutarate aminotransferase activity,GO:0004069,Hepatitis B,MESH:D006509,3,baicalin|Cyclophosphamide|Zidovudine,0,
+L-aspartate:2-oxoglutarate aminotransferase activity,GO:0004069,"Hepatitis B, Chronic",MESH:D019694,2,Colchicine|Cyclosporine,0,
+L-aspartate:2-oxoglutarate aminotransferase activity,GO:0004069,Hepatitis C,MESH:D006526,4,Cyclosporine|Resveratrol|Vitamin E|Zidovudine,0,
+L-aspartate:2-oxoglutarate aminotransferase activity,GO:0004069,"Hepatitis C, Chronic",MESH:D019698,1,Ursodeoxycholic Acid,0,
+L-aspartate:2-oxoglutarate aminotransferase activity,GO:0004069,"Hepatitis, Chronic",MESH:D006521,3,Cyclophosphamide|Diclofenac|Ursodeoxycholic Acid,0,
+L-aspartate:2-oxoglutarate aminotransferase activity,GO:0004069,"Hepatitis, Viral, Human",MESH:D006525,1,Iron,0,
+leptin receptor binding,GO:1990460,"Hepatitis, Autoimmune",MESH:D019693,0,,1,LEP
+leukotriene-B4 20-monooxygenase activity,GO:0050051,"Hepatitis, Animal",MESH:D006520,0,,1,CYP4A14
+L-iditol 2-dehydrogenase activity,GO:0003939,Hepatitis,MESH:D006505,3,efavirenz|Ethambutol|Lamivudine,0,
+L-iditol 2-dehydrogenase activity,GO:0003939,Hepatitis B,MESH:D006509,2,Lamivudine|Tenofovir,0,
+L-iditol 2-dehydrogenase activity,GO:0003939,"Hepatitis B, Chronic",MESH:D019694,2,Lamivudine|Tenofovir,0,
+L-iditol 2-dehydrogenase activity,GO:0003939,Hepatitis C,MESH:D006526,1,Lamivudine,0,
+lipase activity,GO:0016298,Hepatitis,MESH:D006505,2,Ethanol|Orlistat,0,
+lipase activity,GO:0016298,"Hepatitis, Alcoholic",MESH:D006519,1,Ethanol,0,
+lipase activity,GO:0016298,Hepatitis B,MESH:D006509,0,,1,HP
+lipase activity,GO:0016298,"Hepatitis B, Chronic",MESH:D019694,0,,1,HP
+lipase activity,GO:0016298,"Hepatitis C, Chronic",MESH:D019698,0,,1,HP
+lipid binding,GO:0008289,Hepatitis,MESH:D006505,0,,1,ALB
+lipid binding,GO:0008289,Hepatitis C,MESH:D006526,0,,2,CD81|SCARB1
+lipid transporter activity,GO:0005319,Hepatitis C,MESH:D006526,0,,1,SCARB1
+lipopolysaccharide binding,GO:0001530,Hepatitis C,MESH:D006526,0,,1,SCARB1
+lipopolysaccharide immune receptor activity,GO:0001875,Hepatitis C,MESH:D006526,0,,1,SCARB1
+lipoprotein lipase activity,GO:0004465,Hepatitis,MESH:D006505,1,perfluorooctanoic acid,0,
+lipoprotein lipase activity,GO:0004465,Hepatitis C,MESH:D006526,0,,1,LPL
+lipoprotein particle binding,GO:0071813,Hepatitis C,MESH:D006526,0,,1,LPL
+lncRNA binding,GO:0106222,"Hepatitis, Chronic",MESH:D006521,0,,1,STAT3
+long-chain fatty acid-CoA ligase activity,GO:0004467,"Hepatitis, Chronic",MESH:D006521,1,Diclofenac,0,
+long-chain fatty acid omega-hydroxylase activity,GO:0102033,"Hepatitis, Animal",MESH:D006520,0,,1,CYP4A14
+low-density lipoprotein particle binding,GO:0030169,Hepatitis C,MESH:D006526,0,,1,SCARB1
+low-density lipoprotein particle receptor binding,GO:0050750,"Hepatitis, Chronic",MESH:D006521,0,,1,COMMD1
+lyase activity,GO:0016829,"Hepatitis, Autoimmune",MESH:D019693,0,,1,ALDOB
+lysine-acetylated histone binding,GO:0070577,Hepatitis,MESH:D006505,4,Acetaminophen|Dichlorodiphenyl Dichloroethylene|Ethanol|Valproic Acid,0,
+lysine-acetylated histone binding,GO:0070577,"Hepatitis, Alcoholic",MESH:D006519,1,Ethanol,0,
+lysophospholipase activity,GO:0004622,Hepatitis,MESH:D006505,0,,1,ENPP2
+macrophage colony-stimulating factor receptor activity,GO:0005011,"Hepatitis, Chronic",MESH:D006521,0,,1,MET
+malate dehydrogenase activity,GO:0016615,Hepatitis,MESH:D006505,1,Acetaminophen,0,
+malate dehydrogenase activity,GO:0016615,Hepatitis B,MESH:D006509,1,Cyclophosphamide,0,
+malate dehydrogenase activity,GO:0016615,"Hepatitis, Chronic",MESH:D006521,1,Cyclophosphamide,0,
+malic enzyme activity,GO:0004470,Hepatitis,MESH:D006505,3,Copper|Dietary Fats|Monocrotophos,0,
+malic enzyme activity,GO:0004470,"Hepatitis, Animal",MESH:D006520,2,Copper|Dietary Fats,0,
+malic enzyme activity,GO:0004470,"Hepatitis, Chronic",MESH:D006521,1,Copper,0,
+mannose binding,GO:0005537,Hepatitis C,MESH:D006526,0,,1,CD209
+MAP kinase activity,GO:0004707,Hepatitis,MESH:D006505,1,Acetylcysteine,0,
+MAP kinase activity,GO:0004707,"Hepatitis, Alcoholic",MESH:D006519,1,diallyl disulfide,0,
+MAP kinase activity,GO:0004707,"Hepatitis C, Chronic",MESH:D019698,1,Vitamin A,0,
+MAP kinase activity,GO:0004707,"Hepatitis, Viral, Human",MESH:D006525,1,allyl sulfide,0,
+medium-chain fatty acid-CoA ligase activity,GO:0031956,"Hepatitis, Chronic",MESH:D006521,0,,1,ATOX1
+metal ion binding,GO:0046872,Hepatitis,MESH:D006505,0,,8,ALB|ATP7B|CAT|ENPP2|HMOX1|PARP1|SPARC|TF
+metal ion binding,GO:0046872,"Hepatitis, Alcoholic",MESH:D006519,0,,1,STS
+metal ion binding,GO:0046872,"Hepatitis, Autoimmune",MESH:D019693,0,,1,C1S
+metal ion binding,GO:0046872,Hepatitis B,MESH:D006509,0,,3,CYP2A6|LOX|LOXL2
+metal ion binding,GO:0046872,Hepatitis C,MESH:D006526,0,,7,CD209|CYP2A6|CYP3A4|LOX|LOXL2|LPL|RIGI
+metal ion binding,GO:0046872,"Hepatitis C, Chronic",MESH:D019698,0,,1,ITGB6
+metal ion binding,GO:0046872,"Hepatitis, Chronic",MESH:D006521,0,,9,ATOX1|ATP7A|CAT|CCS|COX17|CP|MT1A|SMAD2|SOD1
+metallochaperone activity,GO:0016530,"Hepatitis, Chronic",MESH:D006521,0,,1,ATOX1
+metalloendopeptidase activity,GO:0004222,Hepatitis,MESH:D006505,0,,1,PARP1
+metalloendopeptidase activity,GO:0004222,Hepatitis C,MESH:D006526,0,,1,RIGI
+methylated histone binding,GO:0035064,Hepatitis,MESH:D006505,2,Acetaminophen|Dichlorodiphenyl Dichloroethylene,0,
+methyltransferase activity,GO:0008168,Hepatitis,MESH:D006505,0,,1,GNMT
+methyltransferase activity,GO:0008168,"Hepatitis, Chronic",MESH:D006521,0,,1,GNMT
+MHC class II protein binding,GO:0042289,Hepatitis C,MESH:D006526,0,,1,CD81
+MHC class II receptor activity,GO:0032395,"Hepatitis B, Chronic",MESH:D019694,0,,1,HLA-DPA1
+modified amino acid binding,GO:0072341,Hepatitis,MESH:D006505,0,,1,ALB
+molecular adaptor activity,GO:0060090,"Hepatitis, Autoimmune",MESH:D019693,0,,1,ALDOB
+molecular adaptor activity,GO:0060090,Hepatitis B,MESH:D006509,0,,1,LOX
+molecular adaptor activity,GO:0060090,Hepatitis C,MESH:D006526,0,,1,LOX
+molecular condensate scaffold activity,GO:0140693,"Hepatitis, Chronic",MESH:D006521,0,,1,MKI67
+molecular_function,GO:0003674,Hepatitis,MESH:D006505,0,,1,ALB
+molecular_function,GO:0003674,Hepatitis B,MESH:D006509,0,,2,MIR122|MIR192
+molecular function activator activity,GO:0140677,"Hepatitis C, Chronic",MESH:D019698,0,,1,ITGB6
+molecular function activator activity,GO:0140677,"Hepatitis, Chronic",MESH:D006521,0,,1,MET
+monoamine oxidase activity,GO:0097621,"Hepatitis C, Chronic",MESH:D019698,1,Vitamin A,0,
+monoatomic cation channel activity,GO:0005261,Hepatitis,MESH:D006505,2,Glyburide|Lipopolysaccharides,0,
+monooxygenase activity,GO:0004497,Hepatitis,MESH:D006505,1,Sulpiride,0,
+monooxygenase activity,GO:0004497,"Hepatitis, Animal",MESH:D006520,0,,1,CYP4A14
+monooxygenase activity,GO:0004497,Hepatitis B,MESH:D006509,0,,1,CYP2A6
+monooxygenase activity,GO:0004497,Hepatitis C,MESH:D006526,0,,2,CYP2A6|CYP3A4
+morphine receptor activity,GO:0038047,Hepatitis C,MESH:D006526,0,,1,OPRM1
+mRNA 3'-UTR binding,GO:0003730,Hepatitis B,MESH:D006509,0,,8,MIR100|MIR125B2|MIR192|MIR193B|MIR204|MIR28|MIR455|MIR885
+mRNA 3'-UTR binding,GO:0003730,"Hepatitis B, Chronic",MESH:D019694,0,,1,MIR885
+mRNA base-pairing translational repressor activity,GO:1903231,Hepatitis B,MESH:D006509,0,,15,MIR100|MIR125B2|MIR148A|MIR192|MIR193B|MIR194-2|MIR204|MIR28|MIR365A|MIR365B|MIR378A|MIR455|MIR885|MIR99A|MIRLET7C
+mRNA base-pairing translational repressor activity,GO:1903231,"Hepatitis B, Chronic",MESH:D019694,0,,1,MIR885
+NAD+ ADP-ribosyltransferase activity,GO:0003950,Hepatitis,MESH:D006505,0,,1,PARP1
+NAD binding,GO:0051287,Hepatitis,MESH:D006505,0,,1,PARP1
+NAD DNA ADP-ribosyltransferase activity,GO:0140294,Hepatitis,MESH:D006505,0,,1,PARP1
+NADH dehydrogenase activity,GO:0003954,Hepatitis,MESH:D006505,1,Galactosamine,0,
+NADH dehydrogenase (ubiquinone) activity,GO:0008137,Hepatitis,MESH:D006505,20,Acetaminophen|Acetylcysteine|Atorvastatin|Chloroquine|cypermethrin|Dietary Fats|Ethanol|Lipopolysaccharides|Methionine|Minocycline|Monocrotophos|Oxygen|perfluorooctanoic acid|Resveratrol|Risperidone|Rosiglitazone|Telbivudine|Thioacetamide|Valproic Acid|zinc protoporphyrin,0,
+NADH dehydrogenase (ubiquinone) activity,GO:0008137,"Hepatitis, Alcoholic",MESH:D006519,1,Ethanol,0,
+NADH dehydrogenase (ubiquinone) activity,GO:0008137,"Hepatitis, Animal",MESH:D006520,4,deoxynivalenol|Dietary Fats|Methionine|Oleic Acid,0,
+NADH dehydrogenase (ubiquinone) activity,GO:0008137,"Hepatitis, Autoimmune",MESH:D019693,4,Atorvastatin|celastrol|Mercuric Chloride|Minocycline,0,
+NADH dehydrogenase (ubiquinone) activity,GO:0008137,Hepatitis B,MESH:D006509,2,Cyclophosphamide|Telbivudine,0,
+NADH dehydrogenase (ubiquinone) activity,GO:0008137,"Hepatitis B, Chronic",MESH:D019694,2,Cyclosporine|Telbivudine,0,
+NADH dehydrogenase (ubiquinone) activity,GO:0008137,Hepatitis C,MESH:D006526,2,Cyclosporine|Resveratrol,0,
+NADH dehydrogenase (ubiquinone) activity,GO:0008137,"Hepatitis C, Chronic",MESH:D019698,1,Bezafibrate,0,
+NADH dehydrogenase (ubiquinone) activity,GO:0008137,"Hepatitis, Chronic",MESH:D006521,3,Chlorpromazine|Cyclophosphamide|Minocycline,0,
+NAD+-histone H2BE18 glutamate ADP-ribosyltransferase activity,GO:0140867,Hepatitis,MESH:D006505,0,,1,PARP1
+NAD+-histone H2BE2 glutamate ADP-ribosyltransferase activity,GO:0140844,Hepatitis,MESH:D006505,0,,1,PARP1
+NAD+-histone H2BE35 glutamate ADP-ribosyltransferase activity,GO:0140822,Hepatitis,MESH:D006505,0,,1,PARP1
+NAD+-histone H2BS6 serine ADP-ribosyltransferase activity,GO:0140816,Hepatitis,MESH:D006505,0,,1,PARP1
+NAD+-histone H3S10 serine ADP-ribosyltransferase activity,GO:0140817,Hepatitis,MESH:D006505,0,,1,PARP1
+NADP binding,GO:0050661,Hepatitis,MESH:D006505,0,,1,CAT
+NADP binding,GO:0050661,"Hepatitis, Chronic",MESH:D006521,0,,1,CAT
+NAD(P)H oxidase H2O2-forming activity,GO:0016174,Hepatitis,MESH:D006505,4,Aluminum Chloride|Atorvastatin|Lipopolysaccharides|Resveratrol,0,
+NAD(P)H oxidase H2O2-forming activity,GO:0016174,"Hepatitis, Autoimmune",MESH:D019693,1,Atorvastatin,0,
+NAD(P)H oxidase H2O2-forming activity,GO:0016174,Hepatitis C,MESH:D006526,1,Resveratrol,0,
+NAD+-protein ADP-ribosyltransferase activity,GO:1990404,Hepatitis,MESH:D006505,0,,1,PARP1
+NAD+- protein-aspartate ADP-ribosyltransferase activity,GO:0140806,Hepatitis,MESH:D006505,0,,1,PARP1
+NAD+-protein-glutamate ADP-ribosyltransferase activity,GO:0140807,Hepatitis,MESH:D006505,0,,1,PARP1
+NAD+-protein-histidine ADP-ribosyltransferase activity,GO:0140815,Hepatitis,MESH:D006505,0,,1,PARP1
+NAD+-protein-serine ADP-ribosyltransferase activity,GO:0140805,Hepatitis,MESH:D006505,0,,1,PARP1
+NAD+-protein-tyrosine ADP-ribosyltransferase activity,GO:0140808,Hepatitis,MESH:D006505,0,,1,PARP1
+neuropeptide binding,GO:0042923,Hepatitis C,MESH:D006526,0,,1,OPRM1
+NF-kappaB binding,GO:0051059,Hepatitis,MESH:D006505,3,Ethanol|Etoposide|Lipopolysaccharides,0,
+NF-kappaB binding,GO:0051059,"Hepatitis, Alcoholic",MESH:D006519,1,Ethanol,0,
+NF-kappaB binding,GO:0051059,Hepatitis C,MESH:D006526,1,platycodin D,0,
+nitric-oxide synthase activity,GO:0004517,Hepatitis,MESH:D006505,6,"Caffeine|Chloroquine|Dietary Fats|Drugs, Chinese Herbal|Methamphetamine|Resveratrol",0,
+nitric-oxide synthase activity,GO:0004517,Hepatitis A,MESH:D006506,1,Glycyrrhizic Acid,0,
+nitric-oxide synthase activity,GO:0004517,"Hepatitis, Animal",MESH:D006520,1,Dietary Fats,0,
+nitric-oxide synthase activity,GO:0004517,Hepatitis C,MESH:D006526,1,Resveratrol,0,
+nuclear estrogen receptor activity,GO:0030284,"Hepatitis, Animal",MESH:D006520,1,deoxynivalenol,0,
+nuclear estrogen receptor binding,GO:0030331,Hepatitis,MESH:D006505,0,,1,PARP1
+nuclear glucocorticoid receptor binding,GO:0035259,"Hepatitis, Chronic",MESH:D006521,0,,1,STAT3
+nuclear receptor activity,GO:0004879,"Hepatitis, Chronic",MESH:D006521,0,,2,MET|STAT3
+nucleic acid binding,GO:0003676,Hepatitis,MESH:D006505,0,,1,ENPP2
+nucleic acid binding,GO:0003676,"Hepatitis, Alcoholic",MESH:D006519,0,,1,STS
+nucleic acid binding,GO:0003676,Hepatitis C,MESH:D006526,0,,2,RIGI|SCARB1
+nucleoside triphosphate diphosphatase activity,GO:0047429,Hepatitis,MESH:D006505,1,Metformin,0,
+nucleosome binding,GO:0031491,Hepatitis,MESH:D006505,0,,1,PARP1
+nucleotide binding,GO:0000166,Hepatitis,MESH:D006505,0,,1,ATP7B
+nucleotide binding,GO:0000166,Hepatitis C,MESH:D006526,0,,1,RIGI
+nucleotide binding,GO:0000166,"Hepatitis, Chronic",MESH:D006521,0,,3,ACTA2|ATP7A|MET
+nucleotidyltransferase activity,GO:0016779,Hepatitis,MESH:D006505,0,,1,PARP1
+olfactory receptor activity,GO:0004984,Hepatitis,MESH:D006505,1,perfluorooctanoic acid,0,
+oligosaccharide binding,GO:0070492,Hepatitis B,MESH:D006509,0,,1,LOXL2
+oligosaccharide binding,GO:0070492,Hepatitis C,MESH:D006526,0,,1,LOXL2
+ornithine carbamoyltransferase activity,GO:0004585,Hepatitis,MESH:D006505,1,Carbon Tetrachloride,0,
+ornithine decarboxylase inhibitor activity,GO:0008073,Hepatitis,MESH:D006505,1,Vinblastine,0,
+oxidoreductase activity,GO:0016491,Hepatitis,MESH:D006505,0,,1,CAT
+oxidoreductase activity,GO:0016491,Hepatitis B,MESH:D006509,0,,2,LOX|LOXL2
+oxidoreductase activity,GO:0016491,Hepatitis C,MESH:D006526,0,,3,CYP3A4|LOX|LOXL2
+oxidoreductase activity,GO:0016491,"Hepatitis, Chronic",MESH:D006521,0,,3,CAT|CP|SOD1
+"oxidoreductase activity, acting on metal ions, oxygen as acceptor",GO:0016724,"Hepatitis, Chronic",MESH:D006521,0,,1,CP
+"oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen",GO:0016705,"Hepatitis, Animal",MESH:D006520,0,,1,CYP4A14
+"oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen",GO:0016705,Hepatitis C,MESH:D006526,0,,1,CYP3A4
+"oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, reduced flavin or flavoprotein as one donor, and incorporation of one atom of oxygen",GO:0016712,Hepatitis,MESH:D006505,2,Diethylnitrosamine|Phenobarbital,0,
+"oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, reduced flavin or flavoprotein as one donor, and incorporation of one atom of oxygen",GO:0016712,Hepatitis B,MESH:D006509,0,,1,CYP2A6
+"oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, reduced flavin or flavoprotein as one donor, and incorporation of one atom of oxygen",GO:0016712,Hepatitis C,MESH:D006526,0,,2,CYP2A6|CYP3A4
+"oxidoreductase activity, acting on peroxide as acceptor",GO:0016684,Hepatitis,MESH:D006505,0,,1,CAT
+"oxidoreductase activity, acting on peroxide as acceptor",GO:0016684,"Hepatitis, Chronic",MESH:D006521,0,,1,CAT
+"oxidoreductase activity, acting on the CH-NH2 group of donors, oxygen as acceptor",GO:0016641,Hepatitis B,MESH:D006509,0,,2,LOX|LOXL2
+"oxidoreductase activity, acting on the CH-NH2 group of donors, oxygen as acceptor",GO:0016641,Hepatitis C,MESH:D006526,0,,2,LOX|LOXL2
+oxoglutarate dehydrogenase (succinyl-transferring) activity,GO:0004591,Hepatitis B,MESH:D006509,1,Cyclophosphamide,0,
+oxoglutarate dehydrogenase (succinyl-transferring) activity,GO:0004591,"Hepatitis, Chronic",MESH:D006521,1,Cyclophosphamide,0,
+oxygen binding,GO:0019825,Hepatitis,MESH:D006505,1,Resveratrol,1,ALB
+oxygen binding,GO:0019825,Hepatitis C,MESH:D006526,1,Resveratrol,1,CYP3A4
+palmitoyl-CoA oxidase activity,GO:0016401,Hepatitis,MESH:D006505,1,Phenobarbital,0,
+pattern recognition receptor activity,GO:0038187,Hepatitis C,MESH:D006526,0,,3,RIGI|TLR7|TLR8
+pentosyltransferase activity,GO:0016763,Hepatitis,MESH:D006505,0,,1,PARP1
+peptidase activator activity involved in apoptotic process,GO:0016505,Hepatitis,MESH:D006505,5,Acetylcysteine|Ethanol|Melatonin|Valproic Acid|Vancomycin,0,
+peptidase activator activity involved in apoptotic process,GO:0016505,"Hepatitis, Alcoholic",MESH:D006519,1,Ethanol,0,
+peptidase activator activity involved in apoptotic process,GO:0016505,"Hepatitis, Autoimmune",MESH:D019693,1,Melatonin,0,
+peptidase activity,GO:0008233,Hepatitis,MESH:D006505,0,,1,F2R
+peptidase activity,GO:0008233,"Hepatitis, Chronic",MESH:D006521,1,Diclofenac,1,CASP3
+peptide antigen binding,GO:0042605,"Hepatitis B, Chronic",MESH:D019694,0,,3,HLA-C|HLA-DPA1|HLA-DPB1
+peptide antigen binding,GO:0042605,Hepatitis C,MESH:D006526,0,,2,CD209|HFE
+peptide hormone receptor binding,GO:0051428,"Hepatitis, Autoimmune",MESH:D019693,0,,1,LEP
+peptidyl-dipeptidase activity,GO:0008241,"Hepatitis, Autoimmune",MESH:D019693,1,Mercuric Chloride,0,
+peroxidase activity,GO:0004601,Hepatitis,MESH:D006505,2,Carbon Tetrachloride|Omeprazole,1,CAT
+peroxidase activity,GO:0004601,Hepatitis C,MESH:D006526,1,platycodin D,0,
+peroxidase activity,GO:0004601,"Hepatitis, Chronic",MESH:D006521,0,,2,CAT|GPX1
+phenylalanine-tRNA ligase activity,GO:0004826,"Hepatitis, Autoimmune",MESH:D019693,1,Mercuric Chloride,0,
+phosphatase binding,GO:0019902,"Hepatitis, Chronic",MESH:D006521,0,,1,SMAD2
+phosphatidic acid binding,GO:0070300,"Hepatitis, Chronic",MESH:D006521,0,,1,COMMD1
+phosphatidylcholine binding,GO:0031210,"Hepatitis, Autoimmune",MESH:D019693,0,,1,ALDOB
+"phosphatidylinositol-3,4,5-trisphosphate binding",GO:0005547,"Hepatitis, Chronic",MESH:D006521,0,,1,COMMD1
+"phosphatidylinositol-3,4-bisphosphate binding",GO:0043325,"Hepatitis, Chronic",MESH:D006521,0,,1,COMMD1
+"phosphatidylinositol-3,5-bisphosphate binding",GO:0080025,"Hepatitis, Chronic",MESH:D006521,0,,1,COMMD1
+phosphatidylinositol 3-kinase binding,GO:0043548,"Hepatitis, Chronic",MESH:D006521,0,,1,MET
+"phosphatidylinositol-4,5-bisphosphate binding",GO:0005546,"Hepatitis, Chronic",MESH:D006521,0,,1,COMMD1
+phosphatidylinositol phospholipase C activity,GO:0004435,"Hepatitis, Alcoholic",MESH:D006519,0,,1,CCL5
+phosphatidylinositol phospholipase C activity,GO:0004435,"Hepatitis, Autoimmune",MESH:D019693,0,,1,CCL5
+phosphatidylinositol phospholipase C activity,GO:0004435,Hepatitis C,MESH:D006526,0,,1,CCR5
+phosphatidylserine binding,GO:0001786,Hepatitis C,MESH:D006526,0,,1,SCARB1
+phosphodiesterase I activity,GO:0004528,Hepatitis,MESH:D006505,0,,1,ENPP2
+phosphoenolpyruvate carboxykinase activity,GO:0004611,Hepatitis,MESH:D006505,1,Glyburide,0,
+phosphoglycerate kinase activity,GO:0004618,"Hepatitis, Chronic",MESH:D006521,0,,1,ATP7A
+phospholipase A1 activity,GO:0008970,Hepatitis C,MESH:D006526,0,,1,LPL
+phospholipase A2 activator activity,GO:0016005,"Hepatitis, Chronic",MESH:D006521,0,,1,CASP3
+phospholipase A2 activity,GO:0004623,Hepatitis,MESH:D006505,1,Quinacrine,0,
+phospholipase A2 activity,GO:0004623,"Hepatitis, Autoimmune",MESH:D019693,1,Indomethacin,0,
+phospholipase A2 activity,GO:0004623,Hepatitis B,MESH:D006509,1,Indomethacin,0,
+phospholipase A2 activity,GO:0004623,"Hepatitis C, Chronic",MESH:D019698,1,Indomethacin,0,
+phospholipase A2 activity,GO:0004623,"Hepatitis, Chronic",MESH:D006521,1,Diclofenac,0,
+phospholipase activator activity,GO:0016004,"Hepatitis, Alcoholic",MESH:D006519,0,,1,CCL5
+phospholipase activator activity,GO:0016004,"Hepatitis, Autoimmune",MESH:D019693,0,,1,CCL5
+phospholipase activity,GO:0004620,Hepatitis C,MESH:D006526,0,,1,LPL
+phospholipase binding,GO:0043274,"Hepatitis, Chronic",MESH:D006521,0,,1,MET
+phospholipase D activity,GO:0004630,Hepatitis,MESH:D006505,0,,2,ENPP2|HMOX1
+phospholipid-hydroperoxide glutathione peroxidase activity,GO:0047066,"Hepatitis, Chronic",MESH:D006521,0,,2,CP|GPX1
+phosphoric diester hydrolase activity,GO:0008081,Hepatitis,MESH:D006505,0,,1,ENPP2
+placental growth factor receptor activity,GO:0036332,"Hepatitis, Chronic",MESH:D006521,0,,1,MET
+platelet-derived growth factor alpha-receptor activity,GO:0005018,"Hepatitis, Chronic",MESH:D006521,0,,1,MET
+platelet-derived growth factor beta-receptor activity,GO:0005019,"Hepatitis, Chronic",MESH:D006521,0,,1,MET
+polysaccharide binding,GO:0030247,Hepatitis,MESH:D006505,0,,1,ENPP2
+pore-forming activity,GO:0140911,"Hepatitis, Animal",MESH:D006520,1,deoxynivalenol,0,
+primary miRNA binding,GO:0070878,"Hepatitis, Chronic",MESH:D006521,0,,1,STAT3
+prostaglandin-endoperoxide synthase activity,GO:0004666,"Hepatitis, Chronic",MESH:D006521,1,Diclofenac,0,
+protease binding,GO:0002020,Hepatitis,MESH:D006505,0,,2,INS|TNF
+protease binding,GO:0002020,"Hepatitis, Alcoholic",MESH:D006519,0,,1,TNF
+protease binding,GO:0002020,"Hepatitis, Animal",MESH:D006520,0,,1,LCN2
+protease binding,GO:0002020,"Hepatitis, Chronic",MESH:D006521,0,,1,CASP3
+proteasome binding,GO:0070628,"Hepatitis, Animal",MESH:D006520,0,,1,UBD
+protein arginine kinase activity,GO:1990424,Hepatitis,MESH:D006505,1,perfluorooctanoic acid,0,
+protein binding,GO:0005515,Hepatitis,MESH:D006505,0,,14,ALB|ATP7B|F2R|FASLG|GNMT|GZMB|HMOX1|IFNG|INS|KEAP1|PARP1|SPARC|TF|TNF
+protein binding,GO:0005515,"Hepatitis, Alcoholic",MESH:D006519,0,,4,CCL5|CXCL8|SULT1E1|TNF
+protein binding,GO:0005515,"Hepatitis, Animal",MESH:D006520,0,,3,LCN2|TFF3|UBD
+protein binding,GO:0005515,"Hepatitis, Autoimmune",MESH:D019693,0,,16,ALDOB|C1S|CCL2|CCL5|CXCL1|IFNG|IL10|IL13|IL18|IL2|IL22|IL4|IL5|IL6|LEP|TGFB1
+protein binding,GO:0005515,Hepatitis B,MESH:D006509,0,,13,CYP2A6|HP|IFNA1|IFNA2|IFNAR2|IFNB1|IFNG|IFNGR1|IL10RB|LOX|LOXL2|SLC10A1|STAT4
+protein binding,GO:0005515,"Hepatitis B, Chronic",MESH:D019694,0,,7,CCN2|HLA-C|HLA-DPA1|HLA-DPB1|HP|IFNA2|UBE2L3
+protein binding,GO:0005515,Hepatitis C,MESH:D006526,0,,17,C1QC|CCR5|CD209|CD81|CYP2A6|CYP3A4|HFE|IFNA2|IFNG|LOX|LOXL2|LPL|OPRM1|RIGI|SCARB1|TLR7|TLR8
+protein binding,GO:0005515,"Hepatitis C, Chronic",MESH:D019698,0,,3,HP|IFNA2|ITGB6
+protein binding,GO:0005515,"Hepatitis, Chronic",MESH:D006521,0,,20,ACTA2|ATOX1|ATP7A|CASP3|CCS|COMMD1|COX17|GNMT|GPX1|HGF|IFNA2|KRT19|KRT7|MET|MKI67|MT1A|SMAD2|SOD1|STAT3|TGFB1
+protein-containing complex binding,GO:0044877,"Hepatitis, Autoimmune",MESH:D019693,0,,1,TGFB1
+protein-containing complex binding,GO:0044877,"Hepatitis, Chronic",MESH:D006521,0,,5,CASP3|HGF|KRT19|MET|TGFB1
+protein dimerization activity,GO:0046983,Hepatitis,MESH:D006505,0,,1,PARP1
+protein dimerization activity,GO:0046983,"Hepatitis, Autoimmune",MESH:D019693,0,,1,IL10
+protein dimerization activity,GO:0046983,"Hepatitis, Chronic",MESH:D006521,0,,3,ATP7A|MET|STAT3
+protein disulfide isomerase activity,GO:0003756,Hepatitis,MESH:D006505,1,Methamphetamine,0,
+protein-disulfide reductase activity,GO:0015035,"Hepatitis, Chronic",MESH:D006521,0,,1,CCS
+protein domain specific binding,GO:0019904,Hepatitis C,MESH:D006526,0,,1,OPRM1
+protein-glutamine gamma-glutamyltransferase activity,GO:0003810,Hepatitis,MESH:D006505,3,Thioacetamide|Ursodeoxycholic Acid|Valproic Acid,0,
+protein-glutamine gamma-glutamyltransferase activity,GO:0003810,Hepatitis B,MESH:D006509,1,Cyclophosphamide,0,
+protein-glutamine gamma-glutamyltransferase activity,GO:0003810,"Hepatitis B, Chronic",MESH:D019694,1,Cyclosporine,0,
+protein-glutamine gamma-glutamyltransferase activity,GO:0003810,Hepatitis C,MESH:D006526,1,Cyclosporine,0,
+protein-glutamine gamma-glutamyltransferase activity,GO:0003810,"Hepatitis C, Chronic",MESH:D019698,1,Ursodeoxycholic Acid,0,
+protein-glutamine gamma-glutamyltransferase activity,GO:0003810,"Hepatitis, Chronic",MESH:D006521,2,Cyclophosphamide|Ursodeoxycholic Acid,0,
+protein homodimerization activity,GO:0042803,Hepatitis,MESH:D006505,0,,3,CAT|HMOX1|PARP1
+protein homodimerization activity,GO:0042803,"Hepatitis, Alcoholic",MESH:D006519,0,,1,CCL5
+protein homodimerization activity,GO:0042803,"Hepatitis, Autoimmune",MESH:D019693,0,,1,CCL5
+protein homodimerization activity,GO:0042803,Hepatitis C,MESH:D006526,0,,1,LPL
+protein homodimerization activity,GO:0042803,"Hepatitis, Chronic",MESH:D006521,0,,4,CAT|COMMD1|SOD1|STAT3
+protein kinase activity,GO:0004672,"Hepatitis, Alcoholic",MESH:D006519,0,,1,CCL5
+protein kinase activity,GO:0004672,"Hepatitis, Autoimmune",MESH:D019693,0,,2,CCL2|CCL5
+protein kinase activity,GO:0004672,"Hepatitis, Chronic",MESH:D006521,0,,1,MET
+protein kinase binding,GO:0019901,Hepatitis,MESH:D006505,0,,1,PARP1
+protein kinase binding,GO:0019901,Hepatitis B,MESH:D006509,0,,1,IFNAR2
+protein kinase binding,GO:0019901,Hepatitis C,MESH:D006526,0,,1,CCR5
+protein kinase binding,GO:0019901,"Hepatitis, Chronic",MESH:D006521,0,,2,ACTA2|STAT3
+protein kinase C activity,GO:0004697,Hepatitis,MESH:D006505,5,Choline|DDT|Dichlorodiphenyl Dichloroethylene|Methionine|Trichloroethylene,0,
+protein kinase C activity,GO:0004697,"Hepatitis, Animal",MESH:D006520,2,Choline|Methionine,0,
+protein kinase C activity,GO:0004697,"Hepatitis, Autoimmune",MESH:D019693,1,Trichloroethylene,0,
+protein-lysine 6-oxidase activity,GO:0004720,Hepatitis B,MESH:D006509,0,,2,LOX|LOXL2
+protein-lysine 6-oxidase activity,GO:0004720,Hepatitis C,MESH:D006526,0,,2,LOX|LOXL2
+protein-membrane adaptor activity,GO:0043495,Hepatitis C,MESH:D006526,0,,1,LPL
+protein phosphatase 2B binding,GO:0030346,"Hepatitis, Chronic",MESH:D006521,0,,1,SOD1
+protein phosphatase binding,GO:0019903,"Hepatitis, Chronic",MESH:D006521,0,,2,MET|STAT3
+protein sequestering activity,GO:0140311,"Hepatitis, Chronic",MESH:D006521,0,,1,STAT3
+protein serine/threonine kinase activator activity,GO:0043539,"Hepatitis, Autoimmune",MESH:D019693,0,,1,TGFB1
+protein serine/threonine kinase activator activity,GO:0043539,"Hepatitis, Chronic",MESH:D006521,0,,1,TGFB1
+protein serine/threonine phosphatase activity,GO:0004722,"Hepatitis B, Chronic",MESH:D019694,1,Cyclosporine,0,
+protein serine/threonine phosphatase activity,GO:0004722,Hepatitis C,MESH:D006526,1,Cyclosporine,0,
+protein tag,GO:0031386,Hepatitis C,MESH:D006526,0,,1,SCARB1
+protein tyrosine kinase activity,GO:0004713,"Hepatitis, Chronic",MESH:D006521,0,,1,MET
+protein tyrosine kinase collagen receptor activity,GO:0038062,"Hepatitis, Chronic",MESH:D006521,0,,1,MET
+protein tyrosine phosphatase activity,GO:0004725,Hepatitis,MESH:D006505,1,Acetylcysteine,0,
+"proton-transporting ATPase activity, rotational mechanism",GO:0046961,Hepatitis,MESH:D006505,2,perfluorooctanoic acid|Resveratrol,0,
+"proton-transporting ATPase activity, rotational mechanism",GO:0046961,Hepatitis C,MESH:D006526,1,Resveratrol,0,
+"proton-transporting ATPase activity, rotational mechanism",GO:0046961,"Hepatitis, Chronic",MESH:D006521,1,Chlorpromazine,0,
+"proton-transporting ATP synthase activity, rotational mechanism",GO:0046933,Hepatitis,MESH:D006505,1,Monocrotophos,0,
+P-type calcium transporter activity,GO:0005388,Hepatitis,MESH:D006505,1,Lipopolysaccharides,0,
+P-type divalent copper transporter activity,GO:0043682,Hepatitis,MESH:D006505,0,,1,ATP7B
+P-type divalent copper transporter activity,GO:0043682,"Hepatitis, Chronic",MESH:D006521,0,,1,ATP7A
+P-type monovalent copper transporter activity,GO:0140581,Hepatitis,MESH:D006505,0,,1,ATP7B
+P-type monovalent copper transporter activity,GO:0140581,"Hepatitis, Chronic",MESH:D006521,0,,1,ATP7A
+P-type potassium:proton transporter activity,GO:0008900,Hepatitis,MESH:D006505,1,Omeprazole,0,
+P-type sodium:potassium-exchanging transporter activity,GO:0005391,Hepatitis,MESH:D006505,11,Acetylcysteine|Aluminum Chloride|Atorvastatin|Dietary Fats|Ethanol|Fenofibrate|Glyburide|Lipopolysaccharides|Resveratrol|Valproic Acid|Zinc Sulfate,0,
+P-type sodium:potassium-exchanging transporter activity,GO:0005391,"Hepatitis, Alcoholic",MESH:D006519,1,Ethanol,0,
+P-type sodium:potassium-exchanging transporter activity,GO:0005391,"Hepatitis, Animal",MESH:D006520,1,Dietary Fats,0,
+P-type sodium:potassium-exchanging transporter activity,GO:0005391,"Hepatitis, Autoimmune",MESH:D019693,2,Atorvastatin|Indomethacin,0,
+P-type sodium:potassium-exchanging transporter activity,GO:0005391,Hepatitis B,MESH:D006509,1,Indomethacin,0,
+P-type sodium:potassium-exchanging transporter activity,GO:0005391,Hepatitis C,MESH:D006526,2,Resveratrol|Vitamin E,0,
+P-type sodium:potassium-exchanging transporter activity,GO:0005391,"Hepatitis C, Chronic",MESH:D019698,1,Indomethacin,0,
+P-type sodium:potassium-exchanging transporter activity,GO:0005391,"Hepatitis, Chronic",MESH:D006521,2,Chlorpromazine|Fenofibrate,0,
+pyridoxal phosphate binding,GO:0030170,Hepatitis,MESH:D006505,0,,1,ALB
+pyruvate dehydrogenase (acetyl-transferring) activity,GO:0004739,Hepatitis,MESH:D006505,1,Dietary Fats,0,
+pyruvate dehydrogenase (acetyl-transferring) activity,GO:0004739,"Hepatitis, Animal",MESH:D006520,1,Dietary Fats,0,
+pyruvate dehydrogenase (acetyl-transferring) activity,GO:0004739,"Hepatitis, Autoimmune",MESH:D019693,1,celastrol,0,
+pyruvate dehydrogenase activity,GO:0004738,Hepatitis,MESH:D006505,1,Dietary Fats,0,
+pyruvate dehydrogenase activity,GO:0004738,"Hepatitis, Animal",MESH:D006520,1,Dietary Fats,0,
+pyruvate kinase activity,GO:0004743,Hepatitis,MESH:D006505,3,Clotrimazole|Imatinib Mesylate|Monocrotophos,0,
+pyruvate kinase activity,GO:0004743,"Hepatitis, Autoimmune",MESH:D019693,1,Imatinib Mesylate,0,
+quinine 3-monooxygenase activity,GO:0050591,Hepatitis C,MESH:D006526,0,,1,CYP3A4
+receptor ligand activity,GO:0048018,Hepatitis,MESH:D006505,0,,1,TNF
+receptor ligand activity,GO:0048018,"Hepatitis, Alcoholic",MESH:D006519,0,,1,TNF
+receptor ligand activity,GO:0048018,"Hepatitis, Autoimmune",MESH:D019693,0,,1,IL18
+receptor signaling protein tyrosine kinase activator activity,GO:0030298,"Hepatitis, Alcoholic",MESH:D006519,0,,1,CCL5
+receptor signaling protein tyrosine kinase activator activity,GO:0030298,"Hepatitis, Autoimmune",MESH:D019693,0,,1,CCL5
+retinoic acid 4-hydroxylase activity,GO:0008401,Hepatitis C,MESH:D006526,0,,1,CYP3A4
+Rho-dependent protein serine/threonine kinase activity,GO:0072518,Hepatitis,MESH:D006505,1,Oxygen,0,
+RNA binding,GO:0003723,Hepatitis,MESH:D006505,0,,1,SPARC
+RNA binding,GO:0003723,Hepatitis B,MESH:D006509,0,,1,MIR125B2
+RNA binding,GO:0003723,Hepatitis C,MESH:D006526,0,,2,RIGI|TLR8
+RNA binding,GO:0003723,"Hepatitis, Chronic",MESH:D006521,0,,2,MKI67|STAT3
+RNA helicase activity,GO:0003724,Hepatitis C,MESH:D006526,0,,1,RIGI
+RNA polymerase II cis-regulatory region sequence-specific DNA binding,GO:0000978,Hepatitis B,MESH:D006509,0,,2,LOX|STAT4
+RNA polymerase II cis-regulatory region sequence-specific DNA binding,GO:0000978,Hepatitis C,MESH:D006526,0,,1,LOX
+RNA polymerase II cis-regulatory region sequence-specific DNA binding,GO:0000978,"Hepatitis, Chronic",MESH:D006521,0,,3,MET|SMAD2|STAT3
+RNA polymerase II-specific DNA-binding transcription factor binding,GO:0061629,Hepatitis,MESH:D006505,0,,2,KEAP1|PARP1
+RNA polymerase II-specific DNA-binding transcription factor binding,GO:0061629,"Hepatitis, Chronic",MESH:D006521,0,,3,MET|SMAD2|STAT3
+RNA sequestering activity,GO:0140610,"Hepatitis, Chronic",MESH:D006521,0,,1,STAT3
+R-SMAD binding,GO:0070412,Hepatitis,MESH:D006505,0,,1,PARP1
+R-SMAD binding,GO:0070412,"Hepatitis, Chronic",MESH:D006521,0,,1,SMAD2
+S-adenosyl-L-methionine binding,GO:1904047,Hepatitis,MESH:D006505,0,,1,GNMT
+S-adenosyl-L-methionine binding,GO:1904047,"Hepatitis, Chronic",MESH:D006521,0,,1,GNMT
+S-adenosylmethionine-dependent methyltransferase activity,GO:0008757,Hepatitis,MESH:D006505,0,,1,GNMT
+S-adenosylmethionine-dependent methyltransferase activity,GO:0008757,"Hepatitis, Chronic",MESH:D006521,0,,1,GNMT
+scavenger receptor activity,GO:0005044,Hepatitis,MESH:D006505,0,,1,ENPP2
+scavenger receptor activity,GO:0005044,Hepatitis C,MESH:D006526,0,,1,SCARB1
+selenol Se-methyltransferase activity,GO:0098603,Hepatitis,MESH:D006505,0,,1,GNMT
+selenol Se-methyltransferase activity,GO:0098603,"Hepatitis, Chronic",MESH:D006521,0,,1,GNMT
+semaphorin receptor activity,GO:0017154,"Hepatitis, Chronic",MESH:D006521,0,,1,MET
+sequence-specific DNA binding,GO:0043565,Hepatitis B,MESH:D006509,0,,1,STAT4
+sequence-specific DNA binding,GO:0043565,"Hepatitis, Chronic",MESH:D006521,0,,2,SMAD2|STAT3
+serine-type endopeptidase activity,GO:0004252,Hepatitis,MESH:D006505,0,,1,GZMB
+serine-type endopeptidase activity,GO:0004252,"Hepatitis, Autoimmune",MESH:D019693,0,,1,C1S
+serine-type endopeptidase activity,GO:0004252,Hepatitis B,MESH:D006509,0,,1,HP
+serine-type endopeptidase activity,GO:0004252,"Hepatitis B, Chronic",MESH:D019694,0,,1,HP
+serine-type endopeptidase activity,GO:0004252,"Hepatitis C, Chronic",MESH:D019698,0,,1,HP
+serine-type endopeptidase activity,GO:0004252,"Hepatitis, Chronic",MESH:D006521,0,,1,HGF
+serine-type endopeptidase inhibitor activity,GO:0004867,"Hepatitis, Animal",MESH:D006520,0,,1,LCN2
+serine-type peptidase activity,GO:0008236,Hepatitis,MESH:D006505,0,,1,GZMB
+serine-type peptidase activity,GO:0008236,"Hepatitis, Autoimmune",MESH:D019693,0,,1,C1S
+SH3 domain binding,GO:0017124,"Hepatitis, Chronic",MESH:D006521,0,,1,GPX1
+signaling adaptor activity,GO:0035591,"Hepatitis, Chronic",MESH:D006521,0,,1,STAT3
+signaling receptor activity,GO:0038023,Hepatitis B,MESH:D006509,0,,1,IL10RB
+signaling receptor activity,GO:0038023,Hepatitis C,MESH:D006526,0,,1,TLR8
+signaling receptor activity,GO:0038023,"Hepatitis C, Chronic",MESH:D019698,0,,1,ITGB6
+signaling receptor activity,GO:0038023,"Hepatitis, Chronic",MESH:D006521,0,,1,CP
+signaling receptor binding,GO:0005102,Hepatitis,MESH:D006505,0,,2,F2R|FASLG
+signaling receptor binding,GO:0005102,"Hepatitis, Autoimmune",MESH:D019693,0,,4,CCL2|CXCL1|IL6|LEP
+signaling receptor binding,GO:0005102,Hepatitis C,MESH:D006526,0,,3,HFE|IFNL3|LPL
+signaling receptor binding,GO:0005102,"Hepatitis, Chronic",MESH:D006521,0,,2,HGF|STAT3
+single-stranded RNA binding,GO:0003727,Hepatitis C,MESH:D006526,0,,3,RIGI|TLR7|TLR8
+siRNA binding,GO:0035197,Hepatitis C,MESH:D006526,0,,1,TLR7
+SMAD binding,GO:0046332,"Hepatitis, Chronic",MESH:D006521,0,,1,SMAD2
+small GTPase binding,GO:0031267,"Hepatitis, Chronic",MESH:D006521,0,,2,ATP7A|SOD1
+small molecule binding,GO:0036094,Hepatitis,MESH:D006505,0,,1,ALB
+small molecule binding,GO:0036094,"Hepatitis, Animal",MESH:D006520,0,,1,LCN2
+small molecule binding,GO:0036094,Hepatitis B,MESH:D006509,0,,1,LOX
+small molecule binding,GO:0036094,Hepatitis C,MESH:D006526,0,,1,LOX
+sodium channel activity,GO:0005272,Hepatitis,MESH:D006505,1,Resveratrol,0,
+sodium channel activity,GO:0005272,Hepatitis C,MESH:D006526,1,Resveratrol,0,
+sodium channel inhibitor activity,GO:0019871,"Hepatitis, Chronic",MESH:D006521,0,,1,COMMD1
+starch synthase activity,GO:0009011,Hepatitis,MESH:D006505,1,Dietary Fats,0,
+starch synthase activity,GO:0009011,"Hepatitis, Animal",MESH:D006520,1,Dietary Fats,0,
+stem cell factor receptor activity,GO:0005020,"Hepatitis, Chronic",MESH:D006521,0,,1,MET
+steroid binding,GO:0005496,"Hepatitis, Alcoholic",MESH:D006519,0,,1,SULT1E1
+steroid binding,GO:0005496,Hepatitis C,MESH:D006526,0,,1,CYP3A4
+"steroid dehydrogenase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor",GO:0033764,Hepatitis B,MESH:D006509,1,Cyclophosphamide,0,
+"steroid dehydrogenase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor",GO:0033764,"Hepatitis, Chronic",MESH:D006521,1,Cyclophosphamide,0,
+steroid delta-isomerase activity,GO:0004769,"Hepatitis, Animal",MESH:D006520,1,Linoleic Acid,0,
+steroid delta-isomerase activity,GO:0004769,Hepatitis C,MESH:D006526,1,Linoleic Acid,0,
+steroid hydroxylase activity,GO:0008395,Hepatitis C,MESH:D006526,0,,2,CYP2B1|CYP3A4
+steroid sulfotransferase activity,GO:0050294,"Hepatitis, Alcoholic",MESH:D006519,0,,1,SULT1E1
+sterol 5-alpha reductase activity,GO:0009917,Hepatitis,MESH:D006505,1,Finasteride,0,
+steryl-sulfatase activity,GO:0004773,"Hepatitis, Alcoholic",MESH:D006519,0,,1,STS
+structural constituent of cytoskeleton,GO:0005200,"Hepatitis, Chronic",MESH:D006521,0,,1,KRT19
+structural constituent of muscle,GO:0008307,"Hepatitis, Chronic",MESH:D006521,0,,1,KRT19
+structural constituent of ribosome,GO:0003735,"Hepatitis, Chronic",MESH:D006521,0,,1,COMMD1
+structural constituent of skin epidermis,GO:0030280,"Hepatitis, Chronic",MESH:D006521,0,,1,KRT7
+structural molecule activity,GO:0005198,Hepatitis,MESH:D006505,0,,2,HMOX1|SPARC
+structural molecule activity,GO:0005198,Hepatitis B,MESH:D006509,0,,1,IFNAR2
+structural molecule activity,GO:0005198,"Hepatitis, Chronic",MESH:D006521,0,,1,KRT19
+succinate dehydrogenase activity,GO:0000104,Hepatitis,MESH:D006505,5,Dietary Fats|Galactosamine|Lipopolysaccharides|Methionine|Niacin,0,
+succinate dehydrogenase activity,GO:0000104,"Hepatitis, Animal",MESH:D006520,3,deoxynivalenol|Dietary Fats|Methionine,0,
+succinate dehydrogenase activity,GO:0000104,"Hepatitis, Autoimmune",MESH:D019693,1,celastrol,0,
+succinate dehydrogenase activity,GO:0000104,Hepatitis B,MESH:D006509,1,Cyclophosphamide,0,
+succinate dehydrogenase activity,GO:0000104,"Hepatitis C, Chronic",MESH:D019698,1,Bezafibrate,0,
+succinate dehydrogenase activity,GO:0000104,"Hepatitis, Chronic",MESH:D006521,1,Cyclophosphamide,0,
+succinate dehydrogenase (ubiquinone) activity,GO:0008177,Hepatitis,MESH:D006505,12,Acetaminophen|Acetylcysteine|Aspirin|Chloroquine|Dietary Fats|Ethanol|Melatonin|Monocrotophos|Oxygen|perfluorooctanoic acid|Telbivudine|Valproic Acid,0,
+succinate dehydrogenase (ubiquinone) activity,GO:0008177,"Hepatitis, Alcoholic",MESH:D006519,1,Ethanol,0,
+succinate dehydrogenase (ubiquinone) activity,GO:0008177,"Hepatitis, Animal",MESH:D006520,3,deoxynivalenol|Dietary Fats|Oleic Acid,0,
+succinate dehydrogenase (ubiquinone) activity,GO:0008177,"Hepatitis, Autoimmune",MESH:D019693,3,celastrol|Melatonin|Mercuric Chloride,0,
+succinate dehydrogenase (ubiquinone) activity,GO:0008177,Hepatitis B,MESH:D006509,3,Cyclophosphamide|Heparin|Telbivudine,0,
+succinate dehydrogenase (ubiquinone) activity,GO:0008177,"Hepatitis B, Chronic",MESH:D019694,1,Telbivudine,0,
+succinate dehydrogenase (ubiquinone) activity,GO:0008177,"Hepatitis C, Chronic",MESH:D019698,1,Bezafibrate,0,
+succinate dehydrogenase (ubiquinone) activity,GO:0008177,"Hepatitis, Chronic",MESH:D006521,2,Aspirin|Cyclophosphamide,0,
+sucrose alpha-glucosidase activity,GO:0004575,Hepatitis,MESH:D006505,1,Choline,0,
+sucrose alpha-glucosidase activity,GO:0004575,"Hepatitis, Animal",MESH:D006520,1,Choline,0,
+sulfotransferase activity,GO:0008146,"Hepatitis, Alcoholic",MESH:D006519,0,,1,SULT1E1
+sulfuric ester hydrolase activity,GO:0008484,"Hepatitis, Alcoholic",MESH:D006519,0,,1,STS
+superoxide dismutase activity,GO:0004784,Hepatitis,MESH:D006505,68,"1-Naphthylisothiocyanate|5-Methoxypsoralen|Acetaminophen|Acetylcysteine|Aluminum Chloride|Amiodarone|Aspirin|Atorvastatin|Benzene|Bilirubin|Carbimazole|Carbon Tetrachloride|Chitosan|Chloroquine|Choline|Cimetidine|cobaltiprotoporphyrin|Copper|cypermethrin|DDT|Dietary Fats|Diethylnitrosamine|Drugs, Chinese Herbal|Edaravone|Ethambutol|Ethanol|Famotidine|Finasteride|Flutamide|Furosemide|Galactosamine|Gliclazide|Glyburide|Ibuprofen|Isoniazid|Lipopolysaccharides|manganese(III)-tetrakis(4-benzoic acid)porphyrin|Melatonin|Metformin|Methamphetamine|Methionine|Mycophenolic Acid|Niacin|Nifedipine|Omeprazole|Orlistat|Oxygen|Paroxetine|perfluorooctane sulfonic acid|perfluorooctanoic acid|Phenobarbital|Prednisolone|Propylthiouracil|Pyrazinamide|Ranitidine|Resveratrol|Rifampin|Rosiglitazone|schizandrin B|Sulfasalazine|tectorigenin|Thioacetamide|Thyroxine|Trichloroethylene|Valproic Acid|Vancomycin|zinc protoporphyrin|Zinc Sulfate",0,
+superoxide dismutase activity,GO:0004784,Hepatitis A,MESH:D006506,1,Glycyrrhizic Acid,0,
+superoxide dismutase activity,GO:0004784,"Hepatitis, Alcoholic",MESH:D006519,4,cobaltiprotoporphyrin|diallyl disulfide|Ethanol|Prednisolone,0,
+superoxide dismutase activity,GO:0004784,"Hepatitis, Animal",MESH:D006520,7,Choline|Copper|deoxynivalenol|Dietary Fats|Flutamide|Methionine|Oleic Acid,0,
+superoxide dismutase activity,GO:0004784,"Hepatitis, Autoimmune",MESH:D019693,10,Atorvastatin|celastrol|Indomethacin|Melatonin|Mercuric Chloride|Methylphenidate|Mycophenolic Acid|Plant Preparations|Prednisolone|Trichloroethylene,0,
+superoxide dismutase activity,GO:0004784,Hepatitis B,MESH:D006509,3,baicalin|Cyclophosphamide|Indomethacin,0,
+superoxide dismutase activity,GO:0004784,"Hepatitis B, Chronic",MESH:D019694,4,Colchicine|Cyclosporine|oxymatrine|Prednisolone,0,
+superoxide dismutase activity,GO:0004784,Hepatitis C,MESH:D006526,6,beta Carotene|Cyclosporine|Morphine|Mycophenolic Acid|Resveratrol|Vitamin E,0,
+superoxide dismutase activity,GO:0004784,"Hepatitis C, Chronic",MESH:D019698,5,Bezafibrate|Buprenorphine|Indomethacin|Prednisolone|Vitamin A,0,
+superoxide dismutase activity,GO:0004784,"Hepatitis, Chronic",MESH:D006521,6,Aspirin|Copper|Cyclophosphamide|Diclofenac|Prednisolone|Propylthiouracil,2,CCS|SOD1
+superoxide dismutase activity,GO:0004784,"Hepatitis, Viral, Human",MESH:D006525,1,Iron,0,
+superoxide dismutase copper chaperone activity,GO:0016532,"Hepatitis, Chronic",MESH:D006521,0,,2,ATP7A|CCS
+superoxide-generating NADPH oxidase activity,GO:0106292,Hepatitis,MESH:D006505,1,Methamphetamine,0,
+symporter activity,GO:0015293,Hepatitis B,MESH:D006509,0,,1,SLC10A1
+TAP binding,GO:0046977,"Hepatitis B, Chronic",MESH:D019694,0,,1,HLA-C
+tau protein binding,GO:0048156,"Hepatitis, Chronic",MESH:D006521,0,,1,SMAD2
+telomerase activity,GO:0003720,Hepatitis,MESH:D006505,1,Acetylcysteine,0,
+testosterone 6-beta-hydroxylase activity,GO:0050649,Hepatitis,MESH:D006505,2,Amiodarone|Phenobarbital,0,
+testosterone 6-beta-hydroxylase activity,GO:0050649,Hepatitis C,MESH:D006526,0,,1,CYP3A4
+testosterone dehydrogenase [NAD(P)] activity,GO:0030283,Hepatitis,MESH:D006505,1,cypermethrin,0,
+thioredoxin-disulfide reductase activity,GO:0004791,"Hepatitis, Alcoholic",MESH:D006519,1,diallyl disulfide,0,
+thioredoxin-disulfide reductase activity,GO:0004791,"Hepatitis, Viral, Human",MESH:D006525,2,allyl sulfide|Iron,0,
+thrombin-activated receptor activity,GO:0015057,Hepatitis,MESH:D006505,0,,1,F2R
+Toll-like receptor 4 binding,GO:0035662,Hepatitis,MESH:D006505,1,Chloroquine,0,
+toxic substance binding,GO:0015643,Hepatitis,MESH:D006505,0,,1,ALB
+transcription cis-regulatory region binding,GO:0000976,Hepatitis,MESH:D006505,0,,1,TNF
+transcription cis-regulatory region binding,GO:0000976,"Hepatitis, Alcoholic",MESH:D006519,0,,1,TNF
+transcription cis-regulatory region binding,GO:0000976,"Hepatitis, Chronic",MESH:D006521,0,,1,STAT3
+transcription coactivator activity,GO:0003713,"Hepatitis B, Chronic",MESH:D019694,0,,1,UBE2L3
+transcription factor binding,GO:0008134,Hepatitis,MESH:D006505,0,,1,KEAP1
+transcription regulator activator activity,GO:0140537,Hepatitis,MESH:D006505,0,,1,PARP1
+transcription regulator inhibitor activity,GO:0140416,Hepatitis,MESH:D006505,0,,1,KEAP1
+transferase activity,GO:0016740,Hepatitis,MESH:D006505,0,,2,GNMT|PARP1
+transferase activity,GO:0016740,"Hepatitis, Alcoholic",MESH:D006519,0,,1,SULT1E1
+transferase activity,GO:0016740,"Hepatitis B, Chronic",MESH:D019694,0,,1,UBE2L3
+transferase activity,GO:0016740,"Hepatitis, Chronic",MESH:D006521,0,,2,GNMT|MET
+transferrin receptor binding,GO:1990459,Hepatitis,MESH:D006505,0,,1,TF
+transferrin receptor binding,GO:1990459,Hepatitis C,MESH:D006526,0,,2,CD81|HFE
+transforming growth factor beta receptor binding,GO:0005160,"Hepatitis, Autoimmune",MESH:D019693,0,,1,TGFB1
+transforming growth factor beta receptor binding,GO:0005160,"Hepatitis, Chronic",MESH:D006521,0,,2,SMAD2|TGFB1
+transmembrane-ephrin receptor activity,GO:0005005,"Hepatitis, Chronic",MESH:D006521,0,,1,MET
+transmembrane receptor protein tyrosine kinase activity,GO:0004714,"Hepatitis, Chronic",MESH:D006521,0,,1,MET
+transmembrane signaling receptor activity,GO:0004888,Hepatitis C,MESH:D006526,0,,2,TLR7|TLR8
+transmembrane transporter binding,GO:0044325,Hepatitis,MESH:D006505,0,,1,TF
+transporter activity,GO:0005215,Hepatitis,MESH:D006505,0,,1,ATP7B
+transporter activity,GO:0005215,"Hepatitis, Chronic",MESH:D006521,0,,1,ATP7A
+trehalose-phosphatase activity,GO:0004805,"Hepatitis B, Chronic",MESH:D019694,1,Levamisole,0,
+triglyceride binding,GO:0017129,Hepatitis C,MESH:D006526,0,,1,LPL
+triglyceride lipase activity,GO:0004806,Hepatitis,MESH:D006505,1,Dietary Fats,0,
+triglyceride lipase activity,GO:0004806,"Hepatitis, Animal",MESH:D006520,1,Dietary Fats,0,
+triglyceride lipase activity,GO:0004806,Hepatitis C,MESH:D006526,0,,1,LPL
+"tryptophan 2,3-dioxygenase activity",GO:0004833,Hepatitis B,MESH:D006509,1,Cyclophosphamide,0,
+"tryptophan 2,3-dioxygenase activity",GO:0004833,"Hepatitis, Chronic",MESH:D006521,1,Cyclophosphamide,0,
+tumor necrosis factor receptor binding,GO:0005164,Hepatitis,MESH:D006505,0,,2,FASLG|TNF
+tumor necrosis factor receptor binding,GO:0005164,"Hepatitis, Alcoholic",MESH:D006519,0,,1,TNF
+type II interferon receptor activity,GO:0004906,Hepatitis B,MESH:D006509,0,,1,IFNGR1
+type II interferon receptor binding,GO:0005133,Hepatitis,MESH:D006505,0,,1,IFNG
+type II interferon receptor binding,GO:0005133,"Hepatitis, Autoimmune",MESH:D019693,0,,1,IFNG
+type II interferon receptor binding,GO:0005133,Hepatitis B,MESH:D006509,0,,1,IFNG
+type II interferon receptor binding,GO:0005133,Hepatitis C,MESH:D006526,0,,1,IFNG
+type III transforming growth factor beta receptor binding,GO:0034714,"Hepatitis, Autoimmune",MESH:D019693,0,,1,TGFB1
+type III transforming growth factor beta receptor binding,GO:0034714,"Hepatitis, Chronic",MESH:D006521,0,,1,TGFB1
+type I interferon binding,GO:0019962,Hepatitis B,MESH:D006509,0,,1,IFNAR2
+type I interferon receptor activity,GO:0004905,Hepatitis B,MESH:D006509,0,,1,IFNAR2
+type I interferon receptor binding,GO:0005132,Hepatitis B,MESH:D006509,0,,3,IFNA1|IFNA2|IFNB1
+type I interferon receptor binding,GO:0005132,"Hepatitis B, Chronic",MESH:D019694,0,,1,IFNA2
+type I interferon receptor binding,GO:0005132,Hepatitis C,MESH:D006526,0,,1,IFNA2
+type I interferon receptor binding,GO:0005132,"Hepatitis C, Chronic",MESH:D019698,0,,2,IFNA|IFNA2
+type I interferon receptor binding,GO:0005132,"Hepatitis, Chronic",MESH:D006521,0,,1,IFNA2
+type II transforming growth factor beta receptor binding,GO:0005114,"Hepatitis, Autoimmune",MESH:D019693,0,,1,TGFB1
+type II transforming growth factor beta receptor binding,GO:0005114,"Hepatitis, Chronic",MESH:D006521,0,,1,TGFB1
+type I transforming growth factor beta receptor binding,GO:0034713,"Hepatitis, Autoimmune",MESH:D019693,0,,1,TGFB1
+type I transforming growth factor beta receptor binding,GO:0034713,"Hepatitis, Chronic",MESH:D006521,0,,2,SMAD2|TGFB1
+ubiquinol-cytochrome-c reductase activity,GO:0008121,Hepatitis,MESH:D006505,5,Acetaminophen|Chloroquine|Oxygen|perfluorooctanoic acid|Thioacetamide,0,
+ubiquinol-cytochrome-c reductase activity,GO:0008121,"Hepatitis, Animal",MESH:D006520,2,deoxynivalenol|Oleic Acid,0,
+ubiquinol-cytochrome-c reductase activity,GO:0008121,"Hepatitis, Autoimmune",MESH:D019693,1,Mercuric Chloride,0,
+ubiquinol-cytochrome-c reductase activity,GO:0008121,Hepatitis B,MESH:D006509,1,Cyclophosphamide,0,
+ubiquinol-cytochrome-c reductase activity,GO:0008121,"Hepatitis, Chronic",MESH:D006521,2,Chlorpromazine|Cyclophosphamide,0,
+ubiquitin conjugating enzyme activity,GO:0061631,"Hepatitis B, Chronic",MESH:D019694,0,,1,UBE2L3
+ubiquitin ligase-substrate adaptor activity,GO:1990756,Hepatitis,MESH:D006505,0,,1,KEAP1
+ubiquitin protein ligase activity,GO:0061630,Hepatitis,MESH:D006505,0,,1,INS
+ubiquitin protein ligase binding,GO:0031625,Hepatitis,MESH:D006505,0,,1,PARP1
+ubiquitin protein ligase binding,GO:0031625,"Hepatitis B, Chronic",MESH:D019694,0,,1,UBE2L3
+ubiquitin protein ligase binding,GO:0031625,Hepatitis C,MESH:D006526,0,,2,RIGI|SCARB1
+ubiquitin protein ligase binding,GO:0031625,"Hepatitis, Chronic",MESH:D006521,0,,1,SMAD2
+ubiquitin-protein transferase activator activity,GO:0097027,"Hepatitis B, Chronic",MESH:D019694,0,,1,UBE2L3
+ubiquitin-protein transferase activity,GO:0004842,"Hepatitis B, Chronic",MESH:D019694,0,,1,UBE2L3
+unfolded protein binding,GO:0051082,"Hepatitis, Alcoholic",MESH:D006519,0,,1,STS
+vascular endothelial growth factor receptor activity,GO:0005021,"Hepatitis, Chronic",MESH:D006521,0,,1,MET
+virion binding,GO:0046790,Hepatitis C,MESH:D006526,0,,1,CD209
+virus receptor activity,GO:0001618,Hepatitis B,MESH:D006509,0,,1,SLC10A1
+virus receptor activity,GO:0001618,Hepatitis C,MESH:D006526,0,,4,CCR5|CD209|CD81|SCARB1
+virus receptor activity,GO:0001618,"Hepatitis C, Chronic",MESH:D019698,0,,1,ITGB6
+vitamin D 24-hydroxylase activity,GO:0070576,Hepatitis C,MESH:D006526,0,,1,CYP3A4
+vitamin D3 25-hydroxylase activity,GO:0030343,Hepatitis C,MESH:D006526,0,,1,CYP3A4
+vitamin-K-epoxide reductase (warfarin-sensitive) activity,GO:0047057,Hepatitis,MESH:D006505,2,Phenprocoumon|Warfarin,0,
+voltage-gated calcium channel activity,GO:0005245,Hepatitis C,MESH:D006526,0,,1,OPRM1
+voltage-gated channel activity,GO:0022832,Hepatitis,MESH:D006505,1,Furosemide,0,
+voltage-gated potassium channel activity,GO:0005249,Hepatitis,MESH:D006505,1,Valproic Acid,0,
+voltage-gated sodium channel activity involved in cardiac muscle cell action potential,GO:0086006,Hepatitis,MESH:D006505,1,Terfenadine,0,
+xanthine oxidase activity,GO:0004855,Hepatitis,MESH:D006505,3,efavirenz|Lamivudine|Ranitidine,0,
+xanthine oxidase activity,GO:0004855,Hepatitis B,MESH:D006509,2,Lamivudine|Tenofovir,0,
+xanthine oxidase activity,GO:0004855,"Hepatitis B, Chronic",MESH:D019694,3,Colchicine|Lamivudine|Tenofovir,0,
+xanthine oxidase activity,GO:0004855,Hepatitis C,MESH:D006526,1,Lamivudine,0,
+xanthine oxidase activity,GO:0004855,"Hepatitis, Chronic",MESH:D006521,1,Diclofenac,0,
+zinc ion binding,GO:0008270,Hepatitis,MESH:D006505,0,,4,ALB|ATP7B|ENPP2|PARP1
+zinc ion binding,GO:0008270,Hepatitis C,MESH:D006526,0,,1,RIGI
+zinc ion binding,GO:0008270,"Hepatitis, Chronic",MESH:D006521,0,,2,MT1A|SOD1

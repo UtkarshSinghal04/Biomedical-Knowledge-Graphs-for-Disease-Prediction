@@ -1,0 +1,277 @@
+GOName,GOID,DiseaseName,DiseaseID,InferenceChemicalQty,InferenceChemicalNames,InferenceGeneQty,InferenceGeneSymbols
+actin cytoskeleton,GO:0015629,Pneumonia,MESH:D011014,0,,1,MYLK
+actin filament,GO:0005884,Pneumonia,MESH:D011014,2,Cadmium|Cadmium Chloride,0,
+actin filament bundle,GO:0032432,Bronchopneumonia,MESH:D001996,1,Particulate Matter,0,
+actin filament bundle,GO:0032432,Pneumonia,MESH:D011014,1,Particulate Matter,0,
+actin filament bundle,GO:0032432,"Pneumonia, Viral",MESH:D011024,1,Particulate Matter,0,
+AIM2 inflammasome complex,GO:0097169,Pneumonia,MESH:D011014,0,,1,CASP1
+alveolar lamellar body,GO:0097208,Bronchopneumonia,MESH:D001996,1,Particulate Matter,0,
+alveolar lamellar body,GO:0097208,Pneumonia,MESH:D011014,1,Particulate Matter,0,
+alveolar lamellar body,GO:0097208,"Pneumonia, Viral",MESH:D011024,1,Particulate Matter,0,
+amyloid-beta complex,GO:0106003,Pneumonia,MESH:D011014,1,Paraquat,0,
+apical part of cell,GO:0045177,Pneumonia,MESH:D011014,0,,1,SPP1
+apical plasma membrane,GO:0016324,Pneumonia,MESH:D011014,0,,1,IL18
+apoptotic body,GO:0097189,Pneumonia,MESH:D011014,7,"Arsenic|Asbestos, Crocidolite|Cadmium|Cadmium Chloride|Cisplatin|Indomethacin|Nickel",0,
+aryl hydrocarbon receptor complex,GO:0034751,Pneumonia,MESH:D011014,0,,1,AHR
+autolysosome,GO:0044754,Pneumonia,MESH:D011014,8,Cadmium|Cadmium Chloride|Cisplatin|Copper Sulfate|Dietary Fats|Paraquat|Sirolimus|Taurine,0,
+autolysosome,GO:0044754,"Pneumonia, Pneumococcal",MESH:D011018,1,Rifampin,0,
+autophagosome,GO:0005776,Pneumonia,MESH:D011014,11,Arsenic|Cadmium|Cadmium Chloride|Cisplatin|Copper Sulfate|Indomethacin|Nickel|Paraquat|Sirolimus|ST2825|Taurine,1,IL6ST
+autophagosome,GO:0005776,"Pneumonia, Pneumocystis",MESH:D011020,1,Hydrogen Peroxide,0,
+autophagosome membrane,GO:0000421,Pneumonia,MESH:D011014,0,,1,IL6ST
+axon,GO:0030424,Pneumonia,MESH:D011014,0,,5,IL1R1|SIRT1|TGFB1|TNFRSF1A|TNFRSF1B
+axon,GO:0030424,"Pneumonia, Pneumococcal",MESH:D011018,0,,2,MAPK1|SIRT1
+axonal spine,GO:0044308,Pneumonia,MESH:D011014,2,Cadmium|Cadmium Chloride,0,
+axon terminus,GO:0043679,Pneumonia,MESH:D011014,0,,1,CCL2
+azurophil granule lumen,GO:0035578,"Pneumonia, Pneumococcal",MESH:D011018,0,,1,MAPK1
+basal plasma membrane,GO:0009925,"Pneumonia, Viral",MESH:D011024,0,,1,ACE
+blood microparticle,GO:0072562,Pneumonia,MESH:D011014,0,,1,TGFB1
+brush border membrane,GO:0031526,"Pneumonia, Viral",MESH:D011024,0,,1,ACE
+Cajal body,GO:0015030,Pneumonia,MESH:D011014,0,,1,PARP1
+CatSper complex,GO:0036128,Pneumonia,MESH:D011014,1,bisphenol A,0,
+caveola,GO:0005901,Pneumonia,MESH:D011014,0,,1,HMOX1
+caveola,GO:0005901,"Pneumonia, Pneumococcal",MESH:D011018,0,,2,MAPK1|MAPK3
+CD40 receptor complex,GO:0035631,Pneumonia,MESH:D011014,0,,2,IKBKB|TNFRSF1B
+cell body,GO:0044297,Pneumonia,MESH:D011014,0,,3,CD40LG|CX3CL1|IL6ST
+cell-cell junction,GO:0005911,Pneumonia,MESH:D011014,1,bisphenol A,1,MYLK
+cell projection,GO:0042995,Pneumonia,MESH:D011014,1,Lipopolysaccharides,3,CD40LG|CX3CL1|SPP1
+cell surface,GO:0009986,Pneumonia,MESH:D011014,0,,14,CCR6|CCR9|CD40LG|CX3CL1|CXCR2|CXCR3|IL1R1|IL2RB|ITGB2|MYD88|TGFB1|TLR4|TNF|TNFRSF1A
+centrosome,GO:0005813,Pneumonia,MESH:D011014,0,,1,CCR6
+centrosome,GO:0005813,"Pneumonia, Pneumococcal",MESH:D011018,0,,1,MAPK1
+C-fiber,GO:0044299,Pneumonia,MESH:D011014,0,,1,CCL2
+chromatin,GO:0000785,Pneumonia,MESH:D011014,0,,4,AHR|EGR1|PARP1|SIRT1
+chromatin,GO:0000785,"Pneumonia, Pneumococcal",MESH:D011018,0,,1,SIRT1
+chromatin silencing complex,GO:0005677,Pneumonia,MESH:D011014,0,,1,SIRT1
+chromatin silencing complex,GO:0005677,"Pneumonia, Pneumococcal",MESH:D011018,0,,1,SIRT1
+chromosome,GO:0005694,Pneumonia,MESH:D011014,0,,2,IL33|PARP1
+ciliary basal body,GO:0036064,"Pneumonia, Pneumococcal",MESH:D011018,0,,2,MAPK1|MAPK3
+ciliary neurotrophic factor receptor complex,GO:0070110,Pneumonia,MESH:D011014,0,,1,IL6ST
+cilium,GO:0005929,"Pneumonia, Pneumococcal",MESH:D011018,0,,2,MAPK1|MAPK3
+cleavage furrow,GO:0032154,Pneumonia,MESH:D011014,0,,1,MYLK
+cochlear hair cell ribbon synapse,GO:0098683,Pneumonia,MESH:D011014,1,Cisplatin,0,
+collagen-containing extracellular matrix,GO:0062023,Pneumonia,MESH:D011014,0,,1,TGFB1
+cortical cytoskeleton,GO:0030863,"Pneumonia, Aspiration",MESH:D011015,0,,1,NOS2
+cortical granule,GO:0060473,Pneumonia,MESH:D011014,1,Lipopolysaccharides,0,
+creatine kinase complex,GO:0002185,Pneumonia,MESH:D011014,1,Taurine,0,
+CRLF-CLCF1 complex,GO:0097058,Pneumonia,MESH:D011014,0,,1,IL6ST
+cytoplasm,GO:0005737,Pneumonia,MESH:D011014,0,,22,ABCF1|AHR|CASP1|CCR1|CCR2|CXCR3|EGR1|IKBKB|IL13|IL18|IL1B|IL1R2|IL33|MYD88|MYLK|PARP1|PF4|POMC|SIRT1|SPP1|TGFB1|TLR4
+cytoplasm,GO:0005737,"Pneumonia, Aspiration",MESH:D011015,0,,1,NOS2
+cytoplasm,GO:0005737,"Pneumonia, Pneumococcal",MESH:D011018,0,,3,MAPK1|MAPK3|SIRT1
+cytoplasm,GO:0005737,"Pneumonia, Viral",MESH:D011024,0,,1,ACE
+cytoplasmic side of plasma membrane,GO:0009898,Pneumonia,MESH:D011014,0,,2,IKBKB|MYD88
+cytoskeleton,GO:0005856,"Pneumonia, Pneumococcal",MESH:D011018,0,,2,MAPK1|MAPK3
+cytosol,GO:0005829,Pneumonia,MESH:D011014,0,,13,ABCF1|AHR|CASP1|HMOX1|IKBKB|IL18|IL1B|IL2RB|IL6ST|MYD88|MYLK|PARP1|SIRT1
+cytosol,GO:0005829,"Pneumonia, Aspiration",MESH:D011015,0,,1,NOS2
+cytosol,GO:0005829,"Pneumonia, Pneumococcal",MESH:D011018,0,,3,MAPK1|MAPK3|SIRT1
+cytosolic aryl hydrocarbon receptor complex,GO:0034752,Pneumonia,MESH:D011014,0,,1,AHR
+dendrite,GO:0030425,Pneumonia,MESH:D011014,0,,3,CCL2|CCR2|IL6ST
+dendrite cytoplasm,GO:0032839,"Pneumonia, Pneumococcal",MESH:D011018,0,,1,MAPK1
+dendritic branch,GO:0044307,Pneumonia,MESH:D011014,2,bisphenol A|Dexamethasone,0,
+dendritic spine,GO:0043197,Pneumonia,MESH:D011014,2,bisphenol A|Dronabinol,0,
+early endosome,GO:0005769,Pneumonia,MESH:D011014,0,,3,CCR6|CCR9|TLR4
+early endosome,GO:0005769,"Pneumonia, Pneumococcal",MESH:D011018,0,,2,MAPK1|MAPK3
+endocytic vesicle,GO:0030139,Pneumonia,MESH:D011014,0,,1,CCL2
+endoplasmic reticulum,GO:0005783,Pneumonia,MESH:D011014,0,,1,HMOX1
+endoplasmic reticulum lumen,GO:0005788,Pneumonia,MESH:D011014,0,,2,IL6|SPP1
+endoplasmic reticulum lumen,GO:0005788,"Pneumonia, Pneumococcal",MESH:D011018,0,,2,MAPK1|MAPK3
+endoplasmic reticulum membrane,GO:0005789,Pneumonia,MESH:D011014,0,,1,HMOX1
+endosome,GO:0005768,Pneumonia,MESH:D011014,0,,3,CCR6|CCR9|IL2RB
+endosome,GO:0005768,"Pneumonia, Viral",MESH:D011024,0,,1,ACE
+endosome membrane,GO:0010008,Pneumonia,MESH:D011014,0,,2,MYD88|TLR4
+eNoSc complex,GO:0061773,Pneumonia,MESH:D011014,0,,1,SIRT1
+eNoSc complex,GO:0061773,"Pneumonia, Pneumococcal",MESH:D011018,0,,1,SIRT1
+ERMES complex,GO:0032865,"Pneumonia, Pneumocystis",MESH:D011020,1,Hydrogen Peroxide,0,
+ESC/E(Z) complex,GO:0035098,Pneumonia,MESH:D011014,0,,1,SIRT1
+ESC/E(Z) complex,GO:0035098,"Pneumonia, Pneumococcal",MESH:D011018,0,,1,SIRT1
+euchromatin,GO:0000791,Pneumonia,MESH:D011014,0,,2,PARP1|SIRT1
+euchromatin,GO:0000791,"Pneumonia, Pneumococcal",MESH:D011018,0,,1,SIRT1
+external side of plasma membrane,GO:0009897,Pneumonia,MESH:D011014,0,,23,CCL19|CCR1|CCR2|CCR6|CCR9|CD40LG|CXCL9|CXCR2|CXCR3|IFNG|IL13|IL17A|IL18|IL1R1|IL2RB|IL4|IL5RA|IL6|IL6ST|ITGB2|TLR4|TNF|TNFRSF1B
+external side of plasma membrane,GO:0009897,"Pneumonia, Viral",MESH:D011024,0,,1,ACE
+extracellular exosome,GO:0070062,"Pneumonia, Viral",MESH:D011024,0,,1,ACE
+extracellular matrix,GO:0031012,Pneumonia,MESH:D011014,0,,2,SPP1|TGFB1
+extracellular region,GO:0005576,Pneumonia,MESH:D011014,0,,37,AGT|CASP1|CCL11|CCL12|CCL17|CCL19|CCL2|CCL20|CCL24|CCL4|CCL7|CCL8|CD40LG|CSF2|CX3CL1|CXCL1|CXCL15|CXCL5|CXCL9|IFNG|IL13|IL17A|IL18|IL1B|IL1R1|IL1R2|IL33|IL4|IL6|IL6ST|PF4|POMC|SPP1|TGFB1|TNF|TNFRSF1A|TNFRSF1B
+extracellular region,GO:0005576,"Pneumonia, Pneumococcal",MESH:D011018,0,,4,CXCL8|DEFB4A|MAPK1|MASP2
+extracellular region,GO:0005576,"Pneumonia, Viral",MESH:D011024,0,,1,ACE
+extracellular space,GO:0005615,Pneumonia,MESH:D011014,0,,38,AGT|CCL11|CCL12|CCL17|CCL19|CCL2|CCL20|CCL24|CCL4|CCL7|CCL8|CCL9|CD40LG|CSF2|CX3CL1|CXCL1|CXCL15|CXCL5|CXCL9|HMOX1|IFNG|IL13|IL17A|IL18|IL1B|IL1R1|IL33|IL4|IL5RA|IL6|IL6ST|OVAL|PF4|POMC|SPP1|TGFB1|TNF|TNFRSF1A
+extracellular space,GO:0005615,"Pneumonia, Aspiration",MESH:D011015,0,,1,NOS2
+extracellular space,GO:0005615,"Pneumonia, Pneumococcal",MESH:D011018,0,,3,CXCL8|DEFB4A|MASP2
+extracellular space,GO:0005615,"Pneumonia, Viral",MESH:D011024,0,,1,ACE
+extracellular vesicle,GO:1903561,Pneumonia,MESH:D011014,7,Air Pollutants|Arsenic|Cadmium|Nickel|Oxygen|Ozone|Vehicle Emissions,0,
+extrinsic component of cytoplasmic side of plasma membrane,GO:0031234,Pneumonia,MESH:D011014,0,,1,MYD88
+extrinsic component of plasma membrane,GO:0019897,Pneumonia,MESH:D011014,0,,1,MYD88
+ferritin complex,GO:0070288,Pneumonia,MESH:D011014,1,bisphenol A,0,
+fibrillar center,GO:0001650,Pneumonia,MESH:D011014,0,,2,CCR2|SIRT1
+fibrillar center,GO:0001650,"Pneumonia, Pneumococcal",MESH:D011018,0,,1,SIRT1
+fibrinogen complex,GO:0005577,Pneumonia,MESH:D011014,1,Dietary Fats,0,
+ficolin-1-rich granule lumen,GO:1904813,"Pneumonia, Pneumococcal",MESH:D011018,0,,1,MAPK1
+ficolin-1-rich granule membrane,GO:0101003,Pneumonia,MESH:D011014,0,,1,ITGB2
+filamentous actin,GO:0031941,Pneumonia,MESH:D011014,5,Acrolein|Air Pollutants|bisphenol A|Dexamethasone|Ozone,0,
+focal adhesion,GO:0005925,Pneumonia,MESH:D011014,0,,1,ITGB2
+focal adhesion,GO:0005925,"Pneumonia, Pneumococcal",MESH:D011018,0,,2,MAPK1|MAPK3
+germinal vesicle,GO:0042585,Pneumonia,MESH:D011014,1,Cyclophosphamide,0,
+germinal vesicle,GO:0042585,"Pneumonia, Pneumocystis",MESH:D011020,1,Cyclophosphamide,0,
+glutamatergic synapse,GO:0098978,"Pneumonia, Pneumococcal",MESH:D011018,0,,1,MAPK3
+Golgi apparatus,GO:0005794,Pneumonia,MESH:D011014,0,,2,CD40LG|SPP1
+Golgi apparatus,GO:0005794,"Pneumonia, Pneumococcal",MESH:D011018,0,,2,MAPK1|MAPK3
+Golgi lumen,GO:0005796,Pneumonia,MESH:D011014,0,,1,TGFB1
+Golgi lumen,GO:0005796,"Pneumonia, Pneumococcal",MESH:D011018,0,,1,DEFB4A
+Golgi membrane,GO:0000139,Pneumonia,MESH:D011014,0,,1,TNFRSF1A
+granulocyte macrophage colony-stimulating factor receptor complex,GO:0030526,Pneumonia,MESH:D011014,0,,1,CSF2
+growth cone,GO:0030426,Pneumonia,MESH:D011014,0,,1,SIRT1
+growth cone,GO:0030426,"Pneumonia, Pneumococcal",MESH:D011018,0,,1,SIRT1
+heterochromatin,GO:0000792,Pneumonia,MESH:D011014,0,,1,SIRT1
+heterochromatin,GO:0000792,"Pneumonia, Pneumococcal",MESH:D011018,0,,1,SIRT1
+histone locus body,GO:0035363,Pneumonia,MESH:D011014,0,,1,PARP1
+"IgE immunoglobulin complex, circulating",GO:0071743,Bronchopneumonia,MESH:D001996,2,Ovalbumin|Particulate Matter,0,
+"IgE immunoglobulin complex, circulating",GO:0071743,Pneumonia,MESH:D011014,6,Air Pollutants|bisphenol A|Dexamethasone|Manganese|Ovalbumin|Particulate Matter,0,
+"IgE immunoglobulin complex, circulating",GO:0071743,"Pneumonia, Viral",MESH:D011024,1,Particulate Matter,0,
+"IgG immunoglobulin complex, circulating",GO:0071736,Bronchopneumonia,MESH:D001996,1,Ovalbumin,0,
+"IgG immunoglobulin complex, circulating",GO:0071736,Pneumonia,MESH:D011014,3,Dexamethasone|Ovalbumin|perfluorodecanoic acid,0,
+IkappaB kinase complex,GO:0008385,Pneumonia,MESH:D011014,0,,1,IKBKB
+inflammasome complex,GO:0061702,Pneumonia,MESH:D011014,1,"lipopolysaccharide, Escherichia coli O111 B4",1,CASP1
+inhibin B complex,GO:0043513,Pneumonia,MESH:D011014,1,bisphenol A,0,
+integrin alphaL-beta2 complex,GO:0034687,Pneumonia,MESH:D011014,0,,1,ITGB2
+integrin alphaM-beta2 complex,GO:0034688,Pneumonia,MESH:D011014,0,,1,ITGB2
+integrin alphaX-beta2 complex,GO:0034689,Pneumonia,MESH:D011014,0,,1,ITGB2
+integrin complex,GO:0008305,Pneumonia,MESH:D011014,0,,1,ITGB2
+interleukin-2 receptor complex,GO:0005893,Pneumonia,MESH:D011014,0,,1,IL2RB
+interleukin-6 receptor complex,GO:0005896,Pneumonia,MESH:D011014,0,,2,IL6|IL6ST
+intracellular anatomical structure,GO:0005622,Pneumonia,MESH:D011014,0,,1,TNF
+intracellular membrane-bounded organelle,GO:0043231,Pneumonia,MESH:D011014,0,,2,CSF2|IL33
+IPAF inflammasome complex,GO:0072557,Pneumonia,MESH:D011014,0,,1,CASP1
+lamellipodium,GO:0030027,Pneumonia,MESH:D011014,0,,1,MYLK
+late endosome,GO:0005770,"Pneumonia, Pneumococcal",MESH:D011018,0,,2,MAPK1|MAPK3
+lipid droplet,GO:0005811,Pneumonia,MESH:D011014,2,"Cholesterol, Dietary|Dietary Fats",0,
+lipopolysaccharide receptor complex,GO:0046696,Pneumonia,MESH:D011014,0,,1,TLR4
+lysosome,GO:0005764,Pneumonia,MESH:D011014,2,Manganese|Sirolimus,1,IL1B
+lysosome,GO:0005764,"Pneumonia, Viral",MESH:D011024,0,,1,ACE
+m-AAA complex,GO:0005745,Pneumonia,MESH:D011014,0,,1,PARP1
+mast cell granule,GO:0042629,Pneumonia,MESH:D011014,0,,1,CXCR2
+membrane,GO:0016020,Pneumonia,MESH:D011014,0,,20,CCR1|CCR2|CCR6|CCR9|CD40LG|CX3CL1|CXCR2|CXCR3|HMOX1|IL1R1|IL1R2|IL2RB|IL5RA|IL6ST|ITGB2|PARP1|TLR4|TNF|TNFRSF1A|TNFRSF1B
+membrane,GO:0016020,"Pneumonia, Viral",MESH:D011024,0,,1,ACE
+membrane raft,GO:0045121,Pneumonia,MESH:D011014,0,,6,IKBKB|IL6ST|ITGB2|TNF|TNFRSF1A|TNFRSF1B
+microtubule,GO:0005874,Pneumonia,MESH:D011014,0,,1,CASP1
+microtubule cytoskeleton,GO:0015630,Pneumonia,MESH:D011014,0,,1,CXCR2
+microtubule cytoskeleton,GO:0015630,"Pneumonia, Pneumococcal",MESH:D011018,0,,2,MAPK1|MAPK3
+microvillus,GO:0005902,Pneumonia,MESH:D011014,0,,1,TGFB1
+mitochondria-associated endoplasmic reticulum membrane,GO:0044233,Bronchopneumonia,MESH:D001996,1,Particulate Matter,0,
+mitochondria-associated endoplasmic reticulum membrane,GO:0044233,Pneumonia,MESH:D011014,4,Air Pollutants|Cadmium|Cadmium Chloride|Particulate Matter,0,
+mitochondria-associated endoplasmic reticulum membrane,GO:0044233,"Pneumonia, Pneumocystis",MESH:D011020,1,Hydrogen Peroxide,0,
+mitochondria-associated endoplasmic reticulum membrane,GO:0044233,"Pneumonia, Viral",MESH:D011024,1,Particulate Matter,0,
+mitochondrial chromosome,GO:0000262,Pneumonia,MESH:D011014,1,bisphenol A,0,
+mitochondrial matrix,GO:0005759,Pneumonia,MESH:D011014,0,,1,LIAS
+mitochondrial membrane,GO:0031966,Pneumonia,MESH:D011014,2,Cadmium|Cadmium Chloride,0,
+mitochondrial outer membrane,GO:0005741,Pneumonia,MESH:D011014,0,,1,HMOX1
+mitochondrial permeability transition pore complex,GO:0005757,Pneumonia,MESH:D011014,2,Amoxicillin-Potassium Clavulanate Combination|Ciprofloxacin,0,
+mitochondrial permeability transition pore complex,GO:0005757,"Pneumonia, Bacterial",MESH:D018410,1,Ciprofloxacin,0,
+mitochondrial permeability transition pore complex,GO:0005757,"Pneumonia, Pneumocystis",MESH:D011020,1,Hydrogen Peroxide,0,
+mitochondrial proton-transporting ATP synthase complex,GO:0005753,Pneumonia,MESH:D011014,2,Lipopolysaccharides|Sirolimus,0,
+mitochondrial respiratory chain complex I,GO:0005747,Pneumonia,MESH:D011014,2,Lipopolysaccharides|Sirolimus,0,
+mitochondrial respiratory chain complex III,GO:0005750,Pneumonia,MESH:D011014,2,Lipopolysaccharides|Sirolimus,0,
+mitochondrion,GO:0005739,Bronchopneumonia,MESH:D001996,1,Particulate Matter,0,
+mitochondrion,GO:0005739,Pneumonia,MESH:D011014,5,"Copper Sulfate|N-(oxo-5,6-dihydrophenanthridin-2-yl)-N,N-dimethylacetamide hydrochloride|Paraquat|Particulate Matter|triptolide",5,CASP1|LIAS|PARP1|SIRT1|TNFRSF1A
+mitochondrion,GO:0005739,"Pneumonia, Pneumococcal",MESH:D011018,0,,3,MAPK1|MAPK3|SIRT1
+mitochondrion,GO:0005739,"Pneumonia, Viral",MESH:D011024,1,Particulate Matter,0,
+mitotic spindle,GO:0072686,Pneumonia,MESH:D011014,0,,1,CXCR2
+mitotic spindle,GO:0072686,"Pneumonia, Pneumococcal",MESH:D011018,0,,1,MAPK1
+mucus layer,GO:0070701,Bronchopneumonia,MESH:D001996,1,Particulate Matter,0,
+mucus layer,GO:0070701,Pneumonia,MESH:D011014,1,Particulate Matter,0,
+mucus layer,GO:0070701,"Pneumonia, Viral",MESH:D011024,1,Particulate Matter,0,
+NADH dehydrogenase complex,GO:0030964,Pneumonia,MESH:D011014,1,bisphenol A,0,
+neuronal cell body,GO:0043025,Pneumonia,MESH:D011014,2,bisphenol A|Paclitaxel,9,CCL2|CCR1|CCR2|CX3CL1|IL6ST|POMC|TGFB1|TNF|TNFRSF1B
+neuronal cell body membrane,GO:0032809,Pneumonia,MESH:D011014,0,,1,IL6ST
+neuron projection,GO:0043005,Pneumonia,MESH:D011014,3,Oxygen|Paclitaxel|Paraquat,1,CX3CL1
+neutrophil extracellular trap,GO:0140644,Pneumonia,MESH:D011014,3,Acrolein|Arsenic|bisphenol A,0,
+NLRP1 inflammasome complex,GO:0072558,Pneumonia,MESH:D011014,0,,1,CASP1
+NLRP3 inflammasome complex,GO:0072559,Pneumonia,MESH:D011014,1,Lipopolysaccharides,1,CASP1
+nuclear aryl hydrocarbon receptor complex,GO:0034753,Pneumonia,MESH:D011014,0,,1,AHR
+nuclear body,GO:0016604,Pneumonia,MESH:D011014,0,,1,PARP1
+nuclear envelope,GO:0005635,Pneumonia,MESH:D011014,0,,3,ABCF1|PARP1|SIRT1
+nuclear envelope,GO:0005635,"Pneumonia, Pneumococcal",MESH:D011018,0,,2,MAPK3|SIRT1
+nuclear inner membrane,GO:0005637,Pneumonia,MESH:D011014,0,,1,SIRT1
+nuclear inner membrane,GO:0005637,"Pneumonia, Pneumococcal",MESH:D011018,0,,1,SIRT1
+nuclear replication fork,GO:0043596,Pneumonia,MESH:D011014,0,,1,PARP1
+nucleolus,GO:0005730,Pneumonia,MESH:D011014,0,,3,CASP1|PARP1|SIRT1
+nucleolus,GO:0005730,"Pneumonia, Pneumococcal",MESH:D011018,0,,1,SIRT1
+nucleoplasm,GO:0005654,Pneumonia,MESH:D011014,0,,8,ABCF1|AHR|CXCR2|EGR1|HMOX1|IL33|PARP1|SIRT1
+nucleoplasm,GO:0005654,"Pneumonia, Aspiration",MESH:D011015,0,,1,NOS2
+nucleoplasm,GO:0005654,"Pneumonia, Pneumococcal",MESH:D011018,0,,3,MAPK1|MAPK3|SIRT1
+nucleus,GO:0005634,Pneumonia,MESH:D011014,1,triptolide,10,AGT|AHR|EGR1|HMOX1|IKBKB|IL33|MYD88|PARP1|SIRT1|TGFB1
+nucleus,GO:0005634,"Pneumonia, Aspiration",MESH:D011015,0,,1,NOS2
+nucleus,GO:0005634,"Pneumonia, Pneumococcal",MESH:D011018,0,,3,MAPK1|MAPK3|SIRT1
+oncostatin-M receptor complex,GO:0005900,Pneumonia,MESH:D011014,0,,1,IL6ST
+paraspeckles,GO:0042382,Pneumonia,MESH:D011014,1,Paraquat,0,
+P-body,GO:0000932,Pneumonia,MESH:D011014,1,Arsenic,0,
+perikaryon,GO:0043204,Pneumonia,MESH:D011014,0,,3,CCL2|CCR2|IFNG
+perikaryon,GO:0043204,"Pneumonia, Pneumococcal",MESH:D011018,0,,1,MAPK1
+perinuclear region of cytoplasm,GO:0048471,Pneumonia,MESH:D011014,0,,7,CCL2|CCR2|CX3CL1|HMOX1|SPP1|TLR4|TNFRSF1B
+perinuclear region of cytoplasm,GO:0048471,"Pneumonia, Aspiration",MESH:D011015,0,,1,NOS2
+peroxisomal matrix,GO:0005782,Pneumonia,MESH:D011014,0,,1,POMC
+peroxisomal matrix,GO:0005782,"Pneumonia, Aspiration",MESH:D011015,0,,1,NOS2
+peroxisome,GO:0005777,"Pneumonia, Aspiration",MESH:D011015,0,,1,NOS2
+phagocytic cup,GO:0001891,Pneumonia,MESH:D011014,1,bisphenol A,2,TLR4|TNF
+phagophore,GO:0061908,Pneumonia,MESH:D011014,1,Paraquat,0,
+photoreceptor outer segment,GO:0001750,Pneumonia,MESH:D011014,0,,1,CD40LG
+plasma membrane,GO:0005886,Pneumonia,MESH:D011014,0,,23,CASP1|CCR1|CCR2|CCR6|CCR9|CD40LG|CSF2|CX3CL1|CXCR2|CXCR3|IL1R1|IL1R2|IL2RB|IL5RA|IL6ST|ITGB2|MYD88|MYLK|TGFB1|TLR4|TNF|TNFRSF1A|TNFRSF1B
+plasma membrane,GO:0005886,"Pneumonia, Pneumococcal",MESH:D011018,0,,2,MAPK1|MAPK3
+plasma membrane,GO:0005886,"Pneumonia, Viral",MESH:D011024,0,,1,ACE
+plasma membrane raft,GO:0044853,Pneumonia,MESH:D011014,0,,1,ITGB2
+platelet alpha granule,GO:0031091,Pneumonia,MESH:D011014,0,,1,PF4
+platelet alpha granule lumen,GO:0031093,Pneumonia,MESH:D011014,0,,2,PF4|TGFB1
+PML body,GO:0016605,Pneumonia,MESH:D011014,0,,1,SIRT1
+PML body,GO:0016605,"Pneumonia, Pneumococcal",MESH:D011018,0,,1,SIRT1
+postsynapse,GO:0098794,Pneumonia,MESH:D011014,0,,1,CX3CL1
+postsynaptic density,GO:0014069,"Pneumonia, Pneumococcal",MESH:D011018,0,,1,MAPK1
+primary dendrite,GO:0150001,Pneumonia,MESH:D011014,0,,1,CCR2
+protease inhibitor complex,GO:0097179,Pneumonia,MESH:D011014,0,,1,CASP1
+proteasome core complex,GO:0005839,"Pneumonia, Pneumocystis",MESH:D011020,1,Hydrogen Peroxide,0,
+protein-containing complex,GO:0032991,Pneumonia,MESH:D011014,0,,9,AHR|CASP1|IL1R1|MYD88|PARP1|PF4|SIRT1|TNF|TNFRSF1A
+protein-containing complex,GO:0032991,"Pneumonia, Pneumococcal",MESH:D011018,0,,3,MAPK1|MAPK3|SIRT1
+protein-DNA complex,GO:0032993,Pneumonia,MESH:D011014,0,,1,PARP1
+pseudopodium,GO:0031143,Pneumonia,MESH:D011014,2,Copper Sulfate|Manganese,0,
+pseudopodium,GO:0031143,"Pneumonia, Pneumococcal",MESH:D011018,0,,2,MAPK1|MAPK3
+rDNA heterochromatin,GO:0033553,Pneumonia,MESH:D011014,0,,1,SIRT1
+rDNA heterochromatin,GO:0033553,"Pneumonia, Pneumococcal",MESH:D011018,0,,1,SIRT1
+receptor complex,GO:0043235,Pneumonia,MESH:D011014,0,,5,IL5RA|IL6ST|ITGB2|TLR4|TNFRSF1A
+recycling endosome,GO:0055037,Pneumonia,MESH:D011014,0,,1,TNF
+ribonucleoprotein complex,GO:1990904,Pneumonia,MESH:D011014,0,,1,IL6ST
+ribosome,GO:0005840,Pneumonia,MESH:D011014,0,,1,ABCF1
+RISC complex,GO:0016442,Pneumonia,MESH:D011014,0,,1,MIR150
+rough endoplasmic reticulum,GO:0005791,Pneumonia,MESH:D011014,1,Azithromycin,0,
+rough endoplasmic reticulum,GO:0005791,"Pneumonia, Bacterial",MESH:D018410,1,Azithromycin,0,
+ruffle,GO:0001726,Pneumonia,MESH:D011014,0,,1,TLR4
+secretory granule,GO:0030141,Pneumonia,MESH:D011014,0,,4,IL1B|POMC|TGFB1|TNF
+secretory granule lumen,GO:0034774,Pneumonia,MESH:D011014,0,,1,POMC
+secretory granule membrane,GO:0030667,Pneumonia,MESH:D011014,0,,1,CXCR2
+site of DNA damage,GO:0090734,Pneumonia,MESH:D011014,0,,1,PARP1
+site of double-strand break,GO:0035861,Pneumonia,MESH:D011014,0,,1,PARP1
+sodium channel complex,GO:0034706,Pneumonia,MESH:D011014,0,,1,TNFRSF1A
+specific granule lumen,GO:0035580,Pneumonia,MESH:D011014,0,,1,CXCL1
+specific granule membrane,GO:0035579,Pneumonia,MESH:D011014,0,,2,ITGB2|TNFRSF1B
+sperm flagellum,GO:0036126,Pneumonia,MESH:D011014,2,bisphenol A|Cisplatin,1,CCR6
+sperm head,GO:0061827,Pneumonia,MESH:D011014,3,bisphenol A|Cisplatin|Glyphosate,0,
+sperm head plasma membrane,GO:1990913,Pneumonia,MESH:D011014,1,bisphenol A,0,
+sperm midpiece,GO:0097225,Pneumonia,MESH:D011014,1,Cisplatin,1,CCR6
+sperm midpiece,GO:0097225,"Pneumonia, Viral",MESH:D011024,0,,1,ACE
+sperm plasma membrane,GO:0097524,Pneumonia,MESH:D011014,0,,1,CCR6
+sperm principal piece,GO:0097228,Pneumonia,MESH:D011014,0,,1,CCR6
+spindle,GO:0005819,"Pneumonia, Pneumococcal",MESH:D011018,0,,1,MAPK1
+stress fiber,GO:0001725,Pneumonia,MESH:D011014,0,,1,MYLK
+synapse,GO:0045202,Pneumonia,MESH:D011014,0,,1,MYLK
+synapse,GO:0045202,"Pneumonia, Pneumococcal",MESH:D011018,0,,1,MAPK1
+telopode,GO:0120327,Pneumonia,MESH:D011014,1,Arsenic,0,
+terminal bouton,GO:0043195,Pneumonia,MESH:D011014,1,Dronabinol,0,
+tertiary granule lumen,GO:1904724,Pneumonia,MESH:D011014,0,,1,CXCL1
+tertiary granule membrane,GO:0070821,Pneumonia,MESH:D011014,0,,1,ITGB2
+transcription factor AP-1 complex,GO:0035976,Pneumonia,MESH:D011014,2,Bleomycin|Quartz,0,
+transcription factor AP-1 complex,GO:0035976,"Pneumonia, Mycoplasma",MESH:D011019,1,platycodin D,0,
+transcription regulator complex,GO:0005667,Pneumonia,MESH:D011014,0,,2,AHR|PARP1
+translation initiation complex,GO:0070992,Pneumonia,MESH:D011014,1,bisphenol A,0,
+transport vesicle,GO:0030133,Pneumonia,MESH:D011014,0,,1,IL33
+tubulin complex,GO:0045298,Bronchopneumonia,MESH:D001996,1,Particulate Matter,0,
+tubulin complex,GO:0045298,Pneumonia,MESH:D011014,1,Particulate Matter,0,
+tubulin complex,GO:0045298,"Pneumonia, Pneumocystis",MESH:D011020,1,Hydrogen Peroxide,0,
+tubulin complex,GO:0045298,"Pneumonia, Viral",MESH:D011024,1,Particulate Matter,0,
+tumor necrosis factor receptor superfamily complex,GO:0002947,Pneumonia,MESH:D011014,0,,2,TNFRSF1A|TNFRSF1B
+varicosity,GO:0043196,Pneumonia,MESH:D011014,0,,1,TNFRSF1B
+vesicle,GO:0031982,Pneumonia,MESH:D011014,0,,3,IL1B|PF4|SPP1
+vesicle,GO:0031982,"Pneumonia, Viral",MESH:D011024,0,,1,ACE

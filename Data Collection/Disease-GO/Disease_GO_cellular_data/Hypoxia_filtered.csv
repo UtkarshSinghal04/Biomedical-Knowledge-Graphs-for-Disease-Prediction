@@ -1,0 +1,279 @@
+GOName,GOID,DiseaseName,DiseaseID,InferenceChemicalQty,InferenceChemicalNames,InferenceGeneQty,InferenceGeneSymbols
+actin cap,GO:0030478,Hypoxia,MESH:D000860,1,cobaltous chloride,0,
+actin cap,GO:0030478,"Hypoxia, Brain",MESH:D002534,1,cobaltous chloride,0,
+actin cap,GO:0030478,"Hypoxia-Ischemia, Brain",MESH:D020925,1,cobaltous chloride,0,
+actin cytoskeleton,GO:0015629,Hypoxia,MESH:D000860,0,,1,ACTB
+actin filament,GO:0005884,Hypoxia,MESH:D000860,0,,1,ACTB
+adherens junction,GO:0005912,Hypoxia,MESH:D000860,0,,1,ACTB
+adherens junction,GO:0005912,"Hypoxia-Ischemia, Brain",MESH:D020925,0,,1,VEGFA
+apical junction complex,GO:0043296,Hypoxia,MESH:D000860,0,,1,ACTB
+apical part of cell,GO:0045177,Hypoxia,MESH:D000860,0,,2,NOS3|PLAT
+apical plasma membrane,GO:0016324,Hypoxia,MESH:D000860,0,,1,GNAS
+apoptotic body,GO:0097189,Hypoxia,MESH:D000860,2,Arsenic Trioxide|Indomethacin,0,
+ATF1-ATF4 transcription factor complex,GO:1990590,Hypoxia,MESH:D000860,0,,1,ATF4
+ATF4-CREB1 transcription factor complex,GO:1990589,Hypoxia,MESH:D000860,0,,1,ATF4
+autolysosome,GO:0044754,Hypoxia,MESH:D000860,8,Arsenic Trioxide|Chloroquine|Copper Sulfate|Dietary Fats|Glucose|Oleic Acid|Sevoflurane|Taurine,0,
+autolysosome,GO:0044754,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Methamphetamine,0,
+autophagosome,GO:0005776,Hypoxia,MESH:D000860,10,Acetaminophen|Arsenic Trioxide|Chloroquine|Copper Sulfate|Glucose|Hydrogen Peroxide|Indomethacin|Resveratrol|Sevoflurane|Taurine,0,
+autophagosome,GO:0005776,"Hypoxia-Ischemia, Brain",MESH:D020925,2,Lithium Chloride|Methamphetamine,0,
+axon,GO:0030424,Hypoxia,MESH:D000860,0,,3,ACTB|BDNF|DAF-2
+axon,GO:0030424,"Hypoxia, Brain",MESH:D002534,0,,1,ITPR2
+axon cytoplasm,GO:1904115,"Hypoxia-Ischemia, Brain",MESH:D020925,0,,1,HIF1A
+axon terminus,GO:0043679,Hypoxia,MESH:D000860,0,,1,PDYN
+azurophil granule,GO:0042582,Hypoxia,MESH:D000860,0,,2,MPO|NOS1
+azurophil granule lumen,GO:0035578,Hypoxia,MESH:D000860,0,,1,MPO
+basement membrane,GO:0005604,"Hypoxia-Ischemia, Brain",MESH:D020925,0,,1,VEGFA
+basolateral plasma membrane,GO:0016323,Hypoxia,MESH:D000860,0,,1,CA9
+bBAF complex,GO:0140092,Hypoxia,MESH:D000860,0,,1,ACTB
+blood microparticle,GO:0072562,Hypoxia,MESH:D000860,0,,1,HSP70
+brahma complex,GO:0035060,Hypoxia,MESH:D000860,0,,1,ACTB
+brush border,GO:0005903,Hypoxia,MESH:D000860,0,,2,ACTB|NPPA
+calcineurin complex,GO:0005955,"Hypoxia, Brain",MESH:D002534,0,,1,ITPR1
+calyx of Held,GO:0044305,Hypoxia,MESH:D000860,0,,2,ACTB|NOS1
+cardiac Troponin complex,GO:1990584,Hypoxia,MESH:D000860,1,Isoproterenol,0,
+caveola,GO:0005901,Hypoxia,MESH:D000860,0,,3,NOS1|NOS3|TFPI
+cell-cell junction,GO:0005911,Hypoxia,MESH:D000860,1,Fluorouracil,1,ACTB
+cell cortex,GO:0005938,"Hypoxia, Brain",MESH:D002534,0,,1,ITPR2
+cell periphery,GO:0071944,Hypoxia,MESH:D000860,0,,2,DAF-2|NOS1
+cell projection,GO:0042995,Hypoxia,MESH:D000860,1,Lipopolysaccharides,2,DAF-2|NPPA
+cell projection,GO:0042995,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Lipopolysaccharides,0,
+cell surface,GO:0009986,Hypoxia,MESH:D000860,0,,4,APOA1|ATP5F1B|PLAT|TFPI
+cell surface,GO:0009986,"Hypoxia-Ischemia, Brain",MESH:D020925,0,,3,IRAK1|IRAK4|VEGFA
+centriolar satellite,GO:0034451,Hypoxia,MESH:D000860,0,,1,ALDOB
+centrosome,GO:0005813,Hypoxia,MESH:D000860,0,,2,ATF4|NME1
+CHOP-ATF4 complex,GO:1990617,Hypoxia,MESH:D000860,0,,1,ATF4
+chromatin,GO:0000785,Hypoxia,MESH:D000860,0,,3,ACTB|ATF4|EGR1
+chromatin,GO:0000785,"Hypoxia-Ischemia, Brain",MESH:D020925,0,,1,HIF1A
+chromosome,GO:0005694,Hypoxia,MESH:D000860,0,,1,HIM-6
+COPI-coated Golgi to ER transport vesicle,GO:0030142,Hypoxia,MESH:D000860,0,,1,GNAS
+cortical cytoskeleton,GO:0030863,Hypoxia,MESH:D000860,0,,1,ACTB
+cortical cytoskeleton,GO:0030863,"Hypoxia-Ischemia, Brain",MESH:D020925,0,,1,NOS2
+cortical granule,GO:0060473,Hypoxia,MESH:D000860,2,Lipopolysaccharides|Resveratrol,0,
+cortical granule,GO:0060473,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Lipopolysaccharides,0,
+creatine kinase complex,GO:0002185,Hypoxia,MESH:D000860,1,Taurine,0,
+cytoplasm,GO:0005737,Hypoxia,MESH:D000860,0,,21,ACTB|ALDH1L1|ALDOB|ATF4|BDNF|DAF-2|EGR1|ESD|GAPDH|GNAS|HSP70|NME1|NOS1|NOS3|NPPA|PLAT|POMC|RPS14|RPS2|SARDH|TKT
+cytoplasm,GO:0005737,"Hypoxia, Brain",MESH:D002534,0,,2,ITPR1|ITPR2
+cytoplasm,GO:0005737,"Hypoxia-Ischemia, Brain",MESH:D020925,0,,5,HIF1A|IRAK1|IRAK4|NOS2|VEGFA
+cytoplasmic ribonucleoprotein granule,GO:0036464,Hypoxia,MESH:D000860,0,,1,ACTB
+cytoplasmic vesicle,GO:0031410,Hypoxia,MESH:D000860,1,Chloroquine,4,APOA1|BDNF|DAF-2|ESD
+cytoplasmic vesicle,GO:0031410,"Hypoxia, Brain",MESH:D002534,0,,2,ITPR1|ITPR2
+cytoskeleton,GO:0005856,Hypoxia,MESH:D000860,0,,5,ACTB|ALDOB|GAPDH|NOS1|NOS3
+cytosol,GO:0005829,Hypoxia,MESH:D000860,0,,18,ACTB|ADK|AHCY|ALDH1L1|ALDOB|APOA1|ATF4|ESD|GAPDH|GNAS|HSP70|NME1|NOS1|NOS3|PCK2|RPS14|RPS2|TKT
+cytosol,GO:0005829,"Hypoxia-Ischemia, Brain",MESH:D020925,0,,4,HIF1A|IRAK1|IRAK4|NOS2
+cytosolic ribosome,GO:0022626,Hypoxia,MESH:D000860,0,,2,RPS14|RPS2
+cytosolic small ribosomal subunit,GO:0022627,Hypoxia,MESH:D000860,0,,2,RPS14|RPS2
+dendrite,GO:0030425,Hypoxia,MESH:D000860,0,,5,BDNF|ESD|GNAS|NOS1|PDYN
+dendrite,GO:0030425,"Hypoxia, Brain",MESH:D002534,0,,1,ITPR1
+dendrite membrane,GO:0032590,Hypoxia,MESH:D000860,0,,1,ATF4
+dendritic branch,GO:0044307,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Dexamethasone,0,
+dendritic spine,GO:0043197,Hypoxia,MESH:D000860,0,,2,NOS1|PDYN
+dendritic spine,GO:0043197,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Methamphetamine,0,
+dense body,GO:0097433,Hypoxia,MESH:D000860,0,,1,ACTB
+dense core granule,GO:0031045,Hypoxia,MESH:D000860,0,,1,PDYN
+discoidal high-density lipoprotein particle,GO:0034365,Hypoxia,MESH:D000860,0,,1,APOA1
+"DNA topoisomerase type II (double strand cut, ATP-hydrolyzing) complex",GO:0009330,Hypoxia,MESH:D000860,1,Arsenic Trioxide,0,
+early endosome,GO:0005769,Hypoxia,MESH:D000860,1,Chloroquine,2,APOA1|NME1
+endocytic vesicle,GO:0030139,Hypoxia,MESH:D000860,0,,1,APOA1
+endocytic vesicle lumen,GO:0071682,Hypoxia,MESH:D000860,0,,1,APOA1
+endocytic vesicle membrane,GO:0030666,Hypoxia,MESH:D000860,0,,1,NOS3
+endolysosome,GO:0036019,Hypoxia,MESH:D000860,1,Chloroquine,0,
+endoplasmic reticulum,GO:0005783,Hypoxia,MESH:D000860,0,,2,AHCY|TFPI
+endoplasmic reticulum,GO:0005783,"Hypoxia, Brain",MESH:D002534,0,,2,ITPR1|ITPR2
+endoplasmic reticulum,GO:0005783,"Hypoxia-Ischemia, Brain",MESH:D020925,0,,1,VEGFA
+endoplasmic reticulum lumen,GO:0005788,Hypoxia,MESH:D000860,0,,3,APOA1|BDNF|ESD
+endoplasmic reticulum membrane,GO:0005789,Hypoxia,MESH:D000860,0,,1,TKT
+endoplasmic reticulum membrane,GO:0005789,"Hypoxia, Brain",MESH:D002534,0,,2,ITPR1|ITPR2
+endosome,GO:0005768,Hypoxia,MESH:D000860,0,,2,F54G2.1|GNAS
+endosome membrane,GO:0010008,"Hypoxia-Ischemia, Brain",MESH:D020925,0,,2,IRAK1|IRAK4
+ERMES complex,GO:0032865,Hypoxia,MESH:D000860,1,Hydrogen Peroxide,0,
+euchromatin,GO:0000791,"Hypoxia-Ischemia, Brain",MESH:D020925,0,,1,HIF1A
+extracellular exosome,GO:0070062,Hypoxia,MESH:D000860,0,,1,TKT
+extracellular matrix,GO:0031012,"Hypoxia-Ischemia, Brain",MESH:D020925,0,,1,VEGFA
+extracellular region,GO:0005576,Hypoxia,MESH:D000860,0,,11,APOA1|BDNF|CPA2|CTRB1|GNAS|MPO|NPPA|PDYN|PLAT|POMC|TFPI
+extracellular region,GO:0005576,"Hypoxia-Ischemia, Brain",MESH:D020925,0,,1,VEGFA
+extracellular space,GO:0005615,Hypoxia,MESH:D000860,0,,10,ACTB|APOA1|BDNF|CPA2|MPO|NPPA|PDYN|PLAT|POMC|TFPI
+extracellular space,GO:0005615,"Hypoxia-Ischemia, Brain",MESH:D020925,0,,3,IRAK4|NOS2|VEGFA
+extracellular vesicle,GO:1903561,Hypoxia,MESH:D000860,1,Oxygen,0,
+extracellular vesicle,GO:1903561,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Oxygen,0,
+extrinsic component of plasma membrane,GO:0019897,Hypoxia,MESH:D000860,0,,1,PLAT
+extrinsic component of plasma membrane,GO:0019897,"Hypoxia-Ischemia, Brain",MESH:D020925,0,,1,IRAK4
+fibrinogen complex,GO:0005577,Hypoxia,MESH:D000860,1,Dietary Fats,0,
+filamentous actin,GO:0031941,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Dexamethasone,0,
+focal adhesion,GO:0005925,Hypoxia,MESH:D000860,0,,1,ACTB
+GABA-ergic synapse,GO:0098982,"Hypoxia, Brain",MESH:D002534,0,,1,ITPR1
+GAIT complex,GO:0097452,Hypoxia,MESH:D000860,0,,1,GAPDH
+GBAF complex,GO:0140288,Hypoxia,MESH:D000860,0,,1,ACTB
+glutamatergic synapse,GO:0098978,Hypoxia,MESH:D000860,0,,5,ACTB|BDNF|GAPDH|NOS1|PLAT
+glycinergic synapse,GO:0098690,Hypoxia,MESH:D000860,0,,1,NPPA
+Golgi apparatus,GO:0005794,Hypoxia,MESH:D000860,0,,2,NOS3|PDYN
+Golgi apparatus,GO:0005794,"Hypoxia-Ischemia, Brain",MESH:D020925,0,,1,VEGFA
+Golgi membrane,GO:0000139,Hypoxia,MESH:D000860,0,,1,NOS3
+heterotrimeric G-protein complex,GO:0005834,Hypoxia,MESH:D000860,0,,1,GNAS
+high-density lipoprotein particle,GO:0034364,Hypoxia,MESH:D000860,0,,1,APOA1
+hippocampal mossy fiber to CA3 synapse,GO:0098686,Hypoxia,MESH:D000860,0,,2,BDNF|PDYN
+"IgE immunoglobulin complex, circulating",GO:0071743,Hypoxia,MESH:D000860,1,Diacetyl,0,
+"IgE immunoglobulin complex, circulating",GO:0071743,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Dexamethasone,0,
+"IgG immunoglobulin complex, circulating",GO:0071736,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Dexamethasone,0,
+intermediate-density lipoprotein particle,GO:0034363,Hypoxia,MESH:D000860,0,,1,APOA1
+intermediate filament,GO:0005882,Hypoxia,MESH:D000860,0,,1,NME1
+intracellular ferritin complex,GO:0008043,Hypoxia,MESH:D000860,1,Deferoxamine,0,
+intracellular membrane-bounded organelle,GO:0043231,Hypoxia,MESH:D000860,0,,2,GAPDH|MPO
+kinetochore,GO:0000776,Hypoxia,MESH:D000860,0,,1,ACTB
+lamellar body,GO:0042599,Hypoxia,MESH:D000860,1,Chloroquine,0,
+lamellipodium,GO:0030027,Hypoxia,MESH:D000860,0,,1,ACTB
+late endosome lumen,GO:0031906,Hypoxia,MESH:D000860,0,,1,GAPDH
+Lewy body core,GO:1990037,Hypoxia,MESH:D000860,0,,1,ATF4
+lipid droplet,GO:0005811,Hypoxia,MESH:D000860,1,Dietary Fats,1,GAPDH
+lipid droplet,GO:0005811,"Hypoxia-Ischemia, Brain",MESH:D020925,0,,1,IRAK1
+low-density lipoprotein particle,GO:0034362,Hypoxia,MESH:D000860,0,,1,APOA1
+lysosome,GO:0005764,Hypoxia,MESH:D000860,2,Acetaminophen|Chloroquine,1,MPO
+mast cell granule,GO:0042629,Hypoxia,MESH:D000860,0,,1,NPPA
+melanosome,GO:0042470,Hypoxia,MESH:D000860,0,,1,AHCY
+membrane,GO:0016020,Hypoxia,MESH:D000860,0,,7,ACADVL|ACTB|ATP5F1B|CA9|DAF-2|GNAS|SRAB-21
+membrane,GO:0016020,"Hypoxia, Brain",MESH:D002534,0,,2,ITPR1|ITPR2
+membrane,GO:0016020,"Hypoxia-Ischemia, Brain",MESH:D020925,0,,2,IRAK1|VEGFA
+membrane raft,GO:0045121,Hypoxia,MESH:D000860,0,,3,ACTB|ATP5F1B|NOS1
+microtubule cytoskeleton,GO:0015630,Hypoxia,MESH:D000860,0,,1,GAPDH
+microtubule organizing center,GO:0005815,Hypoxia,MESH:D000860,0,,1,ALDOB
+microvillus membrane,GO:0031528,Hypoxia,MESH:D000860,0,,1,CA9
+mitochondria-associated endoplasmic reticulum membrane,GO:0044233,Hypoxia,MESH:D000860,1,Hydrogen Peroxide,0,
+mitochondrial crista,GO:0030061,Hypoxia,MESH:D000860,0,,1,BDNF
+mitochondrial inner membrane,GO:0005743,Hypoxia,MESH:D000860,0,,2,ACADVL|ATP5F1B
+mitochondrial matrix,GO:0005759,Hypoxia,MESH:D000860,0,,6,ACADVL|ATP5F1B|CS|PCK2|SARDH|SOD2
+mitochondrial membrane,GO:0031966,Hypoxia,MESH:D000860,1,Oleic Acid,2,ACADVL|ATP5F1B
+mitochondrial nucleoid,GO:0042645,Hypoxia,MESH:D000860,0,,3,ACADVL|ATP5F1B|SOD2
+mitochondrial outer membrane,GO:0005741,Hypoxia,MESH:D000860,0,,3,ATF4|NME1|NOS1
+mitochondrial permeability transition pore complex,GO:0005757,Hypoxia,MESH:D000860,2,Arsenic Trioxide|Hydrogen Peroxide,0,
+mitochondrial proton-transporting ATP synthase complex,GO:0005753,Hypoxia,MESH:D000860,1,Lipopolysaccharides,0,
+mitochondrial proton-transporting ATP synthase complex,GO:0005753,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Lipopolysaccharides,0,
+mitochondrial respiratory chain complex I,GO:0005747,Hypoxia,MESH:D000860,1,Lipopolysaccharides,0,
+mitochondrial respiratory chain complex I,GO:0005747,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Lipopolysaccharides,0,
+mitochondrial respiratory chain complex III,GO:0005750,Hypoxia,MESH:D000860,1,Lipopolysaccharides,0,
+mitochondrial respiratory chain complex III,GO:0005750,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Lipopolysaccharides,0,
+mitochondrion,GO:0005739,Hypoxia,MESH:D000860,3,Bupivacaine|Copper Sulfate|Isoproterenol,8,ACADVL|ALDH1L1|ATP5F1B|CS|NOS1|PCK2|SARDH|SOD2
+motile cilium,GO:0031514,"Hypoxia-Ischemia, Brain",MESH:D020925,0,,1,HIF1A
+mucus layer,GO:0070701,Hypoxia,MESH:D000860,1,Gallic Acid,0,
+myosin complex,GO:0016459,Hypoxia,MESH:D000860,0,,1,CA9
+nBAF complex,GO:0071565,Hypoxia,MESH:D000860,0,,1,ACTB
+neuronal cell body,GO:0043025,Hypoxia,MESH:D000860,0,,5,BDNF|DAF-2|GNAS|PDYN|POMC
+neuronal cell body,GO:0043025,"Hypoxia, Brain",MESH:D002534,0,,1,ITPR1
+neuronal dense core vesicle,GO:0098992,Hypoxia,MESH:D000860,0,,3,BDNF|PDYN|PLAT
+neuronal dense core vesicle lumen,GO:0099013,Hypoxia,MESH:D000860,0,,1,PDYN
+neuron projection,GO:0043005,Hypoxia,MESH:D000860,2,Lidocaine|Oxygen,1,ATF4
+neuron projection,GO:0043005,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Oxygen,0,
+neuron projection terminus,GO:0044306,Hypoxia,MESH:D000860,0,,1,NOS1
+neutrophil extracellular trap,GO:0140644,Hypoxia,MESH:D000860,1,Acetaminophen,0,
+NLRP3 inflammasome complex,GO:0072559,Hypoxia,MESH:D000860,1,Lipopolysaccharides,0,
+NLRP3 inflammasome complex,GO:0072559,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Lipopolysaccharides,0,
+non-motile cilium,GO:0097730,Hypoxia,MESH:D000860,0,,1,DAF-2
+npBAF complex,GO:0071564,Hypoxia,MESH:D000860,0,,1,ACTB
+NuA4 histone acetyltransferase complex,GO:0035267,Hypoxia,MESH:D000860,0,,1,ACTB
+nuclear body,GO:0016604,Hypoxia,MESH:D000860,0,,1,TKT
+nuclear body,GO:0016604,"Hypoxia-Ischemia, Brain",MESH:D020925,0,,1,HIF1A
+nuclear chromosome,GO:0000228,Hypoxia,MESH:D000860,0,,1,RPS2
+nuclear envelope,GO:0005635,"Hypoxia, Brain",MESH:D002534,0,,1,ITPR1
+nuclear inner membrane,GO:0005637,"Hypoxia, Brain",MESH:D002534,0,,1,ITPR1
+nuclear matrix,GO:0016363,Hypoxia,MESH:D000860,0,,1,ACTB
+nuclear membrane,GO:0031965,Hypoxia,MESH:D000860,0,,2,GAPDH|NOS1
+nuclear periphery,GO:0034399,Hypoxia,MESH:D000860,0,,1,ATF4
+nuclear speck,GO:0016607,Hypoxia,MESH:D000860,0,,1,ATF4
+nuclear speck,GO:0016607,"Hypoxia-Ischemia, Brain",MESH:D020925,0,,1,HIF1A
+nucleolus,GO:0005730,Hypoxia,MESH:D000860,0,,4,ACADVL|CA9|RPS14|RPS2
+nucleolus,GO:0005730,"Hypoxia, Brain",MESH:D002534,0,,1,ITPR1
+nucleoplasm,GO:0005654,Hypoxia,MESH:D000860,0,,10,ACADVL|ACTB|ADK|ATF4|EGR1|MPO|NOS1|RPS14|RPS2|TKT
+nucleoplasm,GO:0005654,"Hypoxia, Brain",MESH:D002534,0,,1,ITPR2
+nucleoplasm,GO:0005654,"Hypoxia-Ischemia, Brain",MESH:D020925,0,,3,HIF1A|IRAK1|NOS2
+nucleosome,GO:0000786,Hypoxia,MESH:D000860,0,,1,ACTB
+nucleus,GO:0005634,Hypoxia,MESH:D000860,0,,13,ACTB|ADK|AHCY|ATF4|EGR1|GAPDH|GNAS|HIM-6|HSP70|NME1|NOS1|NOS3|NPPA
+nucleus,GO:0005634,"Hypoxia-Ischemia, Brain",MESH:D020925,0,,4,HIF1A|IRAK1|NOS2|VEGFA
+perikaryon,GO:0043204,Hypoxia,MESH:D000860,0,,3,BDNF|NOS1|NPPA
+perinuclear region of cytoplasm,GO:0048471,Hypoxia,MESH:D000860,0,,7,ALDOB|BDNF|GAPDH|GNAS|NME1|NOS1|NPPA
+perinuclear region of cytoplasm,GO:0048471,"Hypoxia, Brain",MESH:D002534,0,,1,ITPR1
+perinuclear region of cytoplasm,GO:0048471,"Hypoxia-Ischemia, Brain",MESH:D020925,0,,1,NOS2
+perisynaptic space,GO:0099544,Hypoxia,MESH:D000860,0,,1,PLAT
+peroxisomal matrix,GO:0005782,Hypoxia,MESH:D000860,0,,1,POMC
+peroxisomal matrix,GO:0005782,"Hypoxia-Ischemia, Brain",MESH:D020925,0,,1,NOS2
+peroxisome,GO:0005777,Hypoxia,MESH:D000860,0,,1,TKT
+peroxisome,GO:0005777,"Hypoxia-Ischemia, Brain",MESH:D020925,0,,1,NOS2
+phagocytic vesicle lumen,GO:0097013,Hypoxia,MESH:D000860,0,,1,MPO
+photoreceptor inner segment,GO:0001917,Hypoxia,MESH:D000860,0,,1,NOS1
+plasma membrane,GO:0005886,Hypoxia,MESH:D000860,0,,14,ACTB|ADK|APOA1|ATP5F1B|CA9|DAF-2|ESD|GAPDH|GNAS|HSP70|NOS1|NOS3|PDYN|TFPI
+plasma membrane,GO:0005886,"Hypoxia, Brain",MESH:D002534,0,,1,ITPR2
+plasma membrane,GO:0005886,"Hypoxia-Ischemia, Brain",MESH:D020925,0,,3,IRAK1|IRAK4|VEGFA
+platelet alpha granule lumen,GO:0031093,"Hypoxia-Ischemia, Brain",MESH:D020925,0,,1,VEGFA
+platelet dense granule membrane,GO:0031088,"Hypoxia, Brain",MESH:D002534,0,,1,ITPR1
+platelet dense tubular network,GO:0031094,"Hypoxia, Brain",MESH:D002534,0,,1,ITPR1
+platelet dense tubular network membrane,GO:0031095,"Hypoxia, Brain",MESH:D002534,0,,2,ITPR1|ITPR2
+PML body,GO:0016605,Hypoxia,MESH:D000860,1,Arsenic Trioxide,0,
+podosome,GO:0002102,Hypoxia,MESH:D000860,0,,1,ACTB
+postsynapse,GO:0098794,Hypoxia,MESH:D000860,0,,4,BDNF|PLAT|RPS14|RPS2
+postsynapse,GO:0098794,"Hypoxia, Brain",MESH:D002534,0,,1,ITPR1
+postsynaptic actin cytoskeleton,GO:0098871,Hypoxia,MESH:D000860,0,,1,ACTB
+postsynaptic density,GO:0014069,Hypoxia,MESH:D000860,0,,2,NOS1|RPS14
+postsynaptic density,GO:0014069,"Hypoxia, Brain",MESH:D002534,0,,1,ITPR1
+"postsynaptic density, intracellular component",GO:0099092,Hypoxia,MESH:D000860,0,,2,GAPDH|NOS1
+"postsynaptic specialization, intracellular component",GO:0099091,Hypoxia,MESH:D000860,0,,1,NOS1
+presynapse,GO:0098793,Hypoxia,MESH:D000860,0,,2,ACTB|RPS14
+presynapse,GO:0098793,"Hypoxia, Brain",MESH:D002534,0,,1,ITPR1
+presynapse,GO:0098793,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Methamphetamine,0,
+proteasome core complex,GO:0005839,Hypoxia,MESH:D000860,1,Hydrogen Peroxide,0,
+protein-containing complex,GO:0032991,Hypoxia,MESH:D000860,0,,5,ACTB|ALDH1L1|ATF4|NOS1|NPPA
+protein-containing complex,GO:0032991,"Hypoxia, Brain",MESH:D002534,0,,1,ITPR1
+protein-containing complex,GO:0032991,"Hypoxia-Ischemia, Brain",MESH:D020925,0,,2,HIF1A|IRAK1
+proton-transporting ATP synthase complex,GO:0045259,Hypoxia,MESH:D000860,0,,1,ATP5F1B
+"proton-transporting ATP synthase complex, catalytic core F(1)",GO:0045261,Hypoxia,MESH:D000860,0,,1,ATP5F1B
+pseudopodium,GO:0031143,Hypoxia,MESH:D000860,1,Copper Sulfate,0,
+receptor complex,GO:0043235,"Hypoxia, Brain",MESH:D002534,0,,1,ITPR2
+recycling endosome,GO:0055037,Hypoxia,MESH:D000860,0,,1,GNAS
+ribonucleoprotein complex,GO:1990904,Hypoxia,MESH:D000860,0,,4,ACTB|GAPDH|RPS14|RPS2
+ribosome,GO:0005840,Hypoxia,MESH:D000860,0,,2,RPS14|RPS2
+RNA polymerase II transcription regulator complex,GO:0090575,Hypoxia,MESH:D000860,0,,1,ATF4
+RNA polymerase II transcription regulator complex,GO:0090575,"Hypoxia-Ischemia, Brain",MESH:D020925,0,,1,HIF1A
+rough endoplasmic reticulum,GO:0005791,"Hypoxia, Brain",MESH:D002534,1,Carbon Monoxide,0,
+rough endoplasmic reticulum membrane,GO:0030867,Hypoxia,MESH:D000860,0,,1,ALDOB
+RSC-type complex,GO:0016586,Hypoxia,MESH:D000860,0,,1,ACTB
+ruffle,GO:0001726,Hypoxia,MESH:D000860,0,,1,GNAS
+ruffle membrane,GO:0032587,Hypoxia,MESH:D000860,0,,1,NME1
+sarcolemma,GO:0042383,Hypoxia,MESH:D000860,0,,3,GNAS|NOS1|NOS3
+sarcoplasmic reticulum,GO:0016529,Hypoxia,MESH:D000860,0,,1,NOS1
+sarcoplasmic reticulum,GO:0016529,"Hypoxia, Brain",MESH:D002534,0,,2,ITPR1|ITPR2
+sarcoplasmic reticulum membrane,GO:0033017,Hypoxia,MESH:D000860,0,,1,NOS1
+sarcoplasmic reticulum membrane,GO:0033017,"Hypoxia, Brain",MESH:D002534,0,,1,ITPR2
+Schaffer collateral - CA1 synapse,GO:0098685,Hypoxia,MESH:D000860,0,,2,ACTB|PLAT
+Schaffer collateral - CA1 synapse,GO:0098685,"Hypoxia, Brain",MESH:D002534,0,,1,ITPR1
+secretory granule,GO:0030141,Hypoxia,MESH:D000860,0,,5,BDNF|MPO|NOS1|PLAT|POMC
+secretory granule,GO:0030141,"Hypoxia-Ischemia, Brain",MESH:D020925,0,,1,VEGFA
+secretory granule lumen,GO:0034774,Hypoxia,MESH:D000860,0,,2,APOA1|POMC
+serine protease inhibitor complex,GO:0097180,Hypoxia,MESH:D000860,0,,1,PLAT
+side of membrane,GO:0098552,Hypoxia,MESH:D000860,0,,1,TFPI
+small ribosomal subunit,GO:0015935,Hypoxia,MESH:D000860,0,,2,RPS14|RPS2
+small-subunit processome,GO:0032040,Hypoxia,MESH:D000860,0,,1,RPS14
+smooth endoplasmic reticulum membrane,GO:0030868,Hypoxia,MESH:D000860,0,,1,ALDOB
+smooth endoplasmic reticulum membrane,GO:0030868,"Hypoxia, Brain",MESH:D002534,0,,1,ITPR1
+sperm flagellum,GO:0036126,Hypoxia,MESH:D000860,1,Gallic Acid,0,
+sperm head,GO:0061827,Hypoxia,MESH:D000860,1,Gallic Acid,0,
+sperm midpiece,GO:0097225,Hypoxia,MESH:D000860,1,Gallic Acid,0,
+spherical high-density lipoprotein particle,GO:0034366,Hypoxia,MESH:D000860,0,,1,APOA1
+stress fiber,GO:0001725,Hypoxia,MESH:D000860,0,,1,ACTB
+SWI/SNF complex,GO:0016514,Hypoxia,MESH:D000860,0,,1,ACTB
+synapse,GO:0045202,Hypoxia,MESH:D000860,0,,5,ACTB|NOS1|PDYN|RPS14|RPS2
+synapse,GO:0045202,"Hypoxia, Brain",MESH:D002534,0,,1,ITPR1
+synaptic membrane,GO:0097060,"Hypoxia, Brain",MESH:D002534,0,,1,ITPR1
+synaptic vesicle,GO:0008021,Hypoxia,MESH:D000860,0,,3,BDNF|GNAS|PDYN
+terminal bouton,GO:0043195,Hypoxia,MESH:D000860,0,,1,BDNF
+tight junction,GO:0070160,Hypoxia,MESH:D000860,0,,1,ACTB
+transcription factor AP-1 complex,GO:0035976,Hypoxia,MESH:D000860,1,Bleomycin,0,
+transcription regulator complex,GO:0005667,Hypoxia,MESH:D000860,0,,1,ATF4
+transcription regulator complex,GO:0005667,"Hypoxia-Ischemia, Brain",MESH:D020925,0,,1,HIF1A
+trans-Golgi network membrane,GO:0032588,Hypoxia,MESH:D000860,0,,1,GNAS
+transport vesicle,GO:0030133,Hypoxia,MESH:D000860,0,,1,GNAS
+transport vesicle membrane,GO:0030658,"Hypoxia, Brain",MESH:D002534,0,,2,ITPR1|ITPR2
+T-tubule,GO:0030315,Hypoxia,MESH:D000860,0,,1,NOS1
+tubulin complex,GO:0045298,Hypoxia,MESH:D000860,1,Hydrogen Peroxide,0,
+vacuole,GO:0005773,Hypoxia,MESH:D000860,0,,1,CPA2
+VEGF-A complex,GO:1990150,"Hypoxia-Ischemia, Brain",MESH:D020925,0,,1,VEGFA
+very-low-density lipoprotein particle,GO:0034361,Hypoxia,MESH:D000860,0,,1,APOA1
+vesicle,GO:0031982,Hypoxia,MESH:D000860,0,,1,HSP70
+vesicle,GO:0031982,"Hypoxia-Ischemia, Brain",MESH:D020925,0,,1,VEGFA
+virion component,GO:0044423,Hypoxia,MESH:D000860,1,Chloroquine,0,
+Z disc,GO:0030018,Hypoxia,MESH:D000860,0,,1,NOS1

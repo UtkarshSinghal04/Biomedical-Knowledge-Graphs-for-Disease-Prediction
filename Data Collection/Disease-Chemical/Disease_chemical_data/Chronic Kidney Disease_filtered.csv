@@ -1,0 +1,10 @@
+ChemicalName,ChemicalID,CasRN,DiseaseName,DiseaseID,DirectEvidence,InferenceGeneSymbol,InferenceScore,OmimIDs,PubMedIDs
+"24,25-Dihydroxyvitamin D 3",D015650,40013-87-4,Chronic Kidney Disease-Mineral and Bone Disorder,MESH:D012080,therapeutic,,,,11305809
+alfacalcidol,C008088,41294-56-8,Chronic Kidney Disease-Mineral and Bone Disorder,MESH:D012080,therapeutic,,,,11770836
+Aluminum,D000535,7429-90-5,Chronic Kidney Disease-Mineral and Bone Disorder,MESH:D012080,marker/mechanism,,,,9626627
+Calcifediol,D002112,19356-17-3,Chronic Kidney Disease-Mineral and Bone Disorder,MESH:D012080,therapeutic,,,,6897822
+Calcitriol,D002117,32222-06-3,Chronic Kidney Disease-Mineral and Bone Disorder,MESH:D012080,marker/mechanism,,,,6897822
+Calcitriol,D002117,32222-06-3,Chronic Kidney Disease-Mineral and Bone Disorder,MESH:D012080,therapeutic,,,,11305809|1585935|17984431|3626302|6760236
+Calcium Compounds,D017610,,Chronic Kidney Disease-Mineral and Bone Disorder,MESH:D012080,therapeutic,,,,1585935
+Endosulfan,D004726,115-29-7,Chronic Kidney Diseases of Uncertain Etiology,MESH:D000092702,marker/mechanism,,,,36513242
+Ro 23-7553,C064183,118694-43-2,Chronic Kidney Disease-Mineral and Bone Disorder,MESH:D012080,therapeutic,,,,14646396

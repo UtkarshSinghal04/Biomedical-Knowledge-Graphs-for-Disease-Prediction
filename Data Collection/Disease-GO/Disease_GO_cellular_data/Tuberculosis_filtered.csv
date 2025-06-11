@@ -1,0 +1,231 @@
+GOName,GOID,DiseaseName,DiseaseID,InferenceChemicalQty,InferenceChemicalNames,InferenceGeneQty,InferenceGeneSymbols
+actin cap,GO:0030478,Paratuberculosis,MESH:D010283,0,,1,GSN
+actin cytoskeleton,GO:0015629,Paratuberculosis,MESH:D010283,0,,1,GSN
+actin cytoskeleton,GO:0015629,Tuberculosis,MESH:D014376,0,,1,CORO1A
+actin filament,GO:0005884,Tuberculosis,MESH:D014376,0,,1,CORO1A
+actin filament bundle,GO:0032432,"Mycobacterium tuberculosis, susceptibility to infection by",MESH:C536092,1,Particulate Matter,0,
+actin filament bundle,GO:0032432,"Tuberculosis, Pulmonary",MESH:D014397,1,Particulate Matter,0,
+alveolar lamellar body,GO:0097208,"Mycobacterium tuberculosis, susceptibility to infection by",MESH:C536092,1,Particulate Matter,0,
+alveolar lamellar body,GO:0097208,"Tuberculosis, Pulmonary",MESH:D014397,1,Particulate Matter,0,
+apical ectoplasmic specialization,GO:0061831,Paratuberculosis,MESH:D010283,0,,1,GSN
+apical plasma membrane,GO:0016324,Paratuberculosis,MESH:D010283,0,,1,TF
+apoptotic body,GO:0097189,"Tuberculosis, Pulmonary",MESH:D014397,1,Arsenic,0,
+autolysosome,GO:0044754,"MYCOBACTERIUM TUBERCULOSIS, SUSCEPTIBILITY TO",OMIM:607948,0,,1,IRGM
+autolysosome,GO:0044754,Tuberculosis,MESH:D014376,1,Rifampin,0,
+autolysosome,GO:0044754,"Tuberculosis, Central Nervous System",MESH:D020306,1,Rifampin,0,
+autolysosome,GO:0044754,"Tuberculosis, Gastrointestinal",MESH:D014385,1,Rifampin,0,
+autolysosome,GO:0044754,"Tuberculosis, Lymph Node",MESH:D014388,1,Rifampin,0,
+autolysosome,GO:0044754,"Tuberculosis, Meningeal",MESH:D014390,1,Rifampin,0,
+autolysosome,GO:0044754,"Tuberculosis, Multidrug-Resistant",MESH:D018088,1,Rifampin,0,
+autolysosome,GO:0044754,"Tuberculosis, Pleural",MESH:D014396,1,Rifampin,0,
+autolysosome,GO:0044754,"Tuberculosis, Pulmonary",MESH:D014397,1,Rifampin,0,
+autolysosome,GO:0044754,"Tuberculosis, Renal",MESH:D014398,1,Rifampin,0,
+autolysosome,GO:0044754,"Tuberculosis, Spinal",MESH:D014399,1,Rifampin,0,
+autophagosome,GO:0005776,"MYCOBACTERIUM TUBERCULOSIS, SUSCEPTIBILITY TO",OMIM:607948,0,,1,IRGM
+autophagosome,GO:0005776,"Tuberculosis, Pulmonary",MESH:D014397,1,Arsenic,0,
+autophagosome membrane,GO:0000421,"MYCOBACTERIUM TUBERCULOSIS, SUSCEPTIBILITY TO",OMIM:607948,0,,1,IRGM
+axon,GO:0030424,Tuberculosis,MESH:D014376,0,,1,CORO1A
+axon terminus,GO:0043679,"MYCOBACTERIUM TUBERCULOSIS, SUSCEPTIBILITY TO",OMIM:607948,0,,1,CCL2
+axon terminus,GO:0043679,"Tuberculosis, Pulmonary",MESH:D014397,0,,1,CCL2
+azurophil granule lumen,GO:0035578,Paratuberculosis,MESH:D010283,0,,1,C3
+basal ectoplasmic specialization,GO:0061832,Paratuberculosis,MESH:D010283,0,,1,GSN
+basal part of cell,GO:0045178,Paratuberculosis,MESH:D010283,0,,1,TF
+basal plasma membrane,GO:0009925,Paratuberculosis,MESH:D010283,0,,1,TF
+basement membrane,GO:0005604,Paratuberculosis,MESH:D010283,0,,1,TF
+blood microparticle,GO:0072562,Paratuberculosis,MESH:D010283,0,,1,C1R
+blood microparticle,GO:0072562,Tuberculosis,MESH:D014376,0,,1,HP
+cell body,GO:0044297,"MYCOBACTERIUM TUBERCULOSIS, SUSCEPTIBILITY TO",OMIM:607948,0,,1,TLR2
+cell body,GO:0044297,"Tuberculosis, Pulmonary",MESH:D014397,0,,1,MMP3
+cell-cell junction,GO:0005911,Tuberculosis,MESH:D014376,0,,1,CORO1A
+cell cortex,GO:0005938,Tuberculosis,MESH:D014376,0,,1,CORO1A
+cell leading edge,GO:0031252,Tuberculosis,MESH:D014376,0,,1,CORO1A
+cell projection,GO:0042995,"MYCOBACTERIUM TUBERCULOSIS, SUSCEPTIBILITY TO",OMIM:607948,0,,2,IRGM|TLR2
+cell surface,GO:0009986,"MYCOBACTERIUM TUBERCULOSIS, SUSCEPTIBILITY TO",OMIM:607948,0,,3,CD209|TIRAP|TLR2
+cell surface,GO:0009986,Paratuberculosis,MESH:D010283,0,,3,AOC3|C3|TF
+cell surface,GO:0009986,Tuberculosis,MESH:D014376,0,,1,TIRAP
+cell surface,GO:0009986,"Tuberculosis, Pulmonary",MESH:D014397,0,,2,CD209|MMP7
+cell tip,GO:0051286,Paratuberculosis,MESH:D010283,0,,1,TF
+centriolar satellite,GO:0034451,"Tuberculosis, Pulmonary",MESH:D014397,0,,1,ASAP1
+C-fiber,GO:0044299,"MYCOBACTERIUM TUBERCULOSIS, SUSCEPTIBILITY TO",OMIM:607948,0,,1,CCL2
+C-fiber,GO:0044299,"Tuberculosis, Pulmonary",MESH:D014397,0,,1,CCL2
+clathrin-coated endocytic vesicle membrane,GO:0030669,"Mycobacterium tuberculosis, susceptibility to infection by",MESH:C536092,0,,1,HLA-DQA1
+clathrin-coated endocytic vesicle membrane,GO:0030669,Paratuberculosis,MESH:D010283,0,,1,TF
+clathrin-coated pit,GO:0005905,Paratuberculosis,MESH:D010283,0,,1,TF
+collagen-containing extracellular matrix,GO:0062023,Paratuberculosis,MESH:D010283,0,,1,F2
+cortical actin cytoskeleton,GO:0030864,Paratuberculosis,MESH:D010283,0,,1,GSN
+cortical actin cytoskeleton,GO:0030864,Tuberculosis,MESH:D014376,0,,1,CORO1A
+cytoplasm,GO:0005737,"MYCOBACTERIUM TUBERCULOSIS, SUSCEPTIBILITY TO",OMIM:607948,0,,3,CD209|TIRAP|TLR2
+cytoplasm,GO:0005737,Paratuberculosis,MESH:D010283,0,,2,AOC3|GSN
+cytoplasm,GO:0005737,Tuberculosis,MESH:D014376,0,,2,CORO1A|TIRAP
+cytoplasm,GO:0005737,"Tuberculosis, Pulmonary",MESH:D014397,0,,2,ASAP1|CD209
+cytoplasmic vesicle,GO:0031410,Paratuberculosis,MESH:D010283,0,,1,TF
+cytoskeleton,GO:0005856,Paratuberculosis,MESH:D010283,0,,1,GSN
+cytoskeleton,GO:0005856,Tuberculosis,MESH:D014376,0,,1,CORO1A
+cytosol,GO:0005829,"MYCOBACTERIUM TUBERCULOSIS, SUSCEPTIBILITY TO",OMIM:607948,0,,4,CISH|IRGM|TIRAP|TLR2
+cytosol,GO:0005829,Paratuberculosis,MESH:D010283,0,,1,GSN
+cytosol,GO:0005829,Tuberculosis,MESH:D014376,0,,2,CORO1A|TIRAP
+cytosol,GO:0005829,"Tuberculosis, Pulmonary",MESH:D014397,0,,2,ASAP1|MMP3
+dendrite,GO:0030425,"MYCOBACTERIUM TUBERCULOSIS, SUSCEPTIBILITY TO",OMIM:607948,0,,2,CCL2|IFNGR1
+dendrite,GO:0030425,Paratuberculosis,MESH:D010283,0,,1,TF
+dendrite,GO:0030425,"Tuberculosis, Pulmonary",MESH:D014397,0,,2,CCL2|MMP3
+dendritic spine,GO:0043197,"Tuberculosis, Pulmonary",MESH:D014397,0,,1,ASAP1
+dense body,GO:0097433,Paratuberculosis,MESH:D010283,0,,1,TF
+early endosome,GO:0005769,Paratuberculosis,MESH:D010283,0,,2,AOC3|TF
+early endosome,GO:0005769,Tuberculosis,MESH:D014376,0,,1,CORO1A
+endocytic vesicle,GO:0030139,"MYCOBACTERIUM TUBERCULOSIS, SUSCEPTIBILITY TO",OMIM:607948,0,,2,CCL2|TIRAP
+endocytic vesicle,GO:0030139,Paratuberculosis,MESH:D010283,0,,1,TF
+endocytic vesicle,GO:0030139,Tuberculosis,MESH:D014376,0,,1,TIRAP
+endocytic vesicle,GO:0030139,"Tuberculosis, Pulmonary",MESH:D014397,0,,1,CCL2
+endocytic vesicle lumen,GO:0071682,Tuberculosis,MESH:D014376,0,,1,HP
+endocytic vesicle membrane,GO:0030666,"Mycobacterium tuberculosis, susceptibility to infection by",MESH:C536092,0,,1,HLA-DQA1
+endoplasmic reticulum,GO:0005783,Paratuberculosis,MESH:D010283,0,,1,AOC3
+endoplasmic reticulum lumen,GO:0005788,Paratuberculosis,MESH:D010283,0,,3,C3|F2|TF
+endoplasmic reticulum membrane,GO:0005789,"MYCOBACTERIUM TUBERCULOSIS, SUSCEPTIBILITY TO",OMIM:607948,0,,1,IRGM
+endoplasmic reticulum membrane,GO:0005789,Paratuberculosis,MESH:D010283,0,,1,TF
+endosome,GO:0005768,"MYCOBACTERIUM TUBERCULOSIS, SUSCEPTIBILITY TO",OMIM:607948,0,,1,SLC11A1
+endosome,GO:0005768,Paratuberculosis,MESH:D010283,0,,1,TF
+endosome,GO:0005768,Tuberculosis,MESH:D014376,0,,1,SLC11A1
+endosome membrane,GO:0010008,"MYCOBACTERIUM TUBERCULOSIS, SUSCEPTIBILITY TO",OMIM:607948,0,,1,SLC11A1
+endosome membrane,GO:0010008,Paratuberculosis,MESH:D010283,0,,1,TF
+endosome membrane,GO:0010008,Tuberculosis,MESH:D014376,0,,1,SLC11A1
+ER to Golgi transport vesicle membrane,GO:0012507,"Mycobacterium tuberculosis, susceptibility to infection by",MESH:C536092,0,,1,HLA-DQA1
+external side of plasma membrane,GO:0009897,"MYCOBACTERIUM TUBERCULOSIS, SUSCEPTIBILITY TO",OMIM:607948,0,,3,CD209|IFNG|TLR2
+external side of plasma membrane,GO:0009897,Paratuberculosis,MESH:D010283,0,,1,F2
+external side of plasma membrane,GO:0009897,"Tuberculosis, Bovine",MESH:D014380,0,,1,IL4
+external side of plasma membrane,GO:0009897,"Tuberculosis, Pulmonary",MESH:D014397,0,,1,CD209
+extracellular matrix,GO:0031012,"MYCOBACTERIUM TUBERCULOSIS, SUSCEPTIBILITY TO",OMIM:607948,0,,1,TLR2
+extracellular matrix,GO:0031012,"Tuberculosis, Pulmonary",MESH:D014397,0,,3,MMP3|MMP7|MMP8
+extracellular region,GO:0005576,"MYCOBACTERIUM TUBERCULOSIS, SUSCEPTIBILITY TO",OMIM:607948,0,,3,CCL2|CD209|IFNG
+extracellular region,GO:0005576,Paratuberculosis,MESH:D010283,0,,5,C1R|C3|F2|GSN|TF
+extracellular region,GO:0005576,Tuberculosis,MESH:D014376,0,,1,HP
+extracellular region,GO:0005576,"Tuberculosis, Bovine",MESH:D014380,0,,1,IL4
+extracellular region,GO:0005576,"Tuberculosis, Pulmonary",MESH:D014397,0,,5,CCL2|CD209|MMP3|MMP7|MMP8
+extracellular space,GO:0005615,"MYCOBACTERIUM TUBERCULOSIS, SUSCEPTIBILITY TO",OMIM:607948,0,,3,CCL2|IFNG|TLR2
+extracellular space,GO:0005615,"Mycobacterium tuberculosis, susceptibility to infection by",MESH:C536092,0,,1,TNFSF8
+extracellular space,GO:0005615,Paratuberculosis,MESH:D010283,0,,6,AOC3|C1R|C3|F2|GSN|TF
+extracellular space,GO:0005615,Tuberculosis,MESH:D014376,0,,1,HP
+extracellular space,GO:0005615,"Tuberculosis, Bovine",MESH:D014380,0,,1,IL4
+extracellular space,GO:0005615,"Tuberculosis, Pulmonary",MESH:D014397,0,,4,CCL2|MMP3|MMP7|MMP8
+extracellular vesicle,GO:1903561,"Mycobacterium tuberculosis, susceptibility to infection by",MESH:C536092,1,Air Pollutants,0,
+extracellular vesicle,GO:1903561,"Tuberculosis, Pulmonary",MESH:D014397,2,Air Pollutants|Arsenic,0,
+extrinsic component of cytoplasmic side of plasma membrane,GO:0031234,"MYCOBACTERIUM TUBERCULOSIS, SUSCEPTIBILITY TO",OMIM:607948,0,,1,TIRAP
+extrinsic component of cytoplasmic side of plasma membrane,GO:0031234,Tuberculosis,MESH:D014376,0,,1,TIRAP
+extrinsic component of plasma membrane,GO:0019897,Paratuberculosis,MESH:D010283,0,,1,F2
+ficolin-1-rich granule lumen,GO:1904813,Paratuberculosis,MESH:D010283,0,,1,GSN
+ficolin-1-rich granule membrane,GO:0101003,"MYCOBACTERIUM TUBERCULOSIS, SUSCEPTIBILITY TO",OMIM:607948,0,,1,SLC11A1
+ficolin-1-rich granule membrane,GO:0101003,Tuberculosis,MESH:D014376,0,,1,SLC11A1
+filamentous actin,GO:0031941,"Mycobacterium tuberculosis, susceptibility to infection by",MESH:C536092,1,Air Pollutants,0,
+filamentous actin,GO:0031941,"Tuberculosis, Pulmonary",MESH:D014397,1,Air Pollutants,0,
+focal adhesion,GO:0005925,Paratuberculosis,MESH:D010283,0,,1,GSN
+glial filament,GO:0097426,Paratuberculosis,MESH:D010283,0,,1,GSN
+glutamatergic synapse,GO:0098978,Tuberculosis,MESH:D014376,0,,1,CORO1A
+glutamatergic synapse,GO:0098978,"Tuberculosis, Pulmonary",MESH:D014397,0,,1,ASAP1
+Golgi apparatus,GO:0005794,"MYCOBACTERIUM TUBERCULOSIS, SUSCEPTIBILITY TO",OMIM:607948,0,,2,IRGM|TLR2
+Golgi apparatus,GO:0005794,Paratuberculosis,MESH:D010283,0,,1,AOC3
+Golgi apparatus,GO:0005794,"Tuberculosis, Pulmonary",MESH:D014397,0,,1,ASAP1
+Golgi lumen,GO:0005796,Paratuberculosis,MESH:D010283,0,,1,F2
+Golgi membrane,GO:0000139,"MYCOBACTERIUM TUBERCULOSIS, SUSCEPTIBILITY TO",OMIM:607948,0,,1,IRGM
+Golgi membrane,GO:0000139,"Mycobacterium tuberculosis, susceptibility to infection by",MESH:C536092,0,,1,HLA-DQA1
+Golgi membrane,GO:0000139,"Tuberculosis, Pulmonary",MESH:D014397,0,,1,ASAP1
+haptoglobin-hemoglobin complex,GO:0031838,Tuberculosis,MESH:D014376,0,,1,HP
+HFE-transferrin receptor complex,GO:1990712,Paratuberculosis,MESH:D010283,0,,1,TF
+host cell,GO:0043657,"MYCOBACTERIUM TUBERCULOSIS, SUSCEPTIBILITY TO",OMIM:607948,0,,1,CD209
+host cell,GO:0043657,"Tuberculosis, Pulmonary",MESH:D014397,0,,1,CD209
+"IgE immunoglobulin complex, circulating",GO:0071743,"Mycobacterium tuberculosis, susceptibility to infection by",MESH:C536092,2,Air Pollutants|Particulate Matter,0,
+"IgE immunoglobulin complex, circulating",GO:0071743,"Tuberculosis, Pulmonary",MESH:D014397,2,Air Pollutants|Particulate Matter,0,
+immunological synapse,GO:0001772,Tuberculosis,MESH:D014376,0,,1,CORO1A
+intracellular membrane-bounded organelle,GO:0043231,"MYCOBACTERIUM TUBERCULOSIS, SUSCEPTIBILITY TO",OMIM:607948,0,,1,TLR2
+lamellipodium,GO:0030027,Paratuberculosis,MESH:D010283,0,,1,GSN
+lamellipodium,GO:0030027,Tuberculosis,MESH:D014376,0,,1,CORO1A
+late endosome,GO:0005770,"MYCOBACTERIUM TUBERCULOSIS, SUSCEPTIBILITY TO",OMIM:607948,0,,2,IRGM|SLC11A1
+late endosome,GO:0005770,Paratuberculosis,MESH:D010283,0,,1,TF
+late endosome,GO:0005770,Tuberculosis,MESH:D014376,0,,1,SLC11A1
+late endosome membrane,GO:0031902,"MYCOBACTERIUM TUBERCULOSIS, SUSCEPTIBILITY TO",OMIM:607948,0,,2,IRGM|SLC11A1
+late endosome membrane,GO:0031902,Tuberculosis,MESH:D014376,0,,1,SLC11A1
+lumenal side of endoplasmic reticulum membrane,GO:0098553,"Mycobacterium tuberculosis, susceptibility to infection by",MESH:C536092,0,,1,HLA-DQA1
+lysosomal membrane,GO:0005765,"MYCOBACTERIUM TUBERCULOSIS, SUSCEPTIBILITY TO",OMIM:607948,0,,2,IRGM|SLC11A1
+lysosomal membrane,GO:0005765,"Mycobacterium tuberculosis, susceptibility to infection by",MESH:C536092,0,,1,HLA-DQA1
+lysosomal membrane,GO:0005765,Tuberculosis,MESH:D014376,0,,1,SLC11A1
+lysosome,GO:0005764,"MYCOBACTERIUM TUBERCULOSIS, SUSCEPTIBILITY TO",OMIM:607948,0,,2,IRGM|SLC11A1
+lysosome,GO:0005764,Tuberculosis,MESH:D014376,0,,1,SLC11A1
+membrane,GO:0016020,"MYCOBACTERIUM TUBERCULOSIS, SUSCEPTIBILITY TO",OMIM:607948,0,,5,CD209|IFNGR1|IRGM|SLC11A1|TLR2
+membrane,GO:0016020,"Mycobacterium tuberculosis, susceptibility to infection by",MESH:C536092,0,,1,TNFSF8
+membrane,GO:0016020,Paratuberculosis,MESH:D010283,0,,2,AOC3|TF
+membrane,GO:0016020,Tuberculosis,MESH:D014376,0,,1,SLC11A1
+membrane,GO:0016020,"Tuberculosis, Pulmonary",MESH:D014397,0,,1,CD209
+membrane raft,GO:0045121,"MYCOBACTERIUM TUBERCULOSIS, SUSCEPTIBILITY TO",OMIM:607948,0,,1,TLR2
+MHC class II protein complex,GO:0042613,"Mycobacterium tuberculosis, susceptibility to infection by",MESH:C536092,0,,1,HLA-DQA1
+microvillus,GO:0005902,Paratuberculosis,MESH:D010283,0,,1,AOC3
+mitochondria-associated endoplasmic reticulum membrane,GO:0044233,"Mycobacterium tuberculosis, susceptibility to infection by",MESH:C536092,2,Air Pollutants|Particulate Matter,0,
+mitochondria-associated endoplasmic reticulum membrane,GO:0044233,"Tuberculosis, Pulmonary",MESH:D014397,2,Air Pollutants|Particulate Matter,0,
+mitochondrial membrane,GO:0031966,"MYCOBACTERIUM TUBERCULOSIS, SUSCEPTIBILITY TO",OMIM:607948,0,,1,IRGM
+mitochondrial permeability transition pore complex,GO:0005757,Tuberculosis,MESH:D014376,1,Ciprofloxacin,0,
+mitochondrial permeability transition pore complex,GO:0005757,"Tuberculosis, Spinal",MESH:D014399,1,Ciprofloxacin,0,
+mitochondrion,GO:0005739,"MYCOBACTERIUM TUBERCULOSIS, SUSCEPTIBILITY TO",OMIM:607948,0,,1,IRGM
+mitochondrion,GO:0005739,"Mycobacterium tuberculosis, susceptibility to infection by",MESH:C536092,1,Particulate Matter,0,
+mitochondrion,GO:0005739,"Tuberculosis, Pulmonary",MESH:D014397,1,Particulate Matter,1,MMP3
+mucus layer,GO:0070701,"Mycobacterium tuberculosis, susceptibility to infection by",MESH:C536092,1,Particulate Matter,0,
+mucus layer,GO:0070701,"Tuberculosis, Pulmonary",MESH:D014397,1,Particulate Matter,0,
+myelin sheath,GO:0043209,Paratuberculosis,MESH:D010283,0,,1,GSN
+neuronal cell body,GO:0043025,"MYCOBACTERIUM TUBERCULOSIS, SUSCEPTIBILITY TO",OMIM:607948,0,,1,CCL2
+neuronal cell body,GO:0043025,"Tuberculosis, Pulmonary",MESH:D014397,0,,1,CCL2
+neuron projection,GO:0043005,Tuberculosis,MESH:D014376,1,Tretinoin,0,
+neutrophil extracellular trap,GO:0140644,"Tuberculosis, Pulmonary",MESH:D014397,1,Arsenic,0,
+nucleoplasm,GO:0005654,"MYCOBACTERIUM TUBERCULOSIS, SUSCEPTIBILITY TO",OMIM:607948,0,,2,SP110|TLR2
+nucleus,GO:0005634,"MYCOBACTERIUM TUBERCULOSIS, SUSCEPTIBILITY TO",OMIM:607948,0,,1,SP110
+nucleus,GO:0005634,Paratuberculosis,MESH:D010283,0,,2,F2|GSN
+nucleus,GO:0005634,"Tuberculosis, Pulmonary",MESH:D014397,0,,1,MMP3
+P-body,GO:0000932,"Tuberculosis, Pulmonary",MESH:D014397,1,Arsenic,0,
+perikaryon,GO:0043204,"MYCOBACTERIUM TUBERCULOSIS, SUSCEPTIBILITY TO",OMIM:607948,0,,2,CCL2|IFNG
+perikaryon,GO:0043204,"Tuberculosis, Pulmonary",MESH:D014397,0,,1,CCL2
+perinuclear region of cytoplasm,GO:0048471,"MYCOBACTERIUM TUBERCULOSIS, SUSCEPTIBILITY TO",OMIM:607948,0,,1,CCL2
+perinuclear region of cytoplasm,GO:0048471,Paratuberculosis,MESH:D010283,0,,2,GSN|TF
+perinuclear region of cytoplasm,GO:0048471,"Tuberculosis, Pulmonary",MESH:D014397,0,,1,CCL2
+phagocytic cup,GO:0001891,"MYCOBACTERIUM TUBERCULOSIS, SUSCEPTIBILITY TO",OMIM:607948,0,,1,IRGM
+phagocytic cup,GO:0001891,Tuberculosis,MESH:D014376,0,,1,CORO1A
+phagocytic vesicle,GO:0045335,"MYCOBACTERIUM TUBERCULOSIS, SUSCEPTIBILITY TO",OMIM:607948,0,,1,IRGM
+phagocytic vesicle,GO:0045335,Paratuberculosis,MESH:D010283,0,,1,GSN
+phagocytic vesicle,GO:0045335,Tuberculosis,MESH:D014376,0,,1,CORO1A
+phagocytic vesicle membrane,GO:0030670,"MYCOBACTERIUM TUBERCULOSIS, SUSCEPTIBILITY TO",OMIM:607948,0,,3,IRGM|SLC11A1|TLR2
+phagocytic vesicle membrane,GO:0030670,Tuberculosis,MESH:D014376,0,,2,CORO1A|SLC11A1
+phosphatidylinositol 3-kinase complex,GO:0005942,"MYCOBACTERIUM TUBERCULOSIS, SUSCEPTIBILITY TO",OMIM:607948,0,,1,CISH
+plasma membrane,GO:0005886,"MYCOBACTERIUM TUBERCULOSIS, SUSCEPTIBILITY TO",OMIM:607948,0,,6,CD209|CISH|IFNGR1|SLC11A1|TIRAP|TLR2
+plasma membrane,GO:0005886,"Mycobacterium tuberculosis, susceptibility to infection by",MESH:C536092,0,,2,HLA-DQA1|TNFSF8
+plasma membrane,GO:0005886,Paratuberculosis,MESH:D010283,0,,5,AOC3|C3|F2|GSN|TF
+plasma membrane,GO:0005886,Tuberculosis,MESH:D014376,0,,3,CORO1A|SLC11A1|TIRAP
+plasma membrane,GO:0005886,"Tuberculosis, Pulmonary",MESH:D014397,0,,2,ASAP1|CD209
+podosome,GO:0002102,Paratuberculosis,MESH:D010283,0,,1,GSN
+podosome,GO:0002102,"Tuberculosis, Pulmonary",MESH:D014397,0,,1,ASAP1
+protein-containing complex,GO:0032991,Paratuberculosis,MESH:D010283,0,,2,C3|GSN
+protein-containing complex,GO:0032991,Tuberculosis,MESH:D014376,0,,1,CORO1A
+protein-containing complex,GO:0032991,"Tuberculosis, Pulmonary",MESH:D014397,0,,1,MMP3
+receptor complex,GO:0043235,"MYCOBACTERIUM TUBERCULOSIS, SUSCEPTIBILITY TO",OMIM:607948,0,,1,TLR2
+recycling endosome,GO:0055037,Paratuberculosis,MESH:D010283,0,,1,TF
+rough endoplasmic reticulum,GO:0005791,"Tuberculosis, Pulmonary",MESH:D014397,1,Carbon Monoxide,0,
+ruffle,GO:0001726,Paratuberculosis,MESH:D010283,0,,1,GSN
+ruffle membrane,GO:0032587,"MYCOBACTERIUM TUBERCULOSIS, SUSCEPTIBILITY TO",OMIM:607948,0,,1,TIRAP
+ruffle membrane,GO:0032587,Tuberculosis,MESH:D014376,0,,1,TIRAP
+sarcoplasm,GO:0016528,Paratuberculosis,MESH:D010283,0,,1,GSN
+secretory granule lumen,GO:0034774,Paratuberculosis,MESH:D010283,0,,3,C3|GSN|TF
+secretory granule membrane,GO:0030667,"MYCOBACTERIUM TUBERCULOSIS, SUSCEPTIBILITY TO",OMIM:607948,0,,1,TLR2
+specific granule lumen,GO:0035580,Tuberculosis,MESH:D014376,0,,1,HP
+specific granule lumen,GO:0035580,"Tuberculosis, Pulmonary",MESH:D014397,0,,1,MMP8
+spherical high-density lipoprotein particle,GO:0034366,Tuberculosis,MESH:D014376,0,,1,HP
+stereocilium tip,GO:0032426,Tuberculosis,MESH:D014376,0,,1,CORO1A
+synapse,GO:0045202,Tuberculosis,MESH:D014376,0,,1,CORO1A
+synapse,GO:0045202,"Tuberculosis, Pulmonary",MESH:D014397,0,,1,ASAP1
+telopode,GO:0120327,"Tuberculosis, Pulmonary",MESH:D014397,1,Arsenic,0,
+tertiary granule lumen,GO:1904724,Tuberculosis,MESH:D014376,0,,1,HP
+tertiary granule lumen,GO:1904724,"Tuberculosis, Pulmonary",MESH:D014397,0,,1,MMP8
+tertiary granule membrane,GO:0070821,"MYCOBACTERIUM TUBERCULOSIS, SUSCEPTIBILITY TO",OMIM:607948,0,,1,SLC11A1
+tertiary granule membrane,GO:0070821,Tuberculosis,MESH:D014376,0,,1,SLC11A1
+Toll-like receptor 1-Toll-like receptor 2 protein complex,GO:0035354,"MYCOBACTERIUM TUBERCULOSIS, SUSCEPTIBILITY TO",OMIM:607948,0,,1,TLR2
+Toll-like receptor 2-Toll-like receptor 6 protein complex,GO:0035355,"MYCOBACTERIUM TUBERCULOSIS, SUSCEPTIBILITY TO",OMIM:607948,0,,1,TLR2
+trans-Golgi network membrane,GO:0032588,"Mycobacterium tuberculosis, susceptibility to infection by",MESH:C536092,0,,1,HLA-DQA1
+trans-Golgi network membrane,GO:0032588,"Tuberculosis, Pulmonary",MESH:D014397,0,,1,ASAP1
+transport vesicle membrane,GO:0030658,"Mycobacterium tuberculosis, susceptibility to infection by",MESH:C536092,0,,1,HLA-DQA1
+tubulin complex,GO:0045298,"Mycobacterium tuberculosis, susceptibility to infection by",MESH:C536092,1,Particulate Matter,0,
+tubulin complex,GO:0045298,"Tuberculosis, Pulmonary",MESH:D014397,1,Particulate Matter,0,
+vesicle,GO:0031982,"MYCOBACTERIUM TUBERCULOSIS, SUSCEPTIBILITY TO",OMIM:607948,0,,1,IFNGR1
+vesicle,GO:0031982,Paratuberculosis,MESH:D010283,0,,1,TF
+vesicle coat,GO:0030120,Paratuberculosis,MESH:D010283,0,,1,TF

@@ -1,0 +1,55 @@
+GOName,GOID,DiseaseName,DiseaseID,InferenceChemicalQty,InferenceChemicalNames,InferenceGeneQty,InferenceGeneSymbols
+acute-phase response,GO:0006953,"Rheumatoid Arthritis, Systemic Juvenile",MESH:C565798,0,,1,IL6
+auditory receptor cell development,GO:0060117,"Rheumatoid Arthritis, Systemic Juvenile",MESH:C565798,0,,1,MIF
+bone remodeling,GO:0046849,"Rheumatoid Arthritis, Systemic Juvenile",MESH:C565798,0,,1,IL6
+brain renin-angiotensin system,GO:0002035,"Rheumatoid Arthritis, Systemic Juvenile",MESH:C565798,0,,1,MIF
+branching involved in salivary gland morphogenesis,GO:0060445,"Rheumatoid Arthritis, Systemic Juvenile",MESH:C565798,0,,1,IL6
+camera-type eye development,GO:0043010,"Rheumatoid Arthritis, Systemic Juvenile",MESH:C565798,0,,1,MIF
+carboxylic acid metabolic process,GO:0019752,"Rheumatoid Arthritis, Systemic Juvenile",MESH:C565798,0,,1,MIF
+cell differentiation,GO:0030154,"Rheumatoid Arthritis, Systemic Juvenile",MESH:C565798,0,,1,IL6
+cell population proliferation,GO:0008283,"Rheumatoid Arthritis, Systemic Juvenile",MESH:C565798,0,,1,MIF
+cell redox homeostasis,GO:0045454,"Rheumatoid Arthritis, Systemic Juvenile",MESH:C565798,0,,1,IL6
+cell surface receptor signaling pathway,GO:0007166,"Rheumatoid Arthritis, Systemic Juvenile",MESH:C565798,0,,1,MIF
+cellular response to cytokine stimulus,GO:0071345,"Rheumatoid Arthritis, Systemic Juvenile",MESH:C565798,0,,1,IL6
+cellular response to dexamethasone stimulus,GO:0071549,"Rheumatoid Arthritis, Systemic Juvenile",MESH:C565798,0,,1,IL6
+cellular response to estradiol stimulus,GO:0071392,"Rheumatoid Arthritis, Systemic Juvenile",MESH:C565798,0,,1,IL6
+cellular response to hepatocyte growth factor stimulus,GO:0035729,"Rheumatoid Arthritis, Systemic Juvenile",MESH:C565798,0,,1,IL6
+cellular response to hydrogen peroxide,GO:0070301,"Rheumatoid Arthritis, Systemic Juvenile",MESH:C565798,0,,2,IL6|MIF
+cellular response to hypoxia,GO:0071456,"Rheumatoid Arthritis, Systemic Juvenile",MESH:C565798,0,,1,MIF
+cellular response to interleukin-1,GO:0071347,"Rheumatoid Arthritis, Systemic Juvenile",MESH:C565798,0,,1,IL6
+cellular response to interleukin-17,GO:0097398,"Rheumatoid Arthritis, Systemic Juvenile",MESH:C565798,0,,1,IL6
+cellular response to lipopolysaccharide,GO:0071222,"Rheumatoid Arthritis, Systemic Juvenile",MESH:C565798,0,,1,IL6
+cellular response to nutrient levels,GO:0031669,"Rheumatoid Arthritis, Systemic Juvenile",MESH:C565798,0,,1,IL6
+cellular response to prolactin,GO:1990646,"Rheumatoid Arthritis, Systemic Juvenile",MESH:C565798,0,,1,IL6
+cellular response to tumor necrosis factor,GO:0071356,"Rheumatoid Arthritis, Systemic Juvenile",MESH:C565798,0,,1,IL6
+cellular response to virus,GO:0098586,"Rheumatoid Arthritis, Systemic Juvenile",MESH:C565798,0,,1,IL6
+cellular senescence,GO:0090398,"Rheumatoid Arthritis, Systemic Juvenile",MESH:C565798,0,,1,MIF
+cytokine-mediated signaling pathway,GO:0019221,"Rheumatoid Arthritis, Systemic Juvenile",MESH:C565798,0,,1,IL6
+defense response to Gram-negative bacterium,GO:0050829,"Rheumatoid Arthritis, Systemic Juvenile",MESH:C565798,0,,1,IL6
+defense response to Gram-positive bacterium,GO:0050830,"Rheumatoid Arthritis, Systemic Juvenile",MESH:C565798,0,,1,IL6
+defense response to protozoan,GO:0042832,"Rheumatoid Arthritis, Systemic Juvenile",MESH:C565798,0,,1,IL6
+defense response to virus,GO:0051607,"Rheumatoid Arthritis, Systemic Juvenile",MESH:C565798,0,,1,IL6
+"DNA damage response, signal transduction by p53 class mediator",GO:0030330,"Rheumatoid Arthritis, Systemic Juvenile",MESH:C565798,0,,1,MIF
+drinking behavior,GO:0042756,"Rheumatoid Arthritis, Systemic Juvenile",MESH:C565798,0,,1,MIF
+embryonic morphogenesis,GO:0048598,"Rheumatoid Arthritis, Systemic Juvenile",MESH:C565798,0,,1,MIF
+endocrine pancreas development,GO:0031018,"Rheumatoid Arthritis, Systemic Juvenile",MESH:C565798,0,,1,IL6
+epithelial cell proliferation involved in salivary gland morphogenesis,GO:0060664,"Rheumatoid Arthritis, Systemic Juvenile",MESH:C565798,0,,1,IL6
+gene expression,GO:0010467,"Rheumatoid Arthritis, Systemic Juvenile",MESH:C565798,0,,1,IL6
+germinal center B cell differentiation,GO:0002314,"Rheumatoid Arthritis, Systemic Juvenile",MESH:C565798,0,,1,IL6
+glucagon secretion,GO:0070091,"Rheumatoid Arthritis, Systemic Juvenile",MESH:C565798,0,,1,IL6
+glucose homeostasis,GO:0042593,"Rheumatoid Arthritis, Systemic Juvenile",MESH:C565798,0,,1,IL6
+hair follicle development,GO:0001942,"Rheumatoid Arthritis, Systemic Juvenile",MESH:C565798,0,,1,MIF
+hematopoietic stem cell differentiation,GO:0060218,"Rheumatoid Arthritis, Systemic Juvenile",MESH:C565798,0,,1,IL6
+hepatic immune response,GO:0002384,"Rheumatoid Arthritis, Systemic Juvenile",MESH:C565798,0,,1,IL6
+hepatocyte proliferation,GO:0072574,"Rheumatoid Arthritis, Systemic Juvenile",MESH:C565798,0,,1,IL6
+humoral immune response,GO:0006959,"Rheumatoid Arthritis, Systemic Juvenile",MESH:C565798,0,,1,IL6
+immune response,GO:0006955,"Rheumatoid Arthritis, Systemic Juvenile",MESH:C565798,0,,1,IL6
+inflammatory response,GO:0006954,"Rheumatoid Arthritis, Systemic Juvenile",MESH:C565798,0,,2,IL6|MIF
+inflammatory response to wounding,GO:0090594,"Rheumatoid Arthritis, Systemic Juvenile",MESH:C565798,0,,1,IL6
+innate immune response,GO:0045087,"Rheumatoid Arthritis, Systemic Juvenile",MESH:C565798,0,,1,MIF
+inner ear development,GO:0048839,"Rheumatoid Arthritis, Systemic Juvenile",MESH:C565798,0,,1,MIF
+interleukin-6-mediated signaling pathway,GO:0070102,"Rheumatoid Arthritis, Systemic Juvenile",MESH:C565798,0,,1,IL6
+liver regeneration,GO:0097421,"Rheumatoid Arthritis, Systemic Juvenile",MESH:C565798,0,,1,IL6
+lymphocyte costimulation,GO:0031294,"Rheumatoid Arthritis, Systemic Juvenile",MESH:C565798,0,,1,IL6
+macrophage differentiation,GO:0030225,"Rheumatoid Arthritis, Systemic Juvenile",MESH:C565798,0,,1,IL6
+maintenance of blood-brain barrier,GO:0035633,"Rheumatoid Arthritis, Systemic Juvenile",MESH:C565798,0,,1,IL6

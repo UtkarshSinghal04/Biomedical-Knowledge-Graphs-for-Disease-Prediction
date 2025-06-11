@@ -1,0 +1,30 @@
+GeneSymbol,GeneID,DiseaseName,DiseaseID,DirectEvidence,OmimIDs,PubMedIDs
+AOC3,8639,Paratuberculosis,MESH:D010283,marker/mechanism,,22633222
+ASAP1,50807,"Tuberculosis, Pulmonary",MESH:D014397,marker/mechanism,,25774636
+C1R,715,Paratuberculosis,MESH:D010283,marker/mechanism,,22633222
+C3,718,Paratuberculosis,MESH:D010283,marker/mechanism,,22633222
+CCL2,6347,"MYCOBACTERIUM TUBERCULOSIS, SUSCEPTIBILITY TO",OMIM:607948,marker/mechanism,607948,
+CCL2,6347,"Tuberculosis, Pulmonary",MESH:D014397,marker/mechanism,,16352737|18940815
+CD209,30835,"MYCOBACTERIUM TUBERCULOSIS, SUSCEPTIBILITY TO",OMIM:607948,marker/mechanism,607948,
+CD209,30835,"Tuberculosis, Pulmonary",MESH:D014397,marker/mechanism,,16379498
+CISH,1154,"MYCOBACTERIUM TUBERCULOSIS, SUSCEPTIBILITY TO",OMIM:607948,marker/mechanism,607948,
+CORO1A,11151,Tuberculosis,MESH:D014376,marker/mechanism,,16040207
+F2,2147,Paratuberculosis,MESH:D010283,marker/mechanism,,22633222
+GSN,2934,Paratuberculosis,MESH:D010283,marker/mechanism,,22633222
+HLA-DQA1,3117,"Mycobacterium tuberculosis, susceptibility to infection by",MESH:C536092,marker/mechanism,,26829749
+HP,3240,Tuberculosis,MESH:D014376,marker/mechanism,,16597321
+IFNG,3458,"MYCOBACTERIUM TUBERCULOSIS, SUSCEPTIBILITY TO",OMIM:607948,marker/mechanism,607948,
+IFNGR1,3459,"MYCOBACTERIUM TUBERCULOSIS, SUSCEPTIBILITY TO",OMIM:607948,marker/mechanism,607948,
+IL4,3565,"Tuberculosis, Bovine",MESH:D014380,therapeutic,,17387165
+IRGM,345611,"MYCOBACTERIUM TUBERCULOSIS, SUSCEPTIBILITY TO",OMIM:607948,marker/mechanism,607948,
+MMP3,4314,"Tuberculosis, Pulmonary",MESH:D014397,marker/mechanism,,24890593
+MMP7,4316,"Tuberculosis, Pulmonary",MESH:D014397,marker/mechanism,,24890593
+MMP8,4317,"Tuberculosis, Pulmonary",MESH:D014397,marker/mechanism,,24890593
+SLC11A1,6556,"MYCOBACTERIUM TUBERCULOSIS, SUSCEPTIBILITY TO",OMIM:607948,marker/mechanism,607948,
+SLC11A1,6556,Tuberculosis,MESH:D014376,marker/mechanism,,16597321
+SP110,3431,"MYCOBACTERIUM TUBERCULOSIS, SUSCEPTIBILITY TO",OMIM:607948,marker/mechanism,607948,
+TF,7018,Paratuberculosis,MESH:D010283,marker/mechanism,,22633222
+TIRAP,114609,"MYCOBACTERIUM TUBERCULOSIS, SUSCEPTIBILITY TO",OMIM:607948,marker/mechanism,607948,
+TIRAP,114609,Tuberculosis,MESH:D014376,marker/mechanism,,17322885
+TLR2,7097,"MYCOBACTERIUM TUBERCULOSIS, SUSCEPTIBILITY TO",OMIM:607948,marker/mechanism,607948,
+TNFSF8,944,"Mycobacterium tuberculosis, susceptibility to infection by",MESH:C536092,marker/mechanism,,30202016

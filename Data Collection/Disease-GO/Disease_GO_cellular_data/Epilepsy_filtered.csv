@@ -1,0 +1,1161 @@
+GOName,GOID,DiseaseName,DiseaseID,InferenceChemicalQty,InferenceChemicalNames,InferenceGeneQty,InferenceGeneSymbols
+acetylcholine-gated channel complex,GO:0005892,"Epilepsy, Frontal Lobe",MESH:D017034,0,,2,CHRNA4|CHRNB2
+acetylcholine-gated channel complex,GO:0005892,"Epilepsy, Generalized",MESH:D004829,0,,1,CHRNA7
+acetylcholine-gated channel complex,GO:0005892,"Epilepsy, Nocturnal Frontal Lobe, Type 1",MESH:C563930,0,,1,CHRNA4
+acetylcholine-gated channel complex,GO:0005892,"Epilepsy, Nocturnal Frontal Lobe, Type 3",MESH:C565334,0,,1,CHRNB2
+acetylcholine-gated channel complex,GO:0005892,"Epilepsy, Nocturnal Frontal Lobe, Type 4",MESH:C563679,0,,1,CHRNA2
+acrosomal vesicle,GO:0001669,Epilepsy,MESH:D004827,0,,1,VDAC2
+actin cytoskeleton,GO:0015629,Epilepsy,MESH:D004827,0,,4,AUTS2|FLNA|ILK|SNAP25
+actin cytoskeleton,GO:0015629,"Epilepsy, Idiopathic Generalized",MESH:C562694,0,,1,CLCN2
+actin cytoskeleton,GO:0015629,"Epilepsy, Temporal Lobe",MESH:D004833,0,,1,CNR1
+actin filament,GO:0005884,Epilepsy,MESH:D004827,0,,4,ALG13|DYRK1A|FLNA|TSC1
+actin filament,GO:0005884,"EPILEPSY, FAMILIAL TEMPORAL LOBE, 1",OMIM:600512,0,,1,MICAL1
+actin filament,GO:0005884,"Epilepsy, Temporal Lobe",MESH:D004833,0,,1,TEK
+actin filament bundle,GO:0032432,Epilepsy,MESH:D004827,0,,1,FLNA
+adherens junction,GO:0005912,"Epilepsy, Temporal Lobe",MESH:D004833,0,,1,VEGFA
+AIP1-IRE1 complex,GO:1990597,Epilepsy,MESH:D004827,0,,1,ERN1
+anchoring junction,GO:0070161,Cortical Dysplasia-Focal Epilepsy Syndrome,MESH:C567657,0,,1,CNTNAP2
+anchoring junction,GO:0070161,Epilepsy,MESH:D004827,0,,2,CNTNAP2|SCN8A
+anchoring junction,GO:0070161,"Epilepsy, Temporal Lobe",MESH:D004833,0,,2,KDR|TEK
+apical dendrite,GO:0097440,Epilepsy,MESH:D004827,0,,5,FLNA|GRIN2B|HCN1|SLC1A1|SLC4A10
+apical dendrite,GO:0097440,"Epilepsy, Frontal Lobe",MESH:D017034,0,,1,SLC4A10
+apical dendrite,GO:0097440,"Epilepsy, Temporal Lobe",MESH:D004833,0,,1,SLC1A1
+apical part of cell,GO:0045177,Epilepsy,MESH:D004827,0,,1,P2RX4
+apical part of cell,GO:0045177,"Epilepsy, Temporal Lobe",MESH:D004833,0,,1,P2RX4
+apical part of cell,GO:0045177,"Mental Retardation, X-Linked, with Epilepsy",MESH:C564516,0,,1,ATP6AP2
+apical plasma membrane,GO:0016324,Epilepsy,MESH:D004827,0,,6,ABCB1|FOLR1|P2RX2|SLC12A2|SLC1A1|SLC4A10
+apical plasma membrane,GO:0016324,"Epilepsy, Frontal Lobe",MESH:D017034,0,,1,SLC4A10
+apical plasma membrane,GO:0016324,"Epilepsy, Generalized",MESH:D004829,0,,1,CHRNA7
+apical plasma membrane,GO:0016324,"Epilepsy, Idiopathic Generalized",MESH:C562694,0,,1,CASR
+apical plasma membrane,GO:0016324,"Epilepsy, Temporal Lobe",MESH:D004833,0,,3,SLC12A2|SLC1A1|TEK
+apical plasma membrane,GO:0016324,Generalized Epilepsy and Paroxysmal Dyskinesia,MESH:C563719,0,,1,KCNMA1
+apical plasma membrane,GO:0016324,"Mental Retardation, X-Linked, with Epilepsy",MESH:C564516,0,,1,ATP6AP2
+apoptotic body,GO:0097189,Epilepsy,MESH:D004827,1,Cisplatin,0,
+apoptotic body,GO:0097189,"Epilepsy, Tonic-Clonic",MESH:D004830,1,Ropivacaine,0,
+astrocyte end-foot,GO:0097450,Epilepsy,MESH:D004827,0,,1,GFAP
+astrocyte end-foot,GO:0097450,"Epilepsy, Idiopathic Generalized",MESH:C562694,0,,1,CLCN2
+astrocyte projection,GO:0097449,Epilepsy,MESH:D004827,0,,2,GFAP|SLC1A2
+astrocyte projection,GO:0097449,"Epilepsy, Temporal Lobe",MESH:D004833,0,,3,GRM2|GRM3|GRM5
+asymmetric synapse,GO:0032279,Epilepsy,MESH:D004827,0,,3,CHRM1|CHRM2|SLC1A1
+asymmetric synapse,GO:0032279,"Epilepsy, Generalized",MESH:D004829,0,,1,CHRNA7
+asymmetric synapse,GO:0032279,"Epilepsy, Temporal Lobe",MESH:D004833,0,,1,SLC1A1
+autolysosome,GO:0044754,Epilepsy,MESH:D004827,2,Cisplatin|Sevoflurane,0,
+autolysosome,GO:0044754,"Epilepsy, Absence",MESH:D004832,1,Doxorubicin,0,
+autolysosome,GO:0044754,"Epilepsy, Partial, with Variable Foci",MESH:C565785,0,,2,NPRL2|NPRL3
+autolysosome,GO:0044754,"Epilepsy, Tonic-Clonic",MESH:D004830,3,Chloroquine|Methamphetamine|Sertraline,0,
+autophagosome,GO:0005776,Epilepsy,MESH:D004827,3,Cisplatin|Lithium Chloride|Sevoflurane,0,
+autophagosome,GO:0005776,"Epilepsy, Absence",MESH:D004832,1,Doxorubicin,0,
+autophagosome,GO:0005776,"Epilepsy, Temporal Lobe",MESH:D004833,1,Lithium Chloride,0,
+autophagosome,GO:0005776,"Epilepsy, Tonic-Clonic",MESH:D004830,5,Acetaminophen|Chloroquine|Ethanol|Lithium Chloride|Methamphetamine,0,
+autophagosome membrane,GO:0000421,"Mental Retardation, X-Linked, with Epilepsy",MESH:C564516,0,,1,ATP6AP2
+axolemma,GO:0030673,Cortical Dysplasia-Focal Epilepsy Syndrome,MESH:C567657,0,,1,CNTNAP2
+axolemma,GO:0030673,Epilepsy,MESH:D004827,0,,3,CNTNAP2|KCNH1|SLC1A2
+axolemma,GO:0030673,"Epilepsy, Generalized",MESH:D004829,0,,1,CHRNA7
+axon,GO:0030424,Cortical Dysplasia-Focal Epilepsy Syndrome,MESH:C567657,0,,1,CNTNAP2
+axon,GO:0030424,Epilepsy,MESH:D004827,0,,20,BDNF|CNTNAP2|DYRK1A|GRM1|HCN1|ILK|KCNAB2|KCNH1|OPRM1|P2RX4|SCN1A|SCN2A|SCN8A|SLC1A1|SLC1A2|SLC6A1|SNAP25|STX1B|STXBP1|TGFB1
+axon,GO:0030424,"Epilepsy, Benign Neonatal, 3",MESH:C564274,0,,1,SCN2A
+axon,GO:0030424,"Epilepsy, Complex Partial",MESH:D017029,0,,1,SCN3A
+axon,GO:0030424,"EPILEPSY, EARLY-ONSET, 5, WITH OR WITHOUT DEVELOPMENTAL DELAY",OMIM:615400,0,,1,CNTN2
+axon,GO:0030424,"EPILEPSY, FAMILIAL TEMPORAL LOBE, 1",OMIM:600512,0,,1,RELN
+axon,GO:0030424,"EPILEPSY, FAMILIAL TEMPORAL LOBE, 7",OMIM:616436,0,,1,RELN
+axon,GO:0030424,"Epilepsy, Generalized",MESH:D004829,0,,2,CHRNA7|SCN1A
+axon,GO:0030424,"Epilepsy, Idiopathic Generalized",MESH:C562694,0,,3,CASR|CLCN2|GABRD
+axon,GO:0030424,"Epilepsy, Temporal Lobe",MESH:D004833,0,,8,CNR1|GRM1|GRM2|GRM3|KCNC4|P2RX4|SLC1A1|SLIT2
+axon,GO:0030424,"Epilepsy, Tonic-Clonic",MESH:D004830,0,,3,BDNF|NGF|NTF3
+axon,GO:0030424,"Epilepsy, X-Linked, with Variable Learning Disabilities and Behavior Disorders",MESH:C564505,0,,1,SYN1
+axon,GO:0030424,"Generalized Epilepsy With Febrile Seizures Plus, Type 1",MESH:C565809,0,,1,SCN1B
+axon,GO:0030424,"Generalized Epilepsy With Febrile Seizures Plus, Type 2",MESH:C565810,0,,1,SCN1A
+axon,GO:0030424,"GENERALIZED EPILEPSY WITH FEBRILE SEIZURES PLUS, TYPE 9",OMIM:616172,0,,1,STX1B
+axon,GO:0030424,"Mental Retardation, X-Linked, with Epilepsy",MESH:C564516,0,,1,ATP6AP2
+axon,GO:0030424,MYOCLONIC-ATONIC EPILEPSY,OMIM:616421,0,,1,SLC6A1
+axonal growth cone,GO:0044295,Epilepsy,MESH:D004827,0,,2,FLNA|SNAP25
+axonemal microtubule,GO:0005879,"Epilepsy, Absence",MESH:D004832,0,,1,EFHC1
+axonemal microtubule,GO:0005879,"Myoclonic Epilepsy, Juvenile",MESH:D020190,0,,1,EFHC1
+axoneme,GO:0005930,"Epilepsy, Absence",MESH:D004832,0,,1,EFHC1
+axoneme,GO:0005930,"Myoclonic Epilepsy, Juvenile",MESH:D020190,0,,1,EFHC1
+axon initial segment,GO:0043194,Cortical Dysplasia-Focal Epilepsy Syndrome,MESH:C567657,0,,1,CNTNAP2
+axon initial segment,GO:0043194,Epilepsy,MESH:D004827,0,,6,CNTNAP2|KCNAB2|KCNQ2|SCN1A|SCN2A|SCN8A
+axon initial segment,GO:0043194,"Epilepsy, Benign Neonatal",MESH:D020936,0,,1,KCNQ2
+axon initial segment,GO:0043194,"Epilepsy, Benign Neonatal, 3",MESH:C564274,0,,1,SCN2A
+axon initial segment,GO:0043194,"EPILEPSY, EARLY-ONSET, 5, WITH OR WITHOUT DEVELOPMENTAL DELAY",OMIM:615400,0,,1,CNTN2
+axon initial segment,GO:0043194,"EPILEPSY, FAMILIAL TEMPORAL LOBE, 1",OMIM:600512,0,,1,LGI1
+axon initial segment,GO:0043194,"Epilepsy, Generalized",MESH:D004829,0,,1,SCN1A
+axon initial segment,GO:0043194,"Epilepsy, Idiopathic Generalized",MESH:C562694,0,,1,CLCN2
+axon initial segment,GO:0043194,"Generalized Epilepsy With Febrile Seizures Plus, Type 2",MESH:C565810,0,,1,SCN1A
+axon terminus,GO:0043679,Epilepsy,MESH:D004827,0,,8,ADRA2A|CHRM1|CHRM2|HCN1|KCNAB2|OPRD1|SLC1A1|SLC4A10
+axon terminus,GO:0043679,"Epilepsy, Frontal Lobe",MESH:D017034,0,,1,SLC4A10
+axon terminus,GO:0043679,"Epilepsy, Idiopathic Generalized",MESH:C562694,0,,1,CASR
+axon terminus,GO:0043679,"Epilepsy, Temporal Lobe",MESH:D004833,0,,2,KCNC4|SLC1A1
+basal dendrite,GO:0097441,Epilepsy,MESH:D004827,0,,1,SLC4A10
+basal dendrite,GO:0097441,"Epilepsy, Frontal Lobe",MESH:D017034,0,,1,SLC4A10
+basal plasma membrane,GO:0009925,Epilepsy,MESH:D004827,0,,3,SLC12A2|SLC1A3|SLCO1A5
+basal plasma membrane,GO:0009925,"Epilepsy, Complex Partial",MESH:D017029,0,,1,SCN3A
+basal plasma membrane,GO:0009925,"Epilepsy, Temporal Lobe",MESH:D004833,0,,2,SLC12A2|TEK
+basement membrane,GO:0005604,Epilepsy,MESH:D004827,0,,1,ALB
+basement membrane,GO:0005604,"Epilepsy, Temporal Lobe",MESH:D004833,0,,1,VEGFA
+basolateral plasma membrane,GO:0016323,Epilepsy,MESH:D004827,0,,6,ADRA2A|FOLR1|HCN1|SLC12A2|SLC1A3|SLC4A10
+basolateral plasma membrane,GO:0016323,"Epilepsy, Frontal Lobe",MESH:D017034,0,,1,SLC4A10
+basolateral plasma membrane,GO:0016323,"Epilepsy, Idiopathic Generalized",MESH:C562694,0,,2,CASR|CLCN2
+basolateral plasma membrane,GO:0016323,"Epilepsy, Temporal Lobe",MESH:D004833,0,,2,SLC12A2|TEK
+bBAF complex,GO:0140092,Epilepsy,MESH:D004827,0,,1,ARID1B
+bleb,GO:0032059,"Epilepsy, Temporal Lobe",MESH:D004833,0,,1,P2RX7
+BLOC-1 complex,GO:0031083,Epilepsy,MESH:D004827,0,,1,SNAP25
+blood microparticle,GO:0072562,Epilepsy,MESH:D004827,0,,2,ALB|TGFB1
+bounding membrane of organelle,GO:0098588,"Mental Retardation, X-Linked, with Epilepsy",MESH:C564516,0,,1,ATP6AP2
+brahma complex,GO:0035060,Epilepsy,MESH:D004827,0,,1,ARID1B
+BRCA1-A complex,GO:0070531,Epilepsy,MESH:D004827,0,,1,ILK
+BRCA1-BARD1 complex,GO:0031436,Epilepsy,MESH:D004827,0,,1,ILK
+brush border,GO:0005903,Epilepsy,MESH:D004827,0,,1,FLNA
+brush border membrane,GO:0031526,Epilepsy,MESH:D004827,0,,2,FOLR1|SLCO1A5
+CA3 pyramidal cell dendrite,GO:0097442,Epilepsy,MESH:D004827,0,,1,SLC4A10
+CA3 pyramidal cell dendrite,GO:0097442,"Epilepsy, Frontal Lobe",MESH:D017034,0,,1,SLC4A10
+calyx of Held,GO:0044305,"Epilepsy, Absence",MESH:D004832,0,,1,CACNA1A
+calyx of Held,GO:0044305,"Epilepsy, Temporal Lobe",MESH:D004833,0,,1,KCNC4
+cardiac Troponin complex,GO:1990584,"Epilepsy, Absence",MESH:D004832,1,Doxorubicin,0,
+catalytic step 2 spliceosome,GO:0071013,Epilepsy,MESH:D004827,0,,1,HNRNPU
+cation channel complex,GO:0034703,"Epilepsy, Frontal Lobe",MESH:D017034,0,,2,CHRNA4|CHRNB2
+cation channel complex,GO:0034703,"Epilepsy, Generalized",MESH:D004829,0,,1,CHRNA7
+cation channel complex,GO:0034703,"Epilepsy, Nocturnal Frontal Lobe, Type 1",MESH:C563930,0,,1,CHRNA4
+cation channel complex,GO:0034703,"Epilepsy, Nocturnal Frontal Lobe, Type 3",MESH:C565334,0,,1,CHRNB2
+caveola,GO:0005901,Epilepsy,MESH:D004827,0,,1,TSC2
+caveola,GO:0005901,"Epilepsy, Absence",MESH:D004832,0,,1,CACNA1H
+caveola,GO:0005901,"Epilepsy, Temporal Lobe",MESH:D004833,0,,1,VDR
+caveola,GO:0005901,Generalized Epilepsy and Paroxysmal Dyskinesia,MESH:C563719,0,,1,KCNMA1
+cell body,GO:0044297,Epilepsy,MESH:D004827,0,,5,GFAP|GNAO1|P2RX4|SLC12A2|SLC1A2
+cell body,GO:0044297,"Epilepsy, Temporal Lobe",MESH:D004833,0,,3,P2RX4|SLC12A2|SLIT2
+cell body,GO:0044297,"Epilepsy, X-Linked, with Variable Learning Disabilities and Behavior Disorders",MESH:C564505,0,,1,SYN1
+cell body,GO:0044297,"Mental Retardation, X-Linked, with Epilepsy",MESH:C564516,0,,1,ATP6AP2
+cell body membrane,GO:0044298,Epilepsy,MESH:D004827,0,,1,SLC12A2
+cell body membrane,GO:0044298,"Epilepsy, Temporal Lobe",MESH:D004833,0,,1,SLC12A2
+cell-cell junction,GO:0005911,Epilepsy,MESH:D004827,0,,4,AKT1|FLNA|ILK|PCDH19
+cell-cell junction,GO:0005911,"Epilepsy, Female-Restricted, with Mental Retardation",MESH:C564715,0,,1,PCDH19
+cell-cell junction,GO:0005911,"Epilepsy, Temporal Lobe",MESH:D004833,0,,2,P2RX7|TEK
+cell cortex,GO:0005938,Epilepsy,MESH:D004827,0,,5,AKT1|FLNA|ILK|SNAP25|TSC1
+cell cortex,GO:0005938,Hyperekplexia and Epilepsy,MESH:C564474,0,,1,ARHGEF9
+cell junction,GO:0030054,Epilepsy,MESH:D004827,0,,4,CHRM1|CHRM2|P2RX4|SCN8A
+cell junction,GO:0030054,"Epilepsy, rolandic with paroxysmal exercise-induced dystonia and writer's cramp",MESH:C535499,0,,1,TBC1D24
+cell junction,GO:0030054,"Epilepsy, Temporal Lobe",MESH:D004833,0,,2,KDR|P2RX4
+cell junction,GO:0030054,"MYOCLONIC EPILEPSY, FAMILIAL INFANTILE",OMIM:605021,0,,1,TBC1D24
+cell junction,GO:0030054,"NEURODEVELOPMENTAL DISORDER WITH EPILEPSY, CATARACTS, FEEDING DIFFICULTIES, AND DELAYED BRAIN MYELINATION",OMIM:617393,0,,1,NACC1
+cell leading edge,GO:0031252,Epilepsy,MESH:D004827,0,,1,DDX3X
+cell periphery,GO:0071944,Epilepsy,MESH:D004827,0,,4,SLC12A2|SLC12A5|SLC1A1|SLC1A3
+cell periphery,GO:0071944,"Epilepsy, Idiopathic Generalized",MESH:C562694,0,,1,SLC12A5
+cell periphery,GO:0071944,"Epilepsy, Nocturnal Frontal Lobe, Type 4",MESH:C563679,0,,1,CHRNA2
+cell periphery,GO:0071944,"Epilepsy, Temporal Lobe",MESH:D004833,0,,4,KDR|SLC12A2|SLC12A5|SLC1A1
+cell projection,GO:0042995,Epilepsy,MESH:D004827,0,,7,DNM1|GFAP|OPRM1|SLC12A2|SLC1A3|TSC1|TSC2
+cell projection,GO:0042995,"Epilepsy, Absence",MESH:D004832,0,,2,CACNA1A|EFHC1
+cell projection,GO:0042995,"Epilepsy, Idiopathic Generalized",MESH:C562694,0,,1,CLCN2
+cell projection,GO:0042995,"Epilepsy, rolandic with paroxysmal exercise-induced dystonia and writer's cramp",MESH:C535499,0,,1,TBC1D24
+cell projection,GO:0042995,"Epilepsy, Temporal Lobe",MESH:D004833,0,,4,CNR1|SLC12A2|SLIT2|TRPV1
+cell projection,GO:0042995,"Epilepsy, X-Linked, with Variable Learning Disabilities and Behavior Disorders",MESH:C564505,0,,1,SYN1
+cell projection,GO:0042995,"Generalized Epilepsy With Febrile Seizures Plus, Type 1",MESH:C565809,0,,1,SCN1B
+cell projection,GO:0042995,"MYOCLONIC EPILEPSY, FAMILIAL INFANTILE",OMIM:605021,0,,1,TBC1D24
+cell projection,GO:0042995,"Myoclonic Epilepsy, Juvenile",MESH:D020190,0,,1,EFHC1
+cell projection membrane,GO:0031253,Epilepsy,MESH:D004827,0,,1,SLC12A2
+cell projection membrane,GO:0031253,"Epilepsy, Temporal Lobe",MESH:D004833,0,,1,SLC12A2
+cell surface,GO:0009986,Cortical Dysplasia-Focal Epilepsy Syndrome,MESH:C567657,0,,1,CNTNAP2
+cell surface,GO:0009986,Epilepsy,MESH:D004827,0,,15,ABCB1|CNTNAP2|GABRB3|GRIN2A|GRIN2B|HCN1|HNRNPU|KCNH1|KCNQ2|P2RX2|SLC1A1|SLC1A2|SLC1A3|SLC6A1|TGFB1
+cell surface,GO:0009986,"Epilepsy, Absence",MESH:D004832,0,,1,GABRB3
+cell surface,GO:0009986,"Epilepsy, Benign Neonatal",MESH:D020936,0,,1,KCNQ2
+cell surface,GO:0009986,"EPILEPSY, EARLY-ONSET, 5, WITH OR WITHOUT DEVELOPMENTAL DELAY",OMIM:615400,0,,1,CNTN2
+cell surface,GO:0009986,"EPILEPSY, FOCAL, WITH SPEECH DISORDER AND WITH OR WITHOUT IMPAIRED INTELLECTUAL DEVELOPMENT",OMIM:245570,0,,1,GRIN2A
+cell surface,GO:0009986,"Epilepsy, Idiopathic Generalized",MESH:C562694,0,,1,CASR
+cell surface,GO:0009986,"Epilepsy, Rolandic",MESH:D019305,0,,1,GRIN2A
+cell surface,GO:0009986,"Epilepsy, Temporal Lobe",MESH:D004833,0,,6,KCNC4|KDR|SLC1A1|SLIT2|TEK|VEGFA
+cell surface,GO:0009986,"Epilepsy, Tonic-Clonic",MESH:D004830,0,,1,HBEGF
+cell surface,GO:0009986,"Mental Retardation, X-Linked, with Epilepsy",MESH:C564516,0,,1,ATP6AP2
+cell surface,GO:0009986,MYOCLONIC-ATONIC EPILEPSY,OMIM:616421,0,,1,SLC6A1
+cell surface,GO:0009986,"Rolandic Epilepsy, Mental Retardation, and Speech Dyspraxia, X-Linked",MESH:C564467,0,,1,SRPX2
+cell trailing edge,GO:0031254,Prickle1-Related Progressive Myoclonic Epilepsy with Ataxia,MESH:C580388,0,,1,PRICKLE1
+cellular_component,GO:0005575,Epilepsy,MESH:D004827,0,,2,ALB|PURA
+cellular_component,GO:0005575,"Epilepsy, Myoclonic, Benign Adult Familial, Type 1",MESH:C563399,0,,1,SAMD12
+centriolar satellite,GO:0034451,"Epilepsy, Partial, with Variable Foci",MESH:C565785,0,,1,NPRL2
+centriolar satellite,GO:0034451,"Epilepsy, Temporal Lobe",MESH:D004833,0,,1,TEK
+centrosome,GO:0005813,Epilepsy,MESH:D004827,0,,7,CDKL5|DDX3X|DYRK1A|HNRNPU|ILK|MECP2|STX1B
+centrosome,GO:0005813,"Epilepsy, Absence",MESH:D004832,0,,1,EFHC1
+centrosome,GO:0005813,"Epilepsy, Temporal Lobe",MESH:D004833,0,,1,TEK
+centrosome,GO:0005813,"GENERALIZED EPILEPSY WITH FEBRILE SEIZURES PLUS, TYPE 9",OMIM:616172,0,,1,STX1B
+centrosome,GO:0005813,"Myoclonic Epilepsy, Juvenile",MESH:D020190,0,,1,EFHC1
+cerebellar granule cell to Purkinje cell synapse,GO:0150048,Cortical Dysplasia-Focal Epilepsy Syndrome,MESH:C567657,0,,1,CNTNAP2
+cerebellar granule cell to Purkinje cell synapse,GO:0150048,Epilepsy,MESH:D004827,0,,1,CNTNAP2
+cerebellar granule cell to Purkinje cell synapse,GO:0150048,"Epilepsy, Temporal Lobe",MESH:D004833,0,,1,GRM4
+chaperone complex,GO:0101031,Epilepsy,MESH:D004827,0,,1,TSC1
+chloride channel complex,GO:0034707,Epilepsy,MESH:D004827,0,,2,GABRB2|GABRB3
+chloride channel complex,GO:0034707,"Epilepsy, Absence",MESH:D004832,0,,1,GABRB3
+chloride channel complex,GO:0034707,"Epilepsy, Idiopathic Generalized",MESH:C562694,0,,2,CLCN2|GABRD
+chloride channel complex,GO:0034707,"Myoclonic Epilepsy, Juvenile",MESH:D020190,0,,1,GABRA1
+cholinergic synapse,GO:0098981,Epilepsy,MESH:D004827,0,,2,CHRM1|CHRM2
+cholinergic synapse,GO:0098981,"Epilepsy, Frontal Lobe",MESH:D017034,0,,2,CHRNA4|CHRNB2
+cholinergic synapse,GO:0098981,"Epilepsy, Generalized",MESH:D004829,0,,1,CHRNA7
+cholinergic synapse,GO:0098981,"Epilepsy, Nocturnal Frontal Lobe, Type 1",MESH:C563930,0,,1,CHRNA4
+cholinergic synapse,GO:0098981,"Epilepsy, Nocturnal Frontal Lobe, Type 3",MESH:C565334,0,,1,CHRNB2
+chromaffin granule,GO:0042583,Epilepsy,MESH:D004827,0,,1,DNM1
+chromatin,GO:0000785,Epilepsy,MESH:D004827,0,,9,ANKRD11|ARID1B|CHD2|FOS|FOSB|FOXG1|ILK|MECP2|MEF2C
+chromatin,GO:0000785,"Epilepsy, Temporal Lobe",MESH:D004833,0,,1,VDR
+chromosome,GO:0005694,Epilepsy,MESH:D004827,0,,1,SMC1A
+"chromosome, centromeric region",GO:0000775,Epilepsy,MESH:D004827,0,,1,SMC1A
+"chromosome, telomeric region",GO:0000781,Epilepsy,MESH:D004827,0,,1,PURA
+ciliary basal body,GO:0036064,Epilepsy,MESH:D004827,0,,4,AKT1|CDKL5|CHRM2|TSC1
+ciliary basal body,GO:0036064,"EPILEPSY, FAMILIAL TEMPORAL LOBE, 1",OMIM:600512,0,,1,MICAL1
+ciliary basal body,GO:0036064,"Epilepsy, Temporal Lobe",MESH:D004833,0,,1,TEK
+ciliary tip,GO:0097542,Epilepsy,MESH:D004827,0,,1,CDKL5
+cilium,GO:0005929,Epilepsy,MESH:D004827,0,,3,AKT1|CHRM2|NPY2R
+cilium,GO:0005929,"Epilepsy, Absence",MESH:D004832,0,,1,EFHC1
+cilium,GO:0005929,"EPILEPSY, FAMILIAL TEMPORAL LOBE, 1",OMIM:600512,0,,1,MICAL1
+cilium,GO:0005929,"Epilepsy, Temporal Lobe",MESH:D004833,0,,1,NPY2R
+cilium,GO:0005929,"Myoclonic Epilepsy, Juvenile",MESH:D020190,0,,1,EFHC1
+clathrin-coated endocytic vesicle membrane,GO:0030669,Epilepsy,MESH:D004827,0,,1,CHRM2
+clathrin-coated endocytic vesicle membrane,GO:0030669,"EPILEPSY, PROGRESSIVE MYOCLONIC, 4, WITH OR WITHOUT RENAL FAILURE",OMIM:254900,0,,1,SCARB2
+clathrin-coated endocytic vesicle membrane,GO:0030669,"Epilepsy, Tonic-Clonic",MESH:D004830,0,,1,HBEGF
+clathrin-coated pit,GO:0005905,Epilepsy,MESH:D004827,0,,1,DNM1
+clathrin-coated vesicle,GO:0030136,Epilepsy,MESH:D004827,0,,2,DNM1|FOLR1
+clathrin-coated vesicle membrane,GO:0030665,"Mental Retardation, X-Linked, with Epilepsy",MESH:C564516,0,,1,ATP6AP2
+clathrin-sculpted glutamate transport vesicle membrane,GO:0060203,"Epilepsy, X-Linked, with Variable Learning Disabilities and Behavior Disorders",MESH:C564505,0,,1,SYN1
+cleavage furrow,GO:0032154,Epilepsy,MESH:D004827,0,,1,STAMBP
+cochlear hair cell ribbon synapse,GO:0098683,Epilepsy,MESH:D004827,1,Cisplatin,0,
+cohesin complex,GO:0008278,Epilepsy,MESH:D004827,0,,1,SMC1A
+collagen-containing extracellular matrix,GO:0062023,Epilepsy,MESH:D004827,0,,2,SPARCL1|TGFB1
+collagen-containing extracellular matrix,GO:0062023,"EPILEPSY, FAMILIAL TEMPORAL LOBE, 1",OMIM:600512,0,,1,RELN
+collagen-containing extracellular matrix,GO:0062023,"EPILEPSY, FAMILIAL TEMPORAL LOBE, 7",OMIM:616436,0,,1,RELN
+collagen-containing extracellular matrix,GO:0062023,"Rolandic Epilepsy, Mental Retardation, and Speech Dyspraxia, X-Linked",MESH:C564467,0,,1,SRPX2
+condensed nuclear chromosome,GO:0000794,Epilepsy,MESH:D004827,0,,1,SMC1A
+connexin complex,GO:0005922,Epilepsy,MESH:D004827,0,,1,CDKL5
+COPII-coated ER to Golgi transport vesicle,GO:0030134,"MICROCEPHALY, EPILEPSY, AND DIABETES SYNDROME 1",OMIM:614231,0,,1,IER3IP1
+core mediator complex,GO:0070847,"INTELLECTUAL DEVELOPMENTAL DISORDER, AUTOSOMAL RECESSIVE 18, WITH OR WITHOUT EPILEPSY",OMIM:614249,0,,1,MED23
+cortical cytoskeleton,GO:0030863,Cortical Dysplasia-Focal Epilepsy Syndrome,MESH:C567657,0,,1,CNTNAP2
+cortical cytoskeleton,GO:0030863,Epilepsy,MESH:D004827,0,,2,CNTNAP2|FLNA
+costamere,GO:0043034,Epilepsy,MESH:D004827,0,,1,ILK
+CRD-mediated mRNA stability complex,GO:0070937,Epilepsy,MESH:D004827,0,,1,HNRNPU
+Cul3-RING ubiquitin ligase complex,GO:0031463,"Epilepsy, Partial, with Variable Foci",MESH:C565785,0,,1,DEPDC5
+cytoplasm,GO:0005737,Epilepsy,MESH:D004827,0,,40,ABCB1|ADRA2A|AKT1|ALB|ALG13|AUTS2|BDNF|CDKL5|CERT1|DDX3X|DNM1|DYRK1A|EEF1A2|ERN1|FLNA|FOS|GABRB3|GFAP|GPX1|GRIN2A|GRIN2B|ILK|IQSEC2|KCNAB2|MECP2|MEF2C|NEXMIF|NPY|POMC|PURA|SELENOW|SLC1A1|SNAP25|STX1B|STXBP1|TGFB1|TSC1|TSC2|TXNRD1|UBE3A
+cytoplasm,GO:0005737,"Epilepsy, Absence",MESH:D004832,0,,4,CACNA1A|EFHC1|GABRB3|JRK
+cytoplasm,GO:0005737,"EPILEPSY, FAMILIAL TEMPORAL LOBE, 1",OMIM:600512,0,,3,LGI1|MICAL1|RELN
+cytoplasm,GO:0005737,"EPILEPSY, FAMILIAL TEMPORAL LOBE, 7",OMIM:616436,0,,1,RELN
+cytoplasm,GO:0005737,"EPILEPSY, FOCAL, WITH SPEECH DISORDER AND WITH OR WITHOUT IMPAIRED INTELLECTUAL DEVELOPMENT",OMIM:245570,0,,1,GRIN2A
+cytoplasm,GO:0005737,"Epilepsy, Generalized",MESH:D004829,0,,1,JRK
+cytoplasm,GO:0005737,"Epilepsy, Myoclonic, Benign Adult Familial, Type 2",MESH:C564313,0,,1,STARD7
+cytoplasm,GO:0005737,"Epilepsy, Partial, with Variable Foci",MESH:C565785,0,,2,NPRL2|NPRL3
+cytoplasm,GO:0005737,"EPILEPSY, PROGRESSIVE MYOCLONIC, 3, WITH OR WITHOUT INTRACELLULAR INCLUSIONS",OMIM:611726,0,,1,KCTD7
+cytoplasm,GO:0005737,"EPILEPSY, PROGRESSIVE MYOCLONIC, 4, WITH OR WITHOUT RENAL FAILURE",OMIM:254900,0,,1,SCARB2
+cytoplasm,GO:0005737,"Epilepsy, Rolandic",MESH:D019305,0,,1,GRIN2A
+cytoplasm,GO:0005737,"Epilepsy, rolandic with paroxysmal exercise-induced dystonia and writer's cramp",MESH:C535499,0,,1,TBC1D24
+cytoplasm,GO:0005737,"Epilepsy, Temporal Lobe",MESH:D004833,0,,10,CNR1|GRM5|KDR|NPY|P2RX7|SLC1A1|SLIT2|TEK|VDR|VEGFA
+cytoplasm,GO:0005737,"Epilepsy, Tonic-Clonic",MESH:D004830,0,,6,BDNF|CYP2D6|FGF2|NES|OXT|POMC
+cytoplasm,GO:0005737,"GENERALIZED EPILEPSY WITH FEBRILE SEIZURES PLUS, TYPE 9",OMIM:616172,0,,1,STX1B
+cytoplasm,GO:0005737,Hyperekplexia and Epilepsy,MESH:C564474,0,,1,ARHGEF9
+cytoplasm,GO:0005737,"Mental Retardation, X-Linked, with Epilepsy",MESH:C564516,0,,1,ATP6AP2
+cytoplasm,GO:0005737,"MYOCLONIC EPILEPSY, FAMILIAL INFANTILE",OMIM:605021,0,,1,TBC1D24
+cytoplasm,GO:0005737,"Myoclonic Epilepsy, Juvenile",MESH:D020190,0,,2,EFHC1|JRK
+cytoplasm,GO:0005737,"NEURODEVELOPMENTAL DISORDER WITH EPILEPSY, CATARACTS, FEEDING DIFFICULTIES, AND DELAYED BRAIN MYELINATION",OMIM:617393,0,,1,NACC1
+cytoplasm,GO:0005737,"Polyhydramnios, Megalencephaly, And Symptomatic Epilepsy",MESH:C567020,0,,1,STRADA
+cytoplasm,GO:0005737,Pyridoxine-dependent epilepsy,MESH:C536254,0,,1,PLPBP
+cytoplasm,GO:0005737,"Rolandic Epilepsy, Mental Retardation, and Speech Dyspraxia, X-Linked",MESH:C564467,0,,1,SRPX2
+cytoplasmic ribonucleoprotein granule,GO:0036464,Epilepsy,MESH:D004827,0,,1,HNRNPU
+cytoplasmic side of endoplasmic reticulum membrane,GO:0098554,Epilepsy,MESH:D004827,0,,1,ALG13
+cytoplasmic side of lysosomal membrane,GO:0098574,Epilepsy,MESH:D004827,0,,2,EEF1A2|GFAP
+cytoplasmic side of plasma membrane,GO:0009898,Epilepsy,MESH:D004827,0,,1,KCNAB2
+cytoplasmic side of plasma membrane,GO:0009898,"Epilepsy, Generalized",MESH:D004829,0,,1,CACNB4
+cytoplasmic side of plasma membrane,GO:0009898,"Epilepsy, Idiopathic Generalized",MESH:C562694,0,,1,CACNB4
+cytoplasmic side of plasma membrane,GO:0009898,"Epilepsy, Myoclonic, Benign Adult Familial, Type 1",MESH:C563399,0,,1,SAMD12
+cytoplasmic side of plasma membrane,GO:0009898,"Myoclonic Epilepsy, Juvenile",MESH:D020190,0,,1,CACNB4
+cytoplasmic stress granule,GO:0010494,Epilepsy,MESH:D004827,0,,1,DDX3X
+cytoplasmic vesicle,GO:0031410,Epilepsy,MESH:D004827,0,,5,BDNF|GABRB2|RAB39B|SCN8A|SLC1A3
+cytoplasmic vesicle,GO:0031410,"Epilepsy, rolandic with paroxysmal exercise-induced dystonia and writer's cramp",MESH:C535499,0,,1,TBC1D24
+cytoplasmic vesicle,GO:0031410,"Epilepsy, Temporal Lobe",MESH:D004833,0,,2,GRM4|KDR
+cytoplasmic vesicle,GO:0031410,"Epilepsy, Tonic-Clonic",MESH:D004830,1,Chloroquine,2,BDNF|NTF3
+cytoplasmic vesicle,GO:0031410,"Epilepsy, X-Linked, with Variable Learning Disabilities and Behavior Disorders",MESH:C564505,0,,1,SYN1
+cytoplasmic vesicle,GO:0031410,"MYOCLONIC EPILEPSY, FAMILIAL INFANTILE",OMIM:605021,0,,1,TBC1D24
+cytoplasmic vesicle membrane,GO:0030659,Epilepsy,MESH:D004827,0,,5,GABRB2|GABRB3|GRIN2A|RAB39B|SLC12A2
+cytoplasmic vesicle membrane,GO:0030659,"Epilepsy, Absence",MESH:D004832,0,,1,GABRB3
+cytoplasmic vesicle membrane,GO:0030659,"EPILEPSY, FOCAL, WITH SPEECH DISORDER AND WITH OR WITHOUT IMPAIRED INTELLECTUAL DEVELOPMENT",OMIM:245570,0,,1,GRIN2A
+cytoplasmic vesicle membrane,GO:0030659,"Epilepsy, Rolandic",MESH:D019305,0,,1,GRIN2A
+cytoplasmic vesicle membrane,GO:0030659,"Epilepsy, rolandic with paroxysmal exercise-induced dystonia and writer's cramp",MESH:C535499,0,,1,TBC1D24
+cytoplasmic vesicle membrane,GO:0030659,"Epilepsy, Temporal Lobe",MESH:D004833,0,,1,SLC12A2
+cytoplasmic vesicle membrane,GO:0030659,"MYOCLONIC EPILEPSY, FAMILIAL INFANTILE",OMIM:605021,0,,1,TBC1D24
+cytoplasmic vesicle membrane,GO:0030659,"Myoclonic Epilepsy, Juvenile",MESH:D020190,0,,1,GABRA1
+cytoskeleton,GO:0005856,Epilepsy,MESH:D004827,0,,6,DYRK1A|GFAP|GRIN2B|KCNAB2|SNAP25|STX1B
+cytoskeleton,GO:0005856,"Epilepsy, Absence",MESH:D004832,0,,1,EFHC1
+cytoskeleton,GO:0005856,"EPILEPSY, FAMILIAL TEMPORAL LOBE, 1",OMIM:600512,0,,1,MICAL1
+cytoskeleton,GO:0005856,"Epilepsy, Temporal Lobe",MESH:D004833,0,,1,TEK
+cytoskeleton,GO:0005856,"Epilepsy, X-Linked, with Variable Learning Disabilities and Behavior Disorders",MESH:C564505,0,,1,SYN1
+cytoskeleton,GO:0005856,"GENERALIZED EPILEPSY WITH FEBRILE SEIZURES PLUS, TYPE 9",OMIM:616172,0,,1,STX1B
+cytoskeleton,GO:0005856,"Myoclonic Epilepsy, Juvenile",MESH:D020190,0,,1,EFHC1
+cytosol,GO:0005829,Epilepsy,MESH:D004827,0,,29,AKT1|ANKRD11|ARID1B|CERT1|DDX3X|DYRK1A|FLNA|FOS|FOSB|GFAP|GPX1|HNRNPU|ILK|KCNAB2|MECP2|MEF2C|NEXMIF|SELENOW|SMC1A|SNAP25|STAMBP|STX1B|STXBP1|SYNGAP1|TSC1|TSC2|TXNRD1|UBE3A|WDR45
+cytosol,GO:0005829,"EPILEPSY, FAMILIAL TEMPORAL LOBE, 1",OMIM:600512,0,,1,MICAL1
+cytosol,GO:0005829,"Epilepsy, Generalized",MESH:D004829,0,,1,CACNB4
+cytosol,GO:0005829,"Epilepsy, Idiopathic Generalized",MESH:C562694,0,,1,CACNB4
+cytosol,GO:0005829,"Epilepsy, Myoclonic, Benign Adult Familial, Type 2",MESH:C564313,0,,1,STARD7
+cytosol,GO:0005829,"Epilepsy, Partial, with Variable Foci",MESH:C565785,0,,1,DEPDC5
+cytosol,GO:0005829,"EPILEPSY, PROGRESSIVE MYOCLONIC, 3, WITH OR WITHOUT INTRACELLULAR INCLUSIONS",OMIM:611726,0,,1,KCTD7
+cytosol,GO:0005829,"Epilepsy, Temporal Lobe",MESH:D004833,0,,1,VDR
+cytosol,GO:0005829,"Epilepsy, Tonic-Clonic",MESH:D004830,0,,1,NGF
+cytosol,GO:0005829,"GENERALIZED EPILEPSY WITH FEBRILE SEIZURES PLUS, TYPE 9",OMIM:616172,0,,1,STX1B
+cytosol,GO:0005829,Hyperekplexia and Epilepsy,MESH:C564474,0,,1,ARHGEF9
+cytosol,GO:0005829,"Myoclonic Epilepsy, Juvenile",MESH:D020190,0,,1,CACNB4
+cytosol,GO:0005829,"Polyhydramnios, Megalencephaly, And Symptomatic Epilepsy",MESH:C567020,0,,1,STRADA
+cytosol,GO:0005829,Prickle1-Related Progressive Myoclonic Epilepsy with Ataxia,MESH:C580388,0,,1,PRICKLE1
+cytosol,GO:0005829,Pyridoxine-dependent epilepsy,MESH:C536254,0,,2,ALDH7A1|PLPBP
+cytosolic small ribosomal subunit,GO:0022627,Epilepsy,MESH:D004827,0,,1,DDX3X
+dendrite,GO:0030425,Cortical Dysplasia-Focal Epilepsy Syndrome,MESH:C567657,0,,1,CNTNAP2
+dendrite,GO:0030425,Epilepsy,MESH:D004827,0,,19,AKT1|BDNF|CHRM1|CHRM2|CNTNAP2|DYRK1A|GNAO1|GRIN2B|GRM1|HCN1|HNRNPU|KCNH1|OPRM1|P2RX4|PURA|SCN8A|SLC1A1|SLC4A10|TSC2
+dendrite,GO:0030425,"Epilepsy, Absence",MESH:D004832,0,,3,CACNA1A|CACNA1H|KCNK9
+dendrite,GO:0030425,"EPILEPSY, FAMILIAL TEMPORAL LOBE, 1",OMIM:600512,0,,2,LGI1|RELN
+dendrite,GO:0030425,"EPILEPSY, FAMILIAL TEMPORAL LOBE, 7",OMIM:616436,0,,1,RELN
+dendrite,GO:0030425,"Epilepsy, Frontal Lobe",MESH:D017034,0,,2,CHRNA4|SLC4A10
+dendrite,GO:0030425,"Epilepsy, Generalized",MESH:D004829,0,,1,CHRNA7
+dendrite,GO:0030425,"Epilepsy, Idiopathic Generalized",MESH:C562694,0,,2,CLCN2|GABRD
+dendrite,GO:0030425,"Epilepsy, Nocturnal Frontal Lobe, Type 1",MESH:C563930,0,,1,CHRNA4
+dendrite,GO:0030425,"Epilepsy, Temporal Lobe",MESH:D004833,0,,8,GRM1|GRM2|GRM5|KCNC4|P2RX4|SLC1A1|SLIT2|TRPV1
+dendrite,GO:0030425,"Epilepsy, Tonic-Clonic",MESH:D004830,0,,3,BDNF|NGF|NTF3
+dendrite,GO:0030425,"Epilepsy, X-Linked, with Variable Learning Disabilities and Behavior Disorders",MESH:C564505,0,,1,SYN1
+dendrite,GO:0030425,Generalized Epilepsy and Paroxysmal Dyskinesia,MESH:C563719,0,,1,KCNMA1
+dendrite cytoplasm,GO:0032839,Epilepsy,MESH:D004827,0,,2,CDKL5|OPRM1
+dendrite membrane,GO:0032590,Epilepsy,MESH:D004827,0,,5,GRIN2A|HCN1|OPRD1|OPRM1|SLC12A5
+dendrite membrane,GO:0032590,"EPILEPSY, FOCAL, WITH SPEECH DISORDER AND WITH OR WITHOUT IMPAIRED INTELLECTUAL DEVELOPMENT",OMIM:245570,0,,1,GRIN2A
+dendrite membrane,GO:0032590,"Epilepsy, Idiopathic Generalized",MESH:C562694,0,,1,SLC12A5
+dendrite membrane,GO:0032590,"Epilepsy, Rolandic",MESH:D019305,0,,1,GRIN2A
+dendrite membrane,GO:0032590,"Epilepsy, Temporal Lobe",MESH:D004833,0,,2,KCNC4|SLC12A5
+dendrite membrane,GO:0032590,"Myoclonic Epilepsy, Juvenile",MESH:D020190,0,,1,GABRA1
+dendritic branch,GO:0044307,Epilepsy,MESH:D004827,1,Dexamethasone,1,GRIN2B
+dendritic growth cone,GO:0044294,Epilepsy,MESH:D004827,0,,1,CDKL5
+dendritic shaft,GO:0043198,Epilepsy,MESH:D004827,0,,6,FLNA|HCN1|ILK|SLC1A1|SLC1A2|SYNGAP1
+dendritic shaft,GO:0043198,"Epilepsy, Generalized",MESH:D004829,0,,1,CHRNA7
+dendritic shaft,GO:0043198,"Epilepsy, Temporal Lobe",MESH:D004833,0,,3,GRM4|GRM5|SLC1A1
+dendritic spine,GO:0043197,Epilepsy,MESH:D004827,1,Dronabinol,10,GABRB2|GABRB3|GRIN2A|GRIN2B|GRM1|P2RX2|P2RX4|SLC1A1|SLC1A2|SLC1A3
+dendritic spine,GO:0043197,"Epilepsy, Absence",MESH:D004832,0,,1,GABRB3
+dendritic spine,GO:0043197,"EPILEPSY, FOCAL, WITH SPEECH DISORDER AND WITH OR WITHOUT IMPAIRED INTELLECTUAL DEVELOPMENT",OMIM:245570,0,,1,GRIN2A
+dendritic spine,GO:0043197,"Epilepsy, Generalized",MESH:D004829,0,,1,CHRNA7
+dendritic spine,GO:0043197,"Epilepsy, Rolandic",MESH:D019305,0,,1,GRIN2A
+dendritic spine,GO:0043197,"Epilepsy, Temporal Lobe",MESH:D004833,0,,5,GRM1|GRM3|GRM5|P2RX4|SLC1A1
+dendritic spine,GO:0043197,"Epilepsy, Tonic-Clonic",MESH:D004830,1,Methamphetamine,0,
+dendritic spine,GO:0043197,"Myoclonic Epilepsy, Juvenile",MESH:D020190,0,,1,GABRA1
+dendritic spine membrane,GO:0032591,"Epilepsy, Idiopathic Generalized",MESH:C562694,0,,1,CLCN2
+dendritic spine membrane,GO:0032591,"Epilepsy, Temporal Lobe",MESH:D004833,0,,1,TRPV1
+dendritic spine membrane,GO:0032591,"Mental Retardation, X-Linked, with Epilepsy",MESH:C564516,0,,1,ATP6AP2
+dense fibrillar component,GO:0001651,"Epilepsy, Temporal Lobe",MESH:D004833,0,,1,VDR
+distal dendrite,GO:0150002,Epilepsy,MESH:D004827,0,,1,SLC1A1
+distal dendrite,GO:0150002,"Epilepsy, Temporal Lobe",MESH:D004833,0,,1,SLC1A1
+dopaminergic synapse,GO:0098691,Epilepsy,MESH:D004827,0,,1,ADRA2A
+dopaminergic synapse,GO:0098691,"Epilepsy, Frontal Lobe",MESH:D017034,0,,2,CHRNA4|CHRNB2
+dopaminergic synapse,GO:0098691,"Epilepsy, Nocturnal Frontal Lobe, Type 1",MESH:C563930,0,,1,CHRNA4
+dopaminergic synapse,GO:0098691,"Epilepsy, Nocturnal Frontal Lobe, Type 3",MESH:C565334,0,,1,CHRNB2
+dystrophin-associated glycoprotein complex,GO:0016010,"Epilepsy, X-Linked, with Variable Learning Disabilities and Behavior Disorders",MESH:C564505,0,,1,SYN1
+early endosome,GO:0005769,Cortical Dysplasia-Focal Epilepsy Syndrome,MESH:C567657,0,,1,CNTNAP2
+early endosome,GO:0005769,Epilepsy,MESH:D004827,0,,3,CERT1|CNTNAP2|STAMBP
+early endosome,GO:0005769,"Epilepsy, Temporal Lobe",MESH:D004833,0,,1,KDR
+early endosome,GO:0005769,"Epilepsy, Tonic-Clonic",MESH:D004830,1,Chloroquine,0,
+early endosome membrane,GO:0031901,Epilepsy,MESH:D004827,0,,2,KCNH1|SLC1A1
+early endosome membrane,GO:0031901,"Epilepsy, Temporal Lobe",MESH:D004833,0,,1,SLC1A1
+endocytic vesicle,GO:0030139,Epilepsy,MESH:D004827,0,,1,DNM1
+endocytic vesicle membrane,GO:0030666,"EPILEPSY, PROGRESSIVE MYOCLONIC, 4, WITH OR WITHOUT RENAL FAILURE",OMIM:254900,0,,1,SCARB2
+endocytic vesicle membrane,GO:0030666,"Epilepsy, Tonic-Clonic",MESH:D004830,0,,1,HBEGF
+endolysosome,GO:0036019,"Epilepsy, Tonic-Clonic",MESH:D004830,1,Chloroquine,0,
+endomembrane system,GO:0012505,Epilepsy,MESH:D004827,0,,1,STX1B
+endomembrane system,GO:0012505,"Epilepsy, rolandic with paroxysmal exercise-induced dystonia and writer's cramp",MESH:C535499,0,,1,TBC1D24
+endomembrane system,GO:0012505,"GENERALIZED EPILEPSY WITH FEBRILE SEIZURES PLUS, TYPE 9",OMIM:616172,0,,1,STX1B
+endomembrane system,GO:0012505,"MYOCLONIC EPILEPSY, FAMILIAL INFANTILE",OMIM:605021,0,,1,TBC1D24
+endoplasmic reticulum,GO:0005783,Epilepsy,MESH:D004827,0,,7,ALB|CERT1|ERN1|FOS|GRIN2A|OPRM1|SLC1A1
+endoplasmic reticulum,GO:0005783,"Epilepsy, Familial Adult Myoclonic, 3",MESH:C567098,0,,1,MARCHF6
+endoplasmic reticulum,GO:0005783,"EPILEPSY, FAMILIAL TEMPORAL LOBE, 1",OMIM:600512,0,,1,LGI1
+endoplasmic reticulum,GO:0005783,"EPILEPSY, FOCAL, WITH SPEECH DISORDER AND WITH OR WITHOUT IMPAIRED INTELLECTUAL DEVELOPMENT",OMIM:245570,0,,1,GRIN2A
+endoplasmic reticulum,GO:0005783,"Epilepsy, Rolandic",MESH:D019305,0,,1,GRIN2A
+endoplasmic reticulum,GO:0005783,"Epilepsy, Temporal Lobe",MESH:D004833,0,,4,BDKRB1|KDR|SLC1A1|VEGFA
+endoplasmic reticulum,GO:0005783,"Epilepsy, Tonic-Clonic",MESH:D004830,0,,2,BCHE|CYP2D6
+endoplasmic reticulum,GO:0005783,Generalized Epilepsy and Paroxysmal Dyskinesia,MESH:C563719,0,,1,KCNMA1
+endoplasmic reticulum,GO:0005783,"Mental Retardation, X-Linked, with Epilepsy",MESH:C564516,0,,1,ATP6AP2
+endoplasmic reticulum,GO:0005783,"MICROCEPHALY, EPILEPSY, AND DIABETES SYNDROME 1",OMIM:614231,0,,1,IER3IP1
+endoplasmic reticulum-Golgi intermediate compartment membrane,GO:0033116,Epilepsy,MESH:D004827,0,,1,FOLR1
+endoplasmic reticulum lumen,GO:0005788,Epilepsy,MESH:D004827,0,,3,ALB|BDNF|SPARCL1
+endoplasmic reticulum lumen,GO:0005788,"Epilepsy, Tonic-Clonic",MESH:D004830,0,,4,BCHE|BDNF|NGF|NTF3
+endoplasmic reticulum membrane,GO:0005789,Epilepsy,MESH:D004827,0,,7,ALG13|CERT1|EEF1A2|ERN1|FOLR1|GRIN2A|GRIN2B
+endoplasmic reticulum membrane,GO:0005789,"Epilepsy, Familial Adult Myoclonic, 3",MESH:C567098,0,,1,MARCHF6
+endoplasmic reticulum membrane,GO:0005789,"EPILEPSY, FOCAL, WITH SPEECH DISORDER AND WITH OR WITHOUT IMPAIRED INTELLECTUAL DEVELOPMENT",OMIM:245570,0,,1,GRIN2A
+endoplasmic reticulum membrane,GO:0005789,"EPILEPSY, PROGRESSIVE MYOCLONIC, 4, WITH OR WITHOUT RENAL FAILURE",OMIM:254900,0,,1,SCARB2
+endoplasmic reticulum membrane,GO:0005789,"Epilepsy, Rolandic",MESH:D019305,0,,1,GRIN2A
+endoplasmic reticulum membrane,GO:0005789,"Epilepsy, Tonic-Clonic",MESH:D004830,0,,1,CYP2D6
+endoplasmic reticulum membrane,GO:0005789,Generalized Epilepsy and Paroxysmal Dyskinesia,MESH:C563719,0,,1,KCNMA1
+endoplasmic reticulum membrane,GO:0005789,"Mental Retardation, X-Linked, with Epilepsy",MESH:C564516,0,,1,ATP6AP2
+endoplasmic reticulum membrane,GO:0005789,"MICROCEPHALY, EPILEPSY, AND DIABETES SYNDROME 1",OMIM:614231,0,,1,IER3IP1
+endoplasmic reticulum quality control compartment,GO:0044322,"Epilepsy, Familial Adult Myoclonic, 3",MESH:C567098,0,,1,MARCHF6
+endosome,GO:0005768,Epilepsy,MESH:D004827,0,,5,FOLR1|OPRM1|SLC1A1|SNAP25|STAMBP
+endosome,GO:0005768,"EPILEPSY, FAMILIAL TEMPORAL LOBE, 1",OMIM:600512,0,,1,MICAL1
+endosome,GO:0005768,"Epilepsy, Temporal Lobe",MESH:D004833,0,,3,BDKRB2|KDR|SLC1A1
+endosome lumen,GO:0031904,"Epilepsy, Tonic-Clonic",MESH:D004830,0,,1,NGF
+endosome membrane,GO:0010008,"EPILEPSY, FAMILIAL TEMPORAL LOBE, 1",OMIM:600512,0,,1,MICAL1
+endosome membrane,GO:0010008,"EPILEPSY, PROGRESSIVE MYOCLONIC, 4, WITH OR WITHOUT RENAL FAILURE",OMIM:254900,0,,1,SCARB2
+endosome membrane,GO:0010008,"Mental Retardation, X-Linked, with Epilepsy",MESH:C564516,0,,1,ATP6AP2
+ER to Golgi transport vesicle membrane,GO:0012507,Epilepsy,MESH:D004827,0,,1,FOLR1
+ER ubiquitin ligase complex,GO:0000835,"Epilepsy, Familial Adult Myoclonic, 3",MESH:C567098,0,,1,MARCHF6
+euchromatin,GO:0000791,"Epilepsy, Temporal Lobe",MESH:D004833,0,,1,VDR
+eukaryotic translation elongation factor 1 complex,GO:0005853,Epilepsy,MESH:D004827,0,,1,EEF1A2
+eukaryotic translation initiation factor 3 complex,GO:0005852,Epilepsy,MESH:D004827,0,,1,DDX3X
+excitatory synapse,GO:0060076,Cortical Dysplasia-Focal Epilepsy Syndrome,MESH:C567657,0,,1,CNTNAP2
+excitatory synapse,GO:0060076,Epilepsy,MESH:D004827,0,,1,CNTNAP2
+excitatory synapse,GO:0060076,"Rolandic Epilepsy, Mental Retardation, and Speech Dyspraxia, X-Linked",MESH:C564467,0,,1,SRPX2
+external side of apical plasma membrane,GO:0098591,Epilepsy,MESH:D004827,0,,1,ABCB1
+external side of plasma membrane,GO:0009897,Epilepsy,MESH:D004827,0,,2,FOLR1|SLC1A1
+external side of plasma membrane,GO:0009897,"Epilepsy, Frontal Lobe",MESH:D017034,0,,2,CHRNA4|CHRNB2
+external side of plasma membrane,GO:0009897,"Epilepsy, Generalized",MESH:D004829,0,,1,CHRNA7
+external side of plasma membrane,GO:0009897,"Epilepsy, Nocturnal Frontal Lobe, Type 1",MESH:C563930,0,,1,CHRNA4
+external side of plasma membrane,GO:0009897,"Epilepsy, Nocturnal Frontal Lobe, Type 3",MESH:C565334,0,,1,CHRNB2
+external side of plasma membrane,GO:0009897,"Epilepsy, Temporal Lobe",MESH:D004833,0,,6,BDKRB1|BDKRB2|KDR|P2RX7|SLC1A1|TRPV1
+external side of plasma membrane,GO:0009897,Generalized Epilepsy and Paroxysmal Dyskinesia,MESH:C563719,0,,1,KCNMA1
+external side of plasma membrane,GO:0009897,"Mental Retardation, X-Linked, with Epilepsy",MESH:C564516,0,,1,ATP6AP2
+extracellular exosome,GO:0070062,Epilepsy,MESH:D004827,0,,1,ALB
+extracellular matrix,GO:0031012,Epilepsy,MESH:D004827,0,,2,SLC12A5|TGFB1
+extracellular matrix,GO:0031012,"EPILEPSY, FAMILIAL TEMPORAL LOBE, 1",OMIM:600512,0,,1,RELN
+extracellular matrix,GO:0031012,"EPILEPSY, FAMILIAL TEMPORAL LOBE, 7",OMIM:616436,0,,1,RELN
+extracellular matrix,GO:0031012,"Epilepsy, Idiopathic Generalized",MESH:C562694,0,,1,SLC12A5
+extracellular matrix,GO:0031012,"Epilepsy, Temporal Lobe",MESH:D004833,0,,2,SLC12A5|VEGFA
+extracellular matrix of synaptic cleft,GO:0098965,Epilepsy,MESH:D004827,0,,1,SPARCL1
+extracellular region,GO:0005576,Epilepsy,MESH:D004827,0,,9,ALB|BDNF|DDX3X|FLNA|FOLR1|NPY|POMC|SPARCL1|TGFB1
+extracellular region,GO:0005576,"EPILEPSY, FAMILIAL TEMPORAL LOBE, 1",OMIM:600512,0,,2,LGI1|RELN
+extracellular region,GO:0005576,"EPILEPSY, FAMILIAL TEMPORAL LOBE, 5",OMIM:614417,0,,1,CPA6
+extracellular region,GO:0005576,"EPILEPSY, FAMILIAL TEMPORAL LOBE, 7",OMIM:616436,0,,1,RELN
+extracellular region,GO:0005576,"EPILEPSY, FAMILIAL TEMPORAL LOBE, 8",OMIM:616461,0,,1,GAL
+extracellular region,GO:0005576,"Epilepsy, Myoclonic, Benign Adult Familial, Type 2",MESH:C564313,0,,1,STARD7
+extracellular region,GO:0005576,"Epilepsy, Temporal Lobe",MESH:D004833,0,,5,KDR|NPY|SLIT2|TEK|VEGFA
+extracellular region,GO:0005576,"Epilepsy, Tonic-Clonic",MESH:D004830,0,,8,BCHE|BDNF|FGF2|HBEGF|NGF|NTF3|OXT|POMC
+extracellular region,GO:0005576,"Generalized Epilepsy With Febrile Seizures Plus, Type 1",MESH:C565809,0,,1,SCN1B
+extracellular region,GO:0005576,"Rolandic Epilepsy, Mental Retardation, and Speech Dyspraxia, X-Linked",MESH:C564467,0,,1,SRPX2
+extracellular region,GO:0005576,SPINAL MUSCULAR ATROPHY WITH PROGRESSIVE MYOCLONIC EPILEPSY,OMIM:159950,0,,1,ASAH1
+extracellular space,GO:0005615,Epilepsy,MESH:D004827,0,,6,ALB|BDNF|NPY|POMC|SPARCL1|TGFB1
+extracellular space,GO:0005615,"EPILEPSY, FAMILIAL TEMPORAL LOBE, 1",OMIM:600512,0,,2,LGI1|RELN
+extracellular space,GO:0005615,"EPILEPSY, FAMILIAL TEMPORAL LOBE, 5",OMIM:614417,0,,1,CPA6
+extracellular space,GO:0005615,"EPILEPSY, FAMILIAL TEMPORAL LOBE, 7",OMIM:616436,0,,1,RELN
+extracellular space,GO:0005615,"EPILEPSY, FAMILIAL TEMPORAL LOBE, 8",OMIM:616461,0,,1,GAL
+extracellular space,GO:0005615,"Epilepsy, Temporal Lobe",MESH:D004833,0,,3,NPY|SLIT2|VEGFA
+extracellular space,GO:0005615,"Epilepsy, Tonic-Clonic",MESH:D004830,0,,8,BCHE|BDNF|FGF2|HBEGF|NGF|NTF3|OXT|POMC
+extracellular space,GO:0005615,"Mental Retardation, X-Linked, with Epilepsy",MESH:C564516,0,,1,ATP6AP2
+extracellular space,GO:0005615,"Rolandic Epilepsy, Mental Retardation, and Speech Dyspraxia, X-Linked",MESH:C564467,0,,1,SRPX2
+extracellular space,GO:0005615,SPINAL MUSCULAR ATROPHY WITH PROGRESSIVE MYOCLONIC EPILEPSY,OMIM:159950,0,,1,ASAH1
+extrinsic component of cytoplasmic side of plasma membrane,GO:0031234,Epilepsy,MESH:D004827,0,,1,KCNAB2
+extrinsic component of endoplasmic reticulum membrane,GO:0042406,Epilepsy,MESH:D004827,0,,1,ALG13
+extrinsic component of membrane,GO:0019898,Epilepsy,MESH:D004827,0,,1,WDR45
+extrinsic component of presynaptic membrane,GO:0098888,Epilepsy,MESH:D004827,0,,2,SNAP25|STXBP1
+extrinsic component of synaptic vesicle membrane,GO:0098850,"Epilepsy, X-Linked, with Variable Learning Disabilities and Behavior Disorders",MESH:C564505,0,,1,SYN1
+fibrillar center,GO:0001650,Epilepsy,MESH:D004827,0,,1,TXNRD1
+ficolin-1-rich granule lumen,GO:1904813,Epilepsy,MESH:D004827,0,,1,DDX3X
+ficolin-1-rich granule lumen,GO:1904813,SPINAL MUSCULAR ATROPHY WITH PROGRESSIVE MYOCLONIC EPILEPSY,OMIM:159950,0,,1,ASAH1
+ficolin-1-rich granule membrane,GO:0101003,"Mental Retardation, X-Linked, with Epilepsy",MESH:C564516,0,,1,ATP6AP2
+filamentous actin,GO:0031941,Epilepsy,MESH:D004827,1,Dexamethasone,0,
+filopodium,GO:0030175,Epilepsy,MESH:D004827,0,,1,SNAP25
+focal adhesion,GO:0005925,Epilepsy,MESH:D004827,0,,2,ILK|OPRM1
+focal adhesion,GO:0005925,"Epilepsy, Temporal Lobe",MESH:D004833,0,,1,TEK
+GABA-A receptor complex,GO:1902711,Epilepsy,MESH:D004827,0,,2,GABRB2|GABRB3
+GABA-A receptor complex,GO:1902711,"Epilepsy, Absence",MESH:D004832,0,,1,GABRB3
+GABA-A receptor complex,GO:1902711,"Epilepsy, Idiopathic Generalized",MESH:C562694,0,,1,GABRD
+GABA-A receptor complex,GO:1902711,"Myoclonic Epilepsy, Juvenile",MESH:D020190,0,,1,GABRA1
+GABA-ergic synapse,GO:0098982,Cortical Dysplasia-Focal Epilepsy Syndrome,MESH:C567657,0,,1,CNTNAP2
+GABA-ergic synapse,GO:0098982,Epilepsy,MESH:D004827,0,,10,ADRA2A|CNTNAP2|EEF1A2|GABRB2|GABRB3|GNAO1|NPY|OPRM1|SLC4A10|SLC6A1
+GABA-ergic synapse,GO:0098982,"Epilepsy, Absence",MESH:D004832,0,,2,CACNA2D2|GABRB3
+GABA-ergic synapse,GO:0098982,"Epilepsy, Frontal Lobe",MESH:D017034,0,,1,SLC4A10
+GABA-ergic synapse,GO:0098982,"Epilepsy, Idiopathic Generalized",MESH:C562694,0,,1,GABRD
+GABA-ergic synapse,GO:0098982,"Epilepsy, Temporal Lobe",MESH:D004833,0,,3,CNR1|NPY|TRPV1
+GABA-ergic synapse,GO:0098982,Hyperekplexia and Epilepsy,MESH:C564474,0,,1,ARHGEF9
+GABA-ergic synapse,GO:0098982,MYOCLONIC-ATONIC EPILEPSY,OMIM:616421,0,,1,SLC6A1
+GABA-ergic synapse,GO:0098982,"Myoclonic Epilepsy, Juvenile",MESH:D020190,0,,1,GABRA1
+GABA receptor complex,GO:1902710,Epilepsy,MESH:D004827,0,,1,GABRB2
+GABA receptor complex,GO:1902710,"Myoclonic Epilepsy, Juvenile",MESH:D020190,0,,1,GABRA1
+gamma DNA polymerase complex,GO:0005760,Epilepsy,MESH:D004827,0,,1,POLG
+GATOR1 complex,GO:1990130,"Epilepsy, Partial, with Variable Foci",MESH:C565785,0,,3,DEPDC5|NPRL2|NPRL3
+GATOR2 complex,GO:0061700,"Epilepsy, Partial, with Variable Foci",MESH:C565785,0,,1,NPRL3
+glial cell projection,GO:0097386,Epilepsy,MESH:D004827,0,,2,GFAP|SLC1A1
+glial cell projection,GO:0097386,"Epilepsy, Temporal Lobe",MESH:D004833,0,,1,SLC1A1
+glutamatergic synapse,GO:0098978,Cortical Dysplasia-Focal Epilepsy Syndrome,MESH:C567657,0,,1,CNTNAP2
+glutamatergic synapse,GO:0098978,Epilepsy,MESH:D004827,0,,32,ADRA2A|AKT1|BDNF|CDKL5|CHRM1|CHRM2|CNTNAP2|DDX3X|DNM1|FLNA|GABRB2|GNAO1|GRIN2A|GRIN2B|GRM1|HCN1|IQSEC2|KCNAB2|MECP2|P2RX2|P2RX4|PURA|SCN2A|SCN8A|SLC12A5|SLC1A2|SNAP25|SPARCL1|STXBP1|SYNGAP1|TSC2|UBE3A
+glutamatergic synapse,GO:0098978,"Epilepsy, Absence",MESH:D004832,0,,2,CACNA1A|CACNA1H
+glutamatergic synapse,GO:0098978,"Epilepsy, Benign Neonatal, 3",MESH:C564274,0,,1,SCN2A
+glutamatergic synapse,GO:0098978,"EPILEPSY, FAMILIAL TEMPORAL LOBE, 1",OMIM:600512,0,,1,LGI1
+glutamatergic synapse,GO:0098978,"EPILEPSY, FOCAL, WITH SPEECH DISORDER AND WITH OR WITHOUT IMPAIRED INTELLECTUAL DEVELOPMENT",OMIM:245570,0,,1,GRIN2A
+glutamatergic synapse,GO:0098978,"Epilepsy, Generalized",MESH:D004829,0,,1,CACNB4
+glutamatergic synapse,GO:0098978,"Epilepsy, Idiopathic Generalized",MESH:C562694,0,,4,CACNB4|CASR|GABRD|SLC12A5
+glutamatergic synapse,GO:0098978,"Epilepsy, Rolandic",MESH:D019305,0,,1,GRIN2A
+glutamatergic synapse,GO:0098978,"Epilepsy, Temporal Lobe",MESH:D004833,0,,9,CNR1|GRM1|GRM2|GRM3|GRM4|GRM5|KCNC4|P2RX4|SLC12A5
+glutamatergic synapse,GO:0098978,"Epilepsy, Tonic-Clonic",MESH:D004830,0,,1,BDNF
+glutamatergic synapse,GO:0098978,Generalized Epilepsy and Paroxysmal Dyskinesia,MESH:C563719,0,,1,KCNMA1
+glutamatergic synapse,GO:0098978,"Myoclonic Epilepsy, Juvenile",MESH:D020190,0,,1,CACNB4
+glutamatergic synapse,GO:0098978,Prickle1-Related Progressive Myoclonic Epilepsy with Ataxia,MESH:C580388,0,,1,PRICKLE1
+glutamatergic synapse,GO:0098978,"Rolandic Epilepsy, Mental Retardation, and Speech Dyspraxia, X-Linked",MESH:C564467,0,,1,SRPX2
+glycinergic synapse,GO:0098690,"Epilepsy, Generalized",MESH:D004829,0,,1,CHRNA7
+glycinergic synapse,GO:0098690,"Epilepsy, Temporal Lobe",MESH:D004833,0,,1,KCNC4
+glycinergic synapse,GO:0098690,Hyperekplexia and Epilepsy,MESH:C564474,0,,1,ARHGEF9
+glycogen granule,GO:0042587,"Epilepsy, Tonic-Clonic",MESH:D004830,1,Ethanol,0,
+glycoprotein Ib-IX-V complex,GO:1990779,Epilepsy,MESH:D004827,0,,1,FLNA
+Golgi apparatus,GO:0005794,Amish Infantile Epilepsy Syndrome,MESH:C563799,0,,1,ST3GAL5
+Golgi apparatus,GO:0005794,Cortical Dysplasia-Focal Epilepsy Syndrome,MESH:C567657,0,,1,CNTNAP2
+Golgi apparatus,GO:0005794,Epilepsy,MESH:D004827,0,,9,ALB|CERT1|CHRM2|CNTNAP2|DNM1|NPY|OPRM1|RAB39B|TSC2
+Golgi apparatus,GO:0005794,"EPILEPSY, FAMILIAL TEMPORAL LOBE, 1",OMIM:600512,0,,1,LGI1
+Golgi apparatus,GO:0005794,"Epilepsy, Temporal Lobe",MESH:D004833,0,,4,BDKRB2|KDR|NPY|VEGFA
+Golgi apparatus,GO:0005794,"Epilepsy, X-Linked, with Variable Learning Disabilities and Behavior Disorders",MESH:C564505,0,,1,SYN1
+Golgi apparatus,GO:0005794,"MICROCEPHALY, EPILEPSY, AND DIABETES SYNDROME 1",OMIM:614231,0,,1,IER3IP1
+Golgi lumen,GO:0005796,Epilepsy,MESH:D004827,0,,1,TGFB1
+Golgi lumen,GO:0005796,"Epilepsy, Tonic-Clonic",MESH:D004830,0,,1,NGF
+Golgi membrane,GO:0000139,Amish Infantile Epilepsy Syndrome,MESH:C563799,0,,1,ST3GAL5
+Golgi membrane,GO:0000139,Epilepsy,MESH:D004827,0,,2,FOLR1|RAB39B
+Golgi membrane,GO:0000139,"EPILEPSY, PROGRESSIVE MYOCLONIC, 4, WITH OR WITHOUT RENAL FAILURE",OMIM:254900,0,,1,SCARB2
+Golgi membrane,GO:0000139,"Epilepsy, Tonic-Clonic",MESH:D004830,0,,1,OXT
+Golgi membrane,GO:0000139,"Mental Retardation, X-Linked, with Epilepsy",MESH:C564516,0,,1,ATP6AP2
+Golgi membrane,GO:0000139,"MICROCEPHALY, EPILEPSY, AND DIABETES SYNDROME 1",OMIM:614231,0,,1,IER3IP1
+G protein-coupled receptor dimeric complex,GO:0038037,Epilepsy,MESH:D004827,0,,1,GRM1
+G protein-coupled receptor dimeric complex,GO:0038037,"Epilepsy, Temporal Lobe",MESH:D004833,0,,1,GRM1
+G protein-coupled receptor homodimeric complex,GO:0038038,Epilepsy,MESH:D004827,0,,1,GRM1
+G protein-coupled receptor homodimeric complex,GO:0038038,"Epilepsy, Temporal Lobe",MESH:D004833,0,,1,GRM1
+growth cone,GO:0030426,Epilepsy,MESH:D004827,0,,5,AUTS2|FLNA|SNAP25|TSC1|TSC2
+growth cone,GO:0030426,"Epilepsy, Generalized",MESH:D004829,0,,1,CHRNA7
+growth cone,GO:0030426,"Epilepsy, Temporal Lobe",MESH:D004833,0,,1,CNR1
+growth cone filopodium,GO:1990812,"Epilepsy, Tonic-Clonic",MESH:D004830,1,Ethanol,0,
+HCN channel complex,GO:0098855,Epilepsy,MESH:D004827,0,,1,HCN1
+heterochromatin,GO:0000792,Epilepsy,MESH:D004827,0,,1,MECP2
+heterochromatin,GO:0000792,"Epilepsy, Temporal Lobe",MESH:D004833,0,,1,VDR
+heterotrimeric G-protein complex,GO:0005834,Epilepsy,MESH:D004827,0,,1,GNAO1
+hippocampal mossy fiber expansion,GO:1990026,"EPILEPSY, FAMILIAL TEMPORAL LOBE, 1",OMIM:600512,0,,1,MICAL1
+hippocampal mossy fiber to CA3 synapse,GO:0098686,Epilepsy,MESH:D004827,0,,2,BDNF|GRIN2B
+hippocampal mossy fiber to CA3 synapse,GO:0098686,"Epilepsy, Tonic-Clonic",MESH:D004830,0,,1,BDNF
+histone methyltransferase complex,GO:0035097,Epilepsy,MESH:D004827,0,,1,TXNRD1
+hyaline inclusion,GO:0097412,"Epilepsy, Absence",MESH:D004832,1,Doxorubicin,0,
+"IgE immunoglobulin complex, circulating",GO:0071743,Epilepsy,MESH:D004827,1,Dexamethasone,0,
+"IgG immunoglobulin complex, circulating",GO:0071736,Epilepsy,MESH:D004827,1,Dexamethasone,0,
+inactive sex chromosome,GO:0098577,Epilepsy,MESH:D004827,0,,1,HNRNPU
+inhibitory synapse,GO:0060077,Epilepsy,MESH:D004827,0,,1,GABRB3
+inhibitory synapse,GO:0060077,"Epilepsy, Absence",MESH:D004832,0,,1,GABRB3
+intercalated disc,GO:0014704,Epilepsy,MESH:D004827,0,,2,SCN1A|SCN2A
+intercalated disc,GO:0014704,"Epilepsy, Benign Neonatal, 3",MESH:C564274,0,,1,SCN2A
+intercalated disc,GO:0014704,"Epilepsy, Generalized",MESH:D004829,0,,1,SCN1A
+intercalated disc,GO:0014704,"Generalized Epilepsy With Febrile Seizures Plus, Type 1",MESH:C565809,0,,1,SCN1B
+intercalated disc,GO:0014704,"Generalized Epilepsy With Febrile Seizures Plus, Type 2",MESH:C565810,0,,1,SCN1A
+intercellular bridge,GO:0045171,"EPILEPSY, FAMILIAL TEMPORAL LOBE, 1",OMIM:600512,0,,1,MICAL1
+intercellular bridge,GO:0045171,"Epilepsy, Nocturnal Frontal Lobe, Type 4",MESH:C563679,0,,1,CHRNA2
+intermediate filament,GO:0005882,Epilepsy,MESH:D004827,0,,1,GFAP
+intermediate filament,GO:0005882,"EPILEPSY, FAMILIAL TEMPORAL LOBE, 1",OMIM:600512,0,,1,MICAL1
+intermediate filament,GO:0005882,"Epilepsy, Tonic-Clonic",MESH:D004830,0,,1,NES
+intermediate filament cytoskeleton,GO:0045111,Epilepsy,MESH:D004827,0,,1,GFAP
+intermediate filament cytoskeleton,GO:0045111,"Epilepsy, Tonic-Clonic",MESH:D004830,0,,1,NES
+intracellular anatomical structure,GO:0005622,Epilepsy,MESH:D004827,0,,1,P2RX2
+intracellular anatomical structure,GO:0005622,"Epilepsy, X-Linked, with Variable Learning Disabilities and Behavior Disorders",MESH:C564505,0,,1,SYN1
+intracellular anatomical structure,GO:0005622,Pyridoxine-dependent epilepsy,MESH:C536254,0,,1,PLPBP
+intracellular ferritin complex,GO:0008043,"Epilepsy, Tonic-Clonic",MESH:D004830,1,Deferoxamine,0,
+intracellular membrane-bounded organelle,GO:0043231,Epilepsy,MESH:D004827,0,,4,FOSB|KCNH1|MEF2C|POLG
+intracellular membrane-bounded organelle,GO:0043231,"Epilepsy, Temporal Lobe",MESH:D004833,0,,1,BDKRB2
+intracellular membrane-bounded organelle,GO:0043231,"Epilepsy, Tonic-Clonic",MESH:D004830,0,,1,CYP2D6
+intracellular membrane-bounded organelle,GO:0043231,"Mental Retardation, X-Linked, with Epilepsy",MESH:C564516,0,,1,ATP6AP2
+intracellular membrane-bounded organelle,GO:0043231,"NEURODEVELOPMENTAL DISORDER WITH EPILEPSY, CATARACTS, FEEDING DIFFICULTIES, AND DELAYED BRAIN MYELINATION",OMIM:617393,0,,1,NACC1
+intracellular non-membrane-bounded organelle,GO:0043232,Epilepsy,MESH:D004827,0,,1,FLNA
+intracellular protein-containing complex,GO:0140535,"Polyhydramnios, Megalencephaly, And Symptomatic Epilepsy",MESH:C567020,0,,1,STRADA
+ion channel complex,GO:0034702,Epilepsy,MESH:D004827,0,,6,EEF1A2|KCNH1|KCNQ2|SCN1A|SCN2A|SCN8A
+ion channel complex,GO:0034702,"Epilepsy, Absence",MESH:D004832,0,,4,CACNA1A|CACNA1H|CACNA2D2|KCNK9
+ion channel complex,GO:0034702,"Epilepsy, Benign Neonatal",MESH:D020936,0,,1,KCNQ2
+ion channel complex,GO:0034702,"Epilepsy, Benign Neonatal, 3",MESH:C564274,0,,1,SCN2A
+ion channel complex,GO:0034702,"Epilepsy, Complex Partial",MESH:D017029,0,,1,SCN3A
+ion channel complex,GO:0034702,"Epilepsy, Generalized",MESH:D004829,0,,1,SCN1A
+ion channel complex,GO:0034702,"Epilepsy, Temporal Lobe",MESH:D004833,0,,1,KCNC4
+ion channel complex,GO:0034702,Generalized Epilepsy and Paroxysmal Dyskinesia,MESH:C563719,0,,1,KCNMA1
+ion channel complex,GO:0034702,"Generalized Epilepsy With Febrile Seizures Plus, Type 1",MESH:C565809,0,,1,SCN1B
+ion channel complex,GO:0034702,"Generalized Epilepsy With Febrile Seizures Plus, Type 2",MESH:C565810,0,,1,SCN1A
+Ire1 complex,GO:1990332,Epilepsy,MESH:D004827,0,,1,ERN1
+IRE1-RACK1-PP2A complex,GO:1990630,Epilepsy,MESH:D004827,0,,1,ERN1
+IRE1-TRAF2-ASK1 complex,GO:1990604,Epilepsy,MESH:D004827,0,,1,ERN1
+juxtaparanode region of axon,GO:0044224,Cortical Dysplasia-Focal Epilepsy Syndrome,MESH:C567657,0,,1,CNTNAP2
+juxtaparanode region of axon,GO:0044224,Epilepsy,MESH:D004827,0,,2,CNTNAP2|KCNAB2
+juxtaparanode region of axon,GO:0044224,"EPILEPSY, EARLY-ONSET, 5, WITH OR WITHOUT DEVELOPMENTAL DELAY",OMIM:615400,0,,1,CNTN2
+kinetochore,GO:0000776,Epilepsy,MESH:D004827,0,,2,HNRNPU|SMC1A
+lamellar body,GO:0042599,"Epilepsy, Tonic-Clonic",MESH:D004830,1,Chloroquine,0,
+lamellipodium,GO:0030027,Epilepsy,MESH:D004827,0,,5,AKT1|DDX3X|ILK|SNAP25|TSC1
+late endosome,GO:0005770,Epilepsy,MESH:D004827,0,,1,GRIN2B
+late endosome membrane,GO:0031902,Epilepsy,MESH:D004827,0,,1,SLC1A1
+late endosome membrane,GO:0031902,"EPILEPSY, PROGRESSIVE MYOCLONIC, 4, WITH OR WITHOUT RENAL FAILURE",OMIM:254900,0,,1,SCARB2
+late endosome membrane,GO:0031902,"Epilepsy, Temporal Lobe",MESH:D004833,0,,1,SLC1A1
+lateral element,GO:0000800,Epilepsy,MESH:D004827,0,,1,SMC1A
+lateral plasma membrane,GO:0016328,Epilepsy,MESH:D004827,0,,1,SLC12A2
+lateral plasma membrane,GO:0016328,"Epilepsy, Temporal Lobe",MESH:D004833,0,,1,SLC12A2
+Lewy body,GO:0097413,Epilepsy,MESH:D004827,0,,1,GPX1
+lipid droplet,GO:0005811,Epilepsy,MESH:D004827,0,,1,TSC1
+lysosomal lumen,GO:0043202,"EPILEPSY, PROGRESSIVE MYOCLONIC, 4, WITH OR WITHOUT RENAL FAILURE",OMIM:254900,0,,1,SCARB2
+lysosomal lumen,GO:0043202,SPINAL MUSCULAR ATROPHY WITH PROGRESSIVE MYOCLONIC EPILEPSY,OMIM:159950,0,,1,ASAH1
+lysosomal membrane,GO:0005765,Epilepsy,MESH:D004827,0,,4,GFAP|P2RX4|TSC1|TSC2
+lysosomal membrane,GO:0005765,"Epilepsy, Partial, with Variable Foci",MESH:C565785,0,,3,DEPDC5|NPRL2|NPRL3
+lysosomal membrane,GO:0005765,"EPILEPSY, PROGRESSIVE MYOCLONIC, 4, WITH OR WITHOUT RENAL FAILURE",OMIM:254900,0,,1,SCARB2
+lysosomal membrane,GO:0005765,"Epilepsy, Temporal Lobe",MESH:D004833,0,,1,P2RX4
+lysosomal membrane,GO:0005765,"Mental Retardation, X-Linked, with Epilepsy",MESH:C564516,0,,1,ATP6AP2
+lysosome,GO:0005764,Epilepsy,MESH:D004827,0,,4,GFAP|GRIN2B|P2RX4|TSC2
+lysosome,GO:0005764,"EPILEPSY, FAMILIAL TEMPORAL LOBE, 8",OMIM:616461,0,,1,GAL
+lysosome,GO:0005764,"Epilepsy, Partial, with Variable Foci",MESH:C565785,0,,2,DEPDC5|NPRL3
+lysosome,GO:0005764,"EPILEPSY, PROGRESSIVE MYOCLONIC, 4, WITH OR WITHOUT RENAL FAILURE",OMIM:254900,0,,1,SCARB2
+lysosome,GO:0005764,"Epilepsy, Temporal Lobe",MESH:D004833,0,,1,P2RX4
+lysosome,GO:0005764,"Epilepsy, Tonic-Clonic",MESH:D004830,2,Acetaminophen|Chloroquine,0,
+lysosome,GO:0005764,"Mental Retardation, X-Linked, with Epilepsy",MESH:C564516,0,,1,ATP6AP2
+lysosome,GO:0005764,SPINAL MUSCULAR ATROPHY WITH PROGRESSIVE MYOCLONIC EPILEPSY,OMIM:159950,0,,1,ASAH1
+mediator complex,GO:0016592,"INTELLECTUAL DEVELOPMENTAL DISORDER, AUTOSOMAL RECESSIVE 18, WITH OR WITHOUT EPILEPSY",OMIM:614249,0,,1,MED23
+meiotic cohesin complex,GO:0030893,Epilepsy,MESH:D004827,0,,1,SMC1A
+membrane,GO:0016020,Amish Infantile Epilepsy Syndrome,MESH:C563799,0,,1,ST3GAL5
+membrane,GO:0016020,Cortical Dysplasia-Focal Epilepsy Syndrome,MESH:C567657,0,,1,CNTNAP2
+membrane,GO:0016020,Epilepsy,MESH:D004827,0,,49,ABCB1|ADRA2A|AKT1|CERT1|CHRM1|CHRM2|CNTNAP2|DNM1|ERN1|FOLR1|GABRB2|GABRB3|GFAP|GNAO1|GRIN2A|GRIN2B|GRM1|HCN1|HNRNPU|ILK|KCNAB2|KCNH1|KCNQ2|L2HGDH|NPY2R|OPRD1|OPRM1|P2RX2|P2RX4|PCDH19|RAB39B|SCN1A|SCN2A|SCN8A|SLC12A2|SLC12A5|SLC1A1|SLC1A2|SLC1A3|SLC4A10|SLC6A1|SMC1A|SNAP25|STX1B|SYNGAP1|TSC1|TSC2|VDAC1|VDAC2
+membrane,GO:0016020,"Epilepsy, Absence",MESH:D004832,0,,5,CACNA1A|CACNA1H|CACNA2D2|GABRB3|KCNK9
+membrane,GO:0016020,"Epilepsy, Benign Neonatal",MESH:D020936,0,,1,KCNQ2
+membrane,GO:0016020,"Epilepsy, Benign Neonatal, 3",MESH:C564274,0,,1,SCN2A
+membrane,GO:0016020,"Epilepsy, Complex Partial",MESH:D017029,0,,1,SCN3A
+membrane,GO:0016020,"Epilepsy, Familial Adult Myoclonic, 3",MESH:C567098,0,,1,MARCHF6
+membrane,GO:0016020,"EPILEPSY, FAMILIAL TEMPORAL LOBE, 1",OMIM:600512,0,,3,LGI1|MICAL1|RELN
+membrane,GO:0016020,"EPILEPSY, FAMILIAL TEMPORAL LOBE, 7",OMIM:616436,0,,1,RELN
+membrane,GO:0016020,"Epilepsy, Female-Restricted, with Mental Retardation",MESH:C564715,0,,1,PCDH19
+membrane,GO:0016020,"EPILEPSY, FOCAL, WITH SPEECH DISORDER AND WITH OR WITHOUT IMPAIRED INTELLECTUAL DEVELOPMENT",OMIM:245570,0,,1,GRIN2A
+membrane,GO:0016020,"Epilepsy, Frontal Lobe",MESH:D017034,0,,4,CHRNA4|CHRNB2|KCNT1|SLC4A10
+membrane,GO:0016020,"Epilepsy, Generalized",MESH:D004829,0,,2,CHRNA7|SCN1A
+membrane,GO:0016020,"Epilepsy, Idiopathic Generalized",MESH:C562694,0,,4,CASR|CLCN2|GABRD|SLC12A5
+membrane,GO:0016020,"EPILEPSY, NOCTURNAL FRONTAL LOBE, 5",OMIM:615005,0,,1,KCNT1
+membrane,GO:0016020,"Epilepsy, Nocturnal Frontal Lobe, Type 1",MESH:C563930,0,,1,CHRNA4
+membrane,GO:0016020,"Epilepsy, Nocturnal Frontal Lobe, Type 3",MESH:C565334,0,,1,CHRNB2
+membrane,GO:0016020,"Epilepsy, Nocturnal Frontal Lobe, Type 4",MESH:C563679,0,,1,CHRNA2
+membrane,GO:0016020,"EPILEPSY, PROGRESSIVE MYOCLONIC, 3, WITH OR WITHOUT INTRACELLULAR INCLUSIONS",OMIM:611726,0,,1,KCTD7
+membrane,GO:0016020,"EPILEPSY, PROGRESSIVE MYOCLONIC, 4, WITH OR WITHOUT RENAL FAILURE",OMIM:254900,0,,1,SCARB2
+membrane,GO:0016020,"Epilepsy, Rolandic",MESH:D019305,0,,1,GRIN2A
+membrane,GO:0016020,"Epilepsy, rolandic with paroxysmal exercise-induced dystonia and writer's cramp",MESH:C535499,0,,1,TBC1D24
+membrane,GO:0016020,"Epilepsy, Temporal Lobe",MESH:D004833,0,,21,BDKRB1|BDKRB2|CNR1|COX3|GRM1|GRM2|GRM3|GRM4|GRM5|KCNC4|KDR|NPY2R|P2RX4|P2RX7|SLC12A2|SLC12A5|SLC1A1|SLIT2|TEK|TRPV1|VEGFA
+membrane,GO:0016020,"Epilepsy, Tonic-Clonic",MESH:D004830,0,,6,BCHE|CYP2D6|HBEGF|NES|NTF3|OXT
+membrane,GO:0016020,Generalized Epilepsy and Paroxysmal Dyskinesia,MESH:C563719,0,,1,KCNMA1
+membrane,GO:0016020,"Generalized Epilepsy With Febrile Seizures Plus, Type 1",MESH:C565809,0,,1,SCN1B
+membrane,GO:0016020,"Generalized Epilepsy With Febrile Seizures Plus, Type 2",MESH:C565810,0,,1,SCN1A
+membrane,GO:0016020,"GENERALIZED EPILEPSY WITH FEBRILE SEIZURES PLUS, TYPE 9",OMIM:616172,0,,1,STX1B
+membrane,GO:0016020,Hyperekplexia and Epilepsy,MESH:C564474,0,,1,ARHGEF9
+membrane,GO:0016020,"Mental Retardation, X-Linked, with Epilepsy",MESH:C564516,0,,1,ATP6AP2
+membrane,GO:0016020,"MICROCEPHALY, EPILEPSY, AND DIABETES SYNDROME 1",OMIM:614231,0,,1,IER3IP1
+membrane,GO:0016020,MYOCLONIC-ATONIC EPILEPSY,OMIM:616421,0,,1,SLC6A1
+membrane,GO:0016020,"MYOCLONIC EPILEPSY, FAMILIAL INFANTILE",OMIM:605021,0,,1,TBC1D24
+membrane,GO:0016020,"Myoclonic Epilepsy, Juvenile",MESH:D020190,0,,1,GABRA1
+membrane,GO:0016020,Prickle1-Related Progressive Myoclonic Epilepsy with Ataxia,MESH:C580388,0,,1,PRICKLE1
+membrane,GO:0016020,SPINAL MUSCULAR ATROPHY WITH PROGRESSIVE MYOCLONIC EPILEPSY,OMIM:159950,0,,1,ASAH1
+membrane coat,GO:0030117,Epilepsy,MESH:D004827,0,,1,DNM1
+membrane protein complex,GO:0098796,Epilepsy,MESH:D004827,0,,2,SLC1A2|SLC1A3
+membrane raft,GO:0045121,Epilepsy,MESH:D004827,0,,4,SLC1A1|SLC1A2|VDAC1|VDAC2
+membrane raft,GO:0045121,"Epilepsy, Temporal Lobe",MESH:D004833,0,,5,CNR1|KDR|SLC1A1|SLIT2|TEK
+microtubule,GO:0005874,Epilepsy,MESH:D004827,0,,4,DNM1|DYRK1A|KCNAB2|TSC1
+microtubule cytoskeleton,GO:0015630,Epilepsy,MESH:D004827,0,,1,AKT1
+microtubule cytoskeleton,GO:0015630,"Epilepsy, Partial, with Variable Foci",MESH:C565785,0,,1,NPRL2
+microvillus,GO:0005902,Epilepsy,MESH:D004827,0,,1,TGFB1
+microvillus,GO:0005902,"Epilepsy, Temporal Lobe",MESH:D004833,0,,1,TEK
+midbody,GO:0030496,Epilepsy,MESH:D004827,0,,2,HNRNPU|NEXMIF
+midbody,GO:0030496,"EPILEPSY, FAMILIAL TEMPORAL LOBE, 1",OMIM:600512,0,,1,MICAL1
+mitochondrial chromosome,GO:0000262,Epilepsy,MESH:D004827,1,Methylmercury Compounds,1,POLG
+mitochondrial crista,GO:0030061,Epilepsy,MESH:D004827,0,,1,BDNF
+mitochondrial crista,GO:0030061,"Epilepsy, Tonic-Clonic",MESH:D004830,0,,1,BDNF
+mitochondrial envelope,GO:0005740,Epilepsy,MESH:D004827,0,,1,VDAC2
+mitochondrial inner membrane,GO:0005743,Epilepsy,MESH:D004827,0,,3,L2HGDH|SLC1A3|VDAC1
+mitochondrial inner membrane,GO:0005743,"Epilepsy, Absence",MESH:D004832,0,,1,KCNK9
+mitochondrial inner membrane,GO:0005743,"Epilepsy, Temporal Lobe",MESH:D004833,0,,1,COX3
+mitochondrial intermembrane space,GO:0005758,Epilepsy,MESH:D004827,0,,1,AKT1
+mitochondrial matrix,GO:0005759,Epilepsy,MESH:D004827,0,,3,GPX1|POLG|SNAP25
+mitochondrial matrix,GO:0005759,Pyridoxine-dependent epilepsy,MESH:C536254,0,,1,ALDH7A1
+mitochondrial membrane,GO:0031966,Epilepsy,MESH:D004827,0,,2,VDAC1|VDAC2
+mitochondrial membrane,GO:0031966,"Epilepsy, Temporal Lobe",MESH:D004833,0,,1,COX3
+mitochondrial nucleoid,GO:0042645,Epilepsy,MESH:D004827,0,,3,POLG|VDAC1|VDAC2
+mitochondrial outer membrane,GO:0005741,Epilepsy,MESH:D004827,0,,2,VDAC1|VDAC2
+mitochondrial outer membrane,GO:0005741,"Epilepsy, Myoclonic, Benign Adult Familial, Type 2",MESH:C564313,0,,1,STARD7
+mitochondrial outer membrane,GO:0005741,"Epilepsy, Temporal Lobe",MESH:D004833,0,,1,CNR1
+mitochondrial permeability transition pore complex,GO:0005757,Epilepsy,MESH:D004827,2,Calcium|Ciprofloxacin,1,VDAC1
+mitochondrial permeability transition pore complex,GO:0005757,"Epilepsy, Absence",MESH:D004832,1,Doxorubicin,0,
+mitochondrial permeability transition pore complex,GO:0005757,"Epilepsy, Tonic-Clonic",MESH:D004830,1,Ciprofloxacin,0,
+mitochondrion,GO:0005739,Epilepsy,MESH:D004827,2,Folic Acid|Methylmercury Compounds,14,AKT1|CERT1|DDX3X|ERN1|GPX1|KCNQ2|L2HGDH|OPRM1|POLG|SNAP25|STXBP1|TXNRD1|VDAC1|VDAC2
+mitochondrion,GO:0005739,"Epilepsy, Benign Neonatal",MESH:D020936,0,,1,KCNQ2
+mitochondrion,GO:0005739,"Epilepsy, Myoclonic, Benign Adult Familial, Type 2",MESH:C564313,0,,1,STARD7
+mitochondrion,GO:0005739,"Epilepsy, Temporal Lobe",MESH:D004833,0,,3,CNR1|COX3|P2RX7
+mitochondrion,GO:0005739,"Epilepsy, Tonic-Clonic",MESH:D004830,2,Bupivacaine|Ethanol,1,CYP2D6
+mitochondrion,GO:0005739,Pyridoxine-dependent epilepsy,MESH:C536254,0,,2,ALDH7A1|PLPBP
+mitochondrion,GO:0005739,SPINAL MUSCULAR ATROPHY WITH PROGRESSIVE MYOCLONIC EPILEPSY,OMIM:159950,0,,1,ASAH1
+mitotic cohesin complex,GO:0030892,Epilepsy,MESH:D004827,0,,1,SMC1A
+mitotic spindle,GO:0072686,Epilepsy,MESH:D004827,0,,1,HNRNPU
+mitotic spindle,GO:0072686,"Epilepsy, Absence",MESH:D004832,0,,1,EFHC1
+mitotic spindle,GO:0072686,"Myoclonic Epilepsy, Juvenile",MESH:D020190,0,,1,EFHC1
+mitotic spindle microtubule,GO:1990498,Epilepsy,MESH:D004827,0,,1,HNRNPU
+mitotic spindle midzone,GO:1990023,Epilepsy,MESH:D004827,0,,1,HNRNPU
+mitotic spindle pole,GO:0097431,Epilepsy,MESH:D004827,0,,1,SMC1A
+Myb complex,GO:0031523,Epilepsy,MESH:D004827,0,,1,FLNA
+myelin sheath,GO:0043209,Epilepsy,MESH:D004827,0,,1,GNAO1
+myelin sheath,GO:0043209,"EPILEPSY, EARLY-ONSET, 5, WITH OR WITHOUT DEVELOPMENTAL DELAY",OMIM:615400,0,,1,CNTN2
+myelin sheath,GO:0043209,"Epilepsy, Idiopathic Generalized",MESH:C562694,0,,1,CLCN2
+nBAF complex,GO:0071565,Epilepsy,MESH:D004827,0,,1,ARID1B
+neurofilament,GO:0005883,Epilepsy,MESH:D004827,0,,1,DYRK1A
+neuromuscular junction,GO:0031594,Epilepsy,MESH:D004827,0,,1,STX1B
+neuromuscular junction,GO:0031594,"Epilepsy, rolandic with paroxysmal exercise-induced dystonia and writer's cramp",MESH:C535499,0,,1,TBC1D24
+neuromuscular junction,GO:0031594,"Epilepsy, Temporal Lobe",MESH:D004833,0,,2,KCNC4|P2RX7
+neuromuscular junction,GO:0031594,"GENERALIZED EPILEPSY WITH FEBRILE SEIZURES PLUS, TYPE 9",OMIM:616172,0,,1,STX1B
+neuromuscular junction,GO:0031594,"MYOCLONIC EPILEPSY, FAMILIAL INFANTILE",OMIM:605021,0,,1,TBC1D24
+neuronal cell body,GO:0043025,Cortical Dysplasia-Focal Epilepsy Syndrome,MESH:C567657,0,,1,CNTNAP2
+neuronal cell body,GO:0043025,Epilepsy,MESH:D004827,0,,27,ADRA2A|BDNF|CHRM2|CNTNAP2|EEF1A2|FLNA|GRIN2B|GRM1|HCN1|ILK|KCNH1|P2RX2|P2RX4|POMC|PURA|SCN1A|SCN8A|SLC12A2|SLC12A5|SLC1A1|SLC1A3|SLC4A10|SLC6A1|SNAP25|TGFB1|TSC2|TXNRD1
+neuronal cell body,GO:0043025,"Epilepsy, Absence",MESH:D004832,0,,2,CACNA1A|EFHC1
+neuronal cell body,GO:0043025,"Epilepsy, Complex Partial",MESH:D017029,0,,1,SCN3A
+neuronal cell body,GO:0043025,"EPILEPSY, EARLY-ONSET, 5, WITH OR WITHOUT DEVELOPMENTAL DELAY",OMIM:615400,0,,1,CNTN2
+neuronal cell body,GO:0043025,"EPILEPSY, FAMILIAL TEMPORAL LOBE, 1",OMIM:600512,0,,1,RELN
+neuronal cell body,GO:0043025,"EPILEPSY, FAMILIAL TEMPORAL LOBE, 7",OMIM:616436,0,,1,RELN
+neuronal cell body,GO:0043025,"EPILEPSY, FAMILIAL TEMPORAL LOBE, 8",OMIM:616461,0,,1,GAL
+neuronal cell body,GO:0043025,"Epilepsy, Frontal Lobe",MESH:D017034,0,,2,CHRNA4|SLC4A10
+neuronal cell body,GO:0043025,"Epilepsy, Generalized",MESH:D004829,0,,2,CHRNA7|SCN1A
+neuronal cell body,GO:0043025,"Epilepsy, Idiopathic Generalized",MESH:C562694,0,,3,CASR|GABRD|SLC12A5
+neuronal cell body,GO:0043025,"Epilepsy, Nocturnal Frontal Lobe, Type 1",MESH:C563930,0,,1,CHRNA4
+neuronal cell body,GO:0043025,"Epilepsy, Temporal Lobe",MESH:D004833,0,,11,GRM1|GRM5|KCNC4|KDR|P2RX4|P2RX7|SLC12A2|SLC12A5|SLC1A1|SLIT2|TRPV1
+neuronal cell body,GO:0043025,"Epilepsy, Tonic-Clonic",MESH:D004830,0,,2,BDNF|POMC
+neuronal cell body,GO:0043025,Generalized Epilepsy and Paroxysmal Dyskinesia,MESH:C563719,0,,1,KCNMA1
+neuronal cell body,GO:0043025,"Generalized Epilepsy With Febrile Seizures Plus, Type 2",MESH:C565810,0,,1,SCN1A
+neuronal cell body,GO:0043025,MYOCLONIC-ATONIC EPILEPSY,OMIM:616421,0,,1,SLC6A1
+neuronal cell body,GO:0043025,"Myoclonic Epilepsy, Juvenile",MESH:D020190,0,,1,EFHC1
+neuronal cell body membrane,GO:0032809,"Epilepsy, Temporal Lobe",MESH:D004833,0,,1,KCNC4
+neuronal dense core vesicle,GO:0098992,Epilepsy,MESH:D004827,0,,4,BDNF|NPY|OPRD1|P2RX2
+neuronal dense core vesicle,GO:0098992,"Epilepsy, Temporal Lobe",MESH:D004833,0,,1,NPY
+neuronal dense core vesicle,GO:0098992,"Epilepsy, Tonic-Clonic",MESH:D004830,0,,2,BDNF|OXT
+neuron projection,GO:0043005,Cortical Dysplasia-Focal Epilepsy Syndrome,MESH:C567657,0,,1,CNTNAP2
+neuron projection,GO:0043005,Epilepsy,MESH:D004827,4,"Lidocaine|Methylmercury Compounds|N-Methyl-3,4-methylenedioxyamphetamine|Valproic Acid",17,CNTNAP2|DNM1|GABRB2|GABRB3|GRIN2A|GRIN2B|GRM1|KCNAB2|NPY2R|OPRD1|OPRM1|RAB39B|SLC12A2|SLC12A5|SLC1A1|SLC1A3|SNAP25
+neuron projection,GO:0043005,"Epilepsy, Absence",MESH:D004832,1,Valproic Acid,2,CACNA1H|GABRB3
+neuron projection,GO:0043005,"Epilepsy, Complex Partial",MESH:D017029,1,Valproic Acid,0,
+neuron projection,GO:0043005,"EPILEPSY, EARLY-ONSET, 5, WITH OR WITHOUT DEVELOPMENTAL DELAY",OMIM:615400,0,,1,CNTN2
+neuron projection,GO:0043005,"EPILEPSY, FAMILIAL TEMPORAL LOBE, 1",OMIM:600512,0,,1,RELN
+neuron projection,GO:0043005,"EPILEPSY, FAMILIAL TEMPORAL LOBE, 7",OMIM:616436,0,,1,RELN
+neuron projection,GO:0043005,"EPILEPSY, FOCAL, WITH SPEECH DISORDER AND WITH OR WITHOUT IMPAIRED INTELLECTUAL DEVELOPMENT",OMIM:245570,0,,1,GRIN2A
+neuron projection,GO:0043005,"Epilepsy, Frontal Lobe",MESH:D017034,0,,2,CHRNA4|CHRNB2
+neuron projection,GO:0043005,"Epilepsy, Generalized",MESH:D004829,1,Valproic Acid,1,CHRNA7
+neuron projection,GO:0043005,"Epilepsy, Idiopathic Generalized",MESH:C562694,0,,2,GABRD|SLC12A5
+neuron projection,GO:0043005,"Epilepsy, Nocturnal Frontal Lobe, Type 1",MESH:C563930,0,,1,CHRNA4
+neuron projection,GO:0043005,"Epilepsy, Nocturnal Frontal Lobe, Type 3",MESH:C565334,0,,1,CHRNB2
+neuron projection,GO:0043005,"Epilepsy, Nocturnal Frontal Lobe, Type 4",MESH:C563679,0,,1,CHRNA2
+neuron projection,GO:0043005,"Epilepsy, Reflex",MESH:D020195,1,Valproic Acid,0,
+neuron projection,GO:0043005,"Epilepsy, Rolandic",MESH:D019305,1,Valproic Acid,1,GRIN2A
+neuron projection,GO:0043005,"Epilepsy, Temporal Lobe",MESH:D004833,1,Valproic Acid,11,GRM1|GRM2|GRM3|GRM4|GRM5|KCNC4|NPY2R|SLC12A2|SLC12A5|SLC1A1|TRPV1
+neuron projection,GO:0043005,"Epilepsy, Tonic-Clonic",MESH:D004830,2,Lidocaine|Valproic Acid,0,
+neuron projection,GO:0043005,"Myoclonic Epilepsy, Juvenile",MESH:D020190,1,Valproic Acid,1,GABRA1
+neuron projection cytoplasm,GO:0120111,"Epilepsy, Nocturnal Frontal Lobe, Type 4",MESH:C563679,0,,1,CHRNA2
+neuron projection terminus,GO:0044306,Epilepsy,MESH:D004827,0,,1,SLC1A2
+neuron projection terminus,GO:0044306,"EPILEPSY, FAMILIAL TEMPORAL LOBE, 8",OMIM:616461,0,,1,GAL
+neuron spine,GO:0044309,Cortical Dysplasia-Focal Epilepsy Syndrome,MESH:C567657,0,,1,CNTNAP2
+neuron spine,GO:0044309,Epilepsy,MESH:D004827,0,,1,CNTNAP2
+neurotransmitter receptor complex,GO:0098878,"Epilepsy, Frontal Lobe",MESH:D017034,0,,2,CHRNA4|CHRNB2
+neurotransmitter receptor complex,GO:0098878,"Epilepsy, Generalized",MESH:D004829,0,,1,CHRNA7
+neurotransmitter receptor complex,GO:0098878,"Epilepsy, Nocturnal Frontal Lobe, Type 1",MESH:C563930,0,,1,CHRNA4
+neurotransmitter receptor complex,GO:0098878,"Epilepsy, Nocturnal Frontal Lobe, Type 3",MESH:C565334,0,,1,CHRNB2
+neutrophil extracellular trap,GO:0140644,"Epilepsy, Tonic-Clonic",MESH:D004830,1,Acetaminophen,0,
+NLRP1 inflammasome complex,GO:0072558,"Epilepsy, Absence",MESH:D004832,1,Doxorubicin,0,
+NLRP3 inflammasome complex,GO:0072559,Epilepsy,MESH:D004827,0,,1,DDX3X
+NMDA selective glutamate receptor complex,GO:0017146,Epilepsy,MESH:D004827,0,,2,GRIN2A|GRIN2B
+NMDA selective glutamate receptor complex,GO:0017146,"EPILEPSY, FOCAL, WITH SPEECH DISORDER AND WITH OR WITHOUT IMPAIRED INTELLECTUAL DEVELOPMENT",OMIM:245570,0,,1,GRIN2A
+NMDA selective glutamate receptor complex,GO:0017146,"Epilepsy, Rolandic",MESH:D019305,0,,1,GRIN2A
+node of Ranvier,GO:0033268,Epilepsy,MESH:D004827,0,,4,KCNQ2|SCN1A|SCN2A|SCN8A
+node of Ranvier,GO:0033268,"Epilepsy, Benign Neonatal",MESH:D020936,0,,1,KCNQ2
+node of Ranvier,GO:0033268,"Epilepsy, Benign Neonatal, 3",MESH:C564274,0,,1,SCN2A
+node of Ranvier,GO:0033268,"EPILEPSY, EARLY-ONSET, 5, WITH OR WITHOUT DEVELOPMENTAL DELAY",OMIM:615400,0,,1,CNTN2
+node of Ranvier,GO:0033268,"Epilepsy, Generalized",MESH:D004829,0,,1,SCN1A
+node of Ranvier,GO:0033268,"Generalized Epilepsy With Febrile Seizures Plus, Type 1",MESH:C565809,0,,1,SCN1B
+node of Ranvier,GO:0033268,"Generalized Epilepsy With Febrile Seizures Plus, Type 2",MESH:C565810,0,,1,SCN1A
+non-motile cilium,GO:0097730,Epilepsy,MESH:D004827,0,,1,NPY2R
+non-motile cilium,GO:0097730,"Epilepsy, Temporal Lobe",MESH:D004833,0,,1,NPY2R
+npBAF complex,GO:0071564,Epilepsy,MESH:D004827,0,,1,ARID1B
+nuclear body,GO:0016604,Epilepsy,MESH:D004827,0,,1,SCN1A
+nuclear body,GO:0016604,"Epilepsy, Generalized",MESH:D004829,0,,1,SCN1A
+nuclear body,GO:0016604,"Generalized Epilepsy With Febrile Seizures Plus, Type 2",MESH:C565810,0,,1,SCN1A
+nuclear chromosome,GO:0000228,Epilepsy,MESH:D004827,0,,1,HNRNPU
+nuclear envelope,GO:0005635,"Epilepsy, Temporal Lobe",MESH:D004833,0,,1,P2RX7
+nuclear envelope lumen,GO:0005641,"Epilepsy, Tonic-Clonic",MESH:D004830,0,,1,BCHE
+nuclear inner membrane,GO:0005637,Epilepsy,MESH:D004827,0,,4,ERN1|KCNH1|P2RX2|P2RX4
+nuclear inner membrane,GO:0005637,"Epilepsy, Temporal Lobe",MESH:D004833,0,,2,P2RX4|P2RX7
+nuclear lamina,GO:0005652,Epilepsy,MESH:D004827,0,,1,STX1B
+nuclear lamina,GO:0005652,"GENERALIZED EPILEPSY WITH FEBRILE SEIZURES PLUS, TYPE 9",OMIM:616172,0,,1,STX1B
+nuclear matrix,GO:0016363,Epilepsy,MESH:D004827,0,,3,FOS|HNRNPU|SMC1A
+nuclear matrix,GO:0016363,"Epilepsy, Temporal Lobe",MESH:D004833,0,,1,VDR
+nuclear membrane,GO:0031965,Prickle1-Related Progressive Myoclonic Epilepsy with Ataxia,MESH:C580388,0,,1,PRICKLE1
+nuclear pore,GO:0005643,Pyridoxine-dependent epilepsy,MESH:C536254,0,,1,PLPBP
+nuclear speck,GO:0016607,Epilepsy,MESH:D004827,0,,3,DYRK1A|HNRNPU|MEF2C
+nuclear speck,GO:0016607,"Epilepsy, Generalized",MESH:D004829,0,,1,CACNB4
+nuclear speck,GO:0016607,"Epilepsy, Idiopathic Generalized",MESH:C562694,0,,1,CACNB4
+nuclear speck,GO:0016607,"Myoclonic Epilepsy, Juvenile",MESH:D020190,0,,1,CACNB4
+nucleolus,GO:0005730,Epilepsy,MESH:D004827,0,,2,CHRM2|FLNA
+nucleoplasm,GO:0005654,Epilepsy,MESH:D004827,0,,21,AKT1|ANKRD11|ARID1B|CDKL5|CERT1|DDX3X|DYRK1A|FOS|FOSB|FOXG1|HNRNPU|ILK|MECP2|MEF2C|NEXMIF|SCN1A|SMC1A|STAMBP|STX1B|STXBP1|TXNRD1
+nucleoplasm,GO:0005654,"EPILEPSY, FAMILIAL TEMPORAL LOBE, 1",OMIM:600512,0,,1,MICAL1
+nucleoplasm,GO:0005654,"Epilepsy, Generalized",MESH:D004829,0,,1,SCN1A
+nucleoplasm,GO:0005654,"Epilepsy, Nocturnal Frontal Lobe, Type 4",MESH:C563679,0,,1,CHRNA2
+nucleoplasm,GO:0005654,"Epilepsy, Temporal Lobe",MESH:D004833,0,,1,VDR
+nucleoplasm,GO:0005654,"Generalized Epilepsy With Febrile Seizures Plus, Type 2",MESH:C565810,0,,1,SCN1A
+nucleoplasm,GO:0005654,"GENERALIZED EPILEPSY WITH FEBRILE SEIZURES PLUS, TYPE 9",OMIM:616172,0,,1,STX1B
+nucleoplasm,GO:0005654,"INTELLECTUAL DEVELOPMENTAL DISORDER, AUTOSOMAL RECESSIVE 18, WITH OR WITHOUT EPILEPSY",OMIM:614249,0,,1,MED23
+nucleoplasm,GO:0005654,"NEURODEVELOPMENTAL DISORDER WITH EPILEPSY, CATARACTS, FEEDING DIFFICULTIES, AND DELAYED BRAIN MYELINATION",OMIM:617393,0,,1,NACC1
+nucleoplasm,GO:0005654,"Polyhydramnios, Megalencephaly, And Symptomatic Epilepsy",MESH:C567020,0,,1,STRADA
+nucleus,GO:0005634,Epilepsy,MESH:D004827,0,,30,AKT1|ANKRD11|ARID1B|ASXL3|AUTS2|CDKL5|CHD2|DDX3X|DYRK1A|EEF1A2|FLNA|FOLR1|FOS|FOSB|FOXG1|GRM1|HNRNPU|ILK|MECP2|MEF2C|NEXMIF|PURA|SMC1A|STAMBP|STX1B|TGFB1|TSC1|TSC2|TXNRD1|UBE3A
+nucleus,GO:0005634,"Epilepsy, Absence",MESH:D004832,0,,2,CACNA1A|JRK
+nucleus,GO:0005634,"Epilepsy, Generalized",MESH:D004829,0,,1,JRK
+nucleus,GO:0005634,"Epilepsy, Partial, with Variable Foci",MESH:C565785,0,,2,NPRL2|NPRL3
+nucleus,GO:0005634,"Epilepsy, rolandic with paroxysmal exercise-induced dystonia and writer's cramp",MESH:C535499,0,,1,TBC1D24
+nucleus,GO:0005634,"Epilepsy, Temporal Lobe",MESH:D004833,0,,4,GRM1|KDR|VDR|VEGFA
+nucleus,GO:0005634,"Epilepsy, Tonic-Clonic",MESH:D004830,0,,1,FGF2
+nucleus,GO:0005634,"GENERALIZED EPILEPSY WITH FEBRILE SEIZURES PLUS, TYPE 9",OMIM:616172,0,,1,STX1B
+nucleus,GO:0005634,"INTELLECTUAL DEVELOPMENTAL DISORDER, AUTOSOMAL RECESSIVE 18, WITH OR WITHOUT EPILEPSY",OMIM:614249,0,,1,MED23
+nucleus,GO:0005634,"MYOCLONIC EPILEPSY, FAMILIAL INFANTILE",OMIM:605021,0,,1,TBC1D24
+nucleus,GO:0005634,"Myoclonic Epilepsy, Juvenile",MESH:D020190,0,,1,JRK
+nucleus,GO:0005634,"NEURODEVELOPMENTAL DISORDER WITH EPILEPSY, CATARACTS, FEEDING DIFFICULTIES, AND DELAYED BRAIN MYELINATION",OMIM:617393,0,,1,NACC1
+nucleus,GO:0005634,"Polyhydramnios, Megalencephaly, And Symptomatic Epilepsy",MESH:C567020,0,,1,STRADA
+nucleus,GO:0005634,Prickle1-Related Progressive Myoclonic Epilepsy with Ataxia,MESH:C580388,0,,1,PRICKLE1
+nucleus,GO:0005634,Pyridoxine-dependent epilepsy,MESH:C536254,0,,1,ALDH7A1
+nucleus,GO:0005634,SPINAL MUSCULAR ATROPHY WITH PROGRESSIVE MYOCLONIC EPILEPSY,OMIM:159950,0,,1,ASAH1
+parallel fiber to Purkinje cell synapse,GO:0098688,Epilepsy,MESH:D004827,0,,8,GNAO1|GRIN2A|GRIN2B|KCNH1|P2RX2|P2RX4|SCN8A|STXBP1
+parallel fiber to Purkinje cell synapse,GO:0098688,"EPILEPSY, FOCAL, WITH SPEECH DISORDER AND WITH OR WITHOUT IMPAIRED INTELLECTUAL DEVELOPMENT",OMIM:245570,0,,1,GRIN2A
+parallel fiber to Purkinje cell synapse,GO:0098688,"Epilepsy, Rolandic",MESH:D019305,0,,1,GRIN2A
+parallel fiber to Purkinje cell synapse,GO:0098688,"Epilepsy, Temporal Lobe",MESH:D004833,0,,2,GRM4|P2RX4
+paranodal junction,GO:0033010,Cortical Dysplasia-Focal Epilepsy Syndrome,MESH:C567657,0,,1,CNTNAP2
+paranodal junction,GO:0033010,Epilepsy,MESH:D004827,0,,1,CNTNAP2
+paranode region of axon,GO:0033270,Cortical Dysplasia-Focal Epilepsy Syndrome,MESH:C567657,0,,1,CNTNAP2
+paranode region of axon,GO:0033270,Epilepsy,MESH:D004827,0,,2,CNTNAP2|SCN2A
+paranode region of axon,GO:0033270,"Epilepsy, Benign Neonatal, 3",MESH:C564274,0,,1,SCN2A
+perikaryon,GO:0043204,Cortical Dysplasia-Focal Epilepsy Syndrome,MESH:C567657,0,,1,CNTNAP2
+perikaryon,GO:0043204,Epilepsy,MESH:D004827,0,,9,BDNF|CNTNAP2|FLNA|KCNH1|NPY|OPRM1|SLC12A5|SLC1A1|SLC4A10
+perikaryon,GO:0043204,"Epilepsy, Absence",MESH:D004832,0,,2,CACNA1A|CACNA1H
+perikaryon,GO:0043204,"EPILEPSY, FAMILIAL TEMPORAL LOBE, 1",OMIM:600512,0,,1,RELN
+perikaryon,GO:0043204,"EPILEPSY, FAMILIAL TEMPORAL LOBE, 7",OMIM:616436,0,,1,RELN
+perikaryon,GO:0043204,"EPILEPSY, FAMILIAL TEMPORAL LOBE, 8",OMIM:616461,0,,1,GAL
+perikaryon,GO:0043204,"Epilepsy, Frontal Lobe",MESH:D017034,0,,1,SLC4A10
+perikaryon,GO:0043204,"Epilepsy, Idiopathic Generalized",MESH:C562694,0,,2,CLCN2|SLC12A5
+perikaryon,GO:0043204,"Epilepsy, Temporal Lobe",MESH:D004833,0,,4,NPY|SLC12A5|SLC1A1|SLIT2
+perikaryon,GO:0043204,"Epilepsy, Tonic-Clonic",MESH:D004830,0,,1,BDNF
+perikaryon,GO:0043204,"Generalized Epilepsy With Febrile Seizures Plus, Type 1",MESH:C565809,0,,1,SCN1B
+perinuclear region of cytoplasm,GO:0048471,Epilepsy,MESH:D004827,0,,12,BDNF|CDKL5|CERT1|FLNA|KCNH1|NPY|P2RX4|SLC1A3|SNAP25|STXBP1|TSC1|TSC2
+perinuclear region of cytoplasm,GO:0048471,"Epilepsy, Partial, with Variable Foci",MESH:C565785,0,,1,DEPDC5
+perinuclear region of cytoplasm,GO:0048471,"Epilepsy, Temporal Lobe",MESH:D004833,0,,4,NPY|P2RX4|TEK|VDR
+perinuclear region of cytoplasm,GO:0048471,"Epilepsy, Tonic-Clonic",MESH:D004830,0,,1,BDNF
+perinuclear region of cytoplasm,GO:0048471,Generalized Epilepsy and Paroxysmal Dyskinesia,MESH:C563719,0,,1,KCNMA1
+perisynaptic extracellular matrix,GO:0098966,"Epilepsy, Temporal Lobe",MESH:D004833,0,,1,SLIT2
+perisynaptic space,GO:0099544,Epilepsy,MESH:D004827,0,,1,SLC1A1
+perisynaptic space,GO:0099544,"Epilepsy, Temporal Lobe",MESH:D004833,0,,1,SLC1A1
+peroxisomal matrix,GO:0005782,Epilepsy,MESH:D004827,0,,1,POMC
+peroxisomal matrix,GO:0005782,"Epilepsy, Tonic-Clonic",MESH:D004830,0,,1,POMC
+P granule,GO:0043186,Epilepsy,MESH:D004827,0,,1,DDX3X
+phagocytic vesicle,GO:0045335,Epilepsy,MESH:D004827,0,,1,STXBP1
+phagophore assembly site,GO:0000407,Epilepsy,MESH:D004827,0,,1,WDR45
+phagophore assembly site membrane,GO:0034045,Epilepsy,MESH:D004827,0,,1,WDR45
+photoreceptor inner segment,GO:0001917,Epilepsy,MESH:D004827,0,,2,DNM1|SNAP25
+photoreceptor ribbon synapse,GO:0098684,Epilepsy,MESH:D004827,0,,2,DNM1|IQSEC2
+pinceau fiber,GO:1990031,Epilepsy,MESH:D004827,0,,1,KCNAB2
+plasma membrane,GO:0005886,Epilepsy,MESH:D004827,0,,50,ABCB1|ADRA2A|AKT1|ARID1B|CHRM1|CHRM2|DDX3X|DNM1|EEF1A2|FLNA|FOLR1|GABRB2|GABRB3|GNAO1|GRIN2A|GRIN2B|GRM1|HCN1|ILK|KCNAB2|KCNH1|KCNQ2|NPY2R|OPRD1|OPRM1|P2RX2|P2RX4|PCDH19|RAB39B|SCN1A|SCN2A|SCN8A|SELENOW|SLC12A2|SLC12A5|SLC1A1|SLC1A2|SLC1A3|SLC4A10|SLC6A1|SLCO1A5|SNAP25|STAMBP|STX1B|STXBP1|SYNGAP1|TGFB1|TSC1|VDAC1|VDAC2
+plasma membrane,GO:0005886,"Epilepsy, Absence",MESH:D004832,0,,5,CACNA1A|CACNA1H|CACNA2D2|GABRB3|KCNK9
+plasma membrane,GO:0005886,"Epilepsy, Benign Neonatal",MESH:D020936,0,,1,KCNQ2
+plasma membrane,GO:0005886,"Epilepsy, Benign Neonatal, 3",MESH:C564274,0,,1,SCN2A
+plasma membrane,GO:0005886,"Epilepsy, Complex Partial",MESH:D017029,0,,1,SCN3A
+plasma membrane,GO:0005886,"EPILEPSY, EARLY-ONSET, 5, WITH OR WITHOUT DEVELOPMENTAL DELAY",OMIM:615400,0,,1,CNTN2
+plasma membrane,GO:0005886,"EPILEPSY, FAMILIAL TEMPORAL LOBE, 1",OMIM:600512,0,,2,MICAL1|RELN
+plasma membrane,GO:0005886,"EPILEPSY, FAMILIAL TEMPORAL LOBE, 7",OMIM:616436,0,,1,RELN
+plasma membrane,GO:0005886,"Epilepsy, Female-Restricted, with Mental Retardation",MESH:C564715,0,,1,PCDH19
+plasma membrane,GO:0005886,"EPILEPSY, FOCAL, WITH SPEECH DISORDER AND WITH OR WITHOUT IMPAIRED INTELLECTUAL DEVELOPMENT",OMIM:245570,0,,1,GRIN2A
+plasma membrane,GO:0005886,"Epilepsy, Frontal Lobe",MESH:D017034,0,,4,CHRNA4|CHRNB2|KCNT1|SLC4A10
+plasma membrane,GO:0005886,"Epilepsy, Generalized",MESH:D004829,0,,3,CACNB4|CHRNA7|SCN1A
+plasma membrane,GO:0005886,"Epilepsy, Idiopathic Generalized",MESH:C562694,0,,5,CACNB4|CASR|CLCN2|GABRD|SLC12A5
+plasma membrane,GO:0005886,"EPILEPSY, NOCTURNAL FRONTAL LOBE, 5",OMIM:615005,0,,1,KCNT1
+plasma membrane,GO:0005886,"Epilepsy, Nocturnal Frontal Lobe, Type 1",MESH:C563930,0,,1,CHRNA4
+plasma membrane,GO:0005886,"Epilepsy, Nocturnal Frontal Lobe, Type 3",MESH:C565334,0,,1,CHRNB2
+plasma membrane,GO:0005886,"Epilepsy, Nocturnal Frontal Lobe, Type 4",MESH:C563679,0,,1,CHRNA2
+plasma membrane,GO:0005886,"EPILEPSY, PROGRESSIVE MYOCLONIC, 3, WITH OR WITHOUT INTRACELLULAR INCLUSIONS",OMIM:611726,0,,1,KCTD7
+plasma membrane,GO:0005886,"EPILEPSY, PROGRESSIVE MYOCLONIC, 4, WITH OR WITHOUT RENAL FAILURE",OMIM:254900,0,,1,SCARB2
+plasma membrane,GO:0005886,"Epilepsy, Rolandic",MESH:D019305,0,,1,GRIN2A
+plasma membrane,GO:0005886,"Epilepsy, rolandic with paroxysmal exercise-induced dystonia and writer's cramp",MESH:C535499,0,,1,TBC1D24
+plasma membrane,GO:0005886,"Epilepsy, Temporal Lobe",MESH:D004833,0,,20,BDKRB1|BDKRB2|CNR1|GRM1|GRM2|GRM3|GRM4|GRM5|KCNC4|KDR|NPY2R|P2RX4|P2RX7|SLC12A2|SLC12A5|SLC1A1|SLIT2|TEK|TRPV1|VEGFA
+plasma membrane,GO:0005886,"Epilepsy, Tonic-Clonic",MESH:D004830,0,,2,BCHE|HBEGF
+plasma membrane,GO:0005886,Generalized Epilepsy and Paroxysmal Dyskinesia,MESH:C563719,0,,1,KCNMA1
+plasma membrane,GO:0005886,"Generalized Epilepsy With Febrile Seizures Plus, Type 1",MESH:C565809,0,,1,SCN1B
+plasma membrane,GO:0005886,"Generalized Epilepsy With Febrile Seizures Plus, Type 2",MESH:C565810,0,,1,SCN1A
+plasma membrane,GO:0005886,"GENERALIZED EPILEPSY WITH FEBRILE SEIZURES PLUS, TYPE 9",OMIM:616172,0,,1,STX1B
+plasma membrane,GO:0005886,Hyperekplexia and Epilepsy,MESH:C564474,0,,1,ARHGEF9
+plasma membrane,GO:0005886,"Mental Retardation, X-Linked, with Epilepsy",MESH:C564516,0,,1,ATP6AP2
+plasma membrane,GO:0005886,MYOCLONIC-ATONIC EPILEPSY,OMIM:616421,0,,1,SLC6A1
+plasma membrane,GO:0005886,"MYOCLONIC EPILEPSY, FAMILIAL INFANTILE",OMIM:605021,0,,1,TBC1D24
+plasma membrane,GO:0005886,"Myoclonic Epilepsy, Juvenile",MESH:D020190,0,,2,CACNB4|GABRA1
+plasma membrane,GO:0005886,Prickle1-Related Progressive Myoclonic Epilepsy with Ataxia,MESH:C580388,0,,1,PRICKLE1
+plasma membrane raft,GO:0044853,Cortical Dysplasia-Focal Epilepsy Syndrome,MESH:C567657,0,,1,CNTNAP2
+plasma membrane raft,GO:0044853,Epilepsy,MESH:D004827,0,,1,CNTNAP2
+plasma membrane raft,GO:0044853,"Epilepsy, Frontal Lobe",MESH:D017034,0,,1,CHRNB2
+plasma membrane raft,GO:0044853,"Epilepsy, Generalized",MESH:D004829,0,,1,CHRNA7
+plasma membrane raft,GO:0044853,"Epilepsy, Nocturnal Frontal Lobe, Type 3",MESH:C565334,0,,1,CHRNB2
+platelet alpha granule,GO:0031091,Epilepsy,MESH:D004827,0,,1,STXBP1
+platelet alpha granule lumen,GO:0031093,Epilepsy,MESH:D004827,0,,2,ALB|TGFB1
+platelet alpha granule lumen,GO:0031093,"Epilepsy, Temporal Lobe",MESH:D004833,0,,1,VEGFA
+podosome,GO:0002102,Epilepsy,MESH:D004827,0,,2,FLNA|SCN8A
+pore complex,GO:0046930,Epilepsy,MESH:D004827,0,,2,VDAC1|VDAC2
+postsynapse,GO:0098794,Cortical Dysplasia-Focal Epilepsy Syndrome,MESH:C567657,0,,1,CNTNAP2
+postsynapse,GO:0098794,Epilepsy,MESH:D004827,0,,13,AKT1|BDNF|CNTNAP2|FLNA|GRIN2A|GRIN2B|MECP2|MEF2C|P2RX2|P2RX4|PURA|SLC4A10|STXBP1
+postsynapse,GO:0098794,"EPILEPSY, FOCAL, WITH SPEECH DISORDER AND WITH OR WITHOUT IMPAIRED INTELLECTUAL DEVELOPMENT",OMIM:245570,0,,1,GRIN2A
+postsynapse,GO:0098794,"Epilepsy, Frontal Lobe",MESH:D017034,0,,1,SLC4A10
+postsynapse,GO:0098794,"Epilepsy, Generalized",MESH:D004829,0,,1,CHRNA7
+postsynapse,GO:0098794,"Epilepsy, Rolandic",MESH:D019305,0,,1,GRIN2A
+postsynapse,GO:0098794,"Epilepsy, Temporal Lobe",MESH:D004833,0,,3,KCNC4|P2RX4|P2RX7
+postsynapse,GO:0098794,"Epilepsy, Tonic-Clonic",MESH:D004830,0,,1,BDNF
+postsynapse,GO:0098794,Hyperekplexia and Epilepsy,MESH:C564474,0,,1,ARHGEF9
+postsynapse,GO:0098794,"Myoclonic Epilepsy, Juvenile",MESH:D020190,0,,1,GABRA1
+postsynaptic cytosol,GO:0099524,Epilepsy,MESH:D004827,0,,1,UBE3A
+postsynaptic density,GO:0014069,Epilepsy,MESH:D004827,0,,9,DDX3X|GRIN2A|GRIN2B|GRM1|KCNAB2|PURA|SYNGAP1|TSC1|TSC2
+postsynaptic density,GO:0014069,"EPILEPSY, FOCAL, WITH SPEECH DISORDER AND WITH OR WITHOUT IMPAIRED INTELLECTUAL DEVELOPMENT",OMIM:245570,0,,1,GRIN2A
+postsynaptic density,GO:0014069,"Epilepsy, Rolandic",MESH:D019305,0,,1,GRIN2A
+postsynaptic density,GO:0014069,"Epilepsy, Temporal Lobe",MESH:D004833,0,,2,GRM1|GRM3
+postsynaptic density,GO:0014069,"Epilepsy, X-Linked, with Variable Learning Disabilities and Behavior Disorders",MESH:C564505,0,,1,SYN1
+postsynaptic density,GO:0014069,Hyperekplexia and Epilepsy,MESH:C564474,0,,1,ARHGEF9
+postsynaptic density,GO:0014069,Prickle1-Related Progressive Myoclonic Epilepsy with Ataxia,MESH:C580388,0,,1,PRICKLE1
+"postsynaptic density, intracellular component",GO:0099092,Epilepsy,MESH:D004827,0,,5,CDKL5|GRIN2A|GRIN2B|IQSEC2|SYNGAP1
+"postsynaptic density, intracellular component",GO:0099092,"EPILEPSY, FOCAL, WITH SPEECH DISORDER AND WITH OR WITHOUT IMPAIRED INTELLECTUAL DEVELOPMENT",OMIM:245570,0,,1,GRIN2A
+"postsynaptic density, intracellular component",GO:0099092,"Epilepsy, Rolandic",MESH:D019305,0,,1,GRIN2A
+postsynaptic density membrane,GO:0098839,Epilepsy,MESH:D004827,0,,13,ADRA2A|CHRM1|GRIN2A|GRIN2B|GRM1|IQSEC2|KCNAB2|KCNH1|OPRD1|P2RX2|P2RX4|SCN8A|VDAC1
+postsynaptic density membrane,GO:0098839,"EPILEPSY, FOCAL, WITH SPEECH DISORDER AND WITH OR WITHOUT IMPAIRED INTELLECTUAL DEVELOPMENT",OMIM:245570,0,,1,GRIN2A
+postsynaptic density membrane,GO:0098839,"Epilepsy, Frontal Lobe",MESH:D017034,0,,1,KCNT1
+postsynaptic density membrane,GO:0098839,"EPILEPSY, NOCTURNAL FRONTAL LOBE, 5",OMIM:615005,0,,1,KCNT1
+postsynaptic density membrane,GO:0098839,"Epilepsy, Rolandic",MESH:D019305,0,,1,GRIN2A
+postsynaptic density membrane,GO:0098839,"Epilepsy, Temporal Lobe",MESH:D004833,0,,3,GRM1|GRM5|P2RX4
+postsynaptic membrane,GO:0045211,Epilepsy,MESH:D004827,0,,13,ADRA2A|CHRM1|CHRM2|GABRB2|GABRB3|GNAO1|GRIN2A|GRIN2B|GRM1|HCN1|OPRD1|OPRM1|SLC6A1
+postsynaptic membrane,GO:0045211,"Epilepsy, Absence",MESH:D004832,0,,3,CACNA1A|CACNA1H|GABRB3
+postsynaptic membrane,GO:0045211,"EPILEPSY, EARLY-ONSET, 5, WITH OR WITHOUT DEVELOPMENTAL DELAY",OMIM:615400,0,,1,CNTN2
+postsynaptic membrane,GO:0045211,"EPILEPSY, FOCAL, WITH SPEECH DISORDER AND WITH OR WITHOUT IMPAIRED INTELLECTUAL DEVELOPMENT",OMIM:245570,0,,1,GRIN2A
+postsynaptic membrane,GO:0045211,"Epilepsy, Frontal Lobe",MESH:D017034,0,,2,CHRNA4|CHRNB2
+postsynaptic membrane,GO:0045211,"Epilepsy, Generalized",MESH:D004829,0,,1,CHRNA7
+postsynaptic membrane,GO:0045211,"Epilepsy, Idiopathic Generalized",MESH:C562694,0,,2,CLCN2|GABRD
+postsynaptic membrane,GO:0045211,"Epilepsy, Nocturnal Frontal Lobe, Type 1",MESH:C563930,0,,1,CHRNA4
+postsynaptic membrane,GO:0045211,"Epilepsy, Nocturnal Frontal Lobe, Type 3",MESH:C565334,0,,1,CHRNB2
+postsynaptic membrane,GO:0045211,"Epilepsy, Nocturnal Frontal Lobe, Type 4",MESH:C563679,0,,1,CHRNA2
+postsynaptic membrane,GO:0045211,"Epilepsy, Rolandic",MESH:D019305,0,,1,GRIN2A
+postsynaptic membrane,GO:0045211,"Epilepsy, Temporal Lobe",MESH:D004833,0,,6,GRM1|GRM2|GRM3|GRM5|KCNC4|TRPV1
+postsynaptic membrane,GO:0045211,Generalized Epilepsy and Paroxysmal Dyskinesia,MESH:C563719,0,,1,KCNMA1
+postsynaptic membrane,GO:0045211,"Mental Retardation, X-Linked, with Epilepsy",MESH:C564516,0,,1,ATP6AP2
+postsynaptic membrane,GO:0045211,MYOCLONIC-ATONIC EPILEPSY,OMIM:616421,0,,1,SLC6A1
+postsynaptic membrane,GO:0045211,"Myoclonic Epilepsy, Juvenile",MESH:D020190,0,,1,GABRA1
+postsynaptic specialization,GO:0099572,Hyperekplexia and Epilepsy,MESH:C564474,0,,1,ARHGEF9
+postsynaptic specialization membrane,GO:0099634,Epilepsy,MESH:D004827,0,,3,GABRB2|GABRB3|SLC12A5
+postsynaptic specialization membrane,GO:0099634,"Epilepsy, Absence",MESH:D004832,0,,1,GABRB3
+postsynaptic specialization membrane,GO:0099634,"Epilepsy, Frontal Lobe",MESH:D017034,0,,2,CHRNA4|CHRNB2
+postsynaptic specialization membrane,GO:0099634,"Epilepsy, Generalized",MESH:D004829,0,,1,CHRNA7
+postsynaptic specialization membrane,GO:0099634,"Epilepsy, Idiopathic Generalized",MESH:C562694,0,,1,SLC12A5
+postsynaptic specialization membrane,GO:0099634,"Epilepsy, Nocturnal Frontal Lobe, Type 1",MESH:C563930,0,,1,CHRNA4
+postsynaptic specialization membrane,GO:0099634,"Epilepsy, Nocturnal Frontal Lobe, Type 3",MESH:C565334,0,,1,CHRNB2
+postsynaptic specialization membrane,GO:0099634,"Epilepsy, Temporal Lobe",MESH:D004833,0,,1,SLC12A5
+postsynaptic specialization membrane,GO:0099634,"Myoclonic Epilepsy, Juvenile",MESH:D020190,0,,1,GABRA1
+potassium channel complex,GO:0034705,Epilepsy,MESH:D004827,0,,2,KCNAB2|KCNH1
+PR-DUB complex,GO:0035517,Epilepsy,MESH:D004827,0,,1,ASXL3
+presynapse,GO:0098793,Cortical Dysplasia-Focal Epilepsy Syndrome,MESH:C567657,0,,1,CNTNAP2
+presynapse,GO:0098793,Epilepsy,MESH:D004827,0,,7,CNTNAP2|DNM1|OPRM1|SLC1A1|SLC6A1|STX1B|STXBP1
+presynapse,GO:0098793,"EPILEPSY, FAMILIAL TEMPORAL LOBE, 1",OMIM:600512,0,,1,RELN
+presynapse,GO:0098793,"EPILEPSY, FAMILIAL TEMPORAL LOBE, 7",OMIM:616436,0,,1,RELN
+presynapse,GO:0098793,"Epilepsy, Generalized",MESH:D004829,0,,2,CACNB4|CHRNA7
+presynapse,GO:0098793,"Epilepsy, Idiopathic Generalized",MESH:C562694,0,,1,CACNB4
+presynapse,GO:0098793,"Epilepsy, rolandic with paroxysmal exercise-induced dystonia and writer's cramp",MESH:C535499,0,,1,TBC1D24
+presynapse,GO:0098793,"Epilepsy, Temporal Lobe",MESH:D004833,0,,4,CNR1|GRM4|P2RX7|SLC1A1
+presynapse,GO:0098793,"Epilepsy, Tonic-Clonic",MESH:D004830,1,Methamphetamine,0,
+presynapse,GO:0098793,"Epilepsy, X-Linked, with Variable Learning Disabilities and Behavior Disorders",MESH:C564505,0,,1,SYN1
+presynapse,GO:0098793,"GENERALIZED EPILEPSY WITH FEBRILE SEIZURES PLUS, TYPE 9",OMIM:616172,0,,1,STX1B
+presynapse,GO:0098793,MYOCLONIC-ATONIC EPILEPSY,OMIM:616421,0,,1,SLC6A1
+presynapse,GO:0098793,"MYOCLONIC EPILEPSY, FAMILIAL INFANTILE",OMIM:605021,0,,1,TBC1D24
+presynapse,GO:0098793,"Myoclonic Epilepsy, Juvenile",MESH:D020190,0,,1,CACNB4
+presynaptic active zone,GO:0048786,"Epilepsy, Temporal Lobe",MESH:D004833,0,,1,GRM3
+presynaptic active zone,GO:0048786,"Epilepsy, X-Linked, with Variable Learning Disabilities and Behavior Disorders",MESH:C564505,0,,1,SYN1
+presynaptic active zone cytoplasmic component,GO:0098831,Epilepsy,MESH:D004827,0,,2,IQSEC2|STXBP1
+presynaptic active zone membrane,GO:0048787,Cortical Dysplasia-Focal Epilepsy Syndrome,MESH:C567657,0,,1,CNTNAP2
+presynaptic active zone membrane,GO:0048787,Epilepsy,MESH:D004827,0,,10,ADRA2A|CNTNAP2|GABRB2|GRIN2B|HCN1|P2RX2|SCN8A|SNAP25|STX1B|VDAC1
+presynaptic active zone membrane,GO:0048787,"Epilepsy, Absence",MESH:D004832,0,,3,CACNA1A|CACNA1H|CACNA2D2
+presynaptic active zone membrane,GO:0048787,"Epilepsy, Temporal Lobe",MESH:D004833,0,,1,GRM4
+presynaptic active zone membrane,GO:0048787,Generalized Epilepsy and Paroxysmal Dyskinesia,MESH:C563719,0,,1,KCNMA1
+presynaptic active zone membrane,GO:0048787,"GENERALIZED EPILEPSY WITH FEBRILE SEIZURES PLUS, TYPE 9",OMIM:616172,0,,1,STX1B
+presynaptic cytosol,GO:0099523,Epilepsy,MESH:D004827,0,,1,STXBP1
+presynaptic endocytic zone membrane,GO:0098835,Epilepsy,MESH:D004827,0,,1,DNM1
+presynaptic membrane,GO:0042734,Cortical Dysplasia-Focal Epilepsy Syndrome,MESH:C567657,0,,1,CNTNAP2
+presynaptic membrane,GO:0042734,Epilepsy,MESH:D004827,0,,17,CHRM1|CHRM2|CNTNAP2|GNAO1|GRIN2A|GRIN2B|GRM1|KCNH1|OPRD1|OPRM1|P2RX2|SCN1A|SCN2A|SLC1A2|SLC6A1|SNAP25|STX1B
+presynaptic membrane,GO:0042734,"Epilepsy, Benign Neonatal, 3",MESH:C564274,0,,1,SCN2A
+presynaptic membrane,GO:0042734,"EPILEPSY, FOCAL, WITH SPEECH DISORDER AND WITH OR WITHOUT IMPAIRED INTELLECTUAL DEVELOPMENT",OMIM:245570,0,,1,GRIN2A
+presynaptic membrane,GO:0042734,"Epilepsy, Frontal Lobe",MESH:D017034,0,,2,CHRNA4|CHRNB2
+presynaptic membrane,GO:0042734,"Epilepsy, Generalized",MESH:D004829,0,,2,CHRNA7|SCN1A
+presynaptic membrane,GO:0042734,"Epilepsy, Idiopathic Generalized",MESH:C562694,0,,1,CASR
+presynaptic membrane,GO:0042734,"Epilepsy, Nocturnal Frontal Lobe, Type 1",MESH:C563930,0,,1,CHRNA4
+presynaptic membrane,GO:0042734,"Epilepsy, Nocturnal Frontal Lobe, Type 3",MESH:C565334,0,,1,CHRNB2
+presynaptic membrane,GO:0042734,"Epilepsy, Rolandic",MESH:D019305,0,,1,GRIN2A
+presynaptic membrane,GO:0042734,"Epilepsy, Temporal Lobe",MESH:D004833,0,,5,CNR1|GRM1|GRM2|GRM3|KCNC4
+presynaptic membrane,GO:0042734,"Generalized Epilepsy With Febrile Seizures Plus, Type 2",MESH:C565810,0,,1,SCN1A
+presynaptic membrane,GO:0042734,"GENERALIZED EPILEPSY WITH FEBRILE SEIZURES PLUS, TYPE 9",OMIM:616172,0,,1,STX1B
+presynaptic membrane,GO:0042734,MYOCLONIC-ATONIC EPILEPSY,OMIM:616421,0,,1,SLC6A1
+proteasome complex,GO:0000502,Epilepsy,MESH:D004827,0,,1,UBE3A
+proteasome complex,GO:0000502,Prickle1-Related Progressive Myoclonic Epilepsy with Ataxia,MESH:C580388,0,,1,PRICKLE1
+protein-containing complex,GO:0032991,Epilepsy,MESH:D004827,0,,11,AKT1|ALB|DNM1|HNRNPU|ILK|MECP2|MEF2C|POLG|STXBP1|TSC1|VDAC1
+protein-containing complex,GO:0032991,"Epilepsy, Absence",MESH:D004832,0,,1,CACNA1A
+protein-containing complex,GO:0032991,"Epilepsy, Frontal Lobe",MESH:D017034,0,,2,CHRNA4|CHRNB2
+protein-containing complex,GO:0032991,"Epilepsy, Nocturnal Frontal Lobe, Type 1",MESH:C563930,0,,1,CHRNA4
+protein-containing complex,GO:0032991,"Epilepsy, Nocturnal Frontal Lobe, Type 3",MESH:C565334,0,,1,CHRNB2
+protein-containing complex,GO:0032991,"Epilepsy, Nocturnal Frontal Lobe, Type 4",MESH:C563679,0,,1,CHRNA2
+protein-containing complex,GO:0032991,"Epilepsy, Temporal Lobe",MESH:D004833,0,,1,P2RX7
+protein-containing complex,GO:0032991,Generalized Epilepsy and Paroxysmal Dyskinesia,MESH:C563719,0,,1,KCNMA1
+protein-containing complex,GO:0032991,"Polyhydramnios, Megalencephaly, And Symptomatic Epilepsy",MESH:C567020,0,,1,STRADA
+protein-DNA complex,GO:0032993,Epilepsy,MESH:D004827,0,,1,FOS
+proton-transporting V-type ATPase complex,GO:0033176,"Mental Retardation, X-Linked, with Epilepsy",MESH:C564516,0,,1,ATP6AP2
+"proton-transporting V-type ATPase, V0 domain",GO:0033179,"Epilepsy, rolandic with paroxysmal exercise-induced dystonia and writer's cramp",MESH:C535499,0,,1,TBC1D24
+"proton-transporting V-type ATPase, V0 domain",GO:0033179,"MYOCLONIC EPILEPSY, FAMILIAL INFANTILE",OMIM:605021,0,,1,TBC1D24
+proximal dendrite,GO:1990635,Epilepsy,MESH:D004827,0,,1,SLC1A1
+proximal dendrite,GO:1990635,"Epilepsy, Temporal Lobe",MESH:D004833,0,,1,SLC1A1
+receptor complex,GO:0043235,Epilepsy,MESH:D004827,0,,2,ADRA2A|P2RX2
+receptor complex,GO:0043235,"Epilepsy, Temporal Lobe",MESH:D004833,0,,3,KDR|TEK|VDR
+recycling endosome,GO:0055037,Epilepsy,MESH:D004827,0,,2,CERT1|SLC1A1
+recycling endosome,GO:0055037,"Epilepsy, Temporal Lobe",MESH:D004833,0,,1,SLC1A1
+recycling endosome membrane,GO:0055038,Epilepsy,MESH:D004827,0,,1,SLC1A1
+recycling endosome membrane,GO:0055038,"Epilepsy, Temporal Lobe",MESH:D004833,0,,1,SLC1A1
+reelin complex,GO:0110157,"EPILEPSY, FAMILIAL TEMPORAL LOBE, 1",OMIM:600512,0,,1,RELN
+reelin complex,GO:0110157,"EPILEPSY, FAMILIAL TEMPORAL LOBE, 7",OMIM:616436,0,,1,RELN
+respiratory chain complex IV,GO:0045277,"Epilepsy, Temporal Lobe",MESH:D004833,0,,1,COX3
+respiratory chain complex IV,GO:0045277,SPINAL MUSCULAR ATROPHY WITH PROGRESSIVE MYOCLONIC EPILEPSY,OMIM:159950,0,,1,ASAH1
+ribbon synapse,GO:0097470,Epilepsy,MESH:D004827,0,,1,SNAP25
+ribonucleoprotein complex,GO:1990904,Epilepsy,MESH:D004827,0,,2,DYRK1A|HNRNPU
+ribonucleoprotein complex,GO:1990904,"Epilepsy, Absence",MESH:D004832,0,,1,JRK
+ribonucleoprotein complex,GO:1990904,"Epilepsy, Generalized",MESH:D004829,0,,1,JRK
+ribonucleoprotein complex,GO:1990904,"Myoclonic Epilepsy, Juvenile",MESH:D020190,0,,1,JRK
+ribosome,GO:0005840,Cortical Dysplasia-Focal Epilepsy Syndrome,MESH:C567657,0,,1,CNTNAP2
+ribosome,GO:0005840,Epilepsy,MESH:D004827,0,,1,CNTNAP2
+ripoptosome,GO:0097342,"Epilepsy, Tonic-Clonic",MESH:D004830,1,Ethanol,0,
+RNA polymerase II transcription regulator complex,GO:0090575,Epilepsy,MESH:D004827,0,,2,FOS|HNRNPU
+RNA polymerase II transcription regulator complex,GO:0090575,"Epilepsy, Temporal Lobe",MESH:D004833,0,,1,VDR
+ruffle membrane,GO:0032587,Epilepsy,MESH:D004827,0,,1,CDKL5
+sarcolemma,GO:0042383,Epilepsy,MESH:D004827,0,,2,ILK|OPRM1
+sarcolemma,GO:0042383,"Epilepsy, Absence",MESH:D004832,0,,1,CACNA1H
+sarcomere,GO:0030017,Epilepsy,MESH:D004827,0,,2,ILK|MEF2C
+sarcoplasm,GO:0016528,Epilepsy,MESH:D004827,0,,1,MEF2C
+sarcoplasm,GO:0016528,"Epilepsy, Complex Partial",MESH:D017029,0,,1,SCN3A
+sarcoplasm,GO:0016528,Generalized Epilepsy and Paroxysmal Dyskinesia,MESH:C563719,0,,1,KCNMA1
+sarcoplasmic reticulum,GO:0016529,Epilepsy,MESH:D004827,0,,1,OPRM1
+Schaffer collateral - CA1 synapse,GO:0098685,Epilepsy,MESH:D004827,0,,5,CHRM1|GRM1|IQSEC2|P2RX2|SLC1A1
+Schaffer collateral - CA1 synapse,GO:0098685,"Epilepsy, Temporal Lobe",MESH:D004833,0,,3,GRM1|GRM5|SLC1A1
+Schaffer collateral - CA1 synapse,GO:0098685,"Epilepsy, X-Linked, with Variable Learning Disabilities and Behavior Disorders",MESH:C564505,0,,1,SYN1
+secretory granule,GO:0030141,Epilepsy,MESH:D004827,0,,4,BDNF|POMC|STXBP1|TGFB1
+secretory granule,GO:0030141,"EPILEPSY, FAMILIAL TEMPORAL LOBE, 8",OMIM:616461,0,,1,GAL
+secretory granule,GO:0030141,"Epilepsy, Temporal Lobe",MESH:D004833,0,,1,VEGFA
+secretory granule,GO:0030141,"Epilepsy, Tonic-Clonic",MESH:D004830,0,,3,BDNF|OXT|POMC
+secretory granule lumen,GO:0034774,Epilepsy,MESH:D004827,0,,2,DDX3X|POMC
+secretory granule lumen,GO:0034774,"Epilepsy, Tonic-Clonic",MESH:D004830,0,,1,POMC
+Seh1-associated complex,GO:0035859,"Epilepsy, Partial, with Variable Foci",MESH:C565785,0,,2,NPRL2|NPRL3
+serine/threonine protein kinase complex,GO:1902554,"Polyhydramnios, Megalencephaly, And Symptomatic Epilepsy",MESH:C567020,0,,1,STRADA
+side of membrane,GO:0098552,"EPILEPSY, EARLY-ONSET, 5, WITH OR WITHOUT DEVELOPMENTAL DELAY",OMIM:615400,0,,1,CNTN2
+side of membrane,GO:0098552,"Epilepsy, Temporal Lobe",MESH:D004833,0,,1,SLIT2
+site of double-strand break,GO:0035861,Epilepsy,MESH:D004827,1,Etoposide,0,
+Smc5-Smc6 complex,GO:0030915,Epilepsy,MESH:D004827,0,,1,TXNRD1
+SNARE complex,GO:0031201,Epilepsy,MESH:D004827,0,,2,SNAP25|STX1B
+SNARE complex,GO:0031201,"GENERALIZED EPILEPSY WITH FEBRILE SEIZURES PLUS, TYPE 9",OMIM:616172,0,,1,STX1B
+sodium channel complex,GO:0034706,Epilepsy,MESH:D004827,0,,2,SCN1A|SCN8A
+sodium channel complex,GO:0034706,"Epilepsy, Generalized",MESH:D004829,0,,1,SCN1A
+sodium channel complex,GO:0034706,"Generalized Epilepsy With Febrile Seizures Plus, Type 1",MESH:C565809,0,,1,SCN1B
+sodium channel complex,GO:0034706,"Generalized Epilepsy With Febrile Seizures Plus, Type 2",MESH:C565810,0,,1,SCN1A
+somatodendritic compartment,GO:0036477,Epilepsy,MESH:D004827,0,,3,HCN1|SLC4A10|SNAP25
+somatodendritic compartment,GO:0036477,"Epilepsy, Absence",MESH:D004832,0,,1,CACNA1A
+somatodendritic compartment,GO:0036477,"Epilepsy, Frontal Lobe",MESH:D017034,0,,1,SLC4A10
+sorting endosome,GO:0097443,"Epilepsy, Temporal Lobe",MESH:D004833,0,,1,KDR
+specific granule membrane,GO:0035579,Epilepsy,MESH:D004827,0,,2,KCNAB2|SNAP25
+sperm flagellum,GO:0036126,Epilepsy,MESH:D004827,1,Cisplatin,0,
+sperm flagellum,GO:0036126,"Epilepsy, Absence",MESH:D004832,0,,1,EFHC1
+sperm flagellum,GO:0036126,"Myoclonic Epilepsy, Juvenile",MESH:D020190,0,,1,EFHC1
+sperm head,GO:0061827,Epilepsy,MESH:D004827,1,Cisplatin,1,GABRB3
+sperm head,GO:0061827,"Epilepsy, Absence",MESH:D004832,0,,1,GABRB3
+sperm midpiece,GO:0097225,Epilepsy,MESH:D004827,1,Cisplatin,1,VDAC2
+spindle,GO:0005819,Epilepsy,MESH:D004827,0,,2,AKT1|STX1B
+spindle,GO:0005819,"GENERALIZED EPILEPSY WITH FEBRILE SEIZURES PLUS, TYPE 9",OMIM:616172,0,,1,STX1B
+spindle pole,GO:0000922,Epilepsy,MESH:D004827,0,,1,HNRNPU
+spindle pole,GO:0000922,"Epilepsy, Absence",MESH:D004832,0,,1,EFHC1
+spindle pole,GO:0000922,"Myoclonic Epilepsy, Juvenile",MESH:D020190,0,,1,EFHC1
+spine apparatus,GO:0097444,Epilepsy,MESH:D004827,0,,2,OPRD1|OPRM1
+spine apparatus membrane,GO:0098897,"Epilepsy, Generalized",MESH:D004829,0,,1,CHRNA7
+stress fiber,GO:0001725,Epilepsy,MESH:D004827,0,,1,ILK
+stress fiber,GO:0001725,"Epilepsy, Temporal Lobe",MESH:D004833,0,,1,TEK
+SWI/SNF complex,GO:0016514,Epilepsy,MESH:D004827,0,,1,ARID1B
+SWI/SNF superfamily-type complex,GO:0070603,Epilepsy,MESH:D004827,0,,1,ARID1B
+symmetric synapse,GO:0032280,Epilepsy,MESH:D004827,0,,1,CHRM2
+synapse,GO:0045202,Cortical Dysplasia-Focal Epilepsy Syndrome,MESH:C567657,0,,1,CNTNAP2
+synapse,GO:0045202,Epilepsy,MESH:D004827,0,,20,ARID1B|CHRM1|CHRM2|CNTNAP2|EEF1A2|GABRB2|GABRB3|GRIN2A|GRIN2B|KCNAB2|KCNQ2|OPRM1|SLC1A1|SLC1A2|SLC1A3|SLC4A10|SNAP25|SYNGAP1|TSC2|VDAC1
+synapse,GO:0045202,"Epilepsy, Absence",MESH:D004832,0,,1,GABRB3
+synapse,GO:0045202,"Epilepsy, Benign Neonatal",MESH:D020936,0,,1,KCNQ2
+synapse,GO:0045202,"EPILEPSY, EARLY-ONSET, 5, WITH OR WITHOUT DEVELOPMENTAL DELAY",OMIM:615400,0,,1,CNTN2
+synapse,GO:0045202,"EPILEPSY, FAMILIAL TEMPORAL LOBE, 1",OMIM:600512,0,,1,LGI1
+synapse,GO:0045202,"EPILEPSY, FOCAL, WITH SPEECH DISORDER AND WITH OR WITHOUT IMPAIRED INTELLECTUAL DEVELOPMENT",OMIM:245570,0,,1,GRIN2A
+synapse,GO:0045202,"Epilepsy, Frontal Lobe",MESH:D017034,0,,3,CHRNA4|CHRNB2|SLC4A10
+synapse,GO:0045202,"Epilepsy, Generalized",MESH:D004829,0,,2,CACNB4|CHRNA7
+synapse,GO:0045202,"Epilepsy, Idiopathic Generalized",MESH:C562694,0,,3,CACNB4|CLCN2|GABRD
+synapse,GO:0045202,"Epilepsy, Nocturnal Frontal Lobe, Type 1",MESH:C563930,0,,1,CHRNA4
+synapse,GO:0045202,"Epilepsy, Nocturnal Frontal Lobe, Type 3",MESH:C565334,0,,1,CHRNB2
+synapse,GO:0045202,"Epilepsy, Nocturnal Frontal Lobe, Type 4",MESH:C563679,0,,1,CHRNA2
+synapse,GO:0045202,"Epilepsy, Rolandic",MESH:D019305,0,,1,GRIN2A
+synapse,GO:0045202,"Epilepsy, rolandic with paroxysmal exercise-induced dystonia and writer's cramp",MESH:C535499,0,,1,TBC1D24
+synapse,GO:0045202,"Epilepsy, Temporal Lobe",MESH:D004833,0,,4,CNR1|P2RX7|SLC1A1|TRPV1
+synapse,GO:0045202,"Epilepsy, Tonic-Clonic",MESH:D004830,0,,1,NTF3
+synapse,GO:0045202,"Epilepsy, X-Linked, with Variable Learning Disabilities and Behavior Disorders",MESH:C564505,0,,1,SYN1
+synapse,GO:0045202,Hyperekplexia and Epilepsy,MESH:C564474,0,,1,ARHGEF9
+synapse,GO:0045202,"MYOCLONIC EPILEPSY, FAMILIAL INFANTILE",OMIM:605021,0,,1,TBC1D24
+synapse,GO:0045202,"Myoclonic Epilepsy, Juvenile",MESH:D020190,0,,2,CACNB4|GABRA1
+synapse,GO:0045202,"Rolandic Epilepsy, Mental Retardation, and Speech Dyspraxia, X-Linked",MESH:C564467,0,,1,SRPX2
+synaptic cleft,GO:0043083,Epilepsy,MESH:D004827,0,,2,GRIN2B|SLC1A1
+synaptic cleft,GO:0043083,"EPILEPSY, FAMILIAL TEMPORAL LOBE, 1",OMIM:600512,0,,1,LGI1
+synaptic cleft,GO:0043083,"Epilepsy, Temporal Lobe",MESH:D004833,0,,1,SLC1A1
+synaptic membrane,GO:0097060,Cortical Dysplasia-Focal Epilepsy Syndrome,MESH:C567657,0,,1,CNTNAP2
+synaptic membrane,GO:0097060,Epilepsy,MESH:D004827,0,,3,CNTNAP2|GRIN2A|GRIN2B
+synaptic membrane,GO:0097060,"EPILEPSY, FOCAL, WITH SPEECH DISORDER AND WITH OR WITHOUT IMPAIRED INTELLECTUAL DEVELOPMENT",OMIM:245570,0,,1,GRIN2A
+synaptic membrane,GO:0097060,"Epilepsy, Rolandic",MESH:D019305,0,,1,GRIN2A
+synaptic membrane,GO:0097060,"Rolandic Epilepsy, Mental Retardation, and Speech Dyspraxia, X-Linked",MESH:C564467,0,,1,SRPX2
+synaptic vesicle,GO:0008021,Epilepsy,MESH:D004827,0,,9,BDNF|DNM1|GRIN2A|GRIN2B|SNAP25|STX1B|UBE3A|VDAC1|VDAC2
+synaptic vesicle,GO:0008021,"Epilepsy, Absence",MESH:D004832,0,,1,KCNK9
+synaptic vesicle,GO:0008021,"EPILEPSY, FOCAL, WITH SPEECH DISORDER AND WITH OR WITHOUT IMPAIRED INTELLECTUAL DEVELOPMENT",OMIM:245570,0,,1,GRIN2A
+synaptic vesicle,GO:0008021,"Epilepsy, Rolandic",MESH:D019305,0,,1,GRIN2A
+synaptic vesicle,GO:0008021,"Epilepsy, Temporal Lobe",MESH:D004833,0,,1,KCNC4
+synaptic vesicle,GO:0008021,"Epilepsy, Tonic-Clonic",MESH:D004830,0,,3,BDNF|NGF|NTF3
+synaptic vesicle,GO:0008021,"Epilepsy, X-Linked, with Variable Learning Disabilities and Behavior Disorders",MESH:C564505,0,,1,SYN1
+synaptic vesicle,GO:0008021,"GENERALIZED EPILEPSY WITH FEBRILE SEIZURES PLUS, TYPE 9",OMIM:616172,0,,1,STX1B
+synaptic vesicle membrane,GO:0030672,Epilepsy,MESH:D004827,0,,2,GNAO1|OPRD1
+synaptic vesicle membrane,GO:0030672,"Epilepsy, X-Linked, with Variable Learning Disabilities and Behavior Disorders",MESH:C564505,0,,1,SYN1
+synaptic vesicle membrane,GO:0030672,"Mental Retardation, X-Linked, with Epilepsy",MESH:C564516,0,,1,ATP6AP2
+synaptobrevin 2-SNAP-25-syntaxin-1a complex,GO:0070044,Epilepsy,MESH:D004827,0,,1,SNAP25
+synaptobrevin 2-SNAP-25-syntaxin-1a-complexin I complex,GO:0070032,Epilepsy,MESH:D004827,0,,1,SNAP25
+synaptobrevin 2-SNAP-25-syntaxin-1a-complexin II complex,GO:0070033,Epilepsy,MESH:D004827,0,,1,SNAP25
+synaptonemal complex,GO:0000795,Epilepsy,MESH:D004827,0,,1,SMC1A
+synaptonemal complex,GO:0000795,"Epilepsy, X-Linked, with Variable Learning Disabilities and Behavior Disorders",MESH:C564505,0,,1,SYN1
+syntrophin complex,GO:0016013,"Epilepsy, X-Linked, with Variable Learning Disabilities and Behavior Disorders",MESH:C564505,0,,1,SYN1
+telomerase holoenzyme complex,GO:0005697,Epilepsy,MESH:D004827,0,,1,HNRNPU
+terminal bouton,GO:0043195,Epilepsy,MESH:D004827,1,Dronabinol,10,BDNF|GABRB3|GRIN2A|GRIN2B|ILK|NPY|P2RX2|P2RX4|POLG|SNAP25
+terminal bouton,GO:0043195,"Epilepsy, Absence",MESH:D004832,0,,1,GABRB3
+terminal bouton,GO:0043195,"EPILEPSY, FOCAL, WITH SPEECH DISORDER AND WITH OR WITHOUT IMPAIRED INTELLECTUAL DEVELOPMENT",OMIM:245570,0,,1,GRIN2A
+terminal bouton,GO:0043195,"Epilepsy, Rolandic",MESH:D019305,0,,1,GRIN2A
+terminal bouton,GO:0043195,"Epilepsy, rolandic with paroxysmal exercise-induced dystonia and writer's cramp",MESH:C535499,0,,1,TBC1D24
+terminal bouton,GO:0043195,"Epilepsy, Temporal Lobe",MESH:D004833,0,,4,GRM4|NPY|P2RX4|P2RX7
+terminal bouton,GO:0043195,"Epilepsy, Tonic-Clonic",MESH:D004830,0,,2,BDNF|OXT
+terminal bouton,GO:0043195,Generalized Epilepsy and Paroxysmal Dyskinesia,MESH:C563719,0,,1,KCNMA1
+terminal bouton,GO:0043195,"MYOCLONIC EPILEPSY, FAMILIAL INFANTILE",OMIM:605021,0,,1,TBC1D24
+tertiary granule lumen,GO:1904724,SPINAL MUSCULAR ATROPHY WITH PROGRESSIVE MYOCLONIC EPILEPSY,OMIM:159950,0,,1,ASAH1
+tertiary granule membrane,GO:0070821,Epilepsy,MESH:D004827,0,,2,KCNAB2|SNAP25
+tertiary granule membrane,GO:0070821,"Mental Retardation, X-Linked, with Epilepsy",MESH:C564516,0,,1,ATP6AP2
+transcription factor AP-1 complex,GO:0035976,Epilepsy,MESH:D004827,0,,1,FOS
+transcription factor TFIID complex,GO:0005669,Epilepsy,MESH:D004827,0,,1,CDKL5
+transcription regulator complex,GO:0005667,Epilepsy,MESH:D004827,0,,1,FOS
+transcription regulator complex,GO:0005667,"INTELLECTUAL DEVELOPMENTAL DISORDER, AUTOSOMAL RECESSIVE 18, WITH OR WITHOUT EPILEPSY",OMIM:614249,0,,1,MED23
+trans-Golgi network,GO:0005802,Epilepsy,MESH:D004827,0,,3,CERT1|FLNA|SNAP25
+transport vesicle,GO:0030133,Epilepsy,MESH:D004827,0,,1,FOLR1
+transport vesicle membrane,GO:0030658,Epilepsy,MESH:D004827,0,,1,GRIN2B
+TSC1-TSC2 complex,GO:0033596,Epilepsy,MESH:D004827,0,,2,TSC1|TSC2
+T-tubule,GO:0030315,Epilepsy,MESH:D004827,0,,3,OPRM1|SCN1A|SCN2A
+T-tubule,GO:0030315,"Epilepsy, Benign Neonatal, 3",MESH:C564274,0,,1,SCN2A
+T-tubule,GO:0030315,"Epilepsy, Generalized",MESH:D004829,0,,1,SCN1A
+T-tubule,GO:0030315,"Epilepsy, Temporal Lobe",MESH:D004833,0,,1,VDR
+T-tubule,GO:0030315,"Generalized Epilepsy With Febrile Seizures Plus, Type 1",MESH:C565809,0,,1,SCN1B
+T-tubule,GO:0030315,"Generalized Epilepsy With Febrile Seizures Plus, Type 2",MESH:C565810,0,,1,SCN1A
+type III intermediate filament,GO:0045098,Epilepsy,MESH:D004827,0,,1,GFAP
+ubiquitin ligase complex,GO:0000151,"INTELLECTUAL DEVELOPMENTAL DISORDER, AUTOSOMAL RECESSIVE 18, WITH OR WITHOUT EPILEPSY",OMIM:614249,0,,1,MED23
+UDP-N-acetylglucosamine transferase complex,GO:0043541,Epilepsy,MESH:D004827,0,,1,ALG13
+vacuolar membrane,GO:0005774,"Epilepsy, Partial, with Variable Foci",MESH:C565785,0,,1,NPRL2
+vacuolar proton-transporting V-type ATPase complex,GO:0016471,"Mental Retardation, X-Linked, with Epilepsy",MESH:C564516,0,,1,ATP6AP2
+"vacuolar proton-transporting V-type ATPase, V0 domain",GO:0000220,"Mental Retardation, X-Linked, with Epilepsy",MESH:C564516,0,,1,ATP6AP2
+vacuole,GO:0005773,"EPILEPSY, FAMILIAL TEMPORAL LOBE, 8",OMIM:616461,0,,1,GAL
+varicosity,GO:0043196,Epilepsy,MESH:D004827,0,,1,DNM1
+VEGF-A complex,GO:1990150,"Epilepsy, Temporal Lobe",MESH:D004833,0,,1,VEGFA
+vesicle,GO:0031982,Epilepsy,MESH:D004827,0,,6,AKT1|OPRD1|RAB39B|SLC1A1|SLC1A2|SNAP25
+vesicle,GO:0031982,"Epilepsy, Temporal Lobe",MESH:D004833,0,,2,SLC1A1|VEGFA
+virion component,GO:0044423,"Epilepsy, Tonic-Clonic",MESH:D004830,1,Chloroquine,0,
+voltage-gated calcium channel complex,GO:0005891,Epilepsy,MESH:D004827,0,,1,SMC1A
+voltage-gated calcium channel complex,GO:0005891,"Epilepsy, Absence",MESH:D004832,0,,3,CACNA1A|CACNA1H|CACNA2D2
+voltage-gated calcium channel complex,GO:0005891,"Epilepsy, Generalized",MESH:D004829,0,,1,CACNB4
+voltage-gated calcium channel complex,GO:0005891,"Epilepsy, Idiopathic Generalized",MESH:C562694,0,,1,CACNB4
+voltage-gated calcium channel complex,GO:0005891,"Myoclonic Epilepsy, Juvenile",MESH:D020190,0,,1,CACNB4
+voltage-gated potassium channel complex,GO:0008076,Cortical Dysplasia-Focal Epilepsy Syndrome,MESH:C567657,0,,1,CNTNAP2
+voltage-gated potassium channel complex,GO:0008076,Epilepsy,MESH:D004827,0,,5,CNTNAP2|KCNAB2|KCNH1|KCNQ2|SNAP25
+voltage-gated potassium channel complex,GO:0008076,"Epilepsy, Benign Neonatal",MESH:D020936,0,,1,KCNQ2
+voltage-gated potassium channel complex,GO:0008076,"Epilepsy, Temporal Lobe",MESH:D004833,0,,1,KCNC4
+voltage-gated potassium channel complex,GO:0008076,Generalized Epilepsy and Paroxysmal Dyskinesia,MESH:C563719,0,,1,KCNMA1
+voltage-gated sodium channel complex,GO:0001518,Epilepsy,MESH:D004827,0,,3,SCN1A|SCN2A|SCN8A
+voltage-gated sodium channel complex,GO:0001518,"Epilepsy, Absence",MESH:D004832,0,,1,CACNA1H
+voltage-gated sodium channel complex,GO:0001518,"Epilepsy, Benign Neonatal, 3",MESH:C564274,0,,1,SCN2A
+voltage-gated sodium channel complex,GO:0001518,"Epilepsy, Complex Partial",MESH:D017029,0,,1,SCN3A
+voltage-gated sodium channel complex,GO:0001518,"Epilepsy, Generalized",MESH:D004829,0,,1,SCN1A
+voltage-gated sodium channel complex,GO:0001518,"Generalized Epilepsy With Febrile Seizures Plus, Type 1",MESH:C565809,0,,1,SCN1B
+voltage-gated sodium channel complex,GO:0001518,"Generalized Epilepsy With Febrile Seizures Plus, Type 2",MESH:C565810,0,,1,SCN1A
+Z disc,GO:0030018,Epilepsy,MESH:D004827,0,,5,FLNA|GRIN2B|ILK|SCN1A|SCN8A
+Z disc,GO:0030018,"Epilepsy, Generalized",MESH:D004829,0,,1,SCN1A
+Z disc,GO:0030018,"Generalized Epilepsy With Febrile Seizures Plus, Type 2",MESH:C565810,0,,1,SCN1A

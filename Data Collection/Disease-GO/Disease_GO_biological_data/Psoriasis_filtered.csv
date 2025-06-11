@@ -1,0 +1,786 @@
+GOName,GOID,DiseaseName,DiseaseID,InferenceChemicalQty,InferenceChemicalNames,InferenceGeneQty,InferenceGeneSymbols
+2-oxoglutarate metabolic process,GO:0006103,Psoriasis,MESH:D011565,1,Hydroxychloroquine,0,
+acetate metabolic process,GO:0006083,Psoriasis,MESH:D011565,1,Hydroxychloroquine,0,
+acetylcholine biosynthetic process,GO:0008292,Psoriasis,MESH:D011565,1,Tretinoin,0,
+acetylcholine-mediated vasodilation involved in regulation of systemic arterial blood pressure,GO:0003069,Psoriasis,MESH:D011565,0,,1,SOD2
+acetylcholine secretion,GO:0061526,Psoriasis,MESH:D011565,1,Tretinoin,0,
+action potential,GO:0001508,Psoriasis,MESH:D011565,1,Minocycline,0,
+action potential initiation,GO:0099610,Parapsoriasis,MESH:D010267,1,Carbamazepine,0,
+activated T cell proliferation,GO:0050798,Psoriasis,MESH:D011565,0,,1,IL4
+activation of adenylate cyclase activity,GO:0007190,Psoriasis,MESH:D011565,1,Lithium Carbonate,0,
+activation of cysteine-type endopeptidase activity,GO:0097202,Psoriasis,MESH:D011565,1,Folic Acid,0,
+activation of cysteine-type endopeptidase activity involved in apoptotic process,GO:0006919,Psoriasis,MESH:D011565,2,Methotrexate|Tretinoin,0,
+activation of Janus kinase activity,GO:0042976,Psoriasis,MESH:D011565,0,,1,IL4
+activation of meiosis,GO:0090427,Psoriasis,MESH:D011565,1,Tretinoin,0,
+activation of NF-kappaB-inducing kinase activity,GO:0007250,Psoriasis,MESH:D011565,0,,1,CARD14
+activation of protein kinase B activity,GO:0032148,Psoriasis,MESH:D011565,6,5-Methoxypsoralen|Calcitriol|Folic Acid|Sirolimus|Sulfasalazine|Tobacco Smoke Pollution,0,
+acute inflammatory response,GO:0002526,Psoriasis,MESH:D011565,0,,1,VNN1
+acute-phase response,GO:0006953,Psoriasis,MESH:D011565,0,,3,CRP|IL6|STAT3
+adaptive immune response,GO:0002250,Parapsoriasis,MESH:D010267,0,,1,HLA-E
+adaptive immune response,GO:0002250,Psoriasis,MESH:D011565,1,tofacitinib,2,ERAP1|HLA-C
+adenosine to inosine editing,GO:0006382,Psoriasis,MESH:D011565,1,Methotrexate,0,
+adipose tissue development,GO:0060612,Psoriasis,MESH:D011565,5,Calcitriol|Cyclosporine|Folic Acid|Sirolimus|Troglitazone,0,
+ADP biosynthetic process,GO:0006172,Psoriasis,MESH:D011565,1,Tobacco Smoke Pollution,0,
+adult feeding behavior,GO:0008343,Psoriasis,MESH:D011565,1,Sirolimus,0,
+aerobic electron transport chain,GO:0019646,Psoriasis,MESH:D011565,3,Cyclosporine|Methotrexate|Troglitazone,0,
+aerobic respiration,GO:0009060,Psoriasis,MESH:D011565,2,Aminolevulinic Acid|Calcitriol,1,CAT
+alanine metabolic process,GO:0006522,Psoriasis,MESH:D011565,1,Tobacco Smoke Pollution,0,
+aldehyde biosynthetic process,GO:0046184,Psoriasis,MESH:D011565,1,Tretinoin,0,
+alpha-tubulin acetylation,GO:0071929,Psoriasis,MESH:D011565,1,Colchicine,0,
+amine metabolic process,GO:0009308,Psoriasis,MESH:D011565,1,Methotrexate,0,
+amino acid biosynthetic process,GO:0008652,Psoriasis,MESH:D011565,1,Folic Acid,0,
+amino acid metabolic process,GO:0006520,Psoriasis,MESH:D011565,2,Methotrexate|Tretinoin,0,
+AMPA glutamate receptor clustering,GO:0097113,Psoriasis,MESH:D011565,0,,1,APOE
+AMP metabolic process,GO:0046033,Psoriasis,MESH:D011565,1,Folic Acid,0,
+amyloid-beta metabolic process,GO:0050435,Psoriasis,MESH:D011565,0,,1,REN
+amyloid precursor protein metabolic process,GO:0042982,Psoriasis,MESH:D011565,0,,1,APOE
+anatomical structure morphogenesis,GO:0009653,Psoriasis,MESH:D011565,1,Tretinoin,2,REL|TP53
+androgen metabolic process,GO:0008209,Psoriasis,MESH:D011565,2,Cyclosporine|Tretinoin,0,
+angiogenesis,GO:0001525,Psoriasis,MESH:D011565,3,Folic Acid|naphthalan|tofacitinib,4,ERAP1|S100A7|TGFA|VEGFA
+angiogenesis involved in coronary vascular morphogenesis,GO:0060978,Psoriasis,MESH:D011565,0,,1,VEGFA
+angiotensin maturation,GO:0002003,Psoriasis,MESH:D011565,0,,1,REN
+animal organ morphogenesis,GO:0009887,Psoriasis,MESH:D011565,0,,1,TNF
+animal organ regeneration,GO:0031100,Psoriasis,MESH:D011565,0,,2,MKI67|PPARG
+anoikis,GO:0043276,Psoriasis,MESH:D011565,1,Tretinoin,0,
+antibacterial humoral response,GO:0019731,Parapsoriasis,MESH:D010267,0,,2,HLA-A|HLA-E
+antifungal humoral response,GO:0019732,Psoriasis,MESH:D011565,0,,1,IL36RN
+antigen processing and presentation,GO:0019882,Psoriasis,MESH:D011565,0,,1,ERAP1
+antigen processing and presentation of endogenous peptide antigen via MHC class I,GO:0019885,Parapsoriasis,MESH:D010267,0,,1,HLA-A
+antigen processing and presentation of endogenous peptide antigen via MHC class I,GO:0019885,Psoriasis,MESH:D011565,0,,1,ERAP1
+antigen processing and presentation of endogenous peptide antigen via MHC class Ib,GO:0002476,Parapsoriasis,MESH:D010267,0,,1,HLA-E
+"antigen processing and presentation of endogenous peptide antigen via MHC class I via ER pathway, TAP-dependent",GO:0002485,Parapsoriasis,MESH:D010267,0,,1,HLA-A
+"antigen processing and presentation of endogenous peptide antigen via MHC class I via ER pathway, TAP-independent",GO:0002486,Parapsoriasis,MESH:D010267,0,,1,HLA-A
+"antigen processing and presentation of endogenous peptide antigen via MHC class I via ER pathway, TAP-independent",GO:0002486,Psoriasis,MESH:D011565,0,,1,HLA-C
+antigen processing and presentation of exogenous peptide antigen via MHC class I,GO:0042590,Parapsoriasis,MESH:D010267,0,,1,HLA-A
+antigen processing and presentation of exogenous peptide antigen via MHC class Ib,GO:0002477,Parapsoriasis,MESH:D010267,0,,1,HLA-E
+antigen processing and presentation of peptide antigen via MHC class I,GO:0002474,Psoriasis,MESH:D011565,0,,1,ERAP1
+antimicrobial humoral immune response mediated by antimicrobial peptide,GO:0061844,Psoriasis,MESH:D011565,0,,1,S100A7
+antiviral innate immune response,GO:0140374,Psoriasis,MESH:D011565,0,,4,IFIH1|REL|RIGI|TNF
+apical dendrite arborization,GO:0150023,Psoriasis,MESH:D011565,1,Methotrexate,0,
+apoptotic cell clearance,GO:0043277,Psoriasis,MESH:D011565,1,Phenylbutazone,0,
+apoptotic chromosome condensation,GO:0030263,Psoriasis,MESH:D011565,6,Cyclosporine|Isotretinoin|Lithium|Lithium Carbonate|Methotrexate|Tacrolimus,0,
+apoptotic DNA fragmentation,GO:0006309,Psoriasis,MESH:D011565,18,Aminolevulinic Acid|Calcitriol|Clobetasol|Colchicine|Cyclosporine|Hydroxyurea|Isotretinoin|Lithium|Minocycline|Prednisolone|Razoxane|Sirolimus|Sulfasalazine|Tacrolimus|Tretinoin|Troglitazone|Uridine|Vitamin A,0,
+apoptotic mitochondrial changes,GO:0008637,Psoriasis,MESH:D011565,0,,1,SOD2
+apoptotic nuclear changes,GO:0030262,Psoriasis,MESH:D011565,3,Colchicine|Cyclosporine|Tobacco Smoke Pollution,0,
+apoptotic process,GO:0006915,Psoriasis,MESH:D011565,45,"5-Methoxypsoralen|Acitretin|Adapalene|Aminolevulinic Acid|azelaic acid|Betamethasone|calcipotriene|Calcitriol|Cholesterol, LDL|Clobetasol|Colchicine|Cyclosporine|Fatty Acids|Ficusin|Fluocinonide|Folic Acid|hispidulin|Hydroxychloroquine|Hydroxyurea|Imiquimod|indirubin|Isotretinoin|Leukotriene B4|Lithium|Methotrexate|Minocycline|Mycophenolic Acid|oxymatrine|pimecrolimus|Prednisolone|Razoxane|ruxolitinib|Sirolimus|Sulfasalazine|Tacrolimus|tamibarotene|tazarotene|Tetracycline|Thioguanine|Tobacco Smoke Pollution|tofacitinib|Tretinoin|Troglitazone|Uridine|Vitamin A",6,CARD14|HCAR2|IL1B|TNFAIP3|TP53|VEGFA
+apoptotic process involved in blood vessel morphogenesis,GO:1902262,Psoriasis,MESH:D011565,0,,1,TP53
+apoptotic process involved in development,GO:1902742,Psoriasis,MESH:D011565,0,,1,TP53
+apoptotic signaling pathway,GO:0097190,Psoriasis,MESH:D011565,0,,2,TNF|TP53
+arachidonic acid metabolic process,GO:0019369,Psoriasis,MESH:D011565,1,Leukotriene B4,1,REN
+arginine catabolic process,GO:0006527,Psoriasis,MESH:D011565,0,,1,NOS2
+artery development,GO:0060840,Psoriasis,MESH:D011565,0,,1,APOE
+artery morphogenesis,GO:0048844,Psoriasis,MESH:D011565,0,,2,APOE|VEGFA
+artery smooth muscle contraction,GO:0014824,Psoriasis,MESH:D011565,1,Tobacco Smoke Pollution,0,
+aspartate metabolic process,GO:0006531,Psoriasis,MESH:D011565,1,Hydroxychloroquine,0,
+astrocyte activation,GO:0048143,Psoriasis,MESH:D011565,2,Imiquimod|Tretinoin,2,IL1B|TNF
+astrocyte development,GO:0014002,Psoriasis,MESH:D011565,0,,1,S100A7
+astrocyte differentiation,GO:0048708,Psoriasis,MESH:D011565,0,,1,STAT3
+ATP biosynthetic process,GO:0006754,Psoriasis,MESH:D011565,5,Cyclosporine|Lithium Carbonate|ruxolitinib|Tobacco Smoke Pollution|Troglitazone,0,
+ATP metabolic process,GO:0046034,Psoriasis,MESH:D011565,8,Colchicine|Cyclosporine|Hydroxyurea|Methotrexate|Sirolimus|Tretinoin|Troglitazone|Uridine,0,
+atrial cardiac muscle cell differentiation,GO:0055011,Psoriasis,MESH:D011565,1,Tretinoin,0,
+autocrine signaling,GO:0035425,Psoriasis,MESH:D011565,0,,1,S100A7
+autophagic cell death,GO:0048102,Psoriasis,MESH:D011565,1,Sirolimus,0,
+autophagosome assembly,GO:0000045,Psoriasis,MESH:D011565,3,Calcitriol|Cyclosporine|Sirolimus,0,
+autophagosome-lysosome fusion,GO:0061909,Psoriasis,MESH:D011565,1,Sirolimus,0,
+autophagosome organization,GO:1905037,Psoriasis,MESH:D011565,1,Sirolimus,0,
+autophagy,GO:0006914,Psoriasis,MESH:D011565,11,Aminolevulinic Acid|calcipotriene|Calcitriol|Cyclosporine|Hydroxychloroquine|Imiquimod|Lithium|Minocycline|Sirolimus|Thioguanine|Tretinoin,2,IL4|TP53
+autophagy of mitochondrion,GO:0000422,Psoriasis,MESH:D011565,1,Cyclosporine,0,
+axis elongation,GO:0003401,Psoriasis,MESH:D011565,0,,2,STAT3|TP53
+axo-dendritic transport,GO:0008088,Psoriasis,MESH:D011565,1,Colchicine,0,
+axon guidance,GO:0007411,Psoriasis,MESH:D011565,0,,1,RUNX3
+B-1 B cell homeostasis,GO:0001922,Psoriasis,MESH:D011565,0,,1,TNFAIP3
+basal dendrite arborization,GO:0150020,Psoriasis,MESH:D011565,1,Methotrexate,0,
+"base-excision repair, gap-filling",GO:0006287,Psoriasis,MESH:D011565,0,,1,PCNA
+basophil chemotaxis,GO:0002575,Psoriasis,MESH:D011565,0,,1,VEGFA
+B cell activation,GO:0042113,Psoriasis,MESH:D011565,0,,1,IL4
+B cell activation involved in immune response,GO:0002312,Psoriasis,MESH:D011565,1,naphthalan,0,
+B cell affinity maturation,GO:0002344,Psoriasis,MESH:D011565,0,,1,TRAF3IP2
+B cell apoptotic process,GO:0001783,Psoriasis,MESH:D011565,0,,1,TRAF3IP2
+B cell costimulation,GO:0031296,Psoriasis,MESH:D011565,0,,1,IL4
+B cell differentiation,GO:0030183,Psoriasis,MESH:D011565,0,,1,IL4
+B cell homeostasis,GO:0001782,Psoriasis,MESH:D011565,0,,1,TRAF3IP2
+B cell lineage commitment,GO:0002326,Psoriasis,MESH:D011565,0,,1,TP53
+B cell mediated immunity,GO:0019724,Psoriasis,MESH:D011565,0,,1,TRAF3IP2
+B cell proliferation,GO:0042100,Psoriasis,MESH:D011565,0,,1,IL4
+B cell receptor signaling pathway,GO:0050853,Psoriasis,MESH:D011565,0,,1,NFKBIA
+behavior,GO:0007610,Psoriasis,MESH:D011565,2,Sirolimus|Tobacco Smoke Pollution,0,
+behavioral fear response,GO:0001662,Psoriasis,MESH:D011565,2,Calcitriol|Folic Acid,0,
+behavioral response to cocaine,GO:0048148,Psoriasis,MESH:D011565,1,Tretinoin,0,
+behavioral response to pain,GO:0048266,Psoriasis,MESH:D011565,2,Methotrexate|Minocycline,0,
+bile acid and bile salt transport,GO:0015721,Psoriasis,MESH:D011565,1,Cyclosporine,0,
+bile acid biosynthetic process,GO:0006699,Psoriasis,MESH:D011565,1,Methoxsalen,0,
+bile acid metabolic process,GO:0008206,Psoriasis,MESH:D011565,1,Cyclosporine,0,
+bile acid secretion,GO:0032782,Psoriasis,MESH:D011565,1,Troglitazone,0,
+bilirubin transport,GO:0015723,Psoriasis,MESH:D011565,4,Colchicine|Folic Acid|Methotrexate|Prednisolone,0,
+biological_process,GO:0008150,Psoriasis,MESH:D011565,0,,8,CYP2S1|IL23R|LCE3C|LCE3D|RUNX3|SERPINB8|VNN1|ZC3H12C
+blastocyst formation,GO:0001825,Psoriasis,MESH:D011565,1,Tretinoin,0,
+blood circulation,GO:0008015,Psoriasis,MESH:D011565,1,Tretinoin,0,
+blood coagulation,GO:0007596,Psoriasis,MESH:D011565,0,,1,IFNLR1
+blood vessel development,GO:0001568,Psoriasis,MESH:D011565,0,,1,VEGFA
+blood vessel diameter maintenance,GO:0097746,Psoriasis,MESH:D011565,1,Tobacco Smoke Pollution,0,
+blood vessel morphogenesis,GO:0048514,Psoriasis,MESH:D011565,0,,1,VEGFA
+blood vessel remodeling,GO:0001974,Psoriasis,MESH:D011565,1,Tobacco Smoke Pollution,2,NOS2|VEGFA
+BMP signaling pathway,GO:0030509,Psoriasis,MESH:D011565,0,,1,PPARG
+bone development,GO:0060348,Psoriasis,MESH:D011565,1,Prednisolone,0,
+bone marrow development,GO:0048539,Psoriasis,MESH:D011565,0,,1,TP53
+bone mineralization,GO:0030282,Psoriasis,MESH:D011565,4,Calcitriol|Cyclosporine|Hydroxychloroquine|Prednisolone,0,
+bone remodeling,GO:0046849,Psoriasis,MESH:D011565,0,,1,IL6
+bone resorption,GO:0045453,Psoriasis,MESH:D011565,1,tofacitinib,0,
+bone trabecula formation,GO:0060346,Psoriasis,MESH:D011565,1,Calcitriol,1,VEGFA
+bone trabecula morphogenesis,GO:0061430,Psoriasis,MESH:D011565,0,,1,VEGFA
+brain development,GO:0007420,Psoriasis,MESH:D011565,2,Folic Acid|Tobacco Smoke Pollution,1,REL
+branching involved in blood vessel morphogenesis,GO:0001569,Psoriasis,MESH:D011565,0,,1,VEGFA
+branching involved in salivary gland morphogenesis,GO:0060445,Psoriasis,MESH:D011565,0,,1,IL6
+bronchiole development,GO:0060435,Psoriasis,MESH:D011565,1,Tretinoin,0,
+brown fat cell differentiation,GO:0050873,Psoriasis,MESH:D011565,0,,1,PPARG
+bud outgrowth involved in lung branching,GO:0060447,Psoriasis,MESH:D011565,1,Tretinoin,0,
+butyrate metabolic process,GO:0019605,Psoriasis,MESH:D011565,1,Tretinoin,0,
+C-5 methylation of cytosine,GO:0090116,Psoriasis,MESH:D011565,1,Tobacco Smoke Pollution,0,
+calcitriol biosynthetic process from calciol,GO:0036378,Psoriasis,MESH:D011565,1,Calcitriol,0,
+calcium export from the mitochondrion,GO:0099093,Psoriasis,MESH:D011565,2,Cyclosporine|Troglitazone,0,
+calcium import into the mitochondrion,GO:0036444,Psoriasis,MESH:D011565,1,Lithium,0,
+calcium ion homeostasis,GO:0055074,Psoriasis,MESH:D011565,4,Azathioprine|Lithium|Methotrexate|Tobacco Smoke Pollution,0,
+calcium-mediated signaling,GO:0019722,Psoriasis,MESH:D011565,5,Calcitriol|Colchicine|Cyclosporine|Leukotriene B4|Sirolimus,1,TNF
+camera-type eye morphogenesis,GO:0048593,Psoriasis,MESH:D011565,0,,1,VEGFA
+CAMKK-AMPK signaling cascade,GO:0061762,Psoriasis,MESH:D011565,0,,1,CP
+canonical Wnt signaling pathway involved in mesenchymal stem cell differentiation,GO:0044338,Psoriasis,MESH:D011565,1,Methotrexate,0,
+carboxylic acid metabolic process,GO:0019752,Psoriasis,MESH:D011565,4,Aminolevulinic Acid|azelaic acid|fumaric acid|Methotrexate,0,
+cardiac muscle cell apoptotic process,GO:0010659,Psoriasis,MESH:D011565,0,,1,TP53
+cardiac muscle cell contraction,GO:0086003,Psoriasis,MESH:D011565,1,Sirolimus,0,
+cardiac muscle cell development,GO:0055013,Psoriasis,MESH:D011565,0,,1,VEGFA
+cardiac muscle cell differentiation,GO:0055007,Psoriasis,MESH:D011565,2,Hydroxyurea|Tretinoin,0,
+cardiac muscle tissue regeneration,GO:0061026,Psoriasis,MESH:D011565,0,,1,STAT3
+cardiac septum morphogenesis,GO:0060411,Psoriasis,MESH:D011565,0,,1,TP53
+cardiac vascular smooth muscle cell development,GO:0060948,Psoriasis,MESH:D011565,0,,1,VEGFA
+cardiolipin metabolic process,GO:0032048,Psoriasis,MESH:D011565,1,Troglitazone,0,
+cartilage development,GO:0051216,Psoriasis,MESH:D011565,0,,1,RUNX3
+CD40 signaling pathway,GO:0023035,Psoriasis,MESH:D011565,0,,1,TRAF3IP2
+"CD4-positive, alpha-beta T cell cytokine production",GO:0035743,Parapsoriasis,MESH:D010267,1,Carbamazepine,0,
+"CD8-positive, alpha-beta T cell activation",GO:0036037,Parapsoriasis,MESH:D010267,0,,2,HLA-A|HLA-E
+"CD8-positive, alpha-beta T cell activation",GO:0036037,Psoriasis,MESH:D011565,1,tofacitinib,0,
+cell activation,GO:0001775,Psoriasis,MESH:D011565,1,Minocycline,0,
+cell adhesion,GO:0007155,Psoriasis,MESH:D011565,1,Folic Acid,0,
+cell-cell adhesion,GO:0098609,Psoriasis,MESH:D011565,0,,3,IL23R|VEGFA|VNN1
+cell-cell signaling,GO:0007267,Psoriasis,MESH:D011565,0,,2,GJB2|IL1B
+cell chemotaxis,GO:0060326,Psoriasis,MESH:D011565,7,Calcitriol|Colchicine|Folic Acid|Leukotriene B4|Mycophenolic Acid|oxymatrine|Tretinoin,1,VEGFA
+cell communication,GO:0007154,Psoriasis,MESH:D011565,2,Tretinoin|Triglycerides,1,GJB2
+cell communication by electrical coupling,GO:0010644,Psoriasis,MESH:D011565,0,,1,GJB2
+cell cycle,GO:0007049,Psoriasis,MESH:D011565,22,Acitretin|Aminolevulinic Acid|calcipotriene|Calcitriol|Colchicine|Cyclosporine|Hydroxyurea|Isotretinoin|Lithium|Methotrexate|Methoxsalen|Mycophenolic Acid|Prednisolone|Razoxane|Sirolimus|Tacrolimus|tamibarotene|tazarotene|Tobacco Smoke Pollution|Tretinoin|Troglitazone|Vitamin A,0,
+cell death,GO:0008219,Parapsoriasis,MESH:D010267,1,Carbamazepine,0,
+cell death,GO:0008219,Psoriasis,MESH:D011565,23,Aminolevulinic Acid|Azathioprine|Calcitriol|Colchicine|Cyclosporine|Dapsone|Dimethyl Fumarate|Ficusin|Folic Acid|Hydroxyurea|Lithium|Mefloquine|Methotrexate|Minocycline|Mycophenolic Acid|Razoxane|Sirolimus|Tacrolimus|Tetracycline|Tobacco Smoke Pollution|Tretinoin|Troglitazone|Vitamin A,0,
+cell differentiation,GO:0030154,Psoriasis,MESH:D011565,14,"1 alpha,24-dihydroxyvitamin D3|Anthralin|calcipotriene|Calcitriol|Colchicine|Hydroxyurea|Lithium|Razoxane|Sirolimus|Tacrolimus|tazarotene|Tobacco Smoke Pollution|Tretinoin|Vitamin A",6,IL6|PPARG|RNF114|STAT3|TYK2|VEGFA
+cell division,GO:0051301,Psoriasis,MESH:D011565,0,,1,PTTG1
+cell fate commitment,GO:0045165,Psoriasis,MESH:D011565,0,,1,PPARG
+cell growth,GO:0016049,Parapsoriasis,MESH:D010267,1,Carbamazepine,0,
+cell growth,GO:0016049,Psoriasis,MESH:D011565,10,Azathioprine|Cyclosporine|Dimethyl Fumarate|Folic Acid|Methotrexate|ruxolitinib|Sirolimus|Tobacco Smoke Pollution|Tretinoin|Troglitazone,0,
+cell maturation,GO:0048469,Psoriasis,MESH:D011565,0,,4,PPARG|REN|RUNX3|VEGFA
+cell migration,GO:0016477,Parapsoriasis,MESH:D010267,1,Carbamazepine,0,
+cell migration,GO:0016477,Psoriasis,MESH:D011565,7,Folic Acid|Imiquimod|Leukotriene B4|ruxolitinib|Sirolimus|Tobacco Smoke Pollution|Tretinoin,3,IL12B|TNFAIP3|VEGFA
+cell migration involved in gastrulation,GO:0042074,Psoriasis,MESH:D011565,0,,1,STAT3
+cell migration involved in sprouting angiogenesis,GO:0002042,Psoriasis,MESH:D011565,0,,1,VEGFA
+cell population proliferation,GO:0008283,Psoriasis,MESH:D011565,39,Acitretin|Adrenal Cortex Hormones|Aminolevulinic Acid|benoxaprofen|calcipotriene|Calcitriol|Clobetasol|Coal Tar|Colchicine|Cyclosporine|Folic Acid|hispidulin|Hydroxychloroquine|Hydroxyurea|Imiquimod|indirubin|Isotretinoin|Leukotriene B4|Lithium|Methotrexate|Minocycline|Mycophenolic Acid|oxymatrine|Phenylbutazone|pimecrolimus|Prednisolone|Qingdai compound|R 115866|Razoxane|ruxolitinib|Sirolimus|Sulfasalazine|Tacrolimus|Tetracycline|Tobacco Smoke Pollution|tofacitinib|Tretinoin|Troglitazone|Vitamin A,9,CARM1|CSF2|IL12B|MKI67|PPARG|STAT3|TP53|TYK2|VEGFA
+cell redox homeostasis,GO:0045454,Psoriasis,MESH:D011565,10,Calcitriol|Folic Acid|Free Radicals|Lithium Carbonate|Methotrexate|Prednisolone|Sulfasalazine|Tobacco Smoke Pollution|Tretinoin|Vitamin A,2,IL6|NOS2
+cell surface receptor signaling pathway,GO:0007166,Psoriasis,MESH:D011565,0,,2,IL12B|TGFA
+cellular aldehyde metabolic process,GO:0006081,Psoriasis,MESH:D011565,1,Tretinoin,0,
+cellular calcium ion homeostasis,GO:0006874,Psoriasis,MESH:D011565,9,Azathioprine|Colchicine|Cyclosporine|Folic Acid|Hydroxyurea|Leukotriene B4|Methotrexate|oxymatrine|Troglitazone,1,APOE
+cellular component organization,GO:0016043,Psoriasis,MESH:D011565,2,Sirolimus|Tretinoin,0,
+cellular copper ion homeostasis,GO:0006878,Psoriasis,MESH:D011565,0,,1,CP
+cellular detoxification of hydrogen peroxide,GO:0061692,Psoriasis,MESH:D011565,0,,1,CAT
+cellular extravasation,GO:0045123,Psoriasis,MESH:D011565,0,,1,TNF
+cellular iron ion homeostasis,GO:0006879,Psoriasis,MESH:D011565,0,,1,CP
+cellular ketone metabolic process,GO:0042180,Psoriasis,MESH:D011565,1,Hydroxychloroquine,0,
+cellular lipid catabolic process,GO:0044242,Psoriasis,MESH:D011565,2,Methotrexate|Vitamin A,0,
+cellular lipid metabolic process,GO:0044255,Psoriasis,MESH:D011565,3,Tretinoin|Triglycerides|Troglitazone,0,
+cellular metabolic process,GO:0044237,Psoriasis,MESH:D011565,23,Azathioprine|Calcitriol|Colchicine|Cyclosporine|Ficusin|Folic Acid|fumaric acid|Hydroxychloroquine|Hydroxyurea|Imiquimod|Leukotriene B4|Lithium|Methotrexate|Methoxsalen|Minocycline|Mycophenolic Acid|oxymatrine|Sirolimus|Tacrolimus|Tobacco Smoke Pollution|tofacitinib|Tretinoin|Troglitazone,0,
+cellular oxidant detoxification,GO:0098869,Psoriasis,MESH:D011565,2,Free Radicals|Sulfasalazine,3,APOE|CAT|CP
+cellular oxygen homeostasis,GO:0032364,Psoriasis,MESH:D011565,0,,1,SOD2
+cellular respiration,GO:0045333,Psoriasis,MESH:D011565,6,Cyclosporine|Folic Acid|Minocycline|Sirolimus|Tretinoin|Uridine,0,
+cellular response to actinomycin D,GO:0072717,Psoriasis,MESH:D011565,0,,1,TP53
+cellular response to amino acid starvation,GO:0034198,Psoriasis,MESH:D011565,0,,1,REL
+cellular response to amino acid stimulus,GO:0071230,Psoriasis,MESH:D011565,0,,1,TNF
+cellular response to amyloid-beta,GO:1904646,Psoriasis,MESH:D011565,1,Sirolimus,1,TNF
+cellular response to antibiotic,GO:0071236,Psoriasis,MESH:D011565,0,,1,IL1B
+cellular response to biotic stimulus,GO:0071216,Psoriasis,MESH:D011565,0,,1,NFKBIA
+cellular response to bisphenol A,GO:1903926,Psoriasis,MESH:D011565,1,Calcitriol,0,
+cellular response to calcium ion,GO:0071277,Psoriasis,MESH:D011565,0,,1,CRP
+cellular response to chemical stimulus,GO:0070887,Psoriasis,MESH:D011565,4,Folic Acid|Isotretinoin|R 115866|Tretinoin,0,
+cellular response to cholesterol,GO:0071397,Psoriasis,MESH:D011565,0,,1,APOE
+cellular response to cold,GO:0070417,Psoriasis,MESH:D011565,0,,1,NFKBIA
+cellular response to cytokine stimulus,GO:0071345,Psoriasis,MESH:D011565,0,,6,IL13|IL6|NFKBIA|NOS2|STAT3|TRAF3IP2
+cellular response to dexamethasone stimulus,GO:0071549,Psoriasis,MESH:D011565,0,,3,GJB2|IL6|VEGFA
+cellular response to DNA damage stimulus,GO:0006974,Psoriasis,MESH:D011565,9,Azathioprine|Colchicine|Cyclosporine|Folic Acid|Hydroxyurea|Methotrexate|Sirolimus|Tobacco Smoke Pollution|Uridine,3,PCNA|REL|TP53
+cellular response to estradiol stimulus,GO:0071392,Psoriasis,MESH:D011565,0,,1,IL6
+cellular response to estrogen stimulus,GO:0071391,Psoriasis,MESH:D011565,0,,1,VEGFA
+cellular response to ethanol,GO:0071361,Psoriasis,MESH:D011565,0,,2,APOE|SOD2
+cellular response to exogenous dsRNA,GO:0071360,Psoriasis,MESH:D011565,0,,2,IFIH1|RIGI
+cellular response to fatty acid,GO:0071398,Psoriasis,MESH:D011565,0,,1,IL1B
+cellular response to fibroblast growth factor stimulus,GO:0044344,Psoriasis,MESH:D011565,0,,1,VEGFA
+cellular response to fluid shear stress,GO:0071498,Psoriasis,MESH:D011565,1,Sirolimus,0,
+cellular response to gamma radiation,GO:0071480,Psoriasis,MESH:D011565,1,Tretinoin,1,TP53
+cellular response to glucagon stimulus,GO:0071377,Psoriasis,MESH:D011565,0,,1,GJB2
+cellular response to glucose starvation,GO:0042149,Psoriasis,MESH:D011565,0,,1,TP53
+cellular response to glucose stimulus,GO:0071333,Psoriasis,MESH:D011565,0,,1,IL1B
+cellular response to granulocyte macrophage colony-stimulating factor stimulus,GO:0097011,Psoriasis,MESH:D011565,0,,1,CSF2
+cellular response to growth factor stimulus,GO:0071363,Psoriasis,MESH:D011565,0,,2,APOE|CAT
+cellular response to heat,GO:0034605,Psoriasis,MESH:D011565,0,,2,MKI67|TP53
+cellular response to hepatocyte growth factor stimulus,GO:0035729,Psoriasis,MESH:D011565,0,,1,IL6
+cellular response to high light intensity,GO:0071486,Psoriasis,MESH:D011565,4,Colchicine|Dapsone|Minocycline|Tetracycline,0,
+cellular response to hormone stimulus,GO:0032870,Psoriasis,MESH:D011565,0,,1,STAT3
+cellular response to hydrogen peroxide,GO:0070301,Psoriasis,MESH:D011565,0,,3,IL6|PCNA|TNFAIP3
+cellular response to hyperoxia,GO:0071455,Psoriasis,MESH:D011565,0,,1,PPARG
+cellular response to hypoxia,GO:0071456,Psoriasis,MESH:D011565,0,,3,PPARG|TP53|VEGFA
+cellular response to insulin stimulus,GO:0032869,Psoriasis,MESH:D011565,0,,1,PPARG
+cellular response to interleukin-1,GO:0071347,Psoriasis,MESH:D011565,0,,3,APOE|IL6|NOS2
+cellular response to interleukin-17,GO:0097398,Psoriasis,MESH:D011565,0,,4,IL1B|IL6|STAT3|TRAF3IP2
+cellular response to interleukin-6,GO:0071354,Psoriasis,MESH:D011565,0,,1,CRP
+cellular response to ionizing radiation,GO:0071479,Psoriasis,MESH:D011565,0,,2,TNF|TP53
+cellular response to leptin stimulus,GO:0044320,Psoriasis,MESH:D011565,0,,1,STAT3
+cellular response to light stimulus,GO:0071482,Psoriasis,MESH:D011565,1,Methoxsalen,0,
+cellular response to lipid,GO:0071396,Psoriasis,MESH:D011565,0,,1,IL1B
+cellular response to lipopolysaccharide,GO:0071222,Psoriasis,MESH:D011565,0,,10,CSF2|IL12B|IL13|IL1B|IL36RN|IL6|NOS2|TNF|TNFAIP3|TNIP1
+cellular response to lipoprotein particle stimulus,GO:0071402,Psoriasis,MESH:D011565,0,,1,APOE
+cellular response to lithium ion,GO:0071285,Psoriasis,MESH:D011565,0,,2,NOS2|PPARG
+cellular response to low-density lipoprotein particle stimulus,GO:0071404,Psoriasis,MESH:D011565,0,,1,PPARG
+cellular response to mechanical stimulus,GO:0071260,Psoriasis,MESH:D011565,0,,3,IL13|IL1B|VEGFA
+cellular response to mercury ion,GO:0071288,Psoriasis,MESH:D011565,0,,1,IL4
+cellular response to methotrexate,GO:0071414,Psoriasis,MESH:D011565,1,Methotrexate,0,
+cellular response to molecule of bacterial origin,GO:0071219,Psoriasis,MESH:D011565,0,,2,IL1B|TNF
+cellular response to nicotine,GO:0071316,Psoriasis,MESH:D011565,0,,1,TNF
+cellular response to nitric oxide,GO:0071732,Psoriasis,MESH:D011565,0,,1,CRP
+cellular response to nitrosative stress,GO:0071500,Psoriasis,MESH:D011565,1,Free Radicals,0,
+cellular response to nutrient levels,GO:0031669,Psoriasis,MESH:D011565,0,,1,IL6
+cellular response to oxidative stress,GO:0034599,Parapsoriasis,MESH:D010267,1,Carbamazepine,0,
+cellular response to oxidative stress,GO:0034599,Psoriasis,MESH:D011565,0,,2,GJB2|SOD2
+cellular response to platelet-derived growth factor stimulus,GO:0036120,Psoriasis,MESH:D011565,0,,1,PPARG
+cellular response to polyamine macromolecule,GO:1904584,Psoriasis,MESH:D011565,0,,1,TP53
+cellular response to prolactin,GO:1990646,Psoriasis,MESH:D011565,0,,1,IL6
+cellular response to prostaglandin E stimulus,GO:0071380,Psoriasis,MESH:D011565,0,,1,PPARG
+cellular response to prostaglandin stimulus,GO:0071379,Psoriasis,MESH:D011565,0,,1,PPARG
+cellular response to radiation,GO:0071478,Psoriasis,MESH:D011565,1,Folic Acid,0,
+cellular response to reactive oxygen species,GO:0034614,Psoriasis,MESH:D011565,0,,1,TP53
+cellular response to redox state,GO:0071461,Psoriasis,MESH:D011565,0,,1,NOS2
+cellular response to retinoic acid,GO:0071300,Psoriasis,MESH:D011565,0,,2,PPARG|TNF
+cellular response to sodium arsenite,GO:1903936,Psoriasis,MESH:D011565,1,Calcitriol,0,
+cellular response to stress,GO:0033554,Psoriasis,MESH:D011565,0,,2,REL|TP53
+cellular response to toxic substance,GO:0097237,Psoriasis,MESH:D011565,0,,1,TNF
+cellular response to triglyceride,GO:0071401,Psoriasis,MESH:D011565,0,,1,TP53
+cellular response to tumor necrosis factor,GO:0071356,Psoriasis,MESH:D011565,1,fumaric acid,3,IL6|NFKBIA|NOS2
+cellular response to type II interferon,GO:0071346,Psoriasis,MESH:D011565,0,,3,IL12B|NOS2|TNF
+cellular response to unfolded protein,GO:0034620,Psoriasis,MESH:D011565,1,Sirolimus,0,
+cellular response to UV,GO:0034644,Psoriasis,MESH:D011565,0,,2,PCNA|TP53
+cellular response to UV-B,GO:0071493,Psoriasis,MESH:D011565,1,Calcitriol,0,
+cellular response to UV-C,GO:0071494,Psoriasis,MESH:D011565,0,,1,TP53
+cellular response to vascular endothelial growth factor stimulus,GO:0035924,Psoriasis,MESH:D011565,0,,1,VEGFA
+cellular response to virus,GO:0098586,Psoriasis,MESH:D011565,0,,4,IFIH1|IFNLR1|IL6|TYK2
+cellular response to vitamin D,GO:0071305,Psoriasis,MESH:D011565,0,,1,NOS2
+cellular response to vitamin E,GO:0071306,Psoriasis,MESH:D011565,0,,1,PPARG
+cellular response to wortmannin,GO:1904568,Psoriasis,MESH:D011565,0,,1,VEGFA
+cellular response to xenobiotic stimulus,GO:0071466,Psoriasis,MESH:D011565,1,Calcitriol,6,IL1B|NOS2|PCNA|REN|TP53|VEGFA
+cellular senescence,GO:0090398,Psoriasis,MESH:D011565,3,Folic Acid|Hydroxyurea|Sirolimus,1,TP53
+cellular stress response to acid chemical,GO:0097533,Psoriasis,MESH:D011565,0,,1,VEGFA
+cellular triglyceride homeostasis,GO:0035356,Psoriasis,MESH:D011565,1,Triglycerides,0,
+cellular zinc ion homeostasis,GO:0006882,Psoriasis,MESH:D011565,1,Mefloquine,0,
+central nervous system development,GO:0007417,Psoriasis,MESH:D011565,1,Methotrexate,1,TP53
+cerebellum development,GO:0021549,Psoriasis,MESH:D011565,0,,1,TP53
+cGAS/STING signaling pathway,GO:0140896,Psoriasis,MESH:D011565,0,,1,REL
+cGMP biosynthetic process,GO:0006182,Psoriasis,MESH:D011565,1,Cyclosporine,0,
+cGMP-mediated signaling,GO:0019934,Psoriasis,MESH:D011565,0,,1,NOS2
+cGMP metabolic process,GO:0046068,Psoriasis,MESH:D011565,1,5-Methoxypsoralen,0,
+chemical synaptic transmission,GO:0007268,Psoriasis,MESH:D011565,2,Lithium|Mefloquine,0,
+chemosensory behavior,GO:0007635,Parapsoriasis,MESH:D010267,1,Carbamazepine,0,
+cholangiocyte proliferation,GO:1990705,Psoriasis,MESH:D011565,0,,1,MKI67
+cholesterol biosynthetic process,GO:0006695,Psoriasis,MESH:D011565,3,Ficusin|Sirolimus|Tetracycline,0,
+cholesterol catabolic process,GO:0006707,Psoriasis,MESH:D011565,0,,1,APOE
+cholesterol efflux,GO:0033344,Psoriasis,MESH:D011565,1,Cyclosporine,1,APOE
+cholesterol homeostasis,GO:0042632,Psoriasis,MESH:D011565,4,"Cholesterol, LDL|Folic Acid|Tobacco Smoke Pollution|Tretinoin",1,APOE
+cholesterol metabolic process,GO:0008203,Psoriasis,MESH:D011565,9,"Cholesterol, LDL|Cyclosporine|Dimethyl Fumarate|Ficusin|Folic Acid|Sirolimus|Tobacco Smoke Pollution|Tretinoin|Vitamin A",3,APOE|CAT|IL4
+cholesterol transport,GO:0030301,Psoriasis,MESH:D011565,1,"Cholesterol, LDL",0,
+cholesterol transport involved in cholesterol storage,GO:0010879,Psoriasis,MESH:D011565,1,"Cholesterol, LDL",0,
+chondrocyte differentiation,GO:0002062,Psoriasis,MESH:D011565,0,,1,RUNX3
+chromatin organization,GO:0006325,Psoriasis,MESH:D011565,0,,1,CARM1
+chromatin remodeling,GO:0006338,Psoriasis,MESH:D011565,1,Tretinoin,2,CARM1|TYK2
+chromosome organization,GO:0051276,Psoriasis,MESH:D011565,1,Methotrexate,2,PTTG1|TP53
+chromosome segregation,GO:0007059,Psoriasis,MESH:D011565,0,,2,MKI67|PTTG1
+chronic inflammatory response,GO:0002544,Psoriasis,MESH:D011565,0,,2,S100A7|VNN1
+chronic inflammatory response to antigenic stimulus,GO:0002439,Psoriasis,MESH:D011565,0,,2,IL1B|TNF
+chylomicron remnant clearance,GO:0034382,Psoriasis,MESH:D011565,0,,1,APOE
+cilium assembly,GO:0060271,Psoriasis,MESH:D011565,1,Tobacco Smoke Pollution,0,
+cilium movement,GO:0003341,Psoriasis,MESH:D011565,1,Tobacco Smoke Pollution,0,
+cilium organization,GO:0044782,Psoriasis,MESH:D011565,1,Tobacco Smoke Pollution,0,
+circadian behavior,GO:0048512,Psoriasis,MESH:D011565,0,,1,TP53
+circadian rhythm,GO:0007623,Psoriasis,MESH:D011565,0,,3,NOS2|TNF|TP53
+circulatory system development,GO:0072359,Psoriasis,MESH:D011565,0,,1,APOE
+circulatory system process,GO:0003013,Psoriasis,MESH:D011565,1,Tobacco Smoke Pollution,0,
+coenzyme A catabolic process,GO:0015938,Psoriasis,MESH:D011565,0,,1,VNN1
+cognition,GO:0050890,Psoriasis,MESH:D011565,2,Sirolimus|Tobacco Smoke Pollution,1,TNF
+cold-induced thermogenesis,GO:0106106,Psoriasis,MESH:D011565,0,,1,PPARG
+collagen biosynthetic process,GO:0032964,Psoriasis,MESH:D011565,2,Prednisolone|Sirolimus,0,
+collagen fibril organization,GO:0030199,Psoriasis,MESH:D011565,10,calcipotriene|Colchicine|Cyclosporine|Folic Acid|Lithium|Lithium Carbonate|Prednisolone|Sirolimus|Tobacco Smoke Pollution|Vitamin A,0,
+commissural neuron axon guidance,GO:0071679,Psoriasis,MESH:D011565,0,,1,VEGFA
+"complement activation, classical pathway",GO:0006958,Psoriasis,MESH:D011565,0,,1,CRP
+conditioned place preference,GO:1990708,Psoriasis,MESH:D011565,0,,1,CSMD1
+coronary artery morphogenesis,GO:0060982,Psoriasis,MESH:D011565,0,,1,VEGFA
+coronary vein morphogenesis,GO:0003169,Psoriasis,MESH:D011565,0,,1,VEGFA
+cortical actin cytoskeleton organization,GO:0030866,Psoriasis,MESH:D011565,0,,1,TNF
+cranial skeletal system development,GO:1904888,Psoriasis,MESH:D011565,1,Folic Acid,1,TNFAIP3
+creatine biosynthetic process,GO:0006601,Psoriasis,MESH:D011565,1,Sirolimus,0,
+creatinine metabolic process,GO:0046449,Psoriasis,MESH:D011565,6,Cyclosporine|Dimethyl Fumarate|Folic Acid|Lithium Carbonate|Methotrexate|Tacrolimus,0,
+cyclooxygenase pathway,GO:0019371,Psoriasis,MESH:D011565,1,Tobacco Smoke Pollution,0,
+cysteine metabolic process,GO:0006534,Psoriasis,MESH:D011565,1,Dimethyl Fumarate,0,
+cytochrome metabolic process,GO:1903604,Psoriasis,MESH:D011565,0,,1,CYP2S1
+cytokine-mediated signaling pathway,GO:0019221,Psoriasis,MESH:D011565,1,tofacitinib,10,IFNLR1|IL12B|IL1B|IL23R|IL36RN|IL6|RIGI|STAT3|TRAF3IP2|TYK2
+cytokine production,GO:0001816,Psoriasis,MESH:D011565,0,,1,REL
+cytokine production involved in immune response,GO:0002367,Psoriasis,MESH:D011565,1,Tobacco Smoke Pollution,1,TRAF3IP2
+cytokine production involved in inflammatory response,GO:0002534,Psoriasis,MESH:D011565,2,Tobacco Smoke Pollution|tofacitinib,1,TRAF3IP2
+cytoplasmic microtubule depolymerization,GO:0010938,Psoriasis,MESH:D011565,1,Colchicine,0,
+cytoplasmic sequestering of NF-kappaB,GO:0007253,Psoriasis,MESH:D011565,0,,1,NFKBIA
+cytosine metabolic process,GO:0019858,Psoriasis,MESH:D011565,1,Tretinoin,0,
+cytoskeleton organization,GO:0007010,Psoriasis,MESH:D011565,0,,2,APOE|TNFAIP3
+cytosolic pattern recognition receptor signaling pathway,GO:0002753,Psoriasis,MESH:D011565,0,,2,IFIH1|RIGI
+decidualization,GO:0046697,Psoriasis,MESH:D011565,0,,1,GJB2
+defense response,GO:0006952,Psoriasis,MESH:D011565,0,,3,STAT3|TNF|TNIP1
+defense response to bacterium,GO:0042742,Psoriasis,MESH:D011565,0,,4,IL1B|NOS2|REL|TNF
+defense response to Gram-negative bacterium,GO:0050829,Psoriasis,MESH:D011565,0,,8,IL12B|IL23A|IL23R|IL6|LCE3B|LCE3C|NOS2|REL
+defense response to Gram-positive bacterium,GO:0050830,Parapsoriasis,MESH:D010267,0,,2,HLA-A|HLA-E
+defense response to Gram-positive bacterium,GO:0050830,Psoriasis,MESH:D011565,0,,6,CRP|IL1B|IL6|LCE3B|LCE3C|TNF
+defense response to protozoan,GO:0042832,Psoriasis,MESH:D011565,0,,3,IL12B|IL4|IL6
+defense response to virus,GO:0051607,Psoriasis,MESH:D011565,0,,8,IFIH1|IFNLR1|IL12B|IL23A|IL6|REL|RIGI|TAGAP
+definitive hemopoiesis,GO:0060216,Psoriasis,MESH:D011565,0,,1,TP53
+delamination,GO:0060232,Psoriasis,MESH:D011565,1,Tobacco Smoke Pollution,0,
+dendrite arborization,GO:0140059,Psoriasis,MESH:D011565,3,Sirolimus|Tacrolimus|Vitamin A,0,
+dendrite extension,GO:0097484,Psoriasis,MESH:D011565,1,Tretinoin,0,
+dendrite morphogenesis,GO:0048813,Psoriasis,MESH:D011565,0,,1,REL
+dendritic cell differentiation,GO:0097028,Psoriasis,MESH:D011565,0,,2,CSF2|IL4
+dendritic spine development,GO:0060996,Psoriasis,MESH:D011565,1,Lithium,0,
+detection of bacterium,GO:0016045,Parapsoriasis,MESH:D010267,0,,1,HLA-A
+detection of mechanical stimulus involved in sensory perception of pain,GO:0050966,Psoriasis,MESH:D011565,0,,1,TNF
+detection of oxidative stress,GO:0070994,Parapsoriasis,MESH:D010267,1,Carbamazepine,0,
+detection of oxidative stress,GO:0070994,Psoriasis,MESH:D011565,11,Calcitriol|Colchicine|Dapsone|Folic Acid|Isotretinoin|Methotrexate|Mycophenolic Acid|Sirolimus|Tetracycline|Tobacco Smoke Pollution|Vitamin A,0,
+detection of oxygen,GO:0003032,Psoriasis,MESH:D011565,0,,1,SOD2
+detection of renal blood flow,GO:0002000,Psoriasis,MESH:D011565,1,Folic Acid,0,
+detection of virus,GO:0009597,Psoriasis,MESH:D011565,0,,2,IFIH1|RIGI
+determination of adult lifespan,GO:0008340,Psoriasis,MESH:D011565,1,Sirolimus,3,CAT|SOD2|TP53
+determination of ventral identity,GO:0048264,Psoriasis,MESH:D011565,1,Tretinoin,0,
+detoxification of arsenic-containing substance,GO:0071722,Psoriasis,MESH:D011565,1,Folic Acid,0,
+developmental growth,GO:0048589,Psoriasis,MESH:D011565,2,Folic Acid|Tobacco Smoke Pollution,0,
+developmental process,GO:0032502,Psoriasis,MESH:D011565,1,Tretinoin,0,
+developmental process involved in reproduction,GO:0003006,Psoriasis,MESH:D011565,1,Betamethasone,0,
+dicarboxylic acid metabolic process,GO:0043648,Psoriasis,MESH:D011565,1,fumaric acid,0,
+diet induced thermogenesis,GO:0002024,Psoriasis,MESH:D011565,0,,1,PPARG
+dihydrofolate biosynthetic process,GO:0006761,Psoriasis,MESH:D011565,1,Methotrexate,0,
+DNA biosynthetic process,GO:0071897,Psoriasis,MESH:D011565,2,Folic Acid|Tretinoin,0,
+DNA catabolic process,GO:0006308,Psoriasis,MESH:D011565,2,Hydroxyurea|Vitamin A,0,
+"DNA catabolic process, endonucleolytic",GO:0000737,Parapsoriasis,MESH:D010267,1,Carbamazepine,0,
+"DNA catabolic process, endonucleolytic",GO:0000737,Psoriasis,MESH:D011565,1,Cyclosporine,0,
+DNA damage checkpoint signaling,GO:0000077,Psoriasis,MESH:D011565,0,,1,TP53
+"DNA damage response, signal transduction by p53 class mediator",GO:0030330,Psoriasis,MESH:D011565,0,,1,TP53
+DNA metabolic process,GO:0006259,Psoriasis,MESH:D011565,1,Tobacco Smoke Pollution,1,MKI67
+DNA methylation,GO:0006306,Psoriasis,MESH:D011565,4,Folic Acid|Hydroxyurea|Tobacco Smoke Pollution|Tretinoin,0,
+DNA methylation on cytosine,GO:0032776,Psoriasis,MESH:D011565,1,Folic Acid,0,
+DNA methylation on cytosine within a CG sequence,GO:0010424,Psoriasis,MESH:D011565,2,Folic Acid|Tobacco Smoke Pollution,0,
+DNA modification,GO:0006304,Psoriasis,MESH:D011565,8,Calcitriol|Cyclosporine|Folic Acid|Lithium|Lithium Carbonate|Methotrexate|Tobacco Smoke Pollution|Tretinoin,0,
+DNA repair,GO:0006281,Psoriasis,MESH:D011565,0,,1,PTTG1
+DNA replication,GO:0006260,Psoriasis,MESH:D011565,2,Cyclosporine|Hydroxyurea,1,PCNA
+DNA-templated DNA replication,GO:0006261,Psoriasis,MESH:D011565,0,,1,PCNA
+dopamine biosynthetic process,GO:0042416,Psoriasis,MESH:D011565,3,Calcitriol|Dimethyl Fumarate|Minocycline,0,
+dopaminergic neuron differentiation,GO:0071542,Psoriasis,MESH:D011565,2,Tobacco Smoke Pollution|Tretinoin,1,VEGFA
+double-strand break repair,GO:0006302,Psoriasis,MESH:D011565,0,,1,TP53
+drinking behavior,GO:0042756,Psoriasis,MESH:D011565,0,,1,REN
+ear development,GO:0043583,Psoriasis,MESH:D011565,1,Folic Acid,0,
+eating behavior,GO:0042755,Psoriasis,MESH:D011565,0,,1,STAT3
+ectopic germ cell programmed cell death,GO:0035234,Psoriasis,MESH:D011565,0,,1,IL1B
+eggshell chorion gene amplification,GO:0007307,Psoriasis,MESH:D011565,0,,1,PCNA
+embryo development,GO:0009790,Psoriasis,MESH:D011565,4,Cyclosporine|Folic Acid|Hydroxyurea|Tretinoin,2,TP53|ZNF816
+embryo development ending in birth or egg hatching,GO:0009792,Psoriasis,MESH:D011565,1,Folic Acid,1,TP53
+embryo implantation,GO:0007566,Psoriasis,MESH:D011565,1,Sirolimus,1,IL1B
+embryonic digestive tract development,GO:0048566,Psoriasis,MESH:D011565,0,,1,TNF
+embryonic morphogenesis,GO:0048598,Psoriasis,MESH:D011565,2,Acitretin|Hydroxyurea,0,
+embryonic organ development,GO:0048568,Psoriasis,MESH:D011565,1,Troglitazone,1,TP53
+embryonic placenta development,GO:0001892,Psoriasis,MESH:D011565,0,,1,CSF2
+embryonic viscerocranium morphogenesis,GO:0048703,Psoriasis,MESH:D011565,0,,1,RUNX3
+endochondral bone morphogenesis,GO:0060350,Psoriasis,MESH:D011565,0,,1,CARM1
+endocrine pancreas development,GO:0031018,Psoriasis,MESH:D011565,0,,1,IL6
+endocytosis,GO:0006897,Psoriasis,MESH:D011565,2,Prednisolone|Troglitazone,0,
+endodermal cell differentiation,GO:0035987,Psoriasis,MESH:D011565,1,Tretinoin,0,
+endoplasmic reticulum cisternal network maintenance,GO:0071785,Psoriasis,MESH:D011565,1,Tobacco Smoke Pollution,0,
+endoplasmic reticulum organization,GO:0007029,Psoriasis,MESH:D011565,1,Sirolimus,0,
+endosome organization,GO:0007032,Psoriasis,MESH:D011565,1,Hydroxychloroquine,0,
+endothelial cell apoptotic process,GO:0072577,Psoriasis,MESH:D011565,0,,1,TNF
+endothelial cell chemotaxis,GO:0035767,Psoriasis,MESH:D011565,0,,1,VEGFA
+endothelial cell migration,GO:0043542,Psoriasis,MESH:D011565,0,,2,S100A7|VEGFA
+endothelial cell proliferation,GO:0001935,Psoriasis,MESH:D011565,0,,2,NOS2|VEGFA
+energy homeostasis,GO:0097009,Psoriasis,MESH:D011565,0,,1,STAT3
+entrainment of circadian clock by photoperiod,GO:0043153,Psoriasis,MESH:D011565,0,,1,TP53
+entry of bacterium into host cell,GO:0035635,Psoriasis,MESH:D011565,1,"Cholesterol, LDL",0,
+eosinophil homeostasis,GO:1990959,Psoriasis,MESH:D011565,0,,1,TRAF3IP2
+eosinophil mediated immunity,GO:0002447,Psoriasis,MESH:D011565,0,,1,TRAF3IP2
+eosinophil migration,GO:0072677,Psoriasis,MESH:D011565,1,Methotrexate,0,
+epidermal growth factor receptor signaling pathway,GO:0007173,Psoriasis,MESH:D011565,0,,1,TGFA
+epidermis development,GO:0008544,Psoriasis,MESH:D011565,0,,4,LCE3B|LCE3C|LCE3D|S100A7
+epidermis morphogenesis,GO:0048730,Psoriasis,MESH:D011565,0,,1,TP53
+epididymis development,GO:1905867,Psoriasis,MESH:D011565,0,,1,GJB2
+epigenetic regulation of gene expression,GO:0040029,Psoriasis,MESH:D011565,1,Tretinoin,0,
+epithelial cell-cell adhesion,GO:0090136,Psoriasis,MESH:D011565,0,,1,SERPINB8
+epithelial cell differentiation,GO:0030855,Psoriasis,MESH:D011565,0,,3,PCNA|PPARG|VEGFA
+epithelial cell maturation,GO:0002070,Psoriasis,MESH:D011565,0,,1,VEGFA
+epithelial cell proliferation,GO:0050673,Psoriasis,MESH:D011565,0,,4,CSF2|MKI67|PPARG|VEGFA
+epithelial cell proliferation involved in salivary gland morphogenesis,GO:0060664,Psoriasis,MESH:D011565,0,,2,IL6|TNF
+epithelial cilium movement involved in extracellular fluid movement,GO:0003351,Psoriasis,MESH:D011565,1,Tobacco Smoke Pollution,0,
+epithelial fluid transport,GO:0042045,Psoriasis,MESH:D011565,0,,1,CSF2
+epithelial structure maintenance,GO:0010669,Psoriasis,MESH:D011565,1,Tobacco Smoke Pollution,0,
+epithelial to mesenchymal transition,GO:0001837,Psoriasis,MESH:D011565,0,,1,STAT3
+epithelium development,GO:0060429,Psoriasis,MESH:D011565,0,,3,REL|RUNX3|TP53
+epoxygenase P450 pathway,GO:0019373,Psoriasis,MESH:D011565,1,Cyclosporine,1,CYP2S1
+ERBB2-EGFR signaling pathway,GO:0038134,Psoriasis,MESH:D011565,0,,1,TGFA
+ER overload response,GO:0006983,Psoriasis,MESH:D011565,0,,1,TP53
+erythrocyte development,GO:0048821,Psoriasis,MESH:D011565,1,Troglitazone,1,TP53
+erythrocyte differentiation,GO:0030218,Psoriasis,MESH:D011565,2,Folic Acid|Troglitazone,0,
+erythrocyte maturation,GO:0043249,Psoriasis,MESH:D011565,0,,1,TP53
+erythrophore differentiation,GO:0048773,Psoriasis,MESH:D011565,0,,1,SOD2
+establishment of cell polarity,GO:0030010,Psoriasis,MESH:D011565,0,,1,STAT3
+establishment of planar polarity,GO:0001736,Psoriasis,MESH:D011565,0,,1,STAT3
+establishment of protein localization to chromatin,GO:0071169,Psoriasis,MESH:D011565,1,Methotrexate,0,
+establishment of protein localization to plasma membrane,GO:0061951,Psoriasis,MESH:D011565,2,Betamethasone|Sirolimus,0,
+establishment of protein localization to vacuole,GO:0072666,Psoriasis,MESH:D011565,0,,1,TNFAIP3
+establishment of skin barrier,GO:0061436,Psoriasis,MESH:D011565,1,Tobacco Smoke Pollution,0,
+establishment of T cell polarity,GO:0001768,Psoriasis,MESH:D011565,0,,1,TRAF3IP2
+estrogen metabolic process,GO:0008210,Psoriasis,MESH:D011565,1,Methotrexate,0,
+estrone secretion,GO:0035943,Psoriasis,MESH:D011565,1,Tobacco Smoke Pollution,0,
+estrous cycle,GO:0044849,Psoriasis,MESH:D011565,0,,1,PCNA
+ethanolamine metabolic process,GO:0006580,Psoriasis,MESH:D011565,1,Methotrexate,0,
+excitatory postsynaptic potential,GO:0060079,Parapsoriasis,MESH:D010267,1,Carbamazepine,0,
+excitatory postsynaptic potential,GO:0060079,Psoriasis,MESH:D011565,1,Tacrolimus,0,
+excretion,GO:0007588,Psoriasis,MESH:D011565,1,Sirolimus,0,
+exploration behavior,GO:0035640,Psoriasis,MESH:D011565,4,Isotretinoin|Minocycline|Tacrolimus|Vitamin A,0,
+extracellular matrix organization,GO:0030198,Psoriasis,MESH:D011565,0,,1,TNF
+extrinsic apoptotic signaling pathway,GO:0097191,Psoriasis,MESH:D011565,0,,2,IL4|TNF
+extrinsic apoptotic signaling pathway in absence of ligand,GO:0097192,Psoriasis,MESH:D011565,0,,2,IL1B|IL4
+extrinsic apoptotic signaling pathway via death domain receptors,GO:0008625,Psoriasis,MESH:D011565,0,,1,TNF
+eye development,GO:0001654,Psoriasis,MESH:D011565,1,Tretinoin,0,
+eye photoreceptor cell development,GO:0042462,Psoriasis,MESH:D011565,0,,1,VEGFA
+eye photoreceptor cell differentiation,GO:0001754,Psoriasis,MESH:D011565,0,,1,STAT3
+fat cell differentiation,GO:0045444,Psoriasis,MESH:D011565,4,hispidulin|Tretinoin|Triglycerides|Troglitazone,2,ERAP1|PPARG
+fatty acid biosynthetic process,GO:0006633,Psoriasis,MESH:D011565,1,Fatty Acids,0,
+fatty acid homeostasis,GO:0055089,Psoriasis,MESH:D011565,1,Fatty Acids,1,APOE
+fatty acid metabolic process,GO:0006631,Psoriasis,MESH:D011565,5,Fatty Acids|Folic Acid|Hydroxychloroquine|Tetracycline|Tretinoin,1,PPARG
+fatty acid oxidation,GO:0019395,Psoriasis,MESH:D011565,2,Methotrexate|Troglitazone,2,CP|PPARG
+fatty acid transport,GO:0015908,Psoriasis,MESH:D011565,2,Cyclosporine|Fatty Acids,0,
+Fc-gamma receptor signaling pathway involved in phagocytosis,GO:0038096,Psoriasis,MESH:D011565,0,,1,NOS2
+fear response,GO:0042596,Psoriasis,MESH:D011565,1,Folic Acid,0,
+feeding behavior,GO:0007631,Psoriasis,MESH:D011565,2,Tobacco Smoke Pollution|Vitamin A,0,
+female gonad development,GO:0008585,Psoriasis,MESH:D011565,0,,1,CSMD1
+female pregnancy,GO:0007565,Psoriasis,MESH:D011565,0,,4,CP|GJB2|IL4|VEGFA
+ferroptosis,GO:0097707,Psoriasis,MESH:D011565,1,Dimethyl Fumarate,0,
+fertilization,GO:0009566,Psoriasis,MESH:D011565,1,Tobacco Smoke Pollution,0,
+fever generation,GO:0001660,Psoriasis,MESH:D011565,0,,1,IL1B
+fibroblast activation,GO:0072537,Psoriasis,MESH:D011565,1,Folic Acid,0,
+fibroblast proliferation,GO:0048144,Psoriasis,MESH:D011565,0,,1,TP53
+fin development,GO:0033333,Psoriasis,MESH:D011565,1,Tretinoin,0,
+fin regeneration,GO:0031101,Psoriasis,MESH:D011565,0,,1,IL1B
+folic acid metabolic process,GO:0046655,Psoriasis,MESH:D011565,2,Folic Acid|Methotrexate,0,
+folic acid transport,GO:0015884,Psoriasis,MESH:D011565,3,Colchicine|Folic Acid|Methotrexate,0,
+forebrain development,GO:0030900,Psoriasis,MESH:D011565,1,Folic Acid,0,
+formate metabolic process,GO:0015942,Psoriasis,MESH:D011565,1,Hydroxychloroquine,0,
+fumarate metabolic process,GO:0006106,Psoriasis,MESH:D011565,2,Fumarates|fumaric acid,0,
+G0 to G1 transition,GO:0045023,Psoriasis,MESH:D011565,5,5-Methoxypsoralen|Calcitriol|Colchicine|Folic Acid|hispidulin,0,
+G1 phase,GO:0051318,Psoriasis,MESH:D011565,1,Minocycline,0,
+G1/S transition of mitotic cell cycle,GO:0000082,Psoriasis,MESH:D011565,1,Hydroxyurea,0,
+G2/M transition of mitotic cell cycle,GO:0000086,Psoriasis,MESH:D011565,4,Calcitriol|Colchicine|Folic Acid|Tretinoin,0,
+gap junction assembly,GO:0016264,Psoriasis,MESH:D011565,0,,1,GJB2
+gap junction-mediated intercellular transport,GO:1990349,Psoriasis,MESH:D011565,0,,1,GJB2
+gastrulation,GO:0007369,Psoriasis,MESH:D011565,0,,1,TP53
+gastrulation with mouth forming second,GO:0001702,Psoriasis,MESH:D011565,0,,1,TP53
+gene expression,GO:0010467,Psoriasis,MESH:D011565,1,Tobacco Smoke Pollution,7,APOE|CP|CSMD1|IL6|RIGI|STAT3|TRAF3IP2
+germ cell development,GO:0007281,Psoriasis,MESH:D011565,1,Tretinoin,1,STAT3
+germinal center B cell differentiation,GO:0002314,Psoriasis,MESH:D011565,0,,1,IL6
+glial cell activation,GO:0061900,Psoriasis,MESH:D011565,1,Minocycline,0,
+glial cell proliferation,GO:0014009,Psoriasis,MESH:D011565,0,,1,TP53
+glomerular filtration,GO:0003094,Psoriasis,MESH:D011565,3,Cyclosporine|Tacrolimus|Tretinoin,0,
+glucagon secretion,GO:0070091,Psoriasis,MESH:D011565,0,,1,IL6
+gluconeogenesis,GO:0006094,Psoriasis,MESH:D011565,2,Fatty Acids|fumaric acid,0,
+glucose catabolic process to lactate via pyruvate,GO:0019661,Psoriasis,MESH:D011565,0,,1,TP53
+glucose homeostasis,GO:0042593,Parapsoriasis,MESH:D010267,1,Carbamazepine,0,
+glucose homeostasis,GO:0042593,Psoriasis,MESH:D011565,3,Dimethyl Fumarate|Folic Acid|Tobacco Smoke Pollution,5,CP|CSMD1|IL6|PPARG|STAT3
+glucose import,GO:0046323,Psoriasis,MESH:D011565,3,Colchicine|Cyclosporine|Tacrolimus,0,
+glucose import across plasma membrane,GO:0098708,Psoriasis,MESH:D011565,1,Sirolimus,0,
+glucose metabolic process,GO:0006006,Psoriasis,MESH:D011565,3,Ficusin|Folic Acid|Tobacco Smoke Pollution,1,TNF
+glutamate biosynthetic process,GO:0006537,Psoriasis,MESH:D011565,1,Tobacco Smoke Pollution,0,
+glutathione biosynthetic process,GO:0006750,Psoriasis,MESH:D011565,13,Azathioprine|Colchicine|Cyclosporine|Dimethyl Fumarate|Folic Acid|Lithium Carbonate|Methotrexate|ruxolitinib|Sirolimus|Sulfasalazine|Tacrolimus|Tobacco Smoke Pollution|Troglitazone,0,
+glutathione catabolic process,GO:0006751,Psoriasis,MESH:D011565,1,Tobacco Smoke Pollution,0,
+glutathione derivative biosynthetic process,GO:1901687,Psoriasis,MESH:D011565,1,Methotrexate,0,
+glutathione derivative metabolic process,GO:1901685,Psoriasis,MESH:D011565,1,Methoxsalen,0,
+glutathione metabolic process,GO:0006749,Parapsoriasis,MESH:D010267,1,Carbamazepine,0,
+glutathione metabolic process,GO:0006749,Psoriasis,MESH:D011565,13,5-Methoxypsoralen|Calcitriol|Cyclosporine|Dimethyl Fumarate|Ficusin|Folic Acid|Isotretinoin|Methotrexate|Sirolimus|Sulfasalazine|Tobacco Smoke Pollution|Tretinoin|Troglitazone,1,SOD2
+glycerolipid biosynthetic process,GO:0045017,Psoriasis,MESH:D011565,1,Fatty Acids,0,
+glycerophospholipid metabolic process,GO:0006650,Psoriasis,MESH:D011565,1,Folic Acid,0,
+glycine biosynthetic process,GO:0006545,Psoriasis,MESH:D011565,1,Tobacco Smoke Pollution,0,
+glycogen biosynthetic process,GO:0005978,Psoriasis,MESH:D011565,4,Ficusin|Folic Acid|Lithium Carbonate|Sirolimus,0,
+glycogen catabolic process,GO:0005980,Psoriasis,MESH:D011565,1,Methotrexate,0,
+glycogen metabolic process,GO:0005977,Psoriasis,MESH:D011565,1,Vitamin A,0,
+glycolipid metabolic process,GO:0006664,Psoriasis,MESH:D011565,1,Triglycerides,0,
+glycolytic process,GO:0006096,Psoriasis,MESH:D011565,2,Sirolimus|Tretinoin,0,
+glycoprotein biosynthetic process,GO:0009101,Psoriasis,MESH:D011565,0,,1,TNIP1
+glycoside metabolic process,GO:0016137,Psoriasis,MESH:D011565,0,,1,NOS2
+glycosphingolipid biosynthetic process,GO:0006688,Psoriasis,MESH:D011565,1,Cyclosporine,0,
+glycosylation,GO:0070085,Psoriasis,MESH:D011565,1,Mycophenolic Acid,0,
+Golgi organization,GO:0007030,Psoriasis,MESH:D011565,1,Hydroxychloroquine,0,
+G protein-coupled receptor signaling pathway,GO:0007186,Psoriasis,MESH:D011565,0,,4,APOE|HCAR2|PPARG|REL
+G protein-coupled receptor signaling pathway coupled to cGMP nucleotide second messenger,GO:0007199,Psoriasis,MESH:D011565,0,,1,NOS2
+granulocyte activation,GO:0036230,Psoriasis,MESH:D011565,1,Tretinoin,0,
+granulocyte differentiation,GO:0030851,Psoriasis,MESH:D011565,1,Tretinoin,0,
+granulocyte-macrophage colony-stimulating factor signaling pathway,GO:0038157,Psoriasis,MESH:D011565,0,,1,CSF2
+growth hormone receptor signaling pathway,GO:0060396,Psoriasis,MESH:D011565,0,,1,STAT3
+growth hormone receptor signaling pathway via JAK-STAT,GO:0060397,Psoriasis,MESH:D011565,0,,2,STAT3|TYK2
+hair follicle morphogenesis,GO:0031069,Psoriasis,MESH:D011565,0,,1,RUNX3
+hatching,GO:0035188,Parapsoriasis,MESH:D010267,1,Carbamazepine,0,
+hatching,GO:0035188,Psoriasis,MESH:D011565,4,Folic Acid|Sirolimus|Tobacco Smoke Pollution|Tretinoin,0,
+head morphogenesis,GO:0060323,Psoriasis,MESH:D011565,1,Tretinoin,0,
+heart development,GO:0007507,Psoriasis,MESH:D011565,3,Folic Acid|Hydroxyurea|Methotrexate,5,PCNA|PPARG|SOD2|TP53|TRAF3IP2
+heart formation,GO:0060914,Psoriasis,MESH:D011565,1,Folic Acid,0,
+heart morphogenesis,GO:0003007,Psoriasis,MESH:D011565,0,,3,CAT|SOD2|VEGFA
+helper T cell chemotaxis,GO:0035704,Psoriasis,MESH:D011565,1,Cyclosporine,0,
+hematopoietic progenitor cell differentiation,GO:0002244,Psoriasis,MESH:D011565,0,,1,TP53
+hematopoietic stem cell differentiation,GO:0060218,Psoriasis,MESH:D011565,0,,2,IL6|TP53
+hematopoietic stem cell homeostasis,GO:0061484,Psoriasis,MESH:D011565,0,,1,TP53
+hematopoietic stem cell proliferation,GO:0071425,Psoriasis,MESH:D011565,0,,1,TP53
+heme oxidation,GO:0006788,Psoriasis,MESH:D011565,1,Dapsone,0,
+hemoglobin biosynthetic process,GO:0042541,Psoriasis,MESH:D011565,4,Folic Acid|Hydroxyurea|Lithium Carbonate|Sirolimus,0,
+hemoglobin metabolic process,GO:0020027,Psoriasis,MESH:D011565,2,Folic Acid|Tobacco Smoke Pollution,1,CAT
+hemopoiesis,GO:0030097,Psoriasis,MESH:D011565,0,,2,RUNX3|SOD2
+hepatic immune response,GO:0002384,Psoriasis,MESH:D011565,0,,1,IL6
+hepatocyte differentiation,GO:0070365,Psoriasis,MESH:D011565,0,,1,STAT3
+hepatocyte homeostasis,GO:0036333,Psoriasis,MESH:D011565,1,Folic Acid,0,
+hepatocyte proliferation,GO:0072574,Psoriasis,MESH:D011565,0,,3,IL6|MKI67|TGFA
+heterocycle metabolic process,GO:0046483,Psoriasis,MESH:D011565,2,Imiquimod|Thioguanine,0,
+high-density lipoprotein particle assembly,GO:0034380,Psoriasis,MESH:D011565,0,,1,APOE
+high-density lipoprotein particle clearance,GO:0034384,Psoriasis,MESH:D011565,0,,1,APOE
+high-density lipoprotein particle remodeling,GO:0034375,Psoriasis,MESH:D011565,0,,1,APOE
+hindbrain development,GO:0030902,Psoriasis,MESH:D011565,1,Folic Acid,0,
+histamine secretion,GO:0001821,Psoriasis,MESH:D011565,0,,1,CSF2
+histamine secretion mediated by immunoglobulin,GO:0097280,Psoriasis,MESH:D011565,9,Betamethasone|Calcitriol|Colchicine|Cyclosporine|Lithium|pimecrolimus|Prednisolone|Sulfasalazine|Tacrolimus,0,
+histone H3 acetylation,GO:0043966,Psoriasis,MESH:D011565,2,Tobacco Smoke Pollution|Tretinoin,0,
+histone H3-K27 trimethylation,GO:0098532,Psoriasis,MESH:D011565,1,Tobacco Smoke Pollution,0,
+histone H3-K36 dimethylation,GO:0097676,Psoriasis,MESH:D011565,1,Tretinoin,0,
+histone H3-K4 dimethylation,GO:0044648,Psoriasis,MESH:D011565,1,Folic Acid,0,
+histone H3-K4 trimethylation,GO:0080182,Psoriasis,MESH:D011565,2,Sirolimus|Tobacco Smoke Pollution,0,
+histone H3-K9 dimethylation,GO:0036123,Psoriasis,MESH:D011565,1,Folic Acid,0,
+histone H4-K16 acetylation,GO:0043984,Psoriasis,MESH:D011565,2,Tobacco Smoke Pollution|Tretinoin,0,
+histone H4-K20 trimethylation,GO:0034773,Psoriasis,MESH:D011565,1,Tobacco Smoke Pollution,0,
+homeostasis of number of cells within a tissue,GO:0048873,Psoriasis,MESH:D011565,1,Methotrexate,1,VEGFA
+homocysteine metabolic process,GO:0050667,Psoriasis,MESH:D011565,1,Folic Acid,0,
+homologous chromosome segregation,GO:0045143,Psoriasis,MESH:D011565,0,,1,PTTG1
+homotypic cell-cell adhesion,GO:0034109,Psoriasis,MESH:D011565,1,Calcitriol,0,
+hormone-mediated signaling pathway,GO:0009755,Psoriasis,MESH:D011565,0,,2,PPARG|REN
+host-mediated regulation of intestinal microbiota composition,GO:0048874,Parapsoriasis,MESH:D010267,1,Carbamazepine,0,
+host-mediated regulation of intestinal microbiota composition,GO:0048874,Psoriasis,MESH:D011565,1,Colchicine,0,
+humoral immune response,GO:0006959,Psoriasis,MESH:D011565,0,,3,IL6|TNF|TRAF3IP2
+hyaluronan biosynthetic process,GO:0030213,Psoriasis,MESH:D011565,0,,1,IL1B
+hyaluronan metabolic process,GO:0030212,Psoriasis,MESH:D011565,1,Cyclosporine,0,
+hydrogen peroxide biosynthetic process,GO:0050665,Psoriasis,MESH:D011565,3,Cyclosporine|Folic Acid|Prednisolone,1,SOD2
+hydrogen peroxide catabolic process,GO:0042744,Psoriasis,MESH:D011565,0,,1,CAT
+hydrogen peroxide metabolic process,GO:0042743,Psoriasis,MESH:D011565,1,Sulfasalazine,1,SOD2
+hydroxyproline transport,GO:0034589,Psoriasis,MESH:D011565,1,Colchicine,0,
+hypersensitivity,GO:0002524,Psoriasis,MESH:D011565,1,Tobacco Smoke Pollution,0,
+icosanoid metabolic process,GO:0006690,Psoriasis,MESH:D011565,0,,1,CYP2S1
+I-kappaB kinase/NF-kappaB signaling,GO:0007249,Psoriasis,MESH:D011565,0,,2,NFKBIA|REL
+imaginal disc-derived wing morphogenesis,GO:0007476,Psoriasis,MESH:D011565,0,,1,CP
+immune response,GO:0006955,Parapsoriasis,MESH:D010267,0,,1,HLA-A
+immune response,GO:0006955,Psoriasis,MESH:D011565,1,Tobacco Smoke Pollution,12,CSF2|HLA-C|IL13|IL1B|IL23A|IL36RN|IL4|IL6|REL|TNF|TRAF3IP2|TYK2
+immune system process,GO:0002376,Psoriasis,MESH:D011565,1,Tretinoin,2,IFIH1|RIGI
+immunoglobulin mediated immune response,GO:0016064,Psoriasis,MESH:D011565,0,,1,IL12B
+immunoglobulin production,GO:0002377,Psoriasis,MESH:D011565,0,,1,TRAF3IP2
+import across plasma membrane,GO:0098739,Psoriasis,MESH:D011565,1,Uridine,0,
+import into cell,GO:0098657,Psoriasis,MESH:D011565,4,Cyclosporine|Fatty Acids|Methotrexate|Sirolimus,0,
+induction of positive chemotaxis,GO:0050930,Psoriasis,MESH:D011565,0,,1,VEGFA
+inflammatory response,GO:0006954,Psoriasis,MESH:D011565,10,5-Methoxypsoralen|calcipotriene|Cyclosporine|Dimethyl Fumarate|Imiquimod|Methotrexate|Minocycline|naphthalan|Sirolimus|Tobacco Smoke Pollution,17,CP|CRP|IL13|IL1B|IL23A|IL23R|IL36RN|IL6|NOS2|PPARG|REL|STAT3|TNF|TNFAIP3|TNIP1|TRAF3IP2|VNN1
+inflammatory response to antigenic stimulus,GO:0002437,Psoriasis,MESH:D011565,0,,2,IL1B|IL36RN
+inflammatory response to wounding,GO:0090594,Psoriasis,MESH:D011565,0,,2,IL6|TNF
+innate immune response,GO:0045087,Parapsoriasis,MESH:D010267,0,,2,HLA-A|HLA-E
+innate immune response,GO:0045087,Psoriasis,MESH:D011565,2,Tobacco Smoke Pollution|tofacitinib,10,CRP|HLA-C|IFIH1|IL23A|IL36RN|PPARG|REL|RIGI|SOD2|VNN1
+innate immune response in mucosa,GO:0002227,Psoriasis,MESH:D011565,0,,2,IL4|NOS2
+inner ear development,GO:0048839,Psoriasis,MESH:D011565,0,,1,GJB2
+inner ear receptor cell development,GO:0060119,Psoriasis,MESH:D011565,0,,1,STAT3
+inner mitochondrial membrane organization,GO:0007007,Psoriasis,MESH:D011565,1,Cyclosporine,0,
+inositol metabolic process,GO:0006020,Psoriasis,MESH:D011565,1,Methotrexate,0,
+interferon-beta production,GO:0032608,Psoriasis,MESH:D011565,0,,1,IFIH1
+interleukin-10-mediated signaling pathway,GO:0140105,Psoriasis,MESH:D011565,0,,2,STAT3|TYK2
+interleukin-11-mediated signaling pathway,GO:0038154,Psoriasis,MESH:D011565,0,,1,STAT3
+interleukin-12-mediated signaling pathway,GO:0035722,Psoriasis,MESH:D011565,0,,2,IL12B|TYK2
+interleukin-12 production,GO:0032615,Psoriasis,MESH:D011565,1,Imiquimod,0,
+interleukin-13-mediated signaling pathway,GO:0035772,Psoriasis,MESH:D011565,0,,1,IL13
+interleukin-15-mediated signaling pathway,GO:0035723,Psoriasis,MESH:D011565,0,,1,STAT3
+interleukin-17A-mediated signaling pathway,GO:0038173,Psoriasis,MESH:D011565,0,,1,TRAF3IP2
+interleukin-17-mediated signaling pathway,GO:0097400,Psoriasis,MESH:D011565,0,,1,TRAF3IP2
+interleukin-1 beta production,GO:0032611,Psoriasis,MESH:D011565,1,Calcitriol,1,IL1B
+interleukin-1-mediated signaling pathway,GO:0070498,Psoriasis,MESH:D011565,0,,2,IL1B|NFKBIA
+interleukin-23-mediated signaling pathway,GO:0038155,Psoriasis,MESH:D011565,1,tofacitinib,3,IL23R|STAT3|TYK2
+interleukin-2-mediated signaling pathway,GO:0038110,Psoriasis,MESH:D011565,0,,1,STAT3
+interleukin-4-mediated signaling pathway,GO:0035771,Psoriasis,MESH:D011565,0,,1,IL4
+interleukin-6-mediated signaling pathway,GO:0070102,Psoriasis,MESH:D011565,0,,2,IL6|STAT3
+interleukin-6 production,GO:0032635,Psoriasis,MESH:D011565,1,Hydroxychloroquine,3,IL1B|IL36RN|TNF
+interleukin-9-mediated signaling pathway,GO:0038113,Psoriasis,MESH:D011565,0,,1,STAT3
+intermediate-density lipoprotein particle clearance,GO:0071831,Psoriasis,MESH:D011565,0,,1,APOE
+intestinal epithelial cell development,GO:0060576,Psoriasis,MESH:D011565,1,Folic Acid,0,
+intestinal epithelial cell migration,GO:0061582,Psoriasis,MESH:D011565,1,Tetracycline,0,
+intestinal epithelial structure maintenance,GO:0060729,Psoriasis,MESH:D011565,2,Colchicine|Sulfasalazine,1,TP53
+intestinal stem cell homeostasis,GO:0036335,Psoriasis,MESH:D011565,0,,1,CAT
+intracellular estrogen receptor signaling pathway,GO:0030520,Psoriasis,MESH:D011565,0,,1,CARM1
+intracellular protein transport,GO:0006886,Psoriasis,MESH:D011565,0,,1,AP1S3
+intracellular receptor signaling pathway,GO:0030522,Psoriasis,MESH:D011565,0,,1,STAT3
+intracellular signal transduction,GO:0035556,Psoriasis,MESH:D011565,0,,4,NOS2|TGFA|TRAF3IP2|TYK2
+intracellular steroid hormone receptor signaling pathway,GO:0030518,Psoriasis,MESH:D011565,0,,1,CARM1
+intracellular transport,GO:0046907,Psoriasis,MESH:D011565,0,,1,APOE
+intracellular transport of virus,GO:0075733,Psoriasis,MESH:D011565,1,Hydroxychloroquine,0,
+intrinsic apoptotic signaling pathway,GO:0097193,Psoriasis,MESH:D011565,0,,1,TP53
+intrinsic apoptotic signaling pathway by p53 class mediator,GO:0072332,Psoriasis,MESH:D011565,0,,1,TP53
+intrinsic apoptotic signaling pathway in response to DNA damage,GO:0008630,Psoriasis,MESH:D011565,0,,2,SOD2|TNF
+intrinsic apoptotic signaling pathway in response to DNA damage by p53 class mediator,GO:0042771,Psoriasis,MESH:D011565,0,,1,TP53
+intrinsic apoptotic signaling pathway in response to endoplasmic reticulum stress,GO:0070059,Psoriasis,MESH:D011565,0,,1,TP53
+intrinsic apoptotic signaling pathway in response to hypoxia,GO:1990144,Psoriasis,MESH:D011565,0,,1,TP53
+intrinsic apoptotic signaling pathway in response to oxidative stress,GO:0008631,Psoriasis,MESH:D011565,0,,1,SOD2
+in utero embryonic development,GO:0001701,Psoriasis,MESH:D011565,0,,2,TP53|VEGFA
+iron ion homeostasis,GO:0055072,Psoriasis,MESH:D011565,4,Dimethyl Fumarate|Folic Acid|Tobacco Smoke Pollution|Vitamin A,0,
+iron ion transport,GO:0006826,Psoriasis,MESH:D011565,0,,1,CP
+isotype switching to IgE isotypes,GO:0048289,Psoriasis,MESH:D011565,0,,1,IL4
+isotype switching to IgG isotypes,GO:0048291,Psoriasis,MESH:D011565,0,,1,IL4
+JNK cascade,GO:0007254,Psoriasis,MESH:D011565,0,,2,IL1B|TNF
+juxtaglomerular apparatus development,GO:0072051,Psoriasis,MESH:D011565,0,,1,REN
+keratinization,GO:0031424,Psoriasis,MESH:D011565,1,Tobacco Smoke Pollution,3,LCE3B|LCE3C|LCE3D
+keratinocyte activation,GO:0032980,Psoriasis,MESH:D011565,1,tofacitinib,0,
+keratinocyte differentiation,GO:0030216,Psoriasis,MESH:D011565,0,,1,S100A7
+kidney development,GO:0001822,Psoriasis,MESH:D011565,0,,4,CAT|REN|TRAF3IP2|VEGFA
+killing of cells of another organism,GO:0031640,Psoriasis,MESH:D011565,0,,2,LCE3B|LCE3C
+lactate biosynthetic process,GO:0019249,Psoriasis,MESH:D011565,1,Folic Acid,0,
+lactate metabolic process,GO:0006089,Psoriasis,MESH:D011565,1,Tobacco Smoke Pollution,0,
+lactate transport,GO:0015727,Psoriasis,MESH:D011565,1,Cyclosporine,0,
+lactation,GO:0007595,Psoriasis,MESH:D011565,1,Folic Acid,2,CP|VEGFA
+lactone metabolic process,GO:1901334,Psoriasis,MESH:D011565,1,Tretinoin,0,
+larval development,GO:0002164,Psoriasis,MESH:D011565,3,Calcitriol|Methotrexate|Vitamin A,0,
+larval locomotory behavior,GO:0008345,Psoriasis,MESH:D011565,1,Minocycline,0,
+larval somatic muscle development,GO:0007526,Psoriasis,MESH:D011565,0,,1,CRP
+L-ascorbic acid biosynthetic process,GO:0019853,Psoriasis,MESH:D011565,1,Cyclosporine,0,
+L-cystine transport,GO:0015811,Psoriasis,MESH:D011565,5,Acitretin|Etretinate|Isotretinoin|Tretinoin|Vitamin A,0,
+leading strand elongation,GO:0006272,Psoriasis,MESH:D011565,0,,1,PCNA
+learning,GO:0007612,Psoriasis,MESH:D011565,3,Folic Acid|Minocycline|Tretinoin,0,
+learning or memory,GO:0007611,Psoriasis,MESH:D011565,3,Calcitriol|Dimethyl Fumarate|Minocycline,1,IL1B
+leptin-mediated signaling pathway,GO:0033210,Psoriasis,MESH:D011565,0,,1,STAT3
+leukocyte activation involved in inflammatory response,GO:0002269,Psoriasis,MESH:D011565,0,,1,TRAF3IP2
+leukocyte cell-cell adhesion,GO:0007159,Psoriasis,MESH:D011565,0,,1,TNIP1
+leukocyte chemotaxis,GO:0030595,Psoriasis,MESH:D011565,9,benoxaprofen|Clobetasol|Colchicine|Dapsone|Leukotriene B4|Minocycline|Prednisolone|tamibarotene|Tobacco Smoke Pollution,0,
+leukocyte chemotaxis involved in inflammatory response,GO:0002232,Psoriasis,MESH:D011565,1,Sulfasalazine,0,
+leukocyte degranulation,GO:0043299,Psoriasis,MESH:D011565,4,pimecrolimus|Sulfasalazine|Tacrolimus|Vitamin A,0,
+leukocyte homeostasis,GO:0001776,Psoriasis,MESH:D011565,2,Lithium Carbonate|Tobacco Smoke Pollution,0,
+leukocyte mediated cytotoxicity,GO:0001909,Psoriasis,MESH:D011565,2,Mycophenolic Acid|Tacrolimus,0,
+leukocyte mediated immunity,GO:0002443,Psoriasis,MESH:D011565,0,,1,IL23R
+leukocyte migration,GO:0050900,Psoriasis,MESH:D011565,1,Tobacco Smoke Pollution,2,IL1B|TNF
+leukocyte migration involved in inflammatory response,GO:0002523,Psoriasis,MESH:D011565,13,Calcitriol|Colchicine|Cyclosporine|Dimethyl Fumarate|Folic Acid|Methotrexate|oxymatrine|Prednisolone|Sulfasalazine|Tobacco Smoke Pollution|tofacitinib|Tretinoin|Vitamin A,2,S100A7|TNF
+leukocyte tethering or rolling,GO:0050901,Psoriasis,MESH:D011565,1,Tacrolimus,1,TNF
+leukotriene B4 biosynthetic process,GO:0097251,Psoriasis,MESH:D011565,1,Tobacco Smoke Pollution,0,
+leukotriene metabolic process,GO:0006691,Psoriasis,MESH:D011565,1,Leukotriene B4,0,
+leukotriene production involved in inflammatory response,GO:0002540,Psoriasis,MESH:D011565,1,Tobacco Smoke Pollution,0,
+leukotriene signaling pathway,GO:0061737,Psoriasis,MESH:D011565,1,Leukotriene B4,0,
+Leydig cell differentiation,GO:0033327,Psoriasis,MESH:D011565,2,Lithium|Tretinoin,0,
+L-glutamate transmembrane transport,GO:0015813,Psoriasis,MESH:D011565,1,Tretinoin,0,
+limb development,GO:0060173,Psoriasis,MESH:D011565,1,Folic Acid,0,
+linoleic acid metabolic process,GO:0043651,Psoriasis,MESH:D011565,1,Tetracycline,0,
+lipid biosynthetic process,GO:0008610,Psoriasis,MESH:D011565,9,Azathioprine|Calcitriol|Cyclosporine|Fatty Acids|Methotrexate|Sirolimus|Tetracycline|Triglycerides|Troglitazone,0,
+lipid catabolic process,GO:0016042,Psoriasis,MESH:D011565,15,5-Methoxypsoralen|Colchicine|Cyclosporine|Fatty Acids|Folic Acid|Lithium|Lithium Carbonate|Methotrexate|Minocycline|oxymatrine|Prednisolone|Sirolimus|Sulfasalazine|Tobacco Smoke Pollution|Triglycerides,1,CP
+lipid droplet formation,GO:0140042,Psoriasis,MESH:D011565,11,Cyclosporine|Ficusin|Folic Acid|hispidulin|Methotrexate|Prednisolone|Sirolimus|Tacrolimus|Tetracycline|Triglycerides|Troglitazone,0,
+lipid droplet organization,GO:0034389,Psoriasis,MESH:D011565,1,Vitamin A,0,
+lipid homeostasis,GO:0055088,Psoriasis,MESH:D011565,4,"Cholesterol, LDL|Fatty Acids|Tobacco Smoke Pollution|Triglycerides",2,APOE|PPARG
+lipid import into cell,GO:0140354,Psoriasis,MESH:D011565,2,Fatty Acids|Triglycerides,0,
+lipid localization,GO:0010876,Psoriasis,MESH:D011565,1,Folic Acid,0,
+lipid metabolic process,GO:0006629,Psoriasis,MESH:D011565,8,"Azathioprine|azelaic acid|Cholesterol, LDL|Fatty Acids|Folic Acid|Methotrexate|Tobacco Smoke Pollution|Triglycerides",2,APOE|PPARG
+lipid oxidation,GO:0034440,Parapsoriasis,MESH:D010267,1,Carbamazepine,0,
+lipid oxidation,GO:0034440,Psoriasis,MESH:D011565,15,Calcitriol|Colchicine|Cyclosporine|Dimethyl Fumarate|Ficusin|Folic Acid|Lithium Carbonate|Methotrexate|Methoxsalen|oxymatrine|Prednisolone|Sirolimus|Sulfasalazine|Tobacco Smoke Pollution|Tretinoin,0,
+lipid storage,GO:0019915,Psoriasis,MESH:D011565,1,Tretinoin,0,
+lipid transport,GO:0006869,Psoriasis,MESH:D011565,0,,1,APOE
+lipid transport involved in lipid storage,GO:0010877,Psoriasis,MESH:D011565,0,,1,APOE
+lipopolysaccharide-mediated signaling pathway,GO:0031663,Psoriasis,MESH:D011565,0,,1,NFKBIA
+lipoprotein biosynthetic process,GO:0042158,Psoriasis,MESH:D011565,2,"Cholesterol, LDL|Tetracycline",1,APOE
+lipoprotein catabolic process,GO:0042159,Psoriasis,MESH:D011565,0,,1,APOE
+lipoprotein metabolic process,GO:0042157,Psoriasis,MESH:D011565,1,"Cholesterol, LDL",1,APOE
+lipoprotein oxidation,GO:0042161,Psoriasis,MESH:D011565,1,"Cholesterol, LDL",0,
+lipoprotein transport,GO:0042953,Psoriasis,MESH:D011565,0,,1,PPARG
+liver development,GO:0001889,Parapsoriasis,MESH:D010267,1,Carbamazepine,0,
+liver development,GO:0001889,Psoriasis,MESH:D011565,0,,2,CP|SOD2
+liver regeneration,GO:0097421,Psoriasis,MESH:D011565,0,,4,IL6|NFKBIA|PCNA|TNF
+locomotion involved in locomotory behavior,GO:0031987,Psoriasis,MESH:D011565,5,Colchicine|Isotretinoin|Lithium|Minocycline|Tacrolimus,0,
+locomotory behavior,GO:0007626,Psoriasis,MESH:D011565,2,Prednisolone|Vitamin A,1,SOD2
+locomotory exploration behavior,GO:0035641,Psoriasis,MESH:D011565,1,Folic Acid,1,APOE
+long-chain fatty acid transport,GO:0015909,Psoriasis,MESH:D011565,0,,2,APOE|PPARG
+long-term memory,GO:0007616,Psoriasis,MESH:D011565,1,Methotrexate,1,APOE
+low-density lipoprotein particle remodeling,GO:0034374,Psoriasis,MESH:D011565,0,,1,APOE
+L-phenylalanine metabolic process,GO:0006558,Psoriasis,MESH:D011565,1,Tetracycline,0,
+lung alveolus development,GO:0048286,Psoriasis,MESH:D011565,1,Tretinoin,1,VEGFA
+lung development,GO:0030324,Psoriasis,MESH:D011565,0,,2,CP|VEGFA
+lung epithelium development,GO:0060428,Psoriasis,MESH:D011565,1,Tretinoin,0,
+lung growth,GO:0060437,Psoriasis,MESH:D011565,1,Tretinoin,0,
+lung vasculature development,GO:0060426,Psoriasis,MESH:D011565,0,,1,VEGFA
+luteinization,GO:0001553,Psoriasis,MESH:D011565,1,Tobacco Smoke Pollution,0,
+lymphangiogenesis,GO:0001946,Psoriasis,MESH:D011565,0,,1,VEGFA
+lymph node development,GO:0048535,Psoriasis,MESH:D011565,0,,1,TRAF3IP2
+lymphocyte activation,GO:0046649,Psoriasis,MESH:D011565,5,Calcitriol|Cyclosporine|Mycophenolic Acid|Sirolimus|Tacrolimus,0,
+lymphocyte chemotaxis,GO:0048247,Psoriasis,MESH:D011565,1,Tobacco Smoke Pollution,0,
+lymphocyte costimulation,GO:0031294,Psoriasis,MESH:D011565,0,,1,IL6
+lymphocyte homeostasis,GO:0002260,Psoriasis,MESH:D011565,1,Lithium Carbonate,0,
+lymphocyte migration,GO:0072676,Psoriasis,MESH:D011565,1,Tobacco Smoke Pollution,0,
+lymph vessel morphogenesis,GO:0036303,Psoriasis,MESH:D011565,0,,1,VEGFA
+lysosomal lumen acidification,GO:0007042,Psoriasis,MESH:D011565,1,Sirolimus,0,
+lysosomal protein catabolic process,GO:1905146,Psoriasis,MESH:D011565,1,Sirolimus,0,
+macrophage activation,GO:0042116,Psoriasis,MESH:D011565,3,Calcitriol|Minocycline|Sulfasalazine,2,IL13|IL4
+macrophage activation involved in immune response,GO:0002281,Psoriasis,MESH:D011565,1,Tobacco Smoke Pollution,1,TNF
+macrophage chemotaxis,GO:0048246,Psoriasis,MESH:D011565,0,,2,IL1B|IL36RN
+macrophage cytokine production,GO:0010934,Psoriasis,MESH:D011565,0,,1,IL1B
+macrophage derived foam cell differentiation,GO:0010742,Psoriasis,MESH:D011565,0,,1,PPARG
+macrophage differentiation,GO:0030225,Psoriasis,MESH:D011565,1,Calcitriol,3,CSF2|IL6|VEGFA
+macrophage migration,GO:1905517,Psoriasis,MESH:D011565,2,Methotrexate|Tobacco Smoke Pollution,0,
+maintenance of blood-brain barrier,GO:0035633,Psoriasis,MESH:D011565,1,Cyclosporine,1,IL6
+maintenance of location in cell,GO:0051651,Psoriasis,MESH:D011565,0,,1,APOE
+maintenance of protein localization in organelle,GO:0072595,Psoriasis,MESH:D011565,1,Hydroxychloroquine,0,
+maintenance of protein location in nucleus,GO:0051457,Psoriasis,MESH:D011565,1,Sirolimus,0,
+male gonad development,GO:0008584,Psoriasis,MESH:D011565,0,,2,CSMD1|REN
+mammary gland alveolus development,GO:0060749,Psoriasis,MESH:D011565,0,,2,TGFA|VEGFA
+mammary gland branching involved in pregnancy,GO:0060745,Psoriasis,MESH:D011565,0,,1,CSMD1
+mammary gland development,GO:0030879,Psoriasis,MESH:D011565,0,,1,CSMD1
+mammary gland duct morphogenesis,GO:0060603,Psoriasis,MESH:D011565,0,,1,CSMD1
+mammary gland involution,GO:0060056,Psoriasis,MESH:D011565,0,,1,CP
+MAPK cascade,GO:0000165,Psoriasis,MESH:D011565,8,Cyclosporine|Imiquimod|Minocycline|Mycophenolic Acid|Sirolimus|Tacrolimus|Tretinoin|Troglitazone,0,
+marginal zone B cell differentiation,GO:0002315,Psoriasis,MESH:D011565,0,,1,TNFAIP3
+mast cell degranulation,GO:0043303,Psoriasis,MESH:D011565,1,Imiquimod,0,
+MDA-5 signaling pathway,GO:0039530,Psoriasis,MESH:D011565,0,,1,IFIH1
+meiotic cell cycle,GO:0051321,Psoriasis,MESH:D011565,1,Tretinoin,1,MKI67
+melanosome assembly,GO:1903232,Psoriasis,MESH:D011565,0,,1,AP1S3
+melanosome organization,GO:0032438,Psoriasis,MESH:D011565,0,,1,APOE
+membrane lipid catabolic process,GO:0046466,Psoriasis,MESH:D011565,14,Aminolevulinic Acid|Colchicine|Cyclosporine|Dimethyl Fumarate|Isotretinoin|Lithium|Lithium Carbonate|Methoxsalen|Razoxane|Tacrolimus|Tetracycline|Tobacco Smoke Pollution|Tretinoin|Vitamin A,0,
+membrane protein ectodomain proteolysis,GO:0006509,Psoriasis,MESH:D011565,0,,1,ERAP1
+membrane raft organization,GO:0031579,Psoriasis,MESH:D011565,1,Triglycerides,0,
+membrane repolarization,GO:0086009,Psoriasis,MESH:D011565,1,Hydroxychloroquine,0,
+membrane tubulation,GO:0097749,Psoriasis,MESH:D011565,1,Folic Acid,0,
+memory,GO:0007613,Psoriasis,MESH:D011565,5,Folic Acid|Lithium|Minocycline|Tobacco Smoke Pollution|Tretinoin,2,CSMD1|IL1B
+menopause,GO:0042697,Psoriasis,MESH:D011565,1,Tobacco Smoke Pollution,0,
+mesenchymal cell differentiation involved in kidney development,GO:0072161,Psoriasis,MESH:D011565,1,Lithium,0,
+mesoderm development,GO:0007498,Psoriasis,MESH:D011565,0,,1,VEGFA
+mesonephros development,GO:0001823,Psoriasis,MESH:D011565,0,,1,REN
+metabolic process,GO:0008152,Psoriasis,MESH:D011565,5,azelaic acid|Fatty Acids|Fumarates|Tobacco Smoke Pollution|Uridine,0,
+metal ion homeostasis,GO:0055065,Psoriasis,MESH:D011565,2,Lithium|Tobacco Smoke Pollution,0,
+methanol biosynthetic process,GO:0046169,Psoriasis,MESH:D011565,1,Methotrexate,0,
+methionine metabolic process,GO:0006555,Psoriasis,MESH:D011565,1,Tetracycline,0,
+methotrexate transport,GO:0051958,Psoriasis,MESH:D011565,2,Folic Acid|Methotrexate,0,
+methylation,GO:0032259,Psoriasis,MESH:D011565,1,Folic Acid,1,CARM1
+MHC class II biosynthetic process,GO:0045342,Psoriasis,MESH:D011565,0,,1,IL4
+microglial cell activation,GO:0001774,Psoriasis,MESH:D011565,2,Cyclosporine|Minocycline,3,IL13|IL4|TNF
+micronucleus organization,GO:0032125,Parapsoriasis,MESH:D010267,1,Carbamazepine,0,
+micronucleus organization,GO:0032125,Psoriasis,MESH:D011565,3,Colchicine|Folic Acid|Hydroxychloroquine,0,
+microtubule cytoskeleton organization,GO:0000226,Psoriasis,MESH:D011565,1,Colchicine,0,
+microtubule depolymerization,GO:0007019,Psoriasis,MESH:D011565,1,Colchicine,0,
+microtubule polymerization,GO:0046785,Psoriasis,MESH:D011565,1,Colchicine,0,
+micturition,GO:0060073,Psoriasis,MESH:D011565,1,Methotrexate,0,
+midbrain development,GO:0030901,Psoriasis,MESH:D011565,1,Folic Acid,0,
+mismatch repair,GO:0006298,Psoriasis,MESH:D011565,0,,1,PCNA
+mitochondrial ATP synthesis coupled electron transport,GO:0042775,Psoriasis,MESH:D011565,1,Troglitazone,0,
+mitochondrial calcium ion homeostasis,GO:0051560,Psoriasis,MESH:D011565,1,Cyclosporine,0,
+mitochondrial depolarization,GO:0051882,Psoriasis,MESH:D011565,3,Colchicine|Cyclosporine|Hydroxychloroquine,0,
+mitochondrial DNA metabolic process,GO:0032042,Psoriasis,MESH:D011565,1,Folic Acid,0,
+mitochondrial DNA repair,GO:0043504,Psoriasis,MESH:D011565,0,,1,TP53
+mitochondrial DNA replication,GO:0006264,Psoriasis,MESH:D011565,3,Sirolimus|Tobacco Smoke Pollution|Uridine,0,

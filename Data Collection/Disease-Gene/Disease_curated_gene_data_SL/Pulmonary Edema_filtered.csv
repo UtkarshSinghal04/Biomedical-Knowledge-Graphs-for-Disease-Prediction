@@ -1,0 +1,13 @@
+GeneSymbol,GeneID,DiseaseName,DiseaseID,DirectEvidence,OmimIDs,PubMedIDs
+ADIPOQ,9370,Pulmonary Edema,MESH:D011654,therapeutic,,25945502
+CAT,847,Pulmonary Edema,MESH:D011654,therapeutic,,15612528
+GHRH,2691,Pulmonary Edema,MESH:D011654,therapeutic,,22308467
+GUCY1A1,2982,Pulmonary edema of mountaineers,MESH:C535833,marker/mechanism,,25373139
+HSPA12B,116835,Pulmonary Edema,MESH:D011654,therapeutic,,38901789
+IL17A,3605,Pulmonary Edema,MESH:D011654,marker/mechanism,,28600744
+NLRP3,114548,Pulmonary Edema,MESH:D011654,marker/mechanism,,33012731
+NOS3,4846,Pulmonary Edema,MESH:D011654,therapeutic,,16844920
+OVAL,396058,Pulmonary Edema,MESH:D011654,marker/mechanism,,30713661
+PARP1,142,Pulmonary Edema,MESH:D011654,therapeutic,,11818323
+TGFA,7039,Pulmonary Edema,MESH:D011654,therapeutic,,11919079
+TNF,7124,Pulmonary Edema,MESH:D011654,marker/mechanism|therapeutic,,21188088|34390737

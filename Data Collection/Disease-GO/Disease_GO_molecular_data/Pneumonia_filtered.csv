@@ -1,0 +1,727 @@
+GOName,GOID,DiseaseName,DiseaseID,InferenceChemicalQty,InferenceChemicalNames,InferenceGeneQty,InferenceGeneSymbols
+2-oxoglutarate-dependent dioxygenase activity,GO:0016706,Pneumonia,MESH:D011014,0,,1,TNFRSF1B
+3-beta-hydroxy-delta5-steroid dehydrogenase activity,GO:0003854,Pneumonia,MESH:D011014,2,Indomethacin|Vanadium,0,
+3beta-hydroxysteroid dehydrogenase activity,GO:0102727,Pneumonia,MESH:D011014,1,Taurine,0,
+3beta-hydroxysteroid dehydrogenase activity,GO:0102727,"Pneumonia, Aspiration",MESH:D011015,1,Chlorpromazine,0,
+3-hydroxybutyrate dehydrogenase activity,GO:0003858,Pneumonia,MESH:D011014,1,Copper Sulfate,0,
+3-phosphoinositide-dependent protein kinase activity,GO:0004676,Pneumonia,MESH:D011014,0,,1,IKBKB
+"4 iron, 4 sulfur cluster binding",GO:0051539,Pneumonia,MESH:D011014,0,,1,LIAS
+5'-nucleotidase activity,GO:0008253,Pneumonia,MESH:D011014,4,"bisphenol A|Cadmium Chloride|lipopolysaccharide, Escherichia coli O111 B4|naringin",0,
+ABC-type transporter activity,GO:0140359,Pneumonia,MESH:D011014,1,Dietary Fats,0,
+ABC-type xenobiotic transporter activity,GO:0008559,Pneumonia,MESH:D011014,1,Dronabinol,0,
+acetylcholine-gated monoatomic cation-selective channel activity,GO:0022848,Pneumonia,MESH:D011014,1,Dronabinol,0,
+acetylcholinesterase activity,GO:0003990,Bronchopneumonia,MESH:D001996,1,Particulate Matter,0,
+acetylcholinesterase activity,GO:0003990,Pneumonia,MESH:D011014,5,bisphenol A|Dronabinol|Particulate Matter|Sodium Selenite|Vehicle Emissions,0,
+acetylcholinesterase activity,GO:0003990,"Pneumonia, Aspiration",MESH:D011015,1,Organophosphates,0,
+acetylcholinesterase activity,GO:0003990,"Pneumonia, Lipid",MESH:D011017,1,Organophosphates,0,
+acetylcholinesterase activity,GO:0003990,"Pneumonia, Viral",MESH:D011024,1,Particulate Matter,1,ACE
+acetyl-CoA carboxylase activity,GO:0003989,Pneumonia,MESH:D011014,2,bisphenol A|Dietary Fats,0,
+[acetyl-CoA carboxylase] kinase activity,GO:0050405,Pneumonia,MESH:D011014,1,Lipopolysaccharides,0,
+acid phosphatase activity,GO:0003993,Pneumonia,MESH:D011014,9,Arsenic|bisphenol A|Cadmium|Cadmium Chloride|Cisplatin|Copper Sulfate|Glyphosate|Iron|Sulfasalazine,0,
+aconitate hydratase activity,GO:0003994,Pneumonia,MESH:D011014,4,bisphenol A|Dietary Fats|Paraquat|Zinc,0,
+aconitate hydratase activity,GO:0003994,"Pneumonia, Pneumocystis",MESH:D011020,1,Hydrogen Peroxide,0,
+actin binding,GO:0003779,Pneumonia,MESH:D011014,0,,1,MYLK
+actin binding,GO:0003779,"Pneumonia, Aspiration",MESH:D011015,0,,1,NOS2
+actin binding,GO:0003779,"Pneumonia, Viral",MESH:D011024,0,,1,ACE
+active monoatomic ion transmembrane transporter activity,GO:0022853,"Pneumonia, Lipid",MESH:D011017,1,Glycerol,0,
+adenosine deaminase activity,GO:0004000,Pneumonia,MESH:D011014,1,Zinc,0,
+adenosine kinase activity,GO:0004001,Pneumonia,MESH:D011014,1,Oxygen,0,
+adenylate cyclase activity,GO:0004016,Pneumonia,MESH:D011014,2,Cadmium Chloride|Dronabinol,0,
+adenylate kinase activity,GO:0004017,Pneumonia,MESH:D011014,1,Mustard Gas,0,
+ADP phosphatase activity,GO:0043262,Pneumonia,MESH:D011014,3,bisphenol A|Caffeine|naringin,0,
+adrenergic receptor activity,GO:0004935,Pneumonia,MESH:D011014,1,Dexamethasone,0,
+alditol:NADP+ 1-oxidoreductase activity,GO:0004032,Bronchopneumonia,MESH:D001996,1,Vancomycin,0,
+alditol:NADP+ 1-oxidoreductase activity,GO:0004032,Pneumonia,MESH:D011014,2,Capsaicin|Vancomycin,0,
+alditol:NADP+ 1-oxidoreductase activity,GO:0004032,"Pneumonia, Bacterial",MESH:D018410,1,Vancomycin,0,
+alditol:NADP+ 1-oxidoreductase activity,GO:0004032,"Pneumonia, Pneumococcal",MESH:D011018,1,Vancomycin,0,
+alditol:NADP+ 1-oxidoreductase activity,GO:0004032,"Pneumonia, Staphylococcal",MESH:D011023,1,Vancomycin,0,
+alkaline phosphatase activity,GO:0004035,Bronchopneumonia,MESH:D001996,2,"Nanotubes, Carbon|Vancomycin",0,
+alkaline phosphatase activity,GO:0004035,Pneumonia,MESH:D011014,33,"Amphotericin B|Ampicillin|Arsenic|Asbestos, Crocidolite|bisphenol A|Cadmium|Cadmium Chloride|Cisplatin|Cyclophosphamide|Dexamethasone|Dietary Fats|lipopolysaccharide, Escherichia coli O111 B4|Lipopolysaccharides|Methotrexate|Nanotubes, Carbon|naringin|Niacin|Nickel|nickel sulfate|Prednisolone|Rosiglitazone|Sildenafil Citrate|Sirolimus|Sodium Selenite|Sulfasalazine|Taurine|titanium dioxide|triptolide|Ursodeoxycholic Acid|Vancomycin|Zinc|Zinc Oxide|Zinc Sulfate",0,
+alkaline phosphatase activity,GO:0004035,"Pneumonia, Bacterial",MESH:D018410,1,Vancomycin,0,
+alkaline phosphatase activity,GO:0004035,"Pneumonia, Pneumococcal",MESH:D011018,1,Vancomycin,0,
+alkaline phosphatase activity,GO:0004035,"Pneumonia, Pneumocystis",MESH:D011020,5,Cyclophosphamide|Hydrogen Peroxide|Methotrexate|Prednisolone|Zidovudine,0,
+alkaline phosphatase activity,GO:0004035,"Pneumonia, Staphylococcal",MESH:D011023,1,Vancomycin,0,
+alpha-L-arabinofuranosidase activity,GO:0046556,Pneumonia,MESH:D011014,0,,1,IL33
+aminopeptidase activity,GO:0004177,Pneumonia,MESH:D011014,1,Zinc,0,
+aminopeptidase activity,GO:0004177,"Pneumonia, Pneumocystis",MESH:D011020,1,Hydrogen Peroxide,0,
+AMP-activated protein kinase activity,GO:0004679,Pneumonia,MESH:D011014,8,bisphenol A|Bleomycin|Caffeine|Cisplatin|Dietary Fats|Lipopolysaccharides|Oxygen|Soot,1,IKBKB
+AMP-activated protein kinase activity,GO:0004679,"Pneumonia, Pneumocystis",MESH:D011020,1,Hydrogen Peroxide,0,
+AMP deaminase activity,GO:0003876,Pneumonia,MESH:D011014,1,Cadmium Chloride,0,
+amylase activity,GO:0016160,Pneumonia,MESH:D011014,6,Cadmium|Cadmium Chloride|cupric oxide|Dexamethasone|Lipopolysaccharides|Zinc Oxide,0,
+amyloid-beta binding,GO:0001540,Pneumonia,MESH:D011014,0,,2,ITGB2|TLR4
+antigen binding,GO:0003823,Pneumonia,MESH:D011014,0,,2,TGFB1|TNFRSF1B
+antioxidant activity,GO:0016209,Bronchopneumonia,MESH:D001996,1,Particulate Matter,0,
+antioxidant activity,GO:0016209,Pneumonia,MESH:D011014,9,bisphenol A|Ciprofloxacin|Cyclophosphamide|Dietary Fats|naringin|Particulate Matter|Sodium Selenite|Sulfasalazine|Zinc Oxide,0,
+antioxidant activity,GO:0016209,"Pneumonia, Bacterial",MESH:D018410,1,Ciprofloxacin,0,
+antioxidant activity,GO:0016209,"Pneumonia, Lipid",MESH:D011017,1,Glycerol,0,
+antioxidant activity,GO:0016209,"Pneumonia, Mycoplasma",MESH:D011019,1,platycodin D,0,
+antioxidant activity,GO:0016209,"Pneumonia, Pneumocystis",MESH:D011020,1,Cyclophosphamide,0,
+antioxidant activity,GO:0016209,"Pneumonia, Viral",MESH:D011024,1,Particulate Matter,0,
+AP-1 adaptor complex binding,GO:0035650,Pneumonia,MESH:D011014,1,Silicon Dioxide,0,
+arachidonic acid omega-hydroxylase activity,GO:0052869,Pneumonia,MESH:D011014,0,,2,AHR|HMOX1
+arginase activity,GO:0004053,Pneumonia,MESH:D011014,6,bisphenol A|Caffeine|naringin|Oxygen|Zinc|Zinc Sulfate,0,
+arginine binding,GO:0034618,"Pneumonia, Aspiration",MESH:D011015,0,,1,NOS2
+argininosuccinate lyase activity,GO:0004056,"Pneumonia, Pneumocystis",MESH:D011020,1,Zidovudine,0,
+arylesterase activity,GO:0004064,Pneumonia,MESH:D011014,1,Copper Sulfate,0,
+aryl hydrocarbon receptor binding,GO:0017162,Pneumonia,MESH:D011014,0,,1,AHR
+ATP-activated inward rectifier potassium channel activity,GO:0015272,Pneumonia,MESH:D011014,1,Zinc,0,
+ATPase-coupled intramembrane lipid transporter activity,GO:0140326,Pneumonia,MESH:D011014,1,Taurine,0,
+ATPase-coupled intramembrane lipid transporter activity,GO:0140326,"Pneumonia, Aspiration",MESH:D011015,1,Chlorpromazine,0,
+ATP binding,GO:0005524,Pneumonia,MESH:D011014,0,,4,ABCF1|IKBKB|MYLK|PARP1
+ATP binding,GO:0005524,"Pneumonia, Pneumococcal",MESH:D011018,0,,2,MAPK1|MAPK3
+ATP-dependent activity,GO:0140657,Pneumonia,MESH:D011014,6,Arsenic|bisphenol A|Caffeine|Iron|naringin|Oxygen,0,
+ATP-dependent histone chaperone activity,GO:0140674,Pneumonia,MESH:D011014,0,,1,MYD88
+ATP-dependent peptidase activity,GO:0004176,Pneumonia,MESH:D011014,0,,1,PARP1
+ATP hydrolysis activity,GO:0016887,Bronchopneumonia,MESH:D001996,1,Particulate Matter,0,
+ATP hydrolysis activity,GO:0016887,Pneumonia,MESH:D011014,14,Arsenic|bisphenol A|Cadmium|Cadmium Chloride|Dietary Fats|Lipopolysaccharides|naringin|Particulate Matter|Silicon Dioxide|Sirolimus|Soot|Taurine|triptolide|Vehicle Emissions,2,ABCF1|PARP1
+ATP hydrolysis activity,GO:0016887,"Pneumonia, Pneumocystis",MESH:D011020,1,Hydrogen Peroxide,0,
+ATP hydrolysis activity,GO:0016887,"Pneumonia, Viral",MESH:D011024,1,Particulate Matter,0,
+beta-catenin binding,GO:0008013,"Pneumonia, Aspiration",MESH:D011015,0,,1,NOS2
+beta-galactosidase activity,GO:0004565,Bronchopneumonia,MESH:D001996,1,Particulate Matter,0,
+beta-galactosidase activity,GO:0004565,Pneumonia,MESH:D011014,6,Air Pollutants|Dronabinol|Paraquat|Particulate Matter|Vehicle Emissions|wogonin,0,
+beta-galactosidase activity,GO:0004565,"Pneumonia, Viral",MESH:D011024,1,Particulate Matter,0,
+bHLH transcription factor binding,GO:0043425,Pneumonia,MESH:D011014,0,,1,SIRT1
+bHLH transcription factor binding,GO:0043425,"Pneumonia, Pneumococcal",MESH:D011018,0,,1,SIRT1
+bradykinin receptor binding,GO:0031711,"Pneumonia, Viral",MESH:D011024,0,,1,ACE
+cadherin binding,GO:0045296,"Pneumonia, Aspiration",MESH:D011015,0,,1,NOS2
+calcium channel activity,GO:0005262,Pneumonia,MESH:D011014,4,"Capsaicin|Dronabinol|lipopolysaccharide, Escherichia coli O111 B4|Zinc",0,
+calcium-dependent ATPase activity,GO:0030899,Pneumonia,MESH:D011014,5,Cadmium|Cisplatin|Dietary Fats|Glyphosate|Taurine,0,
+calcium-dependent ATPase activity,GO:0030899,"Pneumonia, Aspiration",MESH:D011015,1,Chlorpromazine,0,
+calcium-dependent cysteine-type endopeptidase activity,GO:0004198,Pneumonia,MESH:D011014,2,Arsenic|Cisplatin,0,
+calcium-dependent protein binding,GO:0048306,"Pneumonia, Pneumococcal",MESH:D011018,0,,1,MASP2
+calcium-dependent protein serine/threonine kinase activity,GO:0009931,"Pneumonia, Pneumococcal",MESH:D011018,0,,1,MAPK3
+calcium ion binding,GO:0005509,Pneumonia,MESH:D011014,0,,1,CCR6
+calcium ion binding,GO:0005509,"Pneumonia, Pneumococcal",MESH:D011018,0,,1,MASP2
+calmodulin binding,GO:0005516,Pneumonia,MESH:D011014,0,,1,MYLK
+calmodulin binding,GO:0005516,"Pneumonia, Aspiration",MESH:D011015,0,,1,NOS2
+calmodulin binding,GO:0005516,"Pneumonia, Pneumococcal",MESH:D011018,0,,1,MAPK3
+calmodulin binding,GO:0005516,"Pneumonia, Viral",MESH:D011024,0,,1,ACE
+calmodulin-dependent protein kinase activity,GO:0004683,"Pneumonia, Pneumococcal",MESH:D011018,0,,1,MAPK3
+calmodulin-dependent protein phosphatase activity,GO:0033192,Pneumonia,MESH:D011014,1,bisphenol A,0,
+cAMP-dependent protein kinase activity,GO:0004691,Pneumonia,MESH:D011014,3,"Cisplatin|N-(oxo-5,6-dihydrophenanthridin-2-yl)-N,N-dimethylacetamide hydrochloride|Vorinostat",0,
+cAMP-dependent protein kinase regulator activity,GO:0008603,"Pneumonia, Aspiration",MESH:D011015,0,,1,NOS2
+carbonate dehydratase activity,GO:0004089,Bronchopneumonia,MESH:D001996,1,Vancomycin,0,
+carbonate dehydratase activity,GO:0004089,Pneumonia,MESH:D011014,5,Caffeine|Cefuroxime|Dexamethasone|Dipyrone|Vancomycin,0,
+carbonate dehydratase activity,GO:0004089,"Pneumonia, Bacterial",MESH:D018410,1,Vancomycin,0,
+carbonate dehydratase activity,GO:0004089,"Pneumonia, Pneumococcal",MESH:D011018,1,Vancomycin,0,
+carbonate dehydratase activity,GO:0004089,"Pneumonia, Staphylococcal",MESH:D011023,2,Anti-Bacterial Agents|Vancomycin,0,
+carboxylic ester hydrolase activity,GO:0052689,Pneumonia,MESH:D011014,1,Dietary Fats,0,
+carboxypeptidase activity,GO:0004180,"Pneumonia, Viral",MESH:D011024,0,,1,ACE
+CARD domain binding,GO:0050700,Pneumonia,MESH:D011014,0,,1,CASP1
+cargo receptor activity,GO:0038024,Pneumonia,MESH:D011014,0,,1,ITGB2
+carnitine O-octanoyltransferase activity,GO:0008458,Pneumonia,MESH:D011014,2,bisphenol A|Dietary Fats,0,
+carnitine O-palmitoyltransferase activity,GO:0004095,Pneumonia,MESH:D011014,3,bisphenol A|Copper Sulfate|Dietary Fats,0,
+caspase binding,GO:0089720,Pneumonia,MESH:D011014,0,,2,CASP1|SIRT1
+caspase binding,GO:0089720,"Pneumonia, Pneumococcal",MESH:D011018,0,,1,SIRT1
+catalase activity,GO:0004096,Pneumonia,MESH:D011014,3,Copper Sulfate|Gentamicins|titanium dioxide,0,
+catalase activity,GO:0004096,"Pneumonia, Bacterial",MESH:D018410,1,Gentamicins,0,
+catalytic activity,GO:0003824,Pneumonia,MESH:D011014,0,,3,AGT|LIAS|PARP1
+"catalytic activity, acting on a protein",GO:0140096,Pneumonia,MESH:D011014,0,,1,CASP1
+catechol oxidase activity,GO:0004097,Bronchopneumonia,MESH:D001996,1,Ovalbumin,0,
+catechol oxidase activity,GO:0004097,Pneumonia,MESH:D011014,1,Ovalbumin,0,
+C-C chemokine binding,GO:0019957,Pneumonia,MESH:D011014,0,,6,CCR1|CCR2|CCR6|CCR9|CXCR2|CXCR3
+C-C chemokine receptor activity,GO:0016493,Pneumonia,MESH:D011014,0,,6,CCR1|CCR2|CCR6|CCR9|CXCR2|CXCR3
+CCR10 chemokine receptor binding,GO:0031735,Pneumonia,MESH:D011014,0,,1,CCL19
+CCR1 chemokine receptor binding,GO:0031726,Pneumonia,MESH:D011014,0,,3,CCL4|CCL7|CCL9
+CCR2 chemokine receptor binding,GO:0031727,Pneumonia,MESH:D011014,0,,4,CCL12|CCL2|CCL7|CCR2
+CCR3 chemokine receptor binding,GO:0031728,Pneumonia,MESH:D011014,0,,2,CCL11|CCL24
+CCR4 chemokine receptor binding,GO:0031729,Pneumonia,MESH:D011014,0,,1,CCL17
+CCR5 chemokine receptor binding,GO:0031730,Pneumonia,MESH:D011014,0,,1,CCL4
+CCR6 chemokine receptor binding,GO:0031731,Pneumonia,MESH:D011014,0,,1,CCL20
+CCR6 chemokine receptor binding,GO:0031731,"Pneumonia, Pneumococcal",MESH:D011018,0,,1,DEFB4A
+CCR7 chemokine receptor binding,GO:0031732,Pneumonia,MESH:D011014,0,,1,CCL19
+CCR chemokine receptor binding,GO:0048020,Pneumonia,MESH:D011014,0,,10,CCL11|CCL17|CCL19|CCL2|CCL20|CCL24|CCL4|CCL7|CCL8|CX3CL1
+CD154 receptor binding,GO:0042615,Pneumonia,MESH:D011014,0,,1,TNFRSF1B
+CD40 receptor binding,GO:0005174,Pneumonia,MESH:D011014,0,,2,CD40LG|TNF
+cell adhesion molecule binding,GO:0050839,Pneumonia,MESH:D011014,0,,1,ITGB2
+channel activity,GO:0015267,Pneumonia,MESH:D011014,3,Cadmium|Capsaicin|Zinc,0,
+chaperone binding,GO:0051087,Pneumonia,MESH:D011014,0,,1,AHR
+chemoattractant activity,GO:0042056,Pneumonia,MESH:D011014,0,,3,CCL2|CCL9|CX3CL1
+chemoattractant activity,GO:0042056,"Pneumonia, Pneumococcal",MESH:D011018,0,,1,DEFB4A
+chemokine activity,GO:0008009,Pneumonia,MESH:D011014,0,,17,CCL11|CCL12|CCL17|CCL19|CCL2|CCL20|CCL24|CCL4|CCL7|CCL8|CCL9|CX3CL1|CXCL1|CXCL15|CXCL5|CXCL9|PF4
+chemokine activity,GO:0008009,"Pneumonia, Pneumococcal",MESH:D011018,0,,1,CXCL8
+chemokine binding,GO:0019956,Pneumonia,MESH:D011014,0,,3,CCR6|CCR9|CXCR3
+chemokine (C-C motif) ligand 12 binding,GO:0035716,Pneumonia,MESH:D011014,0,,1,CCR2
+chemokine (C-C motif) ligand 2 binding,GO:0035715,Pneumonia,MESH:D011014,0,,1,CCR2
+chemokine (C-C motif) ligand 5 binding,GO:0071791,Pneumonia,MESH:D011014,0,,2,CCR1|CCR2
+chemokine (C-C motif) ligand 7 binding,GO:0035717,Pneumonia,MESH:D011014,0,,2,CCR1|CCR2
+chemokine receptor activity,GO:0004950,Pneumonia,MESH:D011014,0,,6,CCR1|CCR2|CCR6|CCR9|CXCR2|CXCR3
+chemokine receptor binding,GO:0042379,Pneumonia,MESH:D011014,0,,1,CCL19
+chloride ion binding,GO:0031404,"Pneumonia, Viral",MESH:D011024,0,,1,ACE
+cholesterol binding,GO:0015485,"Pneumonia, Mycoplasma",MESH:D011019,1,platycodin D,0,
+cholinesterase activity,GO:0004104,Pneumonia,MESH:D011014,4,Dietary Fats|Glyphosate|Manganese|Mustard Gas,0,
+cholinesterase activity,GO:0004104,"Pneumonia, Aspiration",MESH:D011015,1,Organophosphates,0,
+cholinesterase activity,GO:0004104,"Pneumonia, Lipid",MESH:D011017,1,Organophosphates,0,
+cholinesterase activity,GO:0004104,"Pneumonia, Viral",MESH:D011024,0,,1,ACE
+chromatin binding,GO:0003682,Pneumonia,MESH:D011014,1,Cisplatin,1,PARP1
+chromium ion transmembrane transporter activity,GO:0070835,Pneumonia,MESH:D011014,1,"Asbestos, Serpentine",0,
+ciliary neurotrophic factor receptor activity,GO:0004897,Pneumonia,MESH:D011014,0,,1,IL6ST
+ciliary neurotrophic factor receptor binding,GO:0005127,Pneumonia,MESH:D011014,0,,1,IL6ST
+cis-regulatory region sequence-specific DNA binding,GO:0000987,Pneumonia,MESH:D011014,0,,1,AHR
+citrate synthase activity,GO:0036440,Pneumonia,MESH:D011014,1,bisphenol A,0,
+complement component C3b binding,GO:0001851,Pneumonia,MESH:D011014,0,,1,ITGB2
+complement component C4b binding,GO:0001855,"Pneumonia, Pneumococcal",MESH:D011018,0,,1,MASP2
+coreceptor activity,GO:0015026,Pneumonia,MESH:D011014,0,,2,IL2RB|IL6ST
+creatine kinase activity,GO:0004111,Pneumonia,MESH:D011014,18,"Arsenic|bisphenol A|Cadmium|Cadmium Chloride|Cholesterol, Dietary|Ciprofloxacin|Copper Sulfate|Dexamethasone|Dietary Fats|Doxycycline|Gefitinib|lipopolysaccharide, Escherichia coli O111 B4|Lipopolysaccharides|Micafungin|Ofloxacin|Oxygen|Sodium Selenite|titanium dioxide",0,
+creatine kinase activity,GO:0004111,"Pneumonia, Bacterial",MESH:D018410,2,Ciprofloxacin|Ofloxacin,0,
+creatine kinase activity,GO:0004111,"Pneumonia, Lipid",MESH:D011017,1,Glycerol,0,
+CX3C chemokine receptor binding,GO:0031737,Pneumonia,MESH:D011014,0,,1,CX3CL1
+C-X-C chemokine binding,GO:0019958,Pneumonia,MESH:D011014,0,,1,CXCR3
+C-X-C chemokine receptor activity,GO:0016494,Pneumonia,MESH:D011014,0,,2,CXCR2|CXCR3
+CXCR1 chemokine receptor binding,GO:0045237,Pneumonia,MESH:D011014,0,,1,CX3CL1
+CXCR3 chemokine receptor binding,GO:0048248,Pneumonia,MESH:D011014,0,,2,CXCL9|PF4
+CXCR chemokine receptor binding,GO:0045236,Pneumonia,MESH:D011014,0,,4,CXCL1|CXCL5|CXCL9|PF4
+CXCR chemokine receptor binding,GO:0045236,"Pneumonia, Pneumococcal",MESH:D011018,0,,1,CXCL8
+cysteine-type endopeptidase activator activity involved in apoptotic process,GO:0008656,Pneumonia,MESH:D011014,0,,1,CASP1
+cysteine-type endopeptidase activity,GO:0004197,Bronchopneumonia,MESH:D001996,2,"Nanotubes, Carbon|Particulate Matter",0,
+cysteine-type endopeptidase activity,GO:0004197,Pneumonia,MESH:D011014,18,"Acrolein|Amiodarone|Arsenic|bisphenol A|Cadmium|Cadmium Chloride|Capsaicin|Docetaxel|Dronabinol|Glyphosate|Lipopolysaccharides|Nanotubes, Carbon|N-(oxo-5,6-dihydrophenanthridin-2-yl)-N,N-dimethylacetamide hydrochloride|Oxygen|Paclitaxel|Particulate Matter|Vehicle Emissions|Vorinostat",1,CASP1
+cysteine-type endopeptidase activity,GO:0004197,"Pneumonia, Pneumocystis",MESH:D011020,1,Hydrogen Peroxide,0,
+cysteine-type endopeptidase activity,GO:0004197,"Pneumonia, Viral",MESH:D011024,1,Particulate Matter,0,
+cysteine-type endopeptidase activity involved in apoptotic process,GO:0097153,Pneumonia,MESH:D011014,1,Docetaxel,0,
+cysteine-type endopeptidase activity involved in apoptotic process,GO:0097153,"Pneumonia, Pneumococcal",MESH:D011018,1,Rifampin,0,
+cysteine-type peptidase activity,GO:0008234,Pneumonia,MESH:D011014,2,bisphenol A|Cyclophosphamide,1,CASP1
+cysteine-type peptidase activity,GO:0008234,"Pneumonia, Pneumocystis",MESH:D011020,1,Cyclophosphamide,0,
+cystine:glutamate antiporter activity,GO:0015327,Pneumonia,MESH:D011014,1,Sulfasalazine,0,
+cytidine deaminase activity,GO:0004126,Pneumonia,MESH:D011014,1,Arsenic,0,
+"cytochrome-b5 reductase activity, acting on NADPH",GO:0090523,Pneumonia,MESH:D011014,1,Cadmium Chloride,0,
+cytochrome-c oxidase activity,GO:0004129,Bronchopneumonia,MESH:D001996,1,Particulate Matter,0,
+cytochrome-c oxidase activity,GO:0004129,Pneumonia,MESH:D011014,27,"2,4-Dichlorophenoxyacetic Acid|Acrolein|Air Pollutants|bisphenol A|Cadmium|Cadmium Chloride|Cisplatin|Copper Sulfate|Cyclophosphamide|Dietary Fats|Dronabinol|Glyphosate|Iron|Lipopolysaccharides|naringin|N-(oxo-5,6-dihydrophenanthridin-2-yl)-N,N-dimethylacetamide hydrochloride|Oxygen|Ozone|Paraquat|Particulate Matter|Sirolimus|Sodium Selenite|Soot|Taurine|Tobacco Smoke Pollution|Vehicle Emissions|Zinc",0,
+cytochrome-c oxidase activity,GO:0004129,"Pneumonia, Pneumocystis",MESH:D011020,2,Cyclophosphamide|Hydrogen Peroxide,0,
+cytochrome-c oxidase activity,GO:0004129,"Pneumonia, Viral",MESH:D011024,1,Particulate Matter,0,
+cytokine activity,GO:0005125,Pneumonia,MESH:D011014,0,,19,CCL17|CCL2|CCL20|CCL24|CCL4|CD40LG|CSF2|CXCL9|IFNG|IL13|IL17A|IL18|IL1B|IL33|IL4|IL6|SPP1|TGFB1|TNF
+cytokine binding,GO:0019955,Pneumonia,MESH:D011014,0,,4,CASP1|CCR2|IL5RA|IL6ST
+cytokine receptor activity,GO:0004896,Pneumonia,MESH:D011014,0,,3,IL2RB|IL5RA|IL6ST
+cytokine receptor binding,GO:0005126,Pneumonia,MESH:D011014,0,,1,IL13
+D-alanine:2-oxoglutarate aminotransferase activity,GO:0047810,Pneumonia,MESH:D011014,1,bisphenol A,0,
+D-alanine:2-oxoglutarate aminotransferase activity,GO:0047810,"Pneumonia, Pneumococcal",MESH:D011018,1,Rifampin,0,
+damaged DNA binding,GO:0003684,Pneumonia,MESH:D011014,0,,1,PARP1
+deacetylase activity,GO:0019213,Pneumonia,MESH:D011014,0,,1,SIRT1
+deacetylase activity,GO:0019213,"Pneumonia, Pneumococcal",MESH:D011018,0,,1,SIRT1
+death receptor agonist activity,GO:0038177,Pneumonia,MESH:D011014,0,,1,TNF
+death receptor binding,GO:0005123,Pneumonia,MESH:D011014,0,,1,MYD88
+demethylase activity,GO:0032451,Pneumonia,MESH:D011014,1,Cobalt,0,
+deubiquitinase activator activity,GO:0035800,Pneumonia,MESH:D011014,0,,1,TGFB1
+D-glutamyltransferase activity,GO:0047823,Bronchopneumonia,MESH:D001996,1,Particulate Matter,0,
+D-glutamyltransferase activity,GO:0047823,Pneumonia,MESH:D011014,6,Air Pollutants|bisphenol A|Cadmium Chloride|Nickel|Particulate Matter|Zinc,0,
+D-glutamyltransferase activity,GO:0047823,"Pneumonia, Pneumocystis",MESH:D011020,1,Hydrogen Peroxide,0,
+D-glutamyltransferase activity,GO:0047823,"Pneumonia, Viral",MESH:D011024,1,Particulate Matter,0,
+diamine oxidase activity,GO:0052597,Pneumonia,MESH:D011014,1,bisphenol A,0,
+dimethylargininase activity,GO:0016403,Pneumonia,MESH:D011014,1,Oxygen,0,
+dipeptidyl-peptidase activity,GO:0008239,Pneumonia,MESH:D011014,2,bisphenol A|naringin,0,
+DNA-(apurinic or apyrimidinic site) endonuclease activity,GO:0003906,Pneumonia,MESH:D011014,1,"Asbestos, Crocidolite",0,
+DNA binding,GO:0003677,Pneumonia,MESH:D011014,1,Cadmium Chloride,4,AHR|EGR1|MYLK|PARP1
+DNA binding,GO:0003677,"Pneumonia, Pneumococcal",MESH:D011018,0,,1,MAPK1
+"DNA-binding transcription activator activity, RNA polymerase II-specific",GO:0001228,Pneumonia,MESH:D011014,0,,1,EGR1
+DNA-binding transcription factor activity,GO:0003700,Pneumonia,MESH:D011014,5,bisphenol A|Cadmium|Lipopolysaccharides|Oxygen|Ozone,2,AHR|EGR1
+"DNA-binding transcription factor activity, RNA polymerase II-specific",GO:0000981,Pneumonia,MESH:D011014,0,,2,AHR|EGR1
+DNA-binding transcription factor binding,GO:0140297,Pneumonia,MESH:D011014,0,,1,SIRT1
+DNA-binding transcription factor binding,GO:0140297,"Pneumonia, Pneumococcal",MESH:D011018,0,,2,MAPK3|SIRT1
+DNA-dependent protein kinase activity,GO:0004677,Pneumonia,MESH:D011014,0,,1,IKBKB
+DNA-directed DNA polymerase activity,GO:0003887,"Pneumonia, Pneumocystis",MESH:D011020,1,Hydrogen Peroxide,0,
+DNA-methyltransferase activity,GO:0009008,Pneumonia,MESH:D011014,1,Dietary Fats,0,
+DNA-methyltransferase activity,GO:0009008,"Pneumonia, Pneumocystis",MESH:D011020,1,Hydrogen Peroxide,0,
+double-stranded DNA binding,GO:0003690,Pneumonia,MESH:D011014,0,,1,EGR1
+double-stranded DNA binding,GO:0003690,"Pneumonia, Pneumococcal",MESH:D011018,0,,1,MAPK1
+double-stranded methylated DNA binding,GO:0010385,Pneumonia,MESH:D011014,0,,1,EGR1
+E-box binding,GO:0070888,Pneumonia,MESH:D011014,0,,1,AHR
+efflux transmembrane transporter activity,GO:0015562,Pneumonia,MESH:D011014,1,Erythromycin,0,
+efflux transmembrane transporter activity,GO:0015562,"Pneumonia, Bacterial",MESH:D018410,2,Erythromycin|Floxacillin,0,
+efflux transmembrane transporter activity,GO:0015562,"Pneumonia, Staphylococcal",MESH:D011023,1,Nafcillin,0,
+endopeptidase activity,GO:0004175,Bronchopneumonia,MESH:D001996,1,Particulate Matter,0,
+endopeptidase activity,GO:0004175,Pneumonia,MESH:D011014,2,Particulate Matter|Tobacco Smoke Pollution,1,CASP1
+endopeptidase activity,GO:0004175,"Pneumonia, Viral",MESH:D011024,1,Particulate Matter,1,ACE
+enzyme activator activity,GO:0008047,Pneumonia,MESH:D011014,0,,3,CXCL1|PARP1|SIRT1
+enzyme activator activity,GO:0008047,"Pneumonia, Pneumococcal",MESH:D011018,0,,1,SIRT1
+enzyme binding,GO:0019899,Pneumonia,MESH:D011014,0,,6,EGR1|HMOX1|MYLK|PARP1|SIRT1|TGFB1
+enzyme binding,GO:0019899,"Pneumonia, Pneumococcal",MESH:D011018,0,,1,SIRT1
+epidermal growth factor binding,GO:0048408,Pneumonia,MESH:D011014,1,"Asbestos, Crocidolite",0,
+estradiol 17-beta-dehydrogenase activity,GO:0004303,Pneumonia,MESH:D011014,3,Indomethacin|Taurine|Vanadium,0,
+estradiol 17-beta-dehydrogenase activity,GO:0004303,"Pneumonia, Aspiration",MESH:D011015,1,Chlorpromazine,0,
+eukaryotic translation initiation factor 2alpha kinase activity,GO:0004694,Pneumonia,MESH:D011014,0,,1,IKBKB
+exopeptidase activity,GO:0008238,"Pneumonia, Viral",MESH:D011024,0,,1,ACE
+extracellular matrix binding,GO:0050840,Pneumonia,MESH:D011014,0,,1,SPP1
+flavin adenine dinucleotide binding,GO:0050660,"Pneumonia, Aspiration",MESH:D011015,0,,1,NOS2
+FMN binding,GO:0010181,"Pneumonia, Aspiration",MESH:D011015,0,,1,NOS2
+"fructose 1,6-bisphosphate 1-phosphatase activity",GO:0042132,Pneumonia,MESH:D011014,3,Cisplatin|Dietary Fats|Moxifloxacin,0,
+"fructose 1,6-bisphosphate 1-phosphatase activity",GO:0042132,"Pneumonia, Staphylococcal",MESH:D011023,1,Moxifloxacin,0,
+gap junction channel activity,GO:0005243,Bronchopneumonia,MESH:D001996,1,Particulate Matter,0,
+gap junction channel activity,GO:0005243,Pneumonia,MESH:D011014,3,Air Pollutants|Particulate Matter|perfluorodecanoic acid,0,
+gap junction channel activity,GO:0005243,"Pneumonia, Viral",MESH:D011024,1,Particulate Matter,0,
+Gi/o-coupled serotonin receptor activity,GO:0001586,Pneumonia,MESH:D011014,2,Dronabinol|Sirolimus,0,
+glucose-6-phosphatase activity,GO:0004346,Pneumonia,MESH:D011014,3,Cisplatin|Dietary Fats|Styrene,0,
+glucose-6-phosphate dehydrogenase activity,GO:0004345,Pneumonia,MESH:D011014,1,Dietary Fats,0,
+glucuronosyltransferase activity,GO:0015020,Pneumonia,MESH:D011014,2,bisphenol A|Taurine,0,
+glutamate-cysteine ligase activity,GO:0004357,Pneumonia,MESH:D011014,3,Cadmium|Cadmium Chloride|Glyphosate,0,
+glutaminase activity,GO:0004359,Pneumonia,MESH:D011014,1,bisphenol A,0,
+glutathione binding,GO:0043295,Pneumonia,MESH:D011014,2,Copper Sulfate|Manganese,0,
+glutathione hydrolase activity,GO:0036374,Pneumonia,MESH:D011014,2,Arsenic|Copper Sulfate,0,
+glutathione peroxidase activity,GO:0004602,Bronchopneumonia,MESH:D001996,3,"Nanotubes, Carbon|Particulate Matter|Vancomycin",0,
+glutathione peroxidase activity,GO:0004602,Pneumonia,MESH:D011014,60,"acetovanillone|Acrolein|Air Pollutants|Amiodarone|Arsenic|Asbestos, Crocidolite|bisphenol A|Bleomycin|Cadmium|Cadmium Chloride|Caffeine|Cefuroxime|Cholesterol, Dietary|Cisplatin|Copper Sulfate|cupric oxide|Cyclophosphamide|Dexamethasone|Dietary Fats|endotoxin, Escherichia coli|Farnesol|Formaldehyde|Gentamicins|Glyphosate|Indomethacin|Iron|lipopolysaccharide, E. coli O26-B6|lipopolysaccharide, Escherichia coli O111 B4|Lipopolysaccharides|Magnetite Nanoparticles|Manganese|Methotrexate|Micafungin|Nanotubes, Carbon|naringin|Nickel|Oxygen|Ozone|Paclitaxel|Paraquat|Particulate Matter|Rosiglitazone|salvianolic acid B|Sirolimus|Smoke|Sodium Selenite|Soot|ST2825|Sulfasalazine|Sulfur Dioxide|Taurine|titanium dioxide|Tobacco Smoke Pollution|triptolide|Vanadium|Vancomycin|Vehicle Emissions|Zinc|Zinc Oxide|Zinc Sulfate",0,
+glutathione peroxidase activity,GO:0004602,"Pneumonia, Aspiration",MESH:D011015,2,Diazepam|Formaldehyde,0,
+glutathione peroxidase activity,GO:0004602,"Pneumonia, Bacterial",MESH:D018410,2,Gentamicins|Vancomycin,0,
+glutathione peroxidase activity,GO:0004602,"Pneumonia, Lipid",MESH:D011017,1,Glycerol,0,
+glutathione peroxidase activity,GO:0004602,"Pneumonia, Pneumococcal",MESH:D011018,1,Vancomycin,0,
+glutathione peroxidase activity,GO:0004602,"Pneumonia, Pneumocystis",MESH:D011020,3,Cyclophosphamide|Hydrogen Peroxide|Methotrexate,0,
+glutathione peroxidase activity,GO:0004602,"Pneumonia, Staphylococcal",MESH:D011023,1,Vancomycin,0,
+glutathione peroxidase activity,GO:0004602,"Pneumonia, Viral",MESH:D011024,1,Particulate Matter,0,
+glutathione transferase activity,GO:0004364,Bronchopneumonia,MESH:D001996,2,"Nanotubes, Carbon|Particulate Matter",0,
+glutathione transferase activity,GO:0004364,Pneumonia,MESH:D011014,36,"Arsenic|Asbestos, Serpentine|bisphenol A|Bleomycin|Cadmium|Cadmium Chloride|Caffeine|Ciprofloxacin|Cisplatin|Copper Sulfate|Cyclophosphamide|Dexamethasone|Dietary Fats|Farnesol|Gentamicins|Glyphosate|Iron|lipopolysaccharide, Escherichia coli O111 B4|Lipopolysaccharides|Manganese|Methotrexate|Nanotubes, Carbon|naringin|Nickel|Oxygen|Ozone|Paclitaxel|Paraquat|Particulate Matter|Sodium Selenite|Taurine|titanium dioxide|Vehicle Emissions|Zinc|Zinc Oxide|Zinc Sulfate",0,
+glutathione transferase activity,GO:0004364,"Pneumonia, Aspiration",MESH:D011015,1,Hydrochloric Acid,0,
+glutathione transferase activity,GO:0004364,"Pneumonia, Bacterial",MESH:D018410,3,Amoxicillin|Ciprofloxacin|Gentamicins,0,
+glutathione transferase activity,GO:0004364,"Pneumonia, Pneumococcal",MESH:D011018,1,Amoxicillin,0,
+glutathione transferase activity,GO:0004364,"Pneumonia, Pneumocystis",MESH:D011020,2,Cyclophosphamide|Methotrexate,0,
+glutathione transferase activity,GO:0004364,"Pneumonia, Viral",MESH:D011024,1,Particulate Matter,0,
+glycerol-3-phosphate O-acyltransferase activity,GO:0004366,Pneumonia,MESH:D011014,1,bisphenol A,0,
+glycogen phosphorylase activity,GO:0008184,Pneumonia,MESH:D011014,3,bisphenol A|Dietary Fats|Styrene,0,
+glycosyltransferase activity,GO:0016757,Pneumonia,MESH:D011014,0,,1,PARP1
+gonadotropin-releasing hormone binding,GO:0051448,Pneumonia,MESH:D011014,1,Cadmium Chloride,0,
+G protein-coupled photoreceptor activity,GO:0008020,Pneumonia,MESH:D011014,0,,1,CD40LG
+G protein-coupled receptor activity,GO:0004930,Pneumonia,MESH:D011014,0,,6,CCR2|CCR6|CCR9|CD40LG|CXCR2|CXCR3
+G protein-coupled receptor binding,GO:0001664,Pneumonia,MESH:D011014,0,,2,CCL2|POMC
+granulocyte colony-stimulating factor binding,GO:0051916,Pneumonia,MESH:D011014,0,,1,CXCR2
+granulocyte macrophage colony-stimulating factor receptor binding,GO:0005129,Pneumonia,MESH:D011014,0,,1,CSF2
+growth factor activity,GO:0008083,Pneumonia,MESH:D011014,0,,7,AGT|CSF2|CXCL1|IL13|IL4|IL6|TGFB1
+growth factor binding,GO:0019838,Pneumonia,MESH:D011014,0,,1,IL6ST
+H3K27me3 modified histone binding,GO:0061628,Bronchopneumonia,MESH:D001996,1,Particulate Matter,0,
+H3K27me3 modified histone binding,GO:0061628,Pneumonia,MESH:D011014,4,bisphenol A|Particulate Matter|Smoke|Vehicle Emissions,0,
+H3K27me3 modified histone binding,GO:0061628,"Pneumonia, Viral",MESH:D011024,1,Particulate Matter,0,
+H3K9me3 modified histone binding,GO:0062072,Pneumonia,MESH:D011014,1,Dronabinol,0,
+heat shock protein binding,GO:0031072,Pneumonia,MESH:D011014,0,,1,ITGB2
+heme binding,GO:0020037,Pneumonia,MESH:D011014,0,,1,HMOX1
+heme binding,GO:0020037,"Pneumonia, Aspiration",MESH:D011015,0,,1,NOS2
+heme oxygenase (decyclizing) activity,GO:0004392,Pneumonia,MESH:D011014,1,Dronabinol,1,HMOX1
+hemi-methylated DNA-binding,GO:0044729,Pneumonia,MESH:D011014,0,,1,EGR1
+heparin binding,GO:0008201,Pneumonia,MESH:D011014,0,,4,CCL2|CCL7|CCL8|PF4
+heparin binding,GO:0008201,"Pneumonia, Pneumococcal",MESH:D011018,0,,1,CXCL8
+heterocyclic compound binding,GO:1901363,"Pneumonia, Viral",MESH:D011024,0,,1,ACE
+hexokinase activity,GO:0004396,Bronchopneumonia,MESH:D001996,1,Particulate Matter,0,
+hexokinase activity,GO:0004396,Pneumonia,MESH:D011014,6,Air Pollutants|Cadmium Chloride|Cisplatin|Dietary Fats|Indomethacin|Particulate Matter,0,
+hexokinase activity,GO:0004396,"Pneumonia, Aspiration",MESH:D011015,1,Chlorpromazine,0,
+hexokinase activity,GO:0004396,"Pneumonia, Viral",MESH:D011024,1,Particulate Matter,0,
+high voltage-gated calcium channel activity,GO:0008331,Bronchopneumonia,MESH:D001996,1,Particulate Matter,0,
+high voltage-gated calcium channel activity,GO:0008331,Pneumonia,MESH:D011014,1,Particulate Matter,0,
+high voltage-gated calcium channel activity,GO:0008331,"Pneumonia, Viral",MESH:D011024,1,Particulate Matter,0,
+histone acetyltransferase activity,GO:0004402,Pneumonia,MESH:D011014,2,bisphenol A|Vorinostat,0,
+histone acetyltransferase binding,GO:0035035,Pneumonia,MESH:D011014,0,,1,EGR1
+histone binding,GO:0042393,Pneumonia,MESH:D011014,1,bisphenol A,2,PARP1|SIRT1
+histone binding,GO:0042393,"Pneumonia, Pneumococcal",MESH:D011018,0,,1,SIRT1
+histone deacetylase activity,GO:0004407,Pneumonia,MESH:D011014,3,Dietary Fats|Mechlorethamine|Vorinostat,1,SIRT1
+histone deacetylase activity,GO:0004407,"Pneumonia, Pneumococcal",MESH:D011018,0,,1,SIRT1
+histone deacetylase binding,GO:0042826,Pneumonia,MESH:D011014,0,,1,PARP1
+histone H2AS121 kinase activity,GO:0072371,Pneumonia,MESH:D011014,0,,1,IKBKB
+histone H2AS139 kinase activity,GO:0035979,Pneumonia,MESH:D011014,0,,1,IKBKB
+histone H2AS1 kinase activity,GO:0044024,Pneumonia,MESH:D011014,0,,1,IKBKB
+histone H2AT120 kinase activity,GO:1990244,Pneumonia,MESH:D011014,0,,1,IKBKB
+histone H2BS14 kinase activity,GO:0044025,Pneumonia,MESH:D011014,0,,1,IKBKB
+histone H2BS36 kinase activity,GO:0140823,Pneumonia,MESH:D011014,0,,1,IKBKB
+histone H3K27 dimethyltransferase activity,GO:0140952,Pneumonia,MESH:D011014,1,bisphenol A,0,
+histone H3K27 trimethyltransferase activity,GO:0140951,Pneumonia,MESH:D011014,1,bisphenol A,0,
+histone H3K4 methyltransferase activity,GO:0042800,Pneumonia,MESH:D011014,1,bisphenol A,0,
+histone H3K9 demethylase activity,GO:0032454,Bronchopneumonia,MESH:D001996,1,Particulate Matter,0,
+histone H3K9 demethylase activity,GO:0032454,Pneumonia,MESH:D011014,2,Dietary Fats|Particulate Matter,0,
+histone H3K9 demethylase activity,GO:0032454,"Pneumonia, Viral",MESH:D011024,1,Particulate Matter,0,
+histone H3K9 trimethyltransferase activity,GO:0140949,Pneumonia,MESH:D011014,1,bisphenol A,0,
+histone H3S10 kinase activity,GO:0035175,Pneumonia,MESH:D011014,0,,1,IKBKB
+histone H3S28 kinase activity,GO:0044022,Pneumonia,MESH:D011014,1,bisphenol A,1,IKBKB
+histone H3S57 kinase activity,GO:0140855,Pneumonia,MESH:D011014,0,,1,IKBKB
+histone H3T11 kinase activity,GO:0035402,Pneumonia,MESH:D011014,0,,1,IKBKB
+histone H3T3 kinase activity,GO:0072354,Pneumonia,MESH:D011014,0,,1,IKBKB
+histone H3T45 kinase activity,GO:0140857,Pneumonia,MESH:D011014,0,,1,IKBKB
+histone H3T6 kinase activity,GO:0035403,Pneumonia,MESH:D011014,0,,1,IKBKB
+histone H4K12 deacetylase activity,GO:0140937,Pneumonia,MESH:D011014,0,,1,SIRT1
+histone H4K12 deacetylase activity,GO:0140937,"Pneumonia, Pneumococcal",MESH:D011018,0,,1,SIRT1
+histone H4S1 kinase activity,GO:0044023,Pneumonia,MESH:D011014,0,,1,IKBKB
+HLH domain binding,GO:0043398,Pneumonia,MESH:D011014,0,,1,SIRT1
+HLH domain binding,GO:0043398,"Pneumonia, Pneumococcal",MESH:D011018,0,,1,SIRT1
+hormone activity,GO:0005179,Pneumonia,MESH:D011014,0,,2,AGT|POMC
+Hsp90 protein binding,GO:0051879,Pneumonia,MESH:D011014,0,,1,AHR
+Hsp90 protein binding,GO:0051879,"Pneumonia, Aspiration",MESH:D011015,0,,1,NOS2
+hydrolase activity,GO:0016787,Pneumonia,MESH:D011014,0,,2,CASP1|IL1R1
+hydrolase activity,GO:0016787,"Pneumonia, Pneumococcal",MESH:D011018,0,,1,MASP2
+hydrolase activity,GO:0016787,"Pneumonia, Viral",MESH:D011024,0,,1,ACE
+"hydrolase activity, acting on ester bonds",GO:0016788,Pneumonia,MESH:D011014,2,Cyclophosphamide|Oxygen,0,
+"hydrolase activity, acting on ester bonds",GO:0016788,"Pneumonia, Pneumocystis",MESH:D011020,1,Cyclophosphamide,0,
+"hydrolase activity, acting on glycosyl bonds",GO:0016798,Bronchopneumonia,MESH:D001996,1,Vancomycin,0,
+"hydrolase activity, acting on glycosyl bonds",GO:0016798,Pneumonia,MESH:D011014,1,Vancomycin,0,
+"hydrolase activity, acting on glycosyl bonds",GO:0016798,"Pneumonia, Bacterial",MESH:D018410,1,Vancomycin,0,
+"hydrolase activity, acting on glycosyl bonds",GO:0016798,"Pneumonia, Pneumococcal",MESH:D011018,1,Vancomycin,0,
+"hydrolase activity, acting on glycosyl bonds",GO:0016798,"Pneumonia, Staphylococcal",MESH:D011023,1,Vancomycin,0,
+ICAM-3 receptor activity,GO:0030369,Pneumonia,MESH:D011014,0,,1,ITGB2
+identical protein binding,GO:0042802,Pneumonia,MESH:D011014,0,,15,AHR|CASP1|CCL4|CCR2|CXCL5|HMOX1|IKBKB|IL6|IL6ST|MYD88|PARP1|SIRT1|TGFB1|TLR4|TNF
+identical protein binding,GO:0042802,"Pneumonia, Aspiration",MESH:D011015,0,,1,NOS2
+identical protein binding,GO:0042802,"Pneumonia, Pneumococcal",MESH:D011018,0,,4,MAPK1|MAPK3|MASP2|SIRT1
+IkappaB kinase activity,GO:0008384,Pneumonia,MESH:D011014,1,Sulfasalazine,1,IKBKB
+IMP dehydrogenase activity,GO:0003938,"Pneumonia, Viral",MESH:D011024,1,Ribavirin,0,
+"indoleamine 2,3-dioxygenase activity",GO:0033754,Pneumonia,MESH:D011014,4,Cadmium|Cadmium Chloride|Cyclophosphamide|Lipopolysaccharides,0,
+"indoleamine 2,3-dioxygenase activity",GO:0033754,"Pneumonia, Pneumocystis",MESH:D011020,1,Cyclophosphamide,0,
+integrin binding,GO:0005178,Pneumonia,MESH:D011014,0,,5,CD40LG|CX3CL1|IL1B|ITGB2|SPP1
+interleukin-11 binding,GO:0019970,Pneumonia,MESH:D011014,0,,1,IL6ST
+interleukin-11 receptor activity,GO:0004921,Pneumonia,MESH:D011014,0,,1,IL6ST
+interleukin-13 receptor binding,GO:0005144,Pneumonia,MESH:D011014,0,,1,IL13
+interleukin-15 receptor activity,GO:0042010,Pneumonia,MESH:D011014,0,,1,IL2RB
+interleukin-18 receptor binding,GO:0045515,Pneumonia,MESH:D011014,0,,1,IL18
+interleukin-1 binding,GO:0019966,Pneumonia,MESH:D011014,0,,2,IL1R1|IL1R2
+interleukin-1 receptor activity,GO:0004908,Pneumonia,MESH:D011014,1,"lipopolysaccharide, Escherichia coli O111 B4",2,IL1R1|IL1R2
+interleukin-1 receptor binding,GO:0005149,Pneumonia,MESH:D011014,0,,2,IL1B|MYD88
+"interleukin-1, type I, activating receptor activity",GO:0004909,Pneumonia,MESH:D011014,0,,1,IL1R1
+"interleukin-1, type II, blocking receptor activity",GO:0004910,Pneumonia,MESH:D011014,0,,1,IL1R2
+interleukin-27 receptor activity,GO:0045509,Pneumonia,MESH:D011014,0,,1,IL6ST
+interleukin-2 binding,GO:0019976,Pneumonia,MESH:D011014,0,,1,IL2RB
+interleukin-2 receptor activity,GO:0004911,Pneumonia,MESH:D011014,0,,1,IL2RB
+interleukin-33 receptor binding,GO:0002112,Pneumonia,MESH:D011014,0,,1,IL33
+interleukin-4 receptor binding,GO:0005136,Pneumonia,MESH:D011014,0,,2,IL13|IL4
+interleukin-5 receptor activity,GO:0004914,Pneumonia,MESH:D011014,0,,1,IL5RA
+interleukin-6 binding,GO:0019981,Pneumonia,MESH:D011014,0,,1,IL6ST
+interleukin-6 receptor activity,GO:0004915,Pneumonia,MESH:D011014,0,,1,IL6ST
+interleukin-6 receptor binding,GO:0005138,Pneumonia,MESH:D011014,0,,2,IL6|IL6ST
+interleukin-8 binding,GO:0019959,Pneumonia,MESH:D011014,0,,1,CXCR2
+interleukin-8 receptor activity,GO:0004918,Pneumonia,MESH:D011014,0,,1,CXCR2
+interleukin-8 receptor binding,GO:0005153,"Pneumonia, Pneumococcal",MESH:D011018,0,,1,CXCL8
+intracellular cAMP-activated cation channel activity,GO:0005222,Pneumonia,MESH:D011014,2,Dronabinol|Sirolimus,0,
+iodide peroxidase activity,GO:0004447,Pneumonia,MESH:D011014,1,bisphenol A,0,
+ionotropic glutamate receptor binding,GO:0035255,Pneumonia,MESH:D011014,0,,1,IL1R1
+iron ion binding,GO:0005506,Pneumonia,MESH:D011014,2,Cadmium|Cadmium Chloride,0,
+iron-sulfur cluster binding,GO:0051536,Pneumonia,MESH:D011014,0,,1,LIAS
+isocitrate dehydrogenase (NAD+) activity,GO:0004449,Pneumonia,MESH:D011014,2,bisphenol A|Zinc,0,
+isocitrate dehydrogenase (NADP+) activity,GO:0004450,Pneumonia,MESH:D011014,2,Acrolein|Zinc,0,
+isocitrate dehydrogenase [NAD(P)+] activity,GO:0004448,Pneumonia,MESH:D011014,3,Cadmium|Copper Sulfate|Iron,0,
+JUN kinase activity,GO:0004705,Pneumonia,MESH:D011014,2,Cadmium|Lipopolysaccharides,0,
+JUN kinase activity,GO:0004705,"Pneumonia, Pneumococcal",MESH:D011018,0,,2,MAPK1|MAPK3
+keratin filament binding,GO:1990254,Pneumonia,MESH:D011014,0,,1,SIRT1
+keratin filament binding,GO:1990254,"Pneumonia, Pneumococcal",MESH:D011018,0,,1,SIRT1
+kinase activity,GO:0016301,Pneumonia,MESH:D011014,0,,2,IKBKB|MYLK
+kinase activity,GO:0016301,"Pneumonia, Pneumococcal",MESH:D011018,0,,2,MAPK1|MAPK3
+kinase binding,GO:0019900,Pneumonia,MESH:D011014,0,,1,CASP1
+lactase activity,GO:0000016,Pneumonia,MESH:D011014,1,bisphenol A,0,
+lactate dehydrogenase activity,GO:0004457,Bronchopneumonia,MESH:D001996,3,"Nanotubes, Carbon|Ovalbumin|Particulate Matter",0,
+lactate dehydrogenase activity,GO:0004457,Pneumonia,MESH:D011014,40,"acetovanillone|Air Pollutants|Arsenic|Asbestos, Crocidolite|Asbestos, Serpentine|bisphenol A|Bleomycin|Cadmium|Cadmium Chloride|Caffeine|Cisplatin|Copper Sulfate|Cyclophosphamide|Dexamethasone|Dietary Fats|Dust|Gentamicins|Glyphosate|lipopolysaccharide, Escherichia coli O111 B4|Lipopolysaccharides|Manganese|Methotrexate|Micafungin|Nanotubes, Carbon|naringin|Nickel|nickel sulfate|Ovalbumin|Oxygen|Ozone|Paraquat|Particulate Matter|Sildenafil Citrate|Silicon Dioxide|Sirolimus|Sodium Selenite|titanium dioxide|Venlafaxine Hydrochloride|Zinc|Zinc Oxide",0,
+lactate dehydrogenase activity,GO:0004457,"Pneumonia, Bacterial",MESH:D018410,3,Amoxicillin|Dust|Gentamicins,0,
+lactate dehydrogenase activity,GO:0004457,"Pneumonia, Pneumococcal",MESH:D011018,1,Amoxicillin,0,
+lactate dehydrogenase activity,GO:0004457,"Pneumonia, Pneumocystis",MESH:D011020,3,Cyclophosphamide|Hydrogen Peroxide|Methotrexate,0,
+lactate dehydrogenase activity,GO:0004457,"Pneumonia, Viral",MESH:D011024,1,Particulate Matter,0,
+L-alanine:2-oxoglutarate aminotransferase activity,GO:0004021,Pneumonia,MESH:D011014,2,bisphenol A|perfluorodecanoic acid,0,
+L-aspartate:2-oxoglutarate aminotransferase activity,GO:0004069,Bronchopneumonia,MESH:D001996,3,"Nanotubes, Carbon|Ovalbumin|Vancomycin",0,
+L-aspartate:2-oxoglutarate aminotransferase activity,GO:0004069,Pneumonia,MESH:D011014,36,"Arsenic|bisphenol A|Cadmium|Cadmium Chloride|Caffeine|Cholesterol, Dietary|Cisplatin|Cocaine|Copper Sulfate|Cyclophosphamide|Dexamethasone|Dietary Fats|Dronabinol|Gefitinib|Glyphosate|Iron|lipopolysaccharide, Escherichia coli O111 B4|Lipopolysaccharides|Methotrexate|Nanotubes, Carbon|naringin|Ovalbumin|Ozone|Paraquat|Rosiglitazone|salvianolic acid B|Sildenafil Citrate|Sirolimus|Taurine|titanium dioxide|triptolide|Ursodeoxycholic Acid|Vancomycin|Voriconazole|Zinc|Zinc Oxide",0,
+L-aspartate:2-oxoglutarate aminotransferase activity,GO:0004069,"Pneumonia, Bacterial",MESH:D018410,1,Vancomycin,0,
+L-aspartate:2-oxoglutarate aminotransferase activity,GO:0004069,"Pneumonia, Pneumococcal",MESH:D011018,1,Vancomycin,0,
+L-aspartate:2-oxoglutarate aminotransferase activity,GO:0004069,"Pneumonia, Pneumocystis",MESH:D011020,4,Cyclophosphamide|Hydrogen Peroxide|Methotrexate|Zidovudine,0,
+L-aspartate:2-oxoglutarate aminotransferase activity,GO:0004069,"Pneumonia, Staphylococcal",MESH:D011023,1,Vancomycin,0,
+leukemia inhibitory factor receptor activity,GO:0004923,Pneumonia,MESH:D011014,0,,1,IL6ST
+ligand-gated sodium channel activity,GO:0015280,Pneumonia,MESH:D011014,0,,1,TNFRSF1A
+linoleate 13S-lipoxygenase activity,GO:0016165,Pneumonia,MESH:D011014,1,Dexamethasone,0,
+lipase activity,GO:0016298,Bronchopneumonia,MESH:D001996,1,Oxytetracycline,0,
+lipase activity,GO:0016298,Pneumonia,MESH:D011014,2,"Cholesterol, Dietary|Ozone",0,
+lipoate synthase activity,GO:0016992,Pneumonia,MESH:D011014,0,,1,LIAS
+lipopolysaccharide binding,GO:0001530,Pneumonia,MESH:D011014,1,Tobacco Smoke Pollution,1,TLR4
+lipopolysaccharide immune receptor activity,GO:0001875,Pneumonia,MESH:D011014,0,,1,TLR4
+lysine-acetylated histone binding,GO:0070577,Pneumonia,MESH:D011014,3,Arsenic|bisphenol A|Manganese,1,SIRT1
+lysine-acetylated histone binding,GO:0070577,"Pneumonia, Pneumococcal",MESH:D011018,0,,1,SIRT1
+lysozyme activity,GO:0003796,Pneumonia,MESH:D011014,1,bisphenol A,0,
+malate dehydrogenase activity,GO:0016615,Bronchopneumonia,MESH:D001996,1,Particulate Matter,0,
+malate dehydrogenase activity,GO:0016615,Pneumonia,MESH:D011014,7,Air Pollutants|Arsenic|bisphenol A|Cadmium|Cisplatin|Cyclophosphamide|Particulate Matter,0,
+malate dehydrogenase activity,GO:0016615,"Pneumonia, Pneumocystis",MESH:D011020,1,Cyclophosphamide,0,
+malate dehydrogenase activity,GO:0016615,"Pneumonia, Viral",MESH:D011024,1,Particulate Matter,0,
+malic enzyme activity,GO:0004470,Pneumonia,MESH:D011014,4,Cisplatin|Copper Sulfate|Dietary Fats|Zinc,0,
+maltose alpha-glucosidase activity,GO:0032450,Pneumonia,MESH:D011014,3,bisphenol A|Nickel|Paraquat,0,
+MAP kinase activity,GO:0004707,Pneumonia,MESH:D011014,4,Cadmium|Cisplatin|Dronabinol|Sodium Selenite,0,
+MAP kinase activity,GO:0004707,"Pneumonia, Pneumococcal",MESH:D011018,0,,2,MAPK1|MAPK3
+metal chelating activity,GO:0046911,"Pneumonia, Pneumocystis",MESH:D011020,1,Hydrogen Peroxide,0,
+metal ion binding,GO:0046872,Pneumonia,MESH:D011014,0,,7,EGR1|HMOX1|ITGB2|LIAS|MYLK|PARP1|SIRT1
+metal ion binding,GO:0046872,"Pneumonia, Aspiration",MESH:D011015,0,,1,NOS2
+metal ion binding,GO:0046872,"Pneumonia, Pneumococcal",MESH:D011018,0,,2,MASP2|SIRT1
+metal ion binding,GO:0046872,"Pneumonia, Viral",MESH:D011024,0,,1,ACE
+metallocarboxypeptidase activity,GO:0004181,"Pneumonia, Viral",MESH:D011024,0,,1,ACE
+metallodipeptidase activity,GO:0070573,"Pneumonia, Viral",MESH:D011024,0,,1,ACE
+metalloendopeptidase activity,GO:0004222,Pneumonia,MESH:D011014,0,,1,PARP1
+metalloendopeptidase activity,GO:0004222,"Pneumonia, Viral",MESH:D011024,0,,1,ACE
+metallopeptidase activity,GO:0008237,Pneumonia,MESH:D011014,1,Tobacco Smoke Pollution,0,
+metallopeptidase activity,GO:0008237,"Pneumonia, Viral",MESH:D011024,0,,1,ACE
+methylated-DNA-[protein]-cysteine S-methyltransferase activity,GO:0003908,Pneumonia,MESH:D011014,0,,1,AGT
+methylated histone binding,GO:0035064,Bronchopneumonia,MESH:D001996,1,Particulate Matter,0,
+methylated histone binding,GO:0035064,Pneumonia,MESH:D011014,2,Particulate Matter|Vehicle Emissions,0,
+methylated histone binding,GO:0035064,"Pneumonia, Viral",MESH:D011024,1,Particulate Matter,0,
+methyltransferase activity,GO:0008168,Pneumonia,MESH:D011014,1,Ozone,1,TNFRSF1B
+microtubule motor activity,GO:0003777,"Pneumonia, Pneumocystis",MESH:D011020,1,Hydrogen Peroxide,0,
+mitogen-activated protein kinase binding,GO:0051019,Pneumonia,MESH:D011014,0,,1,SIRT1
+mitogen-activated protein kinase binding,GO:0051019,"Pneumonia, Pneumococcal",MESH:D011018,0,,2,MAPK3|SIRT1
+mitogen-activated protein kinase binding,GO:0051019,"Pneumonia, Viral",MESH:D011024,0,,1,ACE
+mitogen-activated protein kinase kinase binding,GO:0031434,"Pneumonia, Viral",MESH:D011024,0,,1,ACE
+mitogen-activated protein kinase kinase kinase binding,GO:0031435,"Pneumonia, Pneumococcal",MESH:D011018,0,,1,MAPK1
+molecular adaptor activity,GO:0060090,Pneumonia,MESH:D011014,0,,1,MYD88
+molecular_function,GO:0003674,Pneumonia,MESH:D011014,0,,1,POMC
+monoamine oxidase activity,GO:0097621,Pneumonia,MESH:D011014,3,bisphenol A|Cadmium|gossypin,0,
+monoatomic cation channel activity,GO:0005261,Pneumonia,MESH:D011014,1,Lipopolysaccharides,0,
+monodehydroascorbate reductase (NADH) activity,GO:0016656,Pneumonia,MESH:D011014,1,Cadmium Chloride,0,
+mRNA base-pairing translational repressor activity,GO:1903231,Pneumonia,MESH:D011014,0,,1,MIR150
+mRNA cap binding,GO:0098808,Pneumonia,MESH:D011014,1,Cisplatin,0,
+myosin light chain kinase activity,GO:0004687,Pneumonia,MESH:D011014,0,,1,MYLK
+NAD+ ADP-ribosyltransferase activity,GO:0003950,Pneumonia,MESH:D011014,1,Paraquat,1,PARP1
+NAD binding,GO:0051287,Pneumonia,MESH:D011014,0,,1,PARP1
+NAD+ binding,GO:0070403,Pneumonia,MESH:D011014,0,,1,SIRT1
+NAD+ binding,GO:0070403,"Pneumonia, Pneumococcal",MESH:D011018,0,,1,SIRT1
+NAD-dependent histone deacetylase activity,GO:0017136,Pneumonia,MESH:D011014,0,,1,SIRT1
+NAD-dependent histone deacetylase activity,GO:0017136,"Pneumonia, Pneumococcal",MESH:D011018,0,,1,SIRT1
+NAD-dependent histone decrotonylase activity,GO:0160012,Pneumonia,MESH:D011014,0,,1,SIRT1
+NAD-dependent histone decrotonylase activity,GO:0160012,"Pneumonia, Pneumococcal",MESH:D011018,0,,1,SIRT1
+NAD-dependent histone H3K14 deacetylase activity,GO:0032041,Pneumonia,MESH:D011014,0,,1,SIRT1
+NAD-dependent histone H3K14 deacetylase activity,GO:0032041,"Pneumonia, Pneumococcal",MESH:D011018,0,,1,SIRT1
+NAD-dependent histone H3K18 deacetylase activity,GO:0097372,Pneumonia,MESH:D011014,0,,1,SIRT1
+NAD-dependent histone H3K18 deacetylase activity,GO:0097372,"Pneumonia, Pneumococcal",MESH:D011018,0,,1,SIRT1
+NAD-dependent histone H3K56 deacetylase activity,GO:0140765,Pneumonia,MESH:D011014,0,,1,SIRT1
+NAD-dependent histone H3K56 deacetylase activity,GO:0140765,"Pneumonia, Pneumococcal",MESH:D011018,0,,1,SIRT1
+NAD-dependent histone H3K9 deacetylase activity,GO:0046969,Pneumonia,MESH:D011014,0,,1,SIRT1
+NAD-dependent histone H3K9 deacetylase activity,GO:0046969,"Pneumonia, Pneumococcal",MESH:D011018,0,,1,SIRT1
+NAD-dependent histone H4K16 deacetylase activity,GO:0046970,Pneumonia,MESH:D011014,0,,1,SIRT1
+NAD-dependent histone H4K16 deacetylase activity,GO:0046970,"Pneumonia, Pneumococcal",MESH:D011018,0,,1,SIRT1
+NAD-dependent protein deacetylase activity,GO:0034979,Pneumonia,MESH:D011014,0,,1,SIRT1
+NAD-dependent protein deacetylase activity,GO:0034979,"Pneumonia, Pneumococcal",MESH:D011018,0,,1,SIRT1
+NAD DNA ADP-ribosyltransferase activity,GO:0140294,Pneumonia,MESH:D011014,0,,1,PARP1
+NADH dehydrogenase (ubiquinone) activity,GO:0008137,Bronchopneumonia,MESH:D001996,1,Particulate Matter,0,
+NADH dehydrogenase (ubiquinone) activity,GO:0008137,Pneumonia,MESH:D011014,28,"acetovanillone|Acrolein|Air Pollutants|Arsenic|bisphenol A|Cadmium|Cadmium Chloride|Cisplatin|Copper Sulfate|Cyclophosphamide|Dietary Fats|Dronabinol|Glyphosate|Lipopolysaccharides|Minocycline|naringin|N-(oxo-5,6-dihydrophenanthridin-2-yl)-N,N-dimethylacetamide hydrochloride|Oxygen|Ozone|Paraquat|Particulate Matter|Rosiglitazone|Sirolimus|Sodium Selenite|Soot|ST2825|Taurine|Vehicle Emissions",0,
+NADH dehydrogenase (ubiquinone) activity,GO:0008137,"Pneumonia, Aspiration",MESH:D011015,1,Chlorpromazine,0,
+NADH dehydrogenase (ubiquinone) activity,GO:0008137,"Pneumonia, Pneumocystis",MESH:D011020,2,Cyclophosphamide|Hydrogen Peroxide,0,
+NADH dehydrogenase (ubiquinone) activity,GO:0008137,"Pneumonia, Viral",MESH:D011024,1,Particulate Matter,0,
+NAD+-histone H2BE18 glutamate ADP-ribosyltransferase activity,GO:0140867,Pneumonia,MESH:D011014,0,,1,PARP1
+NAD+-histone H2BE2 glutamate ADP-ribosyltransferase activity,GO:0140844,Pneumonia,MESH:D011014,0,,1,PARP1
+NAD+-histone H2BE35 glutamate ADP-ribosyltransferase activity,GO:0140822,Pneumonia,MESH:D011014,0,,1,PARP1
+NAD+-histone H2BS6 serine ADP-ribosyltransferase activity,GO:0140816,Pneumonia,MESH:D011014,0,,1,PARP1
+NAD+-histone H3S10 serine ADP-ribosyltransferase activity,GO:0140817,Pneumonia,MESH:D011014,0,,1,PARP1
+"NAD+ nucleotidase, cyclic ADP-ribose generating",GO:0061809,Pneumonia,MESH:D011014,0,,2,IL1R1|TLR4
+NADP binding,GO:0050661,"Pneumonia, Aspiration",MESH:D011015,0,,1,NOS2
+NADPH-hemoprotein reductase activity,GO:0003958,Pneumonia,MESH:D011014,1,Taurine,0,
+NAD(P)H oxidase H2O2-forming activity,GO:0016174,Bronchopneumonia,MESH:D001996,1,Particulate Matter,0,
+NAD(P)H oxidase H2O2-forming activity,GO:0016174,Pneumonia,MESH:D011014,5,acetovanillone|Air Pollutants|Cisplatin|Lipopolysaccharides|Particulate Matter,0,
+NAD(P)H oxidase H2O2-forming activity,GO:0016174,"Pneumonia, Pneumocystis",MESH:D011020,1,Hydrogen Peroxide,0,
+NAD(P)H oxidase H2O2-forming activity,GO:0016174,"Pneumonia, Viral",MESH:D011024,1,Particulate Matter,0,
+NAD+-protein ADP-ribosyltransferase activity,GO:1990404,Pneumonia,MESH:D011014,0,,1,PARP1
+NAD+-protein ADP-ribosyltransferase activity,GO:1990404,"Pneumonia, Pneumocystis",MESH:D011020,1,Hydrogen Peroxide,0,
+NAD+- protein-aspartate ADP-ribosyltransferase activity,GO:0140806,Pneumonia,MESH:D011014,0,,1,PARP1
+NAD+-protein-glutamate ADP-ribosyltransferase activity,GO:0140807,Pneumonia,MESH:D011014,0,,1,PARP1
+NAD+-protein-histidine ADP-ribosyltransferase activity,GO:0140815,Pneumonia,MESH:D011014,0,,1,PARP1
+NAD+-protein-serine ADP-ribosyltransferase activity,GO:0140805,Pneumonia,MESH:D011014,0,,1,PARP1
+NAD+-protein-tyrosine ADP-ribosyltransferase activity,GO:0140808,Pneumonia,MESH:D011014,0,,1,PARP1
+neuropeptide hormone activity,GO:0005184,Pneumonia,MESH:D011014,0,,1,POMC
+NF-kappaB binding,GO:0051059,Pneumonia,MESH:D011014,1,Lipopolysaccharides,0,
+NF-kappaB binding,GO:0051059,"Pneumonia, Mycoplasma",MESH:D011019,1,platycodin D,0,
+nitric-oxide synthase activity,GO:0004517,Pneumonia,MESH:D011014,8,"Asbestos, Crocidolite|bisphenol A|Cadmium|Caffeine|Dietary Fats|Paraquat|Sulfur Dioxide|Tobacco Smoke Pollution",0,
+nitric-oxide synthase activity,GO:0004517,"Pneumonia, Aspiration",MESH:D011015,0,,1,NOS2
+nitric-oxide synthase binding,GO:0050998,"Pneumonia, Aspiration",MESH:D011015,0,,1,NOS2
+nuclear estrogen receptor activity,GO:0030284,Pneumonia,MESH:D011014,1,bisphenol A,0,
+nuclear estrogen receptor binding,GO:0030331,Pneumonia,MESH:D011014,0,,1,PARP1
+nuclear receptor activity,GO:0004879,Pneumonia,MESH:D011014,1,bisphenol A,1,AHR
+nuclear receptor binding,GO:0016922,Pneumonia,MESH:D011014,0,,1,SIRT1
+nuclear receptor binding,GO:0016922,"Pneumonia, Pneumococcal",MESH:D011018,0,,1,SIRT1
+nucleic acid binding,GO:0003676,Pneumonia,MESH:D011014,0,,1,CCR6
+nucleosome binding,GO:0031491,Pneumonia,MESH:D011014,0,,1,PARP1
+nucleotide binding,GO:0000166,Pneumonia,MESH:D011014,0,,2,ABCF1|IKBKB
+nucleotide binding,GO:0000166,"Pneumonia, Pneumococcal",MESH:D011018,0,,2,MAPK1|MAPK3
+nucleotidyltransferase activity,GO:0016779,Pneumonia,MESH:D011014,0,,1,PARP1
+nutrient reservoir activity,GO:0045735,Bronchopneumonia,MESH:D001996,1,Particulate Matter,0,
+nutrient reservoir activity,GO:0045735,Pneumonia,MESH:D011014,2,Air Pollutants|Particulate Matter,0,
+nutrient reservoir activity,GO:0045735,"Pneumonia, Viral",MESH:D011024,1,Particulate Matter,0,
+oncostatin-M receptor activity,GO:0004924,Pneumonia,MESH:D011014,0,,1,IL6ST
+ornithine decarboxylase inhibitor activity,GO:0008073,Pneumonia,MESH:D011014,2,Carmustine|Vinblastine,0,
+oxidoreductase activity,GO:0016491,"Pneumonia, Aspiration",MESH:D011015,0,,1,NOS2
+"oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, reduced flavin or flavoprotein as one donor, and incorporation of one atom of oxygen",GO:0016712,Pneumonia,MESH:D011014,1,bisphenol A,0,
+oxoglutarate dehydrogenase (succinyl-transferring) activity,GO:0004591,Pneumonia,MESH:D011014,2,Cadmium|Cyclophosphamide,0,
+oxoglutarate dehydrogenase (succinyl-transferring) activity,GO:0004591,"Pneumonia, Pneumocystis",MESH:D011020,1,Cyclophosphamide,0,
+oxygen binding,GO:0019825,Pneumonia,MESH:D011014,1,Taurine,0,
+p53 binding,GO:0002039,Pneumonia,MESH:D011014,0,,1,SIRT1
+p53 binding,GO:0002039,"Pneumonia, Pneumococcal",MESH:D011018,0,,1,SIRT1
+pentosyltransferase activity,GO:0016763,Pneumonia,MESH:D011014,0,,1,PARP1
+peptidase activator activity involved in apoptotic process,GO:0016505,Bronchopneumonia,MESH:D001996,1,Vancomycin,0,
+peptidase activator activity involved in apoptotic process,GO:0016505,Pneumonia,MESH:D011014,4,"2,4-Dichlorophenoxyacetic Acid|Cisplatin|Gefitinib|Vancomycin",0,
+peptidase activator activity involved in apoptotic process,GO:0016505,"Pneumonia, Bacterial",MESH:D018410,1,Vancomycin,0,
+peptidase activator activity involved in apoptotic process,GO:0016505,"Pneumonia, Pneumococcal",MESH:D011018,1,Vancomycin,0,
+peptidase activator activity involved in apoptotic process,GO:0016505,"Pneumonia, Pneumocystis",MESH:D011020,1,Hydrogen Peroxide,0,
+peptidase activator activity involved in apoptotic process,GO:0016505,"Pneumonia, Staphylococcal",MESH:D011023,1,Vancomycin,0,
+peptidase activity,GO:0008233,Bronchopneumonia,MESH:D001996,1,Particulate Matter,0,
+peptidase activity,GO:0008233,Pneumonia,MESH:D011014,3,Particulate Matter|titanium dioxide|Vehicle Emissions,1,CASP1
+peptidase activity,GO:0008233,"Pneumonia, Pneumococcal",MESH:D011018,0,,1,MASP2
+peptidase activity,GO:0008233,"Pneumonia, Viral",MESH:D011024,1,Particulate Matter,1,ACE
+peptidyl-dipeptidase activity,GO:0008241,"Pneumonia, Viral",MESH:D011024,0,,1,ACE
+peroxidase activity,GO:0004601,Pneumonia,MESH:D011014,2,Arsenic|bisphenol A,0,
+peroxidase activity,GO:0004601,"Pneumonia, Mycoplasma",MESH:D011019,1,platycodin D,0,
+phosphatase activity,GO:0016791,Pneumonia,MESH:D011014,3,Cadmium|Cadmium Chloride|Tungsten,0,
+phosphatase binding,GO:0019902,"Pneumonia, Pneumococcal",MESH:D011018,0,,2,MAPK1|MAPK3
+phosphatidylinositol 3-kinase binding,GO:0043548,Pneumonia,MESH:D011014,0,,1,TLR4
+"phosphatidylinositol-4,5-bisphosphate binding",GO:0005546,Pneumonia,MESH:D011014,0,,1,MYD88
+"phosphatidylinositol-4,5-bisphosphate binding",GO:0005546,"Pneumonia, Pneumococcal",MESH:D011018,0,,1,DEFB4A
+phosphatidylinositol phospholipase C activity,GO:0004435,Pneumonia,MESH:D011014,0,,1,CCR1
+phosphoenolpyruvate carboxykinase activity,GO:0004611,Pneumonia,MESH:D011014,2,Arsenic|Styrene,0,
+phosphofructokinase activity,GO:0008443,Pneumonia,MESH:D011014,2,Acrolein|bisphenol A,0,
+phospholipase A2 activity,GO:0004623,Pneumonia,MESH:D011014,3,Cadmium|Dexamethasone|Indomethacin,0,
+phospholipase activator activity,GO:0016004,Pneumonia,MESH:D011014,0,,2,CCL12|CCL8
+phospholipase D activity,GO:0004630,Pneumonia,MESH:D011014,0,,1,HMOX1
+phosphotyrosine residue binding,GO:0001784,"Pneumonia, Pneumococcal",MESH:D011018,0,,2,MAPK1|MAPK3
+platelet-derived growth factor receptor binding,GO:0005161,Pneumonia,MESH:D011014,0,,1,IL1R1
+promoter-specific chromatin binding,GO:1990841,Pneumonia,MESH:D011014,0,,2,EGR1|SIRT1
+promoter-specific chromatin binding,GO:1990841,"Pneumonia, Pneumococcal",MESH:D011018,0,,1,SIRT1
+prostaglandin-endoperoxide synthase activity,GO:0004666,Bronchopneumonia,MESH:D001996,1,Particulate Matter,0,
+prostaglandin-endoperoxide synthase activity,GO:0004666,Pneumonia,MESH:D011014,2,"Cholesterol, Dietary|Particulate Matter",0,
+prostaglandin-endoperoxide synthase activity,GO:0004666,"Pneumonia, Viral",MESH:D011024,1,Particulate Matter,0,
+protease binding,GO:0002020,Pneumonia,MESH:D011014,0,,3,IL1R1|TNF|TNFRSF1A
+proteasome binding,GO:0070628,Pneumonia,MESH:D011014,1,Formaldehyde,0,
+proteasome binding,GO:0070628,"Pneumonia, Aspiration",MESH:D011015,1,Formaldehyde,0,
+protein binding,GO:0005515,Pneumonia,MESH:D011014,0,,54,ABCF1|AGT|AHR|CASP1|CCL11|CCL17|CCL19|CCL2|CCL20|CCL24|CCL4|CCL7|CCL8|CCR1|CCR2|CCR6|CCR9|CD40LG|CSF2|CX3CL1|CXCL1|CXCL5|CXCL9|CXCR2|CXCR3|EGR1|HMOX1|IFNG|IKBKB|IL13|IL17A|IL18|IL1B|IL1R1|IL1R2|IL2RB|IL33|IL4|IL5RA|IL6|IL6ST|ITGB2|MYD88|MYLK|PARP1|PF4|POMC|SIRT1|SPP1|TGFB1|TLR4|TNF|TNFRSF1A|TNFRSF1B
+protein binding,GO:0005515,"Pneumonia, Aspiration",MESH:D011015,0,,1,NOS2
+protein binding,GO:0005515,"Pneumonia, Pneumococcal",MESH:D011018,0,,6,CXCL8|DEFB4A|MAPK1|MAPK3|MASP2|SIRT1
+protein binding,GO:0005515,"Pneumonia, Viral",MESH:D011024,0,,1,ACE
+protein-containing complex binding,GO:0044877,Pneumonia,MESH:D011014,0,,4,IKBKB|ITGB2|TGFB1|TNFRSF1A
+protein dimerization activity,GO:0046983,Pneumonia,MESH:D011014,0,,3,AHR|CCL11|PARP1
+protein disulfide isomerase activity,GO:0003756,Pneumonia,MESH:D011014,1,bisphenol A,0,
+protein domain specific binding,GO:0019904,Pneumonia,MESH:D011014,0,,2,IL1B|SIRT1
+protein domain specific binding,GO:0019904,"Pneumonia, Pneumococcal",MESH:D011018,0,,1,SIRT1
+protein-glutamine gamma-glutamyltransferase activity,GO:0003810,Pneumonia,MESH:D011014,7,Cadmium|Cadmium Chloride|Cisplatin|Cyclophosphamide|naringin|titanium dioxide|Ursodeoxycholic Acid,0,
+protein-glutamine gamma-glutamyltransferase activity,GO:0003810,"Pneumonia, Pneumocystis",MESH:D011020,1,Cyclophosphamide,0,
+protein heterodimerization activity,GO:0046982,Pneumonia,MESH:D011014,0,,4,AHR|IKBKB|IL17A|TLR4
+protein homodimerization activity,GO:0042803,Pneumonia,MESH:D011014,0,,5,AHR|HMOX1|IKBKB|IL17A|PARP1
+protein homodimerization activity,GO:0042803,"Pneumonia, Aspiration",MESH:D011015,0,,1,NOS2
+protein homodimerization activity,GO:0042803,"Pneumonia, Viral",MESH:D011024,0,,1,ACE
+protein kinase activity,GO:0004672,Pneumonia,MESH:D011014,0,,5,CCL12|CCL2|CCL8|IKBKB|MYLK
+protein kinase activity,GO:0004672,"Pneumonia, Pneumococcal",MESH:D011018,0,,2,MAPK1|MAPK3
+protein kinase B binding,GO:0043422,Pneumonia,MESH:D011014,0,,1,SIRT1
+protein kinase B binding,GO:0043422,"Pneumonia, Pneumococcal",MESH:D011018,0,,1,SIRT1
+protein kinase binding,GO:0019901,Pneumonia,MESH:D011014,0,,3,IKBKB|ITGB2|PARP1
+protein kinase binding,GO:0019901,"Pneumonia, Aspiration",MESH:D011015,0,,1,NOS2
+protein kinase binding,GO:0019901,"Pneumonia, Pneumococcal",MESH:D011018,0,,1,MAPK1
+protein kinase C activity,GO:0004697,Pneumonia,MESH:D011014,2,"N-(oxo-5,6-dihydrophenanthridin-2-yl)-N,N-dimethylacetamide hydrochloride|Paraquat",0,
+protein lysine deacetylase activity,GO:0033558,Pneumonia,MESH:D011014,1,Paraquat,1,SIRT1
+protein lysine deacetylase activity,GO:0033558,"Pneumonia, Pneumococcal",MESH:D011018,0,,1,SIRT1
+protein phosphatase binding,GO:0019903,Pneumonia,MESH:D011014,0,,1,IKBKB
+protein-propionyllysine depropionylase activity,GO:0106231,Pneumonia,MESH:D011014,0,,1,SIRT1
+protein-propionyllysine depropionylase activity,GO:0106231,"Pneumonia, Pneumococcal",MESH:D011018,0,,1,SIRT1
+protein serine kinase activity,GO:0106310,Pneumonia,MESH:D011014,0,,1,IKBKB
+protein serine kinase activity,GO:0106310,"Pneumonia, Pneumococcal",MESH:D011018,0,,2,MAPK1|MAPK3
+protein serine/threonine kinase activator activity,GO:0043539,Pneumonia,MESH:D011014,0,,2,CD40LG|TGFB1
+protein serine/threonine kinase activity,GO:0004674,Pneumonia,MESH:D011014,0,,1,IKBKB
+protein serine/threonine kinase activity,GO:0004674,"Pneumonia, Pneumococcal",MESH:D011018,0,,2,MAPK1|MAPK3
+protein serine/threonine phosphatase inhibitor activity,GO:0004865,Pneumonia,MESH:D011014,0,,1,ABCF1
+protein tyrosine kinase activator activity,GO:0030296,Pneumonia,MESH:D011014,0,,1,IL6ST
+protein tyrosine phosphatase activity,GO:0004725,Bronchopneumonia,MESH:D001996,1,Particulate Matter,0,
+protein tyrosine phosphatase activity,GO:0004725,Pneumonia,MESH:D011014,2,Particulate Matter|Vehicle Emissions,0,
+protein tyrosine phosphatase activity,GO:0004725,"Pneumonia, Viral",MESH:D011024,1,Particulate Matter,0,
+"proton-transporting ATPase activity, rotational mechanism",GO:0046961,Pneumonia,MESH:D011014,3,Arsenic|Taurine|Zinc,0,
+"proton-transporting ATPase activity, rotational mechanism",GO:0046961,"Pneumonia, Aspiration",MESH:D011015,1,Chlorpromazine,0,
+"proton-transporting ATP synthase activity, rotational mechanism",GO:0046933,Bronchopneumonia,MESH:D001996,1,Particulate Matter,0,
+"proton-transporting ATP synthase activity, rotational mechanism",GO:0046933,Pneumonia,MESH:D011014,2,Air Pollutants|Particulate Matter,0,
+"proton-transporting ATP synthase activity, rotational mechanism",GO:0046933,"Pneumonia, Viral",MESH:D011024,1,Particulate Matter,0,
+P-type calcium transporter activity,GO:0005388,Pneumonia,MESH:D011014,6,Arsenic|bisphenol A|Cadmium|Cadmium Chloride|Lipopolysaccharides|Tobacco Smoke Pollution,0,
+P-type magnesium transporter activity,GO:0015444,Pneumonia,MESH:D011014,3,Arsenic|Cadmium|Cadmium Chloride,0,
+P-type sodium:potassium-exchanging transporter activity,GO:0005391,Pneumonia,MESH:D011014,16,Arsenic|bisphenol A|Cadmium|Cadmium Chloride|cupric oxide|Dietary Fats|Glyphosate|Indomethacin|Lipopolysaccharides|Manganese|polyhexamethyleneguanidine|Silicon Dioxide|Taurine|Tobacco Smoke Pollution|Zinc|Zinc Sulfate,0,
+P-type sodium:potassium-exchanging transporter activity,GO:0005391,"Pneumonia, Aspiration",MESH:D011015,1,Chlorpromazine,0,
+pyruvate dehydrogenase (acetyl-transferring) activity,GO:0004739,Pneumonia,MESH:D011014,1,Dietary Fats,0,
+pyruvate dehydrogenase activity,GO:0004738,Pneumonia,MESH:D011014,1,Dietary Fats,0,
+pyruvate kinase activity,GO:0004743,Bronchopneumonia,MESH:D001996,1,Particulate Matter,0,
+pyruvate kinase activity,GO:0004743,Pneumonia,MESH:D011014,3,Air Pollutants|Cadmium Chloride|Particulate Matter,0,
+pyruvate kinase activity,GO:0004743,"Pneumonia, Viral",MESH:D011024,1,Particulate Matter,0,
+receptor ligand activity,GO:0048018,Pneumonia,MESH:D011014,0,,7,AGT|CCL11|CCL24|IL18|IL1B|PF4|TNF
+Rho-dependent protein serine/threonine kinase activity,GO:0072518,Pneumonia,MESH:D011014,3,"Asbestos, Crocidolite|Dronabinol|Oxygen",1,IKBKB
+ribosomal protein S6 kinase activity,GO:0004711,Pneumonia,MESH:D011014,0,,1,IKBKB
+ribosome binding,GO:0043022,Pneumonia,MESH:D011014,0,,1,ABCF1
+RNA polymerase II cis-regulatory region sequence-specific DNA binding,GO:0000978,Pneumonia,MESH:D011014,1,Tobacco Smoke Pollution,2,EGR1|SIRT1
+RNA polymerase II cis-regulatory region sequence-specific DNA binding,GO:0000978,"Pneumonia, Pneumococcal",MESH:D011018,0,,1,SIRT1
+RNA polymerase II core promoter sequence-specific DNA binding,GO:0000979,Pneumonia,MESH:D011014,0,,1,EGR1
+RNA polymerase II CTD heptapeptide repeat kinase activity,GO:0008353,"Pneumonia, Pneumococcal",MESH:D011018,0,,1,MAPK1
+RNA polymerase II-specific DNA-binding transcription factor binding,GO:0061629,Pneumonia,MESH:D011014,0,,2,AHR|PARP1
+RNA polymerase II transcription regulatory region sequence-specific DNA binding,GO:0000977,Pneumonia,MESH:D011014,0,,1,EGR1
+R-SMAD binding,GO:0070412,Pneumonia,MESH:D011014,0,,1,PARP1
+scaffold protein binding,GO:0097110,Pneumonia,MESH:D011014,0,,4,CASP1|IKBKB|IL6ST|MYLK
+scaffold protein binding,GO:0097110,"Pneumonia, Pneumococcal",MESH:D011018,0,,1,MAPK3
+scavenger receptor activity,GO:0005044,Pneumonia,MESH:D011014,0,,2,CCR6|CCR9
+sequence-specific DNA binding,GO:0043565,Pneumonia,MESH:D011014,0,,2,AHR|EGR1
+sequence-specific double-stranded DNA binding,GO:1990837,Pneumonia,MESH:D011014,0,,2,AHR|EGR1
+serine-type endopeptidase activity,GO:0004252,"Pneumonia, Pneumococcal",MESH:D011018,0,,1,MASP2
+serine-type endopeptidase inhibitor activity,GO:0004867,Pneumonia,MESH:D011014,0,,2,AGT|OVAL
+serine-type peptidase activity,GO:0008236,"Pneumonia, Pneumococcal",MESH:D011018,0,,1,MASP2
+signaling adaptor activity,GO:0035591,Pneumonia,MESH:D011014,0,,1,MYD88
+signaling receptor activity,GO:0038023,Pneumonia,MESH:D011014,0,,5,CCR6|CXCR3|TLR4|TNFRSF1A|TNFRSF1B
+signaling receptor binding,GO:0005102,Pneumonia,MESH:D011014,0,,8,CCL17|CCL2|CX3CL1|CXCL1|IL6|MYD88|POMC|TLR4
+single-stranded RNA binding,GO:0003727,Pneumonia,MESH:D011014,0,,1,IL6ST
+small molecule binding,GO:0036094,Pneumonia,MESH:D011014,0,,1,SPP1
+sodium channel activity,GO:0005272,Pneumonia,MESH:D011014,1,Cadmium,0,
+sodium channel regulator activity,GO:0017080,Pneumonia,MESH:D011014,0,,1,AGT
+starch synthase activity,GO:0009011,Pneumonia,MESH:D011014,1,Dietary Fats,0,
+steroid 17-alpha-monooxygenase activity,GO:0004508,Pneumonia,MESH:D011014,1,Dipyrone,0,
+"steroid dehydrogenase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor",GO:0033764,Pneumonia,MESH:D011014,1,Cyclophosphamide,0,
+"steroid dehydrogenase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor",GO:0033764,"Pneumonia, Pneumocystis",MESH:D011020,1,Cyclophosphamide,0,
+steroid hydroxylase activity,GO:0008395,Pneumonia,MESH:D011014,1,bisphenol A,0,
+structural molecule activity,GO:0005198,Pneumonia,MESH:D011014,0,,1,HMOX1
+succinate dehydrogenase activity,GO:0000104,Pneumonia,MESH:D011014,12,Arsenic|bisphenol A|Cadmium|Cisplatin|cupric oxide|Cyclophosphamide|Dietary Fats|Lipopolysaccharides|Niacin|Tobacco Smoke Pollution|Zinc|Zinc Oxide,0,
+succinate dehydrogenase activity,GO:0000104,"Pneumonia, Pneumocystis",MESH:D011020,2,Cyclophosphamide|Hydrogen Peroxide,0,
+succinate dehydrogenase (ubiquinone) activity,GO:0008177,Pneumonia,MESH:D011014,15,"acetovanillone|Arsenic|bisphenol A|Cadmium|Cadmium Chloride|Cisplatin|Copper Sulfate|Cyclophosphamide|Dietary Fats|Dronabinol|endotoxin, Escherichia coli|naringin|Oxygen|Paraquat|Sirolimus",0,
+succinate dehydrogenase (ubiquinone) activity,GO:0008177,"Pneumonia, Pneumocystis",MESH:D011020,1,Cyclophosphamide,0,
+sucrose alpha-glucosidase activity,GO:0004575,Pneumonia,MESH:D011014,4,bisphenol A|Nickel|Paraquat|ST2825,0,
+sulfate binding,GO:0043199,"Pneumonia, Viral",MESH:D011024,0,,1,ACE
+superoxide dismutase activity,GO:0004784,Bronchopneumonia,MESH:D001996,6,"Furosemide|Nanotubes, Carbon|Ovalbumin|Oxytetracycline|Particulate Matter|Vancomycin",0,
+superoxide dismutase activity,GO:0004784,Pneumonia,MESH:D011014,76,"2,4-Dichlorophenoxyacetic Acid|acetovanillone|Acrolein|Air Pollutants|Amiodarone|Arsenic|Asbestos, Crocidolite|bisphenol A|Bleomycin|Butylated Hydroxytoluene|Cadmium|Cadmium Chloride|Capsaicin|Cefuroxime|Cholesterol, Dietary|Cilostazol|Ciprofloxacin|Cisplatin|Cocaine|Copper Sulfate|cupric oxide|Cyclophosphamide|Dexamethasone|Dietary Fats|Dronabinol|Dust|endotoxin, Escherichia coli|Farnesol|Formaldehyde|Gefitinib|Gentamicins|Glyphosate|gossypin|Indomethacin|Iron|lipopolysaccharide, E. coli O26-B6|lipopolysaccharide, Escherichia coli O111 B4|Lipopolysaccharides|Magnetite Nanoparticles|Manganese|Methotrexate|Micafungin|Nanotubes, Carbon|naringin|Niacin|Nickel|Ovalbumin|Oxygen|Ozone|Paclitaxel|Paraquat|Particulate Matter|Prednisolone|Rosiglitazone|salvianolic acid B|Sildenafil Citrate|Silicon Dioxide|Sirolimus|Smoke|Sodium Selenite|Soot|ST2825|Styrene|Sulfasalazine|Sulfur Dioxide|Taurine|titanium dioxide|Tobacco Smoke Pollution|triptolide|Vanadium|Vancomycin|Vehicle Emissions|Venlafaxine Hydrochloride|Zinc|Zinc Oxide|Zinc Sulfate",0,
+superoxide dismutase activity,GO:0004784,"Pneumonia, Aspiration",MESH:D011015,4,Diazepam|Formaldehyde|Hydrochloric Acid|S-methylisothiopseudouronium,0,
+superoxide dismutase activity,GO:0004784,"Pneumonia, Bacterial",MESH:D018410,4,Ciprofloxacin|Dust|Gentamicins|Vancomycin,0,
+superoxide dismutase activity,GO:0004784,"Pneumonia, Lipid",MESH:D011017,1,Glycerol,0,
+superoxide dismutase activity,GO:0004784,"Pneumonia, Pneumococcal",MESH:D011018,2,Rifampin|Vancomycin,0,
+superoxide dismutase activity,GO:0004784,"Pneumonia, Pneumocystis",MESH:D011020,4,Cyclophosphamide|Hydrogen Peroxide|Methotrexate|Prednisolone,0,
+superoxide dismutase activity,GO:0004784,"Pneumonia, Staphylococcal",MESH:D011023,1,Vancomycin,0,
+superoxide dismutase activity,GO:0004784,"Pneumonia, Viral",MESH:D011024,1,Particulate Matter,0,
+superoxide-generating NADPH oxidase activator activity,GO:0016176,Pneumonia,MESH:D011014,0,,1,AGT
+superoxide-generating NADPH oxidase activity,GO:0106292,Pneumonia,MESH:D011014,3,bisphenol A|Cadmium Chloride|Gentamicins,0,
+superoxide-generating NADPH oxidase activity,GO:0106292,"Pneumonia, Bacterial",MESH:D018410,1,Gentamicins,0,
+TBP-class protein binding,GO:0017025,Pneumonia,MESH:D011014,0,,1,AHR
+telomerase activity,GO:0003720,Bronchopneumonia,MESH:D001996,1,Particulate Matter,0,
+telomerase activity,GO:0003720,Pneumonia,MESH:D011014,3,Air Pollutants|bisphenol A|Particulate Matter,0,
+telomerase activity,GO:0003720,"Pneumonia, Viral",MESH:D011024,1,Particulate Matter,0,
+testosterone 6-beta-hydroxylase activity,GO:0050649,Pneumonia,MESH:D011014,2,Amiodarone|Dexamethasone,0,
+testosterone dehydrogenase [NAD(P)] activity,GO:0030283,Pneumonia,MESH:D011014,1,bisphenol A,0,
+tetrahydrobiopterin binding,GO:0034617,"Pneumonia, Aspiration",MESH:D011015,0,,1,NOS2
+TFIID-class transcription factor complex binding,GO:0001094,Pneumonia,MESH:D011014,0,,1,AHR
+thioredoxin-disulfide reductase activity,GO:0004791,Pneumonia,MESH:D011014,4,acetovanillone|Cadmium|Cisplatin|Iron,0,
+TIR domain binding,GO:0070976,Pneumonia,MESH:D011014,0,,1,MYD88
+Toll binding,GO:0005121,Pneumonia,MESH:D011014,0,,1,MYD88
+Toll-like receptor 4 binding,GO:0035662,Pneumonia,MESH:D011014,1,"lipopolysaccharide, Escherichia coli O111 B4",0,
+Toll-like receptor binding,GO:0035325,Pneumonia,MESH:D011014,0,,1,MYD88
+toxic substance binding,GO:0015643,Pneumonia,MESH:D011014,0,,1,AHR
+transaminase activity,GO:0008483,Pneumonia,MESH:D011014,2,Arsenic|Glyphosate,0,
+transcription cis-regulatory region binding,GO:0000976,Pneumonia,MESH:D011014,0,,3,AHR|EGR1|TNF
+transcription coactivator activity,GO:0003713,Pneumonia,MESH:D011014,0,,1,SIRT1
+transcription coactivator activity,GO:0003713,"Pneumonia, Pneumococcal",MESH:D011018,0,,1,SIRT1
+transcription coactivator binding,GO:0001223,Pneumonia,MESH:D011014,0,,2,AHR|SIRT1
+transcription coactivator binding,GO:0001223,"Pneumonia, Pneumococcal",MESH:D011018,0,,1,SIRT1
+transcription corepressor activity,GO:0003714,Pneumonia,MESH:D011014,0,,1,SIRT1
+transcription corepressor activity,GO:0003714,"Pneumonia, Pneumococcal",MESH:D011018,0,,1,SIRT1
+transcription regulator activator activity,GO:0140537,Pneumonia,MESH:D011014,0,,1,PARP1
+transferase activity,GO:0016740,Pneumonia,MESH:D011014,0,,4,IKBKB|LIAS|PARP1|SIRT1
+transferase activity,GO:0016740,"Pneumonia, Pneumococcal",MESH:D011018,0,,3,MAPK1|MAPK3|SIRT1
+transferrin receptor binding,GO:1990459,Pneumonia,MESH:D011014,0,,1,IKBKB
+transforming growth factor beta receptor binding,GO:0005160,Pneumonia,MESH:D011014,0,,1,TGFB1
+translation activator activity,GO:0008494,Pneumonia,MESH:D011014,0,,1,ABCF1
+"translation factor activity, RNA binding",GO:0008135,Pneumonia,MESH:D011014,0,,1,ABCF1
+transmembrane signaling receptor activity,GO:0004888,Pneumonia,MESH:D011014,0,,3,IL1R1|TLR4|TNFRSF1B
+trehalase activity,GO:0015927,Pneumonia,MESH:D011014,1,Ozone,0,
+triglyceride lipase activity,GO:0004806,Pneumonia,MESH:D011014,1,Dietary Fats,0,
+tripeptidyl-peptidase activity,GO:0008240,"Pneumonia, Viral",MESH:D011024,0,,1,ACE
+"tryptophan 2,3-dioxygenase activity",GO:0004833,Pneumonia,MESH:D011014,3,Cadmium|Cadmium Chloride|Cyclophosphamide,0,
+"tryptophan 2,3-dioxygenase activity",GO:0004833,"Pneumonia, Pneumocystis",MESH:D011020,1,Cyclophosphamide,0,
+tumor necrosis factor binding,GO:0043120,Pneumonia,MESH:D011014,0,,2,TNFRSF1A|TNFRSF1B
+tumor necrosis factor receptor activity,GO:0005031,Pneumonia,MESH:D011014,0,,2,TNFRSF1A|TNFRSF1B
+tumor necrosis factor receptor binding,GO:0005164,Pneumonia,MESH:D011014,0,,2,CD40LG|TNF
+type 1 angiotensin receptor binding,GO:0031702,Pneumonia,MESH:D011014,0,,1,AGT
+type 1 melanocortin receptor binding,GO:0070996,Pneumonia,MESH:D011014,0,,1,POMC
+type 2 angiotensin receptor binding,GO:0031703,Pneumonia,MESH:D011014,0,,1,AGT
+type 3 melanocortin receptor binding,GO:0031781,Pneumonia,MESH:D011014,0,,1,POMC
+type 4 melanocortin receptor binding,GO:0031782,Pneumonia,MESH:D011014,0,,1,POMC
+type II interferon receptor binding,GO:0005133,Pneumonia,MESH:D011014,0,,1,IFNG
+type III transforming growth factor beta receptor binding,GO:0034714,Pneumonia,MESH:D011014,0,,1,TGFB1
+type II transforming growth factor beta receptor binding,GO:0005114,Pneumonia,MESH:D011014,0,,1,TGFB1
+type I transforming growth factor beta receptor binding,GO:0034713,Pneumonia,MESH:D011014,0,,1,TGFB1
+tyrosinase activity,GO:0004503,Pneumonia,MESH:D011014,1,bisphenol A,0,
+ubiquinol-cytochrome-c reductase activity,GO:0008121,Pneumonia,MESH:D011014,10,Arsenic|bisphenol A|Cadmium|Cadmium Chloride|Cisplatin|Cyclophosphamide|naringin|Oxygen|Paraquat|Sirolimus,0,
+ubiquinol-cytochrome-c reductase activity,GO:0008121,"Pneumonia, Aspiration",MESH:D011015,1,Chlorpromazine,0,
+ubiquinol-cytochrome-c reductase activity,GO:0008121,"Pneumonia, Pneumocystis",MESH:D011020,1,Cyclophosphamide,0,
+ubiquitin protein ligase binding,GO:0031625,Pneumonia,MESH:D011014,0,,3,IL6ST|PARP1|TNFRSF1B
+voltage-gated calcium channel activity,GO:0005245,Pneumonia,MESH:D011014,2,bisphenol A|Cadmium Chloride,0,
+voltage-gated channel activity,GO:0022832,Bronchopneumonia,MESH:D001996,1,Furosemide,0,
+voltage-gated potassium channel activity,GO:0005249,Pneumonia,MESH:D011014,1,bisphenol A,0,
+voltage-gated sodium channel activity,GO:0005248,Pneumonia,MESH:D011014,1,bisphenol A,0,
+voltage-gated sodium channel activity involved in cardiac muscle cell action potential,GO:0086006,Pneumonia,MESH:D011014,1,bisphenol A,0,
+xanthine oxidase activity,GO:0004855,Pneumonia,MESH:D011014,1,Zinc,0,
+zinc ion binding,GO:0008270,Pneumonia,MESH:D011014,1,Arsenic,3,EGR1|MYLK|PARP1
+zinc ion binding,GO:0008270,"Pneumonia, Viral",MESH:D011024,0,,1,ACE

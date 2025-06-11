@@ -1,0 +1,528 @@
+GOName,GOID,DiseaseName,DiseaseID,InferenceChemicalQty,InferenceChemicalNames,InferenceGeneQty,InferenceGeneSymbols
+acrosomal vesicle,GO:0001669,Obesity,MESH:D009765,0,,1,ADCY3
+acrosomal vesicle,GO:0001669,"Obesity, Morbid",MESH:D009767,0,,1,ADCY3
+actin cytoskeleton,GO:0015629,Obesity,MESH:D009765,0,,1,CNR1
+actin filament,GO:0005884,Obesity,MESH:D009765,1,Cadmium,1,GAS7
+actin filament,GO:0005884,Pediatric Obesity,MESH:D063766,1,Cadmium,0,
+actin filament bundle,GO:0032432,Obesity,MESH:D009765,1,Particulate Matter,0,
+actin filament bundle,GO:0032432,"Obesity, Abdominal",MESH:D056128,1,Particulate Matter,0,
+adherens junction,GO:0005912,Obesity,MESH:D009765,0,,1,A
+AIM2 inflammasome complex,GO:0097169,Obesity,MESH:D009765,0,,1,CASP1
+alveolar lamellar body,GO:0097208,Obesity,MESH:D009765,2,Acetylcysteine|Particulate Matter,0,
+alveolar lamellar body,GO:0097208,"Obesity, Abdominal",MESH:D056128,1,Particulate Matter,0,
+apical cytoplasm,GO:0090651,Obesity,MESH:D009765,0,,1,ADCY3
+apical cytoplasm,GO:0090651,"Obesity, Morbid",MESH:D009767,0,,1,ADCY3
+apical dendrite,GO:0097440,Obesity,MESH:D009765,0,,2,ENPP1|NEGR1
+apical part of cell,GO:0045177,Obesity,MESH:D009765,0,,4,HSD11B1|LDLR|RAPGEF3|VLDLR
+apical part of cell,GO:0045177,"Obesity, Abdominal",MESH:D056128,0,,1,HSD11B1
+apical plasma membrane,GO:0016324,Obesity,MESH:D009765,0,,12,A|ADRB2|DCXR|GNAS|IGFBP2|KCNMA1|LDLR|SLC22A1|SLC22A2|SLC22A3|TF|VLDLR
+apical plasma membrane,GO:0016324,"Obesity, Morbid",MESH:D009767,0,,1,KCNMA1
+apoptosome,GO:0043293,Obesity,MESH:D009765,0,,1,CYCS
+apoptotic body,GO:0097189,Obesity,MESH:D009765,4,Cadmium|Diethylhexyl Phthalate|evodiamine|Quercetin,0,
+apoptotic body,GO:0097189,"Obesity, Abdominal",MESH:D056128,1,Letrozole,0,
+apoptotic body,GO:0097189,Pediatric Obesity,MESH:D063766,1,Cadmium,0,
+aryl hydrocarbon receptor complex,GO:0034751,Obesity,MESH:D009765,0,,1,AHR
+autolysosome,GO:0044754,Obesity,MESH:D009765,8,Cadmium|Curcumin|Dietary Fats|Glucose|Metformin|qidan|Sertraline|Taurine,1,FTL
+autolysosome,GO:0044754,"Obesity, Abdominal",MESH:D056128,1,Dietary Fats,0,
+autolysosome,GO:0044754,Pediatric Obesity,MESH:D063766,1,Cadmium,0,
+autophagosome,GO:0005776,Obesity,MESH:D009765,10,Atrazine|Berberine|Cadmium|Diethylhexyl Phthalate|Glucose|Lead|Metformin|Polystyrenes|Resveratrol|Taurine,1,FTL
+autophagosome,GO:0005776,Pediatric Obesity,MESH:D063766,1,Cadmium,0,
+axolemma,GO:0030673,Obesity,MESH:D009765,0,,1,ACHE
+axon,GO:0030424,Obesity,MESH:D009765,0,,12,ACADM|ACHE|ADRB2|CNR1|GHRL|HTR2A|NEGR1|NPY1R|NTRK2|SDC3|SIRT1|TNFRSF1B
+axon,GO:0030424,"Obesity, Hyperphagia, and Developmental Delay",MESH:C563938,0,,1,NTRK2
+axon,GO:0030424,"Obesity, Morbid",MESH:D009767,0,,1,BDNF
+axonal spine,GO:0044308,Obesity,MESH:D009765,1,Cadmium,0,
+axonal spine,GO:0044308,Pediatric Obesity,MESH:D063766,1,Cadmium,0,
+axon cytoplasm,GO:1904115,Obesity,MESH:D009765,0,,2,RAB21|SOD1
+axoneme,GO:0005930,Obesity,MESH:D009765,0,,2,INPP5E|PRKAR1A
+axon terminus,GO:0043679,Obesity,MESH:D009765,0,,5,CCL2|GLUL|NTRK2|PCSK1|RAPGEF3
+axon terminus,GO:0043679,"Obesity, Hyperphagia, and Developmental Delay",MESH:C563938,0,,1,NTRK2
+azurophil granule lumen,GO:0035578,Obesity,MESH:D009765,0,,2,ACLY|FTL
+azurophil granule membrane,GO:0035577,Obesity,MESH:D009765,0,,1,CD68
+basal dendrite,GO:0097441,Obesity,MESH:D009765,0,,1,ENPP1
+basal part of cell,GO:0045178,Obesity,MESH:D009765,0,,1,TF
+basal plasma membrane,GO:0009925,Obesity,MESH:D009765,0,,4,RAPGEF3|SLC22A1|SLC22A2|TF
+basement membrane,GO:0005604,Obesity,MESH:D009765,0,,2,ACHE|TF
+basolateral part of cell,GO:1990794,Obesity,MESH:D009765,0,,1,RAPGEF3
+basolateral plasma membrane,GO:0016323,Obesity,MESH:D009765,0,,9,AQP7|ENPP1|LDLR|LEPR|SLC16A7|SLC22A1|SLC22A2|SLC22A3|TFRC
+basolateral plasma membrane,GO:0016323,"Obesity, Morbid",MESH:D009767,0,,1,LEPR
+blood microparticle,GO:0072562,Pediatric Obesity,MESH:D063766,0,,1,APOA5
+brush border,GO:0005903,Obesity,MESH:D009765,0,,1,DCXR
+brush border membrane,GO:0031526,Obesity,MESH:D009765,0,,2,AQP7|RAPGEF3
+Cajal body,GO:0015030,Obesity,MESH:D009765,0,,1,PARP1
+cAMP-dependent protein kinase complex,GO:0005952,Obesity,MESH:D009765,0,,2,PRKAR1A|PRKAR2B
+catalytic complex,GO:1902494,Obesity,MESH:D009765,0,,1,LPL
+CatSper complex,GO:0036128,Obesity,MESH:D009765,1,bisphenol A,0,
+CatSper complex,GO:0036128,"Obesity, Abdominal",MESH:D056128,1,bisphenol A,0,
+caveola,GO:0005901,Obesity,MESH:D009765,0,,7,ADRB2|HMOX1|HTR2A|IRS1|KCNMA1|LDLR|PTGS2
+caveola,GO:0005901,"Obesity, Morbid",MESH:D009767,0,,1,KCNMA1
+CD40 receptor complex,GO:0035631,Obesity,MESH:D009765,0,,2,CD40|TNFRSF1B
+C/EBP complex,GO:1990647,Obesity,MESH:D009765,0,,1,CEBPA
+cell body,GO:0044297,Obesity,MESH:D009765,0,,3,ENPP1|GLUL|GNB3
+cell body fiber,GO:0070852,Obesity,MESH:D009765,0,,1,HTR2A
+cell-cell junction,GO:0005911,Obesity,MESH:D009765,2,bisphenol A|bisphenol S,5,AKT1|AQP7|NEGR1|NTRK2|PRKCH
+cell-cell junction,GO:0005911,"Obesity, Abdominal",MESH:D056128,3,bisphenol A|bisphenol F|bisphenol S,0,
+cell-cell junction,GO:0005911,"Obesity, Hyperphagia, and Developmental Delay",MESH:C563938,0,,1,NTRK2
+cell-cell junction,GO:0005911,Pediatric Obesity,MESH:D063766,1,bisphenol S,0,
+cell cortex,GO:0005938,Obesity,MESH:D009765,0,,1,AKT1
+cell junction,GO:0030054,Obesity,MESH:D009765,0,,1,NAMPT
+cell periphery,GO:0071944,Obesity,MESH:D009765,0,,2,ADIPOQ|PLIN1
+cell projection,GO:0042995,MORBID OBESITY AND SPERMATOGENIC FAILURE,OMIM:615703,0,,1,CEP19
+cell projection,GO:0042995,Obesity,MESH:D009765,0,,5,CNR1|ENPP1|GLUL|HTR2A|TRPV1
+cell surface,GO:0009986,Obesity,MESH:D009765,1,deoxynivalenol,24,ACHE|ADIPOQ|APOE|CD163|CD40|CTSS|EFNB1|ENPP1|ENTPD6|HSPA5|HTR2C|ICAM1|ITGAM|LBP|LDLR|LPL|MRC1|NTRK2|SDC3|TF|TFRC|TNF|VLDLR|WNT3A
+cell surface,GO:0009986,"Obesity, Hyperphagia, and Developmental Delay",MESH:C563938,0,,1,NTRK2
+cell surface,GO:0009986,Pediatric Obesity,MESH:D063766,0,,1,APOA1
+cell tip,GO:0051286,Obesity,MESH:D009765,0,,1,TF
+cellular_component,GO:0005575,Obesity,MESH:D009765,0,,4,DCXR|FTO|MIR34A|RMST
+cellular_component,GO:0005575,Pediatric Obesity,MESH:D063766,0,,1,FTO
+centriolar satellite,GO:0034451,Obesity,MESH:D009765,0,,1,FASN
+centriole,GO:0005814,MORBID OBESITY AND SPERMATOGENIC FAILURE,OMIM:615703,0,,1,CEP19
+centriole,GO:0005814,Obesity,MESH:D009765,0,,1,FASN
+centrosome,GO:0005813,MORBID OBESITY AND SPERMATOGENIC FAILURE,OMIM:615703,0,,1,CEP19
+centrosome,GO:0005813,Obesity,MESH:D009765,0,,4,HK2|NEIL1|PRKAR1A|PRKAR2B
+C-fiber,GO:0044299,Obesity,MESH:D009765,0,,1,CCL2
+cholinergic synapse,GO:0098981,Obesity,MESH:D009765,0,,1,SLC22A2
+CHOP-ATF3 complex,GO:1990622,Obesity,MESH:D009765,0,,1,DDIT3
+CHOP-ATF4 complex,GO:1990617,Obesity,MESH:D009765,0,,1,DDIT3
+CHOP-C/EBP complex,GO:0036488,Obesity,MESH:D009765,0,,2,CEBPA|DDIT3
+chromaffin granule,GO:0042583,Obesity,MESH:D009765,0,,1,SERPINE1
+chromatin,GO:0000785,Abdominal obesity metabolic syndrome,MESH:C535554,0,,1,PPARA
+chromatin,GO:0000785,Obesity,MESH:D009765,0,,21,AHR|CEBPA|DDIT3|EP300|ESR1|FOS|FOXO3|HMGB2|HOXB5|NHLH2|NR0B2|NR1I2|NR1I3|PARP1|PPARA|PPARD|PPARG|SERPINE1|SIRT1|SREBF1|ZFHX3
+chromatin silencing complex,GO:0005677,Obesity,MESH:D009765,0,,1,SIRT1
+chromosome,GO:0005694,ABDOMINAL OBESITY-METABOLIC SYNDROME 3,OMIM:615812,0,,1,DYRK1B
+chromosome,GO:0005694,Obesity,MESH:D009765,0,,4,HMGB2|NEIL1|PARP1|ZNF169
+chylomicron,GO:0042627,Obesity,MESH:D009765,0,,2,APOE|LPL
+chylomicron,GO:0042627,Pediatric Obesity,MESH:D063766,0,,1,APOA5
+chylomicron remnant,GO:0034360,Obesity,MESH:D009765,0,,1,APOE
+ciliary basal body,GO:0036064,MORBID OBESITY AND SPERMATOGENIC FAILURE,OMIM:615703,0,,1,CEP19
+ciliary basal body,GO:0036064,Obesity,MESH:D009765,0,,5,ACLY|ADH1B|ADRB2|AKT1|IRS1
+ciliary base,GO:0097546,Obesity,MESH:D009765,0,,3,INPP5E|PRKAR1A|PRKAR2B
+ciliary membrane,GO:0060170,Obesity,MESH:D009765,0,,1,ADCY3
+ciliary membrane,GO:0060170,"Obesity, Morbid",MESH:D009767,0,,1,ADCY3
+ciliary necklace,GO:0097538,Obesity,MESH:D009765,0,,1,ADCY3
+ciliary necklace,GO:0097538,"Obesity, Morbid",MESH:D009767,0,,1,ADCY3
+cilium,GO:0005929,MORBID OBESITY AND SPERMATOGENIC FAILURE,OMIM:615703,0,,1,CEP19
+cilium,GO:0005929,Obesity,MESH:D009765,0,,5,ADCY3|ADH1B|ADRB2|AKT1|INPP5E
+cilium,GO:0005929,"Obesity, Morbid",MESH:D009767,0,,1,ADCY3
+cilium,GO:0005929,RETINAL DYSTROPHY AND OBESITY,OMIM:616188,0,,1,TUB
+clathrin-coated endocytic vesicle membrane,GO:0030669,Obesity,MESH:D009765,0,,5,ADRB2|APOE|LDLR|TF|TFRC
+clathrin-coated pit,GO:0005905,Obesity,MESH:D009765,0,,4,LDLR|TF|TFRC|VLDLR
+cleavage furrow,GO:0032154,Obesity,MESH:D009765,0,,1,RAB21
+collagen-containing extracellular matrix,GO:0062023,Obesity,MESH:D009765,0,,4,ANGPTL4|F2|GH1|SERPINE1
+collagen trimer,GO:0005581,Obesity,MESH:D009765,0,,1,ADIPOQ
+condensed chromosome,GO:0000793,Obesity,MESH:D009765,0,,1,HMGB2
+COP9 signalosome,GO:0008180,Obesity,MESH:D009765,0,,1,HSPA5
+COPI-coated Golgi to ER transport vesicle,GO:0030142,Obesity,MESH:D009765,0,,1,GNAS
+COPI-coated vesicle,GO:0030137,Obesity,MESH:D009765,0,,1,PACS1
+cortical actin cytoskeleton,GO:0030864,Obesity,MESH:D009765,0,,1,RAPGEF3
+cortical granule,GO:0060473,Obesity,MESH:D009765,2,Glutathione|Resveratrol,0,
+creatine kinase complex,GO:0002185,Obesity,MESH:D009765,1,Taurine,0,
+cytoplasm,GO:0005737,MORBID OBESITY AND SPERMATOGENIC FAILURE,OMIM:615703,0,,1,CEP19
+cytoplasm,GO:0005737,Obesity,MESH:D009765,0,,78,ACADM|ACLY|ADCY3|AHR|AKAP1|AKR1C3|AKT1|ALDH1L1|APOE|AQP7|CA3|CASP1|CES1|CES1G|CIDEA|CNR1|CRP|CYP26B1|CYP2E1|DDIT3|DPYD|EFNB1|EP300|ESR1|FASN|FGF21|FGGY|FOS|FOXO3|FTL|FTO|GAS7|GCG|GHRL|GLUL|GNAS|GNB3|GNPDA2|GPX1|HADH|HK2|HMGB2|HSPA5|IDO1|INPP5E|IRS1|KITL|LEP|MC4R|ME1|MIR21|MMUT|NAMPT|NEIL1|NQO1|NR0B2|NR1I3|PARP1|PCK1|PCSK1|POMC|PPARG|PRKAR1A|PRKAR2B|PRKCH|PTGS2|PTPN1|RAI1|SAT1|SH2B1|SIRT1|SLC16A7|SOD1|SREBF1|SUCLA2|SUCLG2|TMEM18|ZFHX3
+cytoplasm,GO:0005737,"Obesity, Morbid",MESH:D009767,0,,5,ADCY3|BDNF|KSR2|LEP|MC4R
+cytoplasm,GO:0005737,Pediatric Obesity,MESH:D063766,0,,1,FTO
+cytoplasm,GO:0005737,RETINAL DYSTROPHY AND OBESITY,OMIM:616188,0,,1,TUB
+cytoplasmic microtubule,GO:0005881,Obesity,MESH:D009765,0,,1,DCXR
+cytoplasmic side of early endosome membrane,GO:0098559,Obesity,MESH:D009765,0,,1,RAB21
+cytoplasmic side of endoplasmic reticulum membrane,GO:0098554,Obesity,MESH:D009765,0,,1,PTPN1
+cytoplasmic side of plasma membrane,GO:0009898,Obesity,MESH:D009765,0,,1,RAB21
+cytoplasmic side of plasma membrane,GO:0009898,RETINAL DYSTROPHY AND OBESITY,OMIM:616188,0,,1,TUB
+cytoplasmic vesicle,GO:0031410,Obesity,MESH:D009765,1,Sucrose,9,CPE|HCRT|HTR2A|PCSK1|SOD1|SREBF1|TF|TFRC|VGF
+cytoplasmic vesicle,GO:0031410,"Obesity, Morbid",MESH:D009767,0,,1,BDNF
+cytoplasmic vesicle,GO:0031410,Pediatric Obesity,MESH:D063766,0,,1,APOA1
+cytoplasmic vesicle membrane,GO:0030659,Obesity,MESH:D009765,0,,1,AQP7
+cytoskeleton,GO:0005856,MORBID OBESITY AND SPERMATOGENIC FAILURE,OMIM:615703,0,,1,CEP19
+cytoskeleton,GO:0005856,Obesity,MESH:D009765,0,,3,FAAH|KITL|NR1I3
+cytosol,GO:0005829,MORBID OBESITY AND SPERMATOGENIC FAILURE,OMIM:615703,0,,1,CEP19
+cytosol,GO:0005829,Obesity,MESH:D009765,0,,76,ACACB|ACLY|ACP5|ADH1B|AHR|AKAP1|AKR1C3|AKT1|ALDH1L1|APOE|CA3|CASP1|CD163|CES1|CIDEA|CYB5A|CYCS|DCXR|DDIT3|DPYD|EP300|ESR1|ETFDH|FASN|FGF21|FOS|FOXO3|FTL|FTO|GFPT1|GLUL|GNAS|GNB3|GNPDA2|GPX1|HADH|HK2|HMOX1|HOXB5|HSPA5|HTR2A|IDO1|INPP5E|IRS1|LACTB|LEP|ME1|NAMPT|NEIL1|NQO1|NR1I3|NTRK2|OGG1|PACS1|PARP1|PCK1|PEX11A|PFKFB3|PLIN1|PPARG|PPARGC1B|PPM1L|PRKAR1A|PRKAR2B|PRKCH|PTGS2|PTPN1|RAB21|RAI1|SAT1|SH2B1|SIRT1|SLC16A7|SOD1|SREBF1|TBC1D1
+cytosol,GO:0005829,"Obesity, Hyperphagia, and Developmental Delay",MESH:C563938,0,,1,NTRK2
+cytosol,GO:0005829,"Obesity, Morbid",MESH:D009767,0,,2,KSR2|LEP
+cytosol,GO:0005829,Pediatric Obesity,MESH:D063766,0,,3,APOA1|APOA5|FTO
+cytosol,GO:0005829,RETINAL DYSTROPHY AND OBESITY,OMIM:616188,0,,1,TUB
+cytosolic aryl hydrocarbon receptor complex,GO:0034752,Obesity,MESH:D009765,0,,1,AHR
+dendrite,GO:0030425,Obesity,MESH:D009765,0,,18,ACHE|ADRB2|AKT1|APOE|CCL2|CPE|GNAS|GNB3|HTR2A|HTR2C|KCNMA1|NEGR1|NQO1|NTRK2|PCSK1|PRKAR2B|TF|TRPV1
+dendrite,GO:0030425,"Obesity, Hyperphagia, and Developmental Delay",MESH:C563938,0,,1,NTRK2
+dendrite,GO:0030425,"Obesity, Morbid",MESH:D009767,0,,2,BDNF|KCNMA1
+dendrite cytoplasm,GO:0032839,Obesity,MESH:D009765,0,,1,SOD1
+dendritic branch,GO:0044307,Obesity,MESH:D009765,1,bisphenol A,0,
+dendritic branch,GO:0044307,"Obesity, Abdominal",MESH:D056128,1,bisphenol A,0,
+dendritic cell dendrite,GO:0097511,Obesity,MESH:D009765,1,Chlorpyrifos,0,
+dendritic knob,GO:0098788,Obesity,MESH:D009765,0,,1,ADCY3
+dendritic knob,GO:0098788,"Obesity, Morbid",MESH:D009767,0,,1,ADCY3
+dendritic shaft,GO:0043198,Obesity,MESH:D009765,0,,4,HSPA5|HTR2A|NEGR1|PRKAR2B
+dendritic spine,GO:0043197,Obesity,MESH:D009765,2,bisphenol A|Dronabinol,4,ADRB2|NEGR1|NTRK2|PRKAR2B
+dendritic spine,GO:0043197,"Obesity, Abdominal",MESH:D056128,1,bisphenol A,0,
+dendritic spine,GO:0043197,"Obesity, Hyperphagia, and Developmental Delay",MESH:C563938,0,,1,NTRK2
+dendritic spine membrane,GO:0032591,Obesity,MESH:D009765,0,,1,TRPV1
+dense body,GO:0097433,Obesity,MESH:D009765,0,,1,TF
+dense core granule,GO:0031045,Obesity,MESH:D009765,0,,2,CPE|SOD1
+discoidal high-density lipoprotein particle,GO:0034365,Obesity,MESH:D009765,0,,1,APOE
+discoidal high-density lipoprotein particle,GO:0034365,Pediatric Obesity,MESH:D063766,0,,1,APOA1
+early endosome,GO:0005769,Obesity,MESH:D009765,0,,9,ADRB1|ADRB2|APOE|LDLR|NTRK2|PTPN1|RAB21|TF|TFRC
+early endosome,GO:0005769,"Obesity, Hyperphagia, and Developmental Delay",MESH:C563938,0,,1,NTRK2
+early endosome,GO:0005769,Pediatric Obesity,MESH:D063766,0,,2,APOA1|APOA5
+early endosome lumen,GO:0031905,Obesity,MESH:D009765,0,,1,CTSS
+early endosome membrane,GO:0031901,Obesity,MESH:D009765,0,,3,NTRK2|RAB21|WNT3A
+early endosome membrane,GO:0031901,"Obesity, Hyperphagia, and Developmental Delay",MESH:C563938,0,,1,NTRK2
+endocytic vesicle,GO:0030139,Obesity,MESH:D009765,0,,2,CCL2|TF
+endocytic vesicle,GO:0030139,Pediatric Obesity,MESH:D063766,0,,1,APOA1
+endocytic vesicle lumen,GO:0071682,Obesity,MESH:D009765,0,,1,APOE
+endocytic vesicle lumen,GO:0071682,Pediatric Obesity,MESH:D063766,0,,1,APOA1
+endocytic vesicle membrane,GO:0030666,Obesity,MESH:D009765,0,,2,CD163|WNT3A
+endolysosome lumen,GO:0036021,Obesity,MESH:D009765,0,,1,CTSS
+endolysosome membrane,GO:0036020,Obesity,MESH:D009765,0,,1,LDLR
+endomembrane system,GO:0012505,Obesity,MESH:D009765,0,,9,LDLR|NPC1|PCSK1|PTPN1|RAB21|RAPGEF3|SLC22A2|SLC22A3|VLDLR
+endoplasmic reticulum,GO:0005783,Obesity,MESH:D009765,1,Glutathione,26,ACSL1|ADIPOQ|AKAP1|APOE|BCHE|CES1|CES1G|CYB5A|CYP1B1|CYP26B1|CYP2E1|FOS|GLUL|HCRT|HMOX1|HSD11B1|HSPA5|KCNMA1|NPC1|PCK1|PLIN1|PTGS2|PTPN1|SCD1|SREBF1|STS
+endoplasmic reticulum,GO:0005783,"Obesity, Abdominal",MESH:D056128,0,,1,HSD11B1
+endoplasmic reticulum,GO:0005783,"Obesity, Morbid",MESH:D009767,0,,1,KCNMA1
+endoplasmic reticulum chaperone complex,GO:0034663,Obesity,MESH:D009765,0,,1,HSPA5
+endoplasmic reticulum-Golgi intermediate compartment,GO:0005793,Obesity,MESH:D009765,0,,1,HSPA5
+endoplasmic reticulum-Golgi intermediate compartment membrane,GO:0033116,Obesity,MESH:D009765,0,,1,INS
+endoplasmic reticulum lumen,GO:0005788,Obesity,MESH:D009765,0,,17,ACHE|APOE|BCHE|CES1|CES1G|F2|GCG|GHRL|HSPA5|IL6|INS|PCSK1|PTGS2|STS|TF|VGF|WNT3A
+endoplasmic reticulum lumen,GO:0005788,"Obesity, Morbid",MESH:D009767,0,,1,BDNF
+endoplasmic reticulum lumen,GO:0005788,Pediatric Obesity,MESH:D063766,0,,2,APOA1|APOA5
+endoplasmic reticulum membrane,GO:0005789,Obesity,MESH:D009765,0,,17,ACSL1|CYB5A|CYP1B1|CYP26B1|CYP2E1|FAAH|HMOX1|HSD11B1|HSPA5|KCNMA1|PPM1L|PTGS2|RAB21|SCD1|SREBF1|STS|TF
+endoplasmic reticulum membrane,GO:0005789,"Obesity, Abdominal",MESH:D056128,0,,1,HSD11B1
+endoplasmic reticulum membrane,GO:0005789,"Obesity, Morbid",MESH:D009767,0,,1,KCNMA1
+endosome,GO:0005768,Obesity,MESH:D009765,0,,11,ADRB2|APOE|CD68|GNAS|LDLR|NPC1|NTRK2|RAB21|STS|TF|TFRC
+endosome,GO:0005768,"Obesity, Hyperphagia, and Developmental Delay",MESH:C563938,0,,1,NTRK2
+endosome,GO:0005768,Pediatric Obesity,MESH:D063766,0,,1,APOA5
+endosome lumen,GO:0031904,Obesity,MESH:D009765,0,,3,GH1|INS|PTPN1
+endosome membrane,GO:0010008,Obesity,MESH:D009765,0,,6,ADRB2|CD68|LDLR|MRC1|TF|TFRC
+eNoSc complex,GO:0061773,Obesity,MESH:D009765,0,,1,SIRT1
+ER to Golgi transport vesicle membrane,GO:0012507,Obesity,MESH:D009765,0,,1,SREBF1
+ESC/E(Z) complex,GO:0035098,Obesity,MESH:D009765,0,,1,SIRT1
+euchromatin,GO:0000791,Obesity,MESH:D009765,0,,4,AFF4|ESR1|PARP1|SIRT1
+excitatory synapse,GO:0060076,Obesity,MESH:D009765,0,,1,NTRK2
+excitatory synapse,GO:0060076,"Obesity, Hyperphagia, and Developmental Delay",MESH:C563938,0,,1,NTRK2
+external side of plasma membrane,GO:0009897,Obesity,MESH:D009765,0,,15,ACHE|CD163|CD40|F2|HTR2C|ICAM1|IL6|ITGAM|KCNMA1|LDLR|LEPR|TFRC|TNF|TNFRSF1B|TRPV1
+external side of plasma membrane,GO:0009897,"Obesity, Morbid",MESH:D009767,0,,2,KCNMA1|LEPR
+extracellular exosome,GO:0070062,Obesity,MESH:D009765,0,,7,APOE|ICAM1|MIR21|MIR34A|SERPINE1|TFRC|WNT3A
+extracellular matrix,GO:0031012,Obesity,MESH:D009765,0,,2,APOE|MMP9
+extracellular matrix of synaptic cleft,GO:0098965,Obesity,MESH:D009765,0,,1,MMP9
+extracellular region,GO:0005576,Obesity,MESH:D009765,0,,56,ACHE|ACLY|ADIPOQ|AGRP|ANGPTL4|APOE|BCHE|CARTPT|CASP1|CCL2|CD163|CD40|CPB2|CPE|CRP|CTF1|CTSS|ENPP1|ENTPD6|F2|FCGR3B|FGF21|FTL|GCG|GH1|GHRL|GNAS|GPX3|HCRT|HMGB2|HSPA5|IGF2|IGFBP2|IL6|IL7|INS|KITL|LBP|LEP|LEPR|LPL|MMP9|NAMPT|NEGR1|NPC1|PMCH|POMC|PYY|SERPINE1|SOD1|TF|TFRC|TNF|TNFRSF1B|VGF|WNT3A
+extracellular region,GO:0005576,"Obesity, Morbid",MESH:D009767,0,,3,BDNF|LEP|LEPR
+extracellular region,GO:0005576,Pediatric Obesity,MESH:D063766,0,,3,APOA1|APOA5|CETP
+extracellular region,GO:0005576,RETINAL DYSTROPHY AND OBESITY,OMIM:616188,0,,1,TUB
+extracellular space,GO:0005615,Obesity,MESH:D009765,0,,55,A|ACHE|ACP5|ADIPOQ|AGRP|ANGPTL4|APOE|BCHE|CARTPT|CCL2|CD163|CD40|CPB2|CPE|CRP|CTF1|CTSS|ENPP1|ENTPD6|F2|FGF21|GCG|GH1|GHRL|GPX3|HMGB2|HMOX1|ICAM1|IGF2|IGFBP2|IL6|IL7|INS|ITGAM|KITL|LBP|LEP|LEPR|LPL|MIR21|MMP9|MTCH2|NAMPT|PCSK1|PMCH|POMC|PYY|SERPINE1|SOD1|TF|TFRC|TNF|VGF|VLDLR|WNT3A
+extracellular space,GO:0005615,"Obesity, Morbid",MESH:D009767,0,,3,BDNF|LEP|LEPR
+extracellular space,GO:0005615,Pediatric Obesity,MESH:D063766,0,,3,APOA1|APOA5|CETP
+extracellular vesicle,GO:1903561,Obesity,MESH:D009765,3,Cadmium|Lead|Vehicle Emissions,1,MIR21
+extracellular vesicle,GO:1903561,"Obesity, Abdominal",MESH:D056128,1,Air Pollutants,0,
+extracellular vesicle,GO:1903561,Pediatric Obesity,MESH:D063766,1,Cadmium,0,
+extrinsic component of external side of plasma membrane,GO:0031232,Obesity,MESH:D009765,0,,1,APOE
+extrinsic component of plasma membrane,GO:0019897,Obesity,MESH:D009765,0,,1,F2
+ferritin complex,GO:0070288,Obesity,MESH:D009765,1,bisphenol A,1,FTL
+ferritin complex,GO:0070288,"Obesity, Abdominal",MESH:D056128,1,bisphenol A,0,
+fibrillar center,GO:0001650,Obesity,MESH:D009765,0,,3,AFF4|HOXB5|SIRT1
+fibrinogen complex,GO:0005577,Obesity,MESH:D009765,1,Dietary Fats,0,
+fibrinogen complex,GO:0005577,"Obesity, Abdominal",MESH:D056128,1,Dietary Fats,0,
+ficolin-1-rich granule lumen,GO:1904813,Obesity,MESH:D009765,0,,3,ACLY|CTSS|MMP9
+filamentous actin,GO:0031941,Obesity,MESH:D009765,2,bisphenol A|Genistein,0,
+filamentous actin,GO:0031941,"Obesity, Abdominal",MESH:D056128,2,Air Pollutants|bisphenol A,0,
+filopodium,GO:0030175,Obesity,MESH:D009765,0,,3,CRP|KITL|RAPGEF3
+GABA-ergic synapse,GO:0098982,Obesity,MESH:D009765,0,,3,CNR1|NPY5R|TRPV1
+glial cell projection,GO:0097386,Obesity,MESH:D009765,0,,1,GLUL
+glomerular endothelium fenestra,GO:0036053,Obesity,MESH:D009765,1,Diethylnitrosamine,0,
+glutamatergic synapse,GO:0098978,Obesity,MESH:D009765,0,,20,ADRB2|AKT1|APOE|CNR1|EFNB1|FAAH|GHRL|HTR2A|KCNMA1|MMP9|NPY1R|NTRK2|PRKAR1A|PRKAR2B|PTPN1|SLC16A7|TFRC|VGF|VLDLR|WNT3A
+glutamatergic synapse,GO:0098978,"Obesity, Hyperphagia, and Developmental Delay",MESH:C563938,0,,1,NTRK2
+glutamatergic synapse,GO:0098978,"Obesity, Morbid",MESH:D009767,0,,2,BDNF|KCNMA1
+glycogen granule,GO:0042587,Obesity,MESH:D009765,0,,1,FASN
+Golgi apparatus,GO:0005794,Obesity,MESH:D009765,0,,16,ACHE|ADCY3|ADRB2|APOE|CPE|ENTPD6|ESR1|FASN|INPP5E|LDLR|NPC1|PACS1|RAB21|SREBF1|STS|VGF
+Golgi apparatus,GO:0005794,"Obesity, Morbid",MESH:D009767,0,,1,ADCY3
+Golgi apparatus,GO:0005794,Pediatric Obesity,MESH:D063766,0,,1,APOA5
+Golgi cisterna membrane,GO:0032580,Obesity,MESH:D009765,0,,2,INPP5E|RAB21
+Golgi lumen,GO:0005796,Obesity,MESH:D009765,0,,5,AGRP|F2|INS|SDC3|WNT3A
+Golgi membrane,GO:0000139,Obesity,MESH:D009765,0,,9,CYP2E1|ENTPD6|FAAH|INPP5E|INS|NTRK2|PCSK1|RAB21|SREBF1
+Golgi membrane,GO:0000139,"Obesity, Hyperphagia, and Developmental Delay",MESH:C563938,0,,1,NTRK2
+G protein-coupled serotonin receptor complex,GO:0098666,Obesity,MESH:D009765,0,,2,HTR2A|HTR2C
+growth cone,GO:0030426,Obesity,MESH:D009765,0,,5,CNR1|CRP|NTRK2|RAPGEF3|SIRT1
+growth cone,GO:0030426,"Obesity, Hyperphagia, and Developmental Delay",MESH:C563938,0,,1,NTRK2
+growth hormone receptor complex,GO:0070195,Obesity,MESH:D009765,0,,1,GH1
+heterochromatin,GO:0000792,Obesity,MESH:D009765,0,,1,SIRT1
+heterotrimeric G-protein complex,GO:0005834,Obesity,MESH:D009765,0,,2,GNAS|GNB3
+HFE-transferrin receptor complex,GO:1990712,Obesity,MESH:D009765,0,,2,TF|TFRC
+high-density lipoprotein particle,GO:0034364,Obesity,MESH:D009765,0,,1,APOE
+high-density lipoprotein particle,GO:0034364,Pediatric Obesity,MESH:D063766,0,,3,APOA1|APOA5|CETP
+hippocampal mossy fiber to CA3 synapse,GO:0098686,Obesity,MESH:D009765,0,,1,SLC16A7
+hippocampal mossy fiber to CA3 synapse,GO:0098686,"Obesity, Morbid",MESH:D009767,0,,1,BDNF
+histone acetyltransferase complex,GO:0000123,Obesity,MESH:D009765,0,,1,EP300
+histone locus body,GO:0035363,Obesity,MESH:D009765,0,,1,PARP1
+"IgA immunoglobulin complex, circulating",GO:0071746,Obesity,MESH:D009765,1,deoxynivalenol,0,
+"IgE immunoglobulin complex, circulating",GO:0071743,Obesity,MESH:D009765,4,bisphenol A|Manganese|Mercury|Particulate Matter,0,
+"IgE immunoglobulin complex, circulating",GO:0071743,"Obesity, Abdominal",MESH:D056128,3,Air Pollutants|bisphenol A|Particulate Matter,0,
+"IgG immunoglobulin complex, circulating",GO:0071736,Obesity,MESH:D009765,3,2-methyl-2H-pyrazole-3-carboxylic acid (2-methyl-4-o-tolylazophenyl)amide|deoxynivalenol|Tetrachlorodibenzodioxin,0,
+"IgG immunoglobulin complex, circulating",GO:0071736,"Obesity, Abdominal",MESH:D056128,1,Tetrachlorodibenzodioxin,0,
+immunological synapse,GO:0001772,Obesity,MESH:D009765,0,,2,ICAM1|PRKAR1A
+inflammasome complex,GO:0061702,Obesity,MESH:D009765,0,,1,CASP1
+inhibin B complex,GO:0043513,Obesity,MESH:D009765,1,bisphenol A,0,
+inhibin B complex,GO:0043513,"Obesity, Abdominal",MESH:D056128,1,bisphenol A,0,
+insulin receptor complex,GO:0005899,Obesity,MESH:D009765,0,,1,IRS1
+integrin alphaM-beta2 complex,GO:0034688,Obesity,MESH:D009765,0,,1,ITGAM
+integrin complex,GO:0008305,Obesity,MESH:D009765,0,,1,ITGAM
+intercellular bridge,GO:0045171,Obesity,MESH:D009765,0,,1,ADRB2
+interleukin-6 receptor complex,GO:0005896,Obesity,MESH:D009765,0,,1,IL6
+intermediate-density lipoprotein particle,GO:0034363,Obesity,MESH:D009765,0,,1,APOE
+intermediate-density lipoprotein particle,GO:0034363,Pediatric Obesity,MESH:D063766,0,,1,APOA1
+intermediate filament cytoskeleton,GO:0045111,Obesity,MESH:D009765,0,,1,NR1I2
+intracellular anatomical structure,GO:0005622,Obesity,MESH:D009765,0,,1,TNF
+intracellular membrane-bounded organelle,GO:0043231,Obesity,MESH:D009765,0,,20,CD40|CEBPA|CTSS|CYB5A|CYP1B1|CYP26B1|CYP2E1|FTO|HK2|HSD11B1|HSPA5|IRS1|LDLR|NR0B2|PCSK1|PPARG|PTGS2|STS|TFRC|VGF
+intracellular membrane-bounded organelle,GO:0043231,"Obesity, Abdominal",MESH:D056128,0,,1,HSD11B1
+intracellular membrane-bounded organelle,GO:0043231,Pediatric Obesity,MESH:D063766,0,,1,FTO
+ion channel complex,GO:0034702,Obesity,MESH:D009765,0,,1,KCNMA1
+ion channel complex,GO:0034702,"Obesity, Morbid",MESH:D009767,0,,1,KCNMA1
+IPAF inflammasome complex,GO:0072557,Obesity,MESH:D009765,0,,1,CASP1
+keratin filament,GO:0045095,Obesity,MESH:D009765,0,,1,GFPT1
+lamellipodium,GO:0030027,Obesity,MESH:D009765,0,,3,AKT1|KITL|RAPGEF3
+late endosome,GO:0005770,Obesity,MESH:D009765,0,,6,APOE|CTSS|DDIT3|LDLR|NEGR1|TF
+late endosome,GO:0005770,Pediatric Obesity,MESH:D063766,0,,1,APOA5
+late endosome membrane,GO:0031902,Obesity,MESH:D009765,0,,2,CD68|NPC1
+lateral plasma membrane,GO:0016328,Obesity,MESH:D009765,0,,2,SLC22A1|SLC22A2
+Lewy body,GO:0097413,Obesity,MESH:D009765,0,,1,GPX1
+lipid droplet,GO:0005811,Obesity,MESH:D009765,2,"Cholesterol, Dietary|Dietary Fats",7,AKAP1|AQP7|CES1|CES1G|CIDEA|PEX11A|PLIN1
+lipid droplet,GO:0005811,"Obesity, Abdominal",MESH:D056128,1,Dietary Fats,0,
+lipoprotein particle,GO:1990777,Obesity,MESH:D009765,0,,1,APOE
+low-density lipoprotein particle,GO:0034362,Obesity,MESH:D009765,0,,2,APOE|LDLR
+low-density lipoprotein particle,GO:0034362,Pediatric Obesity,MESH:D063766,0,,1,APOA1
+lysosomal lumen,GO:0043202,Obesity,MESH:D009765,0,,2,CTSS|SDC3
+lysosomal membrane,GO:0005765,Obesity,MESH:D009765,0,,3,CD68|NPC1|VLDLR
+lysosome,GO:0005764,Obesity,MESH:D009765,4,4-hydroxy-2-nonenal|Acetylcysteine|Manganese|tris(chloroethyl)phosphate,8,ACP5|ADRB2|CD68|CTSS|LDLR|NPC1|SOD1|STS
+m-AAA complex,GO:0005745,Obesity,MESH:D009765,0,,1,PARP1
+mediator complex,GO:0016592,Obesity,MESH:D009765,0,,1,PPARGC1B
+melanosome,GO:0042470,Obesity,MESH:D009765,0,,4,APOE|FASN|HSPA5|TFRC
+membrane,GO:0016020,Obesity,MESH:D009765,0,,86,ACHE|ACP5|ACSL1|ADCY3|ADRB1|ADRB2|ADRB3|AKAP1|AKT1|ALDH6A1|AQP7|ATPAF1|BCHE|CD163|CD40|CD68|CNR1|COX7C|CPE|CRP|CTSS|CYB5A|CYP26B1|DCXR|EFNB1|ENPP1|ENTPD6|ESR1|ETFDH|FAAH|FOXO3|GNAS|GPR17|HK2|HMOX1|HSPA5|HTR2A|HTR2C|ICAM1|INPP5E|ITGAM|KCNMA1|KCTD15|KITL|LACTB|LBP|LDLR|LEPR|MC4R|MRC1|MTCH2|NEGR1|NPC1|NPY1R|NPY5R|NTRK2|PARP1|PCSK1|PEX11A|PMCH|PPM1L|PRKAR1A|PTGS2|PTPN1|RAB21|RAPGEF3|SCD1|SDC3|SH2B1|SIRT3|SLC16A7|SLC22A1|SLC22A2|SLC22A3|SREBF1|STS|TF|TFRC|TMEM18|TNF|TNFRSF1B|TRPV1|UCP1|UCP2|UCP3|VLDLR
+membrane,GO:0016020,"Obesity, Hyperphagia, and Developmental Delay",MESH:C563938,0,,1,NTRK2
+membrane,GO:0016020,"Obesity, Morbid",MESH:D009767,0,,4,ADCY3|KCNMA1|LEPR|MC4R
+membrane,GO:0016020,Pediatric Obesity,MESH:D063766,0,,1,GPR17
+membrane raft,GO:0045121,Obesity,MESH:D009765,0,,8,ACHE|CNR1|EFNB1|ICAM1|ITGAM|NPC1|TNF|TNFRSF1B
+microspike,GO:0044393,Obesity,MESH:D009765,0,,1,SDC3
+microtubule,GO:0005874,Obesity,MESH:D009765,0,,2,APOE|CASP1
+microtubule cytoskeleton,GO:0015630,Obesity,MESH:D009765,0,,2,ADRB2|AKT1
+microvillus,GO:0005902,Obesity,MESH:D009765,0,,2,DCXR|RAPGEF3
+midbody,GO:0030496,Obesity,MESH:D009765,0,,1,HSPA5
+mitochondria-associated endoplasmic reticulum membrane,GO:0044233,Obesity,MESH:D009765,2,Cadmium|Particulate Matter,0,
+mitochondria-associated endoplasmic reticulum membrane,GO:0044233,"Obesity, Abdominal",MESH:D056128,2,Air Pollutants|Particulate Matter,0,
+mitochondria-associated endoplasmic reticulum membrane,GO:0044233,Pediatric Obesity,MESH:D063766,1,Cadmium,0,
+mitochondrial chromosome,GO:0000262,Obesity,MESH:D009765,1,bisphenol A,0,
+mitochondrial chromosome,GO:0000262,"Obesity, Abdominal",MESH:D056128,1,bisphenol A,0,
+mitochondrial crista,GO:0030061,Obesity,MESH:D009765,0,,2,AKAP1|PTPN1
+mitochondrial crista,GO:0030061,"Obesity, Morbid",MESH:D009767,0,,1,BDNF
+mitochondrial electron transfer flavoprotein complex,GO:0017133,Obesity,MESH:D009765,0,,1,ETFDH
+mitochondrial envelope,GO:0005740,Obesity,MESH:D009765,0,,2,CIDEA|UCP1
+mitochondrial fatty acid beta-oxidation multienzyme complex,GO:0016507,Obesity,MESH:D009765,0,,1,ACACB
+mitochondrial inner membrane,GO:0005743,Obesity,MESH:D009765,0,,10,ATPAF1|COX7C|CYCS|CYP2E1|ETFDH|SIRT3|UCP1|UCP2|UCP3|UQCRC2
+mitochondrial intermembrane space,GO:0005758,Obesity,MESH:D009765,0,,3,AKT1|CYCS|SOD1
+mitochondrial matrix,GO:0005759,Obesity,MESH:D009765,0,,15,ACADM|ALDH6A1|CS|ECHS1|FOXO3|GPX1|HADH|MMUT|OGG1|PTPN1|SIRT3|SOD1|SOD2|SUCLA2|SUCLG2
+mitochondrial membrane,GO:0031966,Obesity,MESH:D009765,3,Cadmium|Lead|Mercury,7,ACADM|COX7C|ETFDH|SLC22A3|UCP1|UCP2|UCP3
+mitochondrial membrane,GO:0031966,Pediatric Obesity,MESH:D063766,1,Cadmium,0,
+mitochondrial nucleoid,GO:0042645,Obesity,MESH:D009765,0,,1,SOD2
+mitochondrial outer membrane,GO:0005741,Obesity,MESH:D009765,0,,9,ACACB|ACSL1|AKAP1|CNR1|CYB5A|FOXO3|HK2|HMOX1|MTCH2
+mitochondrial permeability transition pore complex,GO:0005757,Obesity,MESH:D009765,2,Lead|Quercetin,0,
+mitochondrial permeability transition pore complex,GO:0005757,"Obesity, Abdominal",MESH:D056128,1,bisphenol F,0,
+mitochondrial respiratory chain complex I,GO:0005747,Obesity,MESH:D009765,1,Streptozocin,0,
+"mitochondrial respiratory chain complex II, succinate dehydrogenase complex (ubiquinone)",GO:0005749,Obesity,MESH:D009765,1,Streptozocin,0,
+mitochondrial respiratory chain complex IV,GO:0005751,Obesity,MESH:D009765,1,Streptozocin,0,
+mitochondrion,GO:0005739,Obesity,MESH:D009765,5,bisphenol S|Curcumin|Diethylhexyl Phthalate|Folic Acid|Particulate Matter,43,ACACB|ACADM|ACSL1|AKAP1|AKT1|ALDH1L1|ALDH6A1|ATPAF1|CASP1|CIDEA|CNR1|COX7C|CS|CYB5A|CYCS|CYP1B1|DCXR|ECHS1|ETFDH|FOXO3|GLUL|GPX1|HADH|HK2|HSPA5|LACTB|ME1|MMUT|MTCH2|OGG1|PARP1|PCK1|PPARGC1B|SIRT1|SIRT3|SOD1|SOD2|SUCLA2|SUCLG2|UCP1|UCP2|UCP3|UQCRC2
+mitochondrion,GO:0005739,"Obesity, Abdominal",MESH:D056128,3,bisphenol F|bisphenol S|Particulate Matter,0,
+mitochondrion,GO:0005739,Pediatric Obesity,MESH:D063766,1,bisphenol S,0,
+mitotic spindle,GO:0072686,Obesity,MESH:D009765,0,,1,ADRB2
+mucus layer,GO:0070701,Obesity,MESH:D009765,1,Particulate Matter,0,
+mucus layer,GO:0070701,"Obesity, Abdominal",MESH:D056128,1,Particulate Matter,0,
+multivesicular body,GO:0005771,Obesity,MESH:D009765,0,,2,APOE|PRKAR1A
+"multivesicular body, internal vesicle",GO:0097487,Obesity,MESH:D009765,0,,1,APOE
+myelin sheath,GO:0043209,Obesity,MESH:D009765,0,,1,GLUL
+NADH dehydrogenase complex,GO:0030964,Obesity,MESH:D009765,1,bisphenol A,0,
+NADH dehydrogenase complex,GO:0030964,"Obesity, Abdominal",MESH:D056128,1,bisphenol A,0,
+NADPH oxidase complex,GO:0043020,Obesity,MESH:D009765,1,Curcumin,0,
+neurofilament,GO:0005883,Obesity,MESH:D009765,0,,1,HTR2A
+neuromuscular junction,GO:0031594,Obesity,MESH:D009765,0,,3,ACHE|AKAP1|PRKAR1A
+neuronal cell body,GO:0043025,Obesity,MESH:D009765,1,bisphenol A,25,ACHE|ADCY3|AGRP|APOE|CCL2|CD40|CPE|ENPP1|GNAS|HSPA5|HTR2A|KCNMA1|NEGR1|NQO1|NTRK2|PCSK1|POMC|PRKAR2B|RAPGEF3|SLC22A3|SOD1|TNF|TNFRSF1B|TRPV1|VGF
+neuronal cell body,GO:0043025,"Obesity, Abdominal",MESH:D056128,1,bisphenol A,0,
+neuronal cell body,GO:0043025,"Obesity, Hyperphagia, and Developmental Delay",MESH:C563938,0,,1,NTRK2
+neuronal cell body,GO:0043025,"Obesity, Morbid",MESH:D009767,0,,3,ADCY3|BDNF|KCNMA1
+neuronal cell body membrane,GO:0032809,Obesity,MESH:D009765,0,,1,ADRB2
+neuronal dense core vesicle,GO:0098992,Obesity,MESH:D009765,0,,3,ADRB1|ADRB2|NPY1R
+neuronal dense core vesicle,GO:0098992,"Obesity, Morbid",MESH:D009767,0,,1,BDNF
+neuronal dense core vesicle lumen,GO:0099013,Obesity,MESH:D009765,0,,2,GHRL|HCRT
+neuron projection,GO:0043005,Obesity,MESH:D009765,3,Lead|tris(chloroethyl)phosphate|Valproic Acid,8,NEGR1|NPY1R|NPY5R|NTRK2|PCSK1|PTGS2|RAB21|TRPV1
+neuron projection,GO:0043005,"Obesity, Hyperphagia, and Developmental Delay",MESH:C563938,0,,1,NTRK2
+neuron projection terminus,GO:0044306,Obesity,MESH:D009765,0,,1,ACHE
+neutrophil extracellular trap,GO:0140644,Obesity,MESH:D009765,1,bisphenol A,0,
+neutrophil extracellular trap,GO:0140644,"Obesity, Abdominal",MESH:D056128,1,bisphenol A,0,
+NLRP1 inflammasome complex,GO:0072558,Obesity,MESH:D009765,0,,1,CASP1
+NLRP3 inflammasome complex,GO:0072559,Obesity,MESH:D009765,1,AM 251,1,CASP1
+nuclear aryl hydrocarbon receptor complex,GO:0034753,Obesity,MESH:D009765,1,Tetrachlorodibenzodioxin,1,AHR
+nuclear aryl hydrocarbon receptor complex,GO:0034753,"Obesity, Abdominal",MESH:D056128,1,Tetrachlorodibenzodioxin,0,
+nuclear body,GO:0016604,Obesity,MESH:D009765,0,,4,AFF4|NR1I2|PARP1|ZFHX3
+nuclear envelope,GO:0005635,Obesity,MESH:D009765,0,,7,ACHE|APOE|NPC1|PARP1|SIRT1|SREBF1|STS
+nuclear envelope lumen,GO:0005641,Obesity,MESH:D009765,0,,1,BCHE
+nuclear inner membrane,GO:0005637,Obesity,MESH:D009765,0,,2,PTGS2|SIRT1
+nuclear matrix,GO:0016363,Obesity,MESH:D009765,0,,3,CEBPA|FOS|OGG1
+nuclear membrane,GO:0031965,Obesity,MESH:D009765,0,,2,HSD11B1|TMEM18
+nuclear membrane,GO:0031965,"Obesity, Abdominal",MESH:D056128,0,,1,HSD11B1
+nuclear outer membrane,GO:0005640,Obesity,MESH:D009765,0,,2,PTGS2|SLC22A3
+nuclear replication fork,GO:0043596,Obesity,MESH:D009765,0,,1,PARP1
+nuclear speck,GO:0016607,Obesity,MESH:D009765,0,,3,FTO|NAMPT|OGG1
+nuclear speck,GO:0016607,Pediatric Obesity,MESH:D063766,0,,1,FTO
+nucleolus,GO:0005730,ABDOMINAL OBESITY-METABOLIC SYNDROME 3,OMIM:615812,0,,1,DYRK1B
+nucleolus,GO:0005730,Obesity,MESH:D009765,0,,7,CASP1|CEBPA|GH1|HMGB2|PARP1|SCD1|SIRT1
+nucleoplasm,GO:0005654,Abdominal obesity metabolic syndrome,MESH:C535554,0,,1,PPARA
+nucleoplasm,GO:0005654,ABDOMINAL OBESITY-METABOLIC SYNDROME 3,OMIM:615812,0,,1,DYRK1B
+nucleoplasm,GO:0005654,MORBID OBESITY AND SPERMATOGENIC FAILURE,OMIM:615703,0,,1,CEP19
+nucleoplasm,GO:0005654,Obesity,MESH:D009765,0,,41,ACLY|ADH1B|AFF4|AHR|AKT1|ALDH6A1|CEBPA|DDIT3|EP300|ESR1|ETFDH|FOS|FOXO3|FTO|HADH|HMGB2|HMOX1|HOXB5|IRS1|NEIL1|NR0B2|NR1I2|NR1I3|OGG1|PARP1|PFKFB3|PPARA|PPARD|PPARG|PPARGC1B|RAI1|SERPINE1|SIRT1|SIRT3|SLC16A7|SOD1|SREBF1|UQCRC2|ZBTB7B|ZFHX3|ZNF169
+nucleoplasm,GO:0005654,Pediatric Obesity,MESH:D063766,0,,1,FTO
+nucleotide-activated protein kinase complex,GO:0031588,Obesity,MESH:D009765,0,,1,PRKAR1A
+nucleus,GO:0005634,Abdominal obesity metabolic syndrome,MESH:C535554,0,,1,PPARA
+nucleus,GO:0005634,ABDOMINAL OBESITY-METABOLIC SYNDROME 3,OMIM:615812,0,,1,DYRK1B
+nucleus,GO:0005634,Obesity,MESH:D009765,0,,61,ACACB|ACHE|ACP5|ADCY3|ADRB2|AFF4|AHR|AKR1C3|AKT1|CEBPA|CIDEA|CPE|CRP|CYCS|DDIT3|EFNB1|EP300|ESR1|F2|FOS|FOXO3|FTO|GH1|GNAS|HMGB2|HMOX1|HOXB5|HSPA5|INPP5E|IRS1|ITGAM|KCTD15|NAMPT|NEIL1|NHLH2|NQO1|NR0B2|NR1I2|NR1I3|OGG1|PARP1|PMCH|PPARA|PPARD|PPARG|PPARGC1B|PPM1L|PRKCH|RAI1|SH2B1|SIRT1|SIRT3|SOD1|SREBF1|TBC1D1|TMEM18|ZBTB7B|ZC3H10|ZFHX3|ZFR2|ZNF169
+nucleus,GO:0005634,"Obesity, Morbid",MESH:D009767,0,,1,ADCY3
+nucleus,GO:0005634,Pediatric Obesity,MESH:D063766,0,,1,FTO
+nucleus,GO:0005634,RETINAL DYSTROPHY AND OBESITY,OMIM:616188,0,,1,TUB
+organelle membrane,GO:0031090,Obesity,MESH:D009765,0,,1,FAAH
+parallel fiber to Purkinje cell synapse,GO:0098688,Obesity,MESH:D009765,0,,1,SLC16A7
+PCSK9-LDLR complex,GO:1990666,Obesity,MESH:D009765,0,,1,LDLR
+peptidase inhibitor complex,GO:1904090,Obesity,MESH:D009765,0,,1,SERPINE1
+perikaryon,GO:0043204,Obesity,MESH:D009765,0,,6,CCL2|CPE|ESR1|GLUL|NTRK2|PCSK1
+perikaryon,GO:0043204,"Obesity, Hyperphagia, and Developmental Delay",MESH:C563938,0,,1,NTRK2
+perikaryon,GO:0043204,"Obesity, Morbid",MESH:D009767,0,,1,BDNF
+perinuclear endoplasmic reticulum,GO:0097038,Obesity,MESH:D009765,0,,1,ACHE
+perinuclear region of cytoplasm,GO:0048471,Obesity,MESH:D009765,0,,21,ACHE|ADCY3|ADIPOQ|CCL2|ESR1|GNAS|HCRT|HMGB2|HMOX1|KCNMA1|NPC1|NTRK2|PACS1|PCSK1|PPARG|PRKAR2B|RAPGEF3|TF|TFRC|TNFRSF1B|VLDLR
+perinuclear region of cytoplasm,GO:0048471,"Obesity, Hyperphagia, and Developmental Delay",MESH:C563938,0,,1,NTRK2
+perinuclear region of cytoplasm,GO:0048471,"Obesity, Morbid",MESH:D009767,0,,3,ADCY3|BDNF|KCNMA1
+peroxisomal matrix,GO:0005782,Obesity,MESH:D009765,0,,1,POMC
+peroxisomal membrane,GO:0005778,Obesity,MESH:D009765,0,,2,ACSL1|PEX11A
+peroxisome,GO:0005777,Obesity,MESH:D009765,0,,2,PEX11A|SOD1
+phagocytic cup,GO:0001891,Obesity,MESH:D009765,1,bisphenol A,1,TNF
+phagocytic cup,GO:0001891,"Obesity, Abdominal",MESH:D056128,1,bisphenol A,0,
+phagocytic vesicle,GO:0045335,Obesity,MESH:D009765,0,,1,CTSS
+photoreceptor cell terminal bouton,GO:1990796,Obesity,MESH:D009765,0,,1,RAPGEF3
+plasma membrane,GO:0005886,Obesity,MESH:D009765,0,,74,ACHE|ADCY3|ADH1B|ADRB1|ADRB2|ADRB3|AKT1|APCDD1|APOE|AQP7|BCHE|CASP1|CD163|CD40|CD68|CNR1|CPE|DCXR|EFNB1|ENPP1|ENTPD6|ESR1|F2|FASN|FCGR3B|FTO|GAS7|GCG|GH1|GLUL|GNAS|GNB3|GPR17|HSPA5|HTR2A|HTR2C|ICAM1|INPP5E|IRS1|ITGAM|KCNMA1|KITL|LDLR|LEPR|LPL|MC4R|MRC1|NEGR1|NPC1|NPY1R|NPY5R|NTRK2|PRKAR1A|PRKAR2B|PRKCH|PTPN1|RAPGEF3|SDC3|SERPINE1|SH2B1|SLC16A7|SLC22A1|SLC22A2|SLC22A3|SOD1|STS|SUCLG2|TF|TFRC|TNF|TNFRSF1B|TRPV1|VLDLR|WNT3A
+plasma membrane,GO:0005886,"Obesity, Hyperphagia, and Developmental Delay",MESH:C563938,0,,1,NTRK2
+plasma membrane,GO:0005886,"Obesity, Morbid",MESH:D009767,0,,5,ADCY3|KCNMA1|KSR2|LEPR|MC4R
+plasma membrane,GO:0005886,Pediatric Obesity,MESH:D063766,0,,3,APOA1|FTO|GPR17
+plasma membrane,GO:0005886,RETINAL DYSTROPHY AND OBESITY,OMIM:616188,0,,1,TUB
+plasma membrane raft,GO:0044853,Obesity,MESH:D009765,0,,2,ITGAM|PRKAR1A
+platelet alpha granule lumen,GO:0031093,Obesity,MESH:D009765,0,,2,IGF2|SERPINE1
+PML body,GO:0016605,Obesity,MESH:D009765,0,,1,SIRT1
+postsynapse,GO:0098794,Obesity,MESH:D009765,0,,9,ADRB1|AKT1|FAAH|GHRL|HCRT|NTRK2|PRKAR2B|PTPN1|TFRC
+postsynapse,GO:0098794,"Obesity, Hyperphagia, and Developmental Delay",MESH:C563938,0,,1,NTRK2
+postsynapse,GO:0098794,"Obesity, Morbid",MESH:D009767,0,,1,BDNF
+postsynaptic density,GO:0014069,Obesity,MESH:D009765,0,,2,NEGR1|NTRK2
+postsynaptic density,GO:0014069,"Obesity, Hyperphagia, and Developmental Delay",MESH:C563938,0,,1,NTRK2
+"postsynaptic density, intracellular component",GO:0099092,Obesity,MESH:D009765,0,,1,MMP9
+postsynaptic density membrane,GO:0098839,Obesity,MESH:D009765,0,,1,SLC16A7
+postsynaptic membrane,GO:0045211,Obesity,MESH:D009765,0,,7,ACHE|ADRB2|AKAP1|HTR2A|KCNMA1|NTRK2|TRPV1
+postsynaptic membrane,GO:0045211,"Obesity, Hyperphagia, and Developmental Delay",MESH:C563938,0,,1,NTRK2
+postsynaptic membrane,GO:0045211,"Obesity, Morbid",MESH:D009767,0,,1,KCNMA1
+postsynaptic recycling endosome membrane,GO:0098944,Obesity,MESH:D009765,0,,1,TFRC
+"postsynaptic specialization, intracellular component",GO:0099091,Obesity,MESH:D009765,0,,1,AKAP1
+precatalytic spliceosome,GO:0071011,Obesity,MESH:D009765,0,,1,ZFR2
+presynapse,GO:0098793,Obesity,MESH:D009765,0,,10,ADRB2|CNR1|FAAH|HTR2A|NPY5R|NTRK2|SLC22A1|SLC22A2|SLC22A3|WNT3A
+presynapse,GO:0098793,"Obesity, Hyperphagia, and Developmental Delay",MESH:C563938,0,,1,NTRK2
+presynaptic active zone,GO:0048786,Obesity,MESH:D009765,0,,1,NTRK2
+presynaptic active zone,GO:0048786,"Obesity, Hyperphagia, and Developmental Delay",MESH:C563938,0,,1,NTRK2
+presynaptic active zone membrane,GO:0048787,Obesity,MESH:D009765,0,,1,KCNMA1
+presynaptic active zone membrane,GO:0048787,"Obesity, Morbid",MESH:D009767,0,,1,KCNMA1
+presynaptic membrane,GO:0042734,Obesity,MESH:D009765,0,,6,ACHE|CNR1|EFNB1|HTR2A|NPY1R|SLC22A2
+protease inhibitor complex,GO:0097179,Obesity,MESH:D009765,0,,1,CASP1
+proteasome core complex,GO:0005839,Obesity,MESH:D009765,1,Curcumin,0,
+protein-containing complex,GO:0032991,Obesity,MESH:D009765,0,,28,ADIPOQ|AHR|AKT1|ALDH1L1|CASP1|CEBPA|EP300|ESR1|FOXO3|GLUL|HMGB2|HSPA5|KCNMA1|MMP9|NR0B2|OGG1|PARP1|PEX11A|PRKAR1A|PTGS2|PTPN1|SDC3|SIRT1|SIRT3|SOD1|SREBF1|SUCLG2|TNF
+protein-containing complex,GO:0032991,"Obesity, Morbid",MESH:D009767,0,,1,KCNMA1
+protein-DNA complex,GO:0032993,Obesity,MESH:D009765,0,,4,DDIT3|EP300|FOS|PARP1
+pseudopodium,GO:0031143,Obesity,MESH:D009765,2,Manganese|Mercury,0,
+Rb-E2F complex,GO:0035189,Obesity,MESH:D009765,0,,1,CEBPA
+rDNA heterochromatin,GO:0033553,Obesity,MESH:D009765,0,,1,SIRT1
+receptor complex,GO:0043235,Obesity,MESH:D009765,0,,7,ADRB2|ADRB3|LDLR|LEPR|NTRK2|PPARG|VLDLR
+receptor complex,GO:0043235,"Obesity, Hyperphagia, and Developmental Delay",MESH:C563938,0,,1,NTRK2
+receptor complex,GO:0043235,"Obesity, Morbid",MESH:D009767,0,,1,LEPR
+recycling endosome,GO:0055037,Obesity,MESH:D009765,0,,4,GNAS|TF|TFRC|TNF
+recycling endosome membrane,GO:0055038,Obesity,MESH:D009765,0,,2,LDLR|TFRC
+respiratory chain complex III,GO:0045275,Obesity,MESH:D009765,0,,1,UQCRC2
+respiratory chain complex IV,GO:0045277,Obesity,MESH:D009765,0,,2,COX7C|UQCRC2
+ribbon synapse,GO:0097470,Obesity,MESH:D009765,0,,1,RAPGEF3
+ribonucleoprotein complex,GO:1990904,Obesity,MESH:D009765,0,,3,AQP7|NEGR1|PPM1L
+ribosome,GO:0005840,Obesity,MESH:D009765,0,,2,CYB5A|NQO1
+ripoptosome,GO:0097342,Obesity,MESH:D009765,1,Metformin,0,
+RISC complex,GO:0016442,Obesity,MESH:D009765,0,,3,MIR130A|MIR184|MIR21
+"RNA polymerase II, core complex",GO:0005665,Obesity,MESH:D009765,0,,1,LDLR
+RNA polymerase II transcription regulator complex,GO:0090575,Obesity,MESH:D009765,0,,4,CEBPA|DDIT3|FOS|PPARG
+RNA polymerase II transcription repressor complex,GO:0090571,Obesity,MESH:D009765,0,,1,FOXO3
+rod bipolar cell terminal bouton,GO:1990795,Obesity,MESH:D009765,0,,1,RAPGEF3
+rough endoplasmic reticulum,GO:0005791,Obesity,MESH:D009765,1,"Water Pollutants, Chemical",1,HCRT
+rough endoplasmic reticulum lumen,GO:0048237,Obesity,MESH:D009765,0,,1,ACHE
+ruffle,GO:0001726,Obesity,MESH:D009765,0,,4,GAS7|GNAS|INPP5E|SH2B1
+sarcolemma,GO:0042383,Obesity,MESH:D009765,0,,2,ADRB2|GNAS
+sarcoplasm,GO:0016528,Obesity,MESH:D009765,0,,1,KCNMA1
+sarcoplasm,GO:0016528,"Obesity, Morbid",MESH:D009767,0,,1,KCNMA1
+sarcoplasmic reticulum,GO:0016529,Obesity,MESH:D009765,0,,1,HK2
+Schaffer collateral - CA1 synapse,GO:0098685,Obesity,MESH:D009765,0,,5,ADRB1|ADRB2|GHRL|MMP9|SLC16A7
+secretory granule,GO:0030141,Obesity,MESH:D009765,0,,8,CARTPT|CPE|GH1|HCRT|PCSK1|POMC|SOD1|TNF
+secretory granule,GO:0030141,"Obesity, Morbid",MESH:D009767,0,,1,BDNF
+secretory granule lumen,GO:0034774,Obesity,MESH:D009765,0,,6,GCG|GHRL|INS|PCSK1|POMC|TF
+secretory granule lumen,GO:0034774,Pediatric Obesity,MESH:D063766,0,,1,APOA1
+secretory granule membrane,GO:0030667,Obesity,MESH:D009765,0,,2,CPE|FCGR3B
+serine protease inhibitor complex,GO:0097180,Obesity,MESH:D009765,0,,1,SERPINE1
+side of membrane,GO:0098552,Obesity,MESH:D009765,0,,2,ACHE|NEGR1
+site of DNA damage,GO:0090734,Obesity,MESH:D009765,0,,1,PARP1
+site of double-strand break,GO:0035861,Obesity,MESH:D009765,2,Curcumin|Cyclosporine,1,PARP1
+smooth endoplasmic reticulum,GO:0005790,Obesity,MESH:D009765,0,,1,HSPA5
+smooth muscle contractile fiber,GO:0030485,Obesity,MESH:D009765,0,,1,IDO1
+somatodendritic compartment,GO:0036477,Obesity,MESH:D009765,0,,1,LDLR
+sorting endosome,GO:0097443,Obesity,MESH:D009765,0,,2,LDLR|PTPN1
+specific granule membrane,GO:0035579,Obesity,MESH:D009765,0,,2,ITGAM|TNFRSF1B
+sperm flagellum,GO:0036126,Obesity,MESH:D009765,3,3-(indol-3-yl)propionic acid|bisphenol A|Chlorpyrifos,0,
+sperm flagellum,GO:0036126,"Obesity, Abdominal",MESH:D056128,1,bisphenol A,0,
+sperm head,GO:0061827,Obesity,MESH:D009765,4,3-(indol-3-yl)propionic acid|bisphenol A|Chlorpyrifos|Glyphosate,0,
+sperm head,GO:0061827,"Obesity, Abdominal",MESH:D056128,1,bisphenol A,0,
+sperm head plasma membrane,GO:1990913,Obesity,MESH:D009765,1,bisphenol A,0,
+sperm head plasma membrane,GO:1990913,"Obesity, Abdominal",MESH:D056128,1,bisphenol A,0,
+sperm head-tail coupling apparatus,GO:0120212,Obesity,MESH:D009765,0,,1,PRKAR1A
+sperm midpiece,GO:0097225,Obesity,MESH:D009765,2,3-(indol-3-yl)propionic acid|Chlorpyrifos,1,ADCY3
+sperm midpiece,GO:0097225,"Obesity, Morbid",MESH:D009767,0,,1,ADCY3
+spherical high-density lipoprotein particle,GO:0034366,Pediatric Obesity,MESH:D063766,0,,1,APOA1
+spindle,GO:0005819,Obesity,MESH:D009765,0,,1,AKT1
+spindle microtubule,GO:0005876,Obesity,MESH:D009765,0,,1,FASN
+spindle pole,GO:0000922,MORBID OBESITY AND SPERMATOGENIC FAILURE,OMIM:615703,0,,1,CEP19
+stereocilium bundle,GO:0032421,Obesity,MESH:D009765,0,,1,IDO1
+succinate-CoA ligase complex,GO:0042709,Obesity,MESH:D009765,0,,2,SUCLA2|SUCLG2
+succinate-CoA ligase complex (ADP-forming),GO:0009361,Obesity,MESH:D009765,0,,1,SUCLA2
+succinate-CoA ligase complex (GDP-forming),GO:0045244,Obesity,MESH:D009765,0,,1,SUCLG2
+SUMO ligase complex,GO:0106068,Obesity,MESH:D009765,0,,1,PPARG
+super elongation complex,GO:0032783,Obesity,MESH:D009765,0,,1,AFF4
+synapse,GO:0045202,Obesity,MESH:D009765,1,Curcumin,15,ACHE|CARTPT|CNR1|EFNB1|HCRT|HTR2A|HTR2C|NQO1|PMCH|PRKAR1A|RAB21|TRPV1|VGF|VLDLR|WNT3A
+synaptic cleft,GO:0043083,Obesity,MESH:D009765,1,Atrazine,2,ACHE|APOE
+synaptic membrane,GO:0097060,Obesity,MESH:D009765,0,,1,CPE
+synaptic vesicle,GO:0008021,Obesity,MESH:D009765,0,,3,GNAS|HCRT|NPY1R
+synaptic vesicle,GO:0008021,"Obesity, Morbid",MESH:D009767,0,,1,BDNF
+synaptic vesicle membrane,GO:0030672,Obesity,MESH:D009765,0,,1,SLC22A2
+terminal bouton,GO:0043195,Obesity,MESH:D009765,1,Dronabinol,4,ACHE|ESR1|KCNMA1|NTRK2
+terminal bouton,GO:0043195,"Obesity, Hyperphagia, and Developmental Delay",MESH:C563938,0,,1,NTRK2
+terminal bouton,GO:0043195,"Obesity, Morbid",MESH:D009767,0,,2,BDNF|KCNMA1
+tertiary granule lumen,GO:1904724,Obesity,MESH:D009765,0,,2,CTSS|MMP9
+tertiary granule membrane,GO:0070821,Obesity,MESH:D009765,0,,1,ITGAM
+transcription elongation factor complex,GO:0008023,Obesity,MESH:D009765,0,,1,AFF4
+transcription factor AP-1 complex,GO:0035976,Obesity,MESH:D009765,1,platycodin D,1,FOS
+transcription regulator complex,GO:0005667,Obesity,MESH:D009765,0,,11,AHR|CEBPA|DDIT3|EP300|ESR1|FOS|NHLH2|NR1I2|PARP1|ZBTB7B|ZFHX3
+trans-Golgi network,GO:0005802,Obesity,MESH:D009765,0,,3,GH1|PCSK1|RAB21
+trans-Golgi network membrane,GO:0032588,Obesity,MESH:D009765,0,,1,GNAS
+translation initiation complex,GO:0070992,Obesity,MESH:D009765,1,bisphenol A,0,
+translation initiation complex,GO:0070992,"Obesity, Abdominal",MESH:D056128,1,bisphenol A,0,
+transport vesicle,GO:0030133,Obesity,MESH:D009765,0,,4,GNAS|INS|PCSK1|VGF
+transport vesicle membrane,GO:0030658,Obesity,MESH:D009765,0,,1,CPE
+tRNA-intron endonuclease complex,GO:0000214,Obesity,MESH:D009765,0,,1,PPARG
+T-tubule,GO:0030315,Obesity,MESH:D009765,0,,1,ESR1
+tubulin complex,GO:0045298,Obesity,MESH:D009765,1,Particulate Matter,0,
+tubulin complex,GO:0045298,"Obesity, Abdominal",MESH:D056128,1,Particulate Matter,0,
+tumor necrosis factor receptor superfamily complex,GO:0002947,Obesity,MESH:D009765,0,,1,TNFRSF1B
+varicosity,GO:0043196,Obesity,MESH:D009765,0,,2,CD40|TNFRSF1B
+very-low-density lipoprotein particle,GO:0034361,Obesity,MESH:D009765,0,,3,APOE|LPL|VLDLR
+very-low-density lipoprotein particle,GO:0034361,Pediatric Obesity,MESH:D063766,0,,2,APOA1|APOA5
+vesicle,GO:0031982,Obesity,MESH:D009765,0,,4,AKT1|NPC1|RAB21|TF
+vesicle,GO:0031982,Pediatric Obesity,MESH:D063766,0,,1,CETP
+vesicle coat,GO:0030120,Obesity,MESH:D009765,0,,1,TF
+vesicle membrane,GO:0012506,Obesity,MESH:D009765,0,,1,RAB21
+voltage-gated potassium channel complex,GO:0008076,Obesity,MESH:D009765,0,,2,KCNMA1|VLDLR
+voltage-gated potassium channel complex,GO:0008076,"Obesity, Morbid",MESH:D009767,0,,1,KCNMA1
+Wnt-Frizzled-LRP5/6 complex,GO:1990851,Obesity,MESH:D009765,0,,1,WNT3A
+Wnt signalosome,GO:1990909,Obesity,MESH:D009765,0,,1,WNT3A
+Z disc,GO:0030018,Obesity,MESH:D009765,0,,1,CRP

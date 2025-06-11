@@ -1,0 +1,266 @@
+GOName,GOID,DiseaseName,DiseaseID,InferenceChemicalQty,InferenceChemicalNames,InferenceGeneQty,InferenceGeneSymbols
+A band,GO:0031672,Heart Diseases,MESH:D006331,0,,1,UNC45B
+acrosomal membrane,GO:0002080,Heart Diseases,MESH:D006331,1,sodium arsenite,0,
+actin cap,GO:0030478,Heart Diseases,MESH:D006331,1,Thiamethoxam,0,
+actin filament,GO:0005884,Heart Diseases,MESH:D006331,2,Cadmium|Cadmium Chloride,1,RAC2
+actin filament bundle,GO:0032432,Heart Diseases,MESH:D006331,1,Particulate Matter,0,
+adherens junction,GO:0005912,Heart Diseases,MESH:D006331,0,,1,VEGFA
+alveolar lamellar body,GO:0097208,Heart Diseases,MESH:D006331,2,Acetylcysteine|Particulate Matter,0,
+amyloid-beta complex,GO:0106003,Heart Diseases,MESH:D006331,1,Paraquat,0,
+apical ectoplasmic specialization,GO:0061831,Heart Diseases,MESH:D006331,0,,1,ATP2A2
+apical part of cell,GO:0045177,Heart Diseases,MESH:D006331,0,,2,ABCB1A|SPP1
+apical plasma membrane,GO:0016324,Heart Diseases,MESH:D006331,0,,4,ABCB1A|ABCC1|ABCC2|CYBA
+apoptotic body,GO:0097189,Heart Diseases,MESH:D006331,10,Arsenic|Arsenic Trioxide|astaxanthine|Cadmium|Cadmium Chloride|Cisplatin|Indomethacin|Raloxifene Hydrochloride|S-allylcysteine|sodium arsenite,0,
+apoptotic body,GO:0097189,Pulmonary Heart Disease,MESH:D011660,1,Indomethacin,0,
+aryl hydrocarbon receptor complex,GO:0034751,Heart Diseases,MESH:D006331,0,,1,AHR2
+autolysosome,GO:0044754,Heart Diseases,MESH:D006331,17,Arsenic Trioxide|Cadmium|Cadmium Chloride|Chloroquine|Cisplatin|Curcumin|Dietary Fats|Doxorubicin|epigallocatechin gallate|ferrostatin-1|Metformin|Methamphetamine|Miconazole|Paraquat|Rifampin|sodium arsenite|Taurine,0,
+autophagosome,GO:0005776,Heart Diseases,MESH:D006331,21,Arsenic|Arsenic Trioxide|Benzo(a)pyrene|Cadmium|Cadmium Chloride|Chloroquine|Cisplatin|Doxorubicin|epigallocatechin gallate|Ethanol|Hydrogen Peroxide|Indomethacin|Iohexol|lead nitrate|Melatonin|Metformin|Methamphetamine|Paraquat|Raloxifene Hydrochloride|Resveratrol|Taurine,0,
+autophagosome,GO:0005776,Pulmonary Heart Disease,MESH:D011660,1,Indomethacin,0,
+axon,GO:0030424,Heart Diseases,MESH:D006331,0,,3,BSN|SIRT1|TH
+axonal spine,GO:0044308,Heart Diseases,MESH:D006331,2,Cadmium|Cadmium Chloride,0,
+axon cytoplasm,GO:1904115,Heart Diseases,MESH:D006331,0,,1,BSN
+axon terminus,GO:0043679,Heart Diseases,MESH:D006331,0,,1,ADRA2A
+basal plasma membrane,GO:0009925,Heart Diseases,MESH:D006331,0,,1,ABCC1
+basement membrane,GO:0005604,Heart Diseases,MESH:D006331,0,,3,ALB|TIMP1|VEGFA
+basolateral plasma membrane,GO:0016323,Heart Diseases,MESH:D006331,0,,2,ABCC1|ADRA2A
+beta-catenin-TCF7L2 complex,GO:0070369,Heart Diseases,MESH:D006331,0,,1,TCF4
+beta-catenin-TCF complex,GO:1990907,Heart Diseases,MESH:D006331,0,,1,TCF4
+blood microparticle,GO:0072562,Heart Diseases,MESH:D006331,0,,1,ALB
+brush border membrane,GO:0031526,Heart Diseases,MESH:D006331,0,,2,ABCB1A|ABCC2
+calcium ion-transporting ATPase complex,GO:0090534,Heart Diseases,MESH:D006331,0,,1,ATP2A2
+cardiac myofibril,GO:0097512,Heart Diseases,MESH:D006331,0,,2,TNNI3|TNNT2
+cardiac Troponin complex,GO:1990584,Heart Diseases,MESH:D006331,2,Doxorubicin|Isoproterenol,2,TNNI3|TNNT2
+CatSper complex,GO:0036128,Heart Diseases,MESH:D006331,1,bisphenol A,0,
+cell body,GO:0044297,Heart Diseases,MESH:D006331,0,,1,EPO
+cell-cell junction,GO:0005911,Heart Diseases,MESH:D006331,2,bisphenol A|Fluorouracil,0,
+cell cortex,GO:0005938,Heart Diseases,MESH:D006331,0,,2,BSN|RAC2
+cell projection,GO:0042995,Heart Diseases,MESH:D006331,2,2-chloro-5-nitrobenzanilide|Lipopolysaccharides,4,BSN|RAC2|SPP1|TH
+cell surface,GO:0009986,Heart Diseases,MESH:D006331,1,deoxynivalenol,8,ABCB1A|ABCC2|ATP5PF|BSN|EPO|RARG|SFRP1|VEGFA
+cellular_component,GO:0005575,Heart Diseases,MESH:D006331,0,,3,ALB|MIR34A|PON1
+centrosome,GO:0005813,Heart Diseases,MESH:D006331,0,,1,APEX1
+chromatin,GO:0000785,Heart Diseases,MESH:D006331,0,,5,HDAC1|HDAC3|RARG|SIRT1|TCF4
+chromatin,GO:0000785,TESTICULAR ANOMALIES WITH OR WITHOUT CONGENITAL HEART DISEASE,OMIM:615542,0,,1,GATA4
+chromatin silencing complex,GO:0005677,Heart Diseases,MESH:D006331,0,,1,SIRT1
+chromosome,GO:0005694,Heart Diseases,MESH:D006331,0,,1,HDAC3
+"chromosome, centromeric region",GO:0000775,Heart Diseases,MESH:D006331,0,,1,PPP2CA
+"chromosome, telomeric region",GO:0000781,Heart Diseases,MESH:D006331,0,,1,APEX1
+cochlear hair cell ribbon synapse,GO:0098683,Heart Diseases,MESH:D006331,1,Cisplatin,1,BSN
+collagen-containing extracellular matrix,GO:0062023,Heart Diseases,MESH:D006331,0,,1,SFRP1
+contractile fiber,GO:0043292,Heart Diseases,MESH:D006331,0,,1,TNNI3
+cortical granule,GO:0060473,Heart Diseases,MESH:D006331,3,Glutathione|Lipopolysaccharides|Resveratrol,0,
+creatine kinase complex,GO:0002185,Heart Diseases,MESH:D006331,2,aluminum phosphide|Taurine,0,
+cytoplasm,GO:0005737,Heart Diseases,MESH:D006331,0,,28,ABCB1A|ADRA2A|AHR2|ALB|APEX1|CRP|CYBA|GCG|HDAC1|HDAC3|HSPB6|MIR21|MT2A|NCF4|NPPB|PNPLA2|PPP2CA|PSMA2|RAC2|RARG|S1PR2|SIRT1|SPP1|TH|TNNI3|UNC45B|VEGFA|XDH
+cytoplasmic side of plasma membrane,GO:0009898,Heart Diseases,MESH:D006331,0,,1,TH
+cytoplasmic stress granule,GO:0010494,Heart Diseases,MESH:D006331,1,sodium arsenite,0,
+cytoplasmic vesicle,GO:0031410,Heart Diseases,MESH:D006331,1,Chloroquine,2,RAC2|TH
+cytoplasmic vesicle membrane,GO:0030659,Heart Diseases,MESH:D006331,0,,1,TH
+cytoskeleton,GO:0005856,Heart Diseases,MESH:D006331,0,,2,BSN|RAC2
+cytoskeleton of presynaptic active zone,GO:0048788,Heart Diseases,MESH:D006331,0,,1,BSN
+cytosol,GO:0005829,Heart Diseases,MESH:D006331,0,,21,B2M|BSN|HADHB|HDAC1|HDAC3|HSPB6|MT2A|NCF4|OGG1|PNPLA2|PPP2CA|PSMA2|PTGIR|RAC2|SFRP1|SIRT1|TH|TNNI3|TNNT2|UNC45B|XDH
+dendrite,GO:0030425,Heart Diseases,MESH:D006331,0,,3,BSN|CYBA|TH
+dendritic branch,GO:0044307,Heart Diseases,MESH:D006331,2,bisphenol A|Dexamethasone,0,
+dendritic spine,GO:0043197,Heart Diseases,MESH:D006331,2,bisphenol A|Methamphetamine,0,
+"DNA topoisomerase type II (double strand cut, ATP-hydrolyzing) complex",GO:0009330,Heart Diseases,MESH:D006331,2,Arsenic Trioxide|Reactive Oxygen Species,0,
+dopaminergic synapse,GO:0098691,Heart Diseases,MESH:D006331,0,,1,ADRA2A
+early endosome,GO:0005769,Heart Diseases,MESH:D006331,1,Chloroquine,0,
+early endosome lumen,GO:0031905,Heart Diseases,MESH:D006331,0,,1,B2M
+early endosome membrane,GO:0031901,Heart Diseases,MESH:D006331,0,,1,B2M
+endocytic vesicle lumen,GO:0071682,Heart Diseases,MESH:D006331,0,,1,CSF3
+endolysosome,GO:0036019,Heart Diseases,MESH:D006331,1,Chloroquine,0,
+endoplasmic reticulum,GO:0005783,Heart Diseases,MESH:D006331,1,Glutathione,6,ALB|APEX1|ATP2A2|B2M|HADHB|VEGFA
+endoplasmic reticulum lumen,GO:0005788,Heart Diseases,MESH:D006331,0,,6,ALB|B2M|GCG|PNPLA2|SPP1|TIMP1
+endoplasmic reticulum membrane,GO:0005789,Heart Diseases,MESH:D006331,0,,5,ATP2A2|CYBA|PNPLA2|PON1|RAC2
+endosome,GO:0005768,Heart Diseases,MESH:D006331,0,,1,CYBA
+endosome membrane,GO:0010008,Heart Diseases,MESH:D006331,0,,1,NCF4
+eNoSc complex,GO:0061773,Heart Diseases,MESH:D006331,0,,1,SIRT1
+ERMES complex,GO:0032865,Heart Diseases,MESH:D006331,1,Hydrogen Peroxide,0,
+ER to Golgi transport vesicle membrane,GO:0012507,Heart Diseases,MESH:D006331,0,,1,B2M
+ESC/E(Z) complex,GO:0035098,Heart Diseases,MESH:D006331,0,,2,HDAC1|SIRT1
+euchromatin,GO:0000791,Heart Diseases,MESH:D006331,0,,1,SIRT1
+excitatory synapse,GO:0060076,Heart Diseases,MESH:D006331,0,,1,BSN
+external side of plasma membrane,GO:0009897,Heart Diseases,MESH:D006331,0,,3,B2M|NCF4|SLC4A3
+extracellular exosome,GO:0070062,Heart Diseases,MESH:D006331,0,,3,ALB|MIR21|MIR34A
+extracellular matrix,GO:0031012,Heart Diseases,MESH:D006331,0,,3,SPP1|TIMP1|VEGFA
+extracellular region,GO:0005576,Heart Diseases,MESH:D006331,0,,16,AGT|ALB|B2M|CRP|CSF3|EPO|GCG|HSPB6|NPPB|PON1|PSMA2|SFRP1|SPP1|TIMP1|VEGFA|XDH
+extracellular space,GO:0005615,Heart Diseases,MESH:D006331,0,,16,AGT|ALB|ATP5PF|B2M|CRP|CSF3|EPO|GCG|MIR21|NPPB|PON1|SFRP1|SPP1|TIMP1|VEGFA|XDH
+extracellular vesicle,GO:1903561,Heart Diseases,MESH:D006331,5,Arsenic|Benzo(a)pyrene|Cadmium|Ozone|Vehicle Emissions,1,MIR21
+extracellular vesicle,GO:1903561,Pulmonary Heart Disease,MESH:D011660,1,Ozone,0,
+extrinsic component of cytoplasmic side of plasma membrane,GO:0031234,Heart Diseases,MESH:D006331,0,,1,ATP2A2
+extrinsic component of membrane,GO:0019898,Heart Diseases,MESH:D006331,0,,1,BSN
+FAR/SIN/STRIPAK complex,GO:0090443,Heart Diseases,MESH:D006331,0,,1,PPP2CA
+ferritin complex,GO:0070288,Heart Diseases,MESH:D006331,1,bisphenol A,0,
+fibrillar center,GO:0001650,Heart Diseases,MESH:D006331,0,,1,SIRT1
+fibrinogen complex,GO:0005577,Heart Diseases,MESH:D006331,1,Dietary Fats,0,
+ficolin-1-rich granule lumen,GO:1904813,Heart Diseases,MESH:D006331,0,,1,PSMA2
+filamentous actin,GO:0031941,Heart Diseases,MESH:D006331,3,bisphenol A|Dexamethasone|Ozone,0,
+filamentous actin,GO:0031941,Pulmonary Heart Disease,MESH:D011660,1,Ozone,0,
+filopodium,GO:0030175,Heart Diseases,MESH:D006331,0,,1,CRP
+focal adhesion,GO:0005925,Heart Diseases,MESH:D006331,0,,2,CYBA|RARG
+GABA-ergic synapse,GO:0098982,Heart Diseases,MESH:D006331,0,,2,ADRA2A|BSN
+germinal vesicle,GO:0042585,Heart Diseases,MESH:D006331,2,Cyclophosphamide|Thiamethoxam,0,
+glutamatergic synapse,GO:0098978,Heart Diseases,MESH:D006331,0,,3,ADRA2A|BSN|S1PR2
+glycogen granule,GO:0042587,Heart Diseases,MESH:D006331,1,Ethanol,0,
+Golgi apparatus,GO:0005794,Heart Diseases,MESH:D006331,0,,5,ALB|B2M|HDAC3|SPP1|VEGFA
+Golgi-associated vesicle,GO:0005798,Heart Diseases,MESH:D006331,0,,1,BSN
+Golgi membrane,GO:0000139,Heart Diseases,MESH:D006331,0,,1,B2M
+growth cone,GO:0030426,Heart Diseases,MESH:D006331,0,,2,CRP|SIRT1
+growth cone filopodium,GO:1990812,Heart Diseases,MESH:D006331,1,Ethanol,0,
+heterochromatin,GO:0000792,Heart Diseases,MESH:D006331,0,,2,HDAC1|SIRT1
+HFE-transferrin receptor complex,GO:1990712,Heart Diseases,MESH:D006331,0,,1,B2M
+high-density lipoprotein particle,GO:0034364,Heart Diseases,MESH:D006331,0,,1,PON1
+hippocampal mossy fiber to CA3 synapse,GO:0098686,Heart Diseases,MESH:D006331,0,,1,BSN
+histone deacetylase complex,GO:0000118,Heart Diseases,MESH:D006331,0,,2,HDAC1|HDAC3
+hyaline inclusion,GO:0097412,Heart Diseases,MESH:D006331,1,Doxorubicin,0,
+"IgA immunoglobulin complex, circulating",GO:0071746,Heart Diseases,MESH:D006331,1,deoxynivalenol,0,
+"IgE immunoglobulin complex, circulating",GO:0071743,Heart Diseases,MESH:D006331,4,bisphenol A|Dexamethasone|Particulate Matter|Selenium,0,
+IgG immunoglobulin complex,GO:0071735,Heart Diseases,MESH:D006331,1,boric acid,0,
+"IgG immunoglobulin complex, circulating",GO:0071736,Heart Diseases,MESH:D006331,3,deoxynivalenol|Dexamethasone|perfluorooctanoic acid,0,
+inhibin B complex,GO:0043513,Heart Diseases,MESH:D006331,1,bisphenol A,0,
+inhibitory synapse,GO:0060077,Heart Diseases,MESH:D006331,0,,1,BSN
+integrin complex,GO:0008305,Heart Diseases,MESH:D006331,0,,1,RARG
+intercalated disc,GO:0014704,Heart Diseases,MESH:D006331,0,,1,ATP2A2
+intercellular canaliculus,GO:0046581,Heart Diseases,MESH:D006331,0,,2,ABCB1A|ABCC2
+intracellular canaliculus,GO:0046691,Heart Diseases,MESH:D006331,0,,1,ABCC2
+intracellular ferritin complex,GO:0008043,Heart Diseases,MESH:D006331,1,Deferoxamine,0,
+lamellar body,GO:0042599,Heart Diseases,MESH:D006331,1,Chloroquine,0,
+lamellipodium,GO:0030027,Heart Diseases,MESH:D006331,0,,1,RAC2
+laminin complex,GO:0043256,Heart Diseases,MESH:D006331,1,Thioctic Acid,0,
+large ribosomal subunit,GO:0015934,Heart Diseases,MESH:D006331,1,sodium arsenite,0,
+lateral plasma membrane,GO:0016328,Heart Diseases,MESH:D006331,0,,1,ABCC1
+lipid droplet,GO:0005811,Heart Diseases,MESH:D006331,1,Dietary Fats,1,PNPLA2
+longitudinal sarcoplasmic reticulum,GO:0014801,Heart Diseases,MESH:D006331,0,,1,ATP2A2
+lysosomal lumen,GO:0043202,Heart Diseases,MESH:D006331,0,,1,CSF3
+lysosome,GO:0005764,Heart Diseases,MESH:D006331,4,Acetylcysteine|Chloroquine|manganese chloride|sodium arsenite,0,
+melanosome membrane,GO:0033162,Heart Diseases,MESH:D006331,0,,1,TH
+membrane,GO:0016020,Heart Diseases,MESH:D006331,0,,17,ABCB1A|ABCC1|ABCC2|ADRA2A|ATP2A2|ATP5PF|CRP|CYBA|NCF4|PNPLA2|PPP2CA|PTGIR|RAC2|RARG|S1PR2|SLC4A3|VEGFA
+membrane raft,GO:0045121,Heart Diseases,MESH:D006331,0,,1,PPP2CA
+MHC class II protein complex,GO:0042613,Heart Diseases,MESH:D006331,0,,1,B2M
+MHC class I peptide loading complex,GO:0042824,Heart Diseases,MESH:D006331,0,,1,B2M
+MHC class I protein complex,GO:0042612,Heart Diseases,MESH:D006331,0,,1,B2M
+microtubule cytoskeleton,GO:0015630,Heart Diseases,MESH:D006331,0,,1,PPP2CA
+mitochondria-associated endoplasmic reticulum membrane,GO:0044233,Heart Diseases,MESH:D006331,4,Cadmium|Cadmium Chloride|Hydrogen Peroxide|Particulate Matter,0,
+mitochondrial chromosome,GO:0000262,Heart Diseases,MESH:D006331,2,bisphenol A|Flavonoids,0,
+mitochondrial envelope,GO:0005740,Heart Diseases,MESH:D006331,0,,1,HADHB
+mitochondrial fatty acid beta-oxidation multienzyme complex,GO:0016507,Heart Diseases,MESH:D006331,0,,1,HADHB
+mitochondrial inner membrane,GO:0005743,Heart Diseases,MESH:D006331,0,,4,ATP5ME|ATP5PF|HADHB|SCO1
+mitochondrial matrix,GO:0005759,Heart Diseases,MESH:D006331,0,,1,OGG1
+mitochondrial membrane,GO:0031966,Heart Diseases,MESH:D006331,3,Cadmium|Cadmium Chloride|lead nitrate,0,
+mitochondrial nucleoid,GO:0042645,Heart Diseases,MESH:D006331,0,,1,HADHB
+mitochondrial outer membrane,GO:0005741,Heart Diseases,MESH:D006331,0,,2,HADHB|RAC2
+mitochondrial permeability transition pore complex,GO:0005757,Heart Diseases,MESH:D006331,7,Amlodipine|Arsenic Trioxide|Ciprofloxacin|Doxorubicin|Hydrogen Peroxide|Iohexol|Nifedipine,0,
+mitochondrial permeability transition pore complex,GO:0005757,Pulmonary Heart Disease,MESH:D011660,1,Nifedipine,0,
+mitochondrial proton-transporting ATP synthase complex,GO:0005753,Heart Diseases,MESH:D006331,1,Lipopolysaccharides,0,
+mitochondrial respiratory chain complex I,GO:0005747,Heart Diseases,MESH:D006331,2,Lipopolysaccharides|Streptozocin,0,
+mitochondrial respiratory chain complex III,GO:0005750,Heart Diseases,MESH:D006331,1,Lipopolysaccharides,0,
+"mitochondrial respiratory chain complex II, succinate dehydrogenase complex (ubiquinone)",GO:0005749,Heart Diseases,MESH:D006331,1,Streptozocin,0,
+mitochondrial respiratory chain complex IV,GO:0005751,Heart Diseases,MESH:D006331,1,Streptozocin,0,
+mitochondrion,GO:0005739,Heart Diseases,MESH:D006331,8,Acetaldehyde|Bupivacaine|Curcumin|Ethanol|Isoproterenol|Paraquat|Particulate Matter|Sodium Bicarbonate,10,APEX1|ATP5ME|ATP5PF|HADHB|HSPB6|OGG1|PPP2CA|SCO1|SIRT1|TH
+mitotic spindle,GO:0072686,Heart Diseases,MESH:D006331,0,,1,HDAC3
+mucus layer,GO:0070701,Heart Diseases,MESH:D006331,2,Gallic Acid|Particulate Matter,0,
+Myb complex,GO:0031523,Heart Diseases,MESH:D006331,0,,1,HDAC1
+myofibril,GO:0030016,Heart Diseases,MESH:D006331,0,,3,SCO1|TNNI3|TNNT2
+NADH dehydrogenase complex,GO:0030964,Heart Diseases,MESH:D006331,1,bisphenol A,0,
+NADPH oxidase complex,GO:0043020,Heart Diseases,MESH:D006331,1,Curcumin,3,CYBA|NCF4|RAC2
+neuromuscular junction,GO:0031594,Heart Diseases,MESH:D006331,1,Acrylamide,0,
+neuronal cell body,GO:0043025,Heart Diseases,MESH:D006331,2,bisphenol A|Paclitaxel,5,ADRA2A|BSN|CYBA|HDAC1|TH
+neuron projection,GO:0043005,Heart Diseases,MESH:D006331,9,2-chloro-5-nitrobenzanilide|Aspirin|Benzo(a)pyrene|Citrinin|Lidocaine|oxadiazon|Paclitaxel|Paraquat|Valproic Acid,1,TH
+neuron projection terminus,GO:0044306,Heart Diseases,MESH:D006331,0,,2,BSN|TH
+neutrophil extracellular trap,GO:0140644,Heart Diseases,MESH:D006331,3,Arsenic|bisphenol A|sodium arsenite,0,
+NLRP1 inflammasome complex,GO:0072558,Heart Diseases,MESH:D006331,1,Doxorubicin,0,
+NLRP3 inflammasome complex,GO:0072559,Heart Diseases,MESH:D006331,2,Cannabidiol|Lipopolysaccharides,0,
+nuclear aryl hydrocarbon receptor complex,GO:0034753,Heart Diseases,MESH:D006331,1,beta-Naphthoflavone,0,
+nuclear body,GO:0016604,TESTICULAR ANOMALIES WITH OR WITHOUT CONGENITAL HEART DISEASE,OMIM:615542,0,,1,GATA4
+nuclear envelope,GO:0005635,Heart Diseases,MESH:D006331,0,,2,RAC2|SIRT1
+nuclear inner membrane,GO:0005637,Heart Diseases,MESH:D006331,0,,1,SIRT1
+nuclear matrix,GO:0016363,Heart Diseases,MESH:D006331,0,,1,OGG1
+nuclear speck,GO:0016607,Heart Diseases,MESH:D006331,0,,3,APEX1|HSPB6|OGG1
+nucleolus,GO:0005730,Heart Diseases,MESH:D006331,0,,2,APEX1|SIRT1
+nucleoplasm,GO:0005654,Heart Diseases,MESH:D006331,0,,9,APEX1|HADHB|HDAC1|HDAC3|OGG1|PNPLA2|PSMA2|RARG|SIRT1
+nucleoplasm,GO:0005654,TESTICULAR ANOMALIES WITH OR WITHOUT CONGENITAL HEART DISEASE,OMIM:615542,0,,1,GATA4
+nucleus,GO:0005634,Heart Diseases,MESH:D006331,0,,18,AGT|AHR2|APEX1|BSN|CRP|HDAC1|HDAC3|HSPB6|MT2A|NPPB|OGG1|PPP2CA|PSMA2|RARG|SIRT1|TCF4|TH|VEGFA
+nucleus,GO:0005634,TESTICULAR ANOMALIES WITH OR WITHOUT CONGENITAL HEART DISEASE,OMIM:615542,0,,1,GATA4
+NuRD complex,GO:0016581,Heart Diseases,MESH:D006331,0,,1,HDAC1
+organelle,GO:0043226,Heart Diseases,MESH:D006331,0,,1,BSN
+paraspeckles,GO:0042382,Heart Diseases,MESH:D006331,1,Paraquat,0,
+P-body,GO:0000932,Heart Diseases,MESH:D006331,2,Arsenic|sodium arsenite,1,PSMA2
+perikaryon,GO:0043204,Heart Diseases,MESH:D006331,0,,1,TH
+perinuclear endoplasmic reticulum,GO:0097038,Heart Diseases,MESH:D006331,0,,1,CYBA
+perinuclear region of cytoplasm,GO:0048471,Heart Diseases,MESH:D006331,0,,7,APEX1|ATP2A2|HDAC1|NPPB|SPP1|TH|UNC45B
+peroxisome,GO:0005777,Heart Diseases,MESH:D006331,0,,1,XDH
+phagocytic cup,GO:0001891,Heart Diseases,MESH:D006331,1,bisphenol A,0,
+phagocytic vesicle membrane,GO:0030670,Heart Diseases,MESH:D006331,0,,3,B2M|CYBA|RAC2
+phagolysosome,GO:0032010,Heart Diseases,MESH:D006331,0,,1,NCF4
+phagophore,GO:0061908,Heart Diseases,MESH:D006331,1,Paraquat,0,
+piccolo-bassoon transport vesicle,GO:1990257,Heart Diseases,MESH:D006331,0,,1,BSN
+plasma membrane,GO:0005886,Heart Diseases,MESH:D006331,0,,18,ABCB1A|ABCC1|ABCC2|ADRA2A|ATP2A2|B2M|CYBA|GCG|HDAC3|NCF4|PNPLA2|PPP2CA|PTGIR|RAC2|S1PR2|SFRP1|SLC4A3|VEGFA
+plasma membrane bounded cell projection,GO:0120025,Heart Diseases,MESH:D006331,0,,1,ATP2A2
+platelet alpha granule lumen,GO:0031093,Heart Diseases,MESH:D006331,0,,3,ALB|TIMP1|VEGFA
+platelet dense tubular network membrane,GO:0031095,Heart Diseases,MESH:D006331,0,,1,ATP2A2
+PML body,GO:0016605,Heart Diseases,MESH:D006331,1,Arsenic Trioxide,2,B2M|SIRT1
+polysome,GO:0005844,Heart Diseases,MESH:D006331,1,sodium arsenite,0,
+polytene chromosome,GO:0005700,Heart Diseases,MESH:D006331,0,,1,HDAC1
+polytene chromosome interband,GO:0005705,Heart Diseases,MESH:D006331,0,,1,HDAC1
+postsynapse,GO:0098794,Heart Diseases,MESH:D006331,0,,1,S1PR2
+postsynaptic density,GO:0014069,Heart Diseases,MESH:D006331,0,,1,BSN
+postsynaptic density membrane,GO:0098839,Heart Diseases,MESH:D006331,0,,1,ADRA2A
+postsynaptic membrane,GO:0045211,Heart Diseases,MESH:D006331,0,,1,ADRA2A
+presynapse,GO:0098793,Heart Diseases,MESH:D006331,1,Methamphetamine,2,BSN|S1PR2
+presynaptic active zone,GO:0048786,Heart Diseases,MESH:D006331,0,,1,BSN
+presynaptic active zone cytoplasmic component,GO:0098831,Heart Diseases,MESH:D006331,0,,1,BSN
+presynaptic active zone membrane,GO:0048787,Heart Diseases,MESH:D006331,0,,1,ADRA2A
+proteasome complex,GO:0000502,Heart Diseases,MESH:D006331,0,,1,PSMA2
+proteasome core complex,GO:0005839,Heart Diseases,MESH:D006331,3,Curcumin|Hydrogen Peroxide|Thioctic Acid,1,PSMA2
+"proteasome core complex, alpha-subunit complex",GO:0019773,Heart Diseases,MESH:D006331,0,,1,PSMA2
+protein-containing complex,GO:0032991,Heart Diseases,MESH:D006331,0,,6,ALB|ATP2A2|HDAC1|NPPB|OGG1|SIRT1
+protein phosphatase type 2A complex,GO:0000159,Heart Diseases,MESH:D006331,0,,1,PPP2CA
+protein serine/threonine phosphatase complex,GO:0008287,Heart Diseases,MESH:D006331,0,,1,PPP2CA
+proton-transporting ATP synthase complex,GO:0045259,Heart Diseases,MESH:D006331,0,,2,ATP5ME|ATP5PF
+pseudopodium,GO:0031143,Heart Diseases,MESH:D006331,1,manganese chloride,0,
+rDNA heterochromatin,GO:0033553,Heart Diseases,MESH:D006331,0,,1,SIRT1
+receptor complex,GO:0043235,Heart Diseases,MESH:D006331,0,,1,ADRA2A
+recycling endosome membrane,GO:0055038,Heart Diseases,MESH:D006331,0,,1,B2M
+ribbon synapse,GO:0097470,Heart Diseases,MESH:D006331,0,,2,ATP2A2|BSN
+ribosome,GO:0005840,Heart Diseases,MESH:D006331,0,,1,APEX1
+ripoptosome,GO:0097342,Heart Diseases,MESH:D006331,2,Ethanol|Metformin,0,
+RISC complex,GO:0016442,Heart Diseases,MESH:D006331,0,,1,MIR21
+RNA polymerase II transcription regulator complex,GO:0090575,TESTICULAR ANOMALIES WITH OR WITHOUT CONGENITAL HEART DISEASE,OMIM:615542,0,,1,GATA4
+sarcomere,GO:0030017,Heart Diseases,MESH:D006331,0,,2,TNNI3|TNNT2
+sarcoplasm,GO:0016528,Heart Diseases,MESH:D006331,0,,1,TNNT2
+sarcoplasmic reticulum,GO:0016529,Heart Diseases,MESH:D006331,0,,2,ATP2A2|XDH
+sarcoplasmic reticulum membrane,GO:0033017,Heart Diseases,MESH:D006331,0,,1,ATP2A2
+Schaffer collateral - CA1 synapse,GO:0098685,Heart Diseases,MESH:D006331,0,,1,BSN
+secretory granule,GO:0030141,Heart Diseases,MESH:D006331,0,,2,CYBA|VEGFA
+secretory granule lumen,GO:0034774,Heart Diseases,MESH:D006331,0,,2,GCG|PSMA2
+Sin3-type complex,GO:0070822,Heart Diseases,MESH:D006331,0,,1,HDAC1
+site of double-strand break,GO:0035861,Heart Diseases,MESH:D006331,3,Curcumin|Cyclosporine|Etoposide,0,
+small ribosomal subunit,GO:0015935,Heart Diseases,MESH:D006331,1,sodium arsenite,0,
+smooth endoplasmic reticulum,GO:0005790,Heart Diseases,MESH:D006331,0,,1,TH
+specific granule lumen,GO:0035580,Heart Diseases,MESH:D006331,0,,1,B2M
+specific granule membrane,GO:0035579,Heart Diseases,MESH:D006331,0,,1,CYBA
+sperm flagellum,GO:0036126,Heart Diseases,MESH:D006331,3,bisphenol A|Cisplatin|Gallic Acid,0,
+sperm head,GO:0061827,Heart Diseases,MESH:D006331,3,bisphenol A|Cisplatin|Gallic Acid,0,
+sperm head plasma membrane,GO:1990913,Heart Diseases,MESH:D006331,1,bisphenol A,0,
+sperm midpiece,GO:0097225,Heart Diseases,MESH:D006331,2,Cisplatin|Gallic Acid,0,
+spherical high-density lipoprotein particle,GO:0034366,Heart Diseases,MESH:D006331,0,,1,PON1
+spindle pole,GO:0000922,Heart Diseases,MESH:D006331,0,,1,PPP2CA
+stress fiber,GO:0001725,Heart Diseases,MESH:D006331,0,,1,CYBA
+striated muscle thin filament,GO:0005865,Heart Diseases,MESH:D006331,0,,1,TNNT2
+synapse,GO:0045202,Heart Diseases,MESH:D006331,2,Curcumin|sodium arsenite,2,BSN|PPP2CA
+synaptic membrane,GO:0097060,Heart Diseases,MESH:D006331,0,,1,BSN
+synaptic vesicle,GO:0008021,Heart Diseases,MESH:D006331,0,,2,BSN|TH
+synaptic vesicle membrane,GO:0030672,Heart Diseases,MESH:D006331,0,,1,BSN
+telopode,GO:0120327,Heart Diseases,MESH:D006331,2,Arsenic|sodium arsenite,0,
+terminal bouton,GO:0043195,Heart Diseases,MESH:D006331,0,,2,PPP2CA|TH
+tertiary granule lumen,GO:1904724,Heart Diseases,MESH:D006331,0,,1,B2M
+tertiary granule membrane,GO:0070821,Heart Diseases,MESH:D006331,0,,1,CYBA
+transcription regulator complex,GO:0005667,Heart Diseases,MESH:D006331,0,,5,AHR2|APEX1|HDAC1|RARG|TCF4
+transcription repressor complex,GO:0017053,Heart Diseases,MESH:D006331,0,,2,HDAC1|HDAC3
+trans-Golgi network,GO:0005802,Heart Diseases,MESH:D006331,0,,1,BSN
+translation initiation complex,GO:0070992,Heart Diseases,MESH:D006331,1,bisphenol A,0,
+troponin complex,GO:0005861,Heart Diseases,MESH:D006331,0,,2,TNNI3|TNNT2
+tubulin complex,GO:0045298,Heart Diseases,MESH:D006331,2,Hydrogen Peroxide|Particulate Matter,0,
+VEGF-A complex,GO:1990150,Heart Diseases,MESH:D006331,0,,1,VEGFA
+vesicle,GO:0031982,Heart Diseases,MESH:D006331,0,,2,SPP1|VEGFA
+virion component,GO:0044423,Heart Diseases,MESH:D006331,1,Chloroquine,0,
+Z disc,GO:0030018,Heart Diseases,MESH:D006331,0,,2,CRP|UNC45B
+zymogen granule,GO:0042588,Heart Diseases,MESH:D006331,1,Plant Preparations,0,

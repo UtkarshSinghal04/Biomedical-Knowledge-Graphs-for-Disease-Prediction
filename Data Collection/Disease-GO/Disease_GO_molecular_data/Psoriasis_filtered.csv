@@ -1,0 +1,330 @@
+GOName,GOID,DiseaseName,DiseaseID,InferenceChemicalQty,InferenceChemicalNames,InferenceGeneQty,InferenceGeneSymbols
+12-hydroxyheptadecatrienoic acid synthase activity,GO:0036134,Psoriasis,MESH:D011565,0,,1,CYP2S1
+14-3-3 protein binding,GO:0071889,Psoriasis,MESH:D011565,0,,1,TP53
+6-phosphofructo-2-kinase activity,GO:0003873,Psoriasis,MESH:D011565,1,Lithium Carbonate,0,
+acetylation-dependent protein binding,GO:0140033,Psoriasis,MESH:D011565,0,,1,STAT3
+acetylcholinesterase activity,GO:0003990,Psoriasis,MESH:D011565,1,Tretinoin,0,
+acid phosphatase activity,GO:0003993,Psoriasis,MESH:D011565,3,Cyclosporine|Folic Acid|Sulfasalazine,0,
+actin binding,GO:0003779,Psoriasis,MESH:D011565,0,,1,NOS2
+actinin binding,GO:0042805,Psoriasis,MESH:D011565,0,,1,CRP
+adenosine deaminase activity,GO:0004000,Psoriasis,MESH:D011565,0,,1,CARM1
+alkaline phosphatase activity,GO:0004035,Psoriasis,MESH:D011565,11,Calcitriol|Colchicine|Cyclosporine|Ficusin|Folic Acid|Hydroxychloroquine|Methotrexate|Prednisolone|Sirolimus|Sulfasalazine|Vitamin A,0,
+alpha-actinin binding,GO:0051393,Psoriasis,MESH:D011565,0,,1,PPARG
+aminoacylase activity,GO:0004046,Psoriasis,MESH:D011565,0,,1,CAT
+aminopeptidase activity,GO:0004177,Psoriasis,MESH:D011565,0,,1,ERAP1
+AMP-activated protein kinase activity,GO:0004679,Psoriasis,MESH:D011565,2,5-Methoxypsoralen|Folic Acid,0,
+amyloid-beta binding,GO:0001540,Psoriasis,MESH:D011565,0,,1,APOE
+antioxidant activity,GO:0016209,Psoriasis,MESH:D011565,3,Colchicine|Sulfasalazine|Tretinoin,3,APOE|CAT|SOD2
+arachidonic acid binding,GO:0050544,Psoriasis,MESH:D011565,0,,1,PPARG
+arachidonic acid epoxygenase activity,GO:0008392,Psoriasis,MESH:D011565,0,,1,CYP2S1
+arginine binding,GO:0034618,Psoriasis,MESH:D011565,0,,1,NOS2
+aspartic-type endopeptidase activity,GO:0004190,Psoriasis,MESH:D011565,0,,1,REN
+ATP binding,GO:0005524,Psoriasis,MESH:D011565,0,,5,IFIH1|MKI67|RIGI|RUNX3|TYK2
+ATP-dependent DNA/DNA annealing activity,GO:0036310,Psoriasis,MESH:D011565,0,,1,TP53
+ATP hydrolysis activity,GO:0016887,Psoriasis,MESH:D011565,1,Sirolimus,2,IFIH1|RIGI
+beta-2-microglobulin binding,GO:0030881,Parapsoriasis,MESH:D010267,0,,2,HLA-A|HLA-E
+beta-catenin binding,GO:0008013,Psoriasis,MESH:D011565,0,,2,CARM1|NOS2
+beta-N-acetylhexosaminidase activity,GO:0004563,Psoriasis,MESH:D011565,1,Cyclosporine,0,
+cadherin binding,GO:0045296,Psoriasis,MESH:D011565,0,,1,NOS2
+calcium-dependent phospholipase A2 activity,GO:0047498,Psoriasis,MESH:D011565,2,Tretinoin|Vitamin A,0,
+calcium-dependent protein binding,GO:0048306,Psoriasis,MESH:D011565,0,,1,S100A7
+calcium-dependent protein serine/threonine phosphatase activity,GO:0004723,Psoriasis,MESH:D011565,1,Tacrolimus,0,
+calcium-independent phospholipase A2 activity,GO:0047499,Psoriasis,MESH:D011565,0,,1,REN
+calcium ion binding,GO:0005509,Psoriasis,MESH:D011565,0,,3,CRP|GJB2|S100A7
+calmodulin binding,GO:0005516,Psoriasis,MESH:D011565,0,,1,NOS2
+cAMP-dependent protein kinase regulator activity,GO:0008603,Psoriasis,MESH:D011565,0,,1,NOS2
+CARD domain binding,GO:0050700,Psoriasis,MESH:D011565,0,,1,CARD14
+catalase activity,GO:0004096,Psoriasis,MESH:D011565,1,Qingdai compound,1,CAT
+CCR5 chemokine receptor binding,GO:0031730,Psoriasis,MESH:D011565,0,,1,STAT3
+CD40 receptor binding,GO:0005174,Psoriasis,MESH:D011565,0,,1,TNF
+CD8 receptor binding,GO:0042610,Parapsoriasis,MESH:D010267,0,,1,HLA-A
+channel activity,GO:0015267,Psoriasis,MESH:D011565,1,Ficusin,0,
+chaperone binding,GO:0051087,Psoriasis,MESH:D011565,0,,2,CP|TP53
+chemoattractant activity,GO:0042056,Psoriasis,MESH:D011565,0,,1,VEGFA
+cholesterol binding,GO:0015485,Psoriasis,MESH:D011565,0,,1,CRP
+cholesterol transfer activity,GO:0120020,Psoriasis,MESH:D011565,0,,1,APOE
+choline binding,GO:0033265,Psoriasis,MESH:D011565,0,,1,CRP
+chromatin binding,GO:0003682,Psoriasis,MESH:D011565,0,,3,PCNA|PPARG|TP53
+chromatin DNA binding,GO:0031490,Psoriasis,MESH:D011565,0,,1,STAT3
+cis-regulatory region sequence-specific DNA binding,GO:0000987,Psoriasis,MESH:D011565,0,,1,TP53
+clathrin adaptor activity,GO:0035615,Psoriasis,MESH:D011565,0,,1,AP1S3
+complement component C1q complex binding,GO:0001849,Psoriasis,MESH:D011565,0,,1,CRP
+copper ion binding,GO:0005507,Psoriasis,MESH:D011565,0,,2,CP|TP53
+core promoter sequence-specific DNA binding,GO:0001046,Psoriasis,MESH:D011565,0,,1,TP53
+cysteine-type deubiquitinase activity,GO:0004843,Psoriasis,MESH:D011565,0,,1,TNFAIP3
+cysteine-type endopeptidase activity involved in apoptotic process,GO:0097153,Psoriasis,MESH:D011565,1,Folic Acid,0,
+cysteine-type endopeptidase inhibitor activity,GO:0004869,Psoriasis,MESH:D011565,0,,1,PTTG1
+cystine:glutamate antiporter activity,GO:0015327,Psoriasis,MESH:D011565,1,Sulfasalazine,0,
+cytochrome-c oxidase activity,GO:0004129,Psoriasis,MESH:D011565,3,Sirolimus|Tobacco Smoke Pollution|Vitamin A,0,
+cytokine activity,GO:0005125,Psoriasis,MESH:D011565,0,,10,CSF2|IL12B|IL13|IL1B|IL23A|IL36RN|IL4|IL6|TNF|VEGFA
+cytokine binding,GO:0019955,Psoriasis,MESH:D011565,0,,1,IL23R
+cytokine receptor activity,GO:0004896,Psoriasis,MESH:D011565,0,,3,IFNLR1|IL12B|IL23R
+cytokine receptor binding,GO:0005126,Psoriasis,MESH:D011565,0,,3,IL12B|IL13|TYK2
+damaged DNA binding,GO:0003684,Psoriasis,MESH:D011565,0,,1,PCNA
+death receptor agonist activity,GO:0038177,Psoriasis,MESH:D011565,0,,1,TNF
+D-glutamyltransferase activity,GO:0047823,Psoriasis,MESH:D011565,1,Folic Acid,0,
+dimethylargininase activity,GO:0016403,Psoriasis,MESH:D011565,1,Folic Acid,0,
+dinucleotide insertion or deletion binding,GO:0032139,Psoriasis,MESH:D011565,0,,1,PCNA
+disordered domain specific binding,GO:0097718,Psoriasis,MESH:D011565,0,,1,TP53
+DNA binding,GO:0003677,Psoriasis,MESH:D011565,0,,12,FBXL19|IFIH1|MKI67|PCNA|PPARG|REL|RIGI|RUNX3|SOD2|STAT3|TNFAIP3|TP53
+DNA binding domain binding,GO:0050692,Psoriasis,MESH:D011565,0,,1,PPARG
+"DNA-binding transcription activator activity, RNA polymerase II-specific",GO:0001228,Psoriasis,MESH:D011565,0,,4,PPARG|REL|STAT3|TP53
+DNA-binding transcription factor activity,GO:0003700,Psoriasis,MESH:D011565,0,,5,PPARG|REL|RUNX3|STAT3|TP53
+"DNA-binding transcription factor activity, RNA polymerase II-specific",GO:0000981,Psoriasis,MESH:D011565,1,Hydroxychloroquine,7,CRP|PPARG|REL|RUNX3|STAT3|TP53|ZNF816
+DNA-binding transcription factor binding,GO:0140297,Psoriasis,MESH:D011565,0,,3,CARM1|PPARG|STAT3
+"DNA-binding transcription repressor activity, RNA polymerase II-specific",GO:0001227,Psoriasis,MESH:D011565,0,,3,PPARG|TP53|ZNF816
+DNA-methyltransferase activity,GO:0009008,Psoriasis,MESH:D011565,1,Folic Acid,0,
+DNA polymerase binding,GO:0070182,Psoriasis,MESH:D011565,0,,1,PCNA
+DNA polymerase processivity factor activity,GO:0030337,Psoriasis,MESH:D011565,0,,1,PCNA
+double-stranded DNA binding,GO:0003690,Psoriasis,MESH:D011565,0,,2,PPARG|RIGI
+double-stranded RNA binding,GO:0003725,Psoriasis,MESH:D011565,0,,2,IFIH1|RIGI
+E-box binding,GO:0070888,Psoriasis,MESH:D011565,0,,1,PPARG
+endonuclease activity,GO:0004519,Psoriasis,MESH:D011565,0,,1,ZC3H12C
+endopeptidase activity,GO:0004175,Psoriasis,MESH:D011565,1,Tobacco Smoke Pollution,2,ERAP1|REN
+endoribonuclease activity,GO:0004521,Psoriasis,MESH:D011565,0,,1,ZC3H12C
+enzyme binding,GO:0019899,Psoriasis,MESH:D011565,0,,7,APOE|CAT|NFKBIA|PCNA|PPARG|SOD2|TP53
+epidermal growth factor receptor binding,GO:0005154,Psoriasis,MESH:D011565,0,,1,TGFA
+extracellular matrix binding,GO:0050840,Psoriasis,MESH:D011565,0,,1,VEGFA
+ferroxidase activity,GO:0004322,Psoriasis,MESH:D011565,0,,1,CP
+fibronectin binding,GO:0001968,Psoriasis,MESH:D011565,0,,1,VEGFA
+flavin adenine dinucleotide binding,GO:0050660,Psoriasis,MESH:D011565,0,,1,NOS2
+FMN binding,GO:0010181,Psoriasis,MESH:D011565,0,,1,NOS2
+gap junction channel activity,GO:0005243,Psoriasis,MESH:D011565,1,Tretinoin,1,GJB2
+gap junction channel activity involved in cell communication by electrical coupling,GO:1903763,Psoriasis,MESH:D011565,0,,1,GJB2
+general transcription initiation factor binding,GO:0140296,Psoriasis,MESH:D011565,0,,1,TP53
+Gi/o-coupled serotonin receptor activity,GO:0001586,Psoriasis,MESH:D011565,1,Sirolimus,0,
+glucokinase activity,GO:0004340,Psoriasis,MESH:D011565,1,Lithium Carbonate,0,
+glutathione peroxidase activity,GO:0004602,Psoriasis,MESH:D011565,12,5-Methoxypsoralen|Calcitriol|Cyclosporine|Ficusin|Folic Acid|Lithium|Lithium Carbonate|Methotrexate|Qingdai compound|Sirolimus|Sulfasalazine|Tobacco Smoke Pollution,1,CP
+glutathione transferase activity,GO:0004364,Psoriasis,MESH:D011565,6,Cyclosporine|Folic Acid|Lithium Carbonate|Methotrexate|Tretinoin|Vitamin A,0,
+glycogen phosphorylase activity,GO:0008184,Psoriasis,MESH:D011565,1,Lithium Carbonate,0,
+glycogen (starch) synthase activity,GO:0004373,Psoriasis,MESH:D011565,1,Lithium Carbonate,0,
+GPI anchor binding,GO:0034235,Psoriasis,MESH:D011565,0,,1,VNN1
+G protein-coupled receptor activity,GO:0004930,Psoriasis,MESH:D011565,0,,1,HCAR2
+granulocyte macrophage colony-stimulating factor receptor binding,GO:0005129,Psoriasis,MESH:D011565,0,,1,CSF2
+growth factor activity,GO:0008083,Psoriasis,MESH:D011565,0,,7,CSF2|IL12B|IL13|IL4|IL6|TGFA|VEGFA
+growth factor binding,GO:0019838,Psoriasis,MESH:D011565,0,,1,VEGFA
+growth hormone receptor binding,GO:0005131,Psoriasis,MESH:D011565,0,,1,TYK2
+GTPase activator activity,GO:0005096,Psoriasis,MESH:D011565,0,,1,TAGAP
+GTP binding,GO:0005525,Psoriasis,MESH:D011565,0,,2,HCAR2|RIGI
+guanyl-nucleotide exchange factor activity,GO:0005085,Psoriasis,MESH:D011565,0,,1,TAGAP
+heat shock protein binding,GO:0031072,Psoriasis,MESH:D011565,0,,2,NFKBIA|PTTG1
+helicase activity,GO:0004386,Psoriasis,MESH:D011565,0,,2,IFIH1|RIGI
+heme binding,GO:0020037,Psoriasis,MESH:D011565,0,,4,CAT|CYP2S1|IL23R|NOS2
+heparan sulfate proteoglycan binding,GO:0043395,Psoriasis,MESH:D011565,0,,1,APOE
+heparin binding,GO:0008201,Psoriasis,MESH:D011565,0,,2,APOE|VEGFA
+histone acetyltransferase binding,GO:0035035,Psoriasis,MESH:D011565,0,,1,PCNA
+histone arginine N-methyltransferase activity,GO:0008469,Psoriasis,MESH:D011565,0,,1,CARM1
+histone deacetylase binding,GO:0042826,Psoriasis,MESH:D011565,0,,2,RUNX3|TP53
+histone deacetylase regulator activity,GO:0035033,Psoriasis,MESH:D011565,0,,1,TP53
+histone demethylase activity,GO:0032452,Psoriasis,MESH:D011565,0,,1,FBXL19
+histone glutamine N-methyltransferase activity,GO:1990259,Psoriasis,MESH:D011565,0,,1,CARM1
+histone H2AY142 kinase activity,GO:0140801,Psoriasis,MESH:D011565,0,,1,TYK2
+histone H3K37 methyltransferase activity,GO:0062122,Psoriasis,MESH:D011565,0,,1,CARM1
+histone H3K56 methyltransferase activity,GO:0140759,Psoriasis,MESH:D011565,0,,1,CARM1
+histone H3R17 methyltransferase activity,GO:0035642,Psoriasis,MESH:D011565,0,,1,CARM1
+histone H3R26 methyltransferase activity,GO:0140903,Psoriasis,MESH:D011565,0,,1,CARM1
+histone H3R2 methyltransferase activity,GO:0070611,Psoriasis,MESH:D011565,0,,1,CARM1
+histone H3R8 methyltransferase activity,GO:0140592,Psoriasis,MESH:D011565,0,,1,CARM1
+histone H3Y41 kinase activity,GO:0035401,Psoriasis,MESH:D011565,0,,1,TYK2
+histone H4R3 methyltransferase activity,GO:0044020,Psoriasis,MESH:D011565,0,,1,CARM1
+histone methyltransferase activity,GO:0042054,Psoriasis,MESH:D011565,0,,1,CARM1
+Hsp90 protein binding,GO:0051879,Psoriasis,MESH:D011565,0,,1,NOS2
+hydrolase activity,GO:0016787,Psoriasis,MESH:D011565,0,,6,IFIH1|REN|RIGI|TNFAIP3|VNN1|VNN2
+"hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds, in linear amides",GO:0016811,Psoriasis,MESH:D011565,0,,3,VNN1|VNN2|VNN3P
+hydro-lyase activity,GO:0016836,Psoriasis,MESH:D011565,0,,1,CYP2S1
+hydroperoxy icosatetraenoate dehydratase activity,GO:0106256,Psoriasis,MESH:D011565,0,,1,CYP2S1
+hydroxyapatite binding,GO:0046848,Psoriasis,MESH:D011565,0,,1,APOE
+identical protein binding,GO:0042802,Psoriasis,MESH:D011565,0,,19,APOE|CAT|CRP|GJB2|IFIH1|IL12B|IL6|NFKBIA|NOS2|PCNA|PPARG|RIGI|SOD2|STAT3|TNF|TNFAIP3|TNIP1|TP53|VEGFA
+IkappaB kinase activity,GO:0008384,Psoriasis,MESH:D011565,1,Sulfasalazine,0,
+IMP dehydrogenase activity,GO:0003938,Psoriasis,MESH:D011565,1,Mycophenolic Acid,0,
+insulin-like growth factor receptor binding,GO:0005159,Psoriasis,MESH:D011565,0,,1,REN
+integrin binding,GO:0005178,Psoriasis,MESH:D011565,0,,1,IL1B
+interleukin-12 alpha subunit binding,GO:0042164,Psoriasis,MESH:D011565,0,,1,IL12B
+interleukin-12 receptor binding,GO:0005143,Psoriasis,MESH:D011565,0,,2,IL12B|IL23R
+interleukin-13 receptor binding,GO:0005144,Psoriasis,MESH:D011565,0,,1,IL13
+interleukin-1 receptor antagonist activity,GO:0005152,Psoriasis,MESH:D011565,0,,1,IL36RN
+interleukin-1 receptor binding,GO:0005149,Psoriasis,MESH:D011565,0,,2,IL1B|IL36RN
+"interleukin-1, type II receptor binding",GO:0005151,Psoriasis,MESH:D011565,0,,1,ERAP1
+interleukin-23 binding,GO:0042019,Psoriasis,MESH:D011565,0,,1,IL23R
+interleukin-23 receptor activity,GO:0042020,Psoriasis,MESH:D011565,0,,1,IL23R
+interleukin-23 receptor binding,GO:0045519,Psoriasis,MESH:D011565,0,,2,IL12B|IL23A
+interleukin-4 receptor binding,GO:0005136,Psoriasis,MESH:D011565,0,,2,IL13|IL4
+interleukin-6 receptor binding,GO:0005138,Psoriasis,MESH:D011565,0,,2,ERAP1|IL6
+intracellular cAMP-activated cation channel activity,GO:0005222,Psoriasis,MESH:D011565,1,Sirolimus,0,
+iron ion binding,GO:0005506,Psoriasis,MESH:D011565,0,,2,CYP2S1|IL23R
+K63-linked deubiquitinase activity,GO:0061578,Psoriasis,MESH:D011565,0,,1,TNFAIP3
+K63-linked polyubiquitin modification-dependent protein binding,GO:0070530,Psoriasis,MESH:D011565,0,,1,TNFAIP3
+kinase activity,GO:0016301,Psoriasis,MESH:D011565,0,,1,TYK2
+kinase binding,GO:0019900,Psoriasis,MESH:D011565,0,,1,TNFAIP3
+lactate dehydrogenase activity,GO:0004457,Psoriasis,MESH:D011565,5,Cyclosporine|Folic Acid|Methotrexate|Sirolimus|tofacitinib,0,
+L-alanine:2-oxoglutarate aminotransferase activity,GO:0004021,Psoriasis,MESH:D011565,1,sotrastaurin,0,
+L-aspartate:2-oxoglutarate aminotransferase activity,GO:0004069,Psoriasis,MESH:D011565,6,Colchicine|Cyclosporine|Ficusin|Folic Acid|Methotrexate|Sirolimus,0,
+LBD domain binding,GO:0050693,Psoriasis,MESH:D011565,0,,1,PPARG
+lipid binding,GO:0008289,Psoriasis,MESH:D011565,0,,1,APOE
+lipid transporter activity,GO:0005319,Psoriasis,MESH:D011565,0,,1,APOE
+lipopolysaccharide binding,GO:0001530,Psoriasis,MESH:D011565,1,Tobacco Smoke Pollution,0,
+lipoprotein particle binding,GO:0071813,Psoriasis,MESH:D011565,0,,1,APOE
+lncRNA binding,GO:0106222,Psoriasis,MESH:D011565,0,,2,REL|STAT3
+low-density lipoprotein particle binding,GO:0030169,Psoriasis,MESH:D011565,0,,1,CRP
+low-density lipoprotein particle receptor binding,GO:0050750,Psoriasis,MESH:D011565,0,,2,APOE|CRP
+lysine-acetylated histone binding,GO:0070577,Psoriasis,MESH:D011565,0,,1,CARM1
+manganese ion binding,GO:0030145,Psoriasis,MESH:D011565,0,,1,SOD2
+MAP kinase activity,GO:0004707,Psoriasis,MESH:D011565,2,Tretinoin|Vitamin A,0,
+MDM2/MDM4 family protein binding,GO:0097371,Psoriasis,MESH:D011565,0,,1,TP53
+metal chelating activity,GO:0046911,Psoriasis,MESH:D011565,0,,1,APOE
+metal ion binding,GO:0046872,Psoriasis,MESH:D011565,0,,14,CAT|CP|CRP|ERAP1|FBXL19|IFIH1|NOS2|PPARG|RIGI|RNF114|SOD2|TNFAIP3|TP53|ZC3H12C
+metalloaminopeptidase activity,GO:0070006,Psoriasis,MESH:D011565,0,,1,ERAP1
+metalloendopeptidase activity,GO:0004222,Psoriasis,MESH:D011565,0,,1,RIGI
+metalloexopeptidase activity,GO:0008235,Psoriasis,MESH:D011565,0,,1,ERAP1
+metallopeptidase activity,GO:0008237,Psoriasis,MESH:D011565,1,Tobacco Smoke Pollution,1,ERAP1
+methenyltetrahydrofolate cyclohydrolase activity,GO:0004477,Psoriasis,MESH:D011565,0,,1,REL
+methylenetetrahydrofolate dehydrogenase (NAD+) activity,GO:0004487,Psoriasis,MESH:D011565,0,,1,REL
+methylenetetrahydrofolate dehydrogenase (NADP+) activity,GO:0004488,Psoriasis,MESH:D011565,0,,1,REL
+methyltransferase activity,GO:0008168,Psoriasis,MESH:D011565,0,,1,CARM1
+MHC class I protein binding,GO:0042288,Parapsoriasis,MESH:D010267,0,,1,HLA-E
+mitogen-activated protein kinase binding,GO:0051019,Psoriasis,MESH:D011565,0,,1,TNIP1
+molecular condensate scaffold activity,GO:0140693,Psoriasis,MESH:D011565,0,,2,MKI67|TP53
+molecular_function,GO:0003674,Psoriasis,MESH:D011565,0,,5,AP1S3|CSMD1|LCE3C|LCE3D|ZC3H12C
+molecular function activator activity,GO:0140677,Psoriasis,MESH:D011565,0,,2,PTTG1|TP53
+molecular sequestering activity,GO:0140313,Psoriasis,MESH:D011565,0,,2,NFKBIA|TGFA
+monoamine oxidase activity,GO:0097621,Psoriasis,MESH:D011565,1,Vitamin A,0,
+monooxygenase activity,GO:0004497,Psoriasis,MESH:D011565,0,,2,CYP2S1|IL23R
+mRNA 3'-UTR binding,GO:0003730,Psoriasis,MESH:D011565,0,,1,TP53
+mRNA binding,GO:0003729,Psoriasis,MESH:D011565,0,,1,ZC3H12C
+MutLalpha complex binding,GO:0032405,Psoriasis,MESH:D011565,0,,1,PCNA
+myosin binding,GO:0017022,Psoriasis,MESH:D011565,0,,1,CRP
+NADH dehydrogenase (ubiquinone) activity,GO:0008137,Psoriasis,MESH:D011565,4,Cyclosporine|Lithium|Minocycline|Sirolimus,0,
+NADP binding,GO:0050661,Psoriasis,MESH:D011565,0,,2,CAT|NOS2
+natural killer cell lectin-like receptor binding,GO:0046703,Parapsoriasis,MESH:D010267,0,,1,HLA-E
+neuropilin binding,GO:0038191,Psoriasis,MESH:D011565,0,,1,VEGFA
+NF-kappaB binding,GO:0051059,Psoriasis,MESH:D011565,0,,1,NFKBIA
+nicotinic acid receptor activity,GO:0070553,Psoriasis,MESH:D011565,0,,1,HCAR2
+nitric-oxide synthase activity,GO:0004517,Psoriasis,MESH:D011565,1,Tobacco Smoke Pollution,1,NOS2
+nitric-oxide synthase binding,GO:0050998,Psoriasis,MESH:D011565,0,,1,NOS2
+non-membrane spanning protein tyrosine kinase activity,GO:0004715,Psoriasis,MESH:D011565,0,,1,TYK2
+nuclear estrogen receptor binding,GO:0030331,Psoriasis,MESH:D011565,0,,2,PCNA|PPARG
+nuclear glucocorticoid receptor binding,GO:0035259,Psoriasis,MESH:D011565,0,,1,STAT3
+nuclear localization sequence binding,GO:0008139,Psoriasis,MESH:D011565,0,,1,NFKBIA
+nuclear receptor activity,GO:0004879,Psoriasis,MESH:D011565,0,,2,PPARG|STAT3
+nuclear retinoid X receptor binding,GO:0046965,Psoriasis,MESH:D011565,0,,1,PPARG
+nucleic acid binding,GO:0003676,Psoriasis,MESH:D011565,0,,3,PPARG|RIGI|TNIP1
+nucleotide binding,GO:0000166,Psoriasis,MESH:D011565,0,,3,IFIH1|RIGI|TYK2
+ornithine decarboxylase inhibitor activity,GO:0008073,Psoriasis,MESH:D011565,1,azelaic acid,0,
+oxidoreductase activity,GO:0016491,Psoriasis,MESH:D011565,0,,4,CAT|CP|NOS2|SOD2
+"oxidoreductase activity, acting on metal ions, oxygen as acceptor",GO:0016724,Psoriasis,MESH:D011565,0,,1,CP
+"oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen",GO:0016705,Psoriasis,MESH:D011565,0,,1,IL23R
+"oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, reduced flavin or flavoprotein as one donor, and incorporation of one atom of oxygen",GO:0016712,Psoriasis,MESH:D011565,0,,1,CYP2S1
+"oxidoreductase activity, acting on peroxide as acceptor",GO:0016684,Psoriasis,MESH:D011565,0,,1,CAT
+oxygen binding,GO:0019825,Psoriasis,MESH:D011565,0,,1,SOD2
+p53 binding,GO:0002039,Psoriasis,MESH:D011565,0,,1,TP53
+pantetheine hydrolase activity,GO:0017159,Psoriasis,MESH:D011565,0,,3,VNN1|VNN2|VNN3P
+pattern recognition receptor activity,GO:0038187,Psoriasis,MESH:D011565,0,,2,IFIH1|RIGI
+peptidase activity,GO:0008233,Psoriasis,MESH:D011565,0,,2,ERAP1|REN
+peptide antigen binding,GO:0042605,Parapsoriasis,MESH:D010267,0,,2,HLA-A|HLA-E
+peptide antigen binding,GO:0042605,Psoriasis,MESH:D011565,0,,1,HLA-C
+peptide binding,GO:0042277,Psoriasis,MESH:D011565,0,,2,ERAP1|PPARG
+peptidyl-prolyl cis-trans isomerase activity,GO:0003755,Psoriasis,MESH:D011565,0,,1,APOE
+peroxidase activity,GO:0004601,Psoriasis,MESH:D011565,1,Qingdai compound,1,CAT
+phosphatidylcholine-sterol O-acyltransferase activator activity,GO:0060228,Psoriasis,MESH:D011565,0,,1,APOE
+phospholipid binding,GO:0005543,Psoriasis,MESH:D011565,0,,1,APOE
+phospholipid-hydroperoxide glutathione peroxidase activity,GO:0047066,Psoriasis,MESH:D011565,0,,1,CP
+platelet-derived growth factor receptor binding,GO:0005161,Psoriasis,MESH:D011565,0,,1,VEGFA
+polyubiquitin modification-dependent protein binding,GO:0031593,Psoriasis,MESH:D011565,0,,1,TNIP1
+primary miRNA binding,GO:0070878,Psoriasis,MESH:D011565,0,,1,STAT3
+promoter-specific chromatin binding,GO:1990841,Psoriasis,MESH:D011565,0,,2,PPARG|TP53
+prostaglandin receptor activity,GO:0004955,Psoriasis,MESH:D011565,0,,1,PPARG
+protease binding,GO:0002020,Psoriasis,MESH:D011565,0,,3,TNF|TNFAIP3|TP53
+protein-arginine N-methyltransferase activity,GO:0016274,Psoriasis,MESH:D011565,0,,1,CARM1
+protein-arginine omega-N asymmetric methyltransferase activity,GO:0035242,Psoriasis,MESH:D011565,0,,1,CARM1
+protein binding,GO:0005515,Parapsoriasis,MESH:D010267,0,,2,HLA-A|HLA-E
+protein binding,GO:0005515,Psoriasis,MESH:D011565,0,,51,AP1S3|APOE|CARD14|CARM1|CRP|CSF2|CSMD1|CYP2S1|ERAP1|FBXL19|GJB2|HLA-C|IFIH1|IFNLR1|IL12B|IL13|IL1B|IL23A|IL23R|IL36RN|IL4|IL6|LCE3B|LCE3C|LCE3D|MKI67|NFKBIA|NOS2|PCNA|PPARG|PTTG1|REL|REN|RIGI|RNF114|RUNX3|S100A7|SERPINB8|SOD2|STAT3|TAGAP|TGFA|TNF|TNFAIP3|TNIP1|TP53|TRAF3IP2|TYK2|VEGFA|VNN2|ZC3H12C
+protein-containing complex binding,GO:0044877,Psoriasis,MESH:D011565,0,,4,APOE|IL12B|NFKBIA|PCNA
+protein dimerization activity,GO:0046983,Psoriasis,MESH:D011565,0,,3,APOE|CRP|STAT3
+protein domain specific binding,GO:0019904,Psoriasis,MESH:D011565,0,,2,IFIH1|IL1B
+protein-glutamine gamma-glutamyltransferase activity,GO:0003810,Psoriasis,MESH:D011565,1,Cyclosporine,0,
+protein heterodimerization activity,GO:0046982,Psoriasis,MESH:D011565,0,,4,IFIH1|IL12B|REL|TP53
+protein homodimerization activity,GO:0042803,Psoriasis,MESH:D011565,0,,6,APOE|CARM1|CAT|NOS2|STAT3|VEGFA
+protein kinase activity,GO:0004672,Psoriasis,MESH:D011565,0,,1,TYK2
+protein kinase binding,GO:0019901,Psoriasis,MESH:D011565,0,,2,NOS2|STAT3
+protein methyltransferase activity,GO:0008276,Psoriasis,MESH:D011565,0,,1,CARM1
+protein phosphatase 2A binding,GO:0051721,Psoriasis,MESH:D011565,0,,1,TP53
+protein phosphatase binding,GO:0019903,Psoriasis,MESH:D011565,0,,2,PPARG|STAT3
+protein sequestering activity,GO:0140311,Psoriasis,MESH:D011565,0,,2,NFKBIA|STAT3
+protein serine/threonine phosphatase activity,GO:0004722,Psoriasis,MESH:D011565,1,Cyclosporine,0,
+protein tyrosine kinase activity,GO:0004713,Psoriasis,MESH:D011565,0,,1,TYK2
+P-type calcium transporter activity,GO:0005388,Psoriasis,MESH:D011565,1,Tobacco Smoke Pollution,0,
+P-type sodium:potassium-exchanging transporter activity,GO:0005391,Psoriasis,MESH:D011565,3,Folic Acid|Lithium Carbonate|Tobacco Smoke Pollution,0,
+purinergic nucleotide receptor activity,GO:0001614,Psoriasis,MESH:D011565,0,,1,HCAR2
+purine-specific mismatch base pair DNA N-glycosylase activity,GO:0000701,Psoriasis,MESH:D011565,0,,1,PCNA
+pyruvate kinase activity,GO:0004743,Psoriasis,MESH:D011565,1,Lithium Carbonate,0,
+RAGE receptor binding,GO:0050786,Psoriasis,MESH:D011565,0,,1,S100A7
+receptor ligand activity,GO:0048018,Parapsoriasis,MESH:D010267,0,,1,HLA-E
+receptor ligand activity,GO:0048018,Psoriasis,MESH:D011565,0,,5,APOE|IL1B|TGFA|TNF|VEGFA
+receptor tyrosine kinase binding,GO:0030971,Psoriasis,MESH:D011565,0,,2,PCNA|TP53
+retinoic acid 4-hydroxylase activity,GO:0008401,Psoriasis,MESH:D011565,0,,1,CYP2S1
+ribonucleoprotein complex binding,GO:0043021,Psoriasis,MESH:D011565,0,,1,IFIH1
+ribosome binding,GO:0043022,Psoriasis,MESH:D011565,0,,1,PTTG1
+RNA binding,GO:0003723,Psoriasis,MESH:D011565,0,,6,CARM1|IFIH1|MKI67|PCNA|RIGI|STAT3
+RNA helicase activity,GO:0003724,Psoriasis,MESH:D011565,0,,2,IFIH1|RIGI
+RNA polymerase II cis-regulatory region sequence-specific DNA binding,GO:0000978,Psoriasis,MESH:D011565,1,Tobacco Smoke Pollution,7,CRP|PPARG|REL|RUNX3|STAT3|TP53|ZNF816
+RNA polymerase II core promoter sequence-specific DNA binding,GO:0000979,Psoriasis,MESH:D011565,0,,1,PPARG
+RNA polymerase II-specific DNA-binding transcription factor binding,GO:0061629,Psoriasis,MESH:D011565,0,,2,STAT3|TP53
+RNA polymerase II transcription regulatory region sequence-specific DNA binding,GO:0000977,Psoriasis,MESH:D011565,0,,5,PPARG|REL|RUNX3|TP53|ZNF816
+RNA sequestering activity,GO:0140610,Psoriasis,MESH:D011565,0,,1,STAT3
+R-SMAD binding,GO:0070412,Psoriasis,MESH:D011565,0,,1,PPARG
+S-adenosylmethionine-dependent methyltransferase activity,GO:0008757,Psoriasis,MESH:D011565,0,,1,CARM1
+sequence-specific DNA binding,GO:0043565,Psoriasis,MESH:D011565,0,,5,CRP|PPARG|REL|STAT3|TP53
+sequence-specific double-stranded DNA binding,GO:1990837,Psoriasis,MESH:D011565,0,,1,RUNX3
+serine-type endopeptidase inhibitor activity,GO:0004867,Psoriasis,MESH:D011565,0,,1,SERPINB8
+SH3 domain binding,GO:0017124,Psoriasis,MESH:D011565,0,,1,PTTG1
+signaling adaptor activity,GO:0035591,Psoriasis,MESH:D011565,0,,1,STAT3
+signaling receptor activity,GO:0038023,Psoriasis,MESH:D011565,0,,1,CP
+signaling receptor binding,GO:0005102,Parapsoriasis,MESH:D010267,0,,2,HLA-A|HLA-E
+signaling receptor binding,GO:0005102,Psoriasis,MESH:D011565,0,,5,APOE|IL6|REN|STAT3|TRAF3IP2
+signaling receptor inhibitor activity,GO:0030547,Psoriasis,MESH:D011565,0,,1,REL
+single-stranded RNA binding,GO:0003727,Psoriasis,MESH:D011565,0,,2,IFIH1|RIGI
+STAT family protein binding,GO:0097677,Psoriasis,MESH:D011565,0,,1,PPARG
+structural constituent of muscle,GO:0008307,Psoriasis,MESH:D011565,0,,1,CRP
+structural molecule activity,GO:0005198,Psoriasis,MESH:D011565,0,,1,APOE
+succinate dehydrogenase activity,GO:0000104,Psoriasis,MESH:D011565,1,Tobacco Smoke Pollution,0,
+succinate dehydrogenase (ubiquinone) activity,GO:0008177,Psoriasis,MESH:D011565,3,Lithium|Lithium Carbonate|Sirolimus,0,
+sucrose alpha-glucosidase activity,GO:0004575,Psoriasis,MESH:D011565,1,Folic Acid,0,
+superoxide dismutase activity,GO:0004784,Psoriasis,MESH:D011565,15,5-Methoxypsoralen|Colchicine|Cyclosporine|Ficusin|Folic Acid|Lithium Carbonate|Methotrexate|Mycophenolic Acid|oxymatrine|Prednisolone|Qingdai compound|Sirolimus|Sulfasalazine|Tobacco Smoke Pollution|Vitamin A,1,SOD2
+TAP binding,GO:0046977,Parapsoriasis,MESH:D010267,0,,1,HLA-A
+TAP binding,GO:0046977,Psoriasis,MESH:D011565,0,,1,HLA-C
+TAP complex binding,GO:0062061,Parapsoriasis,MESH:D010267,0,,1,HLA-A
+tau protein binding,GO:0048156,Psoriasis,MESH:D011565,0,,1,APOE
+T cell receptor binding,GO:0042608,Parapsoriasis,MESH:D010267,0,,2,HLA-A|HLA-E
+tetrahydrobiopterin binding,GO:0034617,Psoriasis,MESH:D011565,0,,1,NOS2
+TFIID-class transcription factor complex binding,GO:0001094,Psoriasis,MESH:D011565,0,,1,TP53
+thromboxane-A synthase activity,GO:0004796,Psoriasis,MESH:D011565,0,,1,CYP2S1
+transcription cis-regulatory region binding,GO:0000976,Psoriasis,MESH:D011565,0,,5,CARM1|PPARG|STAT3|TNF|TP53
+transcription coactivator activity,GO:0003713,Psoriasis,MESH:D011565,0,,1,CARM1
+transcription coactivator binding,GO:0001223,Psoriasis,MESH:D011565,0,,1,PPARG
+transcription coregulator activity,GO:0003712,Psoriasis,MESH:D011565,0,,1,FBXL19
+transcription coregulator binding,GO:0001221,Psoriasis,MESH:D011565,0,,2,PPARG|TP53
+transcription corepressor binding,GO:0001222,Psoriasis,MESH:D011565,0,,1,RUNX3
+transcription factor binding,GO:0008134,Psoriasis,MESH:D011565,0,,2,PCNA|REL
+transcription regulator inhibitor activity,GO:0140416,Psoriasis,MESH:D011565,0,,1,NFKBIA
+transferase activity,GO:0016740,Psoriasis,MESH:D011565,0,,3,CARM1|RNF114|TYK2
+transition metal ion binding,GO:0046914,Psoriasis,MESH:D011565,0,,1,S100A7
+transmembrane receptor protein tyrosine kinase activator activity,GO:0030297,Psoriasis,MESH:D011565,0,,2,TGFA|VEGFA
+transmembrane transporter binding,GO:0044325,Psoriasis,MESH:D011565,0,,1,TP53
+tRNA-intron endonuclease activity,GO:0000213,Psoriasis,MESH:D011565,0,,1,PPARG
+tumor necrosis factor receptor binding,GO:0005164,Psoriasis,MESH:D011565,0,,2,ERAP1|TNF
+type 1 angiotensin receptor binding,GO:0031702,Psoriasis,MESH:D011565,0,,1,TYK2
+ubiquinol-cytochrome-c reductase activity,GO:0008121,Psoriasis,MESH:D011565,1,Sirolimus,0,
+ubiquitin binding,GO:0043130,Psoriasis,MESH:D011565,0,,1,TNFAIP3
+ubiquitin ligase-substrate adaptor activity,GO:1990756,Psoriasis,MESH:D011565,0,,1,FBXL19
+ubiquitin protein ligase activity,GO:0061630,Psoriasis,MESH:D011565,0,,2,RNF114|TRAF3IP2
+ubiquitin protein ligase binding,GO:0031625,Psoriasis,MESH:D011565,0,,3,NFKBIA|RIGI|TP53
+ubiquitin-protein transferase activity,GO:0004842,Psoriasis,MESH:D011565,0,,1,TNFAIP3
+unmethylated CpG binding,GO:0045322,Psoriasis,MESH:D011565,0,,1,FBXL19
+vascular endothelial growth factor receptor 1 binding,GO:0043183,Psoriasis,MESH:D011565,0,,1,VEGFA
+vascular endothelial growth factor receptor 2 binding,GO:0043184,Psoriasis,MESH:D011565,0,,1,VEGFA
+vascular endothelial growth factor receptor binding,GO:0005172,Psoriasis,MESH:D011565,0,,1,VEGFA
+very-low-density lipoprotein particle receptor binding,GO:0070326,Psoriasis,MESH:D011565,0,,1,APOE
+WW domain binding,GO:0050699,Psoriasis,MESH:D011565,0,,1,PPARG
+xanthine oxidase activity,GO:0004855,Psoriasis,MESH:D011565,1,Colchicine,0,
+zinc ion binding,GO:0008270,Psoriasis,MESH:D011565,0,,11,ERAP1|FBXL19|IFIH1|PPARG|RIGI|RNF114|S100A7|TNFAIP3|TP53|ZC3H12C|ZNF816
+zinc ion sequestering activity,GO:0140486,Psoriasis,MESH:D011565,0,,1,S100A7

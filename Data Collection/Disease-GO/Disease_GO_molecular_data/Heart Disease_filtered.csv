@@ -1,0 +1,573 @@
+GOName,GOID,DiseaseName,DiseaseID,InferenceChemicalQty,InferenceChemicalNames,InferenceGeneQty,InferenceGeneSymbols
+1-phosphatidylinositol-3-kinase activity,GO:0016303,Heart Diseases,MESH:D006331,1,sodium arsenite,0,
+"2 iron, 2 sulfur cluster binding",GO:0051537,Heart Diseases,MESH:D006331,0,,1,XDH
+"3',5'-cyclic-AMP phosphodiesterase activity",GO:0004115,Heart Diseases,MESH:D006331,1,Curcumin,0,
+3'-5'-exodeoxyribonuclease activity,GO:0008296,Heart Diseases,MESH:D006331,0,,1,APEX1
+3'-5' exonuclease activity,GO:0008408,Heart Diseases,MESH:D006331,0,,1,APEX1
+3-beta-hydroxy-delta5-steroid dehydrogenase activity,GO:0003854,Heart Diseases,MESH:D006331,4,Curcumin|Indomethacin|sodium arsenite|Vanadium,0,
+3-beta-hydroxy-delta5-steroid dehydrogenase activity,GO:0003854,Pulmonary Heart Disease,MESH:D011660,1,Indomethacin,0,
+3beta-hydroxysteroid dehydrogenase activity,GO:0102727,Heart Diseases,MESH:D006331,3,coenzyme Q10|sodium arsenite|Taurine,0,
+3-hydroxyacyl-CoA dehydrogenase activity,GO:0003857,Heart Diseases,MESH:D006331,0,,1,HADHB
+3-hydroxybutyrate dehydrogenase activity,GO:0003858,Heart Diseases,MESH:D006331,1,Arsenic Trioxide,0,
+5-aminolevulinate synthase activity,GO:0003870,Heart Diseases,MESH:D006331,1,Trichloroethylene,0,
+5'-nucleotidase activity,GO:0008253,Heart Diseases,MESH:D006331,8,Benzo(a)pyrene|bisphenol A|Cadmium Chloride|Fructose|Metformin|Silymarin|sodium arsenite|Streptozocin,0,
+"8-oxo-7,8-dihydroguanine DNA N-glycosylase activity",GO:0034039,Heart Diseases,MESH:D006331,0,,1,OGG1
+ABC-type glutathione S-conjugate transporter activity,GO:0015431,Heart Diseases,MESH:D006331,0,,2,ABCC1|ABCC2
+ABC-type transporter activity,GO:0140359,Heart Diseases,MESH:D006331,1,Dietary Fats,2,ABCC1|ABCC2
+ABC-type vitamin B12 transporter activity,GO:0015420,Heart Diseases,MESH:D006331,0,,1,ABCC1
+ABC-type xenobiotic transporter activity,GO:0008559,Heart Diseases,MESH:D006331,1,Verapamil,3,ABCB1A|ABCC1|ABCC2
+acetylcholinesterase activity,GO:0003990,Heart Diseases,MESH:D006331,16,"Acrylamide|bisphenol A|coenzyme Q10|Ellagic Acid|epigallocatechin gallate|Flavonoids|Grape Seed Proanthocyanidins|Melatonin|Metals, Heavy|Particulate Matter|Pesticides|Plant Extracts|Selenium|Sodium Selenite|Vehicle Emissions|vinpocetine",0,
+acetyl-CoA C-acetyltransferase activity,GO:0003985,Heart Diseases,MESH:D006331,0,,1,HADHB
+acetyl-CoA C-acyltransferase activity,GO:0003988,Heart Diseases,MESH:D006331,0,,1,HADHB
+acetyl-CoA carboxylase activity,GO:0003989,Heart Diseases,MESH:D006331,3,bisphenol A|Dietary Fats|Resveratrol,0,
+[acetyl-CoA carboxylase] kinase activity,GO:0050405,Heart Diseases,MESH:D006331,2,Ethanol|Lipopolysaccharides,0,
+acetyl-CoA C-myristoyltransferase activity,GO:0050633,Heart Diseases,MESH:D006331,0,,1,HADHB
+acid phosphatase activity,GO:0003993,Heart Diseases,MESH:D006331,20,Arsenic|Arsenic Trioxide|Benzo(a)pyrene|bisphenol A|Cadmium|Cadmium Chloride|Cisplatin|Curcumin|Cyclosporine|Flavonoids|Gallic Acid|Grape Seed Proanthocyanidins|iprodione|Iron|manganese chloride|Plant Extracts|Resveratrol|S-allylcysteine|sodium arsenite|Streptozocin,0,
+aconitate hydratase activity,GO:0003994,Heart Diseases,MESH:D006331,6,bisphenol A|Dietary Fats|Hydrogen Peroxide|Paraquat|Streptozocin|Zinc,0,
+actin binding,GO:0003779,Heart Diseases,MESH:D006331,0,,2,TNNI3|TNNT2
+actin filament binding,GO:0051015,Heart Diseases,MESH:D006331,0,,1,TNNI3
+actinin binding,GO:0042805,Heart Diseases,MESH:D006331,0,,1,CRP
+acylglycerol O-acyltransferase activity,GO:0016411,Heart Diseases,MESH:D006331,0,,1,PNPLA2
+acyl-L-homoserine-lactone lactonohydrolase activity,GO:0102007,Heart Diseases,MESH:D006331,0,,1,PON1
+acylphosphatase activity,GO:0003998,Heart Diseases,MESH:D006331,1,Glutathione,0,
+acyltransferase activity,GO:0016746,Heart Diseases,MESH:D006331,0,,1,HADHB
+"acyltransferase activity, transferring groups other than amino-acyl groups",GO:0016747,Heart Diseases,MESH:D006331,0,,1,HADHB
+adenosine deaminase activity,GO:0004000,Heart Diseases,MESH:D006331,2,Allopurinol|Zinc,0,
+adenylate cyclase activity,GO:0004016,Heart Diseases,MESH:D006331,2,Cadmium Chloride|sodium arsenite,0,
+ADP phosphatase activity,GO:0043262,Heart Diseases,MESH:D006331,2,bisphenol A|Caffeine,0,
+adrenergic receptor activity,GO:0004935,Heart Diseases,MESH:D006331,1,Dexamethasone,1,ADRA2A
+alcohol dehydrogenase (NAD+) activity,GO:0004022,Heart Diseases,MESH:D006331,1,Curcumin,0,
+aldehyde dehydrogenase (NAD+) activity,GO:0004029,Heart Diseases,MESH:D006331,1,Disulfiram,0,
+aldehyde dehydrogenase [NAD(P)+] activity,GO:0004030,Heart Diseases,MESH:D006331,3,Acetaldehyde|Ethanol|Plant Extracts,0,
+alditol:NADP+ 1-oxidoreductase activity,GO:0004032,Heart Diseases,MESH:D006331,4,Losartan|Metformin|Streptozocin|Valproic Acid,0,
+alkaline phosphatase activity,GO:0004035,Heart Diseases,MESH:D006331,60,"2,2',4,4'-tetrabromodiphenyl ether|Acetaldehyde|Acetylcysteine|Acrylamide|Allopurinol|Amphotericin B|Arsenic|Arsenic Trioxide|Benzo(a)pyrene|bisphenol A|Cadmium|Cadmium Chloride|Cannabidiol|Catechin|Chloroquine|Cisplatin|coenzyme Q10|Curcumin|Cyclophosphamide|Cyclosporine|deoxynivalenol|Dexamethasone|Dietary Fats|Doxorubicin|Ellagic Acid|epigallocatechin gallate|Epinephrine|Ethanol|Ethinyl Estradiol|Fluorouracil|Fructose|Gallic Acid|Grape Seed Proanthocyanidins|Hydrogen Peroxide|Imatinib Mesylate|Isoniazid|Lipopolysaccharides|manganese chloride|Metformin|mitoquinone|Plant Extracts|Prednisolone|pyrazolanthrone|Raloxifene Hydrochloride|Resveratrol|S-allylcysteine|Selenium|Silymarin|sodium arsenite|Sodium Selenite|Streptozocin|Taurine|Telmisartan|Thiamethoxam|Valproic Acid|Vincristine|Vitamin E|Warfarin|Zidovudine|Zinc",0,
+alpha-1B adrenergic receptor binding,GO:0031692,Heart Diseases,MESH:D006331,0,,1,ADRA2A
+alpha2-adrenergic receptor activity,GO:0004938,Heart Diseases,MESH:D006331,0,,1,ADRA2A
+alpha-2C adrenergic receptor binding,GO:0031696,Heart Diseases,MESH:D006331,0,,1,ADRA2A
+alpha-amylase activity,GO:0004556,Heart Diseases,MESH:D006331,6,caffeic acid phenethyl ester|Carvedilol|Curcumin|Phenylephrine|Polysaccharides|Resveratrol,0,
+alpha-mannosidase activity,GO:0004559,Heart Diseases,MESH:D006331,1,Plant Preparations,0,
+amide transmembrane transporter activity,GO:0042887,Heart Diseases,MESH:D006331,0,,1,ABCC1
+amino acid binding,GO:0016597,Heart Diseases,MESH:D006331,0,,1,TH
+aminopeptidase activity,GO:0004177,Heart Diseases,MESH:D006331,3,Hydrogen Peroxide|Streptozocin|Zinc,0,
+AMP-activated protein kinase activity,GO:0004679,Heart Diseases,MESH:D006331,15,Arsenic Trioxide|bisphenol A|Caffeine|Cisplatin|Dietary Fats|Doxorubicin|Ethanol|Hydrogen Peroxide|Imatinib Mesylate|Lipopolysaccharides|Metformin|Permethrin|Resveratrol|Soot|Streptozocin,0,
+AMP deaminase activity,GO:0003876,Heart Diseases,MESH:D006331,2,Cadmium Chloride|sodium arsenite,0,
+amylase activity,GO:0016160,Heart Diseases,MESH:D006331,9,"Cadmium|Cadmium Chloride|Dexamethasone|Ethanol|Fructose|Heparin, Low-Molecular-Weight|Lipopolysaccharides|Metformin|Streptozocin",0,
+antioxidant activity,GO:0016209,Heart Diseases,MESH:D006331,20,Arsenic Trioxide|bisphenol A|Cannabidiol|Ciprofloxacin|coenzyme Q10|Curcumin|Cyclophosphamide|Dietary Fats|Doxorubicin|Glutathione|Isoproterenol|Malondialdehyde|Melatonin|Particulate Matter|Pravastatin|Selenium|sodium arsenite|Sodium Selenite|T-2 Toxin|vinpocetine,1,ALB
+antiporter activity,GO:0015297,Heart Diseases,MESH:D006331,0,,1,SLC4A3
+arginase activity,GO:0004053,Heart Diseases,MESH:D006331,5,bisphenol A|Caffeine|Streptozocin|Valproic Acid|Zinc,0,
+argininosuccinate lyase activity,GO:0004056,Heart Diseases,MESH:D006331,1,Zidovudine,0,
+aromatase activity,GO:0070330,Heart Diseases,MESH:D006331,2,Amlodipine|Erlotinib Hydrochloride,0,
+aryldialkylphosphatase activity,GO:0004063,Heart Diseases,MESH:D006331,2,Thioctic Acid|Valproic Acid,1,PON1
+arylesterase activity,GO:0004064,Heart Diseases,MESH:D006331,1,Acetylcysteine,1,PON1
+ATP-activated inward rectifier potassium channel activity,GO:0015272,Heart Diseases,MESH:D006331,1,Zinc,0,
+ATPase-coupled inorganic anion transmembrane transporter activity,GO:0043225,Heart Diseases,MESH:D006331,0,,2,ABCC1|ABCC2
+ATPase-coupled intramembrane lipid transporter activity,GO:0140326,Heart Diseases,MESH:D006331,2,coenzyme Q10|Taurine,0,
+ATPase-coupled lipid transmembrane transporter activity,GO:0034040,Heart Diseases,MESH:D006331,0,,1,ABCC1
+ATPase-coupled transmembrane transporter activity,GO:0042626,Heart Diseases,MESH:D006331,0,,3,ABCB1A|ABCC1|ABCC2
+ATP binding,GO:0005524,Heart Diseases,MESH:D006331,0,,5,ABCB1A|ABCC1|ABCC2|ATP2A2|PPP2CA
+ATP-dependent activity,GO:0140657,Heart Diseases,MESH:D006331,9,Arsenic|bisphenol A|Caffeine|Clomipramine|Iron|manganese chloride|Selenium|Streptozocin|Verapamil,0,
+ATP hydrolysis activity,GO:0016887,Heart Diseases,MESH:D006331,26,Acetylcysteine|Arsenic|Arsenic Trioxide|bisphenol A|Cadmium|Cadmium Chloride|Chloroquine|Deferoxamine|Dietary Fats|Doxorubicin|epigallocatechin gallate|Hydrogen Peroxide|Lipopolysaccharides|Losartan|Metformin|Particulate Matter|Plant Extracts|pyrazolanthrone|Resveratrol|Sodium Bicarbonate|Soot|Streptozocin|Taurine|Thioctic Acid|Vehicle Emissions|Verapamil,5,ABCB1A|ABCC1|ABCC2|ATP2A2|ATP5PF
+beta-2 adrenergic receptor binding,GO:0031698,Heart Diseases,MESH:D006331,0,,1,PPP2CA
+beta-catenin binding,GO:0008013,Heart Diseases,MESH:D006331,0,,1,TCF4
+beta-galactosidase activity,GO:0004565,Heart Diseases,MESH:D006331,7,Acetylcysteine|Cannabidiol|Losartan|Paraquat|Particulate Matter|Resveratrol|Vehicle Emissions,0,
+beta-glucosidase activity,GO:0008422,Heart Diseases,MESH:D006331,1,Isoproterenol,0,
+beta-glucuronidase activity,GO:0004566,Heart Diseases,MESH:D006331,1,Isoproterenol,0,
+beta-N-acetylhexosaminidase activity,GO:0004563,Heart Diseases,MESH:D006331,1,Cyclosporine,0,
+beta-tubulin binding,GO:0048487,Heart Diseases,MESH:D006331,2,perfluorooctanoic acid|Vincristine,0,
+bHLH transcription factor binding,GO:0043425,Heart Diseases,MESH:D006331,0,,2,SIRT1|TCF4
+bicarbonate transmembrane transporter activity,GO:0015106,Heart Diseases,MESH:D006331,0,,1,SLC4A3
+bilirubin transmembrane transporter activity,GO:0015127,Heart Diseases,MESH:D006331,0,,1,ABCC2
+calcium channel activity,GO:0005262,Heart Diseases,MESH:D006331,4,Cannabidiol|Raloxifene Hydrochloride|Tamoxifen|Zinc,0,
+calcium channel inhibitor activity,GO:0019855,Heart Diseases,MESH:D006331,0,,1,TNNI3
+calcium-dependent ATPase activity,GO:0030899,Heart Diseases,MESH:D006331,11,Acetylcysteine|Aspirin|Cadmium|cadmium sulfate|Cisplatin|coenzyme Q10|Dietary Fats|Isoproterenol|Sunitinib|T-2 Toxin|Taurine,0,
+calcium-dependent cysteine-type endopeptidase activity,GO:0004198,Heart Diseases,MESH:D006331,6,Arsenic|Cisplatin|Deoxyglucose|Propofol|sodium arsenite|Thioctic Acid,0,
+calcium-dependent protein binding,GO:0048306,Heart Diseases,MESH:D006331,0,,1,TNNI3
+calcium ion binding,GO:0005509,Heart Diseases,MESH:D006331,0,,3,ATP2A2|CRP|PON1
+calmodulin-dependent protein kinase activity,GO:0004683,Heart Diseases,MESH:D006331,1,Vincristine,0,
+calmodulin-dependent protein phosphatase activity,GO:0033192,Heart Diseases,MESH:D006331,3,bisphenol A|sodium arsenite|Verapamil,1,PPP2CA
+cAMP-dependent protein kinase activity,GO:0004691,Heart Diseases,MESH:D006331,1,Cisplatin,0,
+carbonate dehydratase activity,GO:0004089,Heart Diseases,MESH:D006331,5,Caffeine|Dexamethasone|lead nitrate|Streptozocin|Valproic Acid,0,
+carboxylic acid transmembrane transporter activity,GO:0046943,Heart Diseases,MESH:D006331,0,,2,ABCB1A|ABCC1
+carboxylic ester hydrolase activity,GO:0052689,Heart Diseases,MESH:D006331,2,Dietary Fats|Permethrin,0,
+carnitine O-octanoyltransferase activity,GO:0008458,Heart Diseases,MESH:D006331,2,bisphenol A|Dietary Fats,0,
+carnitine O-palmitoyltransferase activity,GO:0004095,Heart Diseases,MESH:D006331,5,bisphenol A|Dietary Fats|Epinephrine|Norepinephrine|Resveratrol,0,
+caspase binding,GO:0089720,Heart Diseases,MESH:D006331,0,,1,SIRT1
+catalase activity,GO:0004096,Heart Diseases,MESH:D006331,6,Allopurinol|Carvedilol|Eugenol|Gentamicins|Isoproterenol|Pesticides,0,
+catalytic activity,GO:0003824,Heart Diseases,MESH:D006331,0,,4,AGT|APEX1|OGG1|PNPLA2
+"catalytic activity, acting on DNA",GO:0140097,Heart Diseases,MESH:D006331,0,,1,OGG1
+ceramide floppase activity,GO:0099038,Heart Diseases,MESH:D006331,0,,1,ABCB1A
+channel activity,GO:0015267,Heart Diseases,MESH:D006331,5,Bupivacaine|Cadmium|Sodium|sodium arsenite|Zinc,0,
+chaperone binding,GO:0051087,Heart Diseases,MESH:D006331,0,,2,ALB|HSPB6
+chemoattractant activity,GO:0042056,Heart Diseases,MESH:D006331,0,,1,VEGFA
+chloride:bicarbonate antiporter activity,GO:0140900,Heart Diseases,MESH:D006331,0,,1,SLC4A3
+cholesterol binding,GO:0015485,Heart Diseases,MESH:D006331,0,,1,CRP
+choline binding,GO:0033265,Heart Diseases,MESH:D006331,0,,1,CRP
+cholinesterase activity,GO:0004104,Heart Diseases,MESH:D006331,5,Dietary Fats|Insecticides|Monocrotophos|Pesticides|sodium arsenite,0,
+chromatin binding,GO:0003682,Heart Diseases,MESH:D006331,1,Cisplatin,4,HDAC1|HDAC3|RARG|TCF4
+chromatin binding,GO:0003682,TESTICULAR ANOMALIES WITH OR WITHOUT CONGENITAL HEART DISEASE,OMIM:615542,0,,1,GATA4
+chromatin DNA binding,GO:0031490,Heart Diseases,MESH:D006331,0,,2,APEX1|HDAC3
+cis-regulatory region sequence-specific DNA binding,GO:0000987,TESTICULAR ANOMALIES WITH OR WITHOUT CONGENITAL HEART DISEASE,OMIM:615542,0,,1,GATA4
+citrate synthase activity,GO:0036440,Heart Diseases,MESH:D006331,2,bisphenol A|Streptozocin,0,
+class I DNA-(apurinic or apyrimidinic site) endonuclease activity,GO:0140078,Heart Diseases,MESH:D006331,0,,1,OGG1
+class II DNA-(apurinic or apyrimidinic site) endonuclease activity,GO:0052720,Heart Diseases,MESH:D006331,0,,1,APEX1
+collagen binding involved in cell-matrix adhesion,GO:0098639,Heart Diseases,MESH:D006331,2,Pravastatin|Resveratrol,0,
+complement component C1q complex binding,GO:0001849,Heart Diseases,MESH:D006331,0,,1,CRP
+copper chaperone activity,GO:0016531,Heart Diseases,MESH:D006331,0,,1,SCO1
+copper ion binding,GO:0005507,Heart Diseases,MESH:D006331,0,,2,ALB|SCO1
+core promoter sequence-specific DNA binding,GO:0001046,Heart Diseases,MESH:D006331,0,,1,HDAC1
+co-SMAD binding,GO:0070410,TESTICULAR ANOMALIES WITH OR WITHOUT CONGENITAL HEART DISEASE,OMIM:615542,0,,1,GATA4
+coumarin 7-hydroxylase activity,GO:0008389,Heart Diseases,MESH:D006331,1,Permethrin,0,
+creatine kinase activity,GO:0004111,Heart Diseases,MESH:D006331,37,"18alpha,20beta-hydroxy-11-oxo-norolean-12-en-3beta-yl-2-O-beta-D-glucopyranurosyl-alpha-D-glucopyranosiduronate magnesium tetrahydrate|Arsenic|Arsenic Trioxide|Barium|bisphenol A|Cadmium|Cadmium Chloride|Carvedilol|Catechin|Ciprofloxacin|coenzyme Q10|Dexamethasone|Dietary Fats|Doxorubicin|Ellagic Acid|Fenitrothion|fenugreek seed meal|Gallic Acid|Glutathione|Grape Seed Proanthocyanidins|Isoproterenol|Lipopolysaccharides|Metformin|Ofloxacin|Polysaccharides|Proanthocyanidins|Resveratrol|salinomycin|Selenium|sodium arsenite|Sodium Selenite|Streptozocin|Tapentadol|Thiamethoxam|Thiram|Tin|Tramadol",0,
+cullin family protein binding,GO:0097602,Heart Diseases,MESH:D006331,0,,1,PPP2CA
+cyclin binding,GO:0030332,Heart Diseases,MESH:D006331,0,,1,HDAC3
+cyclin-dependent protein serine/threonine kinase activity,GO:0004693,Heart Diseases,MESH:D006331,0,,1,PPP2CA
+cysteine-S-conjugate beta-lyase activity,GO:0047804,Heart Diseases,MESH:D006331,1,Trichloroethylene,0,
+cysteine-type endopeptidase activity,GO:0004197,Heart Diseases,MESH:D006331,22,Acetylcysteine|Amiodarone|Arsenic|Arsenic Trioxide|bisphenol A|Cadmium|Cadmium Chloride|Cannabidiol|Docetaxel|Dopamine|Doxorubicin|Ethanol|Fluorouracil|Hydrogen Peroxide|Lipopolysaccharides|Paclitaxel|Particulate Matter|polydatin|pyrazolanthrone|Raloxifene Hydrochloride|sodium arsenite|Vehicle Emissions,1,SFRP1
+cysteine-type endopeptidase activity involved in apoptotic process,GO:0097153,Heart Diseases,MESH:D006331,6,Cannabidiol|Chloroquine|Docetaxel|perfluorooctanoic acid|pifithrin|Rifampin,0,
+cysteine-type peptidase activity,GO:0008234,Heart Diseases,MESH:D006331,4,astaxanthine|bisphenol A|Cyclophosphamide|Fluorouracil,0,
+cytidine deaminase activity,GO:0004126,Heart Diseases,MESH:D006331,1,Arsenic,0,
+"cytochrome-b5 reductase activity, acting on NADH",GO:0090524,Heart Diseases,MESH:D006331,2,Benzo(a)pyrene|sodium arsenite,0,
+"cytochrome-b5 reductase activity, acting on NADPH",GO:0090523,Heart Diseases,MESH:D006331,1,Cadmium Chloride,0,
+cytochrome-c oxidase activity,GO:0004129,Heart Diseases,MESH:D006331,46,"3,4-dihydroxyphenylethanol|Acetylcysteine|aluminum phosphide|Aspirin|Benzo(a)pyrene|bisphenol A|Cadmium|Cadmium Chloride|Cannabidiol|Carvedilol|Chloroquine|Cisplatin|coenzyme Q10|Curcumin|Cyclophosphamide|Deferoxamine|deoxynivalenol|Dietary Fats|Doxorubicin|Ellagic Acid|epigallocatechin gallate|Ethanol|Exenatide|Gallic Acid|Hydrogen Peroxide|Iron|Isoproterenol|lead nitrate|Lipopolysaccharides|mangiferin|Monocrotophos|oleuropein|Ozone|Paraquat|Particulate Matter|Pesticides|Phenylephrine|Resveratrol|sodium arsenite|Sodium Selenite|Soot|Streptozocin|Taurine|Tobacco Smoke Pollution|Vehicle Emissions|Zinc",0,
+cytochrome-c oxidase activity,GO:0004129,Pulmonary Heart Disease,MESH:D011660,1,Ozone,0,
+cytokine activity,GO:0005125,Heart Diseases,MESH:D006331,0,,5,CSF3|EPO|SPP1|TIMP1|VEGFA
+cytokine receptor activity,GO:0004896,Heart Diseases,MESH:D006331,0,,1,NCF4
+D-alanine:2-oxoglutarate aminotransferase activity,GO:0047810,Heart Diseases,MESH:D006331,6,bisphenol A|Curcumin|Ethanol|Isoniazid|Rifampin|sodium arsenite,0,
+damaged DNA binding,GO:0003684,Heart Diseases,MESH:D006331,0,,2,APEX1|OGG1
+damaged DNA binding,GO:0003684,TESTICULAR ANOMALIES WITH OR WITHOUT CONGENITAL HEART DISEASE,OMIM:615542,0,,1,GATA4
+deacetylase activity,GO:0019213,Heart Diseases,MESH:D006331,0,,3,HDAC1|HDAC3|SIRT1
+D-glutamyltransferase activity,GO:0047823,Heart Diseases,MESH:D006331,11,Benzo(a)pyrene|bisphenol A|Cadmium Chloride|Doxorubicin|Flavonoids|Hydrogen Peroxide|Particulate Matter|Streptozocin|Thiamethoxam|Thioctic Acid|Zinc,0,
+diamine oxidase activity,GO:0052597,Heart Diseases,MESH:D006331,1,bisphenol A,0,
+diolein transacylation activity,GO:0051265,Heart Diseases,MESH:D006331,0,,1,PNPLA2
+dipeptidyl-peptidase activity,GO:0008239,Heart Diseases,MESH:D006331,1,bisphenol A,0,
+diuretic hormone activity,GO:0008613,Heart Diseases,MESH:D006331,0,,1,NPPB
+DNA-(abasic site) binding,GO:0140431,Heart Diseases,MESH:D006331,0,,1,APEX1
+DNA-(apurinic or apyrimidinic site) endonuclease activity,GO:0003906,Heart Diseases,MESH:D006331,0,,1,APEX1
+DNA-(apurinic or apyrimidinic site) endonuclease activity,GO:0003906,TESTICULAR ANOMALIES WITH OR WITHOUT CONGENITAL HEART DISEASE,OMIM:615542,0,,1,GATA4
+DNA binding,GO:0003677,Heart Diseases,MESH:D006331,1,Cadmium Chloride,8,AHR2|ALB|APEX1|HDAC1|HDAC3|OGG1|RARG|TCF4
+DNA binding,GO:0003677,TESTICULAR ANOMALIES WITH OR WITHOUT CONGENITAL HEART DISEASE,OMIM:615542,0,,1,GATA4
+DNA-binding transcription activator activity,GO:0001216,TESTICULAR ANOMALIES WITH OR WITHOUT CONGENITAL HEART DISEASE,OMIM:615542,0,,1,GATA4
+"DNA-binding transcription activator activity, RNA polymerase II-specific",GO:0001228,Heart Diseases,MESH:D006331,0,,1,TCF4
+"DNA-binding transcription activator activity, RNA polymerase II-specific",GO:0001228,TESTICULAR ANOMALIES WITH OR WITHOUT CONGENITAL HEART DISEASE,OMIM:615542,0,,1,GATA4
+DNA-binding transcription factor activity,GO:0003700,Heart Diseases,MESH:D006331,4,bisphenol A|Cadmium|Lipopolysaccharides|Ozone,2,RARG|TCF4
+DNA-binding transcription factor activity,GO:0003700,Pulmonary Heart Disease,MESH:D011660,1,Ozone,0,
+DNA-binding transcription factor activity,GO:0003700,TESTICULAR ANOMALIES WITH OR WITHOUT CONGENITAL HEART DISEASE,OMIM:615542,0,,1,GATA4
+"DNA-binding transcription factor activity, RNA polymerase II-specific",GO:0000981,Heart Diseases,MESH:D006331,0,,4,AHR2|CRP|RARG|TCF4
+"DNA-binding transcription factor activity, RNA polymerase II-specific",GO:0000981,TESTICULAR ANOMALIES WITH OR WITHOUT CONGENITAL HEART DISEASE,OMIM:615542,0,,1,GATA4
+DNA-binding transcription factor binding,GO:0140297,Heart Diseases,MESH:D006331,0,,3,HDAC1|HDAC3|SIRT1
+DNA-binding transcription factor binding,GO:0140297,TESTICULAR ANOMALIES WITH OR WITHOUT CONGENITAL HEART DISEASE,OMIM:615542,0,,1,GATA4
+DNA-directed DNA polymerase activity,GO:0003887,Heart Diseases,MESH:D006331,2,Hydrogen Peroxide|Metformin,0,
+DNA-methyltransferase activity,GO:0009008,Heart Diseases,MESH:D006331,6,Curcumin|Dietary Fats|epigallocatechin gallate|Exenatide|Hydrogen Peroxide|Plant Extracts,0,
+DNA N-glycosylase activity,GO:0019104,Heart Diseases,MESH:D006331,0,,1,OGG1
+DNA N-glycosylase activity,GO:0019104,TESTICULAR ANOMALIES WITH OR WITHOUT CONGENITAL HEART DISEASE,OMIM:615542,0,,1,GATA4
+DNA topoisomerase binding,GO:0044547,Heart Diseases,MESH:D006331,1,Etoposide,0,
+"DNA topoisomerase type II (double strand cut, ATP-hydrolyzing) activity",GO:0003918,Heart Diseases,MESH:D006331,1,Etoposide,0,
+dopamine binding,GO:0035240,Heart Diseases,MESH:D006331,0,,1,TH
+double-stranded DNA 3'-5' exodeoxyribonuclease activity,GO:0008311,Heart Diseases,MESH:D006331,0,,1,APEX1
+double-stranded DNA binding,GO:0003690,Heart Diseases,MESH:D006331,0,,1,TCF4
+double-stranded DNA exodeoxyribonuclease activity,GO:0008309,Heart Diseases,MESH:D006331,0,,1,APEX1
+double-stranded telomeric DNA binding,GO:0003691,Heart Diseases,MESH:D006331,0,,1,APEX1
+D-sorbitol dehydrogenase (acceptor) activity,GO:0047833,Heart Diseases,MESH:D006331,1,Valproic Acid,0,
+dynein light chain binding,GO:0045503,Heart Diseases,MESH:D006331,0,,1,BSN
+E-box binding,GO:0070888,Heart Diseases,MESH:D006331,0,,2,HDAC1|TCF4
+efflux transmembrane transporter activity,GO:0015562,Heart Diseases,MESH:D006331,1,Acetylcysteine,2,ABCB1A|ABCC1
+electron transfer activity,GO:0009055,Heart Diseases,MESH:D006331,0,,1,CYBA
+electron transfer activity,GO:0009055,TESTICULAR ANOMALIES WITH OR WITHOUT CONGENITAL HEART DISEASE,OMIM:615542,0,,1,GATA4
+endodeoxyribonuclease activity,GO:0004520,Heart Diseases,MESH:D006331,0,,1,APEX1
+"endodeoxyribonuclease activity, producing 5'-phosphomonoesters",GO:0016888,Heart Diseases,MESH:D006331,0,,1,APEX1
+endonuclease activity,GO:0004519,Heart Diseases,MESH:D006331,0,,2,APEX1|OGG1
+endopeptidase activity,GO:0004175,Heart Diseases,MESH:D006331,5,epigallocatechin gallate|Glutathione|Particulate Matter|Streptozocin|Tobacco Smoke Pollution,0,
+endoribonuclease activity,GO:0004521,Heart Diseases,MESH:D006331,0,,1,APEX1
+enoyl-CoA hydratase activity,GO:0004300,Heart Diseases,MESH:D006331,0,,1,HADHB
+enterobactin binding,GO:1903981,Heart Diseases,MESH:D006331,0,,1,ALB
+enzyme activator activity,GO:0008047,Heart Diseases,MESH:D006331,0,,1,SIRT1
+enzyme binding,GO:0019899,Heart Diseases,MESH:D006331,0,,10,ALB|ATP2A2|CSF3|HDAC1|HDAC3|OGG1|PPP2CA|SIRT1|SLC4A3|TH
+enzyme inhibitor activity,GO:0004857,Heart Diseases,MESH:D006331,0,,1,BSN
+epinephrine binding,GO:0051379,Heart Diseases,MESH:D006331,0,,1,ADRA2A
+erythropoietin receptor binding,GO:0005128,Heart Diseases,MESH:D006331,0,,1,EPO
+estradiol 17-beta-dehydrogenase activity,GO:0004303,Heart Diseases,MESH:D006331,7,coenzyme Q10|Curcumin|Indomethacin|Polysaccharides|sodium arsenite|Taurine|Vanadium,0,
+estradiol 17-beta-dehydrogenase activity,GO:0004303,Pulmonary Heart Disease,MESH:D011660,1,Indomethacin,0,
+exogenous protein binding,GO:0140272,Heart Diseases,MESH:D006331,0,,1,ALB
+exonuclease activity,GO:0004527,Heart Diseases,MESH:D006331,0,,1,APEX1
+extracellular matrix binding,GO:0050840,Heart Diseases,MESH:D006331,0,,2,SPP1|VEGFA
+FAD binding,GO:0071949,Heart Diseases,MESH:D006331,0,,1,XDH
+fatty acid binding,GO:0005504,Heart Diseases,MESH:D006331,0,,1,ALB
+ferric iron binding,GO:0008199,Heart Diseases,MESH:D006331,0,,1,TH
+ferrous iron binding,GO:0008198,Heart Diseases,MESH:D006331,0,,1,TH
+ferroxidase activity,GO:0004322,Heart Diseases,MESH:D006331,2,Ethanol|Fructose,0,
+fibronectin binding,GO:0001968,Heart Diseases,MESH:D006331,0,,1,VEGFA
+flavin adenine dinucleotide binding,GO:0050660,Heart Diseases,MESH:D006331,0,,1,XDH
+floppase activity,GO:0140328,Heart Diseases,MESH:D006331,0,,1,ABCB1A
+frizzled binding,GO:0005109,Heart Diseases,MESH:D006331,0,,1,SFRP1
+"fructose 1,6-bisphosphate 1-phosphatase activity",GO:0042132,Heart Diseases,MESH:D006331,3,Cisplatin|Dietary Fats|Streptozocin,0,
+GABA receptor binding,GO:0050811,Heart Diseases,MESH:D006331,0,,1,PPP2CA
+gap junction channel activity,GO:0005243,Heart Diseases,MESH:D006331,7,Acetylcysteine|Benzo(a)pyrene|mitoquinone|Particulate Matter|perfluorooctanoic acid|pyrazolanthrone|Resveratrol,0,
+gap junction channel activity involved in cardiac conduction electrical coupling,GO:0086075,Heart Diseases,MESH:D006331,1,pyrazolanthrone,0,
+gastric inhibitory polypeptide receptor binding,GO:0031767,Heart Diseases,MESH:D006331,0,,1,GCG
+glucagon receptor binding,GO:0031769,Heart Diseases,MESH:D006331,0,,1,GCG
+glucokinase activity,GO:0004340,Heart Diseases,MESH:D006331,2,Plant Extracts|Streptozocin,0,
+glucose-6-phosphatase activity,GO:0004346,Heart Diseases,MESH:D006331,7,Cisplatin|Dietary Fats|Fructose|Metformin|Plant Extracts|Streptozocin|Vitamin E,0,
+glucose-6-phosphate dehydrogenase activity,GO:0004345,Heart Diseases,MESH:D006331,3,Dietary Fats|Plant Extracts|Streptozocin,0,
+glucuronosyltransferase activity,GO:0015020,Heart Diseases,MESH:D006331,6,Benzo(a)pyrene|bisphenol A|Catechin|epigallocatechin gallate|Plant Preparations|Taurine,0,
+glutamate binding,GO:0016595,Heart Diseases,MESH:D006331,1,Ethanol,0,
+glutamate-cysteine ligase activity,GO:0004357,Heart Diseases,MESH:D006331,4,Cadmium|Cadmium Chloride|Grape Seed Proanthocyanidins|Thioctic Acid,0,
+glutamate dehydrogenase (NAD+) activity,GO:0004352,Heart Diseases,MESH:D006331,1,Melatonin,0,
+glutaminase activity,GO:0004359,Heart Diseases,MESH:D006331,1,bisphenol A,0,
+glutathione binding,GO:0043295,Heart Diseases,MESH:D006331,1,manganese chloride,0,
+glutathione-disulfide reductase (NADPH) activity,GO:0004362,Heart Diseases,MESH:D006331,1,Pesticides,0,
+glutathione hydrolase activity,GO:0036374,Heart Diseases,MESH:D006331,1,Arsenic,0,
+glutathione peroxidase activity,GO:0004602,Heart Diseases,MESH:D006331,107,"18alpha,20beta-hydroxy-11-oxo-norolean-12-en-3beta-yl-2-O-beta-D-glucopyranurosyl-alpha-D-glucopyranosiduronate magnesium tetrahydrate|2,2',4,4'-tetrabromodiphenyl ether|3,4,5,3',4'-pentachlorobiphenyl|3,4-dihydroxyphenylethanol|acetovanillone|Acetylcysteine|Acrylamide|Amiodarone|Arsenic|Arsenic Trioxide|Atenolol|Benzo(a)pyrene|bisphenol A|Bupivacaine|Cadmium|Cadmium Chloride|cadmium sulfate|caffeic acid phenethyl ester|Caffeine|Cannabidiol|Carnitine|Catechin|Chloroquine|Cisplatin|Clozapine|coenzyme Q10|Curcumin|Cyclophosphamide|Cyclosporine|Deferoxamine|deoxynivalenol|Dexamethasone|Dextroamphetamine|Diazepam|Dietary Fats|Doxorubicin|Ellagic Acid|epigallocatechin gallate|Epirubicin|Ethanol|Fenitrothion|ferrostatin-1|Flavonoids|Fluorouracil|Fructose|Gallic Acid|Gentamicins|Glutathione|Glycyrrhetinic Acid|Grape Seed Proanthocyanidins|Hydrogen Peroxide|Indomethacin|Iron|Isoniazid|Isoproterenol|lead nitrate|Linseed Oil|Lipopolysaccharides|Lithium|Losartan|Magnesium Sulfate|Malondialdehyde|manganese chloride|mangiferin|Matrines|Melatonin|Metformin|Methamphetamine|Morphine|nilotinib|Ozone|Paclitaxel|Paraquat|Particulate Matter|Permethrin|Pesticides|Plant Extracts|Plant Preparations|polydatin|Polysaccharides|Proanthocyanidins|Propofol|Resveratrol|S-allylcysteine|salvianolic acid B|schizandrin B|Selenium|Silymarin|sodium arsenite|Sodium Selenite|Soot|Spironolactone|Streptozocin|Sulfur Dioxide|Sunitinib|T-2 Toxin|Taurine|Telmisartan|Thioctic Acid|Thiram|Tobacco Smoke Pollution|Valproic Acid|Vanadium|Vehicle Emissions|Vincristine|Vitamin E|Zinc",0,
+glutathione peroxidase activity,GO:0004602,Pulmonary Heart Disease,MESH:D011660,2,Indomethacin|Ozone,0,
+glutathione transferase activity,GO:0004364,Heart Diseases,MESH:D006331,78,"2,2',4,4'-tetrabromodiphenyl ether|Acetylcysteine|Acrylamide|Allopurinol|Arsenic|Arsenic Trioxide|Benzo(a)pyrene|beta-Naphthoflavone|bisphenol A|Butylated Hydroxyanisole|Cacodylic Acid|Cadmium|Cadmium Chloride|Caffeine|Carvedilol|Ciprofloxacin|Cisplatin|Curcumin|Cyclophosphamide|Cyclosporine|Dexamethasone|Dietary Fats|Dopamine|Doxorubicin|Drugs, Chinese Herbal|Ellagic Acid|epigallocatechin gallate|Epirubicin|Ethanol|Eugenol|Fenitrothion|Fluorouracil|Gallic Acid|Gentamicins|Glutathione|Grape Seed Proanthocyanidins|Iron|Isoniazid|Isoproterenol|Linseed Oil|Lipopolysaccharides|Magnesium Sulfate|manganese chloride|mangiferin|Melatonin|Metals, Heavy|Metformin|Monocrotophos|Morphine|nilotinib|Ozone|Paclitaxel|Paraquat|Particulate Matter|Permethrin|Pesticides|Plant Extracts|Plant Preparations|polydatin|Polysaccharides|Proanthocyanidins|Resveratrol|Selenium|Silymarin|sodium arsenite|Sodium Selenite|Streptozocin|T-2 Toxin|Taurine|Thiamethoxam|Thioctic Acid|Thiram|Trichloroethylene|Valproic Acid|Vehicle Emissions|Vitamin B 12|Vitamin E|Zinc",0,
+glutathione transferase activity,GO:0004364,Pulmonary Heart Disease,MESH:D011660,1,Ozone,0,
+glutathione transmembrane transporter activity,GO:0034634,Heart Diseases,MESH:D006331,0,,1,ABCC1
+glyceraldehyde-3-phosphate dehydrogenase (NAD+) (phosphorylating) activity,GO:0004365,Heart Diseases,MESH:D006331,1,chloroacetic acid,0,
+glycerol-3-phosphate O-acyltransferase activity,GO:0004366,Heart Diseases,MESH:D006331,2,bisphenol A|Resveratrol,0,
+glycogen phosphorylase activity,GO:0008184,Heart Diseases,MESH:D006331,6,bisphenol A|Dietary Fats|Fructose|Metformin|Plant Extracts|Streptozocin,0,
+glycogen (starch) synthase activity,GO:0004373,Heart Diseases,MESH:D006331,3,Plant Extracts|Polysaccharides|Streptozocin,0,
+gonadotropin-releasing hormone binding,GO:0051448,Heart Diseases,MESH:D006331,1,Cadmium Chloride,0,
+G protein-coupled peptide receptor activity,GO:0008528,Heart Diseases,MESH:D006331,0,,1,S1PR2
+G protein-coupled receptor activity,GO:0004930,Heart Diseases,MESH:D006331,0,,4,ADRA2A|PTGIR|S1PR2|SFRP1
+G protein-coupled receptor binding,GO:0001664,Heart Diseases,MESH:D006331,0,,1,S1PR2
+granulocyte colony-stimulating factor receptor binding,GO:0005130,Heart Diseases,MESH:D006331,0,,1,CSF3
+growth factor activity,GO:0008083,Heart Diseases,MESH:D006331,0,,4,AGT|CSF3|TIMP1|VEGFA
+growth factor binding,GO:0019838,Heart Diseases,MESH:D006331,0,,1,VEGFA
+GTPase activity,GO:0003924,Heart Diseases,MESH:D006331,0,,1,RAC2
+GTPase binding,GO:0051020,Heart Diseases,MESH:D006331,0,,1,HDAC3
+GTP binding,GO:0005525,Heart Diseases,MESH:D006331,0,,1,RAC2
+guanylate cyclase activity,GO:0004383,Heart Diseases,MESH:D006331,1,Acetylcysteine,0,
+guanyl-nucleotide exchange factor activity,GO:0005085,Heart Diseases,MESH:D006331,0,,2,ADRA2A|PTGIR
+H3K27me3 modified histone binding,GO:0061628,Heart Diseases,MESH:D006331,3,bisphenol A|Particulate Matter|Vehicle Emissions,0,
+heme binding,GO:0020037,Heart Diseases,MESH:D006331,0,,1,CYBA
+heme binding,GO:0020037,TESTICULAR ANOMALIES WITH OR WITHOUT CONGENITAL HEART DISEASE,OMIM:615542,0,,1,GATA4
+heme oxygenase (decyclizing) activity,GO:0004392,Heart Diseases,MESH:D006331,1,Cannabidiol,0,
+heparin binding,GO:0008201,Heart Diseases,MESH:D006331,0,,2,SFRP1|VEGFA
+heterotrimeric G-protein binding,GO:0032795,Heart Diseases,MESH:D006331,0,,1,ADRA2A
+hexokinase activity,GO:0004396,Heart Diseases,MESH:D006331,13,Arsenic Trioxide|Cadmium Chloride|Cisplatin|Clozapine|Deoxyglucose|Dietary Fats|Diltiazem|Indomethacin|Linseed Oil|Particulate Matter|sodium arsenite|Streptozocin|Valproic Acid,0,
+hexokinase activity,GO:0004396,Pulmonary Heart Disease,MESH:D011660,1,Indomethacin,0,
+high-density lipoprotein particle binding,GO:0008035,Heart Diseases,MESH:D006331,0,,1,PON1
+high voltage-gated calcium channel activity,GO:0008331,Heart Diseases,MESH:D006331,3,Ethanol|Nifedipine|Particulate Matter,0,
+high voltage-gated calcium channel activity,GO:0008331,Pulmonary Heart Disease,MESH:D011660,1,Nifedipine,0,
+histone acetyltransferase activity,GO:0004402,Heart Diseases,MESH:D006331,6,astaxanthine|bisphenol A|Curcumin|Fluorouracil|manganese chloride|Valproic Acid,1,HDAC1
+histone binding,GO:0042393,Heart Diseases,MESH:D006331,1,bisphenol A,1,SIRT1
+histone deacetylase activity,GO:0004407,Heart Diseases,MESH:D006331,9,astaxanthine|Catechin|Curcumin|Dietary Fats|Doxorubicin|Metformin|Plant Extracts|Streptozocin|Valproic Acid,3,HDAC1|HDAC3|SIRT1
+histone deacetylase binding,GO:0042826,Heart Diseases,MESH:D006331,0,,2,HDAC1|HDAC3
+histone decrotonylase activity,GO:0160009,Heart Diseases,MESH:D006331,0,,2,HDAC1|HDAC3
+histone H2S140 phosphatase activity,GO:0140791,Heart Diseases,MESH:D006331,0,,1,PPP2CA
+histone H3K14 deacetylase activity,GO:0031078,Heart Diseases,MESH:D006331,0,,2,HDAC1|HDAC3
+histone H3K27 dimethyltransferase activity,GO:0140952,Heart Diseases,MESH:D006331,1,bisphenol A,0,
+histone H3K27 trimethyltransferase activity,GO:0140951,Heart Diseases,MESH:D006331,1,bisphenol A,0,
+histone H3K4 deacetylase activity,GO:1990162,Heart Diseases,MESH:D006331,0,,2,HDAC1|HDAC3
+histone H3K4me/H3K4me2/H3K4me3 demethylase activity,GO:0034647,Heart Diseases,MESH:D006331,1,sodium arsenite,0,
+histone H3K4 methyltransferase activity,GO:0042800,Heart Diseases,MESH:D006331,2,bisphenol A|sodium arsenite,0,
+histone H3K9 deacetylase activity,GO:0032129,Heart Diseases,MESH:D006331,0,,2,HDAC1|HDAC3
+histone H3K9 demethylase activity,GO:0032454,Heart Diseases,MESH:D006331,3,Dietary Fats|Melatonin|Particulate Matter,0,
+histone H3K9 trimethyltransferase activity,GO:0140949,Heart Diseases,MESH:D006331,1,bisphenol A,0,
+histone H3S28 kinase activity,GO:0044022,Heart Diseases,MESH:D006331,1,bisphenol A,0,
+histone H4K12 deacetylase activity,GO:0140937,Heart Diseases,MESH:D006331,0,,3,HDAC1|HDAC3|SIRT1
+histone H4K16 deacetylase activity,GO:0034739,Heart Diseases,MESH:D006331,0,,2,HDAC1|HDAC3
+HLH domain binding,GO:0043398,Heart Diseases,MESH:D006331,0,,1,SIRT1
+hormone activity,GO:0005179,Heart Diseases,MESH:D006331,0,,4,AGT|EPO|GCG|NPPB
+hormone receptor binding,GO:0051427,Heart Diseases,MESH:D006331,0,,1,NPPB
+Hsp90 protein binding,GO:0051879,Heart Diseases,MESH:D006331,0,,1,UNC45B
+hydrolase activity,GO:0016787,Heart Diseases,MESH:D006331,0,,6,ABCC1|APEX1|HDAC1|HDAC3|PNPLA2|PON1
+"hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds, in linear amides",GO:0016811,Heart Diseases,MESH:D006331,0,,1,HDAC3
+"hydrolase activity, acting on ester bonds",GO:0016788,Heart Diseases,MESH:D006331,2,Cyclophosphamide|Permethrin,1,APEX1
+"hydrolase activity, acting on glycosyl bonds",GO:0016798,Heart Diseases,MESH:D006331,0,,1,OGG1
+hypoxanthine dehydrogenase activity,GO:0070674,Heart Diseases,MESH:D006331,0,,1,XDH
+hypoxanthine oxidase activity,GO:0070675,Heart Diseases,MESH:D006331,0,,1,XDH
+identical protein binding,GO:0042802,Heart Diseases,MESH:D006331,0,,12,ALB|B2M|CRP|GCG|PPP2CA|SFRP1|SIRT1|TCF4|TH|TNNT2|VEGFA|XDH
+IkappaB kinase activity,GO:0008384,Heart Diseases,MESH:D006331,2,Fluorouracil|Resveratrol,0,
+"indoleamine 2,3-dioxygenase activity",GO:0033754,Heart Diseases,MESH:D006331,4,Cadmium|Cadmium Chloride|Cyclophosphamide|Lipopolysaccharides,0,
+"inositol 1,4,5-trisphosphate-sensitive calcium-release channel activity",GO:0005220,Heart Diseases,MESH:D006331,1,Losartan,0,
+integrin binding,GO:0005178,Heart Diseases,MESH:D006331,0,,3,RARG|S1PR2|SPP1
+inward rectifier potassium channel activity,GO:0005242,Heart Diseases,MESH:D006331,3,Cisapride|Terfenadine|Verapamil,0,
+iodide peroxidase activity,GO:0004447,Heart Diseases,MESH:D006331,1,bisphenol A,0,
+iron ion binding,GO:0005506,Heart Diseases,MESH:D006331,2,Cadmium|Cadmium Chloride,2,TH|XDH
+iron-sulfur cluster binding,GO:0051536,Heart Diseases,MESH:D006331,0,,1,XDH
+isocitrate dehydrogenase (NAD+) activity,GO:0004449,Heart Diseases,MESH:D006331,3,bisphenol A|Clofibrate|Zinc,0,
+isocitrate dehydrogenase (NADP+) activity,GO:0004450,Heart Diseases,MESH:D006331,1,Zinc,0,
+isocitrate dehydrogenase [NAD(P)+] activity,GO:0004448,Heart Diseases,MESH:D006331,4,Cadmium|Doxorubicin|Iron|Isoproterenol,0,
+JUN kinase activity,GO:0004705,Heart Diseases,MESH:D006331,6,Acetylcysteine|Cadmium|Fluorouracil|Glutathione|Lipopolysaccharides|pyrazolanthrone,0,
+K63-linked polyubiquitin modification-dependent protein binding,GO:0070530,Heart Diseases,MESH:D006331,1,sodium arsenite,0,
+keratin filament binding,GO:1990254,Heart Diseases,MESH:D006331,0,,1,SIRT1
+Krueppel-associated box domain binding,GO:0035851,Heart Diseases,MESH:D006331,0,,1,HDAC1
+lactase activity,GO:0000016,Heart Diseases,MESH:D006331,2,bisphenol A|Streptozocin,0,
+lactate dehydrogenase activity,GO:0004457,Heart Diseases,MESH:D006331,75,"18alpha,20beta-hydroxy-11-oxo-norolean-12-en-3beta-yl-2-O-beta-D-glucopyranurosyl-alpha-D-glucopyranosiduronate magnesium tetrahydrate|2-chloro-5-nitrobenzanilide|acetovanillone|Acetylcysteine|Acrylamide|alpha-naphthoflavone|Arsenic|Arsenic Trioxide|Barium|Benzo(a)pyrene|bisphenol A|Cadmium|Cadmium Chloride|cadmium sulfate|Caffeine|Catechin|Chloroquine|chloroquine diphosphate|Cisplatin|Clofibrate|Clomipramine|Clozapine|coenzyme Q10|Curcumin|Cyclophosphamide|Cyclosporine|Deoxyglucose|deoxynivalenol|Dexamethasone|Dietary Fats|Doxorubicin|Drugs, Chinese Herbal|Ellagic Acid|epigallocatechin gallate|Ethanol|Fenitrothion|fenugreek seed meal|Flavonoids|Fluorouracil|Fructose|Gallic Acid|Gentamicins|Grape Seed Proanthocyanidins|High Fructose Corn Syrup|Hydrogen Peroxide|Idarubicin|Imatinib Mesylate|Isoproterenol|Lipopolysaccharides|manganese chloride|Metformin|Ozone|Paraquat|Particulate Matter|Permethrin|Plant Extracts|Polysaccharides|Proanthocyanidins|Raloxifene Hydrochloride|Resveratrol|S-allylcysteine|Selenium|Silymarin|sodium arsenite|Sodium Selenite|Streptozocin|T-2 Toxin|Tapentadol|Thiamethoxam|Thioctic Acid|Thiram|Tramadol|Trichloroethylene|Valproic Acid|Zinc",0,
+lactate dehydrogenase activity,GO:0004457,Pulmonary Heart Disease,MESH:D011660,1,Ozone,0,
+L-alanine:2-oxoglutarate aminotransferase activity,GO:0004021,Heart Diseases,MESH:D006331,6,"2,2',4,4'-tetrabromodiphenyl ether|bisphenol A|lead nitrate|perfluorooctanoic acid|Plant Extracts|Silymarin",0,
+L-aspartate:2-oxoglutarate aminotransferase activity,GO:0004069,Heart Diseases,MESH:D006331,76,"18alpha,20beta-hydroxy-11-oxo-norolean-12-en-3beta-yl-2-O-beta-D-glucopyranurosyl-alpha-D-glucopyranosiduronate magnesium tetrahydrate|3,4,5,3',4'-pentachlorobiphenyl|Acetaldehyde|Acetylcysteine|Acrylamide|Amlodipine|Arsenic|Arsenic Trioxide|Benzo(a)pyrene|bisphenol A|Cadmium|Cadmium Chloride|Caffeine|Carnitine|Catechin|chloroquine diphosphate|Cisplatin|Clomipramine|Cocaine|coenzyme Q10|Curcumin|Cyclophosphamide|Cyclosporine|deoxynivalenol|Dexamethasone|Dietary Fats|Doxorubicin|Drugs, Chinese Herbal|epigallocatechin gallate|Ethanol|Ethinyl Estradiol|fenugreek seed meal|Fluorouracil|Fructose|Gallic Acid|Glutathione|Glycyrrhetinic Acid|Grape Seed Proanthocyanidins|Hydrogen Peroxide|Imatinib Mesylate|Iron|Isoniazid|Isoproterenol|lead nitrate|Linseed Oil|Lipopolysaccharides|mangiferin|Melatonin|Metformin|mitoquinone|Monocrotophos|nilotinib|Ozone|Paraquat|Permethrin|pirinixic acid|Plant Extracts|Polysaccharides|Proanthocyanidins|Resveratrol|S-allylcysteine|salvianolic acid B|schizandrin B|Silymarin|sodium arsenite|Streptozocin|T-2 Toxin|Tapentadol|Taurine|Thiamethoxam|Thiram|Tramadol|Vincristine|Vitamin E|Zidovudine|Zinc",0,
+L-aspartate:2-oxoglutarate aminotransferase activity,GO:0004069,Pulmonary Heart Disease,MESH:D011660,1,Ozone,0,
+ligand-activated transcription factor activity,GO:0098531,Heart Diseases,MESH:D006331,0,,1,AHR2
+linoleate 13S-lipoxygenase activity,GO:0016165,Heart Diseases,MESH:D006331,1,Dexamethasone,0,
+lipase activity,GO:0016298,Heart Diseases,MESH:D006331,4,Carvedilol|Ethanol|Ozone|Plant Extracts,0,
+lipase activity,GO:0016298,Pulmonary Heart Disease,MESH:D011660,1,Ozone,0,
+lipid binding,GO:0008289,Heart Diseases,MESH:D006331,0,,2,ALB|S1PR2
+lipopolysaccharide binding,GO:0001530,Heart Diseases,MESH:D006331,1,Tobacco Smoke Pollution,0,
+lipoprotein lipase activity,GO:0004465,Heart Diseases,MESH:D006331,1,perfluorooctanoic acid,1,PNPLA2
+L-lactate dehydrogenase activity,GO:0004459,Heart Diseases,MESH:D006331,1,"Metals, Heavy",0,
+lncRNA binding,GO:0106222,Heart Diseases,MESH:D006331,0,,2,ATP2A2|HADHB
+long-chain fatty acid transporter activity,GO:0005324,Heart Diseases,MESH:D006331,0,,1,ABCC1
+low-density lipoprotein particle binding,GO:0030169,Heart Diseases,MESH:D006331,0,,1,CRP
+low-density lipoprotein particle receptor binding,GO:0050750,Heart Diseases,MESH:D006331,0,,1,CRP
+lutropin-choriogonadotropic hormone receptor binding,GO:0031775,Heart Diseases,MESH:D006331,0,,1,ATP2A2
+lyase activity,GO:0016829,Heart Diseases,MESH:D006331,0,,2,APEX1|OGG1
+lysine-acetylated histone binding,GO:0070577,Heart Diseases,MESH:D006331,8,Arsenic|bisphenol A|epigallocatechin gallate|Ethanol|Hydrocortisone|manganese chloride|sodium arsenite|Valproic Acid,1,SIRT1
+lysozyme activity,GO:0003796,Heart Diseases,MESH:D006331,1,bisphenol A,0,
+malate dehydrogenase activity,GO:0016615,Heart Diseases,MESH:D006331,11,Arsenic|bisphenol A|Cadmium|Cisplatin|Clofibrate|Curcumin|Cyclophosphamide|Doxorubicin|Isoproterenol|Linseed Oil|Particulate Matter,0,
+malic enzyme activity,GO:0004470,Heart Diseases,MESH:D006331,4,Cisplatin|Dietary Fats|Monocrotophos|Zinc,0,
+maltose alpha-glucosidase activity,GO:0032450,Heart Diseases,MESH:D006331,3,bisphenol A|Paraquat|Streptozocin,0,
+mannose-6-phosphate isomerase activity,GO:0004476,Heart Diseases,MESH:D006331,0,,1,OGG1
+MAP kinase activity,GO:0004707,Heart Diseases,MESH:D006331,5,Acetylcysteine|Cadmium|Cisplatin|Glutathione|Sodium Selenite,0,
+MAP kinase kinase activity,GO:0004708,Heart Diseases,MESH:D006331,1,Deoxyglucose,0,
+MAP kinase serine/threonine phosphatase activity,GO:1990439,Heart Diseases,MESH:D006331,0,,1,PPP2CA
+melanocortin receptor activity,GO:0004977,Heart Diseases,MESH:D006331,0,,1,S1PR2
+metal chelating activity,GO:0046911,Heart Diseases,MESH:D006331,1,Hydrogen Peroxide,0,
+metal ion binding,GO:0046872,Heart Diseases,MESH:D006331,0,,16,ALB|APEX1|BSN|CRP|CYBA|HDAC1|HDAC3|HSPB6|MT2A|PON1|PPP2CA|SCO1|SIRT1|TH|TIMP1|XDH
+metal ion binding,GO:0046872,TESTICULAR ANOMALIES WITH OR WITHOUT CONGENITAL HEART DISEASE,OMIM:615542,0,,1,GATA4
+metalloendopeptidase inhibitor activity,GO:0008191,Heart Diseases,MESH:D006331,0,,1,TIMP1
+metallopeptidase activity,GO:0008237,Heart Diseases,MESH:D006331,3,epigallocatechin gallate|Glutathione|Tobacco Smoke Pollution,0,
+methylated-DNA-[protein]-cysteine S-methyltransferase activity,GO:0003908,Heart Diseases,MESH:D006331,0,,1,AGT
+methylated histone binding,GO:0035064,Heart Diseases,MESH:D006331,3,Particulate Matter|sodium arsenite|Vehicle Emissions,0,
+methyltransferase activity,GO:0008168,Heart Diseases,MESH:D006331,1,Ozone,0,
+methyltransferase activity,GO:0008168,Pulmonary Heart Disease,MESH:D011660,1,Ozone,0,
+MHC class II protein complex binding,GO:0023026,Heart Diseases,MESH:D006331,0,,1,B2M
+microfilament motor activity,GO:0000146,Heart Diseases,MESH:D006331,0,,1,TNNT2
+microtubule binding,GO:0008017,Heart Diseases,MESH:D006331,0,,1,OGG1
+microtubule motor activity,GO:0003777,Heart Diseases,MESH:D006331,1,Hydrogen Peroxide,0,
+mitochondrial protein-transporting ATPase activity,GO:0008566,Heart Diseases,MESH:D006331,1,oleuropein,0,
+mitogen-activated protein kinase binding,GO:0051019,Heart Diseases,MESH:D006331,0,,1,SIRT1
+modified amino acid binding,GO:0072341,Heart Diseases,MESH:D006331,0,,1,ALB
+molecular_function,GO:0003674,Heart Diseases,MESH:D006331,0,,3,ALB|MIR34A|SCO1
+molybdenum ion binding,GO:0030151,Heart Diseases,MESH:D006331,0,,1,XDH
+molybdopterin cofactor binding,GO:0043546,Heart Diseases,MESH:D006331,0,,1,XDH
+monoamine oxidase activity,GO:0097621,Heart Diseases,MESH:D006331,4,bisphenol A|Cadmium|Ellagic Acid|Thioctic Acid,0,
+monoatomic anion transmembrane transporter activity,GO:0008509,Heart Diseases,MESH:D006331,0,,1,SLC4A3
+monoatomic cation channel activity,GO:0005261,Heart Diseases,MESH:D006331,1,Lipopolysaccharides,0,
+monoatomic ion channel activity,GO:0005216,Heart Diseases,MESH:D006331,1,Barium,0,
+monodehydroascorbate reductase (NADH) activity,GO:0016656,Heart Diseases,MESH:D006331,2,Cadmium Chloride|sodium arsenite,0,
+mono-olein transacylation activity,GO:0051264,Heart Diseases,MESH:D006331,0,,1,PNPLA2
+monooxygenase activity,GO:0004497,Heart Diseases,MESH:D006331,1,Benzo(a)pyrene,1,TH
+mRNA 3'-UTR binding,GO:0003730,Heart Diseases,MESH:D006331,1,sodium arsenite,2,MIR21|MIR34A
+mRNA 5'-UTR binding,GO:0048027,Heart Diseases,MESH:D006331,1,sodium arsenite,0,
+mRNA base-pairing translational repressor activity,GO:1903231,Heart Diseases,MESH:D006331,0,,2,MIR21|MIR34A
+mRNA cap binding,GO:0098808,Heart Diseases,MESH:D006331,1,Cisplatin,0,
+mRNA CDS binding,GO:1990715,Heart Diseases,MESH:D006331,1,sodium arsenite,0,
+myosin binding,GO:0017022,Heart Diseases,MESH:D006331,0,,1,CRP
+myosin phosphatase activity,GO:0017018,Heart Diseases,MESH:D006331,0,,1,PPP2CA
+N-acetyltransferase activity,GO:0008080,Heart Diseases,MESH:D006331,1,Benzo(a)pyrene,0,
+NAD+ ADP-ribosyltransferase activity,GO:0003950,Heart Diseases,MESH:D006331,1,Paraquat,0,
+NAD+ binding,GO:0070403,Heart Diseases,MESH:D006331,0,,1,SIRT1
+NAD-dependent histone deacetylase activity,GO:0017136,Heart Diseases,MESH:D006331,0,,1,SIRT1
+NAD-dependent histone decrotonylase activity,GO:0160012,Heart Diseases,MESH:D006331,0,,1,SIRT1
+NAD-dependent histone H3K14 deacetylase activity,GO:0032041,Heart Diseases,MESH:D006331,0,,3,HDAC1|HDAC3|SIRT1
+NAD-dependent histone H3K18 deacetylase activity,GO:0097372,Heart Diseases,MESH:D006331,0,,3,HDAC1|HDAC3|SIRT1
+NAD-dependent histone H3K56 deacetylase activity,GO:0140765,Heart Diseases,MESH:D006331,0,,3,HDAC1|HDAC3|SIRT1
+NAD-dependent histone H3K9 deacetylase activity,GO:0046969,Heart Diseases,MESH:D006331,0,,3,HDAC1|HDAC3|SIRT1
+NAD-dependent histone H4K16 deacetylase activity,GO:0046970,Heart Diseases,MESH:D006331,0,,3,HDAC1|HDAC3|SIRT1
+NAD-dependent protein deacetylase activity,GO:0034979,Heart Diseases,MESH:D006331,0,,1,SIRT1
+NADH dehydrogenase activity,GO:0003954,Heart Diseases,MESH:D006331,4,Carvedilol|Doxorubicin|Isoproterenol|Streptozocin,0,
+NADH dehydrogenase (ubiquinone) activity,GO:0008137,Heart Diseases,MESH:D006331,50,"3,4-dihydroxyphenylethanol|acetovanillone|Acetylcysteine|aluminum phosphide|angelicae sinensis extract|Arsenic|Arsenic Trioxide|bisphenol A|Cadmium|Cadmium Chloride|Cannabidiol|Chloroquine|Cisplatin|Clozapine|coenzyme Q10|Curcumin|Cyclophosphamide|Cyclosporine|Deferoxamine|deoxynivalenol|Dextroamphetamine|Dietary Fats|Ellagic Acid|epigallocatechin gallate|Ethanol|Exenatide|Hydrogen Peroxide|Isoproterenol|lead nitrate|Lipopolysaccharides|Lithium|Monocrotophos|oleuropein|Ozone|Paraquat|Particulate Matter|perfluorooctanoic acid|Plant Extracts|Resveratrol|Risperidone|sodium arsenite|Sodium Selenite|Soot|Streptozocin|T-2 Toxin|Taurine|tetrakis(N-methyl-4-pyridiniumyl)porphine manganese(III) complex|Thioctic Acid|Valproic Acid|Vehicle Emissions",0,
+NADH dehydrogenase (ubiquinone) activity,GO:0008137,Pulmonary Heart Disease,MESH:D011660,1,Ozone,0,
+NADPH-hemoprotein reductase activity,GO:0003958,Heart Diseases,MESH:D006331,3,Benzo(a)pyrene|Catechin|Taurine,0,
+NAD(P)H oxidase H2O2-forming activity,GO:0016174,Heart Diseases,MESH:D006331,9,acetovanillone|Arsenic Trioxide|Catechin|Cisplatin|Hydrogen Peroxide|Lipopolysaccharides|Particulate Matter|Resveratrol|sodium arsenite,0,
+NAD+-protein ADP-ribosyltransferase activity,GO:1990404,Heart Diseases,MESH:D006331,2,Hydrogen Peroxide|manganese chloride,0,
+neuropilin binding,GO:0038191,Heart Diseases,MESH:D006331,0,,1,VEGFA
+NFAT protein binding,GO:0051525,TESTICULAR ANOMALIES WITH OR WITHOUT CONGENITAL HEART DISEASE,OMIM:615542,0,,1,GATA4
+NF-kappaB binding,GO:0051059,Heart Diseases,MESH:D006331,3,Ethanol|Etoposide|Lipopolysaccharides,3,APEX1|HDAC1|HDAC3
+nitric-oxide synthase activity,GO:0004517,Heart Diseases,MESH:D006331,15,"bisphenol A|Cadmium|Caffeine|Chloroquine|Dietary Fats|Doxorubicin|Drugs, Chinese Herbal|Isoproterenol|Methamphetamine|Paraquat|Resveratrol|Selenium|Sulfur Dioxide|Thioctic Acid|Tobacco Smoke Pollution",0,
+nitrite reductase (NO-forming) activity,GO:0050421,Heart Diseases,MESH:D006331,0,,1,XDH
+norepinephrine binding,GO:0051380,Heart Diseases,MESH:D006331,0,,1,ADRA2A
+nuclear estrogen receptor activity,GO:0030284,Heart Diseases,MESH:D006331,2,bisphenol A|deoxynivalenol,0,
+nuclear glucocorticoid receptor binding,GO:0035259,Heart Diseases,MESH:D006331,0,,1,RARG
+nuclear receptor activity,GO:0004879,Heart Diseases,MESH:D006331,1,bisphenol A,2,AHR2|RARG
+nuclear receptor binding,GO:0016922,Heart Diseases,MESH:D006331,0,,1,SIRT1
+nuclear retinoid X receptor binding,GO:0046965,Heart Diseases,MESH:D006331,0,,1,RARG
+nuclease activity,GO:0004518,Heart Diseases,MESH:D006331,0,,1,APEX1
+nucleoside triphosphate diphosphatase activity,GO:0047429,Heart Diseases,MESH:D006331,3,Fructose|Metformin|Streptozocin,0,
+nucleotidase activity,GO:0008252,Heart Diseases,MESH:D006331,1,manganese chloride,0,
+nucleotide binding,GO:0000166,Heart Diseases,MESH:D006331,0,,2,ABCC1|ABCC2
+nutrient reservoir activity,GO:0045735,Heart Diseases,MESH:D006331,1,Particulate Matter,0,
+olfactory receptor activity,GO:0004984,Heart Diseases,MESH:D006331,1,perfluorooctanoic acid,0,
+organic anion transmembrane transporter activity,GO:0008514,Heart Diseases,MESH:D006331,0,,1,ABCC2
+ornithine decarboxylase inhibitor activity,GO:0008073,Heart Diseases,MESH:D006331,2,Carmustine|sodium arsenite,0,
+oxidized base lesion DNA N-glycosylase activity,GO:0000702,Heart Diseases,MESH:D006331,0,,1,OGG1
+oxidized purine DNA binding,GO:0032357,Heart Diseases,MESH:D006331,0,,1,OGG1
+oxidized purine nucleobase lesion DNA N-glycosylase activity,GO:0008534,Heart Diseases,MESH:D006331,0,,1,OGG1
+oxidoreductase activity,GO:0016491,Heart Diseases,MESH:D006331,0,,5,ABCC1|APEX1|CYBA|TH|XDH
+"oxidoreductase activity, acting on NAD(P)H",GO:0016651,Heart Diseases,MESH:D006331,2,Acrylamide|Curcumin,0,
+"oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, reduced flavin or flavoprotein as one donor, and incorporation of one atom of oxygen",GO:0016712,Heart Diseases,MESH:D006331,3,Benzo(a)pyrene|bisphenol A|manganese chloride,0,
+"oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, reduced pteridine as one donor, and incorporation of one atom of oxygen",GO:0016714,Heart Diseases,MESH:D006331,0,,1,TH
+oxoglutarate dehydrogenase (succinyl-transferring) activity,GO:0004591,Heart Diseases,MESH:D006331,4,Cadmium|Cyclophosphamide|Doxorubicin|Thioctic Acid,0,
+oxygen binding,GO:0019825,Heart Diseases,MESH:D006331,4,Benzo(a)pyrene|Curcumin|Resveratrol|Taurine,2,ALB|TH
+p53 binding,GO:0002039,Heart Diseases,MESH:D006331,0,,2,HDAC1|SIRT1
+peptidase activator activity involved in apoptotic process,GO:0016505,Heart Diseases,MESH:D006331,12,"2-amino-4-(3,4-(methylenedioxy)benzylamino)-6-(3-methoxyphenyl)pyrimidine|Acetylcysteine|Cisplatin|Deferoxamine|Doxorubicin|Ethanol|Hydrogen Peroxide|Melatonin|pifithrin|Plant Extracts|Sunitinib|Valproic Acid",0,
+peptidase activity,GO:0008233,Heart Diseases,MESH:D006331,4,Dopamine|Particulate Matter|polydatin|Vehicle Emissions,0,
+peptidase inhibitor activity,GO:0030414,Heart Diseases,MESH:D006331,0,,1,TIMP1
+peroxidase activity,GO:0004601,Heart Diseases,MESH:D006331,5,Arsenic|Arsenic Trioxide|bisphenol A|Curcumin|sodium arsenite,0,
+phosphatase activity,GO:0016791,Heart Diseases,MESH:D006331,3,Cadmium|Cadmium Chloride|Potassium,0,
+phosphatidylcholine floppase activity,GO:0090554,Heart Diseases,MESH:D006331,0,,1,ABCB1A
+phosphatidylethanolamine flippase activity,GO:0090555,Heart Diseases,MESH:D006331,0,,1,ABCB1A
+phosphatidylinositol-3-phosphate binding,GO:0032266,Heart Diseases,MESH:D006331,0,,1,NCF4
+phosphatidylinositol binding,GO:0035091,Heart Diseases,MESH:D006331,0,,1,NCF4
+phosphatidylserine floppase activity,GO:0090556,Heart Diseases,MESH:D006331,1,Reactive Oxygen Species,0,
+"phosphodiesterase activity, acting on 3'-phosphoglycolate-terminated DNA strands",GO:0090580,Heart Diseases,MESH:D006331,0,,1,APEX1
+phosphodiesterase I activity,GO:0004528,Heart Diseases,MESH:D006331,0,,1,APEX1
+phosphoenolpyruvate carboxykinase activity,GO:0004611,Heart Diseases,MESH:D006331,5,Arsenic|Arsenic Trioxide|Plant Extracts|sodium arsenite|Streptozocin,0,
+phosphofructokinase activity,GO:0008443,Heart Diseases,MESH:D006331,1,bisphenol A,0,
+phospholipase A2 activity,GO:0004623,Heart Diseases,MESH:D006331,5,Cadmium|Catechin|Cromolyn Sodium|Dexamethasone|Indomethacin,1,PNPLA2
+phospholipase A2 activity,GO:0004623,Pulmonary Heart Disease,MESH:D011660,1,Indomethacin,0,
+phospholipid binding,GO:0005543,Heart Diseases,MESH:D006331,0,,1,PON1
+phosphoprotein phosphatase activity,GO:0004721,Heart Diseases,MESH:D006331,0,,1,PPP2CA
+phosphoric diester hydrolase activity,GO:0008081,Heart Diseases,MESH:D006331,0,,1,APEX1
+platelet-derived growth factor receptor binding,GO:0005161,Heart Diseases,MESH:D006331,0,,1,VEGFA
+pore-forming activity,GO:0140911,Heart Diseases,MESH:D006331,1,deoxynivalenol,0,
+promoter-specific chromatin binding,GO:1990841,Heart Diseases,MESH:D006331,0,,2,HDAC1|SIRT1
+prostacyclin receptor activity,GO:0016501,Heart Diseases,MESH:D006331,0,,1,PTGIR
+prostaglandin-endoperoxide synthase activity,GO:0004666,Heart Diseases,MESH:D006331,1,Particulate Matter,0,
+protease binding,GO:0002020,Heart Diseases,MESH:D006331,0,,1,TIMP1
+protein antigen binding,GO:1990405,Heart Diseases,MESH:D006331,0,,1,PPP2CA
+protein arginine kinase activity,GO:1990424,Heart Diseases,MESH:D006331,1,perfluorooctanoic acid,0,
+protein binding,GO:0005515,Heart Diseases,MESH:D006331,1,Glutathione,42,ABCB1A|ABCC2|ADRA2A|AGT|AHR2|ALB|APEX1|ATP2A2|ATP5ME|ATP5PF|B2M|BSN|CRP|CYBA|EPO|GCG|HADHB|HDAC1|HDAC3|MT2A|NCF4|NPPB|OGG1|PNPLA2|PPP2CA|PSMA2|RAC2|RARG|S1PR2|SCO1|SFRP1|SIRT1|SLC4A3|SPP1|TCF4|TH|TIMP1|TNNI3|TNNT2|UNC45B|VEGFA|XDH
+protein binding,GO:0005515,TESTICULAR ANOMALIES WITH OR WITHOUT CONGENITAL HEART DISEASE,OMIM:615542,0,,1,GATA4
+protein-containing complex binding,GO:0044877,Heart Diseases,MESH:D006331,0,,7,APEX1|ATP5ME|ATP5PF|HADHB|HDAC1|PPP2CA|TNNT2
+protein de-2-hydroxyisobutyrylase activity,GO:0160010,Heart Diseases,MESH:D006331,0,,1,HDAC3
+protein decrotonylase activity,GO:0160008,Heart Diseases,MESH:D006331,0,,1,HDAC3
+protein dimerization activity,GO:0046983,Heart Diseases,MESH:D006331,0,,3,AHR2|CRP|TCF4
+protein disulfide isomerase activity,GO:0003756,Heart Diseases,MESH:D006331,2,bisphenol A|Methamphetamine,0,
+protein domain specific binding,GO:0019904,Heart Diseases,MESH:D006331,0,,6,ABCC2|HDAC3|PPP2CA|SIRT1|TH|TNNI3
+protein folding chaperone,GO:0044183,Heart Diseases,MESH:D006331,0,,1,HSPB6
+protein-glutamine gamma-glutamyltransferase activity,GO:0003810,Heart Diseases,MESH:D006331,9,Cadmium|Cadmium Chloride|Cisplatin|Cyclophosphamide|Cyclosporine|Doxorubicin|nilotinib|Silymarin|Valproic Acid,0,
+protein heterodimerization activity,GO:0046982,Heart Diseases,MESH:D006331,0,,4,ADRA2A|CYBA|PPP2CA|TCF4
+protein homodimerization activity,GO:0042803,Heart Diseases,MESH:D006331,0,,6,ADRA2A|B2M|HSPB6|PON1|VEGFA|XDH
+protein kinase activator activity,GO:0030295,Heart Diseases,MESH:D006331,0,,1,EPO
+protein kinase activity,GO:0004672,Heart Diseases,MESH:D006331,0,,1,PPP2CA
+protein kinase B binding,GO:0043422,Heart Diseases,MESH:D006331,0,,2,PPP2CA|SIRT1
+protein kinase binding,GO:0019901,Heart Diseases,MESH:D006331,0,,5,ADRA2A|HSPB6|PPP2CA|RAC2|TNNI3
+protein kinase binding,GO:0019901,TESTICULAR ANOMALIES WITH OR WITHOUT CONGENITAL HEART DISEASE,OMIM:615542,0,,1,GATA4
+protein kinase C activity,GO:0004697,Heart Diseases,MESH:D006331,4,Paraquat|Silymarin|Streptozocin|Trichloroethylene,0,
+protein kinase regulator activity,GO:0019887,Heart Diseases,MESH:D006331,0,,1,RAC2
+protein lysine deacetylase activity,GO:0033558,Heart Diseases,MESH:D006331,1,Paraquat,3,HDAC1|HDAC3|SIRT1
+protein-macromolecule adaptor activity,GO:0030674,Heart Diseases,MESH:D006331,0,,1,TNNT2
+protein phosphatase 2A binding,GO:0051721,Heart Diseases,MESH:D006331,0,,1,PPP2CA
+protein phosphatase binding,GO:0019903,Heart Diseases,MESH:D006331,0,,1,PPP2CA
+protein-propionyllysine depropionylase activity,GO:0106231,Heart Diseases,MESH:D006331,0,,1,SIRT1
+protein serine/threonine kinase activity,GO:0004674,Heart Diseases,MESH:D006331,1,Streptozocin,1,PPP2CA
+protein serine/threonine phosphatase activity,GO:0004722,Heart Diseases,MESH:D006331,2,Cyclosporine|Verapamil,1,PPP2CA
+protein tyrosine phosphatase activity,GO:0004725,Heart Diseases,MESH:D006331,5,Acetylcysteine|Arsenic Trioxide|Particulate Matter|Selenium|Vehicle Emissions,1,PPP2CA
+proton transmembrane transporter activity,GO:0015078,Heart Diseases,MESH:D006331,0,,2,ATP5ME|ATP5PF
+"proton-transporting ATPase activity, rotational mechanism",GO:0046961,Heart Diseases,MESH:D006331,10,Arsenic|coenzyme Q10|Curcumin|Ellagic Acid|epigallocatechin gallate|Grape Seed Proanthocyanidins|perfluorooctanoic acid|Resveratrol|Taurine|Zinc,0,
+"proton-transporting ATP synthase activity, rotational mechanism",GO:0046933,Heart Diseases,MESH:D006331,2,Monocrotophos|Particulate Matter,2,ATP5ME|ATP5PF
+P-type calcium transporter activity,GO:0005388,Heart Diseases,MESH:D006331,10,Arsenic|Arsenic Trioxide|bisphenol A|Cadmium|Cadmium Chloride|Curcumin|Grape Seed Proanthocyanidins|Lipopolysaccharides|Thioctic Acid|Tobacco Smoke Pollution,1,ATP2A2
+P-type calcium transporter activity involved in regulation of cardiac muscle cell membrane potential,GO:0086039,Heart Diseases,MESH:D006331,0,,1,ATP2A2
+P-type magnesium transporter activity,GO:0015444,Heart Diseases,MESH:D006331,4,Arsenic|Cadmium|Cadmium Chloride|Grape Seed Proanthocyanidins,0,
+P-type sodium:potassium-exchanging transporter activity,GO:0005391,Heart Diseases,MESH:D006331,28,Acetylcysteine|angelicae sinensis extract|Arsenic|Arsenic Trioxide|bisphenol A|Cadmium|Cadmium Chloride|cadmium sulfate|coenzyme Q10|Curcumin|Deoxyglucose|Dietary Fats|Dopamine|Ethanol|Grape Seed Proanthocyanidins|Indomethacin|Isoproterenol|Lipopolysaccharides|manganese chloride|Resveratrol|sodium arsenite|Streptozocin|Taurine|Thioctic Acid|Tobacco Smoke Pollution|Valproic Acid|Vitamin E|Zinc,0,
+P-type sodium:potassium-exchanging transporter activity,GO:0005391,Pulmonary Heart Disease,MESH:D011660,1,Indomethacin,0,
+pyridoxal phosphate binding,GO:0030170,Heart Diseases,MESH:D006331,0,,1,ALB
+pyruvate dehydrogenase (acetyl-transferring) activity,GO:0004739,Heart Diseases,MESH:D006331,1,Dietary Fats,0,
+pyruvate dehydrogenase activity,GO:0004738,Heart Diseases,MESH:D006331,3,caffeic acid phenethyl ester|Dietary Fats|Thioctic Acid,0,
+pyruvate kinase activity,GO:0004743,Heart Diseases,MESH:D006331,7,Cadmium Chloride|Deoxyglucose|Imatinib Mesylate|Monocrotophos|Particulate Matter|sodium arsenite|Streptozocin,0,
+receptor ligand activity,GO:0048018,Heart Diseases,MESH:D006331,0,,3,AGT|GCG|VEGFA
+retinyl-palmitate esterase activity,GO:0050253,Heart Diseases,MESH:D006331,0,,1,PNPLA2
+RNA binding,GO:0003723,Heart Diseases,MESH:D006331,0,,1,APEX1
+RNA-DNA hybrid ribonuclease activity,GO:0004523,Heart Diseases,MESH:D006331,0,,1,APEX1
+RNA polymerase II cis-regulatory region sequence-specific DNA binding,GO:0000978,Heart Diseases,MESH:D006331,1,Tobacco Smoke Pollution,6,CRP|HDAC1|OGG1|RARG|SIRT1|TCF4
+RNA polymerase II cis-regulatory region sequence-specific DNA binding,GO:0000978,TESTICULAR ANOMALIES WITH OR WITHOUT CONGENITAL HEART DISEASE,OMIM:615542,0,,1,GATA4
+RNA polymerase II core promoter sequence-specific DNA binding,GO:0000979,Heart Diseases,MESH:D006331,0,,1,HDAC1
+RNA polymerase II-specific DNA-binding transcription factor binding,GO:0061629,Heart Diseases,MESH:D006331,0,,1,HDAC1
+RNA polymerase II-specific DNA-binding transcription factor binding,GO:0061629,TESTICULAR ANOMALIES WITH OR WITHOUT CONGENITAL HEART DISEASE,OMIM:615542,0,,1,GATA4
+RNA polymerase II transcription regulatory region sequence-specific DNA binding,GO:0000977,Heart Diseases,MESH:D006331,0,,1,TCF4
+RNA polymerase II transcription regulatory region sequence-specific DNA binding,GO:0000977,TESTICULAR ANOMALIES WITH OR WITHOUT CONGENITAL HEART DISEASE,OMIM:615542,0,,1,GATA4
+S100 protein binding,GO:0044548,Heart Diseases,MESH:D006331,0,,1,ATP2A2
+sequence-specific DNA binding,GO:0043565,Heart Diseases,MESH:D006331,0,,2,AHR2|CRP
+sequence-specific DNA binding,GO:0043565,TESTICULAR ANOMALIES WITH OR WITHOUT CONGENITAL HEART DISEASE,OMIM:615542,0,,1,GATA4
+sequence-specific double-stranded DNA binding,GO:1990837,Heart Diseases,MESH:D006331,0,,2,RARG|TCF4
+sequence-specific double-stranded DNA binding,GO:1990837,TESTICULAR ANOMALIES WITH OR WITHOUT CONGENITAL HEART DISEASE,OMIM:615542,0,,1,GATA4
+serine-type endopeptidase inhibitor activity,GO:0004867,Heart Diseases,MESH:D006331,0,,1,AGT
+serine-type peptidase activity,GO:0008236,Heart Diseases,MESH:D006331,1,Catechin,1,BSN
+SH3 domain binding,GO:0017124,Heart Diseases,MESH:D006331,0,,1,CYBA
+signaling receptor binding,GO:0005102,Heart Diseases,MESH:D006331,0,,2,GCG|NPPB
+"site-specific endodeoxyribonuclease activity, specific for altered base",GO:0016890,Heart Diseases,MESH:D006331,0,,1,APEX1
+small molecule binding,GO:0036094,Heart Diseases,MESH:D006331,0,,3,ALB|SPP1|TH
+sodium channel activity,GO:0005272,Heart Diseases,MESH:D006331,2,Cadmium|Resveratrol,0,
+sodium channel regulator activity,GO:0017080,Heart Diseases,MESH:D006331,0,,1,AGT
+solute:inorganic anion antiporter activity,GO:0005452,Heart Diseases,MESH:D006331,0,,1,SLC4A3
+sphingolipid transporter activity,GO:0046624,Heart Diseases,MESH:D006331,0,,1,ABCC1
+sphingosine-1-phosphate receptor activity,GO:0038036,Heart Diseases,MESH:D006331,0,,1,S1PR2
+starch synthase activity,GO:0009011,Heart Diseases,MESH:D006331,2,Dietary Fats|Streptozocin,0,
+"steroid dehydrogenase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor",GO:0033764,Heart Diseases,MESH:D006331,1,Cyclophosphamide,0,
+steroid hydroxylase activity,GO:0008395,Heart Diseases,MESH:D006331,1,bisphenol A,0,
+structural constituent of cytoskeleton,GO:0005200,Heart Diseases,MESH:D006331,0,,1,TNNT2
+structural constituent of eye lens,GO:0005212,Heart Diseases,MESH:D006331,0,,1,HSPB6
+structural constituent of muscle,GO:0008307,Heart Diseases,MESH:D006331,0,,1,CRP
+structural constituent of presynaptic active zone,GO:0098882,Heart Diseases,MESH:D006331,0,,1,BSN
+structural molecule activity,GO:0005198,Heart Diseases,MESH:D006331,0,,2,B2M|TNNT2
+succinate dehydrogenase activity,GO:0000104,Heart Diseases,MESH:D006331,19,Arsenic|Arsenic Trioxide|bisphenol A|Cadmium|Carvedilol|Cisplatin|Curcumin|Cyclophosphamide|deoxynivalenol|Dietary Fats|Doxorubicin|Gallic Acid|Hydrogen Peroxide|Isoproterenol|Lipopolysaccharides|Plant Extracts|Streptozocin|Tobacco Smoke Pollution|Zinc,0,
+succinate dehydrogenase (ubiquinone) activity,GO:0008177,Heart Diseases,MESH:D006331,37,"3,4-dihydroxyphenylethanol|acetovanillone|Acetylcysteine|aluminum phosphide|Arsenic|Arsenic Trioxide|Aspirin|bisphenol A|Cadmium|Cadmium Chloride|Cannabidiol|Chloroquine|Cisplatin|coenzyme Q10|Curcumin|Cyclophosphamide|Deferoxamine|deoxynivalenol|Dextroamphetamine|Dietary Fats|Doxorubicin|Ellagic Acid|epigallocatechin gallate|Ethanol|Gallic Acid|Heparin|Isoproterenol|lead nitrate|Lithium|Melatonin|Monocrotophos|Paraquat|perfluorooctanoic acid|sodium arsenite|Streptozocin|Thioctic Acid|Valproic Acid",0,
+sucrose alpha-glucosidase activity,GO:0004575,Heart Diseases,MESH:D006331,4,bisphenol A|Paraquat|Streptozocin|Vitamin B 12,0,
+sulfotransferase activity,GO:0008146,Heart Diseases,MESH:D006331,1,Plant Extracts,0,
+superoxide dismutase activity,GO:0004784,Heart Diseases,MESH:D006331,150,"18alpha,20beta-hydroxy-11-oxo-norolean-12-en-3beta-yl-2-O-beta-D-glucopyranurosyl-alpha-D-glucopyranosiduronate magnesium tetrahydrate|2,2',4,4'-tetrabromodiphenyl ether|2-amino-4-(3,4-(methylenedioxy)benzylamino)-6-(3-methoxyphenyl)pyrimidine|2-chloro-5-nitrobenzanilide|3,4,5,3',4'-pentachlorobiphenyl|3,4-dihydroxyphenylethanol|acetovanillone|Acetylcysteine|Acrylamide|Allopurinol|alpha-naphthoflavone|Amiodarone|Amlodipine|angelicae sinensis extract|Arsenic|Arsenic Trioxide|Aspirin|astaxanthine|Atenolol|Barium|Benzo(a)pyrene|bisphenol A|boric acid|Bupivacaine|butachlor|Butylated Hydroxytoluene|Cacodylic Acid|Cadmium|Cadmium Chloride|cadmium sulfate|Cannabidiol|Carnitine|Carvedilol|Catechin|Chloroquine|Ciprofloxacin|Cisplatin|Clofibrate|Cocaine|coenzyme Q10|Curcumin|Cyclophosphamide|Cyclosporine|Deferoxamine|deoxynivalenol|Dexamethasone|Diazepam|dichlorfop-methyl|Dietary Fats|Doxorubicin|Drugs, Chinese Herbal|Ellagic Acid|epigallocatechin gallate|Epirubicin|erdosteine|Ethanol|Eugenol|Exenatide|Fenitrothion|ferrostatin-1|Flavonoids|Fluorouracil|Flutamide|Fructose|fullerene C60|Gallic Acid|Gentamicins|Glutathione|Glycyrrhetinic Acid|Grape Seed Proanthocyanidins|Hydrogen Peroxide|Ibuprofen|Idarubicin|Indomethacin|iodixanol|Iohexol|iprodione|Iron|Isoniazid|Isoproterenol|lead nitrate|Linseed Oil|Lipopolysaccharides|Losartan|Magnesium Sulfate|manganese chloride|mangiferin|Matrines|Melatonin|Metformin|Methamphetamine|Mitoxantrone|Morphine|Naloxone|Nandrolone Decanoate|Nifedipine|nilotinib|oleuropein|Olmesartan Medoxomil|oxadiazon|Ozone|Paclitaxel|Paraquat|Particulate Matter|perfluorooctanoic acid|Permethrin|Pesticides|pirfenidone|Plant Extracts|Plant Oils|Plant Preparations|polydatin|Polysaccharides|Prednisolone|Proanthocyanidins|Probucol|Propofol|Resveratrol|Rifampin|S-allylcysteine|salvianolic acid B|schizandrin B|Selenium|sesamin|Silymarin|sodium arsenite|Sodium Bicarbonate|Sodium Selenite|Soot|Streptozocin|Sulfur Dioxide|T-2 Toxin|Taurine|Telmisartan|Testosterone|Thiamethoxam|Thioctic Acid|Thiram|Tobacco Smoke Pollution|tricarbonyldichlororuthenium (II) dimer|Trichloroethylene|Valproic Acid|Vanadium|Vehicle Emissions|Verapamil|Vincristine|vinpocetine|Vitamin B 12|Vitamin E|Zinc",0,
+superoxide dismutase activity,GO:0004784,Pulmonary Heart Disease,MESH:D011660,3,Indomethacin|Nifedipine|Ozone,0,
+superoxide-generating NADPH oxidase activator activity,GO:0016176,Heart Diseases,MESH:D006331,0,,2,AGT|NCF4
+superoxide-generating NAD(P)H oxidase activity,GO:0016175,Heart Diseases,MESH:D006331,0,,1,CYBA
+superoxide-generating NADPH oxidase activity,GO:0106292,Heart Diseases,MESH:D006331,6,bisphenol A|Cadmium Chloride|Curcumin|Doxorubicin|Gentamicins|Methamphetamine,0,
+tau protein binding,GO:0048156,Heart Diseases,MESH:D006331,0,,1,PPP2CA
+telomerase activity,GO:0003720,Heart Diseases,MESH:D006331,6,Acetylcysteine|Arsenic Trioxide|Benzo(a)pyrene|bisphenol A|Glutathione|Particulate Matter,0,
+testosterone 6-beta-hydroxylase activity,GO:0050649,Heart Diseases,MESH:D006331,2,Amiodarone|Dexamethasone,0,
+testosterone dehydrogenase [NAD(P)] activity,GO:0030283,Heart Diseases,MESH:D006331,1,bisphenol A,0,
+tetrahydrobiopterin binding,GO:0034617,Heart Diseases,MESH:D006331,0,,1,TH
+TFIIB-class transcription factor binding,GO:0001093,Heart Diseases,MESH:D006331,0,,1,TCF4
+thioesterase binding,GO:0031996,Heart Diseases,MESH:D006331,0,,1,ADRA2A
+thioredoxin-disulfide reductase activity,GO:0004791,Heart Diseases,MESH:D006331,9,acetovanillone|Acrylamide|Cadmium|Cisplatin|Curcumin|Iron|Selenium|sodium arsenite|Streptozocin,0,
+thromboxane receptor activity,GO:0004960,Heart Diseases,MESH:D006331,0,,1,PTGIR
+Toll-like receptor 4 binding,GO:0035662,Heart Diseases,MESH:D006331,1,Chloroquine,0,
+toxic substance binding,GO:0015643,Heart Diseases,MESH:D006331,0,,1,ALB
+transaminase activity,GO:0008483,Heart Diseases,MESH:D006331,5,"Arsenic|Fenitrothion|Metals, Heavy|Plant Extracts|Thiamethoxam",0,
+transcription cis-regulatory region binding,GO:0000976,Heart Diseases,MESH:D006331,0,,2,AHR2|HDAC1
+transcription cis-regulatory region binding,GO:0000976,TESTICULAR ANOMALIES WITH OR WITHOUT CONGENITAL HEART DISEASE,OMIM:615542,0,,1,GATA4
+transcription coactivator activity,GO:0003713,Heart Diseases,MESH:D006331,0,,2,APEX1|SIRT1
+transcription coactivator binding,GO:0001223,Heart Diseases,MESH:D006331,0,,1,SIRT1
+transcription coactivator binding,GO:0001223,TESTICULAR ANOMALIES WITH OR WITHOUT CONGENITAL HEART DISEASE,OMIM:615542,0,,1,GATA4
+transcription corepressor activity,GO:0003714,Heart Diseases,MESH:D006331,0,,5,APEX1|HDAC1|HDAC3|SIRT1|TCF4
+transcription corepressor binding,GO:0001222,Heart Diseases,MESH:D006331,0,,3,BSN|HDAC1|HDAC3
+transcription factor binding,GO:0008134,Heart Diseases,MESH:D006331,0,,2,B2M|HDAC3
+transferase activity,GO:0016740,Heart Diseases,MESH:D006331,0,,2,HADHB|SIRT1
+transmembrane receptor protein tyrosine kinase activator activity,GO:0030297,Heart Diseases,MESH:D006331,0,,1,VEGFA
+transmembrane transporter activity,GO:0022857,Heart Diseases,MESH:D006331,0,,3,ABCB1A|ABCC1|ABCC2
+transmembrane transporter binding,GO:0044325,Heart Diseases,MESH:D006331,0,,2,ATP2A2|PPP2CA
+trehalase activity,GO:0015927,Heart Diseases,MESH:D006331,1,Ozone,0,
+trehalase activity,GO:0015927,Pulmonary Heart Disease,MESH:D011660,1,Ozone,0,
+triglyceride lipase activity,GO:0004806,Heart Diseases,MESH:D006331,1,Dietary Fats,1,PNPLA2
+tropomyosin binding,GO:0005523,Heart Diseases,MESH:D006331,0,,1,TNNT2
+troponin C binding,GO:0030172,Heart Diseases,MESH:D006331,0,,2,TNNI3|TNNT2
+troponin I binding,GO:0031013,Heart Diseases,MESH:D006331,0,,1,TNNT2
+troponin T binding,GO:0031014,Heart Diseases,MESH:D006331,0,,1,TNNI3
+"tryptophan 2,3-dioxygenase activity",GO:0004833,Heart Diseases,MESH:D006331,3,Cadmium|Cadmium Chloride|Cyclophosphamide,0,
+tryptophan 5-monooxygenase activity,GO:0004510,Heart Diseases,MESH:D006331,1,Tamoxifen,0,
+tubulin deacetylase activity,GO:0042903,Heart Diseases,MESH:D006331,0,,1,HDAC3
+type 1 angiotensin receptor binding,GO:0031702,Heart Diseases,MESH:D006331,0,,1,AGT
+type 2 angiotensin receptor binding,GO:0031703,Heart Diseases,MESH:D006331,0,,1,AGT
+tyrosinase activity,GO:0004503,Heart Diseases,MESH:D006331,1,bisphenol A,0,
+tyrosine 3-monooxygenase activity,GO:0004511,Heart Diseases,MESH:D006331,0,,1,TH
+ubiquinol-cytochrome-c reductase activity,GO:0008121,Heart Diseases,MESH:D006331,23,Arsenic|Arsenic Trioxide|bisphenol A|Cadmium|Cadmium Chloride|Chloroquine|Cisplatin|coenzyme Q10|Curcumin|Cyclophosphamide|Deferoxamine|deoxynivalenol|Ellagic Acid|epigallocatechin gallate|Gallic Acid|Isoproterenol|lead nitrate|Paraquat|perfluorooctanoic acid|pyrazolanthrone|sodium arsenite|Sunitinib|Thioctic Acid,0,
+ubiquitin protein ligase binding,GO:0031625,Heart Diseases,MESH:D006331,0,,1,ABCB1A
+ubiquitin-specific protease binding,GO:1990381,Heart Diseases,MESH:D006331,0,,1,HDAC3
+unfolded protein binding,GO:0051082,Heart Diseases,MESH:D006331,0,,1,HSPB6
+uracil DNA N-glycosylase activity,GO:0004844,Heart Diseases,MESH:D006331,0,,1,APEX1
+vascular endothelial growth factor receptor 1 binding,GO:0043183,Heart Diseases,MESH:D006331,0,,1,VEGFA
+vascular endothelial growth factor receptor 2 binding,GO:0043184,Heart Diseases,MESH:D006331,0,,1,VEGFA
+vascular endothelial growth factor receptor binding,GO:0005172,Heart Diseases,MESH:D006331,0,,1,VEGFA
+vitamin-K-epoxide reductase (warfarin-sensitive) activity,GO:0047057,Heart Diseases,MESH:D006331,1,Warfarin,0,
+vitamin-K-epoxide reductase (warfarin-sensitive) activity,GO:0047057,Rheumatic Heart Disease,MESH:D012214,1,Acenocoumarol,0,
+voltage-gated calcium channel activity,GO:0005245,Heart Diseases,MESH:D006331,2,bisphenol A|Cadmium Chloride,0,
+voltage-gated calcium channel activity involved in regulation of cytosolic calcium levels,GO:0099511,Heart Diseases,MESH:D006331,2,Doxorubicin|Sunitinib,0,
+voltage-gated channel activity,GO:0022832,Heart Diseases,MESH:D006331,2,Deoxyglucose|Tamoxifen,0,
+voltage-gated potassium channel activity,GO:0005249,Heart Diseases,MESH:D006331,2,bisphenol A|Valproic Acid,0,
+voltage-gated sodium channel activity,GO:0005248,Heart Diseases,MESH:D006331,2,bisphenol A|Lidocaine,0,
+voltage-gated sodium channel activity involved in cardiac muscle cell action potential,GO:0086006,Heart Diseases,MESH:D006331,2,bisphenol A|Terfenadine,0,
+Wnt-protein binding,GO:0017147,Heart Diseases,MESH:D006331,0,,1,SFRP1
+xanthine dehydrogenase activity,GO:0004854,Heart Diseases,MESH:D006331,2,Allopurinol|salinomycin,1,XDH
+xanthine oxidase activity,GO:0004855,Heart Diseases,MESH:D006331,3,Allopurinol|Benzo(a)pyrene|Zinc,1,XDH
+xenobiotic transmembrane transporter activity,GO:0042910,Heart Diseases,MESH:D006331,0,,3,ABCB1A|ABCC1|ABCC2
+zinc ion binding,GO:0008270,Heart Diseases,MESH:D006331,1,Arsenic,6,ALB|BSN|MT2A|OGG1|RARG|TIMP1
+zinc ion binding,GO:0008270,TESTICULAR ANOMALIES WITH OR WITHOUT CONGENITAL HEART DISEASE,OMIM:615542,0,,1,GATA4

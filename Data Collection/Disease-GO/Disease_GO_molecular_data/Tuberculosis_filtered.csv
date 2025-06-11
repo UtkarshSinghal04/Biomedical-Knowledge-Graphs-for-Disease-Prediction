@@ -1,0 +1,378 @@
+GOName,GOID,DiseaseName,DiseaseID,InferenceChemicalQty,InferenceChemicalNames,InferenceGeneQty,InferenceGeneSymbols
+1-phosphatidylinositol-3-kinase regulator activity,GO:0046935,"MYCOBACTERIUM TUBERCULOSIS, SUSCEPTIBILITY TO",OMIM:607948,0,,1,CISH
+ABC-type xenobiotic transporter activity,GO:0008559,Tuberculosis,MESH:D014376,1,Verapamil,0,
+acetylcholinesterase activity,GO:0003990,"Mycobacterium tuberculosis, susceptibility to infection by",MESH:C536092,1,Particulate Matter,0,
+acetylcholinesterase activity,GO:0003990,Tuberculosis,MESH:D014376,1,Tretinoin,0,
+acetylcholinesterase activity,GO:0003990,"Tuberculosis, Pulmonary",MESH:D014397,1,Particulate Matter,0,
+acid phosphatase activity,GO:0003993,Tuberculosis,MESH:D014376,1,Iron,0,
+acid phosphatase activity,GO:0003993,"Tuberculosis, Pulmonary",MESH:D014397,1,Arsenic,0,
+actin binding,GO:0003779,Paratuberculosis,MESH:D010283,0,,1,GSN
+actin binding,GO:0003779,Tuberculosis,MESH:D014376,0,,1,CORO1A
+actin filament binding,GO:0051015,Paratuberculosis,MESH:D010283,0,,1,GSN
+actin filament binding,GO:0051015,Tuberculosis,MESH:D014376,0,,1,CORO1A
+actin monomer binding,GO:0003785,Tuberculosis,MESH:D014376,0,,1,CORO1A
+aliphatic amine oxidase activity,GO:0052595,Paratuberculosis,MESH:D010283,0,,1,AOC3
+alkaline phosphatase activity,GO:0004035,Latent Tuberculosis,MESH:D055985,1,Isoniazid,0,
+alkaline phosphatase activity,GO:0004035,Tuberculosis,MESH:D014376,4,Chenodeoxycholic Acid|Isoniazid|Prednisolone|Vitamin K 2,0,
+alkaline phosphatase activity,GO:0004035,"Tuberculosis, Central Nervous System",MESH:D020306,1,Isoniazid,0,
+alkaline phosphatase activity,GO:0004035,"Tuberculosis, Gastrointestinal",MESH:D014385,1,Isoniazid,0,
+alkaline phosphatase activity,GO:0004035,"Tuberculosis, Lymph Node",MESH:D014388,1,Isoniazid,0,
+alkaline phosphatase activity,GO:0004035,"Tuberculosis, Meningeal",MESH:D014390,1,Isoniazid,0,
+alkaline phosphatase activity,GO:0004035,"Tuberculosis, Multidrug-Resistant",MESH:D018088,1,Isoniazid,0,
+alkaline phosphatase activity,GO:0004035,"Tuberculosis, Osteoarticular",MESH:D014394,1,Prednisolone,0,
+alkaline phosphatase activity,GO:0004035,"Tuberculosis, Pleural",MESH:D014396,1,Isoniazid,0,
+alkaline phosphatase activity,GO:0004035,"Tuberculosis, Pulmonary",MESH:D014397,2,Arsenic|Isoniazid,0,
+alkaline phosphatase activity,GO:0004035,"Tuberculosis, Spinal",MESH:D014399,1,Isoniazid,0,
+amyloid-beta binding,GO:0001540,"MYCOBACTERIUM TUBERCULOSIS, SUSCEPTIBILITY TO",OMIM:607948,0,,1,TLR2
+antioxidant activity,GO:0016209,"Mycobacterium tuberculosis, susceptibility to infection by",MESH:C536092,1,Particulate Matter,0,
+antioxidant activity,GO:0016209,Tuberculosis,MESH:D014376,2,Ciprofloxacin|Tretinoin,1,HP
+antioxidant activity,GO:0016209,"Tuberculosis, Pulmonary",MESH:D014397,1,Particulate Matter,0,
+antioxidant activity,GO:0016209,"Tuberculosis, Spinal",MESH:D014399,1,Ciprofloxacin,0,
+ATP-dependent activity,GO:0140657,Tuberculosis,MESH:D014376,2,Iron|Verapamil,0,
+ATP-dependent activity,GO:0140657,"Tuberculosis, Pulmonary",MESH:D014397,1,Arsenic,0,
+ATP hydrolysis activity,GO:0016887,"Mycobacterium tuberculosis, susceptibility to infection by",MESH:C536092,1,Particulate Matter,0,
+ATP hydrolysis activity,GO:0016887,Tuberculosis,MESH:D014376,1,Verapamil,0,
+ATP hydrolysis activity,GO:0016887,"Tuberculosis, Pulmonary",MESH:D014397,2,Arsenic|Particulate Matter,0,
+beta-galactosidase activity,GO:0004565,"Mycobacterium tuberculosis, susceptibility to infection by",MESH:C536092,2,Air Pollutants|Particulate Matter,0,
+beta-galactosidase activity,GO:0004565,"Tuberculosis, Pulmonary",MESH:D014397,2,Air Pollutants|Particulate Matter,0,
+BH3 domain binding,GO:0051434,"MYCOBACTERIUM TUBERCULOSIS, SUSCEPTIBILITY TO",OMIM:607948,0,,1,IRGM
+C5L2 anaphylatoxin chemotactic receptor binding,GO:0031715,Paratuberculosis,MESH:D010283,0,,1,C3
+cadmium ion transmembrane transporter activity,GO:0015086,"MYCOBACTERIUM TUBERCULOSIS, SUSCEPTIBILITY TO",OMIM:607948,0,,1,SLC11A1
+cadmium ion transmembrane transporter activity,GO:0015086,Tuberculosis,MESH:D014376,0,,1,SLC11A1
+calcium-dependent cysteine-type endopeptidase activity,GO:0004198,"Tuberculosis, Pulmonary",MESH:D014397,1,Arsenic,0,
+calcium-dependent phospholipase A2 activity,GO:0047498,Tuberculosis,MESH:D014376,1,Tretinoin,0,
+calcium ion binding,GO:0005509,Paratuberculosis,MESH:D010283,0,,4,AOC3|C1R|F2|GSN
+calcium ion binding,GO:0005509,"Tuberculosis, Pulmonary",MESH:D014397,0,,1,MMP8
+calmodulin-dependent protein phosphatase activity,GO:0033192,Tuberculosis,MESH:D014376,1,Verapamil,0,
+carbohydrate binding,GO:0030246,"MYCOBACTERIUM TUBERCULOSIS, SUSCEPTIBILITY TO",OMIM:607948,0,,1,CD209
+carbohydrate binding,GO:0030246,"Tuberculosis, Pulmonary",MESH:D014397,0,,1,CD209
+CARD domain binding,GO:0050700,"MYCOBACTERIUM TUBERCULOSIS, SUSCEPTIBILITY TO",OMIM:607948,0,,1,IRGM
+cardiolipin binding,GO:1901612,"MYCOBACTERIUM TUBERCULOSIS, SUSCEPTIBILITY TO",OMIM:607948,0,,1,IRGM
+catalase activity,GO:0004096,Tuberculosis,MESH:D014376,1,Gentamicins,0,
+CCR2 chemokine receptor binding,GO:0031727,"MYCOBACTERIUM TUBERCULOSIS, SUSCEPTIBILITY TO",OMIM:607948,0,,1,CCL2
+CCR2 chemokine receptor binding,GO:0031727,"Tuberculosis, Pulmonary",MESH:D014397,0,,1,CCL2
+CCR chemokine receptor binding,GO:0048020,"MYCOBACTERIUM TUBERCULOSIS, SUSCEPTIBILITY TO",OMIM:607948,0,,1,CCL2
+CCR chemokine receptor binding,GO:0048020,"Tuberculosis, Pulmonary",MESH:D014397,0,,1,CCL2
+chemoattractant activity,GO:0042056,"MYCOBACTERIUM TUBERCULOSIS, SUSCEPTIBILITY TO",OMIM:607948,0,,1,CCL2
+chemoattractant activity,GO:0042056,"Tuberculosis, Pulmonary",MESH:D014397,0,,1,CCL2
+chemokine activity,GO:0008009,"MYCOBACTERIUM TUBERCULOSIS, SUSCEPTIBILITY TO",OMIM:607948,0,,1,CCL2
+chemokine activity,GO:0008009,"Tuberculosis, Pulmonary",MESH:D014397,0,,1,CCL2
+copper ion binding,GO:0005507,Paratuberculosis,MESH:D010283,0,,1,AOC3
+creatine kinase activity,GO:0004111,Tuberculosis,MESH:D014376,2,Ciprofloxacin|Ofloxacin,0,
+creatine kinase activity,GO:0004111,"Tuberculosis, Lymph Node",MESH:D014388,1,Ofloxacin,0,
+creatine kinase activity,GO:0004111,"Tuberculosis, Multidrug-Resistant",MESH:D018088,1,Ofloxacin,0,
+creatine kinase activity,GO:0004111,"Tuberculosis, Osteoarticular",MESH:D014394,1,Ofloxacin,0,
+creatine kinase activity,GO:0004111,"Tuberculosis, Pulmonary",MESH:D014397,2,Arsenic|Ofloxacin,0,
+creatine kinase activity,GO:0004111,"Tuberculosis, Spinal",MESH:D014399,1,Ciprofloxacin,0,
+cysteine-type endopeptidase activity,GO:0004197,"Mycobacterium tuberculosis, susceptibility to infection by",MESH:C536092,1,Particulate Matter,0,
+cysteine-type endopeptidase activity,GO:0004197,"Tuberculosis, Pulmonary",MESH:D014397,2,Arsenic|Particulate Matter,0,
+cysteine-type endopeptidase activity involved in apoptotic process,GO:0097153,Tuberculosis,MESH:D014376,1,Rifampin,0,
+cysteine-type endopeptidase activity involved in apoptotic process,GO:0097153,"Tuberculosis, Central Nervous System",MESH:D020306,1,Rifampin,0,
+cysteine-type endopeptidase activity involved in apoptotic process,GO:0097153,"Tuberculosis, Gastrointestinal",MESH:D014385,1,Rifampin,0,
+cysteine-type endopeptidase activity involved in apoptotic process,GO:0097153,"Tuberculosis, Lymph Node",MESH:D014388,1,Rifampin,0,
+cysteine-type endopeptidase activity involved in apoptotic process,GO:0097153,"Tuberculosis, Meningeal",MESH:D014390,1,Rifampin,0,
+cysteine-type endopeptidase activity involved in apoptotic process,GO:0097153,"Tuberculosis, Multidrug-Resistant",MESH:D018088,1,Rifampin,0,
+cysteine-type endopeptidase activity involved in apoptotic process,GO:0097153,"Tuberculosis, Pleural",MESH:D014396,1,Rifampin,0,
+cysteine-type endopeptidase activity involved in apoptotic process,GO:0097153,"Tuberculosis, Pulmonary",MESH:D014397,1,Rifampin,0,
+cysteine-type endopeptidase activity involved in apoptotic process,GO:0097153,"Tuberculosis, Renal",MESH:D014398,1,Rifampin,0,
+cysteine-type endopeptidase activity involved in apoptotic process,GO:0097153,"Tuberculosis, Spinal",MESH:D014399,1,Rifampin,0,
+cytidine deaminase activity,GO:0004126,"Tuberculosis, Pulmonary",MESH:D014397,1,Arsenic,0,
+cytochrome-c oxidase activity,GO:0004129,"Mycobacterium tuberculosis, susceptibility to infection by",MESH:C536092,2,Air Pollutants|Particulate Matter,0,
+cytochrome-c oxidase activity,GO:0004129,Tuberculosis,MESH:D014376,1,Iron,0,
+cytochrome-c oxidase activity,GO:0004129,"Tuberculosis, Pulmonary",MESH:D014397,2,Air Pollutants|Particulate Matter,0,
+cytokine activity,GO:0005125,"MYCOBACTERIUM TUBERCULOSIS, SUSCEPTIBILITY TO",OMIM:607948,0,,2,CCL2|IFNG
+cytokine activity,GO:0005125,"Mycobacterium tuberculosis, susceptibility to infection by",MESH:C536092,0,,1,TNFSF8
+cytokine activity,GO:0005125,"Tuberculosis, Bovine",MESH:D014380,0,,1,IL4
+cytokine activity,GO:0005125,"Tuberculosis, Pulmonary",MESH:D014397,0,,1,CCL2
+cytokine binding,GO:0019955,"MYCOBACTERIUM TUBERCULOSIS, SUSCEPTIBILITY TO",OMIM:607948,0,,1,IFNGR1
+cytokine receptor activity,GO:0004896,"MYCOBACTERIUM TUBERCULOSIS, SUSCEPTIBILITY TO",OMIM:607948,0,,1,IFNGR1
+cytoskeletal protein binding,GO:0008092,Tuberculosis,MESH:D014376,0,,1,CORO1A
+D-alanine:2-oxoglutarate aminotransferase activity,GO:0047810,Latent Tuberculosis,MESH:D055985,1,Isoniazid,0,
+D-alanine:2-oxoglutarate aminotransferase activity,GO:0047810,Tuberculosis,MESH:D014376,2,Isoniazid|Rifampin,0,
+D-alanine:2-oxoglutarate aminotransferase activity,GO:0047810,"Tuberculosis, Central Nervous System",MESH:D020306,2,Isoniazid|Rifampin,0,
+D-alanine:2-oxoglutarate aminotransferase activity,GO:0047810,"Tuberculosis, Gastrointestinal",MESH:D014385,2,Isoniazid|Rifampin,0,
+D-alanine:2-oxoglutarate aminotransferase activity,GO:0047810,"Tuberculosis, Lymph Node",MESH:D014388,2,Isoniazid|Rifampin,0,
+D-alanine:2-oxoglutarate aminotransferase activity,GO:0047810,"Tuberculosis, Meningeal",MESH:D014390,2,Isoniazid|Rifampin,0,
+D-alanine:2-oxoglutarate aminotransferase activity,GO:0047810,"Tuberculosis, Multidrug-Resistant",MESH:D018088,2,Isoniazid|Rifampin,0,
+D-alanine:2-oxoglutarate aminotransferase activity,GO:0047810,"Tuberculosis, Pleural",MESH:D014396,2,Isoniazid|Rifampin,0,
+D-alanine:2-oxoglutarate aminotransferase activity,GO:0047810,"Tuberculosis, Pulmonary",MESH:D014397,2,Isoniazid|Rifampin,0,
+D-alanine:2-oxoglutarate aminotransferase activity,GO:0047810,"Tuberculosis, Renal",MESH:D014398,1,Rifampin,0,
+D-alanine:2-oxoglutarate aminotransferase activity,GO:0047810,"Tuberculosis, Spinal",MESH:D014399,2,Isoniazid|Rifampin,0,
+D-glutamyltransferase activity,GO:0047823,"Mycobacterium tuberculosis, susceptibility to infection by",MESH:C536092,2,Air Pollutants|Particulate Matter,0,
+D-glutamyltransferase activity,GO:0047823,"Tuberculosis, Pulmonary",MESH:D014397,2,Air Pollutants|Particulate Matter,0,
+diacyl lipopeptide binding,GO:0042498,"MYCOBACTERIUM TUBERCULOSIS, SUSCEPTIBILITY TO",OMIM:607948,0,,1,TLR2
+DNA binding,GO:0003677,"MYCOBACTERIUM TUBERCULOSIS, SUSCEPTIBILITY TO",OMIM:607948,0,,1,SP110
+DNA-binding transcription factor activity,GO:0003700,Paratuberculosis,MESH:D010283,0,,1,C1R
+"DNA-binding transcription factor activity, RNA polymerase II-specific",GO:0000981,"MYCOBACTERIUM TUBERCULOSIS, SUSCEPTIBILITY TO",OMIM:607948,0,,1,SP110
+"DNA-binding transcription factor activity, RNA polymerase II-specific",GO:0000981,Paratuberculosis,MESH:D010283,0,,1,F2
+endopeptidase activity,GO:0004175,"Mycobacterium tuberculosis, susceptibility to infection by",MESH:C536092,1,Particulate Matter,0,
+endopeptidase activity,GO:0004175,Paratuberculosis,MESH:D010283,0,,1,F2
+endopeptidase activity,GO:0004175,"Tuberculosis, Pulmonary",MESH:D014397,1,Particulate Matter,3,MMP3|MMP7|MMP8
+endopeptidase inhibitor activity,GO:0004866,Paratuberculosis,MESH:D010283,0,,1,C3
+enzyme binding,GO:0019899,Paratuberculosis,MESH:D010283,0,,1,TF
+ferric iron binding,GO:0008199,Paratuberculosis,MESH:D010283,0,,1,TF
+ferrous iron binding,GO:0008198,Paratuberculosis,MESH:D010283,0,,1,TF
+"fructose 1,6-bisphosphate 1-phosphatase activity",GO:0042132,"Tuberculosis, Multidrug-Resistant",MESH:D018088,1,Gatifloxacin,0,
+fucose binding,GO:0042806,"MYCOBACTERIUM TUBERCULOSIS, SUSCEPTIBILITY TO",OMIM:607948,0,,1,CD209
+fucose binding,GO:0042806,"Tuberculosis, Pulmonary",MESH:D014397,0,,1,CD209
+gap junction channel activity,GO:0005243,"Mycobacterium tuberculosis, susceptibility to infection by",MESH:C536092,2,Air Pollutants|Particulate Matter,0,
+gap junction channel activity,GO:0005243,Tuberculosis,MESH:D014376,1,Tretinoin,0,
+gap junction channel activity,GO:0005243,"Tuberculosis, Pulmonary",MESH:D014397,2,Air Pollutants|Particulate Matter,0,
+glutathione hydrolase activity,GO:0036374,"Tuberculosis, Pulmonary",MESH:D014397,1,Arsenic,0,
+glutathione peroxidase activity,GO:0004602,Latent Tuberculosis,MESH:D055985,1,Isoniazid,0,
+glutathione peroxidase activity,GO:0004602,"Mycobacterium tuberculosis, susceptibility to infection by",MESH:C536092,2,Air Pollutants|Particulate Matter,0,
+glutathione peroxidase activity,GO:0004602,Tuberculosis,MESH:D014376,3,Gentamicins|Iron|Isoniazid,0,
+glutathione peroxidase activity,GO:0004602,"Tuberculosis, Central Nervous System",MESH:D020306,1,Isoniazid,0,
+glutathione peroxidase activity,GO:0004602,"Tuberculosis, Gastrointestinal",MESH:D014385,1,Isoniazid,0,
+glutathione peroxidase activity,GO:0004602,"Tuberculosis, Lymph Node",MESH:D014388,1,Isoniazid,0,
+glutathione peroxidase activity,GO:0004602,"Tuberculosis, Meningeal",MESH:D014390,1,Isoniazid,0,
+glutathione peroxidase activity,GO:0004602,"Tuberculosis, Multidrug-Resistant",MESH:D018088,1,Isoniazid,0,
+glutathione peroxidase activity,GO:0004602,"Tuberculosis, Pleural",MESH:D014396,1,Isoniazid,0,
+glutathione peroxidase activity,GO:0004602,"Tuberculosis, Pulmonary",MESH:D014397,5,Air Pollutants|Arsenic|Isoniazid|Particulate Matter|Sulfur Dioxide,0,
+glutathione peroxidase activity,GO:0004602,"Tuberculosis, Spinal",MESH:D014399,1,Isoniazid,0,
+glutathione transferase activity,GO:0004364,Extensively Drug-Resistant Tuberculosis,MESH:D054908,1,Ethambutol,0,
+glutathione transferase activity,GO:0004364,Latent Tuberculosis,MESH:D055985,1,Isoniazid,0,
+glutathione transferase activity,GO:0004364,"Mycobacterium tuberculosis, susceptibility to infection by",MESH:C536092,1,Particulate Matter,0,
+glutathione transferase activity,GO:0004364,Tuberculosis,MESH:D014376,7,"Ciprofloxacin|Ethambutol|Gentamicins|Iron|Isoniazid|isoniazid, pyrazinamide, rifampin drug combination|Tretinoin",0,
+glutathione transferase activity,GO:0004364,"Tuberculosis, Central Nervous System",MESH:D020306,2,Ethambutol|Isoniazid,0,
+glutathione transferase activity,GO:0004364,"Tuberculosis, Gastrointestinal",MESH:D014385,1,Isoniazid,0,
+glutathione transferase activity,GO:0004364,"Tuberculosis, Lymph Node",MESH:D014388,3,"Ethambutol|Isoniazid|isoniazid, pyrazinamide, rifampin drug combination",0,
+glutathione transferase activity,GO:0004364,"Tuberculosis, Meningeal",MESH:D014390,1,Isoniazid,0,
+glutathione transferase activity,GO:0004364,"Tuberculosis, Miliary",MESH:D014391,2,"Ethambutol|isoniazid, pyrazinamide, rifampin drug combination",0,
+glutathione transferase activity,GO:0004364,"Tuberculosis, Multidrug-Resistant",MESH:D018088,2,Ethambutol|Isoniazid,0,
+glutathione transferase activity,GO:0004364,"Tuberculosis, Osteoarticular",MESH:D014394,2,"Ethambutol|isoniazid, pyrazinamide, rifampin drug combination",0,
+glutathione transferase activity,GO:0004364,"Tuberculosis, Pleural",MESH:D014396,2,Ethambutol|Isoniazid,0,
+glutathione transferase activity,GO:0004364,"Tuberculosis, Pulmonary",MESH:D014397,5,"Arsenic|Ethambutol|Isoniazid|isoniazid, pyrazinamide, rifampin drug combination|Particulate Matter",0,
+glutathione transferase activity,GO:0004364,"Tuberculosis, Spinal",MESH:D014399,3,Ciprofloxacin|Ethambutol|Isoniazid,0,
+G protein activity,GO:0003925,"MYCOBACTERIUM TUBERCULOSIS, SUSCEPTIBILITY TO",OMIM:607948,0,,1,IRGM
+G protein-coupled receptor activity,GO:0004930,"MYCOBACTERIUM TUBERCULOSIS, SUSCEPTIBILITY TO",OMIM:607948,0,,1,IFNGR1
+G protein-coupled receptor binding,GO:0001664,"MYCOBACTERIUM TUBERCULOSIS, SUSCEPTIBILITY TO",OMIM:607948,0,,1,CCL2
+G protein-coupled receptor binding,GO:0001664,"Tuberculosis, Pulmonary",MESH:D014397,0,,1,CCL2
+growth factor activity,GO:0008083,Paratuberculosis,MESH:D010283,0,,1,F2
+growth factor activity,GO:0008083,"Tuberculosis, Bovine",MESH:D014380,0,,1,IL4
+GTPase activator activity,GO:0005096,"Tuberculosis, Pulmonary",MESH:D014397,0,,1,ASAP1
+GTPase activity,GO:0003924,"MYCOBACTERIUM TUBERCULOSIS, SUSCEPTIBILITY TO",OMIM:607948,0,,1,IRGM
+GTP binding,GO:0005525,"MYCOBACTERIUM TUBERCULOSIS, SUSCEPTIBILITY TO",OMIM:607948,0,,1,IRGM
+GTP binding,GO:0005525,Paratuberculosis,MESH:D010283,0,,1,TF
+H3K27me3 modified histone binding,GO:0061628,"Mycobacterium tuberculosis, susceptibility to infection by",MESH:C536092,1,Particulate Matter,0,
+H3K27me3 modified histone binding,GO:0061628,"Tuberculosis, Pulmonary",MESH:D014397,1,Particulate Matter,0,
+hemoglobin binding,GO:0030492,Tuberculosis,MESH:D014376,0,,1,HP
+heparin binding,GO:0008201,"MYCOBACTERIUM TUBERCULOSIS, SUSCEPTIBILITY TO",OMIM:607948,0,,1,CCL2
+heparin binding,GO:0008201,Paratuberculosis,MESH:D010283,0,,1,F2
+heparin binding,GO:0008201,"Tuberculosis, Pulmonary",MESH:D014397,0,,2,CCL2|MMP7
+hexokinase activity,GO:0004396,"Mycobacterium tuberculosis, susceptibility to infection by",MESH:C536092,2,Air Pollutants|Particulate Matter,0,
+hexokinase activity,GO:0004396,"Tuberculosis, Multidrug-Resistant",MESH:D018088,1,Gatifloxacin,0,
+hexokinase activity,GO:0004396,"Tuberculosis, Pulmonary",MESH:D014397,2,Air Pollutants|Particulate Matter,0,
+high voltage-gated calcium channel activity,GO:0008331,"Mycobacterium tuberculosis, susceptibility to infection by",MESH:C536092,1,Particulate Matter,0,
+high voltage-gated calcium channel activity,GO:0008331,"Tuberculosis, Pulmonary",MESH:D014397,1,Particulate Matter,0,
+histone H3K9 demethylase activity,GO:0032454,"Mycobacterium tuberculosis, susceptibility to infection by",MESH:C536092,1,Particulate Matter,0,
+histone H3K9 demethylase activity,GO:0032454,"Tuberculosis, Pulmonary",MESH:D014397,1,Particulate Matter,0,
+hyaluronic acid binding,GO:0005540,Paratuberculosis,MESH:D010283,0,,1,F2
+hydrolase activity,GO:0016787,"MYCOBACTERIUM TUBERCULOSIS, SUSCEPTIBILITY TO",OMIM:607948,0,,1,IRGM
+hydrolase activity,GO:0016787,Paratuberculosis,MESH:D010283,0,,2,C1R|F2
+identical protein binding,GO:0042802,"MYCOBACTERIUM TUBERCULOSIS, SUSCEPTIBILITY TO",OMIM:607948,0,,2,TIRAP|TLR2
+identical protein binding,GO:0042802,Paratuberculosis,MESH:D010283,0,,2,AOC3|C1R
+identical protein binding,GO:0042802,Tuberculosis,MESH:D014376,0,,3,CORO1A|HP|TIRAP
+interleukin-4 receptor binding,GO:0005136,"Tuberculosis, Bovine",MESH:D014380,0,,1,IL4
+inward rectifier potassium channel activity,GO:0005242,Tuberculosis,MESH:D014376,1,Verapamil,0,
+iron chaperone activity,GO:0034986,Paratuberculosis,MESH:D010283,0,,1,TF
+iron ion transmembrane transporter activity,GO:0005381,"MYCOBACTERIUM TUBERCULOSIS, SUSCEPTIBILITY TO",OMIM:607948,0,,1,SLC11A1
+iron ion transmembrane transporter activity,GO:0005381,Tuberculosis,MESH:D014376,0,,1,SLC11A1
+isocitrate dehydrogenase [NAD(P)+] activity,GO:0004448,Tuberculosis,MESH:D014376,1,Iron,0,
+lactate dehydrogenase activity,GO:0004457,Extensively Drug-Resistant Tuberculosis,MESH:D054908,1,Ethambutol,0,
+lactate dehydrogenase activity,GO:0004457,"Mycobacterium tuberculosis, susceptibility to infection by",MESH:C536092,2,Air Pollutants|Particulate Matter,0,
+lactate dehydrogenase activity,GO:0004457,Tuberculosis,MESH:D014376,3,"Ethambutol|Gentamicins|isoniazid, pyrazinamide, rifampin drug combination",0,
+lactate dehydrogenase activity,GO:0004457,"Tuberculosis, Central Nervous System",MESH:D020306,1,Ethambutol,0,
+lactate dehydrogenase activity,GO:0004457,"Tuberculosis, Lymph Node",MESH:D014388,2,"Ethambutol|isoniazid, pyrazinamide, rifampin drug combination",0,
+lactate dehydrogenase activity,GO:0004457,"Tuberculosis, Miliary",MESH:D014391,2,"Ethambutol|isoniazid, pyrazinamide, rifampin drug combination",0,
+lactate dehydrogenase activity,GO:0004457,"Tuberculosis, Multidrug-Resistant",MESH:D018088,1,Ethambutol,0,
+lactate dehydrogenase activity,GO:0004457,"Tuberculosis, Osteoarticular",MESH:D014394,2,"Ethambutol|isoniazid, pyrazinamide, rifampin drug combination",0,
+lactate dehydrogenase activity,GO:0004457,"Tuberculosis, Pleural",MESH:D014396,1,Ethambutol,0,
+lactate dehydrogenase activity,GO:0004457,"Tuberculosis, Pulmonary",MESH:D014397,5,"Air Pollutants|Arsenic|Ethambutol|isoniazid, pyrazinamide, rifampin drug combination|Particulate Matter",0,
+lactate dehydrogenase activity,GO:0004457,"Tuberculosis, Spinal",MESH:D014399,1,Ethambutol,0,
+L-alanine:2-oxoglutarate aminotransferase activity,GO:0004021,Latent Tuberculosis,MESH:D055985,1,Pyridoxine,0,
+L-alanine:2-oxoglutarate aminotransferase activity,GO:0004021,Tuberculosis,MESH:D014376,1,Pyridoxine,0,
+L-alanine:2-oxoglutarate aminotransferase activity,GO:0004021,"Tuberculosis, Pulmonary",MESH:D014397,1,Pyridoxine,0,
+L-aspartate:2-oxoglutarate aminotransferase activity,GO:0004069,Latent Tuberculosis,MESH:D055985,1,Isoniazid,0,
+L-aspartate:2-oxoglutarate aminotransferase activity,GO:0004069,Tuberculosis,MESH:D014376,3,Iron|Isoniazid|Pyrazinamide,0,
+L-aspartate:2-oxoglutarate aminotransferase activity,GO:0004069,"Tuberculosis, Central Nervous System",MESH:D020306,2,Isoniazid|Pyrazinamide,0,
+L-aspartate:2-oxoglutarate aminotransferase activity,GO:0004069,"Tuberculosis, Gastrointestinal",MESH:D014385,1,Isoniazid,0,
+L-aspartate:2-oxoglutarate aminotransferase activity,GO:0004069,"Tuberculosis, Lymph Node",MESH:D014388,2,Isoniazid|Pyrazinamide,0,
+L-aspartate:2-oxoglutarate aminotransferase activity,GO:0004069,"Tuberculosis, Meningeal",MESH:D014390,2,Isoniazid|Pyrazinamide,0,
+L-aspartate:2-oxoglutarate aminotransferase activity,GO:0004069,"Tuberculosis, Multidrug-Resistant",MESH:D018088,2,Isoniazid|Pyrazinamide,0,
+L-aspartate:2-oxoglutarate aminotransferase activity,GO:0004069,"Tuberculosis, Pleural",MESH:D014396,1,Isoniazid,0,
+L-aspartate:2-oxoglutarate aminotransferase activity,GO:0004069,"Tuberculosis, Pulmonary",MESH:D014397,3,Arsenic|Isoniazid|Pyrazinamide,0,
+L-aspartate:2-oxoglutarate aminotransferase activity,GO:0004069,"Tuberculosis, Spinal",MESH:D014399,2,Isoniazid|Pyrazinamide,0,
+L-iditol 2-dehydrogenase activity,GO:0003939,Extensively Drug-Resistant Tuberculosis,MESH:D054908,1,Ethambutol,0,
+L-iditol 2-dehydrogenase activity,GO:0003939,Tuberculosis,MESH:D014376,2,"Ethambutol|isoniazid, pyrazinamide, rifampin drug combination",0,
+L-iditol 2-dehydrogenase activity,GO:0003939,"Tuberculosis, Central Nervous System",MESH:D020306,1,Ethambutol,0,
+L-iditol 2-dehydrogenase activity,GO:0003939,"Tuberculosis, Lymph Node",MESH:D014388,2,"Ethambutol|isoniazid, pyrazinamide, rifampin drug combination",0,
+L-iditol 2-dehydrogenase activity,GO:0003939,"Tuberculosis, Miliary",MESH:D014391,2,"Ethambutol|isoniazid, pyrazinamide, rifampin drug combination",0,
+L-iditol 2-dehydrogenase activity,GO:0003939,"Tuberculosis, Multidrug-Resistant",MESH:D018088,1,Ethambutol,0,
+L-iditol 2-dehydrogenase activity,GO:0003939,"Tuberculosis, Osteoarticular",MESH:D014394,2,"Ethambutol|isoniazid, pyrazinamide, rifampin drug combination",0,
+L-iditol 2-dehydrogenase activity,GO:0003939,"Tuberculosis, Pleural",MESH:D014396,1,Ethambutol,0,
+L-iditol 2-dehydrogenase activity,GO:0003939,"Tuberculosis, Pulmonary",MESH:D014397,2,"Ethambutol|isoniazid, pyrazinamide, rifampin drug combination",0,
+L-iditol 2-dehydrogenase activity,GO:0003939,"Tuberculosis, Spinal",MESH:D014399,1,Ethambutol,0,
+lipase activity,GO:0016298,Tuberculosis,MESH:D014376,0,,1,HP
+lipid binding,GO:0008289,Paratuberculosis,MESH:D010283,0,,1,C3
+lipopeptide binding,GO:0071723,"MYCOBACTERIUM TUBERCULOSIS, SUSCEPTIBILITY TO",OMIM:607948,0,,1,TLR2
+lipopolysaccharide binding,GO:0001530,"MYCOBACTERIUM TUBERCULOSIS, SUSCEPTIBILITY TO",OMIM:607948,0,,1,TLR2
+lipopolysaccharide binding,GO:0001530,Paratuberculosis,MESH:D010283,0,,1,F2
+lipopolysaccharide immune receptor activity,GO:0001875,"MYCOBACTERIUM TUBERCULOSIS, SUSCEPTIBILITY TO",OMIM:607948,0,,1,TLR2
+lipoteichoic acid binding,GO:0070891,"MYCOBACTERIUM TUBERCULOSIS, SUSCEPTIBILITY TO",OMIM:607948,0,,1,TLR2
+lysine-acetylated histone binding,GO:0070577,"Tuberculosis, Pulmonary",MESH:D014397,1,Arsenic,0,
+malate dehydrogenase activity,GO:0016615,"Mycobacterium tuberculosis, susceptibility to infection by",MESH:C536092,2,Air Pollutants|Particulate Matter,0,
+malate dehydrogenase activity,GO:0016615,"Tuberculosis, Pulmonary",MESH:D014397,3,Air Pollutants|Arsenic|Particulate Matter,0,
+manganese ion transmembrane transporter activity,GO:0005384,"MYCOBACTERIUM TUBERCULOSIS, SUSCEPTIBILITY TO",OMIM:607948,0,,1,SLC11A1
+manganese ion transmembrane transporter activity,GO:0005384,Tuberculosis,MESH:D014376,0,,1,SLC11A1
+mannose binding,GO:0005537,"MYCOBACTERIUM TUBERCULOSIS, SUSCEPTIBILITY TO",OMIM:607948,0,,1,CD209
+mannose binding,GO:0005537,"Tuberculosis, Pulmonary",MESH:D014397,0,,1,CD209
+MAP kinase activity,GO:0004707,Tuberculosis,MESH:D014376,1,Tretinoin,0,
+metal cation:proton antiporter activity,GO:0051139,"MYCOBACTERIUM TUBERCULOSIS, SUSCEPTIBILITY TO",OMIM:607948,0,,1,SLC11A1
+metal cation:proton antiporter activity,GO:0051139,Tuberculosis,MESH:D014376,0,,1,SLC11A1
+metal ion binding,GO:0046872,"MYCOBACTERIUM TUBERCULOSIS, SUSCEPTIBILITY TO",OMIM:607948,0,,2,CD209|SP110
+metal ion binding,GO:0046872,Paratuberculosis,MESH:D010283,0,,3,AOC3|C1R|TF
+metal ion binding,GO:0046872,"Tuberculosis, Pulmonary",MESH:D014397,0,,5,ASAP1|CD209|MMP3|MMP7|MMP8
+metal ion transmembrane transporter activity,GO:0046873,"MYCOBACTERIUM TUBERCULOSIS, SUSCEPTIBILITY TO",OMIM:607948,0,,1,SLC11A1
+metal ion transmembrane transporter activity,GO:0046873,Tuberculosis,MESH:D014376,0,,1,SLC11A1
+metalloendopeptidase activity,GO:0004222,"Tuberculosis, Pulmonary",MESH:D014397,0,,3,MMP3|MMP7|MMP8
+metallopeptidase activity,GO:0008237,"Tuberculosis, Pulmonary",MESH:D014397,0,,3,MMP3|MMP7|MMP8
+methylated histone binding,GO:0035064,"Mycobacterium tuberculosis, susceptibility to infection by",MESH:C536092,1,Particulate Matter,0,
+methylated histone binding,GO:0035064,"Tuberculosis, Pulmonary",MESH:D014397,1,Particulate Matter,0,
+MHC class II receptor activity,GO:0032395,"Mycobacterium tuberculosis, susceptibility to infection by",MESH:C536092,0,,1,HLA-DQA1
+molecular adaptor activity,GO:0060090,"MYCOBACTERIUM TUBERCULOSIS, SUSCEPTIBILITY TO",OMIM:607948,0,,1,TIRAP
+molecular adaptor activity,GO:0060090,Tuberculosis,MESH:D014376,0,,1,TIRAP
+molecular sequestering activity,GO:0140313,Paratuberculosis,MESH:D010283,0,,1,C1R
+myosin heavy chain binding,GO:0032036,Tuberculosis,MESH:D014376,0,,1,CORO1A
+myosin II binding,GO:0045159,Paratuberculosis,MESH:D010283,0,,1,GSN
+NADH dehydrogenase (ubiquinone) activity,GO:0008137,"Mycobacterium tuberculosis, susceptibility to infection by",MESH:C536092,2,Air Pollutants|Particulate Matter,0,
+NADH dehydrogenase (ubiquinone) activity,GO:0008137,"Tuberculosis, Pulmonary",MESH:D014397,3,Air Pollutants|Arsenic|Particulate Matter,0,
+"NAD+ nucleotidase, cyclic ADP-ribose generating",GO:0061809,"MYCOBACTERIUM TUBERCULOSIS, SUSCEPTIBILITY TO",OMIM:607948,0,,1,TLR2
+NAD(P)H oxidase H2O2-forming activity,GO:0016174,"Mycobacterium tuberculosis, susceptibility to infection by",MESH:C536092,2,Air Pollutants|Particulate Matter,0,
+NAD(P)H oxidase H2O2-forming activity,GO:0016174,"Tuberculosis, Pulmonary",MESH:D014397,2,Air Pollutants|Particulate Matter,0,
+nitric-oxide synthase activity,GO:0004517,"Tuberculosis, Pulmonary",MESH:D014397,1,Sulfur Dioxide,0,
+nutrient reservoir activity,GO:0045735,"Mycobacterium tuberculosis, susceptibility to infection by",MESH:C536092,2,Air Pollutants|Particulate Matter,0,
+nutrient reservoir activity,GO:0045735,"Tuberculosis, Pulmonary",MESH:D014397,2,Air Pollutants|Particulate Matter,0,
+oxidoreductase activity,GO:0016491,Paratuberculosis,MESH:D010283,0,,1,AOC3
+"oxidoreductase activity, acting on the CH-NH2 group of donors, oxygen as acceptor",GO:0016641,Paratuberculosis,MESH:D010283,0,,1,AOC3
+pattern recognition receptor activity,GO:0038187,"MYCOBACTERIUM TUBERCULOSIS, SUSCEPTIBILITY TO",OMIM:607948,0,,1,TLR2
+peptidase activity,GO:0008233,"Mycobacterium tuberculosis, susceptibility to infection by",MESH:C536092,1,Particulate Matter,0,
+peptidase activity,GO:0008233,Paratuberculosis,MESH:D010283,0,,2,C1R|F2
+peptidase activity,GO:0008233,"Tuberculosis, Pulmonary",MESH:D014397,1,Particulate Matter,3,MMP3|MMP7|MMP8
+peptide antigen binding,GO:0042605,"MYCOBACTERIUM TUBERCULOSIS, SUSCEPTIBILITY TO",OMIM:607948,0,,1,CD209
+peptide antigen binding,GO:0042605,"Mycobacterium tuberculosis, susceptibility to infection by",MESH:C536092,0,,1,HLA-DQA1
+peptide antigen binding,GO:0042605,"Tuberculosis, Pulmonary",MESH:D014397,0,,1,CD209
+peptidoglycan binding,GO:0042834,"MYCOBACTERIUM TUBERCULOSIS, SUSCEPTIBILITY TO",OMIM:607948,0,,1,TLR2
+peroxidase activity,GO:0004601,"Tuberculosis, Pulmonary",MESH:D014397,1,Arsenic,0,
+phosphatase activity,GO:0016791,"MYCOBACTERIUM TUBERCULOSIS, SUSCEPTIBILITY TO",OMIM:607948,0,,1,SLC11A1
+phosphatase activity,GO:0016791,Tuberculosis,MESH:D014376,0,,1,SLC11A1
+"phosphatidylinositol-3,4,5-trisphosphate binding",GO:0005547,"MYCOBACTERIUM TUBERCULOSIS, SUSCEPTIBILITY TO",OMIM:607948,0,,1,IRGM
+"phosphatidylinositol-3,4,5-trisphosphate binding",GO:0005547,"Tuberculosis, Pulmonary",MESH:D014397,0,,1,ASAP1
+"phosphatidylinositol-3,4-bisphosphate binding",GO:0043325,"MYCOBACTERIUM TUBERCULOSIS, SUSCEPTIBILITY TO",OMIM:607948,0,,1,IRGM
+phosphatidylinositol 3-kinase binding,GO:0043548,Tuberculosis,MESH:D014376,0,,1,CORO1A
+phosphatidylinositol 3-kinase catalytic subunit binding,GO:0036313,Paratuberculosis,MESH:D010283,0,,1,GSN
+"phosphatidylinositol-4,5-bisphosphate binding",GO:0005546,"MYCOBACTERIUM TUBERCULOSIS, SUSCEPTIBILITY TO",OMIM:607948,0,,1,TIRAP
+"phosphatidylinositol-4,5-bisphosphate binding",GO:0005546,Paratuberculosis,MESH:D010283,0,,1,GSN
+"phosphatidylinositol-4,5-bisphosphate binding",GO:0005546,Tuberculosis,MESH:D014376,0,,1,TIRAP
+"phosphatidylinositol-4,5-bisphosphate binding",GO:0005546,"Tuberculosis, Pulmonary",MESH:D014397,0,,1,ASAP1
+phosphatidylserine binding,GO:0001786,"Tuberculosis, Pulmonary",MESH:D014397,0,,1,ASAP1
+phosphoenolpyruvate carboxykinase activity,GO:0004611,"Tuberculosis, Pulmonary",MESH:D014397,1,Arsenic,0,
+primary amine oxidase activity,GO:0008131,Paratuberculosis,MESH:D010283,0,,1,AOC3
+prostaglandin-endoperoxide synthase activity,GO:0004666,"Mycobacterium tuberculosis, susceptibility to infection by",MESH:C536092,1,Particulate Matter,0,
+prostaglandin-endoperoxide synthase activity,GO:0004666,"Tuberculosis, Pulmonary",MESH:D014397,1,Particulate Matter,0,
+protein binding,GO:0005515,"MYCOBACTERIUM TUBERCULOSIS, SUSCEPTIBILITY TO",OMIM:607948,0,,9,CCL2|CD209|CISH|IFNG|IFNGR1|IRGM|SP110|TIRAP|TLR2
+protein binding,GO:0005515,"Mycobacterium tuberculosis, susceptibility to infection by",MESH:C536092,0,,2,HLA-DQA1|TNFSF8
+protein binding,GO:0005515,Paratuberculosis,MESH:D010283,0,,6,AOC3|C1R|C3|F2|GSN|TF
+protein binding,GO:0005515,Tuberculosis,MESH:D014376,0,,3,CORO1A|HP|TIRAP
+protein binding,GO:0005515,"Tuberculosis, Bovine",MESH:D014380,0,,1,IL4
+protein binding,GO:0005515,"Tuberculosis, Pulmonary",MESH:D014397,0,,5,ASAP1|CCL2|CD209|MMP3|MMP7
+protein-containing complex binding,GO:0044877,"MYCOBACTERIUM TUBERCULOSIS, SUSCEPTIBILITY TO",OMIM:607948,0,,1,TLR2
+protein-containing complex binding,GO:0044877,"Tuberculosis, Pulmonary",MESH:D014397,0,,1,MMP3
+protein heterodimerization activity,GO:0046982,Paratuberculosis,MESH:D010283,0,,1,AOC3
+protein homodimerization activity,GO:0042803,"MYCOBACTERIUM TUBERCULOSIS, SUSCEPTIBILITY TO",OMIM:607948,0,,1,SLC11A1
+protein homodimerization activity,GO:0042803,Tuberculosis,MESH:D014376,0,,2,CORO1A|SLC11A1
+protein kinase activity,GO:0004672,"MYCOBACTERIUM TUBERCULOSIS, SUSCEPTIBILITY TO",OMIM:607948,0,,1,CCL2
+protein kinase activity,GO:0004672,"Tuberculosis, Pulmonary",MESH:D014397,0,,1,CCL2
+protein kinase binding,GO:0019901,"MYCOBACTERIUM TUBERCULOSIS, SUSCEPTIBILITY TO",OMIM:607948,0,,1,IRGM
+protein kinase C binding,GO:0005080,"MYCOBACTERIUM TUBERCULOSIS, SUSCEPTIBILITY TO",OMIM:607948,0,,1,TIRAP
+protein kinase C binding,GO:0005080,Tuberculosis,MESH:D014376,0,,1,TIRAP
+protein-macromolecule adaptor activity,GO:0030674,"MYCOBACTERIUM TUBERCULOSIS, SUSCEPTIBILITY TO",OMIM:607948,0,,2,IRGM|TIRAP
+protein-macromolecule adaptor activity,GO:0030674,Tuberculosis,MESH:D014376,0,,1,TIRAP
+protein serine/threonine kinase activator activity,GO:0043539,"MYCOBACTERIUM TUBERCULOSIS, SUSCEPTIBILITY TO",OMIM:607948,0,,1,IRGM
+protein serine/threonine phosphatase activity,GO:0004722,Tuberculosis,MESH:D014376,1,Verapamil,0,
+protein tyrosine phosphatase activity,GO:0004725,"Mycobacterium tuberculosis, susceptibility to infection by",MESH:C536092,1,Particulate Matter,0,
+protein tyrosine phosphatase activity,GO:0004725,"Tuberculosis, Pulmonary",MESH:D014397,1,Particulate Matter,0,
+"proton-transporting ATPase activity, rotational mechanism",GO:0046961,"Tuberculosis, Pulmonary",MESH:D014397,1,Arsenic,0,
+"proton-transporting ATP synthase activity, rotational mechanism",GO:0046933,"Mycobacterium tuberculosis, susceptibility to infection by",MESH:C536092,2,Air Pollutants|Particulate Matter,0,
+"proton-transporting ATP synthase activity, rotational mechanism",GO:0046933,"Tuberculosis, Pulmonary",MESH:D014397,2,Air Pollutants|Particulate Matter,0,
+P-type calcium transporter activity,GO:0005388,"Tuberculosis, Pulmonary",MESH:D014397,1,Arsenic,0,
+P-type magnesium transporter activity,GO:0015444,"Tuberculosis, Pulmonary",MESH:D014397,1,Arsenic,0,
+P-type sodium:potassium-exchanging transporter activity,GO:0005391,"Tuberculosis, Pulmonary",MESH:D014397,1,Arsenic,0,
+pyruvate kinase activity,GO:0004743,"Mycobacterium tuberculosis, susceptibility to infection by",MESH:C536092,2,Air Pollutants|Particulate Matter,0,
+pyruvate kinase activity,GO:0004743,"Tuberculosis, Pulmonary",MESH:D014397,2,Air Pollutants|Particulate Matter,0,
+quinone binding,GO:0048038,Paratuberculosis,MESH:D010283,0,,1,AOC3
+receptor ligand activity,GO:0048018,Paratuberculosis,MESH:D010283,0,,2,C3|F2
+RNA polymerase II CTD heptapeptide repeat phosphatase activity,GO:0008420,"MYCOBACTERIUM TUBERCULOSIS, SUSCEPTIBILITY TO",OMIM:607948,0,,1,SLC11A1
+RNA polymerase II CTD heptapeptide repeat phosphatase activity,GO:0008420,Tuberculosis,MESH:D014376,0,,1,SLC11A1
+RNA polymerase II transcription regulatory region sequence-specific DNA binding,GO:0000977,Paratuberculosis,MESH:D010283,0,,1,F2
+sequence-specific DNA binding,GO:0043565,Paratuberculosis,MESH:D010283,0,,1,C1R
+serine-type endopeptidase activity,GO:0004252,"MYCOBACTERIUM TUBERCULOSIS, SUSCEPTIBILITY TO",OMIM:607948,0,,1,SP110
+serine-type endopeptidase activity,GO:0004252,Paratuberculosis,MESH:D010283,0,,2,C1R|F2
+serine-type endopeptidase activity,GO:0004252,Tuberculosis,MESH:D014376,0,,1,HP
+serine-type endopeptidase activity,GO:0004252,"Tuberculosis, Pulmonary",MESH:D014397,0,,3,MMP3|MMP7|MMP8
+serine-type peptidase activity,GO:0008236,Paratuberculosis,MESH:D010283,0,,2,C1R|F2
+signaling adaptor activity,GO:0035591,"MYCOBACTERIUM TUBERCULOSIS, SUSCEPTIBILITY TO",OMIM:607948,0,,1,TIRAP
+signaling adaptor activity,GO:0035591,Tuberculosis,MESH:D014376,0,,1,TIRAP
+signaling receptor binding,GO:0005102,"MYCOBACTERIUM TUBERCULOSIS, SUSCEPTIBILITY TO",OMIM:607948,0,,1,CCL2
+signaling receptor binding,GO:0005102,"Mycobacterium tuberculosis, susceptibility to infection by",MESH:C536092,0,,1,TNFSF8
+signaling receptor binding,GO:0005102,Paratuberculosis,MESH:D010283,0,,2,C3|F2
+signaling receptor binding,GO:0005102,"Tuberculosis, Pulmonary",MESH:D014397,0,,1,CCL2
+succinate dehydrogenase activity,GO:0000104,"Tuberculosis, Pulmonary",MESH:D014397,1,Arsenic,0,
+succinate dehydrogenase (ubiquinone) activity,GO:0008177,"Tuberculosis, Pulmonary",MESH:D014397,1,Arsenic,0,
+superoxide dismutase activity,GO:0004784,Extensively Drug-Resistant Tuberculosis,MESH:D054908,1,Ethambutol,0,
+superoxide dismutase activity,GO:0004784,Latent Tuberculosis,MESH:D055985,1,Isoniazid,0,
+superoxide dismutase activity,GO:0004784,"Mycobacterium tuberculosis, susceptibility to infection by",MESH:C536092,2,Air Pollutants|Particulate Matter,0,
+superoxide dismutase activity,GO:0004784,Tuberculosis,MESH:D014376,9,Ciprofloxacin|Ethambutol|Gentamicins|Iron|Isoniazid|Prednisolone|Pyrazinamide|Rifampin|Verapamil,0,
+superoxide dismutase activity,GO:0004784,"Tuberculosis, Central Nervous System",MESH:D020306,4,Ethambutol|Isoniazid|Pyrazinamide|Rifampin,0,
+superoxide dismutase activity,GO:0004784,"Tuberculosis, Gastrointestinal",MESH:D014385,2,Isoniazid|Rifampin,0,
+superoxide dismutase activity,GO:0004784,"Tuberculosis, Lymph Node",MESH:D014388,4,Ethambutol|Isoniazid|Pyrazinamide|Rifampin,0,
+superoxide dismutase activity,GO:0004784,"Tuberculosis, Meningeal",MESH:D014390,3,Isoniazid|Pyrazinamide|Rifampin,0,
+superoxide dismutase activity,GO:0004784,"Tuberculosis, Miliary",MESH:D014391,1,Ethambutol,0,
+superoxide dismutase activity,GO:0004784,"Tuberculosis, Multidrug-Resistant",MESH:D018088,4,Ethambutol|Isoniazid|Pyrazinamide|Rifampin,0,
+superoxide dismutase activity,GO:0004784,"Tuberculosis, Osteoarticular",MESH:D014394,2,Ethambutol|Prednisolone,0,
+superoxide dismutase activity,GO:0004784,"Tuberculosis, Pleural",MESH:D014396,3,Ethambutol|Isoniazid|Rifampin,0,
+superoxide dismutase activity,GO:0004784,"Tuberculosis, Pulmonary",MESH:D014397,8,Air Pollutants|Arsenic|Ethambutol|Isoniazid|Particulate Matter|Pyrazinamide|Rifampin|Sulfur Dioxide,0,
+superoxide dismutase activity,GO:0004784,"Tuberculosis, Renal",MESH:D014398,1,Rifampin,0,
+superoxide dismutase activity,GO:0004784,"Tuberculosis, Spinal",MESH:D014399,5,Ciprofloxacin|Ethambutol|Isoniazid|Pyrazinamide|Rifampin,0,
+superoxide-generating NADPH oxidase activity,GO:0106292,Tuberculosis,MESH:D014376,1,Gentamicins,0,
+telomerase activity,GO:0003720,"Mycobacterium tuberculosis, susceptibility to infection by",MESH:C536092,2,Air Pollutants|Particulate Matter,0,
+telomerase activity,GO:0003720,"Tuberculosis, Pulmonary",MESH:D014397,2,Air Pollutants|Particulate Matter,0,
+thioredoxin-disulfide reductase activity,GO:0004791,Tuberculosis,MESH:D014376,1,Iron,0,
+thrombospondin receptor activity,GO:0070053,Paratuberculosis,MESH:D010283,0,,1,F2
+Toll-like receptor 2 binding,GO:0035663,"MYCOBACTERIUM TUBERCULOSIS, SUSCEPTIBILITY TO",OMIM:607948,0,,1,TIRAP
+Toll-like receptor 2 binding,GO:0035663,Tuberculosis,MESH:D014376,0,,1,TIRAP
+Toll-like receptor 4 binding,GO:0035662,"MYCOBACTERIUM TUBERCULOSIS, SUSCEPTIBILITY TO",OMIM:607948,0,,1,TIRAP
+Toll-like receptor 4 binding,GO:0035662,Tuberculosis,MESH:D014376,0,,1,TIRAP
+Toll-like receptor binding,GO:0035325,"MYCOBACTERIUM TUBERCULOSIS, SUSCEPTIBILITY TO",OMIM:607948,0,,1,TLR2
+transaminase activity,GO:0008483,"Tuberculosis, Pulmonary",MESH:D014397,1,Arsenic,0,
+transferrin receptor binding,GO:1990459,Paratuberculosis,MESH:D010283,0,,1,TF
+transition metal ion transmembrane transporter activity,GO:0046915,"MYCOBACTERIUM TUBERCULOSIS, SUSCEPTIBILITY TO",OMIM:607948,0,,1,SLC11A1
+transition metal ion transmembrane transporter activity,GO:0046915,Tuberculosis,MESH:D014376,0,,1,SLC11A1
+transmembrane signaling receptor activity,GO:0004888,"MYCOBACTERIUM TUBERCULOSIS, SUSCEPTIBILITY TO",OMIM:607948,0,,1,TLR2
+transmembrane transporter binding,GO:0044325,Paratuberculosis,MESH:D010283,0,,1,TF
+triacyl lipopeptide binding,GO:0042497,"MYCOBACTERIUM TUBERCULOSIS, SUSCEPTIBILITY TO",OMIM:607948,0,,1,TLR2
+tumor necrosis factor binding,GO:0043120,"Tuberculosis, Pulmonary",MESH:D014397,0,,1,MMP8
+tumor necrosis factor receptor binding,GO:0005164,"Mycobacterium tuberculosis, susceptibility to infection by",MESH:C536092,0,,1,TNFSF8
+type II interferon receptor activity,GO:0004906,"MYCOBACTERIUM TUBERCULOSIS, SUSCEPTIBILITY TO",OMIM:607948,0,,1,IFNGR1
+type II interferon receptor binding,GO:0005133,"MYCOBACTERIUM TUBERCULOSIS, SUSCEPTIBILITY TO",OMIM:607948,0,,1,IFNG
+tyrosine decarboxylase activity,GO:0004837,Latent Tuberculosis,MESH:D055985,1,Pyridoxine,0,
+tyrosine decarboxylase activity,GO:0004837,Tuberculosis,MESH:D014376,1,Pyridoxine,0,
+tyrosine decarboxylase activity,GO:0004837,"Tuberculosis, Pulmonary",MESH:D014397,1,Pyridoxine,0,
+ubiquinol-cytochrome-c reductase activity,GO:0008121,"Tuberculosis, Pulmonary",MESH:D014397,1,Arsenic,0,
+virion binding,GO:0046790,"MYCOBACTERIUM TUBERCULOSIS, SUSCEPTIBILITY TO",OMIM:607948,0,,1,CD209
+virion binding,GO:0046790,"Tuberculosis, Pulmonary",MESH:D014397,0,,1,CD209
+virus receptor activity,GO:0001618,"MYCOBACTERIUM TUBERCULOSIS, SUSCEPTIBILITY TO",OMIM:607948,0,,1,CD209
+virus receptor activity,GO:0001618,"Tuberculosis, Pulmonary",MESH:D014397,0,,1,CD209
+vitamin-K-epoxide reductase (warfarin-sensitive) activity,GO:0047057,Tuberculosis,MESH:D014376,1,Vitamin K 2,0,
+zinc ion binding,GO:0008270,"MYCOBACTERIUM TUBERCULOSIS, SUSCEPTIBILITY TO",OMIM:607948,0,,1,SP110
+zinc ion binding,GO:0008270,"Tuberculosis, Pulmonary",MESH:D014397,1,Arsenic,4,ASAP1|MMP3|MMP7|MMP8

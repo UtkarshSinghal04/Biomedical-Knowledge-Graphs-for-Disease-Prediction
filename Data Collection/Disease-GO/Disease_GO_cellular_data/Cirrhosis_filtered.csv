@@ -1,0 +1,1379 @@
+GOName,GOID,DiseaseName,DiseaseID,InferenceChemicalQty,InferenceChemicalNames,InferenceGeneQty,InferenceGeneSymbols
+3-methyl-2-oxobutanoate dehydrogenase (lipoamide) complex,GO:0017086,Liver Cirrhosis,MESH:D008103,1,Simvastatin,0,
+4-aminobutyrate transaminase complex,GO:0032144,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,ABAT
+6-phosphofructokinase complex,GO:0005945,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,PFKP
+7SK snRNP,GO:0120259,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,HEXIM1
+acrosomal membrane,GO:0002080,Liver Cirrhosis,MESH:D008103,1,sodium arsenite,0,
+acrosomal membrane,GO:0002080,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,CAV1
+acrosomal vesicle,GO:0001669,Liver Cirrhosis,MESH:D008103,0,,1,LOXL1
+acrosomal vesicle,GO:0001669,"Liver Cirrhosis, Experimental",MESH:D008106,0,,3,BMF|CXADR|ITGB1
+actin cap,GO:0030478,Liver Cirrhosis,MESH:D008103,1,Thiamethoxam,0,
+actin cap,GO:0030478,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,GSN
+actin cortical patch,GO:0030479,Copper-Overload Cirrhosis,MESH:C566858,0,,1,MET
+actin cortical patch,GO:0030479,"Liver Cirrhosis, Experimental",MESH:D008106,0,,2,GMFG|HIP1
+actin cytoskeleton,GO:0015629,Copper-Overload Cirrhosis,MESH:C566858,0,,1,ACTA2
+actin cytoskeleton,GO:0015629,Liver Cirrhosis,MESH:D008103,0,,5,ACTA2|CDH1|CNR1|FLT1|TAGLN2
+actin cytoskeleton,GO:0015629,"Liver Cirrhosis, Experimental",MESH:D008106,0,,32,ABLIM3|ACTA2|ACTN1|ADAM17|AHNAK|APPL1|ARPC1B|AXL|BMF|CAPG|CNR1|CTTNBP2NL|EPB41L2|EZR|FGR|FLNA|GBP2|GSN|ILK|IQGAP1|LCP1|MYO1C|MYO1F|MYO5A|TAGLN2|TAX1BP3|TES|TPM1|TPM3|TPM4|VASP|WIPF1
+actin filament,GO:0005884,Liver Cirrhosis,MESH:D008103,1,Cadmium Chloride,1,MICAL2
+actin filament,GO:0005884,"Liver Cirrhosis, Biliary",MESH:D008105,0,,1,KEAP1
+actin filament,GO:0005884,"Liver Cirrhosis, Experimental",MESH:D008106,0,,24,ACTN1|AIF1|ANXA1|COTL1|EZR|FLNA|FMNL1|FYN|GCK|HCK|INPP5D|IQGAP1|LCP1|MYO5A|PSTPIP1|RAC2|RCN2|RCSD1|RHOQ|TPM1|TPM3|TPM4|VOPP1|WIPF1
+actin filament bundle,GO:0032432,Liver Cirrhosis,MESH:D008103,1,Particulate Matter,0,
+actin filament bundle,GO:0032432,"Liver Cirrhosis, Experimental",MESH:D008106,0,,3,CRYAB|FLNA|LCP1
+activin receptor complex,GO:0048179,Liver Cirrhosis,MESH:D008103,0,,1,TGFBR1
+activin responsive factor complex,GO:0032444,Copper-Overload Cirrhosis,MESH:C566858,0,,1,SMAD2
+activin responsive factor complex,GO:0032444,"Liver Cirrhosis, Experimental",MESH:D008106,0,,2,SMAD2|SMAD4
+actomyosin,GO:0042641,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,MYO5A
+actomyosin contractile ring,GO:0005826,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,PSTPIP1
+"actomyosin, myosin complex part",GO:0042642,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,MYO5A
+adherens junction,GO:0005912,Liver Cirrhosis,MESH:D008103,0,,3,CDH1|CTNNB1|VEGFA
+adherens junction,GO:0005912,"Liver Cirrhosis, Biliary",MESH:D008105,0,,2,CDH5|KEAP1
+adherens junction,GO:0005912,"Liver Cirrhosis, Experimental",MESH:D008106,0,,13,CDH5|CXADR|EMB|EZR|FAT1|ITGB1|LPXN|MSN|NDRG1|SDR42E1|SNAP23|TAX1BP3|VEGFA
+aggresome,GO:0016235,"Liver Cirrhosis, Biliary",MESH:D008105,0,,1,UBD
+aggresome,GO:0016235,"Liver Cirrhosis, Experimental",MESH:D008106,0,,2,FGR|UBD
+AIM2 inflammasome complex,GO:0097169,Liver Cirrhosis,MESH:D008103,1,perfluorooctane sulfonic acid,0,
+AIM2 inflammasome complex,GO:0097169,"Liver Cirrhosis, Experimental",MESH:D008106,0,,4,CASP1|CASP12|CASP4|PYCARD
+AIP1-IRE1 complex,GO:1990597,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,ERN1
+alpha9-beta1 integrin-ADAM8 complex,GO:0071133,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,ITGB3
+alpha-beta T cell receptor complex,GO:0042105,"Liver Cirrhosis, Biliary",MESH:D008105,0,,1,CD3D
+alpha-beta T cell receptor complex,GO:0042105,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,TYROBP
+alphav-beta3 integrin-HMGB1 complex,GO:0035868,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,ITGB3
+alphav-beta3 integrin-IGF-1-IGF1R complex,GO:0035867,"Liver Cirrhosis, Experimental",MESH:D008106,0,,2,IGF1|ITGB3
+alphav-beta3 integrin-PKCalpha complex,GO:0035866,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,ITGB3
+alphav-beta3 integrin-vitronectin complex,GO:0071062,Liver Cirrhosis,MESH:D008103,0,,1,VTN
+alphav-beta3 integrin-vitronectin complex,GO:0071062,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,ITGB3
+alveolar lamellar body,GO:0097208,Liver Cirrhosis,MESH:D008103,1,Particulate Matter,0,
+amyloid-beta complex,GO:0106003,Liver Cirrhosis,MESH:D008103,1,ferulic acid,0,
+amyloid-beta complex,GO:0106003,"Liver Cirrhosis, Experimental",MESH:D008106,1,ferulic acid,1,APP
+anchoring junction,GO:0070161,Liver Cirrhosis,MESH:D008103,0,,3,CDH1|CTNNB1|FOCAD
+anchoring junction,GO:0070161,"Liver Cirrhosis, Biliary",MESH:D008105,0,,1,CDH5
+anchoring junction,GO:0070161,"Liver Cirrhosis, Experimental",MESH:D008106,0,,11,ACTN1|ADA|CDH5|CXADR|GJA4|ITGB1|ITGB6|LCP1|LIN7A|RTN4|TES
+annulate lamellae,GO:0005642,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,BICD2
+AnxA2-p11 complex,GO:1990665,"Liver Cirrhosis, Experimental",MESH:D008106,0,,2,ANXA2|S100A10
+AP-1 adaptor complex,GO:0030121,"Liver Cirrhosis, Experimental",MESH:D008106,0,,2,AP1S2|SYNRG
+AP-3 adaptor complex,GO:0030123,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,AP3S1
+apical cortex,GO:0045179,"Liver Cirrhosis, Experimental",MESH:D008106,0,,2,APP|FABP2
+apical dendrite,GO:0097440,"Liver Cirrhosis, Experimental",MESH:D008106,0,,4,FAS|FLNA|NSMF|SEZ6
+apical ectoplasmic specialization,GO:0061831,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,GSN
+apical junction complex,GO:0043296,Liver Cirrhosis,MESH:D008103,0,,2,CDH1|CTNNB1
+apical junction complex,GO:0043296,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,NECTIN2
+apical part of cell,GO:0045177,Liver Cirrhosis,MESH:D008103,0,,6,ATP7B|CDH1|CTNNB1|LDLR|REN|SPP1
+apical part of cell,GO:0045177,"Liver Cirrhosis, Biliary",MESH:D008105,0,,1,NOS3
+apical part of cell,GO:0045177,"Liver Cirrhosis, Experimental",MESH:D008106,0,,15,ABCB1A|ABCG5|ADAM17|APP|C5AR1|CD36|ENPEP|EZR|FRY|LGMN|MSN|NOS3|NRG1|PLAT|SRR
+apical plasma membrane,GO:0016324,Liver Cirrhosis,MESH:D008103,0,,12,ABCB4|CD9|CTNNB1|CYBA|CYP4A11|IGFBP2|LDLR|PTEN|SLC17A2|SLC22A8|TGFBR1|TRPM7
+apical plasma membrane,GO:0016324,"Liver Cirrhosis, Biliary",MESH:D008105,0,,4,ABCB4|ABCC2|ABCG2|SLC4A2
+apical plasma membrane,GO:0016324,"Liver Cirrhosis, Experimental",MESH:D008106,0,,39,ABCB1|ABCB1A|ABCC2|ABCC5|ABCG5|ABCG8|ADAM17|ANXA1|ANXA4|CAV1|CD36|CYBA|DCXR|ENPEP|EPCAM|EZR|FAS|FAT1|GJA1|IGFBP2|IL18|IQGAP1|ITGB3|MSN|NOX4|NRG1|PDGFRB|PKD2|PTPRO|SLC17A1|SLC17A2|SLC22A8|SLC23A1|SLC39A6|SLC39A8|SLC46A1|SLC7A1|SMOC1|TRF
+apicolateral plasma membrane,GO:0016327,Copper-Overload Cirrhosis,MESH:C566858,0,,1,KRT19
+apicolateral plasma membrane,GO:0016327,Liver Cirrhosis,MESH:D008103,0,,2,CTNNB1|KRT8
+apicolateral plasma membrane,GO:0016327,"Liver Cirrhosis, Experimental",MESH:D008106,0,,4,CXADR|KRT19|KRT8|THBD
+apolipoprotein B mRNA editing enzyme complex,GO:0030895,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,APOBEC1
+apoptosome,GO:0043293,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,APAF1
+apoptotic body,GO:0097189,Liver Cirrhosis,MESH:D008103,5,Arsenic|Cadmium Chloride|evodiamine|Quercetin|sodium arsenite,0,
+apoptotic body,GO:0097189,"Liver Cirrhosis, Alcoholic",MESH:D008104,1,Norfloxacin,0,
+apoptotic body,GO:0097189,"Liver Cirrhosis, Biliary",MESH:D008105,1,Rosmarinic Acid,0,
+apoptotic body,GO:0097189,"Liver Cirrhosis, Experimental",MESH:D008106,3,baicalin|Indomethacin|Quercetin,0,
+AP-type membrane coat adaptor complex,GO:0030119,"Liver Cirrhosis, Experimental",MESH:D008106,0,,2,AP1S2|AP3S1
+Arp2/3 protein complex,GO:0005885,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,ARPC1B
+aryl hydrocarbon receptor complex,GO:0034751,Copper-Overload Cirrhosis,MESH:C566858,0,,1,MET
+aryl hydrocarbon receptor complex,GO:0034751,Liver Cirrhosis,MESH:D008103,0,,2,AHR|ARNT
+astrocyte projection,GO:0097449,"Liver Cirrhosis, Experimental",MESH:D008106,0,,2,APP|EZR
+asymmetric synapse,GO:0032279,Liver Cirrhosis,MESH:D008103,0,,1,CHRM3
+asymmetric synapse,GO:0032279,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,ADORA2A
+Atg12-Atg5-Atg16 complex,GO:0034274,Liver Cirrhosis,MESH:D008103,0,,1,ATG5
+ATPase complex,GO:1904949,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,ATP6V1D
+ATP-binding cassette (ABC) transporter complex,GO:0043190,"Liver Cirrhosis, Experimental",MESH:D008106,0,,3,ABCG5|ABCG8|TM6SF1
+autolysosome,GO:0044754,Liver Cirrhosis,MESH:D008103,11,arsenite|Cadmium Chloride|curcumol|Dietary Fats|Doxorubicin|epigallocatechin gallate|Metformin|Sirolimus|sodium arsenite|Taurine|tetramethylpyrazine,0,
+autolysosome,GO:0044754,"Liver Cirrhosis, Biliary",MESH:D008105,1,Rifampin,0,
+autolysosome,GO:0044754,"Liver Cirrhosis, Experimental",MESH:D008106,5,Curcumin|Doxorubicin|epigallocatechin gallate|Sirolimus|Taurine,1,MAP1LC3A
+autophagosome,GO:0005776,Liver Cirrhosis,MESH:D008103,18,Acetaminophen|Arsenic|arsenite|Cadmium Chloride|curcumol|Doxorubicin|epigallocatechin gallate|Ethanol|ferulic acid|Melatonin|Metformin|Microplastics|NG-Nitroarginine Methyl Ester|puerarin|Resveratrol|Sirolimus|Taurine|tetramethylpyrazine,1,ATG5
+autophagosome,GO:0005776,"Liver Cirrhosis, Alcoholic",MESH:D008104,1,Ethanol,0,
+autophagosome,GO:0005776,"Liver Cirrhosis, Experimental",MESH:D008106,11,"Acetaminophen|Doxorubicin|epigallocatechin gallate|Ethanol|ferulic acid|Indomethacin|lipopolysaccharide, E coli O55-B5|Melatonin|Resveratrol|Sirolimus|Taurine",3,MAP1LC3A|RAB32|SNAP29
+autophagosome membrane,GO:0000421,Liver Cirrhosis,MESH:D008103,0,,1,ARRB1
+autophagosome membrane,GO:0000421,"Liver Cirrhosis, Experimental",MESH:D008106,0,,2,MAP1LC3A|SNAP29
+axolemma,GO:0030673,"Liver Cirrhosis, Experimental",MESH:D008106,0,,3,ACHE|ADORA2A|ROBO2
+axon,GO:0030424,Copper-Overload Cirrhosis,MESH:C566858,0,,1,TGFB1
+axon,GO:0030424,Liver Cirrhosis,MESH:D008103,0,,9,ATG5|CDH1|CNR1|GC|MGLL|STAT1|TGFB1|TNFRSF1B|VIM
+axon,GO:0030424,"Liver Cirrhosis, Alcoholic",MESH:D008104,0,,1,TGFB1
+axon,GO:0030424,"Liver Cirrhosis, Biliary",MESH:D008105,0,,2,TGFB1|TNFRSF1A
+axon,GO:0030424,"Liver Cirrhosis, Experimental",MESH:D008106,0,,30,ACHE|ADORA2A|ALDH1A1|ANXA3|APP|BCR|CNR1|CRYAB|CYP17A1|DDC|DOCK7|EMB|FRY|GC|GFRA1|ILK|IQGAP1|MME|MYC|MYO5A|NRG1|PDGFRA|PRTG|PTPRO|ROBO2|SIRT1|SRI|STAU2|TGFB1|VIM
+axonal growth cone,GO:0044295,"Liver Cirrhosis, Experimental",MESH:D008106,0,,3,FLNA|PRTG|TRAK2
+axonal spine,GO:0044308,Liver Cirrhosis,MESH:D008103,1,Cadmium Chloride,0,
+axon cytoplasm,GO:1904115,Liver Cirrhosis,MESH:D008103,0,,1,HIF1A
+axon cytoplasm,GO:1904115,"Liver Cirrhosis, Biliary",MESH:D008105,0,,1,HIF1A
+axon cytoplasm,GO:1904115,"Liver Cirrhosis, Experimental",MESH:D008106,0,,3,AP3S1|ARL8A|BLOC1S2
+axoneme,GO:0005930,Liver Cirrhosis,MESH:D008103,0,,2,ATG5|TMEM67
+axon initial segment,GO:0043194,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,CAMK2D
+axon terminus,GO:0043679,Liver Cirrhosis,MESH:D008103,0,,3,CCL2|CDH1|CHRM3
+axon terminus,GO:0043679,"Liver Cirrhosis, Experimental",MESH:D008106,0,,6,ANXA5|CCL2|FKBP1A|GOT1|RGS10|SRI
+azurophil granule,GO:0042582,"Liver Cirrhosis, Alcoholic",MESH:D008104,0,,1,MPO
+azurophil granule,GO:0042582,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,SNAP23
+azurophil granule lumen,GO:0035578,"Liver Cirrhosis, Alcoholic",MESH:D008104,0,,1,MPO
+azurophil granule lumen,GO:0035578,"Liver Cirrhosis, Experimental",MESH:D008106,0,,7,ANXA2|DPP7|GGH|GRN|PLAC8|PRKCD|PYCARD
+azurophil granule membrane,GO:0035577,"Liver Cirrhosis, Experimental",MESH:D008106,0,,5,ARL8A|CD63|CD68|GLIPR1|SNAP29
+BAD-BCL-2 complex,GO:0097138,"Liver Cirrhosis, Alcoholic",MESH:D008104,0,,1,BCL2
+basal cortex,GO:0045180,"Liver Cirrhosis, Experimental",MESH:D008106,0,,2,GCK|PKD2
+basal dendrite,GO:0097441,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,MALAT1
+basal ectoplasmic specialization,GO:0061832,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,GSN
+basal part of cell,GO:0045178,"Liver Cirrhosis, Experimental",MESH:D008106,0,,4,DOCK7|EDN1|NRG1|TRF
+basal plasma membrane,GO:0009925,Copper-Overload Cirrhosis,MESH:C566858,0,,1,MET
+basal plasma membrane,GO:0009925,Liver Cirrhosis,MESH:D008103,0,,1,CHRM3
+basal plasma membrane,GO:0009925,"Liver Cirrhosis, Experimental",MESH:D008106,0,,7,CAV1|INPPL1|MYO1C|PKD2|SLC23A1|SLC7A1|TRF
+basement membrane,GO:0005604,Copper-Overload Cirrhosis,MESH:C566858,0,,1,ACTA2
+basement membrane,GO:0005604,Liver Cirrhosis,MESH:D008103,0,,11,ACTA2|ALB|COL1A1|COL1A2|COL3A1|FBN1|LAMC2|LOXL1|SPARC|VEGFA|VTN
+basement membrane,GO:0005604,"Liver Cirrhosis, Alcoholic",MESH:D008104,0,,2,COL3A1|TIMP1
+basement membrane,GO:0005604,"Liver Cirrhosis, Biliary",MESH:D008105,0,,3,ALB|ENTPD2|LOXL2
+basement membrane,GO:0005604,"Liver Cirrhosis, Experimental",MESH:D008106,0,,27,ACHE|ACTA2|ALB|ANXA2|CD74|COL1A1|COL1A2|COL3A1|COL4A1|COL4A2|COL5A1|COL6A1|COLEC12|FBN1|ITGB1|LOXL2|NID1|NID2|PTN|PXDN|SMOC1|SMOC2|SPARC|TIMP1|TIMP2|TRF|VEGFA
+basolateral part of cell,GO:1990794,Liver Cirrhosis,MESH:D008103,1,arsenite,0,
+basolateral plasma membrane,GO:0016323,Liver Cirrhosis,MESH:D008103,0,,8,ARRB1|ATP7B|CDH1|CHRM3|CTNNB1|LDLR|SLC22A8|TGFBR1
+basolateral plasma membrane,GO:0016323,"Liver Cirrhosis, Biliary",MESH:D008105,0,,3,SLC4A2|SLC51A|SLC51B
+basolateral plasma membrane,GO:0016323,"Liver Cirrhosis, Experimental",MESH:D008106,0,,30,ABCA8A|ABCC5|AGTR1A|ANXA1|ANXA2|AQP7|ARRB2|C5AR1|CAV1|CD38|CXADR|EPCAM|EZR|FXYD2|FXYD5|HJV|IQGAP1|LIN7A|MSN|PKD2|SLC10A1|SLC22A8|SLC39A8|SLC43A2|SLC46A1|SLC4A4|SLC7A1|SMOC1|ST14|TAX1BP3
+beta-catenin destruction complex,GO:0030877,Liver Cirrhosis,MESH:D008103,0,,1,CTNNB1
+beta-catenin-ICAT complex,GO:1990711,Liver Cirrhosis,MESH:D008103,0,,1,CTNNB1
+beta-catenin-TCF7L2 complex,GO:0070369,Liver Cirrhosis,MESH:D008103,0,,1,CTNNB1
+beta-catenin-TCF7L2 complex,GO:0070369,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,TCF4
+beta-catenin-TCF complex,GO:1990907,Liver Cirrhosis,MESH:D008103,0,,1,CTNNB1
+beta-catenin-TCF complex,GO:1990907,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,TCF4
+bicellular tight junction,GO:0005923,Liver Cirrhosis,MESH:D008103,0,,3,ATP7B|CTNNB1|TGFBR1
+bicellular tight junction,GO:0005923,"Liver Cirrhosis, Biliary",MESH:D008105,0,,1,CDH5
+bicellular tight junction,GO:0005923,"Liver Cirrhosis, Experimental",MESH:D008106,0,,8,ACTN1|CDH5|CXADR|ECT2|EPCAM|LIN7A|TSC22D1|VASP
+bleb,GO:0032059,Liver Cirrhosis,MESH:D008103,0,,1,P2RX7
+bleb,GO:0032059,"Liver Cirrhosis, Experimental",MESH:D008106,0,,3,FMNL1|PTPRC|TPM1
+BLOC-1 complex,GO:0031083,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,BLOC1S2
+blood microparticle,GO:0072562,Copper-Overload Cirrhosis,MESH:C566858,0,,1,TGFB1
+blood microparticle,GO:0072562,Liver Cirrhosis,MESH:D008103,0,,3,ALB|GC|TGFB1
+blood microparticle,GO:0072562,"Liver Cirrhosis, Alcoholic",MESH:D008104,0,,1,TGFB1
+blood microparticle,GO:0072562,"Liver Cirrhosis, Biliary",MESH:D008105,0,,2,ALB|TGFB1
+blood microparticle,GO:0072562,"Liver Cirrhosis, Experimental",MESH:D008106,0,,8,AFM|AFP|ALB|APOA4|C8G|GC|KNG1|TGFB1
+BMP receptor complex,GO:0070724,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,HJV
+BORC complex,GO:0099078,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,BLOC1S2
+brahma complex,GO:0035060,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,SMARCC1
+BRCA1-A complex,GO:0070531,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,ILK
+BRCA1-BARD1 complex,GO:0031436,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,ILK
+brush border,GO:0005903,Liver Cirrhosis,MESH:D008103,0,,1,NPPA
+brush border,GO:0005903,"Liver Cirrhosis, Experimental",MESH:D008106,0,,11,ACTN1|ADD3|CLIC1|DCXR|ENPEP|EZR|FLNA|MME|MYO1C|SLC23A1|TPM3
+brush border membrane,GO:0031526,Liver Cirrhosis,MESH:D008103,0,,1,PEMT
+brush border membrane,GO:0031526,"Liver Cirrhosis, Biliary",MESH:D008105,0,,2,ABCC2|ABCG2
+brush border membrane,GO:0031526,"Liver Cirrhosis, Experimental",MESH:D008106,0,,7,ABCB1A|ABCC2|AQP7|CD36|ENPEP|PRKCB|SLC46A1
+B-WICH complex,GO:0110016,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,MYO1C
+Cajal body,GO:0015030,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,ISG20
+calcium- and calmodulin-dependent protein kinase complex,GO:0005954,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,CAMK2D
+calprotectin complex,GO:1990660,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,S100A9
+calyx of Held,GO:0044305,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,PRKCB
+carbamoyl-phosphate synthase complex,GO:0005951,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,CPS1
+cardiac myofibril,GO:0097512,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,CRYAB
+cardiac Troponin complex,GO:1990584,Liver Cirrhosis,MESH:D008103,2,caryophyllene|Doxorubicin,0,
+cardiac Troponin complex,GO:1990584,"Liver Cirrhosis, Experimental",MESH:D008106,1,Doxorubicin,0,
+catalase complex,GO:0062151,"Liver Cirrhosis, Alcoholic",MESH:D008104,0,,1,CAT
+catalytic complex,GO:1902494,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,LPL
+catalytic step 2 spliceosome,GO:0071013,"Liver Cirrhosis, Experimental",MESH:D008106,0,,2,ES2|SRR
+catenin complex,GO:0016342,Liver Cirrhosis,MESH:D008103,0,,2,CDH1|CTNNB1
+catenin complex,GO:0016342,"Liver Cirrhosis, Biliary",MESH:D008105,0,,1,CDH5
+catenin complex,GO:0016342,"Liver Cirrhosis, Experimental",MESH:D008106,0,,2,CDH5|FAT1
+cation channel complex,GO:0034703,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,PKD2
+CatSper complex,GO:0036128,Liver Cirrhosis,MESH:D008103,1,bisphenol A,0,
+CatSper complex,GO:0036128,"Liver Cirrhosis, Experimental",MESH:D008106,1,bisphenol A,0,
+caveola,GO:0005901,Liver Cirrhosis,MESH:D008103,0,,4,ADRA1A|F2R|LDLR|TGFBR1
+caveola,GO:0005901,"Liver Cirrhosis, Biliary",MESH:D008105,0,,1,NOS3
+caveola,GO:0005901,"Liver Cirrhosis, Experimental",MESH:D008106,0,,11,ADRA1B|CAV1|CD36|F2R|HCK|HMOX1|JAK2|NOS3|PLPP2|PTGS2|TGFBR2
+caveolar macromolecular signaling complex,GO:0002095,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,CAV1
+CD40 receptor complex,GO:0035631,Liver Cirrhosis,MESH:D008103,0,,1,TNFRSF1B
+CD95 death-inducing signaling complex,GO:0031265,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,FAS
+cell body,GO:0044297,Copper-Overload Cirrhosis,MESH:C566858,0,,1,ACTA2
+cell body,GO:0044297,Liver Cirrhosis,MESH:D008103,0,,2,ACTA2|VIM
+cell body,GO:0044297,"Liver Cirrhosis, Biliary",MESH:D008105,0,,1,ENTPD2
+cell body,GO:0044297,"Liver Cirrhosis, Experimental",MESH:D008106,0,,9,ACTA2|APP|CSF1R|CXADR|EZR|FRY|FYN|GNAI2|VIM
+cell body fiber,GO:0070852,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,SRD5A1
+cell-cell contact zone,GO:0044291,"Liver Cirrhosis, Experimental",MESH:D008106,0,,3,AHNAK|GJA1|NECTIN2
+cell-cell junction,GO:0005911,Liver Cirrhosis,MESH:D008103,2,bisphenol A|Fluorouracil,4,CDH1|CTNNB1|KRT8|P2RX7
+cell-cell junction,GO:0005911,"Liver Cirrhosis, Biliary",MESH:D008105,1,Fluorouracil,1,CDH5
+cell-cell junction,GO:0005911,"Liver Cirrhosis, Experimental",MESH:D008106,1,bisphenol A,29,ACTN1|ADAM17|ADD3|AHNAK|APP|AQP7|CD53|CDH5|CXADR|ECT2|EMB|FABP7|FAT1|FLNA|GJA1|ILK|IQGAP1|ITGAL|ITGB1|ITGB3|KRT8|LCP2|LIN7A|LPXN|MYADM|NECTIN2|PKD2|PRKCD|VAV1
+cell cortex,GO:0005938,Liver Cirrhosis,MESH:D008103,0,,5,CCN2|CDH1|CTNNB1|FGFR2|LAMC2
+cell cortex,GO:0005938,"Liver Cirrhosis, Experimental",MESH:D008106,0,,23,ADD3|ANXA2|CAV1|CCN2|CDC42SE1|CTSZ|ECT2|EPB41L2|EZR|FLNA|FMNL1|FRY|GCK|ILK|IQGAP1|KANK1|MSN|MYL9|MYO1C|PFN1|RAC2|SPTAN1|TES
+cell junction,GO:0030054,Liver Cirrhosis,MESH:D008103,0,,3,CDH1|CHRM3|CTNNB1
+cell junction,GO:0030054,"Liver Cirrhosis, Biliary",MESH:D008105,0,,1,CDH5
+cell junction,GO:0030054,"Liver Cirrhosis, Experimental",MESH:D008106,0,,17,ACTN1|ANXA2|CDC42SE1|CDH5|CXADR|EPB41L2|FAT1|FOXA2|GJA1|ITGB6|LCP1|PDGFRA|RTN4|SMC5|SPTAN1|TAX1BP3|TES
+cell leading edge,GO:0031252,Liver Cirrhosis,MESH:D008103,0,,1,VIM
+cell leading edge,GO:0031252,"Liver Cirrhosis, Experimental",MESH:D008106,0,,4,ACTN1|IQGAP1|VIM|YWHAZ
+cell periphery,GO:0071944,"Cirrhosis, Familial",MESH:C566123,0,,1,KRT18
+cell periphery,GO:0071944,Copper-Overload Cirrhosis,MESH:C566858,0,,1,KRT19
+cell periphery,GO:0071944,Liver Cirrhosis,MESH:D008103,0,,4,CDH1|CTNNB1|KRT18|KRT8
+cell periphery,GO:0071944,"Liver Cirrhosis, Biliary",MESH:D008105,0,,1,CDH5
+cell periphery,GO:0071944,"Liver Cirrhosis, Experimental",MESH:D008106,0,,17,ADGRE1|ADIPOQ|CD36|CDH5|EZR|FABP7|FYN|ICAM2|KRT18|KRT19|KRT8|MSN|NID1|NID2|NOX4|PTPRC|SMOC2
+cell projection,GO:0042995,Liver Cirrhosis,MESH:D008103,1,Ursolic Acid,8,ANKS6|ARRB1|CNR1|CNR2|NPPA|PTEN|SPP1|VIM
+cell projection,GO:0042995,"Liver Cirrhosis, Experimental",MESH:D008106,1,Lipopolysaccharides,34,ACTN1|AGFG1|AIF1|ANXA5|APPL1|ASPN|B9D1|BCR|CNP|CNR1|CTTNBP2NL|CYP17A1|DAO|ELOVL5|EZR|FABP7|HCK|ITGB1|LCP1|LPXN|MSN|MYO1C|MYOC|NRG1|PALMD|PDGFRA|PKD2|RAC2|RTN4|SH3BGRL3|SPTAN1|TRPV1|VASP|VIM
+cell projection membrane,GO:0031253,Liver Cirrhosis,MESH:D008103,0,,1,CTNNB1
+cell projection membrane,GO:0031253,"Liver Cirrhosis, Biliary",MESH:D008105,0,,1,ENTPD2
+cell surface,GO:0009986,Copper-Overload Cirrhosis,MESH:C566858,0,,1,TGFB1
+cell surface,GO:0009986,Liver Cirrhosis,MESH:D008103,1,deoxynivalenol,15,CD14|CD9|CDH1|CP|F2R|F3|FGFR2|LDLR|LGALS1|PLAU|SPARC|TGFB1|TGFBR1|THBS1|VEGFA
+cell surface,GO:0009986,"Liver Cirrhosis, Alcoholic",MESH:D008104,0,,2,TGFB1|TNF
+cell surface,GO:0009986,"Liver Cirrhosis, Biliary",MESH:D008105,0,,8,ABCC2|CD80|CDH5|ENTPD2|IL12A|IL12B|TGFB1|TNFRSF1A
+cell surface,GO:0009986,"Liver Cirrhosis, Experimental",MESH:D008106,0,,106,ABCB1|ABCB1A|ABCC2|ACHE|ACKR3|ADA|ADAM17|ADIPOQ|ANGPTL3|ANXA1|ANXA2|ANXA4|APMAP|APOA4|APP|AXL|BGN|C5AR1|C8G|CAV1|CD163|CD200R1|CD200R2|CD24|CD36|CD38|CD53|CD5L|CD63|CD74|CD83|CD86|CDH5|CES3|CRYAB|CSF1R|CTSS|CTSZ|CXADR|EPCAM|F2R|FAS|FCER1G|FCGR3A|FGL2|FOLR2|GHR|HJV|IGF2R|IGFALS|IL2RB|IL2RG|ITGA2B|ITGAL|ITGB1|ITGB2|ITGB3|ITGB6|LBP|LCN2|LGALS1|LGALS3|LPL|LTBP1|MME|MSN|NECTIN2|NID2|NRROS|NT5E|PDGFA|PDGFRA|PDGFRB|PLAT|PLAU|PLG|PRLR|PRNP|PRTG|PTN|PTPRC|PXDN|RAMP1|ROBO2|RT1-CE5|RT1-DA|RT1-DB1|RT1-DMA|S100A10|SEMA6D|SLAMF9|SLC4A4|SPARC|TFPI2|TGFB1|TGFB3|TGFBR2|THBD|TIMP2|TLR4|TNF|TNFRSF12A|TRF|TSPAN8|TYROBP|VEGFA
+cell tip,GO:0051286,"Liver Cirrhosis, Experimental",MESH:D008106,0,,4,EZR|MSN|RAB8B|TRF
+cellular_component,GO:0005575,Liver Cirrhosis,MESH:D008103,0,,1,ALB
+cellular_component,GO:0005575,"Liver Cirrhosis, Alcoholic",MESH:D008104,0,,1,MIR93
+cellular_component,GO:0005575,"Liver Cirrhosis, Biliary",MESH:D008105,0,,1,ALB
+cellular_component,GO:0005575,"Liver Cirrhosis, Experimental",MESH:D008106,0,,41,ACBD4|ADM|ALB|AMACR|CNPY4|CSAD|CYRIA|DCXR|DEPDC7|DHRS7|DUS1L|EEIG2|FAM167B|FAM43A|FAM89A|GPT|GPX8|GSTA3|HPCAL1|HYKK|IGSF6|L3HYPDH|LRRC28|LURAP1L|NAGK|NDRG2|NFKBIE|NHSL3|OSGIN1|PPP1R18|PTER|R3HDM2|RASSF4|RCSD1|RSRP1|SDR42E1|SHCBP1|TSTD3|TTC36|YPEL3|YWHAZ
+centralspindlin complex,GO:0097149,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,ECT2
+centriolar satellite,GO:0034451,"Cirrhosis, Familial",MESH:C566123,0,,1,KRT18
+centriolar satellite,GO:0034451,Liver Cirrhosis,MESH:D008103,0,,2,KLF5|KRT18
+centriolar satellite,GO:0034451,"Liver Cirrhosis, Biliary",MESH:D008105,0,,1,KEAP1
+centriolar satellite,GO:0034451,"Liver Cirrhosis, Experimental",MESH:D008106,0,,4,CD86|DYSF|KRT18|NEK6
+centriole,GO:0005814,"Liver Cirrhosis, Experimental",MESH:D008106,0,,3,CAPG|FTCD|TIMP2
+centrosome,GO:0005813,Liver Cirrhosis,MESH:D008103,0,,4,ATM|CTNNB1|NFE2L2|TMEM67
+centrosome,GO:0005813,"Liver Cirrhosis, Biliary",MESH:D008105,0,,1,NFE2L2
+centrosome,GO:0005813,"Liver Cirrhosis, Experimental",MESH:D008106,0,,27,ATF3|ATP6V1D|B9D1|BICD2|BLOC1S2|CCNB2|CDK1|ECT2|FRY|GNAI2|ILK|ITGB6|LIMK2|MDH1|MME|NDRG1|NEK6|NFE2L2|NLRC5|PRKCB|PROCR|SMAD4|SNAP23|SNAP29|TIMP2|TRIM59|UNC5CL
+cerebellar climbing fiber to Purkinje cell synapse,GO:0150053,Liver Cirrhosis,MESH:D008103,0,,1,MGLL
+cerebellar climbing fiber to Purkinje cell synapse,GO:0150053,"Liver Cirrhosis, Experimental",MESH:D008106,0,,2,GRN|ITGB1
+cerebellar Golgi cell to granule cell synapse,GO:0099192,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,NBEA
+C-fiber,GO:0044299,Liver Cirrhosis,MESH:D008103,0,,1,CCL2
+C-fiber,GO:0044299,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,CCL2
+CGRP receptor complex,GO:1990406,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,RAMP1
+chitin-based extracellular matrix,GO:0062129,"Liver Cirrhosis, Experimental",MESH:D008106,0,,2,LCP1|LCP2
+chloride channel complex,GO:0034707,"Liver Cirrhosis, Experimental",MESH:D008106,0,,3,ANO6|CLIC1|CLIC2
+cholinergic synapse,GO:0098981,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,ANO6
+CHOP-ATF3 complex,GO:1990622,"Liver Cirrhosis, Experimental",MESH:D008106,0,,2,ARHGAP9|ATF3
+CHOP-ATF4 complex,GO:1990617,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,ARHGAP9
+CHOP-C/EBP complex,GO:0036488,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,ARHGAP9
+chromaffin granule membrane,GO:0042584,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,SRI
+chromatin,GO:0000785,Copper-Overload Cirrhosis,MESH:C566858,0,,2,SMAD2|STAT3
+chromatin,GO:0000785,Liver Cirrhosis,MESH:D008103,0,,12,AHR|ARNT|ARRB1|FOXO3|HDAC2|HIF1A|JUND|KLF5|NFE2L2|SMAD3|SPARC|STAT1
+chromatin,GO:0000785,"Liver Cirrhosis, Alcoholic",MESH:D008104,0,,2,RELA|SMAD3
+chromatin,GO:0000785,"Liver Cirrhosis, Biliary",MESH:D008105,0,,7,HIF1A|LOXL2|NFE2L2|NFKB1|RELA|SPIB|STAT4
+chromatin,GO:0000785,"Liver Cirrhosis, Experimental",MESH:D008106,0,,40,ATF3|CEBPD|ENC1|FLI1|FOS|FOXA2|HMGN5B|HOPX|HOXA3|ID2|ILK|IRF8|JDP2|KLF6|LOXL2|MEOX2|MYC|NAP1L5|NCOR2|NFE2L2|NPAS2|NR0B2|PC|RBL2|RELA|SIRT1|SMAD2|SMAD4|SMARCC1|SMC2|SOX4|SPARC|SREBF1|TCF4|TFEC|TRIM24|TRIM59|ZBTB4|ZEB2|ZFP37
+chromatin silencing complex,GO:0005677,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,SIRT1
+chromosome,GO:0005694,Copper-Overload Cirrhosis,MESH:C566858,0,,1,MKI67
+chromosome,GO:0005694,"Liver Cirrhosis, Biliary",MESH:D008105,0,,1,LOXL2
+chromosome,GO:0005694,"Liver Cirrhosis, Experimental",MESH:D008106,0,,11,CAPG|IL33|LOXL2|MIS12|MKI67|RBL2|SMARCC1|SMC2|SMC5|ZBTB4|ZEB2
+"chromosome, centromeric region",GO:0000775,Copper-Overload Cirrhosis,MESH:C566858,0,,1,MKI67
+"chromosome, centromeric region",GO:0000775,"Liver Cirrhosis, Experimental",MESH:D008106,0,,4,HELLS|MIS12|MKI67|SMC5
+"chromosome, telomeric region",GO:0000781,Liver Cirrhosis,MESH:D008103,0,,2,ATM|HDAC2
+"chromosome, telomeric region",GO:0000781,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,SMC5
+chylomicron,GO:0042627,"Liver Cirrhosis, Experimental",MESH:D008106,0,,2,APOA4|LPL
+ciliary basal body,GO:0036064,Liver Cirrhosis,MESH:D008103,0,,3,CTNNB1|NFE2L2|SMAD3
+ciliary basal body,GO:0036064,"Liver Cirrhosis, Alcoholic",MESH:D008104,0,,1,SMAD3
+ciliary basal body,GO:0036064,"Liver Cirrhosis, Biliary",MESH:D008105,0,,1,NFE2L2
+ciliary basal body,GO:0036064,"Liver Cirrhosis, Experimental",MESH:D008106,0,,8,ATF3|B9D1|EZR|GNAI2|MME|NFE2L2|PKD2|SMAD4
+ciliary inversin compartment,GO:0097543,Liver Cirrhosis,MESH:D008103,0,,1,ANKS6
+ciliary membrane,GO:0060170,Liver Cirrhosis,MESH:D008103,0,,1,TMEM67
+ciliary membrane,GO:0060170,"Liver Cirrhosis, Experimental",MESH:D008106,0,,3,CD24|PKD2|SNAP29
+ciliary pocket membrane,GO:0020018,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,SNAP29
+ciliary rootlet,GO:0035253,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,APP
+ciliary transition zone,GO:0035869,Liver Cirrhosis,MESH:D008103,0,,1,TMEM67
+ciliary transition zone,GO:0035869,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,B9D1
+cilium,GO:0005929,Liver Cirrhosis,MESH:D008103,0,,3,ANKS6|CTNNB1|TGFBR1
+cilium,GO:0005929,"Liver Cirrhosis, Experimental",MESH:D008106,0,,12,ANXA1|ATP6V1D|B9D1|CAV1|CYRIB|MYOC|PDGFRA|PKD2|RABGAP1L|SNAP23|TAX1BP3|TRIM59
+cis-Golgi network,GO:0005801,"Liver Cirrhosis, Experimental",MESH:D008106,0,,2,LIMK2|RAB30
+cis-Golgi network membrane,GO:0033106,"Liver Cirrhosis, Experimental",MESH:D008106,0,,2,RT1-M3-1|TMEM165
+clathrin coat,GO:0030118,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,IGF2R
+clathrin-coated endocytic vesicle membrane,GO:0030669,Liver Cirrhosis,MESH:D008103,0,,2,CD9|LDLR
+clathrin-coated endocytic vesicle membrane,GO:0030669,"Liver Cirrhosis, Biliary",MESH:D008105,0,,2,CD3D|IL7R
+clathrin-coated endocytic vesicle membrane,GO:0030669,"Liver Cirrhosis, Experimental",MESH:D008106,0,,5,CD74|EGF|FCGR1A|IGF2R|IL7R
+clathrin-coated pit,GO:0005905,Liver Cirrhosis,MESH:D008103,0,,2,ARRB1|LDLR
+clathrin-coated pit,GO:0005905,"Liver Cirrhosis, Experimental",MESH:D008106,0,,5,ACKR3|AP1S2|APP|ARRB2|TRF
+clathrin-coated vesicle,GO:0030136,Liver Cirrhosis,MESH:D008103,0,,1,ABCB4
+clathrin-coated vesicle,GO:0030136,"Liver Cirrhosis, Biliary",MESH:D008105,0,,2,ABCB4|DENND1B
+clathrin-coated vesicle,GO:0030136,"Liver Cirrhosis, Experimental",MESH:D008106,0,,2,HIP1|SYNRG
+clathrin-coated vesicle membrane,GO:0030665,"Liver Cirrhosis, Experimental",MESH:D008106,0,,2,ATP6V1D|HIP1
+clathrin coat of trans-Golgi network vesicle,GO:0030130,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,SYNRG
+cleavage furrow,GO:0032154,"Liver Cirrhosis, Experimental",MESH:D008106,0,,5,ECT2|ICAM2|ITGB1|PSTPIP1|TPM3
+CLOCK-BMAL transcription complex,GO:1990513,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,NPAS2
+cochlear hair cell ribbon synapse,GO:0098683,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,CAMK2D
+collagen-containing extracellular matrix,GO:0062023,Copper-Overload Cirrhosis,MESH:C566858,0,,1,TGFB1
+collagen-containing extracellular matrix,GO:0062023,Liver Cirrhosis,MESH:D008103,0,,17,COL1A1|COL1A2|COL3A1|COL5A2|F2|F3|FBN1|FGFR2|LGALS1|LOX|LOXL1|LUM|PCOLCE|POSTN|TGFB1|THBS1|VTN
+collagen-containing extracellular matrix,GO:0062023,"Liver Cirrhosis, Alcoholic",MESH:D008104,0,,2,COL3A1|TGFB1
+collagen-containing extracellular matrix,GO:0062023,"Liver Cirrhosis, Biliary",MESH:D008105,0,,3,LOX|LOXL2|TGFB1
+collagen-containing extracellular matrix,GO:0062023,"Liver Cirrhosis, Experimental",MESH:D008106,0,,40,ANGPTL3|ANXA2|BGN|BMP7|CD5L|COL12A1|COL1A1|COL1A2|COL3A1|COL4A1|COL4A2|COL5A1|COL5A2|COL6A1|COL6A2|COLEC12|FBN1|FCN1|FGL2|GH1|IGFBP7|LGALS1|LGALS3|LOX|LOXL2|LTBP1|LUM|MFAP4|MGP|MYOC|NID1|PLSCR1|PLSCR2|PXDN|S100A10|S100A6|SMOC2|TGFB1|TGFB3|VWF
+collagen trimer,GO:0005581,Liver Cirrhosis,MESH:D008103,0,,7,C1QB|COL1A1|COL1A2|COL3A1|COL5A2|LOX|PLOD2
+collagen trimer,GO:0005581,"Liver Cirrhosis, Alcoholic",MESH:D008104,0,,1,COL3A1
+collagen trimer,GO:0005581,"Liver Cirrhosis, Biliary",MESH:D008105,0,,1,LOX
+collagen trimer,GO:0005581,"Liver Cirrhosis, Experimental",MESH:D008106,0,,19,ADIPOQ|C1QA|C1QB|C1QC|COL12A1|COL1A1|COL1A2|COL3A1|COL4A1|COL4A2|COL5A1|COL5A2|COL6A1|COL6A2|COLEC12|FCN1|LOX|MMP1|PLOD2
+collagen type III trimer,GO:0005586,Liver Cirrhosis,MESH:D008103,0,,1,COL3A1
+collagen type III trimer,GO:0005586,"Liver Cirrhosis, Alcoholic",MESH:D008104,0,,1,COL3A1
+collagen type III trimer,GO:0005586,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,COL3A1
+collagen type II trimer,GO:0005585,Liver Cirrhosis,MESH:D008103,0,,4,COL1A1|COL1A2|COL3A1|COL5A2
+collagen type II trimer,GO:0005585,"Liver Cirrhosis, Alcoholic",MESH:D008104,0,,1,COL3A1
+collagen type II trimer,GO:0005585,"Liver Cirrhosis, Experimental",MESH:D008106,0,,4,COL1A1|COL1A2|COL3A1|COL5A2
+collagen type I trimer,GO:0005584,Liver Cirrhosis,MESH:D008103,0,,2,COL1A1|COL1A2
+collagen type I trimer,GO:0005584,"Liver Cirrhosis, Experimental",MESH:D008106,0,,2,COL1A1|COL1A2
+collagen type IV trimer,GO:0005587,"Liver Cirrhosis, Experimental",MESH:D008106,0,,2,COL4A1|COL4A2
+collagen type IX trimer,GO:0005594,Liver Cirrhosis,MESH:D008103,0,,2,COL1A2|COL5A2
+collagen type IX trimer,GO:0005594,"Liver Cirrhosis, Experimental",MESH:D008106,0,,4,COL1A2|COL4A1|COL4A2|COL5A2
+collagen type VI trimer,GO:0005589,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,COL6A1
+collagen type V trimer,GO:0005588,Liver Cirrhosis,MESH:D008103,0,,1,COL5A2
+collagen type V trimer,GO:0005588,"Liver Cirrhosis, Experimental",MESH:D008106,0,,2,COL5A1|COL5A2
+collagen type XII trimer,GO:0005595,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,COL12A1
+collagen type XI trimer,GO:0005592,Liver Cirrhosis,MESH:D008103,0,,1,COL5A2
+collagen type XI trimer,GO:0005592,"Liver Cirrhosis, Experimental",MESH:D008106,0,,2,COL5A1|COL5A2
+complement component C1 complex,GO:0005602,Liver Cirrhosis,MESH:D008103,0,,1,C1QB
+complement component C1 complex,GO:0005602,"Liver Cirrhosis, Experimental",MESH:D008106,0,,3,C1QA|C1QB|C1QC
+complement component C1q complex,GO:0062167,Liver Cirrhosis,MESH:D008103,0,,1,C1QB
+complement component C1q complex,GO:0062167,"Liver Cirrhosis, Experimental",MESH:D008106,0,,3,C1QA|C1QB|C1QC
+condensed chromosome,GO:0000793,Copper-Overload Cirrhosis,MESH:C566858,0,,1,MKI67
+condensed chromosome,GO:0000793,"Liver Cirrhosis, Experimental",MESH:D008106,0,,2,MKI67|SMC2
+condensed nuclear chromosome,GO:0000794,"Liver Cirrhosis, Experimental",MESH:D008106,0,,2,ADD3|SMC2
+condensin complex,GO:0000796,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,SMC2
+connexin complex,GO:0005922,"Liver Cirrhosis, Experimental",MESH:D008106,0,,2,GJA1|GJA4
+contractile fiber,GO:0043292,"Liver Cirrhosis, Experimental",MESH:D008106,0,,2,CRYAB|GJA1
+COP9 signalosome,GO:0008180,"Liver Cirrhosis, Experimental",MESH:D008106,0,,4,CNPY4|DOCK7|EPB41L2|SLA
+COPI-coated vesicle,GO:0030137,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,DIPK2A
+COPII-coated ER to Golgi transport vesicle,GO:0030134,Liver Cirrhosis,MESH:D008103,0,,2,F5|SERPINA1
+COPII-coated ER to Golgi transport vesicle,GO:0030134,"Liver Cirrhosis, Experimental",MESH:D008106,0,,2,APP|CTSZ
+COPI vesicle coat,GO:0030126,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,DIPK2A
+cornified envelope,GO:0001533,"Liver Cirrhosis, Experimental",MESH:D008106,0,,4,ANXA1|ANXA2|LGALS3|S100A9
+cortical actin cytoskeleton,GO:0030864,Liver Cirrhosis,MESH:D008103,0,,1,CDH1
+cortical actin cytoskeleton,GO:0030864,"Liver Cirrhosis, Experimental",MESH:D008106,0,,8,ACTN1|COTL1|GSN|IQGAP1|MYADM|MYO1F|SPTAN1|VOPP1
+cortical cytoskeleton,GO:0030863,"Liver Cirrhosis, Biliary",MESH:D008105,0,,1,NOS2
+cortical cytoskeleton,GO:0030863,"Liver Cirrhosis, Experimental",MESH:D008106,0,,9,ACTN1|EZR|FLNA|INPP5D|NOS2|NSMF|SPTAN1|TPM3|TPM4
+cortical granule,GO:0060473,Liver Cirrhosis,MESH:D008103,1,Resveratrol,0,
+cortical granule,GO:0060473,"Liver Cirrhosis, Biliary",MESH:D008105,1,Glutathione,0,
+cortical granule,GO:0060473,"Liver Cirrhosis, Experimental",MESH:D008106,3,Glutathione|Lipopolysaccharides|Resveratrol,0,
+costamere,GO:0043034,Copper-Overload Cirrhosis,MESH:C566858,0,,1,KRT19
+costamere,GO:0043034,Liver Cirrhosis,MESH:D008103,0,,1,KRT8
+costamere,GO:0043034,"Liver Cirrhosis, Experimental",MESH:D008106,0,,4,AHNAK|ILK|KRT19|KRT8
+CRD-mediated mRNA stability complex,GO:0070937,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,YBX1
+creatine kinase complex,GO:0002185,Liver Cirrhosis,MESH:D008103,1,Taurine,0,
+creatine kinase complex,GO:0002185,"Liver Cirrhosis, Experimental",MESH:D008106,1,Taurine,0,
+CSF1-CSF1R complex,GO:1990682,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,CSF1R
+Cul2-RING ubiquitin ligase complex,GO:0031462,Copper-Overload Cirrhosis,MESH:C566858,0,,1,COMMD1
+Cul2-RING ubiquitin ligase complex,GO:0031462,Liver Cirrhosis,MESH:D008103,0,,1,COMMD1
+Cul3-RING ubiquitin ligase complex,GO:0031463,"Liver Cirrhosis, Biliary",MESH:D008105,0,,1,KEAP1
+Cul3-RING ubiquitin ligase complex,GO:0031463,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,ENC1
+Cul5-RING ubiquitin ligase complex,GO:0031466,"Liver Cirrhosis, Experimental",MESH:D008106,0,,2,SOCS2|TMSB10
+cuticular plate,GO:0032437,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,SPTAN1
+cyclin A1-CDK1 complex,GO:0097121,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,CDK1
+cyclin A2-CDK1 complex,GO:0097122,"Liver Cirrhosis, Experimental",MESH:D008106,0,,2,CCNA2|CDK1
+cyclin A2-CDK2 complex,GO:0097124,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,CCNA2
+cyclin B1-CDK1 complex,GO:0097125,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,CDK1
+cyclin-dependent protein kinase holoenzyme complex,GO:0000307,"Liver Cirrhosis, Experimental",MESH:D008106,0,,5,CCNA2|CCNB2|CCNG1|CDK1|CDKN1A
+cytolytic granule,GO:0044194,"Liver Cirrhosis, Experimental",MESH:D008106,0,,2,SRGN|TIAL1
+cytoplasm,GO:0005737,"Cirrhosis, Familial",MESH:C566123,0,,1,KRT18
+cytoplasm,GO:0005737,Copper-Overload Cirrhosis,MESH:C566858,0,,10,ACTA2|CASP3|COMMD1|KRT19|KRT7|MET|MKI67|SMAD2|STAT3|TGFB1
+cytoplasm,GO:0005737,Liver Cirrhosis,MESH:D008103,0,,52,ABCB4|ACTA2|ADRA1A|AHR|ALB|ANKS6|ARNT|ARRB1|ATG5|ATM|BAMBI|CDH1|CNR1|CNR2|COL1A1|COL1A2|COMMD1|CP|CTNNB1|CYBA|CYP2R1|CYP4A11|FGF2|FGF7|FGFR2|FOCAD|FOXO3|GC|HDAC2|HIF1A|IDO2|KRT18|KRT8|LGALS1|MICAL2|MRTFA|NFE2L2|NPPA|P2RX7|PTEN|RGN|SERPINH1|SHC1|SMAD3|SPARC|SPP1|STAT1|TAGLN2|TGFB1|TUG1|VEGFA|VIM
+cytoplasm,GO:0005737,"Liver Cirrhosis, Alcoholic",MESH:D008104,0,,7,BCL2|CAT|CYP2E1|PNPLA3|RELA|SMAD3|TGFB1
+cytoplasm,GO:0005737,"Liver Cirrhosis, Biliary",MESH:D008105,0,,22,ABCB4|ALB|CCL5|CD3D|CDH5|CYGB|HIF1A|IL12A|IL12B|KEAP1|KRT7|MAPK14|NFE2L2|NFKB1|NOS2|NOS3|RELA|SPIB|STAT4|TGFB1|TYK2|UBD
+cytoplasm,GO:0005737,"Liver Cirrhosis, Experimental",MESH:D008106,0,,357,ABCB1|ABCB1A|ABLIM3|ACBD4|ACTA2|ACTN1|ADA|ADAM17|ADD3|ADH4|ADM|ADRA1B|AFM|AFP|AGFG1|AGL|AGTR1A|AHNAK|AIDA|AIF1|AKR1C1|AKR1C3|AKTIP|ALB|ALDH1A1|ALDH1A7|ALDH1L1|ALDH1L2|AMACR|ANXA1|ANXA2|ANXA3|ANXA4|ANXA5|APAF1|APBB1IP|APOBEC1|APON|APP|APPL1|AQP7|ARHGAP9|ARHGDIB|ARL11|ARL8A|ARPC1B|ARRB2|B9D1|BCL2A1D|BICD2|BIRC3|BLOC1S2|BLVRA|BMF|CA3|CAMK2D|CAPG|CASP1|CASP4|CASP7|CCL5|CCNA2|CCNB2|CCNG1|CD36|CD5L|CD74|CDC42SE1|CDH5|CDK1|CDKN1A|CDKN3|CELA1|CELF2|CERK|CIDEA|CLIC1|CLIC2|CMTM3|CNP|CNR1|COL1A1|COL1A2|CPQ|CPS1|CRY1|CRYAB|CSAD|CTTNBP2NL|CXADR|CYBA|CYBB|CYGB|CYP2C|CYP2D4|CYP2T1|CYP3A13|DAO|DBNDD2|DDC|DOCK10|DPYS|DRAM1|DUS1L|DUSP16|DUSP6|DYSF|ECT2|EDN1|EIF4E3|EMB|ENC1|ENPEP|ERAP1|ERN1|EZR|FABP2|FBXO9|FGF2|FHL1|FKBP1A|FLNA|FOS|FOXA2|FRY|FTCD|FYN|GBP2|GBP4|GC|GCHFR|GCK|GET1|GJA1|GK|GNAI2|GNPDA1|GOT1|GPT|GSN|GSTA2|GSTA3|GSTM1|GULP1|GZMA|HAGH|HAL|HEXIM1|HIP1|HOPX|HPGDS|HYKK|ID2|ID4|IFI204|IFI35|IFRD1|IGF2BP3|IKBKG|IL18|IL1B|IL33|ILK|INPP5D|INPPL1|IQGAP1|IRF8|ISG20|ISYNA1|ITGB1|IYD|JAK2|KANK1|KLF6|KRT18|KRT19|KRT8|KYNU|LBH|LCP1|LCP2|LDHB|LEP|LGALS1|LGALS3|LGMN|LIMK2|LPXN|LRRFIP1|LTA4H|MAP1LC3A|MAP3K8|MDH1|MEOX2|MID1IP1|MKI67|MME|MOB3A|MRO|MT1A|MT2A|MTMR7|MVP|MYC|MYL9|MYO1C|MYO1F|MYO5A|NDRG1|NDRG2|NEK6|NFE2L2|NFKBIA|NFKBIE|NLRC5|NMI|NOCT|NOS2|NOS3|NPAS2|NR0B2|NREP|NRG1|NSMF|NUDT16|NUPR1|OAT|OTULINL|PALMD|PC|PCK1|PDGFRA|PDGFRB|PDZRN3|PFKP|PFN1|PKD2|PKLR|PLA2G12A|PLA2G4A|PLAT|PLEK|PLEKHB1|PLIN2|PLIN3|PLSCR1|PLSCR2|POMC|PPP1R18|PRKCB|PRKCD|PRNP|PRUNE2|PSMB10|PSMB8|PSMB9|PSME2|PSTPIP1|PTER|PTGS1|PTGS2|PTPN1|PTPN18|PYCARD|RAB31|RAB32|RAB40B|RAC2|RBM3|RCN2|RDH10|RELA|RGN|RGS10|RGS2|RGS3|RGS5|RHOQ|RMDN2|RMND5B|RNF39|RPH3AL|RTP3|S100A10|S100A11|S100A6|S100A9|S1PR1|SASH3|SDS|SELENOW|SEMA6D|SENP2|SERPINB9|SERPINH1|SGCB|SGK2|SH3BGRL3|SHCBP1|SIRT1|SKAP2|SLA|SLC23A1|SLC46A1|SLC4A4|SLFN2|SMAD2|SMAD4|SMARCC1|SMC2|SMC5|SNAP23|SNAP29|SNX7|SOCS1|SOCS2|SOX4|SPARC|SPSB4|SPTAN1|SREBF1|SRI|SRR|STAC3|SULT1E1|SULT2A1|SYNRG|TAGLN2|TAX1BP3|TCF20|TES|TFEC|TGFB1|TIAL1|TLR4|TMSB10|TNFAIP8|TOR4A|TPM1|TPM3|TPM4|TRAK2|TRIM24|TRIM59|TSC22D1|TUBB6|UBD|UNC5CL|VASP|VAV1|VEGFA|VIM|WLS|YBX1|YWHAG|YWHAZ|ZFYVE16
+cytoplasmic microtubule,GO:0005881,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,DCXR
+cytoplasmic ribonucleoprotein granule,GO:0036464,"Liver Cirrhosis, Experimental",MESH:D008106,0,,4,GHR|IQGAP1|NFKBIZ|SOCS1
+cytoplasmic side of endoplasmic reticulum membrane,GO:0098554,"Liver Cirrhosis, Experimental",MESH:D008106,0,,3,OTULINL|PKD2|PTPN1
+cytoplasmic side of Golgi membrane,GO:0098548,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,CFP
+cytoplasmic side of lysosomal membrane,GO:0098574,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,BLOC1S2
+cytoplasmic side of membrane,GO:0098562,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,FKBP1A
+cytoplasmic side of plasma membrane,GO:0009898,Liver Cirrhosis,MESH:D008103,0,,2,CDH1|PTEN
+cytoplasmic side of plasma membrane,GO:0009898,"Liver Cirrhosis, Biliary",MESH:D008105,0,,1,TYK2
+cytoplasmic side of plasma membrane,GO:0009898,"Liver Cirrhosis, Experimental",MESH:D008106,0,,8,HCK|IQGAP1|JAK2|MSN|PTPRC|RGS2|S100A6|STAC3
+cytoplasmic stress granule,GO:0010494,Liver Cirrhosis,MESH:D008103,1,sodium arsenite,0,
+cytoplasmic stress granule,GO:0010494,"Liver Cirrhosis, Experimental",MESH:D008106,0,,4,IGF2BP3|STAU2|TIAL1|YBX1
+cytoplasmic vesicle,GO:0031410,Liver Cirrhosis,MESH:D008103,0,,4,ARRB1|ATP7B|FGFR2|TRPM7
+cytoplasmic vesicle,GO:0031410,"Liver Cirrhosis, Biliary",MESH:D008105,0,,1,DENND1B
+cytoplasmic vesicle,GO:0031410,"Liver Cirrhosis, Experimental",MESH:D008106,0,,44,ADA|AGFG1|AGTR1A|ANXA4|AP1S2|AP3S1|APP|APPL1|ARHGAP30|ARHGDIB|ARRB2|BICD2|C5AR1|CAV1|CMTM3|CTSZ|DIPK2A|DPP7|DUSP16|DYSF|ENPEP|GBP2|GBP4|GPNMB|ITGB1|LAPTM5|MME|MYOC|PDGFRB|PKD2|PLA2G4A|RAB30|RAC2|RMND5B|SENP2|SNAP23|SNAP29|SOCS1|SREBF1|TRAK2|TRF|WIPF1|WLS|ZDHHC13
+cytoplasmic vesicle lumen,GO:0060205,"Liver Cirrhosis, Experimental",MESH:D008106,0,,2,ADA|LCN2
+cytoplasmic vesicle membrane,GO:0030659,Liver Cirrhosis,MESH:D008103,0,,3,ARRB1|TMEM67|TRPM7
+cytoplasmic vesicle membrane,GO:0030659,"Liver Cirrhosis, Experimental",MESH:D008106,0,,12,AP1S2|AP3S1|AQP7|BLVRA|DYSF|GBP2|IYD|MYO1C|PKD2|SNAP23|VOPP1|ZDHHC13
+cytoskeleton,GO:0005856,"Cirrhosis, Familial",MESH:C566123,0,,1,KRT18
+cytoskeleton,GO:0005856,Copper-Overload Cirrhosis,MESH:C566858,0,,2,ACTA2|KRT19
+cytoskeleton,GO:0005856,Liver Cirrhosis,MESH:D008103,0,,4,ACTA2|KRT18|TMEM67|VIM
+cytoskeleton,GO:0005856,"Liver Cirrhosis, Biliary",MESH:D008105,0,,2,NOS3|TYK2
+cytoskeleton,GO:0005856,"Liver Cirrhosis, Experimental",MESH:D008106,0,,50,ACTA2|ACTN1|ADD3|AIF1|APBB1IP|ARHGDIB|ARPC1B|B9D1|BLOC1S2|CDC42SE1|COTL1|ENC1|EPB41L2|EZR|FGR|FTCD|GNAI2|GSN|HIP1|INPP5D|INPPL1|JAK2|KANK1|KRT18|KRT19|LCP1|LIMK2|LPXN|LRRFIP1|MSN|MVP|NEK6|NOS3|PFN1|PKD2|PLEKHH1|PPP1R18|PSTPIP1|RAC2|S100A9|SGCB|SHCBP1|SPTAN1|TMSB10|TPM1|TPM3|TPM4|TUBB6|VASP|VIM
+cytosol,GO:0005829,"Cirrhosis, Familial",MESH:C566123,0,,1,KRT18
+cytosol,GO:0005829,Copper-Overload Cirrhosis,MESH:C566858,0,,7,ACTA2|CASP3|COMMD1|KRT19|KRT7|SMAD2|STAT3
+cytosol,GO:0005829,Liver Cirrhosis,MESH:D008103,0,,30,ABCB4|ACTA2|ADRA1A|AHR|ALAD|ARRB1|ATG5|ATM|COMMD1|CTNNB1|F5|FLT1|FOCAD|FOXO3|GC|HIF1A|IDO2|KRT18|KRT8|LGALS1|MGLL|MRTFA|NFE2L2|PEMT|PTEN|SHC1|SMAD3|STAT1|TAGLN2|VIM
+cytosol,GO:0005829,"Liver Cirrhosis, Alcoholic",MESH:D008104,0,,4,BCL2|CAT|RELA|SMAD3
+cytosol,GO:0005829,"Liver Cirrhosis, Biliary",MESH:D008105,0,,18,ABCB4|CLEC16A|CYGB|DENND1B|HIF1A|IL12B|IL7R|KEAP1|KRT7|MAPK14|NFE2L2|NFKB1|NOS2|NOS3|RELA|STAT4|TYK2|UBD
+cytosol,GO:0005829,"Liver Cirrhosis, Experimental",MESH:D008106,0,,307,AADAC|AADAT|ACOX2|ACP5|ACTA2|ACTN1|ADA|ADAM17|ADD3|ADH1|ADH4|AGFG1|AGL|AHNAK|AIF1|AKR1B1|AKR1C1|AKR1C3|ALDH1A1|ALDH1A7|ALDH1B1|ALDH1L1|AMACR|ANO6|ANXA1|ANXA2|ANXA5|AP1S2|APAF1|APBB1IP|APOA4|APP|APPL1|ARHGAP30|ARHGAP9|ARHGDIB|ARPC1B|ARRB2|ASNS|ATP6V1D|B9D1|BBOX1|BCR|BICD2|BIRC3|BLOC1S2|BLVRA|BMF|CA3|CAMK2D|CAR3|CASP1|CASP4|CASP7|CCNA2|CCNB2|CD163|CDK1|CDKN1A|CDKN3|CDO1|CEMIP2|CES3|CIDEA|CLIC2|CLP1|CMTM3|CNDP1|CNP|COTL1|CPS1|CROT|CRY1|CRYAB|CSAD|CYGB|DAO|DBNDD2|DCXR|DDC|DOCK10|DPYS|DUSP16|DUSP6|ECT2|EIF4E3|EPB41L2|ERAP1|EZR|FABP2|FABP7|FAHD1|FAS|FAT1|FBXO9|FGR|FHL1|FKBP1A|FLI1|FLNA|FMNL1|FMNL2|FOS|FTCD|FYN|GBP2|GBP4|GC|GCHFR|GCK|GHR|GJA1|GK|GLS|GNAI2|GNPDA1|GOT1|GPT|GSN|GSTA2|GSTA3|GSTM1|GSTP3|HAGH|HAL|HAO1|HAO2|HCK|HIP1|HMOX1|HOPX|HPGDS|ID2|IFI204|IFI35|IGF2BP3|IKBKG|IL18|IL1B|IL2RB|IL2RG|IL7R|ILK|INMT|INPP5D|INPPL1|IQGAP1|IRF8|ISYNA1|JAK2|KLF6|KMO|KRT18|KRT19|KRT8|KYNU|LAPTM5|LCN2|LCP1|LCP2|LDHB|LEP|LGALS1|LGALS3|LIMK2|LPXN|LRRFIP1|LTA4H|MAP1LC3A|MAP3K8|MDH1|MID1IP1|MIS12|MME|MSN|MT1A|MT2A|MTMR7|MVP|MYL9|MYO1C|MYO1F|MYO5A|NAGK|NBEA|NCKAP1L|NDRG1|NDRG2|NEK6|NFE2L2|NFKBIA|NFKBIE|NLRC5|NMI|NOS2|NOS3|NPAS2|NQO2|NT5E|OAT|PC|PCK1|PCK2|PDGFRA|PEA15A|PFKP|PFN1|PKD2|PKLR|PLA2G4A|PLEK|PLIN2|PLIN3|PLSCR1|PLSCR2|PPP1R3C|PRKCB|PRKCD|PRNP|PRR13|PRTFDC1|PRUNE2|PSMB10|PSMB8|PSMB9|PSME2|PSTPIP1|PTER|PTGS2|PTPN1|PTPN18|PYCARD|RAB31|RAB32|RAC2|RBL2|RCSD1|RELA|RGS10|RGS2|RGS3|RGS5|RMDN2|RMND5B|RNASEL|S100A6|S100A9|SDS|SELENBP2|SELENOW|SENP2|SERPINB9|SGK2|SH3BGRL3|SIGLEC5|SIRT1|SKAP2|SLA|SLC4A4|SLFN2|SMAD2|SMAD4|SMC2|SNAP29|SOCS1|SOCS2|SPIN2A|SPSB4|SPTAN1|SREBF1|SRI|SRR|STAC3|STARD13|STK10|SULT1E1|SULT2A1|SYNRG|TAGLN2|TAX1BP3|TES|TFEC|TGFBR2|TIAL1|TIMP2|TKFC|TPM1|TPM3|TPM4|TRAK2|TRIB3|TRIM24|TSC22D1|TSPO|UBD|UNC5CL|VASP|VAV1|VIM|WIPF1|WLS|YBX1|YWHAG|YWHAZ|ZBTB4|ZEB2|ZFYVE16
+cytosolic aryl hydrocarbon receptor complex,GO:0034752,Liver Cirrhosis,MESH:D008103,0,,1,AHR
+cytosolic large ribosomal subunit,GO:0022625,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,PTRH1
+death-inducing signaling complex,GO:0031264,Copper-Overload Cirrhosis,MESH:C566858,0,,1,CASP3
+death-inducing signaling complex,GO:0031264,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,FAS
+delta DNA polymerase complex,GO:0043625,"Liver Cirrhosis, Biliary",MESH:D008105,0,,1,SPIB
+dendrite,GO:0030425,Copper-Overload Cirrhosis,MESH:C566858,0,,1,MET
+dendrite,GO:0030425,Liver Cirrhosis,MESH:D008103,0,,6,CCL2|CHRM3|CNR2|CYBA|MMP2|STAT1
+dendrite,GO:0030425,"Liver Cirrhosis, Alcoholic",MESH:D008104,0,,1,MMP2
+dendrite,GO:0030425,"Liver Cirrhosis, Experimental",MESH:D008106,0,,36,ACHE|ADORA2A|ADORA3|AGTR1A|ANXA3|ANXA5|APP|CCL2|CCNG1|CTLA2A|CYBA|CYBB|ELOVL5|FRY|FYN|GCHFR|GNAI2|IFNGR1|LTBP1|MAGEE1|MME|MMP1|MMP2|MYO5A|NRG1|NSMF|PALMD|PRNP|RBM3|SLC46A1|STAU2|TRAK2|TRF|TRPV1|VOPP1|YBX1
+dendrite cytoplasm,GO:0032839,"Liver Cirrhosis, Experimental",MESH:D008106,0,,4,ADA|STAU2|TRAK2|WLS
+dendrite membrane,GO:0032590,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,WLS
+dendritic branch,GO:0044307,Liver Cirrhosis,MESH:D008103,1,bisphenol A,0,
+dendritic branch,GO:0044307,"Liver Cirrhosis, Experimental",MESH:D008106,2,bisphenol A|Dexamethasone,0,
+dendritic cell dendrite,GO:0097511,Liver Cirrhosis,MESH:D008103,1,Chlorpyrifos,0,
+dendritic shaft,GO:0043198,Liver Cirrhosis,MESH:D008103,0,,1,CTNNB1
+dendritic shaft,GO:0043198,"Liver Cirrhosis, Experimental",MESH:D008106,0,,5,APP|FLNA|ILK|SEZ6|STAU2
+dendritic spine,GO:0043197,Liver Cirrhosis,MESH:D008103,1,bisphenol A,2,ARRB1|PTEN
+dendritic spine,GO:0043197,"Liver Cirrhosis, Experimental",MESH:D008106,1,bisphenol A,12,ACTN1|APP|ARRB2|BCR|CRYAB|DOCK10|ITGB1|NSMF|PALMD|PTPRO|RGS10|SEZ6
+dendritic spine membrane,GO:0032591,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,TRPV1
+dendritic spine neck,GO:0044326,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,SRI
+dendritic tree,GO:0097447,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,ELOVL5
+dense body,GO:0097433,"Liver Cirrhosis, Experimental",MESH:D008106,0,,2,ACTN1|TRF
+dense core granule membrane,GO:0032127,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,ACTN1
+desmosome,GO:0030057,Liver Cirrhosis,MESH:D008103,0,,1,CDH1
+discoidal high-density lipoprotein particle,GO:0034365,Liver Cirrhosis,MESH:D008103,1,Galactosamine,0,
+DNA repair complex,GO:1990391,Liver Cirrhosis,MESH:D008103,0,,1,ATM
+"DNA topoisomerase type II (double strand cut, ATP-hydrolyzing) complex",GO:0009330,Liver Cirrhosis,MESH:D008103,2,Luteolin|Reactive Oxygen Species,0,
+dopaminergic synapse,GO:0098691,Liver Cirrhosis,MESH:D008103,0,,1,ADRA1A
+dystroglycan complex,GO:0016011,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,SGCB
+dystrophin-associated glycoprotein complex,GO:0016010,Copper-Overload Cirrhosis,MESH:C566858,0,,1,KRT19
+dystrophin-associated glycoprotein complex,GO:0016010,Liver Cirrhosis,MESH:D008103,0,,1,KRT8
+dystrophin-associated glycoprotein complex,GO:0016010,"Liver Cirrhosis, Experimental",MESH:D008106,0,,3,KRT19|KRT8|SGCB
+early endosome,GO:0005769,Copper-Overload Cirrhosis,MESH:C566858,0,,1,COMMD1
+early endosome,GO:0005769,Hypermanganesemia with Dystonia Polycythemia and Cirrhosis,MESH:C548016,0,,1,SLC30A10
+early endosome,GO:0005769,Liver Cirrhosis,MESH:D008103,0,,4,COMMD1|F2R|LDLR|SLC30A10
+early endosome,GO:0005769,"Liver Cirrhosis, Experimental",MESH:D008106,0,,30,ACKR3|ANGPTL3|ANXA1|ANXA2|AP1S2|AP3S1|APOA4|APP|APPL1|DYSF|F2R|GJA1|IFITM1|IGF2R|MME|MYO5A|PLD4|PLPP2|PTPN1|RAB31|RAB32|RABGAP1L|RCSD1|RT1-M3-1|SNX7|TLR4|TRAK2|TRF|WLS|ZFYVE16
+early endosome lumen,GO:0031905,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,CTSS
+early endosome membrane,GO:0031901,Hypermanganesemia with Dystonia Polycythemia and Cirrhosis,MESH:C548016,0,,1,SLC30A10
+early endosome membrane,GO:0031901,Liver Cirrhosis,MESH:D008103,0,,1,SLC30A10
+early endosome membrane,GO:0031901,"Liver Cirrhosis, Experimental",MESH:D008106,0,,16,ANXA1|APP|APPL1|CAV1|FCGR1A|GPNMB|HSD17B6|OLR59|PLPP2|PMEPA1|RAB31|RT1-CE5|SNX7|STEAP4|WLS|ZFYVE16
+early phagosome,GO:0032009,Liver Cirrhosis,MESH:D008103,0,,1,UNC93B1
+early phagosome,GO:0032009,"Liver Cirrhosis, Experimental",MESH:D008106,0,,2,APPL1|UNC93B1
+early phagosome membrane,GO:0036186,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,RAB31
+elastic fiber,GO:0071953,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,MFAP4
+endocytic vesicle,GO:0030139,Liver Cirrhosis,MESH:D008103,0,,1,CCL2
+endocytic vesicle,GO:0030139,"Liver Cirrhosis, Experimental",MESH:D008106,0,,5,ARRB2|CCL2|DYSF|IGF2R|TRF
+endocytic vesicle lumen,GO:0071682,Liver Cirrhosis,MESH:D008103,0,,1,SPARC
+endocytic vesicle lumen,GO:0071682,"Liver Cirrhosis, Experimental",MESH:D008106,0,,2,CSF3|SPARC
+endocytic vesicle membrane,GO:0030666,Liver Cirrhosis,MESH:D008103,0,,2,ARRB1|CD9
+endocytic vesicle membrane,GO:0030666,"Liver Cirrhosis, Biliary",MESH:D008105,0,,1,NOS3
+endocytic vesicle membrane,GO:0030666,"Liver Cirrhosis, Experimental",MESH:D008106,0,,9,ARRB2|CAMK2D|CAV1|CD163|CD36|CD74|COLEC12|NOS3|WLS
+endolysosome,GO:0036019,"Liver Cirrhosis, Experimental",MESH:D008106,0,,2,KNG1|PRKCD
+endolysosome lumen,GO:0036021,"Liver Cirrhosis, Experimental",MESH:D008106,0,,2,CTSS|LGMN
+endolysosome membrane,GO:0036020,Liver Cirrhosis,MESH:D008103,0,,1,LDLR
+endolysosome membrane,GO:0036020,"Liver Cirrhosis, Biliary",MESH:D008105,0,,1,CLEC16A
+endomembrane system,GO:0012505,Liver Cirrhosis,MESH:D008103,0,,3,LDLR|NPC1|SLC22A8
+endomembrane system,GO:0012505,"Liver Cirrhosis, Alcoholic",MESH:D008104,0,,1,TM6SF2
+endomembrane system,GO:0012505,"Liver Cirrhosis, Biliary",MESH:D008105,0,,1,TYK2
+endomembrane system,GO:0012505,"Liver Cirrhosis, Experimental",MESH:D008106,0,,21,APMAP|APP|CNPY4|DRAM1|GASK1B|IGF2R|JAK2|LAPTM5|MTMR7|NBEA|PTPN1|RAB31|RAB32|RIT1|SLC22A8|SLC37A4|SRI|TMEM106A|TMEM43|TOR4A|WLS
+endoplasmic reticulum,GO:0005783,Liver Cirrhosis,MESH:D008103,0,,13,ALB|CNR2|DHCR7|HSD11B2|NPC1|PEMT|PLOD2|SERPINA1|SERPINH1|THBS1|UNC93B1|VEGFA|VTN
+endoplasmic reticulum,GO:0005783,"Liver Cirrhosis, Alcoholic",MESH:D008104,0,,3,BCL2|CYP2E1|MBOAT7
+endoplasmic reticulum,GO:0005783,"Liver Cirrhosis, Biliary",MESH:D008105,1,Glutathione,5,ALB|KEAP1|LOXL2|MMEL1|SLC51A
+endoplasmic reticulum,GO:0005783,"Liver Cirrhosis, Experimental",MESH:D008106,1,Glutathione,91,AADAC|ABCA8A|ACAT1|ACSL1|ADIPOQ|ALB|APP|ATP10D|CASP12|CASP4|CAV1|CD74|CES2|CLIC1|CPQ|CRTAP|CTSZ|CYP17A1|CYP26A1|DBNDD2|DIO1|ELOVL5|ERAP1|ERN1|FMO1|FOS|FTCD|G6PC1|GET1|GJA1|GRN|HMGCR|HMOX1|HSD17B6|IL2RG|INSIG2|KTN1|LOXL2|LRAT|MEOX2|MYO1C|MYO5A|MYOC|NAT8|NOX4|NRROS|PCK1|PKD2|PLA2G4A|PLD4|PLIN2|PLOD2|PLPP2|PLSCR2|PRKCD|PRNP|PTGS1|PTGS2|PTN|PTPN1|PXDN|PYCARD|RAB32|RCN1|RCN2|RDH10|REEP5|RT1-CE5|RTN4|SCD2|SELENOM|SERPINH1|SEZ6|SLC37A4|SLC39A6|SOAT1|SRD5A1|SREBF1|STAU2|TAP2|TMBIM1|TMEM43|TRIM59|TSPO|UNC93B1|VEGFA|VWF|WLS|YBX1|ZDHHC13|ZDHHC2
+endoplasmic reticulum exit site,GO:0070971,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,CDK1
+endoplasmic reticulum-Golgi intermediate compartment,GO:0005793,Liver Cirrhosis,MESH:D008103,0,,1,SERPINH1
+endoplasmic reticulum-Golgi intermediate compartment,GO:0005793,"Liver Cirrhosis, Experimental",MESH:D008106,0,,3,FTCD|NAT8|SERPINH1
+endoplasmic reticulum-Golgi intermediate compartment membrane,GO:0033116,Liver Cirrhosis,MESH:D008103,0,,2,F5|SERPINA1
+endoplasmic reticulum-Golgi intermediate compartment membrane,GO:0033116,"Liver Cirrhosis, Alcoholic",MESH:D008104,0,,1,TM6SF2
+endoplasmic reticulum-Golgi intermediate compartment membrane,GO:0033116,"Liver Cirrhosis, Experimental",MESH:D008106,0,,4,CTSZ|INS|NAT8|TAP2
+endoplasmic reticulum lumen,GO:0005788,Liver Cirrhosis,MESH:D008103,0,,17,ALB|COL1A1|COL1A2|COL3A1|COL5A2|CP|F2|F5|FBN1|IGFBP1|IL6|LGALS1|SERPINA1|SERPING1|SERPINH1|SPP1|THBS1
+endoplasmic reticulum lumen,GO:0005788,"Liver Cirrhosis, Alcoholic",MESH:D008104,0,,3,COL3A1|IL6|TIMP1
+endoplasmic reticulum lumen,GO:0005788,"Liver Cirrhosis, Biliary",MESH:D008105,0,,4,ALB|IGFBP1|IL12A|IL12B
+endoplasmic reticulum lumen,GO:0005788,"Liver Cirrhosis, Experimental",MESH:D008106,0,,43,ACHE|ADAM17|AFP|ALB|APOA4|APP|CES2|CES3|CFP|COL12A1|COL1A1|COL1A2|COL3A1|COL4A1|COL4A2|COL5A1|COL5A2|COL6A1|COL6A2|CRTAP|CTSZ|ERAP1|FBN1|FMO1|FSTL1|GPX8|IGFBP1|IGFBP3|IGFBP7|INS|KNG1|KTN1|LGALS1|LTBP1|PDGFA|PTGS2|RCN1|RCN2|SELENOM|SERPINH1|TIMP1|TMEM43|TOR4A
+endoplasmic reticulum membrane,GO:0005789,Liver Cirrhosis,MESH:D008103,0,,12,CHRM3|CYBA|CYP1A2|CYP2R1|CYP4A11|DHCR7|HSD11B2|MGLL|PEMT|PLOD2|TMEM67|UNC93B1
+endoplasmic reticulum membrane,GO:0005789,"Liver Cirrhosis, Alcoholic",MESH:D008104,0,,5,BCL2|CYP2E1|MBOAT7|PNPLA3|TM6SF2
+endoplasmic reticulum membrane,GO:0005789,"Liver Cirrhosis, Biliary",MESH:D008105,0,,2,ENTPD2|SLC51A
+endoplasmic reticulum membrane,GO:0005789,"Liver Cirrhosis, Experimental",MESH:D008106,0,,72,AADAC|ABCG1|ACSL1|ATP10D|CASP4|CAV1|CD74|CDK1|CYBA|CYBB|CYP17A1|CYP1A2|CYP26A1|CYP2A2|CYP2C11|CYP2D4|CYP2T1|CYP3A11|CYP3A13|CYP3A9|DHRS3|DHRS7|DIO1|ELOVL5|ERAP1|ERN1|EXTL1|FMO1|G6PC1|GET1|GJA1|GPAM|GULO|HMGCR|HMOX1|HSD17B2|HSD17B6|INSIG2|KTN1|LRAT|NAT8|NOX4|NRROS|PDGFRA|PKD2|PLA2G4A|PLD4|PLOD2|PLPP2|PTGS1|PTGS2|RAC2|RDH10|RTN4|SCD2|SDR42E1|SHISA3|SLC37A4|SOAT1|SRD5A1|SREBF1|SRI|TAP2|TMEM178|TMEM43|TRIM59|TUSC3|UGT2B|UNC93B1|WLS|YPEL3|ZDHHC2
+endoplasmic reticulum tubular network,GO:0071782,"Liver Cirrhosis, Experimental",MESH:D008106,0,,2,REEP5|RTN4
+endoplasmic reticulum tubular network membrane,GO:0098826,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,RTN4
+endosome,GO:0005768,Copper-Overload Cirrhosis,MESH:C566858,0,,1,COMMD1
+endosome,GO:0005768,Liver Cirrhosis,MESH:D008103,0,,10,ARRB1|CDH1|COMMD1|CYBA|FLT1|LDLR|NPC1|RGN|TGFBR1|UNC93B1
+endosome,GO:0005768,"Liver Cirrhosis, Experimental",MESH:D008106,0,,39,ABCG1|ACKR3|AGTR1A|ANXA1|ANXA2|APP|APPL1|ARL8A|ARRB2|CAV1|CD63|CD68|CTSE|CYBA|DYSF|EZR|FAS|FYN|GJA1|GRN|IGF2R|IL2RB|IL2RG|PLIN3|PMEPA1|RAB30|RAB31|RAB40B|RAB8B|RGN|S1PR1|SLA|SLC46A1|STEAP4|TRF|UNC93B1|VOPP1|ZDHHC2|ZFYVE16
+endosome lumen,GO:0031904,"Liver Cirrhosis, Biliary",MESH:D008105,0,,2,IL12A|IL12B
+endosome lumen,GO:0031904,"Liver Cirrhosis, Experimental",MESH:D008106,0,,7,APP|CD63|GH1|INS|JAK2|PRLR|PTPN1
+endosome membrane,GO:0010008,Copper-Overload Cirrhosis,MESH:C566858,0,,1,COMMD1
+endosome membrane,GO:0010008,Liver Cirrhosis,MESH:D008103,0,,5,CD14|COMMD1|LDLR|PTEN|SHC1
+endosome membrane,GO:0010008,"Liver Cirrhosis, Biliary",MESH:D008105,0,,1,CLEC16A
+endosome membrane,GO:0010008,"Liver Cirrhosis, Experimental",MESH:D008106,0,,21,ABCC5|ANXA1|APPL1|ATP6V1D|CD63|CD68|IGF2R|ITGB1|LY96|PLIN3|PMEPA1|PRAF2|RAB8B|RT1-DMA|SLC15A3|SLC46A1|STEAP4|TLR4|TMBIM1|TMEM165|WLS
+endosome to plasma membrane transport vesicle,GO:0070381,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,APP
+endothelial microparticle,GO:0072563,Liver Cirrhosis,MESH:D008103,0,,1,MIR503
+endothelial microparticle,GO:0072563,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,ANXA5
+eNoSc complex,GO:0061773,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,SIRT1
+ER to Golgi transport vesicle membrane,GO:0012507,"Liver Cirrhosis, Experimental",MESH:D008106,0,,2,CD74|SREBF1
+ESC/E(Z) complex,GO:0035098,Liver Cirrhosis,MESH:D008103,0,,1,HDAC2
+ESC/E(Z) complex,GO:0035098,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,SIRT1
+ESCRT-0 complex,GO:0033565,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,COLEC12
+euchromatin,GO:0000791,Liver Cirrhosis,MESH:D008103,0,,2,CTNNB1|HIF1A
+euchromatin,GO:0000791,"Liver Cirrhosis, Biliary",MESH:D008105,0,,1,HIF1A
+euchromatin,GO:0000791,"Liver Cirrhosis, Experimental",MESH:D008106,0,,6,ID2|JAK2|MYC|NSMF|SIRT1|TRIM24
+"eukaryotic translation initiation factor 3 complex, eIF3m",GO:0071541,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,PTPN18
+eukaryotic translation initiation factor 4F complex,GO:0016281,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,EIF4E3
+excitatory synapse,GO:0060076,Copper-Overload Cirrhosis,MESH:C566858,0,,1,MET
+excitatory synapse,GO:0060076,Liver Cirrhosis,MESH:D008103,0,,1,FGFR2
+exocytic vesicle,GO:0070382,Liver Cirrhosis,MESH:D008103,0,,1,CTNNB1
+exocytic vesicle,GO:0070382,"Liver Cirrhosis, Experimental",MESH:D008106,0,,4,ANXA2|CAV1|GNAI2|IGF1
+external side of apical plasma membrane,GO:0098591,"Liver Cirrhosis, Biliary",MESH:D008105,0,,1,ABCG2
+external side of apical plasma membrane,GO:0098591,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,ABCB1
+external side of plasma membrane,GO:0009897,"Cirrhosis, Familial",MESH:C566123,0,,1,KRT18
+external side of plasma membrane,GO:0009897,Liver Cirrhosis,MESH:D008103,0,,12,CD14|CD9|F2|F3|IL6|KRT18|LDLR|MMP2|P2RX7|PLAU|THBS1|TNFRSF1B
+external side of plasma membrane,GO:0009897,"Liver Cirrhosis, Alcoholic",MESH:D008104,0,,3,IL6|MMP2|TNF
+external side of plasma membrane,GO:0009897,"Liver Cirrhosis, Biliary",MESH:D008105,0,,8,CD3D|CD80|CDH5|CXCL10|CXCL9|CXCR5|IL12B|IL7R
+external side of plasma membrane,GO:0009897,"Liver Cirrhosis, Experimental",MESH:D008106,0,,67,ABCG1|ACHE|ADA|ADGRE1|AGTR1A|ANXA5|CD163|CD200R1|CD200R2|CD24|CD276|CD36|CD48|CD74|CD83|CD86|CDH5|CLEC4A|CLEC4F|CXCL10|CXCL12|CXCL9|ENPEP|FAS|FCER1G|FCGR1A|FCGR3A|FCN1|FOLR2|GFRA1|GHR|IFNG|IL18|IL2RB|IL2RG|IL7R|ITGA2B|ITGAL|ITGB1|ITGB2|ITGB3|ITGB6|KRT18|LGALS3|MMP2|NT5E|PDGFRA|PLAU|PLG|PRLR|PRNP|PTPRC|RT1-BA|RT1-DA|RT1-DB1|RT1-M3-1|S1PR1|SLAMF9|ST14|TGFBR2|THBD|TLR4|TNF|TRPV1|TYROBP|VSIR|VWF
+extracellular exosome,GO:0070062,Liver Cirrhosis,MESH:D008103,1,ochratoxin A,4,ALB|CD9|MIR29C|MIR30C2
+extracellular exosome,GO:0070062,"Liver Cirrhosis, Alcoholic",MESH:D008104,0,,3,MIR17|MIR193B|MIR423
+extracellular exosome,GO:0070062,"Liver Cirrhosis, Biliary",MESH:D008105,0,,1,ALB
+extracellular exosome,GO:0070062,"Liver Cirrhosis, Experimental",MESH:D008106,0,,22,AHNAK|ALB|ANXA1|ANXA2|C8G|CD63|CD86|CLIC1|CYSTM1|EGF|GSTA2|GSTA3|ITGA2B|MYOC|NECTIN2|PKD2|S100A6|S100A9|SRI|WLS|XPNPEP2|YBX1
+extracellular matrix,GO:0031012,Copper-Overload Cirrhosis,MESH:C566858,0,,1,TGFB1
+extracellular matrix,GO:0031012,Liver Cirrhosis,MESH:D008103,0,,17,CCN2|COL1A1|COL3A1|COL5A2|FBN1|LGALS3BP|LOX|LOXL1|LUM|MMP2|POSTN|SPARC|SPP1|TGFB1|THBS1|VEGFA|VTN
+extracellular matrix,GO:0031012,"Liver Cirrhosis, Alcoholic",MESH:D008104,0,,4,COL3A1|MMP2|TGFB1|TIMP1
+extracellular matrix,GO:0031012,"Liver Cirrhosis, Biliary",MESH:D008105,0,,2,LOX|TGFB1
+extracellular matrix,GO:0031012,"Liver Cirrhosis, Experimental",MESH:D008106,0,,43,ASPN|BGN|CCN2|CFP|CNPY4|COL1A1|COL3A1|COL4A1|COL5A1|COL5A2|COL6A1|COL6A2|DHRS3|FBN1|HPSE|IGFALS|LGALS3|LOX|LTBP1|LUM|MGP|MMP1|MMP13|MMP15|MMP2|MMP8|MMP9|NID1|NID2|NRROS|OLFML2B|PTN|PXDN|SMOC2|SPARC|TFPI2|TGFB1|TGFB3|THBD|TIMP1|TIMP2|VEGFA|VWF
+extracellular matrix of synaptic cleft,GO:0098965,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,MMP9
+extracellular region,GO:0005576,Copper-Overload Cirrhosis,MESH:C566858,0,,3,HGF|MET|TGFB1
+extracellular region,GO:0005576,Liver Cirrhosis,MESH:D008103,0,,56,A2M|AGT|ALAD|ALB|C1QB|CCL2|CCN2|CD14|CD9|CDH1|COL1A1|COL1A2|COL3A1|COL5A2|CP|CXCL14|CXCL15|F2|F2R|F5|FBN1|FGF15|FGF2|FGF7|FGFR2|GC|HGF|IFNA1|IGFBP1|IGFBP2|IL6|LAMC2|LGALS1|LGALS3BP|LOX|LOXL1|LUM|MMP2|NPC1|NPPA|PCOLCE|PLAU|POSTN|PTEN|REN|SERPINA1|SERPINA6|SERPING1|SPARC|SPP1|TAGLN2|TGFB1|THBS1|TNFRSF1B|VEGFA|VTN
+extracellular region,GO:0005576,"Liver Cirrhosis, Alcoholic",MESH:D008104,0,,8,CAT|COL3A1|IL6|MMP2|MPO|TGFB1|TIMP1|TNF
+extracellular region,GO:0005576,"Liver Cirrhosis, Biliary",MESH:D008105,0,,14,ALB|CCL5|CXCL10|CXCL9|IGFBP1|IL12A|IL12B|IL7R|LOX|LOXL2|MAPK14|NFKB1|TGFB1|TNFRSF1A
+extracellular region,GO:0005576,"Liver Cirrhosis, Experimental",MESH:D008106,0,,204,A2M|ACHE|ACTN1|ADAM17|ADIPOQ|ADM|AFM|AGL|AGT|ALB|ANGPTL3|ANXA1|ANXA2|ANXA5|APAF1|APOA4|APOL9A|APP|ARHGAP9|ASAH1|ASPN|BGN|BMP7|C1QA|C1QB|C1QC|C7|C8G|CASP1|CASP4|CCDC126|CCL2|CCL5|CCN2|CD163|CD200R1|CD48|CD5L|CD63|CD74|CELA1|CFD|CFP|CHSY1|CKLF|CLP1|CNDP1|CNPY4|COL12A1|COL1A1|COL1A2|COL3A1|COL4A1|COL4A2|COL5A1|COL5A2|COL6A1|COL6A2|COTL1|CPQ|CRYAB|CSF3|CTLA2A|CTSS|CTSZ|CXADR|CXCL1|CXCL10|CXCL12|CXCL13|CXCL16|CXCL9|CYRIB|DAO|DIPK2A|DPP7|EDN1|EGF|ENPP2|ERAP1|F2R|FAS|FBN1|FCN1|FGF2|FGL2|FGR|FLNA|FOLR2|FSTL1|FZD8|GC|GGH|GH1|GHR|GLIPR1|GMFG|GRN|GSN|GSTM1|HGF|HPSE|IFNA1|IFNA2|IFNG|IGF1|IGFALS|IGFBP1|IGFBP2|IGFBP3|IGFBP7|IL10|IL18|IL18BP|IL1B|IL33|IL7R|INHBC|INHBE|INS|KNG1|LBP|LCN2|LEP|LGALS1|LGALS3|LGMN|LOX|LOXL2|LPL|LTA4H|LTBP1|LUM|LY86|LY96|METRNL|MFAP4|MGAT5|MGP|MME|MMP1|MMP13|MMP2|MMP8|MMP9|MVP|MYOC|NID1|NID2|NRG1|NRROS|OLFML2B|OLFML3|OSM|PAMR1|PDGFA|PFN1|PLA2G12A|PLAC8|PLAT|PLAU|PLEK|PLG|PLIN2|PLTP|POMC|PRKCD|PRLR|PROCR|PTN|PXDN|PYCARD|RECK|RNASE4|S100A11|S100A9|SECTM1B|SELENOP|SERPINA4|SERPINA6|SERPINA7|SEZ6|SMOC1|SMOC2|SPARC|SPTAN1|SRGN|ST14|TAGLN2|TFPI2|TGFB1|TGFB3|TGFBR2|TIMP1|TIMP2|TNF|TOR4A|TRF|VEGFA|VWF|WFDC2|XPNPEP2|YBX1|ZBTB4
+extracellular space,GO:0005615,"Cirrhosis, Familial",MESH:C566123,0,,1,KRT18
+extracellular space,GO:0005615,Copper-Overload Cirrhosis,MESH:C566858,0,,5,ACTA2|HGF|KRT7|MET|TGFB1
+extracellular space,GO:0005615,Liver Cirrhosis,MESH:D008103,0,,54,A2M|ACTA2|AGT|ALAD|ALB|CCL2|CCN2|CD14|COL1A1|COL1A2|COL3A1|COL5A2|CP|CXCL14|CXCL15|F2|F3|F5|FBN1|FGF2|FGF7|FLT1|GC|HGF|IFNA1|IGFBP1|IGFBP2|IL6|KRT18|KRT8|LAMC2|LGALS1|LGALS3BP|LOX|LOXL1|LUM|MIR30B|MIR30C2|MMP2|NPPA|PCOLCE|PLAU|POSTN|REN|SERPINA1|SERPINA6|SERPING1|SERPINH1|SPARC|SPP1|TGFB1|THBS1|VEGFA|VTN
+extracellular space,GO:0005615,"Liver Cirrhosis, Alcoholic",MESH:D008104,0,,9,CAT|COL3A1|IL6|MIR93|MMP2|MPO|TGFB1|TIMP1|TNF
+extracellular space,GO:0005615,"Liver Cirrhosis, Biliary",MESH:D008105,0,,14,ALB|CCL5|CXCL10|CXCL9|IGFBP1|IL12A|IL12B|KRT7|LOX|LOXL2|MMEL1|NOS2|TGFB1|TNFRSF1A
+extracellular space,GO:0005615,"Liver Cirrhosis, Experimental",MESH:D008106,0,,192,A2M|ACHE|ACP5|ACTA2|ADA|ADIPOQ|ADM|AFM|AFP|AGT|AKR1B1|ALB|ANGPTL3|ANXA1|ANXA2|ANXA5|APOA4|APOL9A|APON|APP|ASAH1|ASPN|ATRN|AXL|B9D1|BGN|BMP7|C7|C8G|CASP7|CCL2|CCL5|CCL6|CCN2|CD163|CD5L|CD63|CD74|CELA1|CES3|CFD|CFP|CKLF|CMTM3|CNP|COL12A1|COL1A1|COL1A2|COL3A1|COL4A1|COL4A2|COL5A1|COL5A2|COL6A1|COL6A2|COLEC12|CPQ|CRTAP|CSF3|CTSS|CTSZ|CXADR|CXCL1|CXCL10|CXCL12|CXCL13|CXCL16|CXCL9|DAO|DHRS3|DIPK2A|EDN1|EGF|ENPP2|ES2|FAS|FBN1|FCER1G|FCGR3A|FCN1|FGF2|FGL2|FSTL1|GC|GCNT1|GFRA1|GGH|GH1|GHR|GLIPR1|GPT|GRN|GSN|GZMA|HGF|HJV|HMOX1|HPSE|IFI35|IFNA1|IFNA2|IFNG|IGF1|IGF2R|IGFALS|IGFBP1|IGFBP2|IGFBP3|IGFBP7|IL10|IL18|IL18BP|IL1B|IL33|INHBC|INHBE|INS|KMO|KNG1|KRT18|KRT8|LBP|LCN2|LEP|LGALS1|LGALS3|LOX|LOXL2|LPL|LTB|LUM|METRNL|MFAP4|MGP|MMP1|MMP13|MMP15|MMP2|MMP8|MMP9|MYOC|NID2|NMI|NOS2|NRG1|NRROS|OLFML2B|OLFML3|OSM|PDGFA|PLAT|PLAU|PLG|PLTP|POMC|PROCR|PTN|PXDN|RAMP1|RARRES1|RNASE4|S100A10|S100A11|S100A6|S100A9|SELENOP|SEMA6D|SERPINA3K|SERPINA3M|SERPINA4|SERPINA6|SERPINA7|SERPINB9|SERPINH1|SMOC1|SMOC2|SPARC|SRGN|ST14|TFPI2|TGFB1|TGFB3|TGFBR2|THBD|TIMP1|TIMP2|TNF|TRF|VEGFA|VWF|WFDC2|WFDC21
+extracellular vesicle,GO:1903561,Liver Cirrhosis,MESH:D008103,1,Arsenic,0,
+extracellular vesicle,GO:1903561,"Liver Cirrhosis, Experimental",MESH:D008106,2,Lipids|Silybin,0,
+extrinsic component of cytoplasmic side of plasma membrane,GO:0031234,Liver Cirrhosis,MESH:D008103,0,,1,CNR2
+extrinsic component of cytoplasmic side of plasma membrane,GO:0031234,"Liver Cirrhosis, Biliary",MESH:D008105,0,,1,TYK2
+extrinsic component of cytoplasmic side of plasma membrane,GO:0031234,"Liver Cirrhosis, Experimental",MESH:D008106,0,,5,FGR|FYN|HCK|JAK2|STAC3
+extrinsic component of membrane,GO:0019898,"Liver Cirrhosis, Experimental",MESH:D008106,0,,2,GFRA1|PRNP
+extrinsic component of plasma membrane,GO:0019897,Liver Cirrhosis,MESH:D008103,0,,1,F2
+extrinsic component of plasma membrane,GO:0019897,"Liver Cirrhosis, Biliary",MESH:D008105,0,,1,TYK2
+extrinsic component of plasma membrane,GO:0019897,"Liver Cirrhosis, Experimental",MESH:D008106,0,,3,JAK2|PLAT|PLG
+extrinsic component of postsynaptic membrane,GO:0098890,Liver Cirrhosis,MESH:D008103,0,,1,C1QB
+extrinsic component of postsynaptic membrane,GO:0098890,"Liver Cirrhosis, Experimental",MESH:D008106,0,,5,C1QA|C1QB|C1QC|HIP1|NBEA
+extrinsic component of presynaptic membrane,GO:0098888,Liver Cirrhosis,MESH:D008103,0,,1,C1QB
+extrinsic component of presynaptic membrane,GO:0098888,"Liver Cirrhosis, Experimental",MESH:D008106,0,,3,C1QA|C1QB|C1QC
+extrinsic component of synaptic vesicle membrane,GO:0098850,Liver Cirrhosis,MESH:D008103,0,,1,ATM
+extrinsic component of synaptic vesicle membrane,GO:0098850,"Liver Cirrhosis, Experimental",MESH:D008106,0,,2,ATP6V1D|SNAP29
+F-actin capping protein complex,GO:0008290,Copper-Overload Cirrhosis,MESH:C566858,0,,1,MET
+F-actin capping protein complex,GO:0008290,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,CAPG
+Fanconi anaemia nuclear complex,GO:0043240,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,CCDC126
+FAR/SIN/STRIPAK complex,GO:0090443,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,CTTNBP2NL
+fascia adherens,GO:0005916,Liver Cirrhosis,MESH:D008103,0,,1,CTNNB1
+fascia adherens,GO:0005916,"Liver Cirrhosis, Experimental",MESH:D008106,0,,3,ACTN1|GJA1|SPTAN1
+Fc-epsilon receptor I complex,GO:0032998,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,FCER1G
+Fc-gamma receptor III complex,GO:0033001,"Liver Cirrhosis, Experimental",MESH:D008106,0,,2,FCER1G|FCGR3A
+female pronucleus,GO:0001939,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,CCNA2
+ferritin complex,GO:0070288,Liver Cirrhosis,MESH:D008103,1,bisphenol A,0,
+ferritin complex,GO:0070288,"Liver Cirrhosis, Experimental",MESH:D008106,1,bisphenol A,0,
+FHF complex,GO:0070695,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,AKTIP
+fibrillar center,GO:0001650,"Liver Cirrhosis, Biliary",MESH:D008105,0,,1,UBD
+fibrillar center,GO:0001650,"Liver Cirrhosis, Experimental",MESH:D008106,0,,9,CASP7|EZR|KLF6|NFKBIE|SELENBP2|SIRT1|SP140|TAX1BP3|UBD
+fibrillar collagen trimer,GO:0005583,Liver Cirrhosis,MESH:D008103,0,,1,LUM
+fibrillar collagen trimer,GO:0005583,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,LUM
+fibrinogen complex,GO:0005577,Liver Cirrhosis,MESH:D008103,1,Dietary Fats,1,THBS1
+fibrinogen complex,GO:0005577,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,FGL2
+ficolin-1-rich granule lumen,GO:1904813,Liver Cirrhosis,MESH:D008103,0,,2,ALAD|SERPINA1
+ficolin-1-rich granule lumen,GO:1904813,"Liver Cirrhosis, Alcoholic",MESH:D008104,0,,1,CAT
+ficolin-1-rich granule lumen,GO:1904813,"Liver Cirrhosis, Biliary",MESH:D008105,0,,1,MAPK14
+ficolin-1-rich granule lumen,GO:1904813,"Liver Cirrhosis, Experimental",MESH:D008106,0,,15,AGL|APAF1|ASAH1|CFD|COTL1|CTSS|CTSZ|FCN1|FGL2|GMFG|GSN|LTA4H|MMP9|MVP|TIMP2
+ficolin-1-rich granule membrane,GO:0101003,"Liver Cirrhosis, Experimental",MESH:D008106,0,,6,ARL8A|FCER1G|ITGB2|LGALS3|NCKAP1L|SIGLEC5
+filamentous actin,GO:0031941,Liver Cirrhosis,MESH:D008103,2,bisphenol A|Genistein,0,
+filamentous actin,GO:0031941,"Liver Cirrhosis, Alcoholic",MESH:D008104,1,Genistein,0,
+filamentous actin,GO:0031941,"Liver Cirrhosis, Experimental",MESH:D008106,4,bisphenol A|Dexamethasone|Estradiol|Genistein,3,LPXN|MYO1C|MYO1F
+filopodium,GO:0030175,Copper-Overload Cirrhosis,MESH:C566858,0,,1,ACTA2
+filopodium,GO:0030175,Liver Cirrhosis,MESH:D008103,0,,1,ACTA2
+filopodium,GO:0030175,"Liver Cirrhosis, Experimental",MESH:D008106,0,,9,ACTA2|CXADR|EZR|FAT1|INPPL1|ITGB1|LCP1|MSN|VASP
+filopodium membrane,GO:0031527,"Liver Cirrhosis, Experimental",MESH:D008106,0,,3,ITGB3|MSN|VASP
+filopodium tip,GO:0032433,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,MYO5A
+Flemming body,GO:0090543,"Liver Cirrhosis, Experimental",MESH:D008106,0,,2,CAPG|CELF2
+flotillin complex,GO:0016600,Liver Cirrhosis,MESH:D008103,0,,2,CDH1|CTNNB1
+focal adhesion,GO:0005925,Liver Cirrhosis,MESH:D008103,0,,4,ABCB4|CYBA|FOCAD|SHC1
+focal adhesion,GO:0005925,"Liver Cirrhosis, Biliary",MESH:D008105,0,,2,ABCB4|KEAP1
+focal adhesion,GO:0005925,"Liver Cirrhosis, Experimental",MESH:D008106,0,,24,ACTN1|ADAM17|APBB1IP|CAV1|CYBA|EZR|GSN|HCK|ILK|IQGAP1|ITGA2B|ITGB1|ITGB2|ITGB3|ITGB6|JAK2|LCP1|LPXN|MSN|NECTIN2|NOX4|PTPRC|TES|VASP
+fusome,GO:0045169,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,CDK1
+GABA-ergic synapse,GO:0098982,Liver Cirrhosis,MESH:D008103,0,,3,ADRA1A|CNR1|FGF7
+GABA-ergic synapse,GO:0098982,"Liver Cirrhosis, Experimental",MESH:D008106,0,,8,CNR1|CXADR|NBEA|NRG1|PRAF2|PTPRO|SNAP23|TRPV1
+galectin complex,GO:1990724,Liver Cirrhosis,MESH:D008103,0,,1,LGALS1
+galectin complex,GO:1990724,"Liver Cirrhosis, Experimental",MESH:D008106,0,,2,LGALS1|LGALS2
+gamma-tubulin complex,GO:0000930,"Liver Cirrhosis, Experimental",MESH:D008106,0,,2,BLOC1S2|TUBB6
+gap junction,GO:0005921,"Liver Cirrhosis, Experimental",MESH:D008106,0,,2,GJA1|GJA4
+GBAF complex,GO:0140288,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,SMARCC1
+germinal vesicle,GO:0042585,Liver Cirrhosis,MESH:D008103,2,Cyclophosphamide|Thiamethoxam,0,
+germinal vesicle,GO:0042585,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,CDK1
+GET complex,GO:0043529,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,GET1
+GID complex,GO:0034657,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,RMND5B
+glial cell projection,GO:0097386,"Liver Cirrhosis, Experimental",MESH:D008106,1,"lipopolysaccharide, E coli O55-B5",5,AIF1|FYN|ITGB1|LCP1|LGALS3
+glial filament,GO:0097426,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,GSN
+glomerular endothelium fenestra,GO:0036053,Liver Cirrhosis,MESH:D008103,1,Diethylnitrosamine,0,
+glomerular endothelium fenestra,GO:0036053,"Liver Cirrhosis, Experimental",MESH:D008106,1,Diethylnitrosamine,0,
+glutamatergic synapse,GO:0098978,Copper-Overload Cirrhosis,MESH:C566858,0,,2,CASP3|STAT3
+glutamatergic synapse,GO:0098978,Liver Cirrhosis,MESH:D008103,0,,10,ADRA1A|ARRB1|ATG5|C1QB|CDH1|CHRM3|CNR1|CTNNB1|MRTFA|SPARC
+glutamatergic synapse,GO:0098978,"Liver Cirrhosis, Alcoholic",MESH:D008104,0,,1,RELA
+glutamatergic synapse,GO:0098978,"Liver Cirrhosis, Biliary",MESH:D008105,0,,2,MAPK14|RELA
+glutamatergic synapse,GO:0098978,"Liver Cirrhosis, Experimental",MESH:D008106,0,,48,ABLIM3|ACTN1|ADORA2A|APPL1|ARRB2|BCR|C1QA|C1QB|C1QC|CNR1|CXADR|DOCK10|FLNA|FMNL2|FXYD6|FYN|GRN|HIP1|IGF1|ITGB1|ITGB3|JAK2|KCNJ8|MAP1LC3A|MMP9|MYO5A|NBEA|NRG1|NSMF|PFN1|PLAT|PLG|PRAF2|PRUNE2|PTPN1|PTPRD|PTPRO|RAMP1|RELA|ROBO2|RTN4|SNAP23|SPARC|SPTAN1|STAU2|VASP|YWHAZ|ZDHHC2
+glycinergic synapse,GO:0098690,Liver Cirrhosis,MESH:D008103,0,,1,NPPA
+glycinergic synapse,GO:0098690,"Liver Cirrhosis, Experimental",MESH:D008106,0,,2,ITGB1|ITGB3
+glycogen granule,GO:0042587,Liver Cirrhosis,MESH:D008103,1,Ethanol,0,
+glycogen granule,GO:0042587,"Liver Cirrhosis, Alcoholic",MESH:D008104,1,Ethanol,0,
+glycogen granule,GO:0042587,"Liver Cirrhosis, Experimental",MESH:D008106,1,Ethanol,2,PPP1R3B|PPP1R3C
+glycoprotein Ib-IX-V complex,GO:1990779,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,FLNA
+Golgi apparatus,GO:0005794,Hypermanganesemia with Dystonia Polycythemia and Cirrhosis,MESH:C548016,0,,1,SLC30A10
+Golgi apparatus,GO:0005794,Liver Cirrhosis,MESH:D008103,0,,18,ALB|ATP7B|CCN2|CD14|CDH1|CXCL14|F2R|FGF7|FGFR2|IGFBP1|KLF5|LDLR|NFE2L2|NPC1|SERPINA1|SLC30A10|SPP1|VEGFA
+Golgi apparatus,GO:0005794,"Liver Cirrhosis, Biliary",MESH:D008105,0,,6,ALB|CLEC16A|IGFBP1|MMEL1|NFE2L2|NOS3
+Golgi apparatus,GO:0005794,"Liver Cirrhosis, Experimental",MESH:D008106,0,,77,ABCG1|ACHE|AGTR1A|ALB|ANGPTL3|AP1S2|AP3S1|APP|ATF3|ATRN|B4GALT5|BICD2|CAV1|CCDC126|CCN2|CD36|CD74|CHSY1|CPQ|CSGALNACT1|DIPK2A|DPP7|DYSF|EXTL1|F2R|FTCD|FZD8|GASK1B|GBP2|GBP4|GFRA1|GGTA1|GJA1|GLT8D1|GRN|HCK|HIP1|IFITM1|IGF2R|IGFBP1|INPPL1|MGAT5|MYO5A|MYOC|NAT8|NDRG2|NFE2L2|NOS3|PDGFRA|PDGFRB|PKD2|PLA2G4A|PLIN3|PLSCR1|PLSCR2|PRNP|PTGS1|RAB30|RAB31|RAB32|RAB40B|RABGAP1L|RMDN2|SELENOM|SEMA6D|SERPINB9|SREBF1|SRGN|SYNRG|TMBIM1|TMEM165|TMEM43|UGCG|VEGFA|WLS|ZDHHC13|ZDHHC2
+Golgi-associated vesicle,GO:0005798,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,APP
+Golgi-associated vesicle membrane,GO:0030660,"Liver Cirrhosis, Experimental",MESH:D008106,0,,3,GJA1|RHOQ|ZDHHC13
+Golgi cisterna,GO:0031985,"Liver Cirrhosis, Experimental",MESH:D008106,0,,3,GCNT1|GGTA1|RAB30
+Golgi cisterna membrane,GO:0032580,"Liver Cirrhosis, Experimental",MESH:D008106,0,,4,B4GALT5|CHSY1|CSGALNACT1|GGTA1
+Golgi lumen,GO:0005796,Copper-Overload Cirrhosis,MESH:C566858,0,,1,TGFB1
+Golgi lumen,GO:0005796,Liver Cirrhosis,MESH:D008103,0,,4,F2|LUM|TGFB1|VTN
+Golgi lumen,GO:0005796,"Liver Cirrhosis, Alcoholic",MESH:D008104,0,,1,TGFB1
+Golgi lumen,GO:0005796,"Liver Cirrhosis, Biliary",MESH:D008105,0,,3,IL12A|IL12B|TGFB1
+Golgi lumen,GO:0005796,"Liver Cirrhosis, Experimental",MESH:D008106,0,,7,ABCC5|APP|BGN|INS|LUM|PDGFA|TGFB1
+Golgi membrane,GO:0000139,Hypermanganesemia with Dystonia Polycythemia and Cirrhosis,MESH:C548016,0,,1,SLC30A10
+Golgi membrane,GO:0000139,Liver Cirrhosis,MESH:D008103,0,,5,ABCB4|ARRB1|ATP7B|SLC30A10|UNC93B1
+Golgi membrane,GO:0000139,"Liver Cirrhosis, Alcoholic",MESH:D008104,0,,1,CYP2E1
+Golgi membrane,GO:0000139,"Liver Cirrhosis, Biliary",MESH:D008105,0,,3,ABCB4|NOS3|TNFRSF1A
+Golgi membrane,GO:0000139,"Liver Cirrhosis, Experimental",MESH:D008106,0,,39,ABCG1|ADAM17|ADORA2A|AP1S2|ATP6V1D|B4GALT5|CAV1|CD74|CHSY1|CSGALNACT1|DIPK2A|FTCD|GASK1B|GBP2|GBP4|GCNT1|GJA1|IGF2R|INS|MGAT5|NOS3|PDGFA|PLA2G4A|PLEKHB1|PMEPA1|PYCARD|RAB30|RT1-CE5|SNAP29|SREBF1|SRGN|STEAP4|TMBIM1|TMEM165|UGCG|UNC93B1|WLS|ZDHHC13|ZDHHC2
+Golgi stack,GO:0005795,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,RAB30
+granulocyte macrophage colony-stimulating factor receptor complex,GO:0030526,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,JAK2
+growth cone,GO:0030426,Liver Cirrhosis,MESH:D008103,0,,1,CNR1
+growth cone,GO:0030426,"Liver Cirrhosis, Experimental",MESH:D008106,0,,13,APP|CNR1|CTSZ|CXADR|DOCK7|FLNA|IQGAP1|MYO5A|NDRG2|PTPRO|SIRT1|TIMP2|TPM3
+growth cone filopodium,GO:1990812,Liver Cirrhosis,MESH:D008103,1,Ethanol,0,
+growth cone filopodium,GO:1990812,"Liver Cirrhosis, Alcoholic",MESH:D008104,1,Ethanol,0,
+growth cone filopodium,GO:1990812,"Liver Cirrhosis, Experimental",MESH:D008106,1,Ethanol,1,APP
+growth cone lamellipodium,GO:1990761,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,APP
+growth hormone receptor complex,GO:0070195,"Liver Cirrhosis, Experimental",MESH:D008106,0,,2,GH1|GHR
+HAUS complex,GO:0070652,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,SNAP23
+hemidesmosome,GO:0030056,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,ITGB1
+heparanase complex,GO:1904974,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,HPSE
+heterochromatin,GO:0000792,Liver Cirrhosis,MESH:D008103,0,,1,HDAC2
+heterochromatin,GO:0000792,"Liver Cirrhosis, Experimental",MESH:D008106,0,,2,IGFBP3|SIRT1
+heteromeric SMAD protein complex,GO:0071144,Copper-Overload Cirrhosis,MESH:C566858,0,,1,SMAD2
+heteromeric SMAD protein complex,GO:0071144,Liver Cirrhosis,MESH:D008103,0,,1,SMAD3
+heteromeric SMAD protein complex,GO:0071144,"Liver Cirrhosis, Alcoholic",MESH:D008104,0,,1,SMAD3
+heteromeric SMAD protein complex,GO:0071144,"Liver Cirrhosis, Experimental",MESH:D008106,0,,2,SMAD2|SMAD4
+heterotrimeric G-protein complex,GO:0005834,"Liver Cirrhosis, Experimental",MESH:D008106,0,,3,GNA14|GNAI2|GNGT2
+HFE-transferrin receptor complex,GO:1990712,"Liver Cirrhosis, Experimental",MESH:D008106,0,,2,HJV|TRF
+high-density lipoprotein particle,GO:0034364,"Liver Cirrhosis, Experimental",MESH:D008106,0,,4,APOA4|APOL9A|APP|PLTP
+hippocampal mossy fiber to CA3 synapse,GO:0098686,"Liver Cirrhosis, Experimental",MESH:D008106,0,,3,GNAI2|PTPRD|YWHAZ
+histone deacetylase complex,GO:0000118,Liver Cirrhosis,MESH:D008103,0,,1,HDAC2
+histone deacetylase complex,GO:0000118,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,NCOR2
+histone locus body,GO:0035363,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,MYC
+histone pre-mRNA 3'end processing complex,GO:0071204,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,YBX1
+homomeric SMAD protein complex,GO:0071142,Copper-Overload Cirrhosis,MESH:C566858,0,,1,SMAD2
+homomeric SMAD protein complex,GO:0071142,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,SMAD2
+HOPS complex,GO:0030897,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,AKTIP
+hyaline inclusion,GO:0097412,Liver Cirrhosis,MESH:D008103,1,Doxorubicin,0,
+hyaline inclusion,GO:0097412,"Liver Cirrhosis, Experimental",MESH:D008106,1,Doxorubicin,0,
+I band,GO:0031674,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,CRYAB
+"IgA immunoglobulin complex, circulating",GO:0071746,Liver Cirrhosis,MESH:D008103,1,deoxynivalenol,0,
+"IgE immunoglobulin complex, circulating",GO:0071743,Liver Cirrhosis,MESH:D008103,2,bisphenol A|Particulate Matter,0,
+"IgE immunoglobulin complex, circulating",GO:0071743,"Liver Cirrhosis, Experimental",MESH:D008106,2,bisphenol A|Dexamethasone,0,
+"IgG immunoglobulin complex, circulating",GO:0071736,Liver Cirrhosis,MESH:D008103,4,deoxynivalenol|perfluorooctane sulfonic acid|perfluorooctanoic acid|Tetrachlorodibenzodioxin,0,
+"IgG immunoglobulin complex, circulating",GO:0071736,"Liver Cirrhosis, Experimental",MESH:D008106,2,Dexamethasone|Tetrachlorodibenzodioxin,0,
+IgM immunoglobulin complex,GO:0071753,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,CD83
+IkappaB kinase complex,GO:0008385,"Liver Cirrhosis, Experimental",MESH:D008106,0,,2,IKBKG|PYCARD
+I-kappaB/NF-kappaB complex,GO:0033256,"Liver Cirrhosis, Biliary",MESH:D008105,0,,1,NFKB1
+I-kappaB/NF-kappaB complex,GO:0033256,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,NFKBIA
+immunological synapse,GO:0001772,"Liver Cirrhosis, Experimental",MESH:D008106,0,,7,CD53|EZR|GZMA|ITGAL|LGALS3|RT1-DA|RT1-DB1
+inclusion body,GO:0016234,"Liver Cirrhosis, Biliary",MESH:D008105,0,,1,KEAP1
+inclusion body,GO:0016234,"Liver Cirrhosis, Experimental",MESH:D008106,0,,2,AGL|PRNP
+inflammasome complex,GO:0061702,"Liver Cirrhosis, Experimental",MESH:D008106,0,,4,CASP1|CASP4|GBP4|PYCARD
+inhibin B complex,GO:0043513,Liver Cirrhosis,MESH:D008103,1,bisphenol A,0,
+inhibin B complex,GO:0043513,"Liver Cirrhosis, Experimental",MESH:D008106,1,bisphenol A,0,
+inner dense plaque of desmosome,GO:0090637,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,ACTN1
+insulin-like growth factor binary complex,GO:0042568,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,IGFBP3
+insulin-like growth factor binding protein complex,GO:0016942,"Liver Cirrhosis, Experimental",MESH:D008106,0,,2,IGF1|IGFBP3
+insulin-like growth factor ternary complex,GO:0042567,"Liver Cirrhosis, Experimental",MESH:D008106,0,,3,IGF1|IGFALS|IGFBP3
+insulin-responsive compartment,GO:0032593,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,MYO5A
+integrin alpha10-beta1 complex,GO:0034680,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,ITGB1
+integrin alpha11-beta1 complex,GO:0034681,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,ITGB1
+integrin alpha1-beta1 complex,GO:0034665,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,ITGB1
+integrin alpha2-beta1 complex,GO:0034666,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,ITGB1
+integrin alpha3-beta1 complex,GO:0034667,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,ITGB1
+integrin alpha4-beta1 complex,GO:0034668,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,ITGB1
+integrin alpha5-beta1 complex,GO:0034674,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,ITGB1
+integrin alpha6-beta1 complex,GO:0034675,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,ITGB1
+integrin alpha7-beta1 complex,GO:0034677,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,ITGB1
+integrin alpha8-beta1 complex,GO:0034678,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,ITGB1
+integrin alpha9-beta1 complex,GO:0034679,"Liver Cirrhosis, Experimental",MESH:D008106,0,,2,ITGB1|ITGB3
+integrin alphaIIb-beta3 complex,GO:0070442,"Liver Cirrhosis, Experimental",MESH:D008106,0,,2,ITGA2B|ITGB3
+integrin alphaL-beta2 complex,GO:0034687,"Liver Cirrhosis, Experimental",MESH:D008106,0,,2,ITGAL|ITGB2
+integrin alphaM-beta2 complex,GO:0034688,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,ITGB2
+integrin alphav-beta1 complex,GO:0034682,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,ITGB1
+integrin alphav-beta3 complex,GO:0034683,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,ITGB3
+integrin alphav-beta6 complex,GO:0034685,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,ITGB6
+integrin alphaX-beta2 complex,GO:0034689,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,ITGB2
+integrin complex,GO:0008305,"Liver Cirrhosis, Experimental",MESH:D008106,0,,6,ITGA2B|ITGAL|ITGB1|ITGB2|ITGB3|ITGB6
+intercalated disc,GO:0014704,Liver Cirrhosis,MESH:D008103,0,,1,CTNNB1
+intercalated disc,GO:0014704,"Liver Cirrhosis, Experimental",MESH:D008106,0,,7,ADRA1B|ANXA5|CAMK2D|CXADR|GJA1|ITGB1|TMEM65
+intercellular bridge,GO:0045171,"Liver Cirrhosis, Experimental",MESH:D008106,0,,4,GSTM1|NUPR1|PRODH2|TUBB6
+intercellular canaliculus,GO:0046581,Liver Cirrhosis,MESH:D008103,0,,1,ABCB4
+intercellular canaliculus,GO:0046581,"Liver Cirrhosis, Biliary",MESH:D008105,0,,2,ABCB4|ABCC2
+intercellular canaliculus,GO:0046581,"Liver Cirrhosis, Experimental",MESH:D008106,0,,3,ABCB1A|ABCC2|MMP13
+interchromatin granule,GO:0035061,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,SMC5
+interleukin-12 complex,GO:0043514,"Liver Cirrhosis, Biliary",MESH:D008105,0,,2,IL12A|IL12B
+interleukin-12 receptor complex,GO:0042022,"Liver Cirrhosis, Biliary",MESH:D008105,0,,1,TYK2
+interleukin-12 receptor complex,GO:0042022,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,JAK2
+interleukin-23 complex,GO:0070743,"Liver Cirrhosis, Biliary",MESH:D008105,0,,1,IL12B
+interleukin-23 receptor complex,GO:0072536,"Liver Cirrhosis, Biliary",MESH:D008105,0,,1,TYK2
+interleukin-23 receptor complex,GO:0072536,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,JAK2
+interleukin-2 receptor complex,GO:0005893,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,IL2RB
+interleukin-6 receptor complex,GO:0005896,Liver Cirrhosis,MESH:D008103,0,,1,IL6
+interleukin-6 receptor complex,GO:0005896,"Liver Cirrhosis, Alcoholic",MESH:D008104,0,,1,IL6
+intermediate-density lipoprotein particle,GO:0034363,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,APP
+intermediate filament,GO:0005882,"Cirrhosis, Familial",MESH:C566123,0,,1,KRT18
+intermediate filament,GO:0005882,Copper-Overload Cirrhosis,MESH:C566858,0,,2,KRT19|KRT7
+intermediate filament,GO:0005882,Liver Cirrhosis,MESH:D008103,0,,3,KRT18|KRT8|VIM
+intermediate filament,GO:0005882,"Liver Cirrhosis, Biliary",MESH:D008105,0,,1,KRT7
+intermediate filament,GO:0005882,"Liver Cirrhosis, Experimental",MESH:D008106,0,,8,ADORA2A|FTCD|GJA1|KRT18|KRT19|KRT8|MYO5A|VIM
+intermediate filament cytoskeleton,GO:0045111,Copper-Overload Cirrhosis,MESH:C566858,0,,1,KRT7
+intermediate filament cytoskeleton,GO:0045111,Liver Cirrhosis,MESH:D008103,0,,2,KRT8|VIM
+intermediate filament cytoskeleton,GO:0045111,"Liver Cirrhosis, Biliary",MESH:D008105,0,,1,KRT7
+intermediate filament cytoskeleton,GO:0045111,"Liver Cirrhosis, Experimental",MESH:D008106,0,,2,KRT8|VIM
+interstitial matrix,GO:0005614,"Liver Cirrhosis, Experimental",MESH:D008106,0,,2,IGF1|SMOC2
+intracellular anatomical structure,GO:0005622,Liver Cirrhosis,MESH:D008103,0,,1,ARRB1
+intracellular anatomical structure,GO:0005622,"Liver Cirrhosis, Alcoholic",MESH:D008104,0,,2,BCL2|TNF
+intracellular anatomical structure,GO:0005622,"Liver Cirrhosis, Experimental",MESH:D008106,0,,8,ADH1|ARRB2|BGN|EZR|FABP2|SMARCC1|SRI|TNF
+intracellular canaliculus,GO:0046691,"Liver Cirrhosis, Biliary",MESH:D008105,0,,1,ABCC2
+intracellular canaliculus,GO:0046691,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,ABCC2
+intracellular ferritin complex,GO:0008043,Liver Cirrhosis,MESH:D008103,1,Deferoxamine,0,
+intracellular membrane-bounded organelle,GO:0043231,Copper-Overload Cirrhosis,MESH:C566858,0,,1,SMAD2
+intracellular membrane-bounded organelle,GO:0043231,Liver Cirrhosis,MESH:D008103,0,,15,ADRA1A|ATM|CCN2|CTNNB1|CYP1A2|CYP2R1|CYP4A11|HSD11B2|KLF5|LDLR|PEMT|SERPINA1|SMAD3|SPARC|VTN
+intracellular membrane-bounded organelle,GO:0043231,"Liver Cirrhosis, Alcoholic",MESH:D008104,0,,4,CAT|CYP2E1|MPO|SMAD3
+intracellular membrane-bounded organelle,GO:0043231,"Liver Cirrhosis, Biliary",MESH:D008105,0,,1,DENND1B
+intracellular membrane-bounded organelle,GO:0043231,"Liver Cirrhosis, Experimental",MESH:D008106,0,,80,AADAC|ABCG1|ACKR3|ACOX2|AGFG1|AMACR|AP1S2|AP3S1|APOL9A|APP|APPL1|ARHGAP30|ATF3|AXL|BDH1|CAPG|CCN2|CD24|CD63|CD86|CELF2|CEMIP2|CES2|CPQ|CROT|CSF1R|CTSE|CTSS|CTSZ|CYP1A2|CYP26A1|CYP2C|CYP2C11|CYP2T1|DPP7|GJA1|HAO1|HCK|HEXIM1|HIP1|HPGDS|HPSE|HSD17B2|HSD17B6|IFI204|IGF2R|IL33|KLF6|MAP1LC3A|NR0B2|PDGFRB|PEA15A|PLA2G4A|PLSCR2|PMEPA1|PRNP|PRODH|PTGS1|PTGS2|RAB30|RAB31|RAB32|RGS5|RT1-DMA|RT1-DMB|S1PR1|SLC15A3|SMAD2|SOCS1|SPARC|SPTAN1|TAX1BP3|TGFB3|TMBIM1|TMEM165|TMEM65|TOR4A|TSPO|YBX1|ZFYVE16
+intracellular non-membrane-bounded organelle,GO:0043232,"Liver Cirrhosis, Experimental",MESH:D008106,0,,2,FLNA|SPTAN1
+intracellular organelle,GO:0043229,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,SLC23A1
+intracellular protein-containing complex,GO:0140535,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,GCHFR
+intracellular vesicle,GO:0097708,"Liver Cirrhosis, Experimental",MESH:D008106,0,,3,APP|APPL1|COL6A1
+intraciliary transport particle B,GO:0030992,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,TRIM59
+inward rectifying potassium channel,GO:0008282,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,KCNJ8
+ion channel complex,GO:0034702,"Liver Cirrhosis, Experimental",MESH:D008106,0,,5,CLIC1|CLIC2|CYBB|KCNJ8|PKD2
+IPAF inflammasome complex,GO:0072557,"Liver Cirrhosis, Experimental",MESH:D008106,0,,3,CASP1|CASP12|CASP4
+Ire1 complex,GO:1990332,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,ERN1
+IRE1-RACK1-PP2A complex,GO:1990630,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,ERN1
+IRE1-TRAF2-ASK1 complex,GO:1990604,"Liver Cirrhosis, Experimental",MESH:D008106,0,,2,ERN1|RNASEL
+ISGF3 complex,GO:0070721,Liver Cirrhosis,MESH:D008103,0,,1,STAT1
+isoamylase complex,GO:0043033,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,AGL
+junctional sarcoplasmic reticulum membrane,GO:0014701,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,REEP5
+keratin filament,GO:0045095,"Cirrhosis, Familial",MESH:C566123,0,,1,KRT18
+keratin filament,GO:0045095,Copper-Overload Cirrhosis,MESH:C566858,0,,1,KRT7
+keratin filament,GO:0045095,Liver Cirrhosis,MESH:D008103,0,,2,KRT18|KRT8
+keratin filament,GO:0045095,"Liver Cirrhosis, Biliary",MESH:D008105,0,,1,KRT7
+keratin filament,GO:0045095,"Liver Cirrhosis, Experimental",MESH:D008106,0,,2,KRT18|KRT8
+kinetochore,GO:0000776,"Liver Cirrhosis, Experimental",MESH:D008106,0,,3,MIS12|PRODH2|SMARCC1
+lamellipodium,GO:0030027,Copper-Overload Cirrhosis,MESH:C566858,0,,1,ACTA2
+lamellipodium,GO:0030027,Liver Cirrhosis,MESH:D008103,0,,3,ACTA2|CDH1|CTNNB1
+lamellipodium,GO:0030027,"Liver Cirrhosis, Experimental",MESH:D008106,0,,20,ABLIM3|ACTA2|ACTN1|AIF1|ANGPTL3|APBB1IP|CAPG|CTTNBP2NL|DYSF|FAT1|GSN|ILK|INPPL1|ITGB1|PKD2|PSTPIP1|PTPRO|RAC2|VASP|VOPP1
+lamellipodium membrane,GO:0031258,"Liver Cirrhosis, Experimental",MESH:D008106,0,,3,ITGB3|SLC39A6|VASP
+laminin-2 complex,GO:0005607,Liver Cirrhosis,MESH:D008103,0,,1,LAMC2
+laminin-5 complex,GO:0005610,Liver Cirrhosis,MESH:D008103,0,,1,LAMC2
+laminin complex,GO:0043256,Liver Cirrhosis,MESH:D008103,1,Thioctic Acid,1,LAMC2
+large latent transforming growth factor-beta complex,GO:0038045,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,LTBP1
+large ribosomal subunit,GO:0015934,Liver Cirrhosis,MESH:D008103,1,sodium arsenite,0,
+large ribosomal subunit,GO:0015934,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,RBM3
+late endosome,GO:0005770,Liver Cirrhosis,MESH:D008103,0,,3,ATP7B|F2R|LDLR
+late endosome,GO:0005770,"Liver Cirrhosis, Biliary",MESH:D008105,0,,1,CLEC16A
+late endosome,GO:0005770,"Liver Cirrhosis, Experimental",MESH:D008106,0,,16,CD63|CD74|CTSS|DYSF|F2R|GJA1|GRN|IGF2R|LGMN|MAP1LC3A|MYO5A|RAB31|RAB32|RT1-DMA|TRF|VOPP1
+late endosome lumen,GO:0031906,"Liver Cirrhosis, Biliary",MESH:D008105,0,,2,IL12A|IL12B
+late endosome membrane,GO:0031902,Liver Cirrhosis,MESH:D008103,0,,1,NPC1
+late endosome membrane,GO:0031902,"Liver Cirrhosis, Experimental",MESH:D008106,0,,9,ANXA2|ARL8A|CD63|CD68|RT1-DA|RT1-DB1|RT1-DMA|RT1-DMB|VOPP1
+lateral loop,GO:0043219,Liver Cirrhosis,MESH:D008103,0,,1,CDH1
+lateral plasma membrane,GO:0016328,Liver Cirrhosis,MESH:D008103,0,,2,CDH1|CTNNB1
+lateral plasma membrane,GO:0016328,"Liver Cirrhosis, Experimental",MESH:D008106,0,,9,ACTN1|ANXA1|EPCAM|GJA1|IQGAP1|MYO1C|PKD2|PTPRO|SPTAN1
+lipid droplet,GO:0005811,Liver Cirrhosis,MESH:D008103,2,"Cholesterol, Dietary|Dietary Fats",1,MGLL
+lipid droplet,GO:0005811,"Liver Cirrhosis, Alcoholic",MESH:D008104,0,,1,PNPLA3
+lipid droplet,GO:0005811,"Liver Cirrhosis, Experimental",MESH:D008106,1,"Cholesterol, Dietary",11,ANXA2|AQP7|CAV1|CIDEA|DHRS3|G0S2|PLIN2|PLIN3|RAB40B|RDH10|STARD13
+lipopolysaccharide receptor complex,GO:0046696,Liver Cirrhosis,MESH:D008103,0,,1,CD14
+lipopolysaccharide receptor complex,GO:0046696,"Liver Cirrhosis, Experimental",MESH:D008106,0,,2,LY96|TLR4
+lipoprotein particle,GO:1990777,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,APP
+low-density lipoprotein particle,GO:0034362,Liver Cirrhosis,MESH:D008103,0,,1,LDLR
+low-density lipoprotein particle,GO:0034362,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,APP
+lumenal side of endoplasmic reticulum membrane,GO:0098553,"Liver Cirrhosis, Experimental",MESH:D008106,0,,2,CD74|PKD2
+lysosomal lumen,GO:0043202,Liver Cirrhosis,MESH:D008103,0,,2,GC|LUM
+lysosomal lumen,GO:0043202,"Liver Cirrhosis, Experimental",MESH:D008106,0,,11,ASAH1|BGN|CD74|CSF3|CTSS|GALC|GC|HPSE|LGMN|LUM|PDGFRB
+lysosomal membrane,GO:0005765,Liver Cirrhosis,MESH:D008103,0,,2,ARRB1|NPC1
+lysosomal membrane,GO:0005765,"Liver Cirrhosis, Biliary",MESH:D008105,0,,1,CLEC16A
+lysosomal membrane,GO:0005765,"Liver Cirrhosis, Experimental",MESH:D008106,0,,24,ANXA2|AP1S2|ARL8A|ATP6V1D|BLOC1S2|CD63|CD68|CD74|DRAM1|GRN|HPSE|IFITM1|LAPTM5|RT1-CE5|RT1-DA|RT1-DB1|RT1-DMA|RT1-DMB|SLC15A3|SLC39A8|TM6SF1|TMBIM1|TMEM165|VOPP1
+lysosome,GO:0005764,Liver Cirrhosis,MESH:D008103,3,Acetaminophen|Sirolimus|sodium arsenite,3,LDLR|NPC1|UNC93B1
+lysosome,GO:0005764,"Liver Cirrhosis, Alcoholic",MESH:D008104,0,,1,MPO
+lysosome,GO:0005764,"Liver Cirrhosis, Experimental",MESH:D008106,2,Acetaminophen|Sirolimus,36,ACP5|ADA|APP|ARL8A|ASAH1|BLOC1S2|CD63|CD68|CD74|COL6A1|CPQ|CRYAB|CTSS|CTSZ|DBNDD2|DPP7|DRAM1|GALC|GGH|GJA1|GRN|HCK|HPSE|IL1B|LAPTM5|LGMN|MYO5A|PLD4|RAB32|RT1-BA|RT1-DA|RT1-DMA|TIAL1|TM6SF1|UNC93B1|VOPP1
+macrophage migration inhibitory factor receptor complex,GO:0035692,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,CD74
+macropinosome,GO:0044354,"Liver Cirrhosis, Experimental",MESH:D008106,0,,2,ANXA2|APPL1
+main axon,GO:0044304,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,APP
+major mitochondrial derivative,GO:0016008,"Liver Cirrhosis, Alcoholic",MESH:D008104,0,,1,CAT
+male germ cell nucleus,GO:0001673,"Liver Cirrhosis, Experimental",MESH:D008106,0,,2,SMARCC1|TRIM24
+male pronucleus,GO:0001940,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,CCNA2
+mast cell granule,GO:0042629,Liver Cirrhosis,MESH:D008103,0,,1,NPPA
+mast cell granule,GO:0042629,"Liver Cirrhosis, Experimental",MESH:D008106,0,,3,AKR1B1|ANXA1|SRGN
+matrix side of mitochondrial inner membrane,GO:0099617,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,BDH1
+M band,GO:0031430,"Liver Cirrhosis, Experimental",MESH:D008106,0,,2,CRYAB|FHL2
+mediator complex,GO:0016592,Liver Cirrhosis,MESH:D008103,0,,1,NFE2L2
+mediator complex,GO:0016592,"Liver Cirrhosis, Biliary",MESH:D008105,0,,1,NFE2L2
+mediator complex,GO:0016592,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,NFE2L2
+melanosome,GO:0042470,"Liver Cirrhosis, Experimental",MESH:D008106,0,,11,ANXA2|CAPG|CD63|CNP|GCHFR|GGH|ITGB1|ITGB3|MYO5A|RAB32|YWHAZ
+melanosome membrane,GO:0033162,"Liver Cirrhosis, Experimental",MESH:D008106,0,,2,GPNMB|RAB32
+membrane,GO:0016020,Copper-Overload Cirrhosis,MESH:C566858,0,,2,MET|SMAD2
+membrane,GO:0016020,Hypermanganesemia with Dystonia Polycythemia and Cirrhosis,MESH:C548016,0,,1,SLC30A10
+membrane,GO:0016020,Liver Cirrhosis,MESH:D008103,0,,45,ABCB4|ADRA1A|ARRB1|ATG5|ATP7B|BAMBI|CD9|CDH1|CNR1|CNR2|CP|CTNNB1|CYBA|CYP2R1|DHCR7|F2R|F3|F5|FGFR2|FLT1|FOXO3|GC|HSD11B2|IFNA1|LDLR|LGALS3BP|LOXL1|MGLL|NPC1|P2RX7|PEMT|PLOD2|REN|SERPING1|SLC13A4|SLC17A2|SLC22A8|SLC30A10|TGFBR1|TMEM67|TNFRSF1B|TRPM7|UNC93B1|UST5R|VEGFA
+membrane,GO:0016020,"Liver Cirrhosis, Alcoholic",MESH:D008104,0,,5,BCL2|MBOAT7|PNPLA3|TM6SF2|TNF
+membrane,GO:0016020,"Liver Cirrhosis, Biliary",MESH:D008105,0,,18,ABCB4|ABCC2|ABCG2|CD3D|CD80|CDH5|CXCR5|ENTPD2|ICAM3|IL12B|IL7R|LOXL2|MMEL1|SLC4A2|SLC51A|SLC51B|TNFRSF1A|TYK2
+membrane,GO:0016020,"Liver Cirrhosis, Experimental",MESH:D008106,0,,334,AADAC|ABCA8A|ABCB1|ABCB1A|ABCC2|ABCC5|ABCG1|ABCG5|ABCG8|ABLIM3|ACBD4|ACHE|ACKR3|ACP5|ACSL1|ADA|ADAM17|ADD3|ADGRE1|ADORA2A|ADORA3|ADRA1B|AGFG1|AGTR1A|AIDA|AKTIP|ANO6|ANXA1|ANXA2|ANXA3|AP1S2|AP3S1|APBB1IP|APMAP|APP|APPL1|AQP7|ARHGDIB|ARL8A|ASAH1|ATP10D|ATP6V1D|ATRN|AXL|B4GALT5|B9D1|BCR|BLOC1S2|C5AR1|CAV1|CCDC126|CCNB2|CD163|CD200R1|CD24|CD276|CD36|CD38|CD48|CD53|CD5L|CD63|CD68|CD7|CD74|CD83|CD86|CDC42SE1|CDH5|CEMIP2|CERK|CHSY1|CKLF|CLEC4A|CLIC1|CLIC2|CMTM3|CNP|CNR1|COLEC12|CSF1R|CSGALNACT1|CTSS|CXADR|CXCL16|CYBA|CYBB|CYP17A1|CYP26A1|CYRIA|CYRIB|CYSTM1|DCXR|DHRS3|DIO1|DOCK7|DRAM1|DYSF|EGF|ELOVL5|EMB|EMP1|ENPEP|ENPP2|EPCAM|ERAP1|ERN1|EXTL1|F2R|FABP2|FAS|FAT1|FCER1G|FKBP1A|FMO1|FXYD2|FXYD5|FXYD6|FZD8|G0S2|G6PC1|GALC|GASK1B|GC|GCHFR|GCNT1|GET1|GGTA1|GHR|GJA1|GJA4|GLIPR1|GLT8D1|GPAM|GPNMB|GPR68|GPX8|GRN|GULO|HIP1|HJV|HMGCR|HMOX1|HPCAL1|HPSE|HSD17B2|HSD17B6|ICAM2|IFI35|IFITM1|IFNA1|IFNGR1|IGF2R|IGFALS|IGSF6|IL2RB|IL2RG|IL7R|ILK|INPP5D|INPPL1|INSIG2|ITGA2B|ITGAL|ITGB1|ITGB2|ITGB6|IYD|JAK2|KCNJ8|KMO|KTN1|LAPTM5|LBP|LCP1|LHFPL6|LIN7A|LOXL2|LRAT|LTB|MAP1LC3A|MGAT5|MGMT|MME|MMP15|MTMR7|MVP|MYADM|MYO1C|MYO5A|MYOC|NAT8|NBEA|NECTIN2|NFKBIZ|NIPAL2|NMI|NOX4|NPDC1|NRG1|NRROS|NSMF|NT5E|OTC|PALMD|PAQR9|PDGFA|PDGFRA|PDGFRB|PFKP|PKD2|PLEKHB1|PLG|PLOD2|PLPP2|PLSCR1|PLSCR2|PMEPA1|PRAF2|PRKCB|PRKCD|PRLR|PRNP|PROCR|PRTG|PTAFR|PTGER2|PTGS2|PTPN1|PTPRC|PTPRD|PTPRO|PXDN|RAB30|RAB31|RAB32|RAB40B|RAC2|RAMP1|RARRES1|RDH10|RECK|REEP5|RELL1|RGS2|RGS5|RIT1|RMDN2|RNASE4|ROBO2|RT1-BA|RTN4|RTP3|S100A10|S1PR1|SCD2|SDR42E1|SECTM1B|SELENBP2|SEMA6D|SEZ6|SGCB|SHISA3|SLAMF9|SLC10A1|SLC17A1|SLC17A2|SLC19A2|SLC20A1|SLC22A23|SLC22A8|SLC23A1|SLC25A13|SLC25A24|SLC25A4|SLC37A4|SLC39A6|SLC39A8|SLC44A2|SLC46A1|SLC4A4|SLC66A3|SLC7A1|SMAD2|SMC5|SOAT1|SPTAN1|SRD5A1|SREBF1|SRI|ST14|STAC3|STARD13|STEAP4|STK10|SYNRG|TAP2|TAX1BP3|TGFBR2|THBD|TLR4|TM6SF1|TMBIM1|TMEM106A|TMEM165|TMEM184B|TMEM43|TMEM65|TNF|TNFRSF12A|TOR4A|TPM4|TRF|TRIM59|TRPV1|TSC22D1|TSPAN8|TSPO|TUSC3|TYROBP|UGCG|UNC5CL|UNC93B1|UST5R|VEGFA|VIPR1|VOPP1|VSIR|VWF|WLS|XPNPEP2|ZDHHC13|ZDHHC2|ZFYVE16
+membrane attack complex,GO:0005579,"Liver Cirrhosis, Experimental",MESH:D008106,0,,2,C7|C8G
+membrane coat,GO:0030117,"Liver Cirrhosis, Experimental",MESH:D008106,0,,2,AP1S2|AP3S1
+membrane microdomain,GO:0098857,"Liver Cirrhosis, Experimental",MESH:D008106,0,,2,DYSF|PTPRC
+membrane raft,GO:0045121,Liver Cirrhosis,MESH:D008103,0,,7,ABCB4|CD14|CNR1|NPC1|SERPINH1|TGFBR1|TNFRSF1B
+membrane raft,GO:0045121,"Liver Cirrhosis, Alcoholic",MESH:D008104,0,,1,TNF
+membrane raft,GO:0045121,"Liver Cirrhosis, Biliary",MESH:D008105,0,,3,ABCB4|ABCG2|TNFRSF1A
+membrane raft,GO:0045121,"Liver Cirrhosis, Experimental",MESH:D008106,0,,37,ACHE|ADAM17|AHNAK|ANXA2|APP|CAV1|CD24|CD36|CD48|CNR1|CXADR|FAS|FCER1G|FYN|GJA1|HPSE|INPP5D|ITGB1|ITGB2|JAK2|LDHB|MME|MYADM|MYO1C|PLSCR1|PLSCR2|PRNP|PTPRC|RHOQ|S100A10|S1PR1|SERPINH1|SLC25A4|SLC39A6|TCF20|TGFBR2|TNF
+mesaxon,GO:0097453,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,MYOC
+MHC class Ib protein complex,GO:0032398,"Liver Cirrhosis, Experimental",MESH:D008106,0,,2,RT1-CE5|RT1-M3-1
+MHC class II protein complex,GO:0042613,"Liver Cirrhosis, Experimental",MESH:D008106,0,,7,CD74|RT1-BA|RT1-DA|RT1-DB1|RT1-DMA|RT1-DMB|TAP2
+MHC class I peptide loading complex,GO:0042824,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,TAP2
+MHC class I protein complex,GO:0042612,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,RT1-M3-1
+microfibril,GO:0001527,Liver Cirrhosis,MESH:D008103,0,,1,FBN1
+microfibril,GO:0001527,"Liver Cirrhosis, Experimental",MESH:D008106,0,,3,FBN1|LTBP1|MFAP4
+microspike,GO:0044393,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,EZR
+microtubule,GO:0005874,"Liver Cirrhosis, Experimental",MESH:D008106,0,,12,CASP1|CNP|DYSF|IQGAP1|MAP1LC3A|MID1IP1|NDRG1|NEK6|PYCARD|RMDN2|STAU2|TUBB6
+microtubule associated complex,GO:0005875,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,PEA15A
+microtubule cytoskeleton,GO:0015630,"Liver Cirrhosis, Experimental",MESH:D008106,0,,10,ARL11|CCNB2|IQGAP1|MAP1LC3A|MID1IP1|NDRG1|PKD2|RELL1|SPTAN1|TUBB6
+microtubule organizing center,GO:0005815,"Cirrhosis, Familial",MESH:C566123,0,,1,KRT18
+microtubule organizing center,GO:0005815,Liver Cirrhosis,MESH:D008103,0,,2,KRT18|VIM
+microtubule organizing center,GO:0005815,"Liver Cirrhosis, Experimental",MESH:D008106,0,,2,KRT18|VIM
+microvillus,GO:0005902,Copper-Overload Cirrhosis,MESH:C566858,0,,1,TGFB1
+microvillus,GO:0005902,Liver Cirrhosis,MESH:D008103,0,,3,CDH1|CTNNB1|TGFB1
+microvillus,GO:0005902,"Liver Cirrhosis, Alcoholic",MESH:D008104,0,,1,TGFB1
+microvillus,GO:0005902,"Liver Cirrhosis, Biliary",MESH:D008105,0,,1,TGFB1
+microvillus,GO:0005902,"Liver Cirrhosis, Experimental",MESH:D008106,0,,11,CNP|DCXR|EZR|FABP2|ICAM2|MSN|MYO1C|MYO1F|PDGFA|PDGFRA|TGFB1
+microvillus membrane,GO:0031528,Liver Cirrhosis,MESH:D008103,0,,1,CTNNB1
+microvillus membrane,GO:0031528,"Liver Cirrhosis, Experimental",MESH:D008106,0,,4,CD24|EZR|ITGB3|MSN
+midbody,GO:0030496,"Liver Cirrhosis, Biliary",MESH:D008105,0,,1,KEAP1
+midbody,GO:0030496,"Liver Cirrhosis, Experimental",MESH:D008106,0,,8,ANXA2|ARL8A|CDK1|ECT2|GNAI2|IQGAP1|PRODH2|SHCBP1
+migrasome,GO:0140494,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,PKD2
+MIS12/MIND type complex,GO:0000444,"Liver Cirrhosis, Experimental",MESH:D008106,0,,2,MIS12|TSC22D1
+mitochondria-associated endoplasmic reticulum membrane,GO:0044233,Liver Cirrhosis,MESH:D008103,3,Cadmium Chloride|Particulate Matter|perfluorooctane sulfonic acid,1,ATG5
+mitochondria-associated endoplasmic reticulum membrane,GO:0044233,"Liver Cirrhosis, Alcoholic",MESH:D008104,0,,1,MBOAT7
+mitochondria-associated endoplasmic reticulum membrane,GO:0044233,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,RAB32
+mitochondrial chromosome,GO:0000262,Liver Cirrhosis,MESH:D008103,1,bisphenol A,0,
+mitochondrial chromosome,GO:0000262,"Liver Cirrhosis, Experimental",MESH:D008106,1,bisphenol A,0,
+mitochondrial crista,GO:0030061,"Liver Cirrhosis, Alcoholic",MESH:D008104,0,,1,BCL2
+mitochondrial crista,GO:0030061,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,PTPN1
+mitochondrial envelope,GO:0005740,Liver Cirrhosis,MESH:D008103,0,,1,PEMT
+mitochondrial envelope,GO:0005740,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,CIDEA
+mitochondrial inner membrane,GO:0005743,Copper-Overload Cirrhosis,MESH:C566858,0,,1,STAT3
+mitochondrial inner membrane,GO:0005743,Liver Cirrhosis,MESH:D008103,0,,1,CYP27A1
+mitochondrial inner membrane,GO:0005743,"Liver Cirrhosis, Alcoholic",MESH:D008104,0,,1,CYP2E1
+mitochondrial inner membrane,GO:0005743,"Liver Cirrhosis, Experimental",MESH:D008106,0,,22,APP|BDH1|CNP|COQ10A|CPS1|FGR|GCAT|IFI27L2B|LDHB|LGALS3|MYOC|OTC|PLA2G4A|PRODH|PRODH2|RDH13|SLC25A13|SLC25A24|SLC25A30|SLC25A4|TAP2|TMEM65
+mitochondrial intermembrane space,GO:0005758,"Liver Cirrhosis, Experimental",MESH:D008106,0,,3,FGR|MYOC|SLC20A1
+mitochondrial matrix,GO:0005759,Liver Cirrhosis,MESH:D008103,0,,4,CYP27A1|FOXO3|SHC1|SOD2
+mitochondrial matrix,GO:0005759,"Liver Cirrhosis, Alcoholic",MESH:D008104,0,,1,SOD2
+mitochondrial matrix,GO:0005759,"Liver Cirrhosis, Experimental",MESH:D008106,0,,28,AADAT|ABAT|ACAT1|ACOT9|ADHFE1|ALDH1B1|ALDH1L2|ALDH2|BDH1|CDK1|CPS1|DHTKD1|FAHD1|GLS|GLS2|HAGH|HYKK|IVD|OAT|OSGIN1|OTC|PC|PCK2|PRODH|PTPN1|PYCR1|RNASEL|YWHAG
+mitochondrial membrane,GO:0031966,Liver Cirrhosis,MESH:D008103,1,Cadmium Chloride,3,CYP27A1|PEMT|TUG1
+mitochondrial membrane,GO:0031966,"Liver Cirrhosis, Alcoholic",MESH:D008104,0,,1,BCL2
+mitochondrial membrane,GO:0031966,"Liver Cirrhosis, Biliary",MESH:D008105,0,,1,ABCG2
+mitochondrial membrane,GO:0031966,"Liver Cirrhosis, Experimental",MESH:D008106,0,,10,ANXA1|CLIC1|GPAM|IFI27L2B|IVD|KMO|SLC25A30|SLC25A4|STARD13|TSPO
+mitochondrial nucleoid,GO:0042645,Liver Cirrhosis,MESH:D008103,0,,1,SOD2
+mitochondrial nucleoid,GO:0042645,"Liver Cirrhosis, Alcoholic",MESH:D008104,0,,1,SOD2
+mitochondrial nucleoid,GO:0042645,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,CPS1
+mitochondrial outer membrane,GO:0005741,Liver Cirrhosis,MESH:D008103,0,,2,CNR1|FOXO3
+mitochondrial outer membrane,GO:0005741,"Liver Cirrhosis, Alcoholic",MESH:D008104,0,,1,BCL2
+mitochondrial outer membrane,GO:0005741,"Liver Cirrhosis, Experimental",MESH:D008106,0,,18,ACSL1|ARMCX1|BMF|CNP|CNR1|DAO|GJA1|GK|GPAM|HMOX1|KMO|MYOC|PRNP|RAB32|RAC2|SLC25A4|SLC44A2|TSPO
+mitochondrial permeability transition pore complex,GO:0005757,Liver Cirrhosis,MESH:D008103,4,Doxorubicin|Quercetin|Thioacetamide|thymoquinone,0,
+mitochondrial permeability transition pore complex,GO:0005757,"Liver Cirrhosis, Experimental",MESH:D008106,3,Doxorubicin|Quercetin|Thioacetamide,1,SLC25A4
+mitochondrial proton-transporting ATP synthase complex,GO:0005753,Liver Cirrhosis,MESH:D008103,1,Sirolimus,0,
+mitochondrial proton-transporting ATP synthase complex,GO:0005753,"Liver Cirrhosis, Experimental",MESH:D008106,2,Lipopolysaccharides|Sirolimus,0,
+mitochondrial respiratory chain complex I,GO:0005747,Liver Cirrhosis,MESH:D008103,5,ferulic acid|Melitten|Sirolimus|Streptozocin|Thioacetamide,0,
+mitochondrial respiratory chain complex I,GO:0005747,"Liver Cirrhosis, Experimental",MESH:D008106,4,ferulic acid|Lipopolysaccharides|Sirolimus|Thioacetamide,0,
+mitochondrial respiratory chain complex III,GO:0005750,Liver Cirrhosis,MESH:D008103,1,Sirolimus,0,
+mitochondrial respiratory chain complex III,GO:0005750,"Liver Cirrhosis, Experimental",MESH:D008106,2,Lipopolysaccharides|Sirolimus,0,
+"mitochondrial respiratory chain complex II, succinate dehydrogenase complex (ubiquinone)",GO:0005749,Liver Cirrhosis,MESH:D008103,2,ferulic acid|Streptozocin,0,
+"mitochondrial respiratory chain complex II, succinate dehydrogenase complex (ubiquinone)",GO:0005749,"Liver Cirrhosis, Experimental",MESH:D008106,1,ferulic acid,0,
+mitochondrial respiratory chain complex IV,GO:0005751,Liver Cirrhosis,MESH:D008103,3,ferulic acid|Streptozocin|Thioacetamide,0,
+mitochondrial respiratory chain complex IV,GO:0005751,"Liver Cirrhosis, Experimental",MESH:D008106,2,ferulic acid|Thioacetamide,0,
+mitochondrion,GO:0005739,Copper-Overload Cirrhosis,MESH:C566858,1,Copper,0,
+mitochondrion,GO:0005739,Liver Cirrhosis,MESH:D008103,4,Copper|Ethanol|Folic Acid|Particulate Matter,9,ATP7B|CNR1|CYP27A1|FOXO3|MIR29C|MMP2|P2RX7|PEMT|SOD2
+mitochondrion,GO:0005739,"Liver Cirrhosis, Alcoholic",MESH:D008104,1,Ethanol,5,BCL2|CAT|MIR17|MMP2|SOD2
+mitochondrion,GO:0005739,"Liver Cirrhosis, Biliary",MESH:D008105,2,"Copper|tris(1,3-dichloro-2-propyl)phosphate",5,ABCG2|CD80|MAPK14|NFKB1|TNFRSF1A
+mitochondrion,GO:0005739,"Liver Cirrhosis, Experimental",MESH:D008106,3,Curcumin|Ethanol|Silybin,101,AADAT|ABAT|ABCG1|ACAT1|ACOT9|ACSL1|ADH1|ADHFE1|AKR1B1|ALDH1B1|ALDH1L1|ALDH1L2|ALDH2|AMACR|APP|ARMCX1|ASAH1|BBOX1|BDH1|BLOC1S2|CAR5A|CASP1|CASP4|CDK1|CIDEA|CLIC1|CNR1|COL6A1|COQ10A|CPS1|CRY1|CRYAB|CYP2D4|CYRIB|DCXR|DHTKD1|ERN1|FAHD1|FYN|G0S2|GCAT|GCK|GJA1|GK|GLS|GLS2|GPAM|GSTA2|GSTA3|GSTM1|GSTP3|HAGH|IFI27L2B|IVD|KMO|KYNU|MDH1|MMP2|MYC|MYOC|NOCT|NOX4|OAT|OTC|PC|PCK1|PCK2|PRKCD|PRODH|PRODH2|PTRH1|PTRHD1|PYCARD|PYCR1|RAB32|RAB40B|RDH13|RGS2|RMDN2|RNASEL|SDS|SIRT1|SLC25A13|SLC25A24|SLC25A30|SLC25A4|SLC44A2|SLC4A4|SNAP23|SNAP29|SOX4|SP140|TMEM65|TPM3|TRAFD1|TRAK2|TRIM24|TSC22D1|TSPO|TSTD3|TUSC3
+mitotic spindle,GO:0072686,"Liver Cirrhosis, Experimental",MESH:D008106,0,,8,CAPG|CDK1|ECT2|IKBKG|LIMK2|PKD2|RMDN2|TUBB6
+mitotic spindle microtubule,GO:1990498,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,SNAP23
+mitotic spindle pole,GO:0097431,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,RMDN2
+MKS complex,GO:0036038,Liver Cirrhosis,MESH:D008103,0,,1,TMEM67
+MKS complex,GO:0036038,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,B9D1
+mossy fiber rosette,GO:0097471,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,NRG1
+motile cilium,GO:0031514,Copper-Overload Cirrhosis,MESH:C566858,0,,1,ACTA2
+motile cilium,GO:0031514,Liver Cirrhosis,MESH:D008103,0,,2,ACTA2|HIF1A
+motile cilium,GO:0031514,"Liver Cirrhosis, Biliary",MESH:D008105,0,,1,HIF1A
+motile cilium,GO:0031514,"Liver Cirrhosis, Experimental",MESH:D008106,0,,5,ACTA2|ANXA1|CD24|CES3|PKD2
+MPP7-DLG1-LIN7 complex,GO:0097025,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,LIN7A
+mRNA cleavage factor complex,GO:0005849,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,CLP1
+mRNA editing complex,GO:0045293,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,APOBEC1
+mucus layer,GO:0070701,Liver Cirrhosis,MESH:D008103,2,Gallic Acid|Particulate Matter,0,
+multivesicular body,GO:0005771,"Liver Cirrhosis, Experimental",MESH:D008106,0,,7,CD63|CD74|GFRA1|GJA1|LRAT|RT1-DMA|WLS
+"multivesicular body, internal vesicle",GO:0097487,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,CD63
+multivesicular body membrane,GO:0032585,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,CD63
+muscle myosin complex,GO:0005859,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,MYL9
+muscle thin filament tropomyosin,GO:0005862,"Liver Cirrhosis, Experimental",MESH:D008106,0,,3,TPM1|TPM3|TPM4
+Myb complex,GO:0031523,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,FLNA
+Myc-Max complex,GO:0071943,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,MYC
+myelin sheath,GO:0043209,Liver Cirrhosis,MESH:D008103,1,Thioacetamide,0,
+myelin sheath,GO:0043209,"Liver Cirrhosis, Alcoholic",MESH:D008104,0,,1,BCL2
+myelin sheath,GO:0043209,"Liver Cirrhosis, Experimental",MESH:D008106,1,Thioacetamide,2,CNP|GSN
+myelin sheath abaxonal region,GO:0035748,"Liver Cirrhosis, Experimental",MESH:D008106,0,,3,CNP|ITGB1|MYOC
+myelin sheath adaxonal region,GO:0035749,Liver Cirrhosis,MESH:D008103,0,,1,PTEN
+myelin sheath adaxonal region,GO:0035749,"Liver Cirrhosis, Experimental",MESH:D008106,0,,2,ANXA2|CNP
+myofibril,GO:0030016,"Liver Cirrhosis, Experimental",MESH:D008106,0,,4,COL6A1|KCNJ8|MYL9|TPM1
+myosin complex,GO:0016459,"Liver Cirrhosis, Experimental",MESH:D008106,0,,5,BMF|MYL9|MYO1C|MYO1F|MYO5A
+myosin II complex,GO:0016460,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,MYL9
+NADH dehydrogenase complex,GO:0030964,Liver Cirrhosis,MESH:D008103,1,bisphenol A,0,
+NADH dehydrogenase complex,GO:0030964,"Liver Cirrhosis, Experimental",MESH:D008106,1,bisphenol A,0,
+NADPH oxidase complex,GO:0043020,Liver Cirrhosis,MESH:D008103,0,,1,CYBA
+NADPH oxidase complex,GO:0043020,"Liver Cirrhosis, Experimental",MESH:D008106,1,Curcumin,4,CYBA|CYBB|NOX4|RAC2
+nBAF complex,GO:0071565,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,SMARCC1
+neuromuscular junction,GO:0031594,Liver Cirrhosis,MESH:D008103,0,,3,F2R|P2RX7|POSTN
+neuromuscular junction,GO:0031594,"Liver Cirrhosis, Experimental",MESH:D008106,0,,12,ACHE|ADORA3|APP|CAMK2D|CXADR|DOCK7|F2R|ITGB1|NRG1|PDZRN3|PTN|WLS
+neuronal cell body,GO:0043025,Copper-Overload Cirrhosis,MESH:C566858,0,,3,CASP3|MET|TGFB1
+neuronal cell body,GO:0043025,Liver Cirrhosis,MESH:D008103,1,bisphenol A,7,CCL2|CNR2|CYBA|P2RX7|TGFB1|TNFRSF1B|TRPM7
+neuronal cell body,GO:0043025,"Liver Cirrhosis, Alcoholic",MESH:D008104,0,,2,TGFB1|TNF
+neuronal cell body,GO:0043025,"Liver Cirrhosis, Biliary",MESH:D008105,0,,2,CYGB|TGFB1
+neuronal cell body,GO:0043025,"Liver Cirrhosis, Experimental",MESH:D008106,1,bisphenol A,45,ACHE|ADA|ADORA2A|AGFG1|ANXA3|ANXA5|CAMK2D|CASP4|CCL2|CCNG1|CYBA|CYBB|CYGB|CYP17A1|DDC|ELOVL5|EMB|ENC1|FABP7|FAS|FLNA|GFRA1|GHR|IGF1|ILK|LTBP1|MME|MYO5A|NRG1|POMC|PYCARD|RGS10|ROBO2|RTN4|SEZ6|SRD5A1|SRR|STAU2|TGFB1|TGFB3|TIMP2|TNF|TRAK2|TRPV1|YBX1
+neuronal dense core vesicle,GO:0098992,"Liver Cirrhosis, Experimental",MESH:D008106,0,,4,APP|FZD8|GNAI2|PLAT
+neuronal dense core vesicle lumen,GO:0099013,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,IGF1
+neuron projection,GO:0043005,Liver Cirrhosis,MESH:D008103,2,Niclosamide|Ursolic Acid,3,CNR2|PTEN|VIM
+neuron projection,GO:0043005,"Liver Cirrhosis, Biliary",MESH:D008105,1,"tris(1,3-dichloro-2-propyl)phosphate",1,CYGB
+neuron projection,GO:0043005,"Liver Cirrhosis, Experimental",MESH:D008106,3,Aspirin|Colforsin|Tretinoin,21,APP|B9D1|CAMK2D|CXADR|CYGB|DOCK7|IQGAP1|MYO5A|NRG1|NSMF|PTGS1|PTGS2|PTPRO|ROBO2|RTN4|SNAP23|STAU2|TPM3|TRPV1|VIM|VIPR1
+neuron projection membrane,GO:0032589,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,EMB
+neuron projection terminus,GO:0044306,"Liver Cirrhosis, Experimental",MESH:D008106,0,,2,ACHE|MME
+neutrophil extracellular trap,GO:0140644,Liver Cirrhosis,MESH:D008103,5,Acetaminophen|Arsenic|bisphenol A|Eucalyptol|sodium arsenite,0,
+neutrophil extracellular trap,GO:0140644,"Liver Cirrhosis, Experimental",MESH:D008106,3,Acetaminophen|bisphenol A|Dimethyl Sulfoxide,0,
+NF-kappaB complex,GO:0071159,"Liver Cirrhosis, Alcoholic",MESH:D008104,0,,1,RELA
+NF-kappaB complex,GO:0071159,"Liver Cirrhosis, Biliary",MESH:D008105,0,,1,RELA
+NF-kappaB complex,GO:0071159,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,RELA
+NF-kappaB p50/p65 complex,GO:0035525,"Liver Cirrhosis, Alcoholic",MESH:D008104,0,,1,RELA
+NF-kappaB p50/p65 complex,GO:0035525,"Liver Cirrhosis, Biliary",MESH:D008105,0,,2,NFKB1|RELA
+NF-kappaB p50/p65 complex,GO:0035525,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,RELA
+NLRP1 inflammasome complex,GO:0072558,Liver Cirrhosis,MESH:D008103,1,Doxorubicin,0,
+NLRP1 inflammasome complex,GO:0072558,"Liver Cirrhosis, Experimental",MESH:D008106,1,Doxorubicin,3,CASP1|CASP4|PYCARD
+NLRP3 inflammasome complex,GO:0072559,"Liver Cirrhosis, Experimental",MESH:D008106,2,Dimethylformamide|Lipopolysaccharides,4,CASP1|CASP12|CASP4|PYCARD
+NLRP6 inflammasome complex,GO:0140738,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,PYCARD
+node of Ranvier,GO:0033268,Liver Cirrhosis,MESH:D008103,0,,1,CDH1
+node of Ranvier,GO:0033268,"Liver Cirrhosis, Experimental",MESH:D008106,0,,2,MYOC|SPTAN1
+non-membrane-bounded organelle,GO:0043228,Liver Cirrhosis,MESH:D008103,0,,1,NFE2L2
+non-membrane-bounded organelle,GO:0043228,"Liver Cirrhosis, Biliary",MESH:D008105,0,,1,NFE2L2
+non-membrane-bounded organelle,GO:0043228,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,NFE2L2
+non-motile cilium,GO:0097730,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,PKD2
+NOS2-CD74 complex,GO:0035693,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,CD74
+npBAF complex,GO:0071564,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,SMARCC1
+nuclear aryl hydrocarbon receptor complex,GO:0034753,Liver Cirrhosis,MESH:D008103,1,Tetrachlorodibenzodioxin,2,AHR|ARNT
+nuclear aryl hydrocarbon receptor complex,GO:0034753,"Liver Cirrhosis, Experimental",MESH:D008106,1,Tetrachlorodibenzodioxin,0,
+nuclear body,GO:0016604,Copper-Overload Cirrhosis,MESH:C566858,0,,1,MKI67
+nuclear body,GO:0016604,Liver Cirrhosis,MESH:D008103,0,,3,ARNT|ARRB1|HIF1A
+nuclear body,GO:0016604,"Liver Cirrhosis, Biliary",MESH:D008105,0,,2,HIF1A|STAT4
+nuclear body,GO:0016604,"Liver Cirrhosis, Experimental",MESH:D008106,0,,19,ATF3|C8H11ORF54|CDKN1A|ECT2|FAS|FLI1|MALAT1|MKI67|MYC|MYO1C|NCOR2|PDGFRA|RGS10|SENP2|SH3BGRL3|STK10|TCF20|TGFBR2|ZBTB4
+nuclear chromosome,GO:0000228,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,SMC2
+nuclear envelope,GO:0005635,Liver Cirrhosis,MESH:D008103,0,,2,NPC1|P2RX7
+nuclear envelope,GO:0005635,"Liver Cirrhosis, Experimental",MESH:D008106,0,,18,ACHE|BICD2|CLIC1|CYBB|IFI27L2B|MYC|NSMF|OTULINL|PLA2G4A|PTGS1|RAB40B|RAC2|RTN4|S100A6|SIRT1|SREBF1|TMEM43|TOR4A
+nuclear envelope lumen,GO:0005641,"Liver Cirrhosis, Experimental",MESH:D008106,0,,2,APP|IGF2R
+nuclear inclusion body,GO:0042405,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,IFI204
+nuclear inner membrane,GO:0005637,Liver Cirrhosis,MESH:D008103,0,,2,P2RX7|SMAD3
+nuclear inner membrane,GO:0005637,"Liver Cirrhosis, Alcoholic",MESH:D008104,0,,1,SMAD3
+nuclear inner membrane,GO:0005637,"Liver Cirrhosis, Experimental",MESH:D008106,0,,4,ERN1|PTGS2|SIRT1|TMEM43
+nuclear lumen,GO:0031981,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,SMARCC1
+nuclear matrix,GO:0016363,"Cirrhosis, Familial",MESH:C566123,0,,1,KRT18
+nuclear matrix,GO:0016363,Liver Cirrhosis,MESH:D008103,0,,4,KRT18|KRT8|SPARC|VIM
+nuclear matrix,GO:0016363,"Liver Cirrhosis, Experimental",MESH:D008106,0,,14,ANXA2|ENC1|FOS|KRT18|KRT8|LPXN|NCOR2|NSMF|PRKCD|RNASEL|S100A10|SMARCC1|SPARC|VIM
+nuclear membrane,GO:0031965,Liver Cirrhosis,MESH:D008103,0,,3,ADRA1A|CTNNB1|TUG1
+nuclear membrane,GO:0031965,"Liver Cirrhosis, Alcoholic",MESH:D008104,0,,1,BCL2
+nuclear membrane,GO:0031965,"Liver Cirrhosis, Biliary",MESH:D008105,0,,1,CDH5
+nuclear membrane,GO:0031965,"Liver Cirrhosis, Experimental",MESH:D008106,0,,15,ADRA1B|AEN|ANXA4|CD38|CDH5|CLIC1|CMTM3|EMB|GCHFR|MINDY3|NSMF|PRNP|SENP2|STAU2|SULT1E1
+nuclear outer membrane,GO:0005640,Liver Cirrhosis,MESH:D008103,0,,1,DHCR7
+nuclear outer membrane,GO:0005640,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,PTGS2
+nuclear pore,GO:0005643,"Liver Cirrhosis, Experimental",MESH:D008106,0,,6,AGFG1|BICD2|EMB|MVP|SENP2|SPTAN1
+nuclear speck,GO:0016607,Liver Cirrhosis,MESH:D008103,0,,1,HIF1A
+nuclear speck,GO:0016607,"Liver Cirrhosis, Biliary",MESH:D008105,0,,5,CLEC16A|CYGB|DENND1B|HIF1A|MAPK14
+nuclear speck,GO:0016607,"Liver Cirrhosis, Experimental",MESH:D008106,0,,11,CYGB|GCAT|IFI204|INPPL1|LPXN|MALAT1|MEOX2|NEK6|NFKBIZ|SMC5|TAP2
+nucleolus,GO:0005730,"Cirrhosis, Familial",MESH:C566123,0,,1,KRT18
+nucleolus,GO:0005730,Copper-Overload Cirrhosis,MESH:C566858,0,,1,MKI67
+nucleolus,GO:0005730,Liver Cirrhosis,MESH:D008103,0,,3,ATM|KRT18|STAT1
+nucleolus,GO:0005730,"Liver Cirrhosis, Biliary",MESH:D008105,0,,1,NSA2
+nucleolus,GO:0005730,"Liver Cirrhosis, Experimental",MESH:D008106,0,,36,ADHFE1|AEN|ATF3|CAPG|CASP1|CDKN1A|CEMIP2|CPS1|FLNA|GH1|IFI204|IFI35|ISG20|KLF6|KRT18|MKI67|MRO|MYC|MYO1C|NOX4|NUDT16|PC|PLSCR1|PLSCR2|PYCARD|RBL2|RCN2|RGS2|SCD2|SELENBP2|SIRT1|SMC2|STAU2|TMEM65|YPEL3|ZEB2
+nucleoplasm,GO:0005654,Copper-Overload Cirrhosis,MESH:C566858,0,,5,CASP3|COMMD1|MKI67|SMAD2|STAT3
+nucleoplasm,GO:0005654,Liver Cirrhosis,MESH:D008103,0,,21,ABCB4|ADRA1A|AHR|ARNT|ARRB1|ATM|COMMD1|CTNNB1|FOXO3|HDAC2|HIF1A|JUND|KLF5|KRT8|MRTFA|NFE2L2|PTEN|SMAD3|SPARC|STAT1|TGFBR1
+nucleoplasm,GO:0005654,"Liver Cirrhosis, Alcoholic",MESH:D008104,0,,3,MPO|RELA|SMAD3
+nucleoplasm,GO:0005654,"Liver Cirrhosis, Biliary",MESH:D008105,0,,14,ABCB4|ABCG2|CDH5|HIF1A|IL7R|KEAP1|LOXL2|MAPK14|NFE2L2|NFKB1|NOS2|RELA|STAT4|UBD
+nucleoplasm,GO:0005654,"Liver Cirrhosis, Experimental",MESH:D008106,0,,156,ABCG1|ADH1|ADH4|AEN|AKR1B1|ALDH1B1|ALDH1L2|ANXA1|APOBEC1|ARRB2|ATF3|ATP10D|ATP6V1D|BIRC3|C8H11ORF54|CAMK2D|CAPG|CASP7|CCNA2|CCNG1|CD63|CDH5|CDK1|CDKN1A|CEBPD|CELF2|CLIC2|CLP1|CRY1|CRYAB|CSF1R|CXADR|DOCK10|DUSP16|DUSP6|ECT2|ENC1|EPB41L2|FAHD1|FHL2|FLI1|FOS|FOXA2|GBP2|GCAT|GCHFR|GCK|GJA1|GNAI2|HEXIM1|HMOX1|HOPX|HOXA3|HPGDS|HPSE|ID2|ID4|IFI204|IFI35|IKBKG|IL2RG|IL33|IL7R|ILK|IRF8|ISG20|ITGB3|ITGB6|IVD|IYD|JAK2|KLF6|KRT8|KYNU|LGALS3|LMO2|LOXL2|LTA4H|MGMT|MINDY3|MKI67|MME|MYC|MYO1C|NBEA|NCOR2|NEK6|NFE2L2|NFKBIA|NFKBIE|NMI|NOCT|NOS2|NPAS2|NQO2|NR0B2|NRG1|NSMF|NT5E|NUDT16|NUPR1|OAT|PDGFRA|PEA15A|PLAC8|PLSCR1|PLSCR2|PRKCB|PRKCD|PRODH|PRR13|PSMB10|PSMB8|PSMB9|PSME2|PTPN18|PYCARD|RBL2|RBM3|RELA|RGS10|S1PR1|SENP2|SERPINB9|SGK2|SIRT1|SKAP2|SLA|SMAD2|SMAD4|SMARCC1|SMC2|SMC5|SNAP23|SOCS1|SOX4|SPARC|SPIN2A|SREBF1|SRI|STAC3|STEAP4|STK10|TCF20|TFEC|TIAL1|TNFAIP8|TRIB3|TRIM24|TRIM59|U2SURP|UBD|YBX1|YWHAZ|ZBTB4|ZEB2
+nucleoplasmic reticulum,GO:0044195,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,MYC
+nucleus,GO:0005634,Copper-Overload Cirrhosis,MESH:C566858,0,,9,ACTA2|CASP3|COMMD1|KRT19|MET|MKI67|SMAD2|STAT3|TGFB1
+nucleus,GO:0005634,Liver Cirrhosis,MESH:D008103,0,,37,ACTA2|ADRA1A|AGT|AHR|ANKS6|ARNT|ARRB1|ATM|COMMD1|CP|CTNNB1|F2|FGF2|FGF7|FGFR2|FLT1|FOXO3|HDAC2|HIF1A|JUND|KLF5|KRT8|LOX|MICAL2|MMP2|MRTFA|NFE2L2|NPPA|PTEN|RGN|SMAD3|STAT1|TGFB1|TGFBR1|TRPM7|TUG1|VEGFA
+nucleus,GO:0005634,"Liver Cirrhosis, Alcoholic",MESH:D008104,0,,5,BCL2|MMP2|RELA|SMAD3|TGFB1
+nucleus,GO:0005634,"Liver Cirrhosis, Biliary",MESH:D008105,0,,17,CYGB|HIF1A|KEAP1|LOX|LOXL2|MAPK14|NFE2L2|NFKB1|NOS2|NOS3|NSA2|RELA|SPIB|STAT4|TGFB1|TYK2|UBD
+nucleus,GO:0005634,"Liver Cirrhosis, Experimental",MESH:D008106,0,,245,ABAT|ACHE|ACP5|ACTA2|ADHFE1|ADRA1B|AEN|AGFG1|AGL|AGT|AHNAK|AIF1|AKR1C1|AKR1C3|ANXA1|ANXA2|ANXA4|APAF1|APOBEC1|APP|APPL1|ARPC1B|ARRB2|ASAH1|ATF3|BIRC3|BLOC1S2|C8H11ORF54|CAMK2D|CAPG|CAR3|CASP7|CCNA2|CCNB2|CCNG1|CD74|CDK1|CDKN1A|CDKN3|CEBPD|CELF2|CFP|CIDEA|CLIC1|CLIC2|CLP1|COTL1|CROT|CRY1|CRYAB|CXADR|CYGB|DOCK10|DUS1L|DUSP16|DYSF|ECT2|EMB|ENC1|ES2|FABP2|FABP7|FAT1|FGF2|FHL1|FHL2|FLI1|FLNA|FOS|FOXA2|FYN|GBP2|GBP4|GCAT|GCHFR|GCK|GET1|GH1|GHR|GJA1|GK|GRN|GSN|GZMA|HCK|HELLS|HEXIM1|HIP1|HMGN5B|HMOX1|HOPX|HOXA3|HPSE|ID2|ID4|IFI204|IFI35|IFRD1|IGF2BP3|IGF2R|IGFBP3|IKBKG|IL33|ILK|INPPL1|IQGAP1|IRF8|ISG20|ITGB3|JAK2|JDP2|KANK1|KLF6|KRT19|KRT8|LBH|LGALS3|LIMK2|LMO2|LOX|LOXL2|LPXN|LRRFIP1|LTA4H|MAGEE1|MALAT1|MEOX2|MGMT|MID1IP1|MINDY3|MIS12|MKI67|MMP2|MOB3A|MRO|MT1A|MT2A|MVP|MYC|MYO1C|NAP1L5|NBEA|NCOR2|NDRG1|NDRG2|NEK6|NFE2L2|NFKBIA|NFKBIZ|NLRC5|NMI|NOCT|NOS2|NOS3|NOX4|NPAS2|NR0B2|NREP|NSMF|NUDT16|NUPR1|OAT|OTUB2|PC|PDGFRA|PDGFRB|PFN1|PLA2G4A|PLAC8|PLD4|PLEK|PLIN2|PLSCR1|PLSCR2|PLTP|PRAF2|PRKCB|PRKCD|PRR13|PSMB10|PSMB8|PSMB9|PTPN18|PYCARD|R3HDM2|RABGAP1L|RBL2|RBM3|RCSD1|RELA|RGN|RGS10|RGS2|RGS3|RMND5B|ROBO2|RSRP1|S100A11|S100A6|S100A9|SAMD11|SASH3|SDR42E1|SELENBP2|SENP2|SERPINB9|SGK2|SH3BGRL3|SIRT1|SLC23A1|SLFN2|SMAD2|SMAD4|SMARCC1|SMC2|SMC5|SOCS1|SOX4|SP140|SREBF1|TAX1BP3|TCF20|TCF4|TFEC|TGFB1|THYN1|TIAL1|TMEM43|TRAK2|TRF|TRIB3|TRIM24|TSC22D1|TSTD3|U2SURP|UBD|VEGFA|WLS|YBX1|YPEL3|YWHAG|YWHAZ|ZBTB4|ZEB2|ZFP37
+NuRD complex,GO:0016581,Liver Cirrhosis,MESH:D008103,0,,1,HDAC2
+oligosaccharyltransferase complex,GO:0008250,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,TUSC3
+organelle membrane,GO:0031090,"Liver Cirrhosis, Experimental",MESH:D008106,0,,4,MAP1LC3A|SLC39A8|VOPP1|WLS
+organelle outer membrane,GO:0031968,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,AGTR1A
+outer dense plaque of desmosome,GO:0090636,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,ACTN1
+outer kinetochore,GO:0000940,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,MIS12
+outer membrane,GO:0019867,Liver Cirrhosis,MESH:D008103,0,,1,F5
+oxidoreductase complex,GO:1990204,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,LDHB
+parallel fiber to Purkinje cell synapse,GO:0098688,Liver Cirrhosis,MESH:D008103,0,,1,MGLL
+parallel fiber to Purkinje cell synapse,GO:0098688,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,PFN1
+paranodal junction,GO:0033010,"Liver Cirrhosis, Experimental",MESH:D008106,0,,2,AKR1B1|SPTAN1
+paranode region of axon,GO:0033270,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,SPTAN1
+P-body,GO:0000932,Liver Cirrhosis,MESH:D008103,2,Arsenic|sodium arsenite,0,
+P-body,GO:0000932,"Liver Cirrhosis, Experimental",MESH:D008106,0,,5,IGF2BP3|ISG20|NOCT|SDR42E1|YBX1
+PcG protein complex,GO:0031519,"Liver Cirrhosis, Experimental",MESH:D008106,0,,2,ZBTB4|ZFP37
+PCNA-p21 complex,GO:0070557,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,CDKN1A
+PCSK9-AnxA2 complex,GO:1990667,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,ANXA2
+PCSK9-LDLR complex,GO:1990666,Liver Cirrhosis,MESH:D008103,0,,1,LDLR
+peptidase inhibitor complex,GO:1904090,Liver Cirrhosis,MESH:D008103,0,,1,VTN
+pericentric heterochromatin,GO:0005721,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,HELLS
+perichromatin fibrils,GO:0005726,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,TRIM24
+perikaryon,GO:0043204,Liver Cirrhosis,MESH:D008103,0,,3,CCL2|CNR2|NPPA
+perikaryon,GO:0043204,"Liver Cirrhosis, Experimental",MESH:D008106,0,,12,AIF1|ANXA5|APP|CCL2|CRYAB|CSF1R|FLNA|FYN|IFNG|KNG1|MGAT5|NSMF
+perinuclear endoplasmic reticulum,GO:0097038,Liver Cirrhosis,MESH:D008103,0,,1,CYBA
+perinuclear endoplasmic reticulum,GO:0097038,"Liver Cirrhosis, Experimental",MESH:D008106,0,,5,ACHE|CYBA|CYBB|FYN|NOX4
+perinuclear region of cytoplasm,GO:0048471,"Cirrhosis, Familial",MESH:C566123,0,,1,KRT18
+perinuclear region of cytoplasm,GO:0048471,Liver Cirrhosis,MESH:D008103,0,,14,ATP7B|CCL2|CCN2|CDH1|CTNNB1|GC|KRT18|LAMC2|NPC1|NPPA|SPP1|STAT1|TNFRSF1B|VIM
+perinuclear region of cytoplasm,GO:0048471,"Liver Cirrhosis, Alcoholic",MESH:D008104,0,,1,BCL2
+perinuclear region of cytoplasm,GO:0048471,"Liver Cirrhosis, Biliary",MESH:D008105,0,,1,NOS2
+perinuclear region of cytoplasm,GO:0048471,"Liver Cirrhosis, Experimental",MESH:D008106,0,,69,ABCC5|ACHE|ADIPOQ|AIF1|AKR1B1|ANXA2|ANXA4|APP|CAMK2D|CAV1|CCL2|CCN2|CCNG1|CDKN1A|CDKN3|CLIC1|CNP|EPCAM|EZR|FAS|FAT1|FLNA|FYN|GBP2|GBP4|GC|GSN|HMOX1|IGF2R|ITGB1|KRT18|LAPTM5|LCP1|LGMN|LIMK2|LPXN|LRAT|LTBP1|MAGEE1|MSN|MVP|MYC|NDRG1|NDRG2|NFKBIE|NOCT|NOS2|NOX4|NUPR1|PLA2G4A|PLSCR1|PLSCR2|PRKCD|PROCR|PSTPIP1|PTN|RAB40B|RAB8B|S100A11|S100A6|SELENOM|SEZ6|SRD5A1|SYNRG|TLR4|TRF|VIM|YBX1|YWHAZ
+perisynaptic space,GO:0099544,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,PLAT
+peroxisomal matrix,GO:0005782,Liver Cirrhosis,MESH:D008103,0,,1,ATM
+peroxisomal matrix,GO:0005782,"Liver Cirrhosis, Alcoholic",MESH:D008104,0,,1,CAT
+peroxisomal matrix,GO:0005782,"Liver Cirrhosis, Biliary",MESH:D008105,0,,1,NOS2
+peroxisomal matrix,GO:0005782,"Liver Cirrhosis, Experimental",MESH:D008106,0,,9,ACOX2|AMACR|CROT|DAO|HAO1|HAO2|NOS2|OSGIN1|POMC
+peroxisomal membrane,GO:0005778,"Liver Cirrhosis, Alcoholic",MESH:D008104,0,,1,CAT
+peroxisomal membrane,GO:0005778,"Liver Cirrhosis, Experimental",MESH:D008106,0,,4,ACSL1|CAV1|HMGCR|RAB8B
+peroxisome,GO:0005777,Liver Cirrhosis,MESH:D008103,1,perfluorooctane sulfonic acid,1,VIM
+peroxisome,GO:0005777,"Liver Cirrhosis, Alcoholic",MESH:D008104,0,,1,CAT
+peroxisome,GO:0005777,"Liver Cirrhosis, Biliary",MESH:D008105,0,,1,NOS2
+peroxisome,GO:0005777,"Liver Cirrhosis, Experimental",MESH:D008106,0,,12,ACAT1|ACOX2|AMACR|CROT|DAO|GOT1|HAO1|HAO2|MDH1|MYO5A|NOS2|VIM
+phagocytic cup,GO:0001891,Liver Cirrhosis,MESH:D008103,1,bisphenol A,0,
+phagocytic cup,GO:0001891,"Liver Cirrhosis, Alcoholic",MESH:D008104,0,,1,TNF
+phagocytic cup,GO:0001891,"Liver Cirrhosis, Experimental",MESH:D008106,1,bisphenol A,7,AIF1|ANXA1|CELA1|LCP1|RAB31|TLR4|TNF
+phagocytic vesicle,GO:0045335,Liver Cirrhosis,MESH:D008103,0,,1,VIM
+phagocytic vesicle,GO:0045335,"Liver Cirrhosis, Experimental",MESH:D008106,0,,13,APPL1|CAPG|CD36|CTSS|CYBB|FMNL1|GSN|MYO1C|PLD4|RAB31|RAB32|RAB8B|VIM
+phagocytic vesicle lumen,GO:0097013,"Liver Cirrhosis, Alcoholic",MESH:D008104,0,,1,MPO
+phagocytic vesicle membrane,GO:0030670,Liver Cirrhosis,MESH:D008103,0,,2,ATG5|CYBA
+phagocytic vesicle membrane,GO:0030670,"Liver Cirrhosis, Experimental",MESH:D008106,0,,9,ANXA3|CYBA|CYBB|RAB31|RAB32|RAB8B|RAC2|SNAP23|TAP2
+phagophore,GO:0061908,Liver Cirrhosis,MESH:D008103,1,tetramethylpyrazine,0,
+phagophore assembly site,GO:0000407,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,SNX7
+phagophore assembly site membrane,GO:0034045,Liver Cirrhosis,MESH:D008103,0,,1,ATG5
+phosphatidylinositol 3-kinase complex,GO:0005942,"Liver Cirrhosis, Experimental",MESH:D008106,0,,2,SOCS1|SOCS2
+phospholipid-translocating ATPase complex,GO:1990531,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,ATP10D
+photoreceptor outer segment,GO:0001750,"Liver Cirrhosis, Experimental",MESH:D008106,0,,3,MYO5A|PLEKHB1|PTGS1
+photoreceptor outer segment membrane,GO:0042622,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,DHRS3
+plasma membrane,GO:0005886,Copper-Overload Cirrhosis,MESH:C566858,0,,4,KRT19|MET|STAT3|TGFB1
+plasma membrane,GO:0005886,Hypermanganesemia with Dystonia Polycythemia and Cirrhosis,MESH:C548016,0,,1,SLC30A10
+plasma membrane,GO:0005886,Liver Cirrhosis,MESH:D008103,0,,46,ABCB4|ADRA1A|ARRB1|ATP7B|BAMBI|CCN2|CD14|CD9|CDH1|CHRM3|CNR1|CNR2|CP|CTNNB1|CYBA|F2|F2R|F3|F5|FGFR2|FLT1|LDLR|LGALS1|MGLL|MMP2|NFE2L2|NPC1|P2RX7|PLAU|PTEN|REN|SERPING1|SHC1|SLC13A4|SLC17A2|SLC22A8|SLC30A10|SMAD3|SPARC|TGFB1|TGFBR1|TMEM67|TNFRSF1B|TRPM7|VEGFA|VIM
+plasma membrane,GO:0005886,"Liver Cirrhosis, Alcoholic",MESH:D008104,0,,4,MMP2|SMAD3|TGFB1|TNF
+plasma membrane,GO:0005886,"Liver Cirrhosis, Biliary",MESH:D008105,0,,19,ABCB4|ABCC2|ABCG2|CD3D|CD80|CDH5|CXCR5|ENTPD2|ICAM3|IL7R|MMEL1|NFE2L2|NOS3|SLC4A2|SLC51A|SLC51B|TGFB1|TNFRSF1A|TYK2
+plasma membrane,GO:0005886,"Liver Cirrhosis, Experimental",MESH:D008106,0,,331,AADAC|ABCA8A|ABCB1|ABCB1A|ABCC2|ABCC5|ABCG1|ABCG5|ABCG8|ACHE|ACKR3|ACTN1|ADA|ADAM17|ADD3|ADGRE1|ADH1|ADORA2A|ADORA3|ADRA1B|AGTR1A|AHNAK|AIF1|AKTIP|ALDH1B1|AMACR|ANO6|ANXA1|ANXA2|ANXA3|ANXA4|APBB1IP|APP|APPL1|AQP7|ARL11|ARL8A|ARRB2|ATP10D|ATP6V1D|ATRN|AXL|B9D1|BCR|BICD2|BMF|C5AR1|C7|C8G|CASP1|CASP4|CASP7|CAV1|CCN2|CD163|CD200R1|CD200R2|CD24|CD276|CD36|CD38|CD48|CD53|CD5L|CD63|CD68|CD7|CD74|CD83|CD86|CDC42SE1|CDH5|CDO1|CEMIP2|CERK|CES3|CLEC4A|CLEC4F|CLIC1|CLIC2|CNR1|COLEC12|COTL1|CPS1|CRYAB|CSF1R|CTSZ|CXADR|CXCL16|CYBA|CYBB|CYP2C11|CYSTM1|DAO|DCXR|DIO1|DYSF|EGF|ELOVL5|EMB|EMP1|ENPEP|ENPP2|EPB41L2|EPCAM|EZR|F2R|FAS|FAT1|FCER1G|FCGR1A|FCGR3A|FCN1|FGR|FHL1|FLNA|FMNL1|FOLR2|FTCD|FXYD2|FXYD5|FXYD6|FYN|FZD8|GBP4|GFRA1|GH1|GHR|GJA1|GJA4|GLIPR1|GNA14|GNAI2|GNGT2|GPAM|GPNMB|GPR68|GRN|GSN|HAGH|HCK|HIP1|HJV|HPSE|ICAM2|IFITM1|IFNGR1|IFRD1|IGF1|IGF2R|IGFALS|IGSF6|IL2RB|IL2RG|IL7R|ILK|INPP5D|INPPL1|IQGAP1|ITGA2B|ITGAL|ITGB1|ITGB2|ITGB3|ITGB6|IYD|JAK2|KANK1|KCNJ8|KNG1|KRT19|KTN1|LAPTM5|LCN2|LCP1|LGALS1|LGALS3|LIN7A|LPL|LPXN|LRRFIP1|LTB|LTBP1|LY96|MAGEE1|MME|MMP1|MMP15|MMP2|MSN|MYADM|MYO1C|MYO1F|NBEA|NCKAP1L|NDRG1|NECTIN2|NFE2L2|NFKBIA|NID2|NOS3|NOX4|NPDC1|NRG1|NRROS|NSMF|NT5E|OLR59|PAQR9|PDGFRA|PDGFRB|PKD2|PKLR|PLAU|PLEK|PLG|PLIN2|PLPP2|PLSCR1|PLSCR2|PMEPA1|PRKCB|PRKCD|PRLR|PRNP|PROCR|PRTG|PSTPIP1|PTAFR|PTGER2|PTN|PTPN1|PTPRC|PTPRD|PTPRO|RAB31|RAB32|RAB40B|RAB8B|RAC2|RAMP1|RCN2|RECK|RELL1|RGS10|RGS2|RGS3|RGS5|RHOQ|RIT1|ROBO2|RT1-BA|RT1-CE5|RT1-DA|RT1-M3-1|RTN4|S100A10|S100A6|S100A9|S1PR1|SECTM1B|SELENOW|SEMA6D|SEZ6|SGCB|SIGLEC5|SKAP2|SLA|SLC10A1|SLC17A1|SLC17A2|SLC19A2|SLC20A1|SLC22A23|SLC22A8|SLC23A1|SLC25A13|SLC25A4|SLC39A6|SLC39A8|SLC43A2|SLC44A2|SLC46A1|SLC4A4|SLC7A1|SMOC1|SNAP23|SNAP29|SPARC|SPTAN1|SRI|ST14|STAC3|STAU2|STEAP4|STK10|TAX1BP3|TES|TFPI2|TGFB1|TGFB3|TGFBR2|THBD|TLR4|TM6SF1|TMBIM1|TMEM106A|TMEM178|TMEM43|TMEM65|TNF|TNFRSF12A|TRAK2|TRIB3|TRPV1|TSC22D1|TSPAN8|TUSC3|TYROBP|VASP|VAV1|VEGFA|VIM|VIPR1|VOPP1|VSIR|WLS|XPNPEP2|YBX1|ZDHHC2|ZEB2
+plasma membrane bounded cell projection,GO:0120025,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,IQGAP1
+plasma membrane bounded cell projection cytoplasm,GO:0032838,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,AKR1B1
+plasma membrane protein complex,GO:0098797,"Liver Cirrhosis, Experimental",MESH:D008106,0,,5,AHNAK|ANXA2|GFRA1|HJV|S100A10
+plasma membrane raft,GO:0044853,"Liver Cirrhosis, Experimental",MESH:D008106,0,,3,EZR|ITGB2|LCP2
+platelet alpha granule,GO:0031091,Liver Cirrhosis,MESH:D008103,0,,3,F5|SPARC|THBS1
+platelet alpha granule,GO:0031091,"Liver Cirrhosis, Experimental",MESH:D008106,0,,4,IGF1|IGFBP3|SPARC|VWF
+platelet alpha granule lumen,GO:0031093,Copper-Overload Cirrhosis,MESH:C566858,0,,2,HGF|TGFB1
+platelet alpha granule lumen,GO:0031093,Liver Cirrhosis,MESH:D008103,0,,10,A2M|ALB|F5|HGF|SERPINA1|SERPING1|SPARC|TGFB1|THBS1|VEGFA
+platelet alpha granule lumen,GO:0031093,"Liver Cirrhosis, Alcoholic",MESH:D008104,0,,2,TGFB1|TIMP1
+platelet alpha granule lumen,GO:0031093,"Liver Cirrhosis, Biliary",MESH:D008105,0,,2,ALB|TGFB1
+platelet alpha granule lumen,GO:0031093,"Liver Cirrhosis, Experimental",MESH:D008106,0,,20,A2M|ACTN1|ALB|APP|CFD|CYRIB|EGF|HGF|IGF1|KNG1|PDGFA|PLG|SPARC|SRGN|TGFB1|TGFB3|TIMP1|TOR4A|VEGFA|VWF
+platelet alpha granule membrane,GO:0031092,Liver Cirrhosis,MESH:D008103,0,,2,CD9|SPARC
+platelet alpha granule membrane,GO:0031092,"Liver Cirrhosis, Experimental",MESH:D008106,0,,4,CD36|ITGA2B|ITGB3|SPARC
+platelet dense granule lumen,GO:0031089,Liver Cirrhosis,MESH:D008103,0,,1,LGALS3BP
+platelet dense granule lumen,GO:0031089,"Liver Cirrhosis, Experimental",MESH:D008106,0,,2,SELENOP|SERPINA4
+platelet dense granule membrane,GO:0031088,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,CD63
+platelet dense tubular network,GO:0031094,Liver Cirrhosis,MESH:D008103,0,,1,F2R
+platelet dense tubular network,GO:0031094,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,F2R
+platelet-derived growth factor complex,GO:1990265,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,PDGFA
+platelet-derived growth factor receptor-ligand complex,GO:1990270,"Liver Cirrhosis, Experimental",MESH:D008106,0,,2,PDGFA|PDGFRA
+PML body,GO:0016605,Liver Cirrhosis,MESH:D008103,0,,1,PTEN
+PML body,GO:0016605,"Liver Cirrhosis, Experimental",MESH:D008106,0,,5,ISG20|SENP2|SIRT1|SMC5|SP140
+podosome,GO:0002102,"Liver Cirrhosis, Experimental",MESH:D008106,0,,7,CELA1|FLNA|GSN|LCP1|LPXN|TPM3|TPM4
+polycystin complex,GO:0002133,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,PKD2
+polysome,GO:0005844,Liver Cirrhosis,MESH:D008103,1,sodium arsenite,0,
+polytene chromosome,GO:0005700,"Liver Cirrhosis, Experimental",MESH:D008106,0,,2,PC|TRF
+polytene chromosome band,GO:0005704,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,PC
+polytene chromosome puff,GO:0005703,"Liver Cirrhosis, Biliary",MESH:D008105,0,,1,KEAP1
+pore complex,GO:0046930,"Liver Cirrhosis, Alcoholic",MESH:D008104,0,,1,BCL2
+postsynapse,GO:0098794,Copper-Overload Cirrhosis,MESH:C566858,0,,1,MET
+postsynapse,GO:0098794,Liver Cirrhosis,MESH:D008103,0,,6,ATG5|C1QB|CDH1|FGF7|MRTFA|P2RX7
+postsynapse,GO:0098794,"Liver Cirrhosis, Experimental",MESH:D008106,0,,27,APP|APPL1|ARRB2|C1QA|C1QB|C1QC|DOCK10|FLNA|FMNL2|HIP1|IGF1|IQGAP1|JAK2|MYO5A|NRG1|NSMF|PFN1|PLAT|PRAF2|PRNP|PTN|PTPN1|RTN4|SNAP23|SPTAN1|STAU2|VASP
+postsynaptic actin cytoskeleton,GO:0098871,"Liver Cirrhosis, Experimental",MESH:D008106,0,,2,ACTN1|MYO5A
+postsynaptic cytosol,GO:0099524,Liver Cirrhosis,MESH:D008103,0,,1,PTEN
+postsynaptic cytosol,GO:0099524,"Liver Cirrhosis, Experimental",MESH:D008106,0,,2,CAMK2D|PRKCD
+postsynaptic density,GO:0014069,Copper-Overload Cirrhosis,MESH:C566858,0,,2,CASP3|STAT3
+postsynaptic density,GO:0014069,Liver Cirrhosis,MESH:D008103,0,,2,ARRB1|PTEN
+postsynaptic density,GO:0014069,"Liver Cirrhosis, Experimental",MESH:D008106,0,,10,ADD3|ARRB2|BCR|FYN|NSMF|PRNP|RTN4|TAX1BP3|VOPP1|ZDHHC2
+"postsynaptic density, intracellular component",GO:0099092,Liver Cirrhosis,MESH:D008103,0,,1,CTNNB1
+"postsynaptic density, intracellular component",GO:0099092,"Liver Cirrhosis, Experimental",MESH:D008106,0,,3,BCR|FYN|MMP9
+postsynaptic density membrane,GO:0098839,Liver Cirrhosis,MESH:D008103,0,,1,CHRM3
+postsynaptic density membrane,GO:0098839,"Liver Cirrhosis, Experimental",MESH:D008106,0,,5,LIN7A|NRG1|PTPRO|ROBO2|RTN4
+postsynaptic membrane,GO:0045211,Copper-Overload Cirrhosis,MESH:C566858,0,,1,MET
+postsynaptic membrane,GO:0045211,Liver Cirrhosis,MESH:D008103,0,,7,ADRA1A|ARRB1|CHRM3|CNR2|CTNNB1|F2R|PTEN
+postsynaptic membrane,GO:0045211,"Liver Cirrhosis, Experimental",MESH:D008106,0,,14,ACHE|ADORA2A|ARRB2|F2R|FXYD6|HIP1|ITGB1|ITGB3|MAGEE1|NBEA|TAX1BP3|TRPV1|VOPP1|WLS
+postsynaptic recycling endosome,GO:0098837,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,ZDHHC2
+postsynaptic recycling endosome membrane,GO:0098944,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,ZDHHC2
+postsynaptic specialization,GO:0099572,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,YWHAZ
+potassium ion-transporting ATPase complex,GO:0031004,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,KCNJ8
+PRC1 complex,GO:0035102,"Liver Cirrhosis, Experimental",MESH:D008106,0,,2,PC|SAMD11
+"preribosome, large subunit precursor",GO:0030687,"Liver Cirrhosis, Biliary",MESH:D008105,0,,1,NSA2
+"preribosome, large subunit precursor",GO:0030687,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,ADHFE1
+presynapse,GO:0098793,Liver Cirrhosis,MESH:D008103,0,,4,CNR1|MGLL|MRTFA|P2RX7
+presynapse,GO:0098793,"Liver Cirrhosis, Experimental",MESH:D008106,0,,21,AP1S2|AP3S1|APP|APPL1|CD24|CNR1|GRN|HIP1|KCNJ8|LIN7A|MME|PFN1|PRAF2|PRUNE2|PTN|RAB8B|RPH3AL|S1PR1|SNAP23|SNAP29|YWHAG
+presynaptic active zone,GO:0048786,"Liver Cirrhosis, Experimental",MESH:D008106,0,,3,ADORA2A|APP|DAO
+presynaptic active zone cytoplasmic component,GO:0098831,Liver Cirrhosis,MESH:D008103,0,,1,CTNNB1
+presynaptic active zone membrane,GO:0048787,"Liver Cirrhosis, Experimental",MESH:D008106,0,,2,KCNJ8|NRG1
+presynaptic cytosol,GO:0099523,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,PRKCB
+presynaptic membrane,GO:0042734,Liver Cirrhosis,MESH:D008103,0,,4,ADRA1A|CHRM3|CNR1|CTNNB1
+presynaptic membrane,GO:0042734,"Liver Cirrhosis, Experimental",MESH:D008106,0,,9,ACHE|ADORA2A|ADORA3|CNR1|CXADR|FXYD6|HIP1|PTPRD|WLS
+protease inhibitor complex,GO:0097179,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,CASP1
+proteasome activator complex,GO:0008537,"Liver Cirrhosis, Experimental",MESH:D008106,0,,2,G6PC1|PSME2
+proteasome complex,GO:0000502,"Liver Cirrhosis, Experimental",MESH:D008106,0,,4,PSMB10|PSMB8|PSMB9|PSME2
+proteasome core complex,GO:0005839,Liver Cirrhosis,MESH:D008103,1,Thioctic Acid,0,
+proteasome core complex,GO:0005839,"Liver Cirrhosis, Experimental",MESH:D008106,1,Curcumin,3,PSMB10|PSMB8|PSMB9
+"proteasome core complex, beta-subunit complex",GO:0019774,"Liver Cirrhosis, Experimental",MESH:D008106,0,,3,PSMB10|PSMB8|PSMB9
+protein complex involved in cell adhesion,GO:0098636,"Liver Cirrhosis, Biliary",MESH:D008105,0,,1,CD80
+protein complex involved in cell-matrix adhesion,GO:0098637,Liver Cirrhosis,MESH:D008103,0,,2,PLAU|VTN
+protein complex involved in cell-matrix adhesion,GO:0098637,"Liver Cirrhosis, Experimental",MESH:D008106,0,,2,NID1|PLAU
+protein-containing complex,GO:0032991,"Cirrhosis, Familial",MESH:C566123,0,,1,KRT18
+protein-containing complex,GO:0032991,Copper-Overload Cirrhosis,MESH:C566858,0,,3,ACTA2|SMAD2|STAT3
+protein-containing complex,GO:0032991,Liver Cirrhosis,MESH:D008103,0,,15,ACTA2|AHR|ALB|ATG5|CD9|CTNNB1|FOXO3|HDAC2|HIF1A|JUND|KRT18|NPPA|P2RX7|STAT1|TGFBR1
+protein-containing complex,GO:0032991,"Liver Cirrhosis, Alcoholic",MESH:D008104,0,,4,BCL2|CAT|RELA|TNF
+protein-containing complex,GO:0032991,"Liver Cirrhosis, Biliary",MESH:D008105,0,,8,ALB|HIF1A|KEAP1|NFKB1|RELA|SLC51A|SLC51B|TNFRSF1A
+protein-containing complex,GO:0032991,"Liver Cirrhosis, Experimental",MESH:D008106,0,,72,ACTA2|ADIPOQ|ALB|ALDH1L1|ANXA1|ANXA2|APAF1|APP|BCR|BIRC3|CAMK2D|CASP1|CASP4|CAV1|CD36|CD48|CD63|CD74|CDKN1A|COL6A1|COL6A2|CPS1|CRTAP|CRYAB|CXADR|DPYS|DYSF|EZR|GCHFR|GJA1|GSN|GSTM1|ID2|IFI204|IFITM1|IKBKG|ILK|IQGAP1|ITGB3|KCNJ8|KRT18|LAPTM5|LBH|LMO2|LTBP1|MGP|MID1IP1|MMP9|MYC|NCOR2|NEK6|NFKBIA|NR0B2|PDGFRA|PTGS2|PTN|PTPN1|PYCARD|RELA|RTN4|SIRT1|SLC7A1|SMAD2|SMAD4|SPTAN1|SREBF1|STAU2|TES|TNF|TPM1|YBX1|YWHAZ
+protein-DNA complex,GO:0032993,Liver Cirrhosis,MESH:D008103,0,,3,CTNNB1|JUND|NFE2L2
+protein-DNA complex,GO:0032993,"Liver Cirrhosis, Biliary",MESH:D008105,0,,1,NFE2L2
+protein-DNA complex,GO:0032993,"Liver Cirrhosis, Experimental",MESH:D008106,0,,3,FOS|NFE2L2|NUPR1
+protein kinase CK2 complex,GO:0005956,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,GALC
+protein phosphatase type 1 complex,GO:0000164,"Liver Cirrhosis, Experimental",MESH:D008106,0,,2,PPP1R3B|PPP1R3C
+proton-transporting V-type ATPase complex,GO:0033176,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,ATP6V1D
+"proton-transporting V-type ATPase, V1 domain",GO:0033180,"Liver Cirrhosis, Experimental",MESH:D008106,0,,2,ATP6V1D|RNASE4
+pseudopodium,GO:0031143,Copper-Overload Cirrhosis,MESH:C566858,1,Copper,0,
+pseudopodium,GO:0031143,Liver Cirrhosis,MESH:D008103,1,Copper,1,ARRB1
+pseudopodium,GO:0031143,"Liver Cirrhosis, Biliary",MESH:D008105,1,Copper,0,
+pseudopodium,GO:0031143,"Liver Cirrhosis, Experimental",MESH:D008106,0,,3,ACTN1|CNP|MSN
+pyruvate kinase complex,GO:1902912,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,PKLR
+Ragulator complex,GO:0071986,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,FRY
+rDNA heterochromatin,GO:0033553,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,SIRT1
+receptor complex,GO:0043235,Copper-Overload Cirrhosis,MESH:C566858,0,,1,MET
+receptor complex,GO:0043235,Liver Cirrhosis,MESH:D008103,0,,5,FGFR2|FLT1|LDLR|SMAD3|TGFBR1
+receptor complex,GO:0043235,"Liver Cirrhosis, Alcoholic",MESH:D008104,0,,1,SMAD3
+receptor complex,GO:0043235,"Liver Cirrhosis, Biliary",MESH:D008105,0,,2,TNFRSF1A|TYK2
+receptor complex,GO:0043235,"Liver Cirrhosis, Experimental",MESH:D008106,0,,23,ABCG5|ABCG8|APP|AXL|CD200R1|CD36|CSF1R|GFRA1|GHR|HCK|ITGB1|ITGB2|ITGB3|ITGB6|LY96|PDGFRA|PDGFRB|PRLR|PTPRD|RAMP1|TGFBR2|TLR4|VIPR1
+recycling endosome,GO:0055037,Copper-Overload Cirrhosis,MESH:C566858,0,,1,COMMD1
+recycling endosome,GO:0055037,Hypermanganesemia with Dystonia Polycythemia and Cirrhosis,MESH:C548016,0,,1,SLC30A10
+recycling endosome,GO:0055037,Liver Cirrhosis,MESH:D008103,0,,2,COMMD1|SLC30A10
+recycling endosome,GO:0055037,"Liver Cirrhosis, Alcoholic",MESH:D008104,0,,1,TNF
+recycling endosome,GO:0055037,"Liver Cirrhosis, Experimental",MESH:D008106,0,,9,ABCG1|ACKR3|AGTR1A|APP|BLOC1S2|ITGB1|MYO5A|TNF|TRF
+recycling endosome membrane,GO:0055038,Hypermanganesemia with Dystonia Polycythemia and Cirrhosis,MESH:C548016,0,,1,SLC30A10
+recycling endosome membrane,GO:0055038,Liver Cirrhosis,MESH:D008103,0,,2,LDLR|SLC30A10
+recycling endosome membrane,GO:0055038,"Liver Cirrhosis, Experimental",MESH:D008106,0,,3,NDRG1|RAB8B|ZDHHC2
+replication fork,GO:0005657,Liver Cirrhosis,MESH:D008103,0,,1,HDAC2
+respiratory chain complex IV,GO:0045277,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,ASAH1
+ribonucleoprotein complex,GO:1990904,Liver Cirrhosis,MESH:D008103,0,,1,RGN
+ribonucleoprotein complex,GO:1990904,"Liver Cirrhosis, Biliary",MESH:D008105,0,,1,NSA2
+ribonucleoprotein complex,GO:1990904,"Liver Cirrhosis, Experimental",MESH:D008106,0,,10,AQP7|CELF2|DIO1|GGH|IQGAP1|MVP|MYO5A|RGN|TIAL1|YBX1
+ribosome,GO:0005840,Copper-Overload Cirrhosis,MESH:C566858,0,,1,COMMD1
+ribosome,GO:0005840,Liver Cirrhosis,MESH:D008103,0,,2,ATM|COMMD1
+ribosome,GO:0005840,"Liver Cirrhosis, Experimental",MESH:D008106,0,,10,APOBEC1|BICD2|IFI35|IQGAP1|NT5E|PTRH1|SLC25A13|SMOC2|TBC1D9|ZDHHC13
+ripoptosome,GO:0097342,Liver Cirrhosis,MESH:D008103,3,Ethanol|Metformin|Simvastatin,0,
+ripoptosome,GO:0097342,"Liver Cirrhosis, Alcoholic",MESH:D008104,1,Ethanol,0,
+ripoptosome,GO:0097342,"Liver Cirrhosis, Experimental",MESH:D008106,1,Ethanol,0,
+RISC complex,GO:0016442,Liver Cirrhosis,MESH:D008103,0,,11,MIR215|MIR29C|MIR302C|MIR30B|MIR30C-1|MIR30C2|MIR345|MIR376C|MIR503|MIR764|MIR942
+RISC complex,GO:0016442,"Liver Cirrhosis, Alcoholic",MESH:D008104,0,,8,MIR141|MIR17|MIR338|MIR423|MIR484|MIR532|MIR589|MIR93
+"RNA polymerase II, core complex",GO:0005665,Liver Cirrhosis,MESH:D008103,0,,1,LDLR
+RNA polymerase II transcription regulator complex,GO:0090575,Copper-Overload Cirrhosis,MESH:C566858,0,,1,STAT3
+RNA polymerase II transcription regulator complex,GO:0090575,Liver Cirrhosis,MESH:D008103,0,,6,ARNT|CTNNB1|HIF1A|JUND|NFE2L2|STAT1
+RNA polymerase II transcription regulator complex,GO:0090575,"Liver Cirrhosis, Biliary",MESH:D008105,0,,3,HIF1A|NFE2L2|STAT4
+RNA polymerase II transcription regulator complex,GO:0090575,"Liver Cirrhosis, Experimental",MESH:D008106,0,,8,ANXA2|ATF3|CEBPD|FOS|JDP2|NFE2L2|S100A10|SMAD4
+RNA polymerase II transcription repressor complex,GO:0090571,Liver Cirrhosis,MESH:D008103,0,,2,FOXO3|HDAC2
+RNA polymerase II transcription repressor complex,GO:0090571,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,MYC
+rough endoplasmic reticulum,GO:0005791,Liver Cirrhosis,MESH:D008103,0,,1,PLOD2
+rough endoplasmic reticulum,GO:0005791,"Liver Cirrhosis, Experimental",MESH:D008106,0,,4,LRAT|MYC|MYOC|PLOD2
+rough endoplasmic reticulum lumen,GO:0048237,Liver Cirrhosis,MESH:D008103,0,,1,VTN
+rough endoplasmic reticulum lumen,GO:0048237,"Liver Cirrhosis, Experimental",MESH:D008106,0,,2,ACHE|EDN1
+rough endoplasmic reticulum membrane,GO:0030867,Liver Cirrhosis,MESH:D008103,0,,1,PLOD2
+rough endoplasmic reticulum membrane,GO:0030867,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,PLOD2
+RSC-type complex,GO:0016586,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,SMARCC1
+ruffle,GO:0001726,Liver Cirrhosis,MESH:D008103,0,,1,TRPM7
+ruffle,GO:0001726,"Liver Cirrhosis, Experimental",MESH:D008106,0,,19,ACTN1|AIF1|ANXA2|APPL1|CAPG|EZR|GSN|IQGAP1|ITGB1|LCP1|MYADM|MYO1C|MYO5A|PDGFRB|S100A11|S100A6|TLR4|TNFRSF12A|WIPF1
+ruffle membrane,GO:0032587,"Liver Cirrhosis, Experimental",MESH:D008106,0,,12,ADAM17|AIF1|EZR|FGR|ITGB1|ITGB3|KANK1|LCP1|MYO1C|PLEK|SH3BGRL3|TPM1
+ryanodine receptor complex,GO:1990425,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,FKBP1A
+S100A9 complex,GO:1990662,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,S100A9
+sarcoglycan complex,GO:0016012,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,SGCB
+sarcolemma,GO:0042383,Copper-Overload Cirrhosis,MESH:C566858,0,,1,KRT19
+sarcolemma,GO:0042383,Liver Cirrhosis,MESH:D008103,0,,2,KRT8|PEMT
+sarcolemma,GO:0042383,"Liver Cirrhosis, Biliary",MESH:D008105,0,,1,NOS3
+sarcolemma,GO:0042383,"Liver Cirrhosis, Experimental",MESH:D008106,0,,22,ACTN1|AHNAK|ANXA1|ANXA2|ANXA5|BGN|CAMK2D|CAV1|CD36|COL6A1|COL6A2|DYSF|FAS|ILK|ITGB1|KCNJ8|KRT19|KRT8|NOS3|PKD2|SGCB|STAC3
+sarcomere,GO:0030017,Liver Cirrhosis,MESH:D008103,0,,1,MMP2
+sarcomere,GO:0030017,"Liver Cirrhosis, Alcoholic",MESH:D008104,0,,1,MMP2
+sarcomere,GO:0030017,"Liver Cirrhosis, Experimental",MESH:D008106,0,,6,ACTN1|CAR3|ILK|MMP2|PKD2|TPM1
+sarcoplasm,GO:0016528,"Liver Cirrhosis, Experimental",MESH:D008106,0,,2,GSN|IFRD1
+sarcoplasmic reticulum,GO:0016529,Liver Cirrhosis,MESH:D008103,0,,1,THBS1
+sarcoplasmic reticulum,GO:0016529,"Liver Cirrhosis, Experimental",MESH:D008106,0,,7,AGL|COL6A1|FKBP1A|NOX4|PKD2|REEP5|SRI
+sarcoplasmic reticulum membrane,GO:0033017,"Liver Cirrhosis, Experimental",MESH:D008106,0,,5,CAMK2D|FKBP1A|PKD2|REEP5|SRI
+SCAR complex,GO:0031209,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,NCKAP1L
+SCF ubiquitin ligase complex,GO:0019005,"Liver Cirrhosis, Experimental",MESH:D008106,0,,3,FBXO9|SPSB4|TMSB10
+Schaffer collateral - CA1 synapse,GO:0098685,Copper-Overload Cirrhosis,MESH:C566858,0,,1,STAT3
+Schaffer collateral - CA1 synapse,GO:0098685,Liver Cirrhosis,MESH:D008103,0,,2,ATG5|CTNNB1
+Schaffer collateral - CA1 synapse,GO:0098685,"Liver Cirrhosis, Experimental",MESH:D008106,0,,12,ADORA3|BCR|FYN|HIP1|ITGB1|MMP9|MYO5A|PFN1|PLAT|PLG|PTN|PTPRD
+Schmidt-Lanterman incisure,GO:0043220,Liver Cirrhosis,MESH:D008103,0,,2,CDH1|PTEN
+Schmidt-Lanterman incisure,GO:0043220,"Liver Cirrhosis, Experimental",MESH:D008106,0,,3,AKR1B1|ANXA2|MYOC
+Schwann cell microvillus,GO:0097454,"Liver Cirrhosis, Experimental",MESH:D008106,0,,2,AKR1B1|EZR
+Scrib-APC-beta-catenin complex,GO:0034750,Liver Cirrhosis,MESH:D008103,0,,1,CTNNB1
+secretory granule,GO:0030141,Copper-Overload Cirrhosis,MESH:C566858,0,,1,TGFB1
+secretory granule,GO:0030141,Liver Cirrhosis,MESH:D008103,0,,5,COL1A1|CYBA|TGFB1|THBS1|VEGFA
+secretory granule,GO:0030141,"Liver Cirrhosis, Alcoholic",MESH:D008104,0,,3,MPO|TGFB1|TNF
+secretory granule,GO:0030141,"Liver Cirrhosis, Biliary",MESH:D008105,0,,1,TGFB1
+secretory granule,GO:0030141,"Liver Cirrhosis, Experimental",MESH:D008106,0,,17,ACTN1|CFP|COL1A1|CYBA|FAS|GCK|GH1|IL1B|MYO5A|PLAT|POMC|RPH3AL|SRGN|TGFB1|TGFB3|TNF|VEGFA
+secretory granule lumen,GO:0034774,Liver Cirrhosis,MESH:D008103,0,,1,ALAD
+secretory granule lumen,GO:0034774,"Liver Cirrhosis, Alcoholic",MESH:D008104,0,,1,CAT
+secretory granule lumen,GO:0034774,"Liver Cirrhosis, Biliary",MESH:D008105,0,,2,MAPK14|NFKB1
+secretory granule lumen,GO:0034774,"Liver Cirrhosis, Experimental",MESH:D008106,0,,16,ADM|AGL|APAF1|ARHGAP9|CFD|COTL1|FCN1|FGR|GMFG|GSN|INS|MVP|POMC|PYCARD|S100A11|S100A9
+secretory granule membrane,GO:0030667,Liver Cirrhosis,MESH:D008103,0,,1,CD14
+secretory granule membrane,GO:0030667,"Liver Cirrhosis, Experimental",MESH:D008106,0,,11,C5AR1|IGF2R|IQGAP1|LGALS3|MME|NCKAP1L|PTAFR|PTPRC|RAB31|SIGLEC5|TYROBP
+semaphorin receptor complex,GO:0002116,Copper-Overload Cirrhosis,MESH:C566858,0,,1,MET
+serine protease inhibitor complex,GO:0097180,Liver Cirrhosis,MESH:D008103,0,,1,PLAU
+serine protease inhibitor complex,GO:0097180,"Liver Cirrhosis, Experimental",MESH:D008106,0,,2,PLAT|PLAU
+serine-type endopeptidase complex,GO:1905370,Liver Cirrhosis,MESH:D008103,0,,1,PLAU
+serine-type endopeptidase complex,GO:1905370,"Liver Cirrhosis, Experimental",MESH:D008106,0,,3,FCN1|PLAU|THBD
+serine-type peptidase complex,GO:1905286,Liver Cirrhosis,MESH:D008103,0,,1,F3
+sex chromosome,GO:0000803,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,SMC5
+Shc-EGFR complex,GO:0070435,Liver Cirrhosis,MESH:D008103,0,,1,SHC1
+side of membrane,GO:0098552,"Liver Cirrhosis, Experimental",MESH:D008106,0,,8,ACHE|CD48|GFRA1|HJV|NT5E|PRNP|RECK|XPNPEP2
+Sin3-type complex,GO:0070822,Liver Cirrhosis,MESH:D008103,0,,1,HDAC2
+site of double-strand break,GO:0035861,Liver Cirrhosis,MESH:D008103,1,Luteolin,1,ATM
+site of double-strand break,GO:0035861,"Liver Cirrhosis, Experimental",MESH:D008106,1,Curcumin,2,PLEK|SMC5
+site of polarized growth,GO:0030427,"Liver Cirrhosis, Experimental",MESH:D008106,0,,3,COTL1|FRY|VOPP1
+slit diaphragm,GO:0036057,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,IQGAP1
+SMAD protein complex,GO:0071141,Copper-Overload Cirrhosis,MESH:C566858,0,,1,SMAD2
+SMAD protein complex,GO:0071141,Liver Cirrhosis,MESH:D008103,0,,1,SMAD3
+SMAD protein complex,GO:0071141,"Liver Cirrhosis, Alcoholic",MESH:D008104,0,,1,SMAD3
+SMAD protein complex,GO:0071141,"Liver Cirrhosis, Experimental",MESH:D008106,0,,2,SMAD2|SMAD4
+small ribosomal subunit,GO:0015935,Liver Cirrhosis,MESH:D008103,1,sodium arsenite,0,
+Smc5-Smc6 complex,GO:0030915,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,SMC5
+smooth endoplasmic reticulum,GO:0005790,"Liver Cirrhosis, Experimental",MESH:D008106,0,,2,APP|MYO5A
+smooth endoplasmic reticulum membrane,GO:0030868,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,FTCD
+smooth muscle contractile fiber,GO:0030485,Copper-Overload Cirrhosis,MESH:C566858,0,,1,ACTA2
+smooth muscle contractile fiber,GO:0030485,Liver Cirrhosis,MESH:D008103,0,,1,ACTA2
+smooth muscle contractile fiber,GO:0030485,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,ACTA2
+smooth muscle dense body,GO:0030486,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,ACTN1
+SNARE complex,GO:0031201,"Liver Cirrhosis, Experimental",MESH:D008106,0,,2,SNAP23|SNAP29
+sodium channel complex,GO:0034706,"Liver Cirrhosis, Biliary",MESH:D008105,0,,1,TNFRSF1A
+sodium:potassium-exchanging ATPase complex,GO:0005890,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,FXYD2
+somatodendritic compartment,GO:0036477,Liver Cirrhosis,MESH:D008103,0,,1,LDLR
+sorting endosome,GO:0097443,Liver Cirrhosis,MESH:D008103,0,,1,LDLR
+sorting endosome,GO:0097443,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,PTPN1
+specific granule,GO:0042581,"Liver Cirrhosis, Experimental",MESH:D008106,0,,2,ANXA3|SNAP23
+specific granule lumen,GO:0035580,"Liver Cirrhosis, Biliary",MESH:D008105,0,,1,NFKB1
+specific granule lumen,GO:0035580,"Liver Cirrhosis, Experimental",MESH:D008106,0,,9,CFP|CTSZ|CXCL1|GGH|HPSE|LCN2|MMP8|SPTAN1|TIMP2
+specific granule membrane,GO:0035579,Liver Cirrhosis,MESH:D008103,0,,3,CYBA|PLAU|TNFRSF1B
+specific granule membrane,GO:0035579,"Liver Cirrhosis, Experimental",MESH:D008106,0,,13,ANO6|ATP6V1D|CD36|CD53|CYBA|CYBB|ITGAL|ITGB2|PLAU|SLC44A2|SNAP23|STK10|TMBIM1
+spectrin,GO:0008091,"Liver Cirrhosis, Experimental",MESH:D008106,0,,3,EPB41L2|PRKCB|SPTAN1
+spermatoproteasome complex,GO:1990111,"Liver Cirrhosis, Experimental",MESH:D008106,0,,3,PSMB10|PSMB8|PSMB9
+sperm flagellum,GO:0036126,Copper-Overload Cirrhosis,MESH:C566858,0,,1,MET
+sperm flagellum,GO:0036126,Liver Cirrhosis,MESH:D008103,3,bisphenol A|Chlorpyrifos|Gallic Acid,0,
+sperm flagellum,GO:0036126,"Liver Cirrhosis, Experimental",MESH:D008106,1,bisphenol A,1,PKD2
+sperm head,GO:0061827,Liver Cirrhosis,MESH:D008103,3,bisphenol A|Chlorpyrifos|Gallic Acid,0,
+sperm head,GO:0061827,"Liver Cirrhosis, Experimental",MESH:D008106,1,bisphenol A,0,
+sperm head plasma membrane,GO:1990913,Liver Cirrhosis,MESH:D008103,1,bisphenol A,0,
+sperm head plasma membrane,GO:1990913,"Liver Cirrhosis, Experimental",MESH:D008106,1,bisphenol A,0,
+sperm midpiece,GO:0097225,Liver Cirrhosis,MESH:D008103,2,Chlorpyrifos|Gallic Acid,0,
+spindle,GO:0005819,Liver Cirrhosis,MESH:D008103,0,,1,ATM
+spindle,GO:0005819,"Liver Cirrhosis, Experimental",MESH:D008106,0,,3,LIMK2|MYC|SHCBP1
+spindle microtubule,GO:0005876,"Liver Cirrhosis, Experimental",MESH:D008106,0,,4,BIRC3|CDK1|PKD2|RMDN2
+spindle midzone,GO:0051233,"Liver Cirrhosis, Experimental",MESH:D008106,0,,2,APP|ARL8A
+spindle pole,GO:0000922,Liver Cirrhosis,MESH:D008103,0,,1,CTNNB1
+spindle pole,GO:0000922,"Liver Cirrhosis, Biliary",MESH:D008105,0,,1,MAPK14
+spindle pole,GO:0000922,"Liver Cirrhosis, Experimental",MESH:D008106,0,,6,FRY|IKBKG|INPPL1|MIS12|NEK6|RMDN2
+spliceosomal complex,GO:0005681,"Liver Cirrhosis, Experimental",MESH:D008106,0,,2,LGALS3|RBM3
+SREBP-SCAP-Insig complex,GO:0032937,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,INSIG2
+stereocilia ankle link complex,GO:0002142,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,TAX1BP3
+stereocilium,GO:0032420,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,MYO1C
+stereocilium bundle,GO:0032421,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,MYO1C
+stereocilium membrane,GO:0060171,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,MYO1C
+stereocilium tip,GO:0032426,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,TAX1BP3
+stress fiber,GO:0001725,Copper-Overload Cirrhosis,MESH:C566858,0,,1,ACTA2
+stress fiber,GO:0001725,Liver Cirrhosis,MESH:D008103,0,,2,ACTA2|CYBA
+stress fiber,GO:0001725,"Liver Cirrhosis, Experimental",MESH:D008106,0,,15,ABLIM3|ACTA2|ACTN1|ANXA2|CTTNBP2NL|CYBA|ILK|LCP1|LPXN|MYL9|NOX4|PSTPIP1|TPM1|TPM3|TPM4
+SWI/SNF complex,GO:0016514,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,SMARCC1
+SWI/SNF superfamily-type complex,GO:0070603,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,SMARCC1
+symbiont cell surface,GO:0106139,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,GBP2
+symbiont-containing vacuole membrane,GO:0020005,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,GBP2
+synapse,GO:0045202,Liver Cirrhosis,MESH:D008103,1,sodium arsenite,12,ATG5|C1QB|CHRM3|CNR1|CNR2|CTNNB1|F2R|MGLL|MIR153|P2RX7|PTEN|SPARC
+synapse,GO:0045202,"Liver Cirrhosis, Alcoholic",MESH:D008104,0,,1,RELA
+synapse,GO:0045202,"Liver Cirrhosis, Biliary",MESH:D008105,0,,1,RELA
+synapse,GO:0045202,"Liver Cirrhosis, Experimental",MESH:D008106,1,Curcumin,43,ABLIM3|ACHE|ACTN1|ADORA3|ALDH1A1|APOA4|APP|ARL8A|BCR|C1QA|C1QB|C1QC|CD53|CES3|CNP|CNR1|DAO|EMB|F2R|FKBP1A|GLS|GRN|ITGB1|ITGB3|LIN7A|MAP1LC3A|MME|NRG1|NSMF|PALMD|PTPRC|RAB30|RELA|RGS10|RTN4|SMARCC1|SNAP23|SPARC|STAC3|TRPV1|YBX1|YWHAG|ZDHHC2
+synaptic cleft,GO:0043083,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,ACHE
+synaptic membrane,GO:0097060,"Liver Cirrhosis, Experimental",MESH:D008106,0,,7,ANO6|ANXA1|CRYAB|ITGB1|ITGB3|NT5E|RAMP1
+synaptic vesicle,GO:0008021,"Liver Cirrhosis, Experimental",MESH:D008106,0,,9,ANXA5|AP3S1|APP|DDC|MME|MYO5A|RAB40B|RAB8B|SNAP29
+synaptic vesicle membrane,GO:0030672,Liver Cirrhosis,MESH:D008103,0,,1,TRPM7
+synaptic vesicle membrane,GO:0030672,"Liver Cirrhosis, Experimental",MESH:D008106,0,,3,ANXA5|RAB30|WLS
+synaptobrevin 2-SNAP-25-syntaxin-1a-complexin I complex,GO:0070032,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,SNAP23
+synaptonemal complex,GO:0000795,Copper-Overload Cirrhosis,MESH:C566858,0,,1,KRT7
+synaptonemal complex,GO:0000795,"Liver Cirrhosis, Biliary",MESH:D008105,0,,1,KRT7
+TAP complex,GO:0042825,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,TAP2
+T cell receptor complex,GO:0042101,"Liver Cirrhosis, Biliary",MESH:D008105,0,,1,CD3D
+T cell receptor complex,GO:0042101,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,APBB1IP
+TCR signalosome,GO:0036398,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,LCP2
+telopode,GO:0120327,Liver Cirrhosis,MESH:D008103,2,Arsenic|sodium arsenite,0,
+terminal bouton,GO:0043195,Liver Cirrhosis,MESH:D008103,0,,1,P2RX7
+terminal bouton,GO:0043195,"Liver Cirrhosis, Experimental",MESH:D008106,0,,3,ACHE|ILK|PRNP
+terminal cisterna,GO:0014802,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,FKBP1A
+terminal web,GO:1990357,Copper-Overload Cirrhosis,MESH:C566858,0,,1,KRT19
+terminal web,GO:1990357,"Liver Cirrhosis, Experimental",MESH:D008106,0,,2,ACTN1|KRT19
+tertiary granule lumen,GO:1904724,"Liver Cirrhosis, Experimental",MESH:D008106,0,,10,ASAH1|CFP|CTSS|CXCL1|GGH|LTA4H|MMP8|MMP9|SPTAN1|TIMP2
+tertiary granule membrane,GO:0070821,Liver Cirrhosis,MESH:D008103,0,,2,CYBA|PLAU
+tertiary granule membrane,GO:0070821,"Liver Cirrhosis, Experimental",MESH:D008106,0,,11,ANO6|CD53|CYBA|CYBB|CYSTM1|FCER1G|ITGB2|PLAU|PTAFR|SIGLEC5|SNAP23
+tight junction,GO:0070160,Liver Cirrhosis,MESH:D008103,0,,2,ATP7B|CTNNB1
+tight junction,GO:0070160,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,GJA1
+TRAF2-GSTP1 complex,GO:0097057,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,GSTP3
+transcription elongation factor complex,GO:0008023,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,ISYNA1
+transcription factor AP-1 complex,GO:0035976,Liver Cirrhosis,MESH:D008103,1,platycodin D,1,JUND
+transcription factor AP-1 complex,GO:0035976,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,FOS
+transcription factor TFIID complex,GO:0005669,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,TRF
+transcription regulator complex,GO:0005667,Copper-Overload Cirrhosis,MESH:C566858,0,,3,MET|SMAD2|STAT3
+transcription regulator complex,GO:0005667,Liver Cirrhosis,MESH:D008103,0,,9,AHR|ARNT|CTNNB1|HDAC2|HIF1A|JUND|KLF5|NFE2L2|SMAD3
+transcription regulator complex,GO:0005667,"Liver Cirrhosis, Alcoholic",MESH:D008104,0,,2,RELA|SMAD3
+transcription regulator complex,GO:0005667,"Liver Cirrhosis, Biliary",MESH:D008105,0,,5,HIF1A|NFE2L2|NFKB1|RELA|SPIB
+transcription regulator complex,GO:0005667,"Liver Cirrhosis, Experimental",MESH:D008106,0,,17,DYSF|FOS|FOXA2|LMO2|NFE2L2|NPAS2|RBL2|RELA|SDR42E1|SMAD2|SMAD4|SOX4|TCF4|THYN1|TRF|ZBTB4|ZFP37
+transcription repressor complex,GO:0017053,Liver Cirrhosis,MESH:D008103,0,,2,HDAC2|JUND
+transcription repressor complex,GO:0017053,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,NCOR2
+transferase complex,GO:1990234,Liver Cirrhosis,MESH:D008103,0,,1,ATG5
+transforming growth factor beta ligand-receptor complex,GO:0070021,Liver Cirrhosis,MESH:D008103,0,,1,TGFBR1
+transforming growth factor beta ligand-receptor complex,GO:0070021,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,TGFBR2
+trans-Golgi network,GO:0005802,Liver Cirrhosis,MESH:D008103,0,,4,ATP7B|CDH1|POSTN|RGN
+trans-Golgi network,GO:0005802,"Liver Cirrhosis, Experimental",MESH:D008106,0,,13,AP3S1|FLNA|GCNT1|GH1|GRN|IGF2R|MME|NBEA|RAB30|RAB31|RAB32|RGN|WLS
+trans-Golgi network membrane,GO:0032588,Liver Cirrhosis,MESH:D008103,0,,1,ATP7B
+trans-Golgi network membrane,GO:0032588,"Liver Cirrhosis, Experimental",MESH:D008106,0,,7,AP1S2|APP|CD74|IGF2R|PLD4|RAB31|TMEM165
+trans-Golgi network transport vesicle,GO:0030140,Liver Cirrhosis,MESH:D008103,0,,1,RGN
+trans-Golgi network transport vesicle,GO:0030140,"Liver Cirrhosis, Experimental",MESH:D008106,0,,3,IGF2R|RAB8B|RGN
+translation initiation complex,GO:0070992,Liver Cirrhosis,MESH:D008103,1,bisphenol A,0,
+translation initiation complex,GO:0070992,"Liver Cirrhosis, Experimental",MESH:D008106,1,bisphenol A,0,
+transport vesicle,GO:0030133,"Liver Cirrhosis, Experimental",MESH:D008106,0,,9,AP3S1|BGN|EDN1|HCK|IGF2R|IL33|INS|LAPTM5|PLIN3
+transport vesicle membrane,GO:0030658,"Liver Cirrhosis, Experimental",MESH:D008106,0,,3,CD74|LIN7A|RPH3AL
+tRNA-intron endonuclease complex,GO:0000214,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,CLP1
+T-tubule,GO:0030315,Liver Cirrhosis,MESH:D008103,0,,1,ADRA1A
+T-tubule,GO:0030315,"Liver Cirrhosis, Experimental",MESH:D008106,0,,9,ADRA1B|AHNAK|CAMK2D|DYSF|EZR|MSN|SRI|STAC3|TGFB3
+tubulin complex,GO:0045298,Liver Cirrhosis,MESH:D008103,1,Particulate Matter,0,
+tubulobulbar complex,GO:0036284,"Liver Cirrhosis, Experimental",MESH:D008106,1,Estradiol,1,ARPC1B
+tumor necrosis factor receptor superfamily complex,GO:0002947,Liver Cirrhosis,MESH:D008103,0,,1,TNFRSF1B
+tumor necrosis factor receptor superfamily complex,GO:0002947,"Liver Cirrhosis, Biliary",MESH:D008105,0,,1,TNFRSF1A
+type III intermediate filament,GO:0045098,Liver Cirrhosis,MESH:D008103,0,,1,VIM
+type III intermediate filament,GO:0045098,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,VIM
+U12-type spliceosomal complex,GO:0005689,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,YBX1
+U2 snRNP,GO:0005686,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,U2SURP
+ubiquitin ligase complex,GO:0000151,"Liver Cirrhosis, Experimental",MESH:D008106,0,,2,FBXO9|IKBKG
+unconventional myosin complex,GO:0016461,"Liver Cirrhosis, Experimental",MESH:D008106,0,,3,MYO1C|MYO1F|MYO5A
+uniplex complex,GO:1990246,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,SLC25A13
+uropod,GO:0001931,"Liver Cirrhosis, Experimental",MESH:D008106,0,,4,EZR|ICAM2|MSN|PSTPIP1
+vacuolar membrane,GO:0005774,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,THBD
+"vacuolar proton-transporting V-type ATPase, V1 domain",GO:0000221,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,ATP6V1D
+vacuole,GO:0005773,"Liver Cirrhosis, Experimental",MESH:D008106,0,,2,CD74|GGH
+varicosity,GO:0043196,Liver Cirrhosis,MESH:D008103,0,,3,MGLL|TNFRSF1B|TRPM7
+VEGF-A complex,GO:1990150,Liver Cirrhosis,MESH:D008103,0,,1,VEGFA
+VEGF-A complex,GO:1990150,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,VEGFA
+very-low-density lipoprotein particle,GO:0034361,Liver Cirrhosis,MESH:D008103,3,Choline|chrysin|Methionine,0,
+very-low-density lipoprotein particle,GO:0034361,"Liver Cirrhosis, Experimental",MESH:D008106,2,Choline|Methionine,4,APOA4|APOL9A|APP|LPL
+vesicle,GO:0031982,Liver Cirrhosis,MESH:D008103,0,,4,NPC1|SPARC|SPP1|VEGFA
+vesicle,GO:0031982,"Liver Cirrhosis, Biliary",MESH:D008105,0,,1,CLEC16A
+vesicle,GO:0031982,"Liver Cirrhosis, Experimental",MESH:D008106,0,,18,AHNAK|ANXA2|BMP7|DPP7|GGTA1|GRN|IFNGR1|IL1B|MYO1C|MYO1F|MYO5A|RAB30|RAB32|SPARC|SRI|TRF|VEGFA|YWHAG
+vesicle coat,GO:0030120,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,TRF
+vesicle membrane,GO:0012506,"Liver Cirrhosis, Experimental",MESH:D008106,0,,3,ANXA4|APPL1|GBP2
+viral capsid,GO:0019028,Liver Cirrhosis,MESH:D008103,0,,1,SPARC
+viral capsid,GO:0019028,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,SPARC
+voltage-gated calcium channel complex,GO:0005891,"Liver Cirrhosis, Experimental",MESH:D008106,0,,2,B9D1|STAC3
+voltage-gated potassium channel complex,GO:0008076,"Liver Cirrhosis, Experimental",MESH:D008106,0,,4,DHRS3|IGFALS|KCNJ8|NRROS
+voltage-gated sodium channel complex,GO:0001518,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,B9D1
+WASH complex,GO:0071203,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,RCSD1
+Weibel-Palade body,GO:0033093,"Liver Cirrhosis, Experimental",MESH:D008106,0,,2,EDN1|VWF
+Wnt-Frizzled-LRP5/6 complex,GO:1990851,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,FZD8
+Wnt signalosome,GO:1990909,Liver Cirrhosis,MESH:D008103,0,,1,CTNNB1
+Wnt signalosome,GO:1990909,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,RECK
+XY body,GO:0001741,"Liver Cirrhosis, Experimental",MESH:D008106,0,,1,SMARCC1
+Z disc,GO:0030018,Copper-Overload Cirrhosis,MESH:C566858,0,,1,KRT19
+Z disc,GO:0030018,Liver Cirrhosis,MESH:D008103,0,,3,ADRA1A|CTNNB1|KRT8
+Z disc,GO:0030018,"Liver Cirrhosis, Experimental",MESH:D008106,0,,13,ACTN1|ANXA5|CRYAB|FHL2|FKBP1A|FLNA|ILK|KRT19|KRT8|LPXN|MYL9|SPTAN1|SRI
+zonula adherens,GO:0005915,Liver Cirrhosis,MESH:D008103,0,,1,CTNNB1
+zonula adherens,GO:0005915,"Liver Cirrhosis, Experimental",MESH:D008106,0,,2,ACTN1|NECTIN2
+zymogen granule,GO:0042588,"Liver Cirrhosis, Experimental",MESH:D008106,1,Plant Preparations,2,PLA2G4A|SRGN
+zymogen granule membrane,GO:0042589,"Liver Cirrhosis, Experimental",MESH:D008106,0,,2,ANXA4|ANXA5

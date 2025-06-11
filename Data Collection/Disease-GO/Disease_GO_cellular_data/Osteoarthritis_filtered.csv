@@ -1,0 +1,463 @@
+GOName,GOID,DiseaseName,DiseaseID,InferenceChemicalQty,InferenceChemicalNames,InferenceGeneQty,InferenceGeneSymbols
+9+0 non-motile cilium,GO:0097731,"Osteoarthritis, Hip",MESH:D015207,0,,1,SMO
+acrosomal vesicle,GO:0001669,Osteoarthritis,MESH:D010003,0,,1,VDAC2
+actin cytoskeleton,GO:0015629,Osteoarthritis,MESH:D010003,0,,3,ACTB|CLIC4|EZR
+actin cytoskeleton,GO:0015629,"Osteoarthritis, Hip",MESH:D015207,0,,1,FILIP1
+actin filament,GO:0005884,Osteoarthritis,MESH:D010003,0,,4,ACTB|EZR|LTBP3|PLS3
+actin filament,GO:0005884,"Osteoarthritis, Hip",MESH:D015207,0,,1,LTBP3
+actin filament bundle,GO:0032432,Osteoarthritis,MESH:D010003,0,,1,PLS3
+actomyosin,GO:0042641,Osteoarthritis,MESH:D010003,0,,1,PDCD6IP
+adherens junction,GO:0005912,Osteoarthritis,MESH:D010003,0,,6,ACTB|AGER|EZR|MSN|SDCBP|TRPV4
+aggresome,GO:0016235,Osteoarthritis,MESH:D010003,0,,2,CLU|EEF2
+anchoring junction,GO:0070161,Osteoarthritis,MESH:D010003,0,,1,CLIC4
+apical dendrite,GO:0097440,Osteoarthritis,MESH:D010003,0,,1,CLU
+apical junction complex,GO:0043296,Osteoarthritis,MESH:D010003,0,,1,ACTB
+apical part of cell,GO:0045177,Osteoarthritis,MESH:D010003,0,,4,CLIC4|DPEP1|EZR|MSN
+apical part of cell,GO:0045177,"Osteoarthritis, Hip",MESH:D015207,0,,2,CRHR1|HFE
+apical plasma membrane,GO:0016324,Osteoarthritis,MESH:D010003,0,,9,ADGRG2|AGER|ATP6V1B2|CTSK|DPEP1|EZR|MSN|SLC2A1|TRPV4
+apoptotic body,GO:0097189,Osteoarthritis,MESH:D010003,2,astaxanthine|Indomethacin,0,
+apoptotic body,GO:0097189,"Osteoarthritis, Hip",MESH:D015207,1,Indomethacin,0,
+astrocyte projection,GO:0097449,Osteoarthritis,MESH:D010003,0,,1,EZR
+autolysosome,GO:0044754,Osteoarthritis,MESH:D010003,3,Curcumin|Dietary Fats|ferrostatin-1,1,FTL
+autolysosome,GO:0044754,"Osteoarthritis, Knee",MESH:D020370,1,rhoifolin,0,
+autophagosome,GO:0005776,Osteoarthritis,MESH:D010003,5,Acetaminophen|Ethanol|Indomethacin|Lithium Chloride|Resveratrol,1,FTL
+autophagosome,GO:0005776,"Osteoarthritis, Hip",MESH:D015207,1,Indomethacin,0,
+autophagosome,GO:0005776,"Osteoarthritis, Knee",MESH:D020370,2,Resveratrol|rhoifolin,0,
+axolemma,GO:0030673,"Osteoarthritis, Hip",MESH:D015207,0,,1,MAPT
+axon,GO:0030424,Osteoarthritis,MESH:D010003,0,,7,ACTB|AGER|ATP1A3|CALCA|DPYSL2|TGFB1|VIM
+axon,GO:0030424,"Osteoarthritis, Hip",MESH:D015207,0,,2,MAPT|SMO
+axonal growth cone,GO:0044295,"Osteoarthritis, Hip",MESH:D015207,0,,2,MAPT|SMO
+axon cytoplasm,GO:1904115,Osteoarthritis,MESH:D010003,0,,1,OPA1
+axon cytoplasm,GO:1904115,"Osteoarthritis, Hip",MESH:D015207,0,,1,MAPT
+axoneme,GO:0005930,"Osteoarthritis, Hip",MESH:D015207,0,,1,MAPT
+azurophil granule lumen,GO:0035578,Osteoarthritis,MESH:D010003,0,,2,FTL|SDCBP
+basal part of cell,GO:0045178,"Osteoarthritis, Hip",MESH:D015207,0,,1,HFE
+basal plasma membrane,GO:0009925,Osteoarthritis,MESH:D010003,0,,1,AGER
+basement membrane,GO:0005604,Osteoarthritis,MESH:D010003,0,,2,COL1A2|COL2A1
+basement membrane,GO:0005604,"Osteoarthritis, Hip",MESH:D015207,0,,1,TNC
+basement membrane,GO:0005604,Osteoarthritis with Mild Chondrodysplasia,MESH:C565740,0,,1,COL2A1
+basement membrane,GO:0005604,SHORT STATURE AND ADVANCED BONE AGE WITH OR WITHOUT EARLY-ONSET OSTEOARTHRITIS AND/OR OSTEOCHONDRITIS DISSECANS,OMIM:165800,0,,1,ACAN
+basolateral plasma membrane,GO:0016323,Osteoarthritis,MESH:D010003,0,,3,EZR|MSN|SLC2A1
+bBAF complex,GO:0140092,Osteoarthritis,MESH:D010003,0,,1,ACTB
+bicellular tight junction,GO:0005923,Osteoarthritis,MESH:D010003,0,,1,PDCD6IP
+blood microparticle,GO:0072562,Osteoarthritis,MESH:D010003,0,,1,TGFB1
+brahma complex,GO:0035060,Osteoarthritis,MESH:D010003,0,,1,ACTB
+brush border,GO:0005903,Osteoarthritis,MESH:D010003,0,,3,ACTB|CLIC1|EZR
+calyx of Held,GO:0044305,Osteoarthritis,MESH:D010003,0,,2,ACTB|ATP1A3
+catalytic complex,GO:1902494,Osteoarthritis,MESH:D010003,0,,2,P3H3|PDHA1
+caveola,GO:0005901,Osteoarthritis,MESH:D010003,0,,2,PTGS2|SLC2A1
+caveola,GO:0005901,"Osteoarthritis, Hip",MESH:D015207,0,,1,SMO
+CD40 receptor complex,GO:0035631,"Osteoarthritis, Hip",MESH:D015207,0,,1,DIABLO
+cell body,GO:0044297,Osteoarthritis,MESH:D010003,0,,2,EZR|VIM
+cell body,GO:0044297,"Osteoarthritis, Hip",MESH:D015207,0,,1,MAPT
+cell-cell junction,GO:0005911,Osteoarthritis,MESH:D010003,0,,3,ACTB|CLIC4|SLC2A1
+cell cortex,GO:0005938,Osteoarthritis,MESH:D010003,0,,4,ENO1|EZR|MSN|RAN
+cell cortex,GO:0005938,"Osteoarthritis, Hip",MESH:D015207,0,,1,ASTN2
+cell junction,GO:0030054,Osteoarthritis,MESH:D010003,0,,2,AGER|DPEP1
+cell leading edge,GO:0031252,Osteoarthritis,MESH:D010003,0,,2,DDX3X|VIM
+cell periphery,GO:0071944,Osteoarthritis,MESH:D010003,0,,5,CLU|EZR|MSN|NME2|TRAP1
+cell pole,GO:0060187,"Osteoarthritis, Hip",MESH:D015207,0,,1,ASTN2
+cell projection,GO:0042995,Osteoarthritis,MESH:D010003,1,Lipopolysaccharides,4,ASPN|EZR|MSN|VIM
+cell projection,GO:0042995,"Osteoarthritis, Hip",MESH:D015207,0,,1,SMO
+cell projection,GO:0042995,"Osteoarthritis, Knee",MESH:D020370,1,Lipopolysaccharides,0,
+cell surface,GO:0009986,Osteoarthritis,MESH:D010003,0,,10,AGER|ATP1A3|CLIC4|CLU|ENO1|LGALS3|MSN|TFPI2|TGFB1|TRPV4
+cell surface,GO:0009986,"Osteoarthritis, Hip",MESH:D015207,0,,1,CHADL
+cell surface,GO:0009986,"Osteoarthritis, Knee",MESH:D020370,0,,1,LTBP1
+cell surface,GO:0009986,"Osteoarthritis, Spine",MESH:D055013,0,,1,TNF
+cell tip,GO:0051286,Osteoarthritis,MESH:D010003,0,,2,EZR|MSN
+cellular_component,GO:0005575,Osteoarthritis,MESH:D010003,0,,1,PDCD6IP
+centriole,GO:0005814,Osteoarthritis,MESH:D010003,0,,1,RAN
+centriole,GO:0005814,"Osteoarthritis, Hip",MESH:D015207,0,,1,SMO
+centrosome,GO:0005813,Osteoarthritis,MESH:D010003,0,,3,CLIC4|DDX3X|PDCD6IP
+chloride channel complex,GO:0034707,Osteoarthritis,MESH:D010003,0,,2,CLIC1|CLIC4
+chromaffin granule,GO:0042583,Osteoarthritis,MESH:D010003,0,,1,CLU
+chromatin,GO:0000785,Osteoarthritis,MESH:D010003,0,,8,ACTB|POU3F3|PPARG|RAN|RUNX2|SMAD3|TGM2|TRIM2
+chromatin,GO:0000785,"Osteoarthritis, Hip",MESH:D015207,0,,3,LMX1B|RUNX2|SMAD3
+chromosome,GO:0005694,Osteoarthritis,MESH:D010003,0,,1,TGM2
+"chromosome, centromeric region",GO:0000775,Osteoarthritis,MESH:D010003,0,,1,PPP2R1A
+ciliary basal body,GO:0036064,Osteoarthritis,MESH:D010003,0,,3,ACAA2|EZR|SMAD3
+ciliary basal body,GO:0036064,"Osteoarthritis, Hip",MESH:D015207,0,,1,SMAD3
+ciliary membrane,GO:0060170,"Osteoarthritis, Hip",MESH:D015207,0,,1,SMO
+ciliary tip,GO:0097542,"Osteoarthritis, Hip",MESH:D015207,0,,1,SMO
+cilium,GO:0005929,Osteoarthritis,MESH:D010003,0,,2,DPYSL2|TRPV4
+cilium,GO:0005929,"Osteoarthritis, Hip",MESH:D015207,0,,1,SMO
+clathrin-coated vesicle,GO:0030136,"Osteoarthritis, Hip",MESH:D015207,0,,1,ASTN2
+clathrin-coated vesicle membrane,GO:0030665,Osteoarthritis,MESH:D010003,0,,1,ATP6V1B2
+collagen-containing extracellular matrix,GO:0062023,Osteoarthritis,MESH:D010003,0,,12,CLU|COL1A2|COL2A1|COL6A2|COMP|LGALS3|LTBP3|MATN3|RAN|S100A4|TGFB1|TGM2
+collagen-containing extracellular matrix,GO:0062023,"Osteoarthritis, Hip",MESH:D015207,0,,5,CHADL|COL11A1|COMP|LTBP3|TNC
+collagen-containing extracellular matrix,GO:0062023,"Osteoarthritis, Knee",MESH:D020370,0,,1,LTBP1
+collagen-containing extracellular matrix,GO:0062023,Osteoarthritis with Mild Chondrodysplasia,MESH:C565740,0,,1,COL2A1
+collagen trimer,GO:0005581,Osteoarthritis,MESH:D010003,0,,4,COL1A2|COL2A1|COL6A2|PLOD2
+collagen trimer,GO:0005581,"Osteoarthritis, Hip",MESH:D015207,0,,1,COL11A1
+collagen trimer,GO:0005581,Osteoarthritis with Mild Chondrodysplasia,MESH:C565740,0,,1,COL2A1
+collagen type II trimer,GO:0005585,Osteoarthritis,MESH:D010003,0,,2,COL1A2|COL2A1
+collagen type II trimer,GO:0005585,Osteoarthritis with Mild Chondrodysplasia,MESH:C565740,0,,1,COL2A1
+collagen type I trimer,GO:0005584,Osteoarthritis,MESH:D010003,0,,1,COL1A2
+collagen type IX trimer,GO:0005594,Osteoarthritis,MESH:D010003,0,,1,COL1A2
+collagen type XI trimer,GO:0005592,Osteoarthritis,MESH:D010003,0,,1,COL2A1
+collagen type XI trimer,GO:0005592,"Osteoarthritis, Hip",MESH:D015207,0,,1,COL11A1
+collagen type XI trimer,GO:0005592,Osteoarthritis with Mild Chondrodysplasia,MESH:C565740,0,,1,COL2A1
+COPII-coated ER to Golgi transport vesicle,GO:0030134,Osteoarthritis,MESH:D010003,0,,1,SEC23A
+COPII vesicle coat,GO:0030127,Osteoarthritis,MESH:D010003,0,,1,SEC23A
+cornified envelope,GO:0001533,Osteoarthritis,MESH:D010003,0,,1,LGALS3
+cortical actin cytoskeleton,GO:0030864,Osteoarthritis,MESH:D010003,0,,2,SLC2A1|TRPV4
+cortical cytoskeleton,GO:0030863,Osteoarthritis,MESH:D010003,0,,2,ACTB|EZR
+cortical granule,GO:0060473,Osteoarthritis,MESH:D010003,2,Lipopolysaccharides|Resveratrol,0,
+cortical granule,GO:0060473,"Osteoarthritis, Knee",MESH:D020370,2,Lipopolysaccharides|Resveratrol,0,
+cytoplasm,GO:0005737,Osteoarthritis,MESH:D010003,0,,58,ACAA2|ACO1|ACTB|AK4|AKR1C1|ALDH1A2|ATP1A3|ATP6V1B2|CALCA|CHI3L1|CLIC1|CLIC4|CLU|COL1A2|COL2A1|DAPP1|DDX3X|DPYSL2|EEF2|ENO1|ESD|EZR|FGF18|FRZB|FTL|GAPDH|GSTK1|IL1B|ISOC2|LGALS3|LTBP3|MVP|MYH13|NDUFS8|NME2|OPA1|P3H3|PLCD1|PLS3|PPARG|PPP2R1A|PSMB1|PTGS2|RAN|RUNX2|S100A4|SCRN1|SDCBP|SEC23A|SGCG|SLC2A1|SMAD3|TGFB1|TGM2|TRIM2|TXNRD1|VIM|YWHAQ
+cytoplasm,GO:0005737,"Osteoarthritis, Hip",MESH:D015207,0,,9,DIABLO|FILIP1|HDAC9|IL11|LTBP3|MAPT|RUNX2|SMAD3|SMO
+cytoplasm,GO:0005737,"Osteoarthritis, Knee",MESH:D020370,0,,2,SBNO1|WWP2
+cytoplasm,GO:0005737,"Osteoarthritis, Spine",MESH:D055013,0,,2,DUSP1|SKP2
+cytoplasm,GO:0005737,Osteoarthritis with Mild Chondrodysplasia,MESH:C565740,0,,1,COL2A1
+cytoplasmic microtubule,GO:0005881,Osteoarthritis,MESH:D010003,0,,1,TRPV4
+cytoplasmic ribonucleoprotein granule,GO:0036464,Osteoarthritis,MESH:D010003,0,,1,ACTB
+cytoplasmic ribonucleoprotein granule,GO:0036464,"Osteoarthritis, Hip",MESH:D015207,0,,1,MAPT
+cytoplasmic side of plasma membrane,GO:0009898,Osteoarthritis,MESH:D010003,0,,1,MSN
+cytoplasmic side of plasma membrane,GO:0009898,"Osteoarthritis, Hip",MESH:D015207,0,,2,DIABLO|MAPT
+cytoplasmic stress granule,GO:0010494,Osteoarthritis,MESH:D010003,0,,1,DDX3X
+cytoplasmic vesicle,GO:0031410,Osteoarthritis,MESH:D010003,0,,4,ATP6V1B2|CLU|ESD|SEC23A
+cytoplasmic vesicle,GO:0031410,"Osteoarthritis, Hip",MESH:D015207,0,,1,HFE
+cytoplasmic vesicle membrane,GO:0030659,Osteoarthritis,MESH:D010003,0,,1,CLIC4
+cytoskeleton,GO:0005856,Osteoarthritis,MESH:D010003,0,,9,ACTB|CLU|EZR|GAPDH|MSN|MVP|SDCBP|SGCG|VIM
+cytoskeleton,GO:0005856,"Osteoarthritis, Hip",MESH:D015207,0,,1,MAPT
+cytosol,GO:0005829,Osteoarthritis,MESH:D010003,0,,47,ACO1|ACTB|ADGRG2|AKR1C1|AKR1C2|ALDH1A2|ATP6V1B2|CLIC4|CLU|CTSD|DAPP1|DDX3X|DPYSL2|EEF2|ENO1|ESD|EZR|FTL|GAPDH|GLS|GSTK1|IDH2|IL1B|LGALS3|MSN|MVP|NDUFV1|NME2|OPA1|PDCD6IP|PLCD1|PLS3|PPARG|PPP2R1A|PSMB1|PTGS2|RAN|RUNX2|S100A4|SDCBP|SEC23A|SLC2A1|SMAD3|TGM2|TXNRD1|VIM|YWHAQ
+cytosol,GO:0005829,"Osteoarthritis, Hip",MESH:D015207,0,,5,DIABLO|FILIP1|MAPT|RUNX2|SMAD3
+cytosol,GO:0005829,"Osteoarthritis, Knee",MESH:D020370,0,,1,WWP2
+cytosol,GO:0005829,"Osteoarthritis, Spine",MESH:D055013,0,,1,SKP2
+cytosolic small ribosomal subunit,GO:0022627,Osteoarthritis,MESH:D010003,0,,1,DDX3X
+dendrite,GO:0030425,Osteoarthritis,MESH:D010003,0,,5,CLU|DPYSL2|ESD|OPA1|PPP2R1A
+dendrite,GO:0030425,"Osteoarthritis, Hip",MESH:D015207,0,,3,CRHR1|MAPT|SMO
+dendrite,GO:0030425,"Osteoarthritis, Knee",MESH:D020370,0,,1,LTBP1
+dendritic growth cone,GO:0044294,"Osteoarthritis, Hip",MESH:D015207,0,,1,SMO
+dendritic spine,GO:0043197,"Osteoarthritis, Hip",MESH:D015207,0,,1,MAPT
+dendritic spine head,GO:0044327,Osteoarthritis,MESH:D010003,0,,1,ATP1A3
+dendritic spine neck,GO:0044326,Osteoarthritis,MESH:D010003,0,,1,ATP1A3
+dense body,GO:0097433,Osteoarthritis,MESH:D010003,0,,1,ACTB
+"DNA topoisomerase type II (double strand cut, ATP-hydrolyzing) complex",GO:0009330,Osteoarthritis,MESH:D010003,1,Reactive Oxygen Species,0,
+dystroglycan complex,GO:0016011,Osteoarthritis,MESH:D010003,0,,1,SGCG
+early endosome,GO:0005769,"Osteoarthritis, Hip",MESH:D015207,0,,2,ASTN2|HFE
+electron transfer flavoprotein complex,GO:0045251,Osteoarthritis,MESH:D010003,0,,1,ETFA
+endocytic vesicle membrane,GO:0030666,"Osteoarthritis, Hip",MESH:D015207,0,,1,SMO
+endolysosome lumen,GO:0036021,Osteoarthritis,MESH:D010003,0,,1,CTSK
+endomembrane system,GO:0012505,Osteoarthritis,MESH:D010003,0,,1,ATP1A3
+endoplasmic reticulum,GO:0005783,Osteoarthritis,MESH:D010003,0,,13,ACO1|ATP1A3|CHI3L1|CLIC1|CLIC4|CLU|P3H3|PLOD2|PTGS2|RCN3|SEC23A|TGM2|TRPV4
+endoplasmic reticulum,GO:0005783,"Osteoarthritis, Hip",MESH:D015207,0,,1,SMO
+endoplasmic reticulum exit site,GO:0070971,Osteoarthritis,MESH:D010003,0,,2,PDCD6IP|SEC23A
+endoplasmic reticulum-Golgi intermediate compartment,GO:0005793,"Osteoarthritis, Hip",MESH:D015207,0,,1,SMO
+endoplasmic reticulum lumen,GO:0005788,Osteoarthritis,MESH:D010003,0,,8,BMP4|COL1A2|COL2A1|COL6A2|ESD|MATN3|PTGS2|RCN3
+endoplasmic reticulum lumen,GO:0005788,"Osteoarthritis, Hip",MESH:D015207,0,,2,COL11A1|TNC
+endoplasmic reticulum lumen,GO:0005788,"Osteoarthritis, Knee",MESH:D020370,0,,1,LTBP1
+endoplasmic reticulum lumen,GO:0005788,"Osteoarthritis, Spine",MESH:D055013,0,,1,IL6
+endoplasmic reticulum lumen,GO:0005788,Osteoarthritis with Mild Chondrodysplasia,MESH:C565740,0,,1,COL2A1
+endoplasmic reticulum membrane,GO:0005789,Osteoarthritis,MESH:D010003,0,,6,CLIC4|DPEP1|PLOD2|PTGS2|SDCBP|SEC23A
+endosome,GO:0005768,Osteoarthritis,MESH:D010003,0,,2,EZR|PDCD6IP
+endosome,GO:0005768,"Osteoarthritis, Hip",MESH:D015207,0,,2,ASTN2|CRHR1
+endosome lumen,GO:0031904,Osteoarthritis,MESH:D010003,0,,1,CTSD
+endosome membrane,GO:0010008,Osteoarthritis,MESH:D010003,0,,1,CTSD
+enzyme activator complex,GO:0150005,Osteoarthritis,MESH:D010003,0,,1,BMP6
+ER to Golgi transport vesicle membrane,GO:0012507,Osteoarthritis,MESH:D010003,0,,1,SEC23A
+eukaryotic translation initiation factor 3 complex,GO:0005852,Osteoarthritis,MESH:D010003,0,,1,DDX3X
+external side of plasma membrane,GO:0009897,Osteoarthritis,MESH:D010003,0,,2,CTSK|LGALS3
+external side of plasma membrane,GO:0009897,"Osteoarthritis, Hip",MESH:D015207,0,,2,CHADL|HFE
+external side of plasma membrane,GO:0009897,"Osteoarthritis, Spine",MESH:D055013,0,,2,IL6|TNF
+extracellular exosome,GO:0070062,Osteoarthritis,MESH:D010003,0,,4,CLIC1|PDCD6IP|SDCBP|TRAP1
+extracellular matrix,GO:0031012,Osteoarthritis,MESH:D010003,0,,11,ASPN|CHI3L1|COL2A1|COL6A2|COMP|LGALS3|LTBP3|MATN3|TFPI2|TGFB1|TGM2
+extracellular matrix,GO:0031012,"Osteoarthritis, Hip",MESH:D015207,0,,5,CHADL|COL11A1|COMP|ITIH1|LTBP3
+extracellular matrix,GO:0031012,"Osteoarthritis, Knee",MESH:D020370,0,,1,LTBP1
+extracellular matrix,GO:0031012,Osteoarthritis with Mild Chondrodysplasia,MESH:C565740,0,,1,COL2A1
+extracellular matrix,GO:0031012,SHORT STATURE AND ADVANCED BONE AGE WITH OR WITHOUT EARLY-ONSET OSTEOARTHRITIS AND/OR OSTEOCHONDRITIS DISSECANS,OMIM:165800,0,,1,ACAN
+extracellular matrix of synaptic cleft,GO:0098965,"Osteoarthritis, Hip",MESH:D015207,0,,1,TNC
+extracellular region,GO:0005576,Osteoarthritis,MESH:D010003,0,,33,AGER|ASPN|BMP4|BMP6|CALCA|CHI3L1|CLU|COL1A2|COL2A1|COL6A2|COMP|CTSD|CTSK|CXCL2|CXCL6|DDX3X|EDIL3|EEF2|FGF18|FRZB|FTL|GDF5|IL1B|LGALS3|LTBP3|MATN3|MVP|NME2|PSMB1|SDCBP|TFPI2|TGFB1|TGM2
+extracellular region,GO:0005576,"Osteoarthritis, Hip",MESH:D015207,0,,8,CHADL|COL11A1|COMP|IL11|ITIH1|LTBP3|MAPT|TNC
+extracellular region,GO:0005576,"Osteoarthritis, Knee",MESH:D020370,0,,3,GDF5|LTBP1|WWP2
+extracellular region,GO:0005576,"Osteoarthritis, Spine",MESH:D055013,0,,3,CXCL8|IL6|TNF
+extracellular region,GO:0005576,Osteoarthritis with Mild Chondrodysplasia,MESH:C565740,0,,1,COL2A1
+extracellular region,GO:0005576,SHORT STATURE AND ADVANCED BONE AGE WITH OR WITHOUT EARLY-ONSET OSTEOARTHRITIS AND/OR OSTEOCHONDRITIS DISSECANS,OMIM:165800,0,,1,ACAN
+extracellular space,GO:0005615,Osteoarthritis,MESH:D010003,0,,27,ACTB|AGER|ASPN|BMP4|BMP6|CALCA|CHI3L1|CLU|COL1A2|COL2A1|COL6A2|COMP|CTSD|CTSK|CXCL2|CXCL6|DPEP1|FGF18|FRZB|GDF5|IL1B|LGALS3|RAN|S100A4|TFPI2|TGFB1|TNFSF15
+extracellular space,GO:0005615,"Osteoarthritis, Hip",MESH:D015207,0,,6,CHADL|COL11A1|COMP|HFE|IL11|TNC
+extracellular space,GO:0005615,"Osteoarthritis, Knee",MESH:D020370,0,,1,GDF5
+extracellular space,GO:0005615,"Osteoarthritis, Spine",MESH:D055013,0,,3,CXCL8|IL6|TNF
+extracellular space,GO:0005615,Osteoarthritis with Mild Chondrodysplasia,MESH:C565740,0,,1,COL2A1
+extracellular space,GO:0005615,SHORT STATURE AND ADVANCED BONE AGE WITH OR WITHOUT EARLY-ONSET OSTEOARTHRITIS AND/OR OSTEOCHONDRITIS DISSECANS,OMIM:165800,0,,1,ACAN
+extrinsic component of synaptic vesicle membrane,GO:0098850,Osteoarthritis,MESH:D010003,0,,1,ATP6V1B2
+FAR/SIN/STRIPAK complex,GO:0090443,Osteoarthritis,MESH:D010003,0,,1,PPP2R1A
+female germ cell nucleus,GO:0001674,Osteoarthritis,MESH:D010003,0,,1,SLC2A1
+female pronucleus,GO:0001939,Osteoarthritis,MESH:D010003,0,,1,SLC2A1
+ferritin complex,GO:0070288,Osteoarthritis,MESH:D010003,0,,1,FTL
+fibrillar center,GO:0001650,Osteoarthritis,MESH:D010003,0,,3,AGER|EZR|TXNRD1
+fibrinogen complex,GO:0005577,Osteoarthritis,MESH:D010003,1,Dietary Fats,0,
+ficolin-1-rich granule lumen,GO:1904813,Osteoarthritis,MESH:D010003,0,,6,CTSD|DDX3X|EEF2|MVP|NME2|PSMB1
+ficolin-1-rich granule membrane,GO:0101003,Osteoarthritis,MESH:D010003,0,,1,LGALS3
+filopodium,GO:0030175,Osteoarthritis,MESH:D010003,0,,3,EZR|MSN|TRPV4
+filopodium membrane,GO:0031527,Osteoarthritis,MESH:D010003,0,,1,MSN
+Flemming body,GO:0090543,Osteoarthritis,MESH:D010003,0,,1,PDCD6IP
+focal adhesion,GO:0005925,Osteoarthritis,MESH:D010003,0,,5,ACTB|EZR|MSN|SDCBP|TRPV4
+GABA-ergic synapse,GO:0098982,Osteoarthritis,MESH:D010003,0,,1,CTSD
+GABA-ergic synapse,GO:0098982,SHORT STATURE AND ADVANCED BONE AGE WITH OR WITHOUT EARLY-ONSET OSTEOARTHRITIS AND/OR OSTEOCHONDRITIS DISSECANS,OMIM:165800,0,,1,ACAN
+GAIT complex,GO:0097452,Osteoarthritis,MESH:D010003,0,,1,GAPDH
+GBAF complex,GO:0140288,Osteoarthritis,MESH:D010003,0,,1,ACTB
+glial cell projection,GO:0097386,Osteoarthritis,MESH:D010003,0,,1,LGALS3
+glial cell projection,GO:0097386,"Osteoarthritis, Hip",MESH:D015207,0,,1,MAPT
+glucose transporter complex,GO:1990350,Osteoarthritis,MESH:D010003,0,,1,SLC2A1
+glutamatergic synapse,GO:0098978,Osteoarthritis,MESH:D010003,0,,6,ACTB|DDX3X|DPYSL2|EEF2|GAPDH|PPP2R1A
+glutamatergic synapse,GO:0098978,"Osteoarthritis, Hip",MESH:D015207,0,,4,CHADL|CRHR1|FILIP1|TNC
+glutamatergic synapse,GO:0098978,SHORT STATURE AND ADVANCED BONE AGE WITH OR WITHOUT EARLY-ONSET OSTEOARTHRITIS AND/OR OSTEOCHONDRITIS DISSECANS,OMIM:165800,0,,1,ACAN
+glycogen granule,GO:0042587,Osteoarthritis,MESH:D010003,1,Ethanol,0,
+Golgi apparatus,GO:0005794,Osteoarthritis,MESH:D010003,0,,3,ACO1|ATP1A3|CLU
+Golgi apparatus,GO:0005794,"Osteoarthritis, Hip",MESH:D015207,0,,1,SMO
+Golgi lumen,GO:0005796,Osteoarthritis,MESH:D010003,0,,1,TGFB1
+Golgi lumen,GO:0005796,SHORT STATURE AND ADVANCED BONE AGE WITH OR WITHOUT EARLY-ONSET OSTEOARTHRITIS AND/OR OSTEOCHONDRITIS DISSECANS,OMIM:165800,0,,1,ACAN
+Golgi membrane,GO:0000139,Osteoarthritis,MESH:D010003,0,,2,SEC23A|SLC2A1
+growth cone,GO:0030426,Osteoarthritis,MESH:D010003,0,,4,CLU|DPYSL2|ENO1|TRPV4
+growth cone,GO:0030426,"Osteoarthritis, Hip",MESH:D015207,0,,1,MAPT
+growth cone filopodium,GO:1990812,Osteoarthritis,MESH:D010003,1,Ethanol,0,
+heteromeric SMAD protein complex,GO:0071144,Osteoarthritis,MESH:D010003,0,,1,SMAD3
+heteromeric SMAD protein complex,GO:0071144,"Osteoarthritis, Hip",MESH:D015207,0,,1,SMAD3
+heterotrimeric G-protein complex,GO:0005834,Osteoarthritis,MESH:D010003,0,,1,P3H3
+HFE-transferrin receptor complex,GO:1990712,"Osteoarthritis, Hip",MESH:D015207,0,,1,HFE
+hippocampal mossy fiber to CA3 synapse,GO:0098686,Osteoarthritis,MESH:D010003,0,,1,CALCA
+histone acetyltransferase complex,GO:0000123,Osteoarthritis,MESH:D010003,0,,1,TRAP1
+histone deacetylase complex,GO:0000118,"Osteoarthritis, Hip",MESH:D015207,0,,1,HDAC9
+histone methyltransferase complex,GO:0035097,Osteoarthritis,MESH:D010003,0,,1,TXNRD1
+histone methyltransferase complex,GO:0035097,"Osteoarthritis, Hip",MESH:D015207,0,,1,HDAC9
+immunological synapse,GO:0001772,Osteoarthritis,MESH:D010003,0,,3,EZR|LGALS3|PDCD6IP
+inflammasome complex,GO:0061702,"Osteoarthritis, Knee",MESH:D020370,1,Adenosine Triphosphate,0,
+intercalated disc,GO:0014704,Osteoarthritis,MESH:D010003,0,,1,SLC2A1
+interleukin-5 receptor complex,GO:0005895,Osteoarthritis,MESH:D010003,0,,1,SDCBP
+interleukin-6 receptor complex,GO:0005896,"Osteoarthritis, Spine",MESH:D055013,0,,1,IL6
+intermediate filament,GO:0005882,Osteoarthritis,MESH:D010003,0,,2,NME2|VIM
+intermediate filament cytoskeleton,GO:0045111,Osteoarthritis,MESH:D010003,0,,1,VIM
+interstitial matrix,GO:0005614,"Osteoarthritis, Hip",MESH:D015207,0,,1,TNC
+intracellular anatomical structure,GO:0005622,Osteoarthritis,MESH:D010003,0,,3,CALCA|EZR|SLC2A1
+intracellular anatomical structure,GO:0005622,"Osteoarthritis, Spine",MESH:D055013,0,,1,TNF
+intracellular membrane-bounded organelle,GO:0043231,Osteoarthritis,MESH:D010003,0,,12,ACAA2|AK4|ATP6V1B2|CLU|CTSK|GAPDH|GSTK1|PDHA1|PPARG|PTGS2|RCN3|SMAD3
+intracellular membrane-bounded organelle,GO:0043231,"Osteoarthritis, Hip",MESH:D015207,0,,2,SMAD3|SMO
+ion channel complex,GO:0034702,Osteoarthritis,MESH:D010003,0,,2,CLIC1|CLIC4
+isocitrate dehydrogenase complex (NAD+),GO:0045242,Osteoarthritis,MESH:D010003,0,,1,IDH3A
+kinetochore,GO:0000776,Osteoarthritis,MESH:D010003,0,,1,ACTB
+lamellipodium,GO:0030027,Osteoarthritis,MESH:D010003,0,,4,ACTB|DDX3X|NME2|TRPV4
+large latent transforming growth factor-beta complex,GO:0038045,"Osteoarthritis, Knee",MESH:D020370,0,,1,LTBP1
+late endosome,GO:0005770,"Osteoarthritis, Hip",MESH:D015207,0,,2,ASTN2|SMO
+late endosome lumen,GO:0031906,Osteoarthritis,MESH:D010003,0,,1,GAPDH
+lateral plasma membrane,GO:0016328,Osteoarthritis,MESH:D010003,0,,1,PPP2R1A
+lipid droplet,GO:0005811,Osteoarthritis,MESH:D010003,1,Dietary Fats,1,GAPDH
+lysosomal lumen,GO:0043202,Osteoarthritis,MESH:D010003,0,,2,CTSD|CTSK
+lysosomal lumen,GO:0043202,SHORT STATURE AND ADVANCED BONE AGE WITH OR WITHOUT EARLY-ONSET OSTEOARTHRITIS AND/OR OSTEOCHONDRITIS DISSECANS,OMIM:165800,0,,1,ACAN
+lysosomal membrane,GO:0005765,Osteoarthritis,MESH:D010003,0,,1,CTSD
+lysosome,GO:0005764,Osteoarthritis,MESH:D010003,1,Acetaminophen,3,CTSD|CTSK|IL1B
+main axon,GO:0044304,"Osteoarthritis, Hip",MESH:D015207,0,,1,MAPT
+male germ cell nucleus,GO:0001673,Osteoarthritis,MESH:D010003,0,,1,RAN
+manchette,GO:0002177,Osteoarthritis,MESH:D010003,0,,1,RAN
+matrilin complex,GO:0120216,Osteoarthritis,MESH:D010003,0,,1,MATN3
+M band,GO:0031430,Osteoarthritis,MESH:D010003,0,,1,ENO1
+melanosome,GO:0042470,Osteoarthritis,MESH:D010003,0,,6,ATP6V1B2|CTSD|PDCD6IP|RAN|SDCBP|SLC2A1
+membrane,GO:0016020,Osteoarthritis,MESH:D010003,0,,31,ACTB|ADGRG2|AGER|ATP1A3|CLIC1|CLIC4|CLU|DPEP1|DPYSL2|ENO1|FRZB|HIBCH|IMMT|LTBP3|MVP|NDUFS8|NDUFV1|OPA1|P3H3|PLOD2|PPP2R1A|PTGS2|SDCBP|SDHA|SEC23A|SGCG|SLC2A1|TGM2|TNFSF15|TRPV4|VDAC2
+membrane,GO:0016020,"Osteoarthritis, Hip",MESH:D015207,0,,9,ASTN2|CHADL|CRHR1|DIABLO|FILIP1|HFE|LTBP3|MAPT|SMO
+membrane,GO:0016020,"Osteoarthritis, Spine",MESH:D055013,0,,1,TNF
+membrane raft,GO:0045121,Osteoarthritis,MESH:D010003,0,,6,ACTB|CTSD|ENO1|SDCBP|SLC2A1|VDAC2
+membrane raft,GO:0045121,"Osteoarthritis, Hip",MESH:D015207,0,,1,MAPT
+membrane raft,GO:0045121,"Osteoarthritis, Spine",MESH:D055013,0,,1,TNF
+MICOS complex,GO:0061617,Osteoarthritis,MESH:D010003,0,,1,IMMT
+microfibril,GO:0001527,"Osteoarthritis, Knee",MESH:D020370,0,,1,LTBP1
+microspike,GO:0044393,Osteoarthritis,MESH:D010003,0,,1,EZR
+microtubule,GO:0005874,Osteoarthritis,MESH:D010003,0,,2,DPYSL2|OPA1
+microtubule,GO:0005874,"Osteoarthritis, Hip",MESH:D015207,0,,1,MAPT
+microtubule cytoskeleton,GO:0015630,Osteoarthritis,MESH:D010003,0,,4,CLIC4|DPYSL2|GAPDH|PPP2R1A
+microtubule cytoskeleton,GO:0015630,"Osteoarthritis, Hip",MESH:D015207,0,,1,MAPT
+microtubule organizing center,GO:0005815,Osteoarthritis,MESH:D010003,0,,1,VIM
+microvillus,GO:0005902,Osteoarthritis,MESH:D010003,0,,5,ATP6V1B2|CLIC4|EZR|MSN|TGFB1
+microvillus membrane,GO:0031528,Osteoarthritis,MESH:D010003,0,,3,DPEP1|EZR|MSN
+midbody,GO:0030496,Osteoarthritis,MESH:D010003,0,,3,CLIC4|RAN|SLC2A1
+mitochondrial crista,GO:0030061,Osteoarthritis,MESH:D010003,0,,1,OPA1
+mitochondrial crista junction,GO:0044284,Osteoarthritis,MESH:D010003,0,,1,IMMT
+mitochondrial electron transfer flavoprotein complex,GO:0017133,Osteoarthritis,MESH:D010003,0,,1,ETFA
+mitochondrial envelope,GO:0005740,Osteoarthritis,MESH:D010003,0,,2,IMMT|VDAC2
+mitochondrial fatty acid beta-oxidation multienzyme complex,GO:0016507,Osteoarthritis,MESH:D010003,0,,1,HADHA
+mitochondrial inner membrane,GO:0005743,Osteoarthritis,MESH:D010003,0,,9,CLU|HADHA|IMMT|LGALS3|NDUFS8|NDUFV1|OPA1|SDHA|TRAP1
+mitochondrial intermembrane space,GO:0005758,Osteoarthritis,MESH:D010003,0,,3,IMMT|OPA1|TRAP1
+mitochondrial intermembrane space,GO:0005758,"Osteoarthritis, Hip",MESH:D015207,0,,1,DIABLO
+mitochondrial matrix,GO:0005759,Osteoarthritis,MESH:D010003,0,,13,ACAA2|AK4|ETFA|GLS|GSTK1|HIBCH|IDH2|IDH3A|NDUFS8|PDHA1|SDHA|SOD2|TRAP1
+mitochondrial membrane,GO:0031966,Osteoarthritis,MESH:D010003,0,,6,CLIC1|CLU|NME2|OPA1|PLCD1|VDAC2
+mitochondrial nucleoid,GO:0042645,Osteoarthritis,MESH:D010003,0,,3,HADHA|SOD2|VDAC2
+mitochondrial outer membrane,GO:0005741,Osteoarthritis,MESH:D010003,0,,3,CLIC4|OPA1|VDAC2
+mitochondrial proton-transporting ATP synthase complex,GO:0005753,Osteoarthritis,MESH:D010003,1,Lipopolysaccharides,0,
+mitochondrial proton-transporting ATP synthase complex,GO:0005753,"Osteoarthritis, Knee",MESH:D020370,1,Lipopolysaccharides,0,
+mitochondrial respiratory chain complex I,GO:0005747,Osteoarthritis,MESH:D010003,1,Lipopolysaccharides,0,
+mitochondrial respiratory chain complex I,GO:0005747,"Osteoarthritis, Knee",MESH:D020370,1,Lipopolysaccharides,0,
+mitochondrial respiratory chain complex III,GO:0005750,Osteoarthritis,MESH:D010003,1,Lipopolysaccharides,0,
+mitochondrial respiratory chain complex III,GO:0005750,"Osteoarthritis, Knee",MESH:D020370,1,Lipopolysaccharides,0,
+mitochondrion,GO:0005739,Osteoarthritis,MESH:D010003,2,Curcumin|Ethanol,27,ACAA2|ACO1|AK4|CLIC1|CLIC4|CLU|DDX3X|ETFA|GLS|GSTK1|HADHA|HIBCH|IDH2|IDH3A|IMMT|ISOC2|NDUFS8|NDUFV1|OPA1|PDHA1|PPP2R1A|SDHA|SOD2|TGM2|TRAP1|TXNRD1|VDAC2
+mitochondrion,GO:0005739,"Osteoarthritis, Hip",MESH:D015207,0,,2,DIABLO|MAPT
+mitotic spindle,GO:0072686,Osteoarthritis,MESH:D010003,0,,2,DPYSL2|RAN
+mitotic spindle microtubule,GO:1990498,Osteoarthritis,MESH:D010003,0,,1,RAN
+multivesicular body,GO:0005771,"Osteoarthritis, Hip",MESH:D015207,0,,1,CRHR1
+muscle myosin complex,GO:0005859,Osteoarthritis,MESH:D010003,0,,1,MYH13
+myelin sheath,GO:0043209,Osteoarthritis,MESH:D010003,0,,2,ATP1A3|DPYSL2
+myofibril,GO:0030016,Osteoarthritis,MESH:D010003,0,,1,MYH13
+myosin complex,GO:0016459,Osteoarthritis,MESH:D010003,0,,1,MYH13
+myosin filament,GO:0032982,Osteoarthritis,MESH:D010003,0,,1,MYH13
+myosin II complex,GO:0016460,Osteoarthritis,MESH:D010003,0,,1,MYH13
+NADPH oxidase complex,GO:0043020,Osteoarthritis,MESH:D010003,1,Curcumin,0,
+nBAF complex,GO:0071565,Osteoarthritis,MESH:D010003,0,,1,ACTB
+neurofibrillary tangle,GO:0097418,Osteoarthritis,MESH:D010003,0,,1,CLU
+neurofibrillary tangle,GO:0097418,"Osteoarthritis, Hip",MESH:D015207,0,,1,MAPT
+neuromuscular junction,GO:0031594,Osteoarthritis,MESH:D010003,0,,1,PLS3
+neuronal cell body,GO:0043025,Osteoarthritis,MESH:D010003,0,,8,AGER|ATP1A3|CALCA|DPYSL2|PDCD6IP|PPP2R1A|TGFB1|TXNRD1
+neuronal cell body,GO:0043025,"Osteoarthritis, Hip",MESH:D015207,0,,3,CRHR1|MAPT|SMO
+neuronal cell body,GO:0043025,"Osteoarthritis, Knee",MESH:D020370,0,,1,LTBP1
+neuronal cell body,GO:0043025,"Osteoarthritis, Spine",MESH:D055013,0,,1,TNF
+neuronal cell body,GO:0043025,SHORT STATURE AND ADVANCED BONE AGE WITH OR WITHOUT EARLY-ONSET OSTEOARTHRITIS AND/OR OSTEOCHONDRITIS DISSECANS,OMIM:165800,0,,1,ACAN
+neuronal cell body membrane,GO:0032809,Osteoarthritis,MESH:D010003,0,,1,ATP1A3
+neuronal dense core vesicle,GO:0098992,Osteoarthritis,MESH:D010003,0,,1,CALCA
+neuron projection,GO:0043005,Osteoarthritis,MESH:D010003,2,Aspirin|Decitabine,4,CALCA|PPP2R1A|PTGS2|VIM
+neuron projection,GO:0043005,"Osteoarthritis, Hip",MESH:D015207,0,,2,CRHR1|MAPT
+neuron to neuron synapse,GO:0098984,Osteoarthritis,MESH:D010003,0,,1,ATP1A3
+neutrophil extracellular trap,GO:0140644,Osteoarthritis,MESH:D010003,1,Acetaminophen,0,
+NLRP3 inflammasome complex,GO:0072559,Osteoarthritis,MESH:D010003,1,Lipopolysaccharides,1,DDX3X
+NLRP3 inflammasome complex,GO:0072559,"Osteoarthritis, Knee",MESH:D020370,1,Lipopolysaccharides,0,
+npBAF complex,GO:0071564,Osteoarthritis,MESH:D010003,0,,1,ACTB
+NuA4 histone acetyltransferase complex,GO:0035267,Osteoarthritis,MESH:D010003,0,,1,ACTB
+nuclear body,GO:0016604,Osteoarthritis,MESH:D010003,0,,1,ACAA2
+nuclear envelope,GO:0005635,Osteoarthritis,MESH:D010003,0,,2,CLIC1|RAN
+nuclear inner membrane,GO:0005637,Osteoarthritis,MESH:D010003,0,,2,PTGS2|SMAD3
+nuclear inner membrane,GO:0005637,"Osteoarthritis, Hip",MESH:D015207,0,,1,SMAD3
+nuclear matrix,GO:0016363,Osteoarthritis,MESH:D010003,0,,3,ACTB|CLIC4|VIM
+nuclear membrane,GO:0031965,Osteoarthritis,MESH:D010003,0,,4,CLIC1|GAPDH|SCRN1|SDCBP
+nuclear outer membrane,GO:0005640,Osteoarthritis,MESH:D010003,0,,2,ENO1|PTGS2
+nuclear periphery,GO:0034399,"Osteoarthritis, Hip",MESH:D015207,0,,1,MAPT
+nuclear pore,GO:0005643,Osteoarthritis,MESH:D010003,0,,2,MVP|RAN
+nuclear speck,GO:0016607,"Osteoarthritis, Hip",MESH:D015207,0,,1,MAPT
+nucleolus,GO:0005730,Osteoarthritis,MESH:D010003,0,,4,FGF18|PDHA1|RAN|SDHA
+nucleolus,GO:0005730,"Osteoarthritis, Hip",MESH:D015207,0,,1,FILIP1
+nucleolus,GO:0005730,"Osteoarthritis, Spine",MESH:D055013,0,,1,SKP2
+nucleoplasm,GO:0005654,Osteoarthritis,MESH:D010003,0,,17,ACTB|CTSK|DDX3X|DPEP1|LGALS3|OPA1|POU3F3|PPARG|PSMB1|RAN|RUNX2|S100A4|SDCBP|SMAD3|TRAP1|TRIM2|TXNRD1
+nucleoplasm,GO:0005654,"Osteoarthritis, Hip",MESH:D015207,0,,4,HDAC9|HFE|RUNX2|SMAD3
+nucleoplasm,GO:0005654,"Osteoarthritis, Spine",MESH:D055013,0,,1,SKP2
+nucleosome,GO:0000786,Osteoarthritis,MESH:D010003,0,,2,ACTB|TGM2
+nucleus,GO:0005634,Osteoarthritis,MESH:D010003,0,,32,ACTB|AGER|AKR1C1|ATP1A3|CLIC1|CLIC4|CLU|DDX3X|EEF2|ENO1|FGF18|GAPDH|ISOC2|LGALS3|MVP|NME2|POU3F3|PPARG|PPP2R1A|PSMB1|RAN|RUNX2|S100A4|SCRN1|SDCBP|SMAD3|TGFB1|TGM2|TRAP1|TRIM2|TXNRD1|YWHAQ
+nucleus,GO:0005634,"Osteoarthritis, Hip",MESH:D015207,0,,5,HDAC9|LMX1B|MAPT|RUNX2|SMAD3
+nucleus,GO:0005634,"Osteoarthritis, Knee",MESH:D020370,0,,2,SBNO1|WWP2
+nucleus,GO:0005634,"Osteoarthritis, Spine",MESH:D055013,0,,2,DUSP1|SKP2
+organelle membrane,GO:0031090,Osteoarthritis,MESH:D010003,0,,1,ATP1A3
+perikaryon,GO:0043204,Osteoarthritis,MESH:D010003,0,,1,CLU
+perikaryon,GO:0043204,"Osteoarthritis, Hip",MESH:D015207,0,,1,ASTN2
+perineuronal net,GO:0072534,SHORT STATURE AND ADVANCED BONE AGE WITH OR WITHOUT EARLY-ONSET OSTEOARTHRITIS AND/OR OSTEOCHONDRITIS DISSECANS,OMIM:165800,0,,1,ACAN
+perinuclear endoplasmic reticulum lumen,GO:0099020,Osteoarthritis,MESH:D010003,0,,1,CLU
+perinuclear region of cytoplasm,GO:0048471,Osteoarthritis,MESH:D010003,0,,16,ALDH1A2|CHI3L1|CLIC1|CLIC4|CLU|EZR|GAPDH|MSN|MVP|NME2|PDCD6IP|PPARG|S100A4|SEC23A|TGM2|VIM
+perinuclear region of cytoplasm,GO:0048471,"Osteoarthritis, Hip",MESH:D015207,0,,1,HFE
+perinuclear region of cytoplasm,GO:0048471,"Osteoarthritis, Knee",MESH:D020370,0,,1,LTBP1
+perisynaptic extracellular matrix,GO:0098966,"Osteoarthritis, Hip",MESH:D015207,0,,1,TNC
+perisynaptic extracellular matrix,GO:0098966,SHORT STATURE AND ADVANCED BONE AGE WITH OR WITHOUT EARLY-ONSET OSTEOARTHRITIS AND/OR OSTEOCHONDRITIS DISSECANS,OMIM:165800,0,,1,ACAN
+peroxisomal matrix,GO:0005782,Osteoarthritis,MESH:D010003,0,,1,GSTK1
+peroxisome,GO:0005777,Osteoarthritis,MESH:D010003,0,,3,GSTK1|IDH2|VIM
+P granule,GO:0043186,Osteoarthritis,MESH:D010003,0,,1,DDX3X
+phagocytic cup,GO:0001891,Osteoarthritis,MESH:D010003,0,,1,AGER
+phagocytic cup,GO:0001891,"Osteoarthritis, Spine",MESH:D055013,0,,1,TNF
+phagocytic vesicle,GO:0045335,Osteoarthritis,MESH:D010003,0,,1,VIM
+phosphopyruvate hydratase complex,GO:0000015,Osteoarthritis,MESH:D010003,0,,1,ENO1
+photoreceptor inner segment,GO:0001917,Osteoarthritis,MESH:D010003,0,,2,ATP1A3|SLC2A1
+photoreceptor inner segment membrane,GO:0060342,Osteoarthritis,MESH:D010003,0,,1,ATP1A3
+plasma membrane,GO:0005886,Osteoarthritis,MESH:D010003,0,,36,ACTB|ADGRG2|AGER|ATP1A3|ATP6V1B2|CLIC1|CLIC4|CTSD|CTSK|DAPP1|DDX3X|DPEP1|DPYSL2|EDIL3|EEF2|ENO1|ESD|EZR|FRZB|GAPDH|GDF5|LGALS3|MSN|PLCD1|PLS3|SDCBP|SGCG|SLC2A1|SMAD3|TFPI2|TGFB1|TGM2|TNFSF15|TRPV4|VDAC2|VIM
+plasma membrane,GO:0005886,"Osteoarthritis, Hip",MESH:D015207,0,,7,CHADL|CRHR1|FILIP1|HFE|MAPT|SMAD3|SMO
+plasma membrane,GO:0005886,"Osteoarthritis, Knee",MESH:D020370,0,,2,GDF5|LTBP1
+plasma membrane,GO:0005886,"Osteoarthritis, Spine",MESH:D055013,0,,1,TNF
+plasma membrane,GO:0005886,SHORT STATURE AND ADVANCED BONE AGE WITH OR WITHOUT EARLY-ONSET OSTEOARTHRITIS AND/OR OSTEOCHONDRITIS DISSECANS,OMIM:165800,0,,1,ACAN
+plasma membrane bounded cell projection,GO:0120025,"Osteoarthritis, Hip",MESH:D015207,0,,1,SMO
+plasma membrane raft,GO:0044853,Osteoarthritis,MESH:D010003,0,,1,EZR
+platelet alpha granule lumen,GO:0031093,Osteoarthritis,MESH:D010003,0,,2,CLU|TGFB1
+podosome,GO:0002102,Osteoarthritis,MESH:D010003,0,,1,ACTB
+pore complex,GO:0046930,Osteoarthritis,MESH:D010003,0,,1,VDAC2
+postsynapse,GO:0098794,Osteoarthritis,MESH:D010003,0,,3,AGER|ATP1A3|EEF2
+postsynapse,GO:0098794,"Osteoarthritis, Hip",MESH:D015207,0,,2,FILIP1|SMO
+postsynaptic actin cytoskeleton,GO:0098871,Osteoarthritis,MESH:D010003,0,,1,ACTB
+postsynaptic actin cytoskeleton,GO:0098871,"Osteoarthritis, Hip",MESH:D015207,0,,1,FILIP1
+postsynaptic density,GO:0014069,Osteoarthritis,MESH:D010003,0,,2,DDX3X|DPYSL2
+postsynaptic density,GO:0014069,"Osteoarthritis, Hip",MESH:D015207,0,,1,MAPT
+"postsynaptic density, intracellular component",GO:0099092,Osteoarthritis,MESH:D010003,0,,1,GAPDH
+postsynaptic density membrane,GO:0098839,"Osteoarthritis, Hip",MESH:D015207,0,,2,CHADL|CRHR1
+presynapse,GO:0098793,Osteoarthritis,MESH:D010003,0,,5,ACTB|DPYSL2|SCRN1|SDCBP|SLC2A1
+presynaptic endosome,GO:0098830,Osteoarthritis,MESH:D010003,0,,1,CTSD
+presynaptic membrane,GO:0042734,Osteoarthritis,MESH:D010003,0,,1,ATP1A3
+proteasome complex,GO:0000502,Osteoarthritis,MESH:D010003,0,,1,PSMB1
+proteasome core complex,GO:0005839,Osteoarthritis,MESH:D010003,1,Curcumin,1,PSMB1
+"proteasome core complex, beta-subunit complex",GO:0019774,Osteoarthritis,MESH:D010003,0,,1,PSMB1
+protein-containing complex,GO:0032991,Osteoarthritis,MESH:D010003,0,,11,ACTB|ATP1A3|CLU|COL6A2|COMP|DPYSL2|EZR|PTGS2|RAN|RUNX2|YWHAQ
+protein-containing complex,GO:0032991,"Osteoarthritis, Hip",MESH:D015207,0,,2,COMP|RUNX2
+protein-containing complex,GO:0032991,"Osteoarthritis, Knee",MESH:D020370,0,,1,LTBP1
+protein-containing complex,GO:0032991,"Osteoarthritis, Spine",MESH:D055013,0,,1,TNF
+protein phosphatase type 2A complex,GO:0000159,Osteoarthritis,MESH:D010003,0,,1,PPP2R1A
+"proton-transporting V-type ATPase, V1 domain",GO:0033180,Osteoarthritis,MESH:D010003,0,,1,ATP6V1B2
+pseudopodium,GO:0031143,Osteoarthritis,MESH:D010003,0,,1,MSN
+pyruvate dehydrogenase complex,GO:0045254,Osteoarthritis,MESH:D010003,0,,1,PDHA1
+receptor complex,GO:0043235,Osteoarthritis,MESH:D010003,0,,2,PPARG|SMAD3
+receptor complex,GO:0043235,"Osteoarthritis, Hip",MESH:D015207,0,,1,SMAD3
+recycling endosome,GO:0055037,Osteoarthritis,MESH:D010003,0,,1,RAN
+recycling endosome,GO:0055037,"Osteoarthritis, Hip",MESH:D015207,0,,1,HFE
+recycling endosome,GO:0055037,"Osteoarthritis, Spine",MESH:D055013,0,,1,TNF
+respiratory chain complex I,GO:0045271,Osteoarthritis,MESH:D010003,0,,2,NDUFS8|NDUFV1
+respiratory chain complex II,GO:0045273,Osteoarthritis,MESH:D010003,0,,1,SDHA
+ribonucleoprotein complex,GO:1990904,Osteoarthritis,MESH:D010003,0,,4,ACTB|EEF2|GAPDH|MVP
+ribosome,GO:0005840,Osteoarthritis,MESH:D010003,0,,1,EEF2
+ripoptosome,GO:0097342,Osteoarthritis,MESH:D010003,1,Ethanol,0,
+RISC complex,GO:0016442,Osteoarthritis,MESH:D010003,0,,1,RAN
+RISC complex,GO:0016442,"Osteoarthritis, Knee",MESH:D020370,0,,1,MIR219A1
+RISC complex,GO:0016442,"Osteoarthritis, Spine",MESH:D055013,0,,1,MIR337
+RNA nuclear export complex,GO:0042565,Osteoarthritis,MESH:D010003,0,,1,RAN
+RNA polymerase II transcription regulator complex,GO:0090575,Osteoarthritis,MESH:D010003,0,,1,PPARG
+rough endoplasmic reticulum,GO:0005791,Osteoarthritis,MESH:D010003,0,,1,PLOD2
+rough endoplasmic reticulum membrane,GO:0030867,Osteoarthritis,MESH:D010003,0,,1,PLOD2
+RSC-type complex,GO:0016586,Osteoarthritis,MESH:D010003,0,,1,ACTB
+ruffle,GO:0001726,Osteoarthritis,MESH:D010003,0,,3,ATP6V1B2|EZR|NME2
+ruffle membrane,GO:0032587,Osteoarthritis,MESH:D010003,0,,2,EZR|TRPV4
+sarcoglycan complex,GO:0016012,Osteoarthritis,MESH:D010003,0,,1,SGCG
+sarcolemma,GO:0042383,Osteoarthritis,MESH:D010003,0,,4,ATP1A3|COL6A2|SGCG|SLC2A1
+SCF ubiquitin ligase complex,GO:0019005,"Osteoarthritis, Spine",MESH:D055013,0,,1,SKP2
+Schaffer collateral - CA1 synapse,GO:0098685,Osteoarthritis,MESH:D010003,0,,2,ACTB|DPYSL2
+Schwann cell microvillus,GO:0097454,Osteoarthritis,MESH:D010003,0,,1,EZR
+secretory granule,GO:0030141,Osteoarthritis,MESH:D010003,0,,2,IL1B|TGFB1
+secretory granule,GO:0030141,"Osteoarthritis, Spine",MESH:D055013,0,,1,TNF
+secretory granule lumen,GO:0034774,Osteoarthritis,MESH:D010003,0,,5,DDX3X|EEF2|MVP|NME2|PSMB1
+secretory granule membrane,GO:0030667,Osteoarthritis,MESH:D010003,0,,1,LGALS3
+side of membrane,GO:0098552,Osteoarthritis,MESH:D010003,0,,1,DPEP1
+site of double-strand break,GO:0035861,Osteoarthritis,MESH:D010003,1,Curcumin,0,
+SMAD protein complex,GO:0071141,Osteoarthritis,MESH:D010003,0,,1,SMAD3
+SMAD protein complex,GO:0071141,"Osteoarthritis, Hip",MESH:D015207,0,,1,SMAD3
+Smc5-Smc6 complex,GO:0030915,Osteoarthritis,MESH:D010003,0,,1,TXNRD1
+sodium:potassium-exchanging ATPase complex,GO:0005890,Osteoarthritis,MESH:D010003,0,,1,ATP1A3
+somatodendritic compartment,GO:0036477,"Osteoarthritis, Hip",MESH:D015207,0,,1,MAPT
+specific granule lumen,GO:0035580,Osteoarthritis,MESH:D010003,0,,2,CHI3L1|CTSD
+sperm flagellum,GO:0036126,Osteoarthritis,MESH:D010003,0,,1,RAN
+sperm flagellum,GO:0036126,"Osteoarthritis, Knee",MESH:D020370,1,rhoifolin,0,
+sperm head,GO:0061827,"Osteoarthritis, Knee",MESH:D020370,1,rhoifolin,0,
+sperm midpiece,GO:0097225,Osteoarthritis,MESH:D010003,0,,1,VDAC2
+sperm midpiece,GO:0097225,"Osteoarthritis, Knee",MESH:D020370,1,rhoifolin,0,
+spherical high-density lipoprotein particle,GO:0034366,Osteoarthritis,MESH:D010003,0,,1,CLU
+spliceosomal complex,GO:0005681,Osteoarthritis,MESH:D010003,0,,1,LGALS3
+stereocilium,GO:0032420,Osteoarthritis,MESH:D010003,0,,1,PLS3
+stress fiber,GO:0001725,Osteoarthritis,MESH:D010003,0,,1,ACTB
+stress fiber,GO:0001725,"Osteoarthritis, Hip",MESH:D015207,0,,1,FILIP1
+SUMO ligase complex,GO:0106068,Osteoarthritis,MESH:D010003,0,,1,PPARG
+SWI/SNF complex,GO:0016514,Osteoarthritis,MESH:D010003,0,,1,ACTB
+synapse,GO:0045202,Osteoarthritis,MESH:D010003,1,Curcumin,10,ACTB|ATP1A3|ATP6V1B2|CLU|DPYSL2|EEF2|GLS|PPP2R1A|SLC2A1|YWHAQ
+synapse,GO:0045202,SHORT STATURE AND ADVANCED BONE AGE WITH OR WITHOUT EARLY-ONSET OSTEOARTHRITIS AND/OR OSTEOCHONDRITIS DISSECANS,OMIM:165800,0,,1,ACAN
+synaptic membrane,GO:0097060,Osteoarthritis,MESH:D010003,0,,1,ENO1
+synaptic vesicle,GO:0008021,Osteoarthritis,MESH:D010003,0,,1,VDAC2
+synaptic vesicle membrane,GO:0030672,Osteoarthritis,MESH:D010003,0,,1,ATP6V1B2
+tenascin complex,GO:0090733,"Osteoarthritis, Hip",MESH:D015207,0,,1,TNC
+terminal bouton,GO:0043195,Osteoarthritis,MESH:D010003,0,,2,CALCA|DPYSL2
+terminal web,GO:1990357,"Osteoarthritis, Hip",MESH:D015207,0,,1,HFE
+tertiary granule lumen,GO:1904724,Osteoarthritis,MESH:D010003,0,,1,CTSD
+tight junction,GO:0070160,Osteoarthritis,MESH:D010003,0,,1,ACTB
+transcription regulator complex,GO:0005667,Osteoarthritis,MESH:D010003,0,,3,RUNX2|SDHA|SMAD3
+transcription regulator complex,GO:0005667,"Osteoarthritis, Hip",MESH:D015207,0,,3,HDAC9|RUNX2|SMAD3
+trans-Golgi network,GO:0005802,"Osteoarthritis, Hip",MESH:D015207,0,,1,CRHR1
+tRNA-intron endonuclease complex,GO:0000214,Osteoarthritis,MESH:D010003,0,,1,PPARG
+T-tubule,GO:0030315,Osteoarthritis,MESH:D010003,0,,2,EZR|MSN
+tubulin complex,GO:0045298,"Osteoarthritis, Hip",MESH:D015207,0,,1,MAPT
+type III intermediate filament,GO:0045098,Osteoarthritis,MESH:D010003,0,,1,VIM
+ubiquitin ligase complex,GO:0000151,"Osteoarthritis, Knee",MESH:D020370,0,,1,WWP2
+uropod,GO:0001931,Osteoarthritis,MESH:D010003,0,,2,EZR|MSN
+"vacuolar proton-transporting V-type ATPase, V1 domain",GO:0000221,Osteoarthritis,MESH:D010003,0,,1,ATP6V1B2
+vesicle,GO:0031982,Osteoarthritis,MESH:D010003,0,,5,BMP4|BMP6|CLIC4|IL1B|SLC2A1
+vesicle,GO:0031982,"Osteoarthritis, Hip",MESH:D015207,0,,1,CRHR1
+Z disc,GO:0030018,Osteoarthritis,MESH:D010003,0,,1,SLC2A1

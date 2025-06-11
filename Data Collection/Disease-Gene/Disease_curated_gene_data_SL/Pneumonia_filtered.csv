@@ -1,0 +1,69 @@
+GeneSymbol,GeneID,DiseaseName,DiseaseID,DirectEvidence,OmimIDs,PubMedIDs
+ABCF1,23,Pneumonia,MESH:D011014,marker/mechanism,,21625544
+ACE,1636,"Pneumonia, Viral",MESH:D011024,marker/mechanism,,15381116
+AGT,183,Pneumonia,MESH:D011014,therapeutic,,28960804
+AHR,196,Pneumonia,MESH:D011014,marker/mechanism,,23337360
+CASP1,834,Pneumonia,MESH:D011014,marker/mechanism,,21625544
+CCL11,6356,Pneumonia,MESH:D011014,marker/mechanism,,21625544
+CCL12,20293,Pneumonia,MESH:D011014,marker/mechanism,,21625544
+CCL17,6361,Pneumonia,MESH:D011014,marker/mechanism,,21625544
+CCL19,6363,Pneumonia,MESH:D011014,marker/mechanism,,21625544
+CCL2,6347,Pneumonia,MESH:D011014,marker/mechanism,,21625544
+CCL20,6364,Pneumonia,MESH:D011014,marker/mechanism,,21625544
+CCL24,6369,Pneumonia,MESH:D011014,marker/mechanism,,21625544
+CCL4,6351,Pneumonia,MESH:D011014,marker/mechanism,,21625544
+CCL7,6354,Pneumonia,MESH:D011014,marker/mechanism,,21625544
+CCL8,6355,Pneumonia,MESH:D011014,marker/mechanism,,21625544
+CCL9,20308,Pneumonia,MESH:D011014,marker/mechanism,,21625544
+CCR1,1230,Pneumonia,MESH:D011014,marker/mechanism,,21625544
+CCR2,729230,Pneumonia,MESH:D011014,marker/mechanism,,21625544
+CCR6,1235,Pneumonia,MESH:D011014,marker/mechanism,,21625544
+CCR9,10803,Pneumonia,MESH:D011014,marker/mechanism,,21625544
+CD40LG,959,Pneumonia,MESH:D011014,marker/mechanism,,21625544
+CSF2,1437,Pneumonia,MESH:D011014,marker/mechanism,,11732872
+CX3CL1,6376,Pneumonia,MESH:D011014,marker/mechanism,,21625544
+CXCL1,2919,Pneumonia,MESH:D011014,marker/mechanism,,21625544
+CXCL15,20309,Pneumonia,MESH:D011014,marker/mechanism,,21625544
+CXCL5,6374,Pneumonia,MESH:D011014,marker/mechanism,,21625544
+CXCL8,3576,"Pneumonia, Pneumococcal",MESH:D011018,marker/mechanism,,24894820
+CXCL9,4283,Pneumonia,MESH:D011014,marker/mechanism,,21625544
+CXCR2,3579,Pneumonia,MESH:D011014,marker/mechanism,,21625544
+CXCR3,2833,Pneumonia,MESH:D011014,marker/mechanism,,21625544
+DEFB4A,1673,"Pneumonia, Pneumococcal",MESH:D011018,marker/mechanism,,24894820
+EGR1,1958,Pneumonia,MESH:D011014,therapeutic,,29787794
+HMOX1,3162,Pneumonia,MESH:D011014,marker/mechanism,,16582079
+IFNG,3458,Pneumonia,MESH:D011014,marker/mechanism,,21625544
+IKBKB,3551,Pneumonia,MESH:D011014,marker/mechanism,,31095431
+IL13,3596,Pneumonia,MESH:D011014,marker/mechanism,,21625544
+IL17A,3605,Pneumonia,MESH:D011014,marker/mechanism,,21625544
+IL18,3606,Pneumonia,MESH:D011014,marker/mechanism,,21625544
+IL1B,3553,Pneumonia,MESH:D011014,marker/mechanism,,21625544
+IL1R1,3554,Pneumonia,MESH:D011014,marker/mechanism,,21625544
+IL1R2,7850,Pneumonia,MESH:D011014,marker/mechanism,,21625544
+IL2RB,3560,Pneumonia,MESH:D011014,marker/mechanism,,21625544
+IL33,90865,Pneumonia,MESH:D011014,marker/mechanism,,24453940
+IL4,3565,Pneumonia,MESH:D011014,marker/mechanism,,21625544
+IL5RA,3568,Pneumonia,MESH:D011014,marker/mechanism,,21625544
+IL6,3569,Pneumonia,MESH:D011014,marker/mechanism,,21625544
+IL6ST,3572,Pneumonia,MESH:D011014,marker/mechanism,,21625544
+ITGB2,3689,Pneumonia,MESH:D011014,marker/mechanism,,21625544
+LIAS,11019,Pneumonia,MESH:D011014,therapeutic,,32017981
+MAPK1,5594,"Pneumonia, Pneumococcal",MESH:D011018,marker/mechanism,,24894820
+MAPK3,5595,"Pneumonia, Pneumococcal",MESH:D011018,marker/mechanism,,24894820
+MASP2,10747,"Pneumonia, Pneumococcal",MESH:D011018,marker/mechanism,,12904520
+MIR150,406942,Pneumonia,MESH:D011014,therapeutic,,29205062
+MYD88,4615,Pneumonia,MESH:D011014,marker/mechanism,,26882889
+MYLK,4638,Pneumonia,MESH:D011014,marker/mechanism,,15863634
+NOS2,4843,"Pneumonia, Aspiration",MESH:D011015,marker/mechanism,,15607125
+OVAL,396058,Pneumonia,MESH:D011014,marker/mechanism,,23642096
+PARP1,142,Pneumonia,MESH:D011014,marker/mechanism,,20561897
+PF4,5196,Pneumonia,MESH:D011014,marker/mechanism,,21625544
+POMC,5443,Pneumonia,MESH:D011014,marker/mechanism,,6254450
+SIRT1,23411,Pneumonia,MESH:D011014,therapeutic,,24633890
+SIRT1,23411,"Pneumonia, Pneumococcal",MESH:D011018,marker/mechanism,,24894820
+SPP1,6696,Pneumonia,MESH:D011014,marker/mechanism,,21625544
+TGFB1,7040,Pneumonia,MESH:D011014,marker/mechanism,,21625544
+TLR4,7099,Pneumonia,MESH:D011014,marker/mechanism,,26882889
+TNF,7124,Pneumonia,MESH:D011014,marker/mechanism|therapeutic,,21625544|28917655|34390737
+TNFRSF1A,7132,Pneumonia,MESH:D011014,marker/mechanism,,21625544
+TNFRSF1B,7133,Pneumonia,MESH:D011014,marker/mechanism,,21625544

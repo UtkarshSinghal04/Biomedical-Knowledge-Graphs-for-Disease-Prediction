@@ -1,0 +1,309 @@
+GeneSymbol,GeneID,DiseaseName,DiseaseID,DirectEvidence,OmimIDs,PubMedIDs
+ABCA3,21,"Hypertension, Pulmonary",MESH:D006976,marker/mechanism,,26780485
+ABCC1,4363,Hypertension,MESH:D006973,marker/mechanism,,17272743
+ACE,1636,Hypertension,MESH:D006973,marker/mechanism,,15773232|17473847|20237592|27847271
+ACE,1636,"Hypertension, Pulmonary",MESH:D006976,marker/mechanism,,12359135
+ACE2,59272,Hypertension,MESH:D006973,marker/mechanism|therapeutic,,12075344|15833808|17473847|18391097|19221212|20559404|21859683
+ACE2,59272,"Hypertension, Pulmonary",MESH:D006976,therapeutic,,31931441
+ACVRL1,94,"Hypertension, Pulmonary",MESH:D006976,marker/mechanism,,26540443
+ADCY5,111,Hypertension,MESH:D006973,marker/mechanism,,12717102
+ADD1,118,Essential Hypertension,MESH:D000075222,marker/mechanism,145500,
+ADD1,118,Hypertension,MESH:D006973,marker/mechanism,,15773232|19199261
+ADIPOQ,9370,Hypertension,MESH:D006973,marker/mechanism,,12860835
+ADRA2A,150,Hypertension,MESH:D006973,marker/mechanism,,10694191
+ADRB1,153,Hypertension,MESH:D006973,marker/mechanism,,10673262|9260993
+AGER,177,Hypertension,MESH:D006973,marker/mechanism,,32147540
+AGT,183,Hypertension,MESH:D006973,marker/mechanism|therapeutic,,10400907|10526905|11459117|11501062|12084390|12121858|12414515|12600921|12676074|1394429|1432030|14751847|15243307|15302986|15699457|15833808|15851630|16618834|16788141|16868307|17272743|17537837|17989111|18420994|1849535|1860718|18679781|1875449|18768397|18785976|18847324|19109942|19133994|19373235|19770776|19858406|19934029|20231528|20429690|20713914|20811386|20837116|20937366|21289285|21393355|21420289|21501650|22083158|22214961|22452651|22753205|22982863|24342267|24347665|24386282|24935938|24965170|25139994|25259750|25398788|25874449|26564064|26648693|26781276|27225954|27678262|27798352|27889505|2831029|2835134|29706566|30354818|30634441|31016362|31098697|3158602|31786979|43064|6742791|7323490|8021468|8109997|8505092|9024144|9260993
+AGT,183,"Hypertension, Malignant",MESH:D006974,marker/mechanism,,2493837|27428043
+AGT,183,"Hypertension, Renal",MESH:D006977,marker/mechanism,,8763405
+AGTR1,185,Essential Hypertension,MESH:D000075222,marker/mechanism,145500,
+AGTR1,185,Hypertension,MESH:D006973,marker/mechanism,,19047579|23603059|27292124|8952600
+AGTR1B,11608,Hypertension,MESH:D006973,marker/mechanism,,22728133|27847271
+AGTR2,186,Hypertension,MESH:D006973,marker/mechanism,,15710752
+AHR,196,Hypertension,MESH:D006973,marker/mechanism,,21115475
+AHR,196,Pulmonary Arterial Hypertension,MESH:D000081029,marker/mechanism,,33836606
+AIF1,199,Essential Hypertension,MESH:D000075222,marker/mechanism,,34453990
+AIF1,199,Hypertension,MESH:D006973,marker/mechanism,,32147540
+ALAD,210,Hypertension,MESH:D006973,marker/mechanism,,20123609
+ALB,213,Hypertension,MESH:D006973,therapeutic,,2526952
+ALOX15,246,Hypertension,MESH:D006973,marker/mechanism,,22467300
+ALOX5,240,"Hypertension, Pulmonary",MESH:D006976,marker/mechanism,,14726295
+ANXA1,301,Hypertension,MESH:D006973,marker/mechanism,,22228705
+AOC1,26,Hypertension,MESH:D006973,marker/mechanism,,6218830
+AOC3,8639,Hypertension,MESH:D006973,marker/mechanism,,23154672
+APOA1,335,Hypertension,MESH:D006973,marker/mechanism,,18224302
+APOE,348,Hypertension,MESH:D006973,marker/mechanism,,20720404|22228705
+AQP1,358,Hypertension,MESH:D006973,marker/mechanism,,22228705
+AR,367,Hypertension,MESH:D006973,marker/mechanism,,10523385
+ARG2,384,"Hypertension, Pulmonary",MESH:D006976,marker/mechanism,,24951775
+ATOX1,475,Hypertension,MESH:D006973,therapeutic,,22753205
+ATP1A1,476,Hypertension,MESH:D006973,marker/mechanism,,23416519
+ATP1A2,477,Hypertension,MESH:D006973,marker/mechanism,,16166162|16243970
+ATP1B1,481,Essential Hypertension,MESH:D000075222,marker/mechanism,145500,
+ATP2B1,490,Hypertension,MESH:D006973,marker/mechanism,,19430479
+ATP2B3,492,Hypertension,MESH:D006973,marker/mechanism,,23416519
+ATP7A,538,"Hypertension, Pulmonary",MESH:D006976,marker/mechanism,,24614111
+AVP,551,Hypertension,MESH:D006973,marker/mechanism,,1663982|19133994|3346065|4040330|6367368
+AVP,551,"Hypertension, Portal",MESH:D006975,therapeutic,,6696534
+BCL2,596,Hypertension,MESH:D006973,marker/mechanism,,10075388
+BDKRB2,624,Hypertension,MESH:D006973,marker/mechanism,,10614985
+BMPR2,659,Familial Primary Pulmonary Hypertension,MESH:D065627,marker/mechanism,,25460361
+BMPR2,659,"Hypertension, Pulmonary",MESH:D006976,marker/mechanism,178600,11590841|11893684|12358323|16297860|20496075|20522807|23383100|23502781|24224048
+BMPR2,659,Pulmonary Arterial Hypertension,MESH:D000081029,marker/mechanism,,28415675
+BRD4,23476,"Hypertension, Pulmonary",MESH:D006976,therapeutic,,26224795
+CA9,768,"Hypertension, Pulmonary",MESH:D006976,marker/mechanism,,20110409
+CACNA1C,775,Hypertension,MESH:D006973,marker/mechanism,,22949532
+CACNA2D1,781,Hypertension,MESH:D006973,marker/mechanism,,22949532
+CALCA,796,Hypertension,MESH:D006973,therapeutic,,1849535|9887042
+CALCA,796,"Hypertension, Pulmonary",MESH:D006976,therapeutic,,1357980
+CALY,50632,Essential Hypertension,MESH:D000075222,marker/mechanism,,30753204
+CAT,847,Hypertension,MESH:D006973,marker/mechanism,,11479740|20667508|21593737|22228705
+CAV1,857,Familial Primary Pulmonary Hypertension,MESH:D065627,marker/mechanism,615343,
+CAV1,857,Hypertension,MESH:D006973,marker/mechanism,,1798635
+CBLN2,147381,"Hypertension, Pulmonary",MESH:D006976,marker/mechanism,,23502781
+CBS,875,Hypertension,MESH:D006973,marker/mechanism,,18224302
+CCL1,6346,"Hypertension, Pulmonary",MESH:D006976,marker/mechanism,,22507635
+CCL2,6347,Hypertension,MESH:D006973,marker/mechanism,,20667508|27292124
+CCL2,6347,"Hypertension, Pulmonary",MESH:D006976,marker/mechanism,,15302794|30418988
+CCN2,1490,Hypertension,MESH:D006973,marker/mechanism,,16685210
+CD36,948,Hypertension,MESH:D006973,marker/mechanism,,18587397
+CD40LG,959,"Hypertension, Pulmonary",MESH:D006976,marker/mechanism,,15302794
+CELA2A,63036,Hypertension,MESH:D006973,marker/mechanism,,21602471
+CETP,1071,Hypertension,MESH:D006973,marker/mechanism,,20511482
+CLCNKA,1187,Hypertension,MESH:D006973,marker/mechanism,,18480177
+CMA1,1215,Hypertension,MESH:D006973,marker/mechanism,,14620933
+COL1A1,1277,Hypertension,MESH:D006973,marker/mechanism,,11682445
+COL3A1,1281,Hypertension,MESH:D006973,marker/mechanism,,11682445
+CPS1,1373,"PULMONARY HYPERTENSION, NEONATAL, SUSCEPTIBILITY TO",OMIM:615371,marker/mechanism,615371,
+CRHR2,1395,Hypertension,MESH:D006973,marker/mechanism,,10742107
+CRP,1401,Hypertension,MESH:D006973,marker/mechanism,,14620923|16680063|19770776|20667508
+CXCL2,2920,Hypertension,MESH:D006973,marker/mechanism,,22352330
+CXCL8,3576,"Hypertension, Pulmonary",MESH:D006976,marker/mechanism,,15302794
+CXCR2,3579,Hypertension,MESH:D006973,marker/mechanism,,27678262
+CYBA,1535,Essential Hypertension,MESH:D000075222,marker/mechanism,,34453990
+CYBA,1535,Hypertension,MESH:D006973,marker/mechanism,,16685210|17324946|20505675|32147540
+CYBB,1536,Essential Hypertension,MESH:D000075222,marker/mechanism,,34453990
+CYBB,1536,Hypertension,MESH:D006973,marker/mechanism,,16685210|21593737|27659729|27847271|32147540|32165127
+CYP17A1,1586,"Hypertension, Malignant",MESH:D006974,marker/mechanism,,3142437
+CYP1A1,1543,Hypertension,MESH:D006973,marker/mechanism,,20634294|22995157
+CYP3A5,1577,Essential Hypertension,MESH:D000075222,marker/mechanism,145500,
+CYP4A10,13117,Hypertension,MESH:D006973,marker/mechanism,,16691295
+CYP4F2,8529,Hypertension,MESH:D006973,marker/mechanism,,30932691
+DDIT3,1649,Ocular Hypertension,MESH:D009798,therapeutic,,24691439
+DGUOK,1716,"Hypertension, Portal",MESH:D006975,marker/mechanism,617068,
+DRD2,1813,Hypertension,MESH:D006973,marker/mechanism,,11566895
+DUSP5,1847,Hypertension,MESH:D006973,marker/mechanism,,25397684
+ECE1,1889,Essential Hypertension,MESH:D000075222,marker/mechanism,145500,
+ECE1,1889,Hypertension,MESH:D006973,marker/mechanism,,12566389
+EDN1,1906,Hypertension,MESH:D006973,marker/mechanism,,10474778|10669576|11847185|12149661|12425201|12600921|15188945|15302986|15314687|15834289|17130675|7721406|8152482|8440307
+EDN1,1906,"Hypertension, Pulmonary",MESH:D006976,marker/mechanism,,12391278|20929026|20967148|7549228|9918753
+EDN3,1908,Hypertension,MESH:D006973,marker/mechanism,,2059916
+EDNRA,1909,Hypertension,MESH:D006973,marker/mechanism,,12600921
+EDNRB,1910,"Hypertension, Pulmonary",MESH:D006976,marker/mechanism,,15927975
+EIF2AK4,440275,"Hypertension, Pulmonary",MESH:D006976,marker/mechanism,,24292273
+ELN,2006,Hypertension,MESH:D006973,marker/mechanism,,17039479
+EPO,2056,Hypertension,MESH:D006973,marker/mechanism,,10694834|1516988
+ERAP1,51752,Hypertension,MESH:D006973,marker/mechanism,,13678427
+F11,2160,Hypertension,MESH:D006973,marker/mechanism,,6383834
+F12,2161,Hypertension,MESH:D006973,marker/mechanism,,6383834
+FBLN5,10516,"Hypertension, Pulmonary",MESH:D006976,marker/mechanism,,12189163
+FFAR2,2867,Essential Hypertension,MESH:D000075222,marker/mechanism,,34453990
+FFAR3,2865,Essential Hypertension,MESH:D000075222,marker/mechanism,,34453990
+FGF21,26291,Hypertension,MESH:D006973,therapeutic,,29706566
+FN1,2335,Hypertension,MESH:D006973,marker/mechanism,,11682445|17324946
+FNDC5,252995,Hypertension,MESH:D006973,therapeutic,,32165127
+FOS,2353,Hypertension,MESH:D006973,marker/mechanism,,12044476|24039778
+FOXO1,2308,"Hypertension, Pulmonary",MESH:D006976,marker/mechanism,,27663689
+FXYD2,486,Hypertension,MESH:D006973,marker/mechanism,,22228705
+GAD1,2571,Hypertension,MESH:D006973,marker/mechanism,,32165127
+GAL,51083,Hypertension,MESH:D006973,marker/mechanism,,10818254
+GBA1,2629,"Hypertension, Pulmonary",MESH:D006976,marker/mechanism,,12359135
+GCG,2641,Hypertension,MESH:D006973,marker/mechanism,,22228705
+GCH1,2643,Hypertension,MESH:D006973,marker/mechanism,,12855421
+GCLC,2729,Hypertension,MESH:D006973,marker/mechanism,,22228705
+GDF2,2658,"Hypertension, Pulmonary",MESH:D006976,marker/mechanism,,26801773
+GJA1,2697,Hypertension,MESH:D006973,marker/mechanism|therapeutic,,16448880|36720419
+GJA4,2701,Hypertension,MESH:D006973,marker/mechanism,,16448880
+GJA5,2702,Hypertension,MESH:D006973,marker/mechanism,,19109587
+GJC1,10052,Hypertension,MESH:D006973,therapeutic,,19109587
+GLP1R,2740,Hypertension,MESH:D006973,marker/mechanism,,22228705
+GNAS,2778,Hypertension,MESH:D006973,marker/mechanism,,9506701
+GNB3,2784,Essential Hypertension,MESH:D000075222,marker/mechanism,145500,
+GNB3,2784,Hypertension,MESH:D006973,marker/mechanism,,15961981|16141801
+GNRH1,2796,Hypertension,MESH:D006973,marker/mechanism,,6350720
+GP1BA,2811,Hypertension,MESH:D006973,marker/mechanism,,22352330
+GPX1,2876,Hypertension,MESH:D006973,marker/mechanism,,21593737
+GRK2,156,Hypertension,MESH:D006973,marker/mechanism,,11901213
+GSK3B,2932,Hypertension,MESH:D006973,marker/mechanism,,22982863
+GSTA5,221357,Hypertension,MESH:D006973,marker/mechanism,,22228705
+GSTP1,2950,Hypertension,MESH:D006973,marker/mechanism,,24915237
+GSTT1,2952,Hypertension,MESH:D006973,marker/mechanism,,22228705
+GSTT2,2953,Hypertension,MESH:D006973,marker/mechanism,,22228705
+GUCY1A1,2982,Hypertension,MESH:D006973,marker/mechanism,,18339647
+HCAR3,8843,Essential Hypertension,MESH:D000075222,marker/mechanism,,34453990
+HDAC1,3065,Familial Primary Pulmonary Hypertension,MESH:D065627,marker/mechanism,,22711276
+HDAC4,9759,Familial Primary Pulmonary Hypertension,MESH:D065627,marker/mechanism,,22711276
+HDAC5,10014,Familial Primary Pulmonary Hypertension,MESH:D065627,marker/mechanism,,22711276
+HIF1A,3091,Hypertension,MESH:D006973,therapeutic,,22349312
+HIF1A,3091,"Hypertension, Pulmonary",MESH:D006976,marker/mechanism,,20110409
+HMGB1,3146,Essential Hypertension,MESH:D000075222,marker/mechanism,,34453990
+HMGB1,3146,Hypertension,MESH:D006973,marker/mechanism,,32147540
+HMOX1,3162,Hypertension,MESH:D006973,marker/mechanism|therapeutic,,16959961|22349312|22352330
+HP,3240,Hypertension,MESH:D006973,marker/mechanism,,16597321
+HP,3240,"Hypertension, Pregnancy-Induced",MESH:D046110,marker/mechanism,,16597321
+HRH2,3274,Hypertension,MESH:D006973,marker/mechanism,,30310171
+HRH3,11255,Hypertension,MESH:D006973,marker/mechanism,,9050021
+HSD11B1,3290,Hypertension,MESH:D006973,marker/mechanism,,15199296|21786805|9683905
+HSD11B2,3291,Hypertension,MESH:D006973,marker/mechanism,,11082157|7670488|9683905|9707624
+HTR2B,3357,Hypertension,MESH:D006973,marker/mechanism,,8627522
+HTR2B,3357,"Hypertension, Pulmonary",MESH:D006976,marker/mechanism,,14659797
+ICAM1,3383,Hypertension,MESH:D006973,marker/mechanism,,12149661|12425201
+IER3,8870,Hypertension,MESH:D006973,marker/mechanism,,20713914
+IGF1,3479,Hypertension,MESH:D006973,marker/mechanism|therapeutic,,19502719|22228705
+IKBKB,3551,Hypertension,MESH:D006973,marker/mechanism,,27659729|32147540
+IL1B,3553,Essential Hypertension,MESH:D000075222,marker/mechanism,,34453990
+IL1B,3553,Hypertension,MESH:D006973,marker/mechanism,,27292124|27659729|27847271|32147540|32165127
+IL6,3569,Hypertension,MESH:D006973,marker/mechanism,,27292124|27659729|27847271|32147540|32165127
+INPPL1,3636,Hypertension,MESH:D006973,marker/mechanism,,15220217
+INS,3630,Hypertension,MESH:D006973,marker/mechanism|therapeutic,,18360027|9719048
+INS2,16334,Hypertension,MESH:D006973,marker/mechanism,,29211853
+ITM2B,9445,Hypertension,MESH:D006973,marker/mechanism,,22228705
+JUN,3725,Hypertension,MESH:D006973,marker/mechanism,,24039778
+KCNA5,3741,"Hypertension, Pulmonary",MESH:D006976,marker/mechanism,,27522126
+KCNJ1,3758,Hypertension,MESH:D006973,marker/mechanism,,22228705
+KCNK3,3777,Familial Primary Pulmonary Hypertension,MESH:D065627,marker/mechanism,615344,
+KCNK3,3777,"Hypertension, Pulmonary",MESH:D006976,marker/mechanism,,30365877
+KCNMA1,3778,"Hypertension, Pulmonary",MESH:D006976,marker/mechanism,,28090300
+KCNMB1,3779,Hypertension,MESH:D006973,marker/mechanism,,17700361
+KCNMB1,3779,"Hypertension, Diastolic, Resistance to",MESH:C563897,marker/mechanism,608622,
+KLK1,3816,Hypertension,MESH:D006973,therapeutic,,14568997
+KNG1,3827,Hypertension,MESH:D006973,marker/mechanism,,7027322
+LEP,3952,Hypertension,MESH:D006973,marker/mechanism,,12050272|16827954|25205467|27226618
+LEPR,3953,Hypertension,MESH:D006973,marker/mechanism,,22949526
+LEPR,3953,"Hypertension, Pulmonary",MESH:D006976,marker/mechanism,,30689673
+LHB,3972,Hypertension,MESH:D006973,marker/mechanism,,6350720
+LOX,4015,"Hypertension, Pulmonary",MESH:D006976,marker/mechanism,,24614111
+LPL,4023,Hypertension,MESH:D006973,marker/mechanism,,22228705
+LTF,4057,Hypertension,MESH:D006973,therapeutic,,24587916
+MC2R,4158,Hypertension,MESH:D006973,marker/mechanism,,11082157
+MCPT1,17224,Hypertension,MESH:D006973,marker/mechanism,,11416217
+MDH1,4190,Hypertension,MESH:D006973,marker/mechanism,,22228705
+MIR204,406987,"Hypertension, Pulmonary",MESH:D006976,marker/mechanism,,26224795
+MMP1,4312,Ocular Hypertension,MESH:D009798,therapeutic,,20089869
+MMP2,4313,Hypertension,MESH:D006973,marker/mechanism,,18836702
+MMP9,4318,Hypertension,MESH:D006973,marker/mechanism,,21051829
+MOXD2,194357,Hypertension,MESH:D006973,marker/mechanism,,3814904
+MTOR,2475,Hypertension,MESH:D006973,marker/mechanism,,19289642
+MYD88,4615,Hypertension,MESH:D006973,marker/mechanism,,27292124
+MYH7,4625,Hypertension,MESH:D006973,marker/mechanism,,32147540
+MYH9,4627,"Hypertension, Renal",MESH:D006977,marker/mechanism,,18794856
+NCF1,653361,Essential Hypertension,MESH:D000075222,marker/mechanism,,34453990
+NCF1,653361,Hypertension,MESH:D006973,marker/mechanism,,16331104|17324946|19018797|32165127
+NEDD4L,23327,Hypertension,MESH:D006973,marker/mechanism,,18524855|23348737
+NFATC2,4773,"Hypertension, Pulmonary",MESH:D006976,marker/mechanism,,27522126
+NFE2L2,4780,Hypertension,MESH:D006973,marker/mechanism,,32165127
+NHERF2,9351,Hypertension,MESH:D006973,marker/mechanism,,22228705
+NOS2,4843,Hypertension,MESH:D006973,marker/mechanism,,18605955|25101153|27292124
+NOS3,4846,Essential Hypertension,MESH:D000075222,marker/mechanism,145500,
+NOS3,4846,Hypertension,MESH:D006973,marker/mechanism|therapeutic,,11457755|12947532|16331104|19008412|19407804
+NOS3,4846,"Hypertension, Portal",MESH:D006975,therapeutic,,18070013
+NOS3,4846,"Hypertension, Pregnancy-Induced",MESH:D046110,marker/mechanism,,11745998
+NOS3,4846,"Hypertension, Pulmonary",MESH:D006976,marker/mechanism,,21144100
+NOS3,4846,"Hypertension, Renovascular",MESH:D006978,therapeutic,,18641695
+NOX4,50507,Hypertension,MESH:D006973,marker/mechanism,,27659729|27847271|32147540
+NPPA,4878,Hypertension,MESH:D006973,marker/mechanism|therapeutic,,12940879|19219041|24039778|2526952|32147540|7839143|8188982|9869009
+NPPA,4878,"Hypertension, Renal",MESH:D006977,marker/mechanism,,8763405
+NPPB,4879,Hypertension,MESH:D006973,marker/mechanism|therapeutic,,19219041|24039778|30310171|32147540|9194512
+NPPB,4879,"Hypertension, Pulmonary",MESH:D006976,marker/mechanism,,20408845|21351102
+NPR1,4881,Hypertension,MESH:D006973,marker/mechanism,,20881240
+NPTN,27020,Hypertension,MESH:D006973,marker/mechanism,,22228705
+NR3C1,2908,Hypertension,MESH:D006973,marker/mechanism,,18434569|20659135
+NR3C1,2908,Ocular Hypertension,MESH:D009798,marker/mechanism,,17563720
+NR3C2,4306,"Hypertension, Early-Onset, Autosomal Dominant, with Severe Exacerbation in Pregnancy",MESH:C565359,marker/mechanism,605115,
+OCLN,100506658,Essential Hypertension,MESH:D000075222,marker/mechanism,,34453990
+OLR1,4973,Hypertension,MESH:D006973,marker/mechanism,,22352330
+ORAI1,84876,Hypertension,MESH:D006973,marker/mechanism,,19897708
+OXSR1,9943,Hypertension,MESH:D006973,therapeutic,,22949526
+OXT,5020,Hypertension,MESH:D006973,therapeutic,,18562099|9334988
+PDE3A,5139,Brachydactyly with hypertension,MESH:C537095,marker/mechanism,112410,25961942
+PLAT,5327,Hypertension,MESH:D006973,marker/mechanism,,22352330
+PLG,5340,Hypertension,MESH:D006973,marker/mechanism,,6383834
+POMC,5443,Hypertension,MESH:D006973,marker/mechanism|therapeutic,,10100081|10474778|10513829|10658937|11071300|11071304|11132610|11193135|11518849|11560123|11703388|12872045|12887135|1316127|1321011|1321309|1327015|1330390|1334993|15110907|15132301|15554453|16053986|16243970|1649024|16546835|16620303|1664305|17324744|17954371|17994356|18067589|18487447|187612|19153526|19458537|20186125|20659135|2157753|216942|2455169|2551692|2821097|2822310|2849322|2992854|3001556|3015460|323586|4367732|6088243|6089027|6097376|6100240|6135010|6143199|6254450|6274577|6279500|6283272|76749|8136112|8261660|8279378|8713685|8800598|9056691|9535146
+PPARA,5465,Hypertension,MESH:D006973,marker/mechanism|therapeutic,,16054168|19834340
+PPARG,5468,Hypertension,MESH:D006973,marker/mechanism|therapeutic,,15199296|19666838|27292124
+PPBP,5473,Hypertension,MESH:D006973,marker/mechanism,,15513305|6192689
+PRKCD,5580,Hypertension,MESH:D006973,marker/mechanism,,23973649
+PRKG1,5592,"Hypertension, Pulmonary",MESH:D006976,marker/mechanism,,21351102
+PROC,5624,Hypertension,MESH:D006973,marker/mechanism,,22352330
+PTEN,5728,Hypertension,MESH:D006973,marker/mechanism,,15646324
+PTGIS,5740,Essential Hypertension,MESH:D000075222,marker/mechanism,145500,
+PTGS2,5743,Hypertension,MESH:D006973,marker/mechanism|therapeutic,,14757778|15834289|20667508|22349312
+PTH,5741,Hypertension,MESH:D006973,marker/mechanism,,1930854
+PTPN1,5770,Hypertension,MESH:D006973,therapeutic,,28899902
+RALBP1,10928,Hypertension,MESH:D006973,marker/mechanism,,23821548
+REG3G,130120,Hypertension,MESH:D006973,marker/mechanism,,27798352
+RELA,5970,Hypertension,MESH:D006973,marker/mechanism,,19018797|27659729|32147540
+REN,5972,Hypertension,MESH:D006973,marker/mechanism,,1071603|1149188|11501062|12414515|12600921|17537837|18679781|18847324|19770776|19934029|20429690|20811386|21393355|45830|62162|6381767|7721401|998518
+REN,5972,"Hypertension, Malignant",MESH:D006974,marker/mechanism,,2493837
+REN2,19702,Hypertension,MESH:D006973,marker/mechanism,,12512695|12586211|9595497|9869009
+REN2,19702,"Hypertension, Malignant",MESH:D006974,marker/mechanism,,27428043
+RETNLA,57262,"Hypertension, Pulmonary",MESH:D006976,marker/mechanism,,20582166
+RGS2,5997,Hypertension,MESH:D006973,therapeutic,,1798635
+RGS5,8490,Essential Hypertension,MESH:D000075222,marker/mechanism,145500,
+RGS5,8490,Hypertension,MESH:D006973,therapeutic,,1798635
+RPS6KB1,6198,Hypertension,MESH:D006973,marker/mechanism,,19289642
+SARS2,54938,"HYPERURICEMIA, PULMONARY HYPERTENSION, RENAL FAILURE, AND ALKALOSIS SYNDROME",OMIM:613845,marker/mechanism,613845,
+SCNN1A,6337,Hypertension,MESH:D006973,marker/mechanism,,11752024|23348737
+SCNN1B,6338,Hypertension,MESH:D006973,marker/mechanism,,15174897|15198480|19344079
+SCNN1G,6340,Hypertension,MESH:D006973,marker/mechanism,,15198480
+SELP,6403,Hypertension,MESH:D006973,marker/mechanism,,15513305
+SERPINE1,5054,Hypertension,MESH:D006973,marker/mechanism,,21051829|22352330
+SH3PXD2B,285590,Ocular Hypertension,MESH:D009798,marker/mechanism,,28719234
+SLC12A2,6558,Hypertension,MESH:D006973,marker/mechanism,,17259435
+SLC12A3,6559,Hypertension,MESH:D006973,marker/mechanism,,18480177
+SLC31A1,1317,"Hypertension, Pulmonary",MESH:D006976,marker/mechanism,,24614111
+SLC4A10,57282,Intracranial Hypertension,MESH:D019586,therapeutic,,18165320
+SLC6A18,348932,Hypertension,MESH:D006973,marker/mechanism,,15121838
+SLC6A2,6530,Hypertension,MESH:D006973,marker/mechanism,,22533655
+SLC6A4,6532,"Hypertension, Pulmonary",MESH:D006976,marker/mechanism,,18506000
+SMAD9,4093,Familial Primary Pulmonary Hypertension,MESH:D065627,marker/mechanism,615342,
+SOD1,6647,Hypertension,MESH:D006973,marker/mechanism|therapeutic,,25101153|32165127|9024144
+SOD2,6648,Hypertension,MESH:D006973,marker/mechanism,,11834524|21593737|25101153
+SOD2,6648,"Hypertension, Pulmonary",MESH:D006976,marker/mechanism,,20110409
+SOD3,6649,Hypertension,MESH:D006973,marker/mechanism|therapeutic,,16864745|17023265
+STIM1,6786,Hypertension,MESH:D006973,marker/mechanism,,19897708
+STK11,6794,Hypertension,MESH:D006973,marker/mechanism,,19289642
+STK39,27347,Hypertension,MESH:D006973,therapeutic,,22949526
+TACR1,6869,Hypertension,MESH:D006973,marker/mechanism,,21294877
+TGFA,7039,"Hypertension, Pulmonary",MESH:D006976,marker/mechanism,,18424623
+TGFB1,7040,Hypertension,MESH:D006973,marker/mechanism,,11682445|19018797
+TGM2,7052,Hypertension,MESH:D006973,marker/mechanism,,17898543
+TH,7054,Essential Hypertension,MESH:D000075222,marker/mechanism,,34453990
+TH,7054,Hypertension,MESH:D006973,marker/mechanism,,27659729|32147540|32165127
+TIMP1,7076,Hypertension,MESH:D006973,marker/mechanism,,21051829
+TJP1,7082,Essential Hypertension,MESH:D000075222,marker/mechanism,,34453990
+TLR2,7097,Essential Hypertension,MESH:D000075222,marker/mechanism,,34453990
+TLR3,7098,Hypertension,MESH:D006973,therapeutic,,35247710
+TLR4,7099,Essential Hypertension,MESH:D000075222,marker/mechanism,,34453990
+TLR4,7099,Hypertension,MESH:D006973,marker/mechanism,,27292124|32147540
+TNF,7124,Essential Hypertension,MESH:D000075222,marker/mechanism,,34453990
+TNF,7124,Hypertension,MESH:D006973,marker/mechanism,,18605955|27292124|27659729|27847271|32147540
+TNF,7124,"Hypertension, Pulmonary",MESH:D006976,therapeutic,,2518282
+TP53,7157,Hypertension,MESH:D006973,marker/mechanism,,22228705
+TPH1,7166,"Hypertension, Pulmonary",MESH:D006976,marker/mechanism,,18506000
+TPM1,7168,Hypertension,MESH:D006973,marker/mechanism,,22228705
+TRH,7200,Hypertension,MESH:D006973,marker/mechanism,,6350720
+TRPC3,7222,Hypertension,MESH:D006973,marker/mechanism,,17351372
+TRPC5,7224,Hypertension,MESH:D006973,marker/mechanism,,17351372
+UCN,7349,Hypertension,MESH:D006973,therapeutic,,20237592
+UCP2,7351,Hypertension,MESH:D006973,marker/mechanism,,16685210
+UMOD,7369,Hypertension,MESH:D006973,marker/mechanism,,22228705
+UTS2,10911,Hypertension,MESH:D006973,marker/mechanism,,16160878
+VAV3,10451,Hypertension,MESH:D006973,marker/mechanism,,21115475
+VCAM1,7412,Hypertension,MESH:D006973,marker/mechanism,,11834524|19018797
+VDR,7421,Hypertension,MESH:D006973,marker/mechanism,,11335187
+VEGFA,7422,"Hypertension, Portal",MESH:D006975,therapeutic,,18416461
+VWF,7450,Hypertension,MESH:D006973,marker/mechanism,,12149661|12425201|22352330
+WNK1,65125,Hypertension,MESH:D006973,marker/mechanism,,22949526
+WNK4,65266,Hypertension,MESH:D006973,marker/mechanism,,22949526
+YY1AP1,55249,"Arterial Occlusive Disease, Progressive, with Hypertension, Heart Defects, Bone Fragility, and Brachysyndactyly",MESH:C566529,marker/mechanism,602531,

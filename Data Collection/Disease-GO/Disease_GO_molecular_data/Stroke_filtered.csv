@@ -1,0 +1,691 @@
+GOName,GOID,DiseaseName,DiseaseID,InferenceChemicalQty,InferenceChemicalNames,InferenceGeneQty,InferenceGeneSymbols
+1-alkyl-2-acetylglycerophosphocholine esterase activity,GO:0003847,Stroke,MESH:D020521,0,,1,PLA2G7
+2-oxoglutarate-dependent dioxygenase activity,GO:0016706,Stroke,MESH:D020521,0,,1,HTR4
+"3',5'-cyclic-AMP phosphodiesterase activity",GO:0004115,Stroke,MESH:D020521,0,,1,PDE3A
+"3',5'-cyclic-GMP phosphodiesterase activity",GO:0047555,Stroke,MESH:D020521,0,,1,PDE3A
+"3',5'-cyclic-nucleotide phosphodiesterase activity",GO:0004114,Stroke,MESH:D020521,0,,1,PDE3A
+3-phosphoinositide-dependent protein kinase activity,GO:0004676,Stroke,MESH:D020521,0,,1,PRKAA2
+5'-nucleotidase activity,GO:0008253,Stroke,MESH:D020521,1,Metformin,0,
+ABC-type xenobiotic transporter activity,GO:0008559,Stroke,MESH:D020521,1,Verapamil,0,
+acetylcholine-gated monoatomic cation-selective channel activity,GO:0022848,Stroke,MESH:D020521,1,Nicotine,0,
+acetylcholinesterase activity,GO:0003990,Hemorrhagic Stroke,MESH:D000083302,1,Particulate Matter,0,
+acetylcholinesterase activity,GO:0003990,Ischemic Stroke,MESH:D000083242,1,Particulate Matter,0,
+acetylcholinesterase activity,GO:0003990,Stroke,MESH:D020521,2,Ascorbic Acid|Particulate Matter,1,ACE
+acetyl-CoA carboxylase activity,GO:0003989,Stroke,MESH:D020521,2,Niacinamide|Resveratrol,0,
+[acetyl-CoA carboxylase] kinase activity,GO:0050405,Stroke,MESH:D020521,1,Ethanol,0,
+acid phosphatase activity,GO:0003993,Ischemic Stroke,MESH:D000083242,1,Cisplatin,0,
+acid phosphatase activity,GO:0003993,Stroke,MESH:D020521,5,Arsenic|Ascorbic Acid|Cadmium|Folic Acid|Resveratrol,0,
+actin binding,GO:0003779,Ischemic Stroke,MESH:D000083242,0,,1,NOS3
+actin binding,GO:0003779,Stroke,MESH:D020521,0,,2,ACE|NOS2
+actinin binding,GO:0042805,Heat Stroke,MESH:D018883,0,,2,NFKB1|RELA
+actin monomer binding,GO:0003785,Ischemic Stroke,MESH:D000083242,0,,1,NOS3
+active monoatomic ion transmembrane transporter activity,GO:0022853,Heat Stroke,MESH:D018883,1,Glycerol,0,
+active monoatomic ion transmembrane transporter activity,GO:0022853,Stroke,MESH:D020521,2,Glycerol|Nicotine,0,
+ADP phosphatase activity,GO:0043262,Heat Stroke,MESH:D018883,0,,1,ALPL
+ADP phosphatase activity,GO:0043262,Stroke,MESH:D020521,1,Caffeine,0,
+adrenergic receptor activity,GO:0004935,Stroke,MESH:D020521,2,Dexamethasone|Nicotine,0,
+aldehyde dehydrogenase (NAD+) activity,GO:0004029,Stroke,MESH:D020521,1,Disulfiram,0,
+aldehyde dehydrogenase [NAD(P)+] activity,GO:0004030,Stroke,MESH:D020521,1,Ethanol,0,
+alditol:NADP+ 1-oxidoreductase activity,GO:0004032,Stroke,MESH:D020521,2,Losartan|Metformin,0,
+alkaline phosphatase activity,GO:0004035,Heat Stroke,MESH:D018883,0,,1,ALPL
+alkaline phosphatase activity,GO:0004035,Ischemic Stroke,MESH:D000083242,1,Cisplatin,0,
+alkaline phosphatase activity,GO:0004035,Stroke,MESH:D020521,22,Acetaminophen|Arsenic|Ascorbic Acid|Cadmium|Dexamethasone|Diclofenac|Edaravone|Ethanol|Ethinyl Estradiol|Folic Acid|Metformin|Methotrexate|Niacin|Niacinamide|Nicotine|Paroxetine|Raloxifene Hydrochloride|Resveratrol|Sildenafil Citrate|Simvastatin|Vitamin E|Warfarin,0,
+"alpha-1,3-galactosyltransferase activity",GO:0001962,Stroke,MESH:D020521,0,,1,ABO
+alpha2-adrenergic receptor activity,GO:0004938,Stroke,MESH:D020521,0,,1,HTR4
+alpha-amylase activity,GO:0004556,Stroke,MESH:D020521,2,Carvedilol|Resveratrol,0,
+AMP-activated protein kinase activity,GO:0004679,Ischemic Stroke,MESH:D000083242,2,Bleomycin|Cisplatin,0,
+AMP-activated protein kinase activity,GO:0004679,Stroke,MESH:D020521,9,Caffeine|Ethanol|Folic Acid|Metformin|Niacinamide|Nicotine|Resveratrol|Simvastatin|Soot,1,PRKAA2
+amylase activity,GO:0016160,Stroke,MESH:D020521,5,"Cadmium|Dexamethasone|Ethanol|Heparin, Low-Molecular-Weight|Metformin",0,
+amyloid-beta binding,GO:0001540,Stroke,MESH:D020521,0,,1,APOA1
+ankyrin repeat binding,GO:0071532,Heat Stroke,MESH:D018883,0,,1,RELA
+antigen binding,GO:0003823,Stroke,MESH:D020521,0,,2,ABO|TGFB1
+antioxidant activity,GO:0016209,Heat Stroke,MESH:D018883,1,Glycerol,0,
+antioxidant activity,GO:0016209,Hemorrhagic Stroke,MESH:D000083302,1,Particulate Matter,0,
+antioxidant activity,GO:0016209,Ischemic Stroke,MESH:D000083242,1,Particulate Matter,0,
+antioxidant activity,GO:0016209,Stroke,MESH:D020521,6,Ascorbic Acid|Atorvastatin|Glycerol|Particulate Matter|Pentoxifylline|Pravastatin,2,ALB|SOD1
+antiporter activity,GO:0015297,Stroke,MESH:D020521,0,,1,UCP2
+apolipoprotein A-I receptor binding,GO:0034191,Stroke,MESH:D020521,0,,1,APOA1
+apolipoprotein binding,GO:0034185,Ischemic Stroke,MESH:D000083242,0,,1,LPA
+apolipoprotein binding,GO:0034185,Stroke,MESH:D020521,0,,1,LPA
+apolipoprotein receptor binding,GO:0034190,Stroke,MESH:D020521,0,,1,APOA1
+arachidonate 5-lipoxygenase activity,GO:0004051,Ischemic Stroke,MESH:D000083242,0,,1,ALOX5AP
+arachidonic acid binding,GO:0050544,Ischemic Stroke,MESH:D000083242,0,,1,ALOX5AP
+arginase activity,GO:0004053,Stroke,MESH:D020521,2,Caffeine|Edaravone,0,
+arginine binding,GO:0034618,Ischemic Stroke,MESH:D000083242,0,,1,NOS3
+arginine binding,GO:0034618,Stroke,MESH:D020521,0,,1,NOS2
+aryl sulfotransferase activity,GO:0004062,Stroke,MESH:D020521,1,Acetaminophen,0,
+aspartic-type endopeptidase activity involved in amyloid precursor protein catabolic process,GO:1902944,Stroke,MESH:D020521,1,Nicotine,0,
+ATPase binding,GO:0051117,Stroke,MESH:D020521,0,,1,ANK2
+ATP binding,GO:0005524,Ischemic Stroke,MESH:D000083242,0,,1,PRKCH
+ATP binding,GO:0005524,Stroke,MESH:D020521,0,,3,ANK2|CDK6|PRKAA2
+ATP-dependent activity,GO:0140657,Stroke,MESH:D020521,3,Arsenic|Caffeine|Verapamil,0,
+ATP hydrolysis activity,GO:0016887,Heat Stroke,MESH:D018883,0,,1,ALPL
+ATP hydrolysis activity,GO:0016887,Hemorrhagic Stroke,MESH:D000083302,1,Particulate Matter,0,
+ATP hydrolysis activity,GO:0016887,Ischemic Stroke,MESH:D000083242,1,Particulate Matter,0,
+ATP hydrolysis activity,GO:0016887,Stroke,MESH:D020521,9,Acetaminophen|Arsenic|Cadmium|Losartan|Metformin|Particulate Matter|Resveratrol|Soot|Verapamil,0,
+A-type (transient outward) potassium channel activity,GO:0005250,Heat Stroke,MESH:D018883,1,Serotonin,0,
+A-type (transient outward) potassium channel activity,GO:0005250,Stroke,MESH:D020521,1,Serotonin,0,
+beta-catenin binding,GO:0008013,Heat Stroke,MESH:D018883,0,,1,JUN
+beta-catenin binding,GO:0008013,Ischemic Stroke,MESH:D000083242,0,,1,NOS3
+beta-catenin binding,GO:0008013,Stroke,MESH:D020521,0,,1,NOS2
+beta-galactosidase activity,GO:0004565,Hemorrhagic Stroke,MESH:D000083302,2,Air Pollutants|Particulate Matter,0,
+beta-galactosidase activity,GO:0004565,Ischemic Stroke,MESH:D000083242,2,Air Pollutants|Particulate Matter,0,
+beta-galactosidase activity,GO:0004565,Stroke,MESH:D020521,4,Air Pollutants|Losartan|Particulate Matter|Resveratrol,0,
+bradykinin receptor binding,GO:0031711,Stroke,MESH:D020521,0,,1,ACE
+butyrate-CoA ligase activity,GO:0047760,Stroke,MESH:D020521,1,Diclofenac,0,
+cadherin binding,GO:0045296,Ischemic Stroke,MESH:D000083242,0,,1,NOS3
+cadherin binding,GO:0045296,Stroke,MESH:D020521,0,,1,NOS2
+cadmium ion binding,GO:0046870,Ischemic Stroke,MESH:D000083242,0,,1,NOS3
+calcitriol binding,GO:1902098,Ischemic Stroke,MESH:D000083242,0,,1,VDR
+calcium activated cation channel activity,GO:0005227,Stroke,MESH:D020521,1,Nimodipine,0,
+calcium channel activity,GO:0005262,Stroke,MESH:D020521,3,Calcium|Raloxifene Hydrochloride|Tamoxifen,0,
+calcium-dependent ATPase activity,GO:0030899,Hemorrhagic Stroke,MESH:D000083302,1,Aspirin,0,
+calcium-dependent ATPase activity,GO:0030899,Ischemic Stroke,MESH:D000083242,2,Aspirin|Cisplatin,0,
+calcium-dependent ATPase activity,GO:0030899,Stroke,MESH:D020521,3,Aspirin|Atorvastatin|Cadmium,0,
+calcium-dependent cysteine-type endopeptidase activity,GO:0004198,Heat Stroke,MESH:D018883,1,Excitatory Amino Acid Agonists,0,
+calcium-dependent cysteine-type endopeptidase activity,GO:0004198,Ischemic Stroke,MESH:D000083242,1,Cisplatin,0,
+calcium-dependent cysteine-type endopeptidase activity,GO:0004198,Stroke,MESH:D020521,2,Acetaminophen|Arsenic,0,
+calcium-dependent protein kinase C activity,GO:0004698,Ischemic Stroke,MESH:D000083242,0,,1,PRKCH
+calcium-independent phospholipase A2 activity,GO:0047499,Stroke,MESH:D020521,0,,1,PLA2G7
+calcium-independent protein kinase C activity,GO:0004699,Ischemic Stroke,MESH:D000083242,0,,1,PRKCH
+calcium ion binding,GO:0005509,Heat Stroke,MESH:D018883,0,,1,ALPL
+calcium ion binding,GO:0005509,Ischemic Stroke,MESH:D000083242,0,,2,F2|PLAU
+calcium ion binding,GO:0005509,Stroke,MESH:D020521,0,,3,F2|MMP12|PLAU
+"calmodulin-activated 3',5'-cyclic-GMP phosphodiesterase activity",GO:0048101,Stroke,MESH:D020521,0,,1,PDE3A
+calmodulin binding,GO:0005516,Ischemic Stroke,MESH:D000083242,0,,1,NOS3
+calmodulin binding,GO:0005516,Stroke,MESH:D020521,0,,2,ACE|NOS2
+calmodulin-dependent protein kinase activity,GO:0004683,Stroke,MESH:D020521,1,Ascorbic Acid,0,
+calmodulin-dependent protein phosphatase activity,GO:0033192,Stroke,MESH:D020521,1,Verapamil,0,
+cAMP-dependent protein kinase activity,GO:0004691,Heat Stroke,MESH:D018883,1,"N-(oxo-5,6-dihydrophenanthridin-2-yl)-N,N-dimethylacetamide hydrochloride",0,
+cAMP-dependent protein kinase activity,GO:0004691,Ischemic Stroke,MESH:D000083242,1,Cisplatin,0,
+cAMP-dependent protein kinase regulator activity,GO:0008603,Stroke,MESH:D020521,0,,1,NOS2
+cAMP response element binding,GO:0035497,Heat Stroke,MESH:D018883,0,,1,JUN
+carbonate dehydratase activity,GO:0004089,Stroke,MESH:D020521,4,Acetazolamide|Caffeine|Dexamethasone|Edaravone,0,
+carboxypeptidase activity,GO:0004180,Stroke,MESH:D020521,0,,1,ACE
+carnitine O-palmitoyltransferase activity,GO:0004095,Stroke,MESH:D020521,1,Resveratrol,0,
+catalase activity,GO:0004096,Stroke,MESH:D020521,1,Carvedilol,0,
+C-C chemokine binding,GO:0019957,Stroke,MESH:D020521,0,,1,CXCR3
+C-C chemokine receptor activity,GO:0016493,Stroke,MESH:D020521,0,,1,CXCR3
+CD40 receptor binding,GO:0005174,Heat Stroke,MESH:D018883,0,,1,TNF
+CD40 receptor binding,GO:0005174,Stroke,MESH:D020521,0,,1,TNF
+cell adhesion molecule binding,GO:0050839,Stroke,MESH:D020521,0,,2,FGA|ITGB3
+cGMP-inhibited cyclic-nucleotide phosphodiesterase activity,GO:0004119,Stroke,MESH:D020521,0,,1,PDE3A
+cGMP-stimulated cyclic-nucleotide phosphodiesterase activity,GO:0004118,Stroke,MESH:D020521,0,,1,PDE3A
+channel activity,GO:0015267,Stroke,MESH:D020521,2,Cadmium|Calcium,0,
+chaperone binding,GO:0051087,Stroke,MESH:D020521,0,,2,ALB|SOD1
+chemokine binding,GO:0019956,Stroke,MESH:D020521,0,,1,CXCR3
+chemokine receptor activity,GO:0004950,Stroke,MESH:D020521,0,,1,CXCR3
+chemorepellent activity,GO:0045499,Stroke,MESH:D020521,0,,1,APOA1
+chloride channel activity,GO:0005254,Stroke,MESH:D020521,1,Calcium,0,
+chloride ion binding,GO:0031404,Stroke,MESH:D020521,0,,1,ACE
+chloride transmembrane transporter activity,GO:0015108,Stroke,MESH:D020521,0,,1,UCP2
+cholesterol binding,GO:0015485,Stroke,MESH:D020521,0,,1,APOA1
+cholesterol transfer activity,GO:0120020,Stroke,MESH:D020521,0,,1,APOA1
+cholinesterase activity,GO:0004104,Stroke,MESH:D020521,0,,1,ACE
+chromatin binding,GO:0003682,Heat Stroke,MESH:D018883,0,,4,FOS|JUN|NFKB1|RELA
+chromatin binding,GO:0003682,Ischemic Stroke,MESH:D000083242,1,Cisplatin,1,F5
+chromatin binding,GO:0003682,Stroke,MESH:D020521,0,,5,ABO|F5|NKX2-5|PITX2|PRKAA2
+chromatin DNA binding,GO:0031490,Heat Stroke,MESH:D018883,0,,1,RELA
+chromatin DNA binding,GO:0031490,Stroke,MESH:D020521,0,,2,PITX2|SMOX
+ciliary neurotrophic factor binding,GO:0070119,Heat Stroke,MESH:D018883,0,,1,IL6RA
+ciliary neurotrophic factor receptor activity,GO:0004897,Heat Stroke,MESH:D018883,0,,1,IL6RA
+collagen binding,GO:0005518,Stroke,MESH:D020521,0,,2,ITGAV|MMP12
+collagen binding involved in cell-matrix adhesion,GO:0098639,Stroke,MESH:D020521,3,Atorvastatin|Pravastatin|Resveratrol,0,
+copper ion binding,GO:0005507,Heat Stroke,MESH:D018883,0,,1,IL1A
+copper ion binding,GO:0005507,Ischemic Stroke,MESH:D000083242,0,,1,F5
+copper ion binding,GO:0005507,Stroke,MESH:D020521,0,,3,ALB|F5|SOD1
+coreceptor activity,GO:0015026,Stroke,MESH:D020521,0,,2,ITGAV|ITGB3
+core promoter sequence-specific DNA binding,GO:0001046,Stroke,MESH:D020521,0,,1,MMP12
+co-SMAD binding,GO:0070410,Stroke,MESH:D020521,0,,1,SMOX
+creatine kinase activity,GO:0004111,Heat Stroke,MESH:D018883,1,Glycerol,0,
+creatine kinase activity,GO:0004111,Stroke,MESH:D020521,10,Arsenic|Ascorbic Acid|Atorvastatin|Cadmium|Carvedilol|Dexamethasone|Glycerol|Metformin|Resveratrol|Simvastatin,0,
+C-X3-C chemokine binding,GO:0019960,Stroke,MESH:D020521,0,,2,ITGAV|ITGB3
+C-X-C chemokine binding,GO:0019958,Stroke,MESH:D020521,0,,1,CXCR3
+C-X-C chemokine receptor activity,GO:0016494,Stroke,MESH:D020521,0,,1,CXCR3
+cyclic-nucleotide phosphodiesterase activity,GO:0004112,Stroke,MESH:D020521,0,,1,PDE3A
+cyclin binding,GO:0030332,Stroke,MESH:D020521,0,,1,CDK6
+cyclin-dependent protein serine/threonine kinase activity,GO:0004693,Stroke,MESH:D020521,0,,1,CDK6
+cysteine-type endopeptidase activity,GO:0004197,Heat Stroke,MESH:D018883,2,"Dopamine|N-(oxo-5,6-dihydrophenanthridin-2-yl)-N,N-dimethylacetamide hydrochloride",0,
+cysteine-type endopeptidase activity,GO:0004197,Hemorrhagic Stroke,MESH:D000083302,1,Particulate Matter,0,
+cysteine-type endopeptidase activity,GO:0004197,Ischemic Stroke,MESH:D000083242,1,Particulate Matter,0,
+cysteine-type endopeptidase activity,GO:0004197,Stroke,MESH:D020521,6,Acrolein|Arsenic|Cadmium|Ethanol|Particulate Matter|Raloxifene Hydrochloride,0,
+cysteine-type endopeptidase activity involved in apoptotic process,GO:0097153,Stroke,MESH:D020521,1,Folic Acid,0,
+cytidine deaminase activity,GO:0004126,Stroke,MESH:D020521,1,Arsenic,0,
+cytochrome-c oxidase activity,GO:0004129,Heat Stroke,MESH:D018883,1,"N-(oxo-5,6-dihydrophenanthridin-2-yl)-N,N-dimethylacetamide hydrochloride",0,
+cytochrome-c oxidase activity,GO:0004129,Hemorrhagic Stroke,MESH:D000083302,3,Air Pollutants|Aspirin|Particulate Matter,0,
+cytochrome-c oxidase activity,GO:0004129,Ischemic Stroke,MESH:D000083242,5,Air Pollutants|Aspirin|Cisplatin|Ozone|Particulate Matter,0,
+cytochrome-c oxidase activity,GO:0004129,Stroke,MESH:D020521,11,Acetaminophen|Acrolein|Air Pollutants|Aspirin|Cadmium|Carvedilol|Ethanol|Ozone|Particulate Matter|Resveratrol|Soot,0,
+cytokine activity,GO:0005125,Heat Stroke,MESH:D018883,0,,5,IL10|IL1A|IL1B|IL6|TNF
+cytokine activity,GO:0005125,Stroke,MESH:D020521,0,,7,EDN1|IL1B|IL1RN|IL6|TGFB1|TNF|WNT2B
+cytokine receptor activity,GO:0004896,Heat Stroke,MESH:D018883,0,,1,IL6RA
+cytoskeletal anchor activity,GO:0008093,Stroke,MESH:D020521,0,,1,ANK2
+D-alanine:2-oxoglutarate aminotransferase activity,GO:0047810,Stroke,MESH:D020521,1,Ethanol,0,
+death receptor agonist activity,GO:0038177,Heat Stroke,MESH:D018883,0,,1,TNF
+death receptor agonist activity,GO:0038177,Stroke,MESH:D020521,0,,1,TNF
+deubiquitinase activator activity,GO:0035800,Stroke,MESH:D020521,0,,1,TGFB1
+D-glutamyltransferase activity,GO:0047823,Hemorrhagic Stroke,MESH:D000083302,2,Air Pollutants|Particulate Matter,0,
+D-glutamyltransferase activity,GO:0047823,Ischemic Stroke,MESH:D000083242,2,Air Pollutants|Particulate Matter,0,
+D-glutamyltransferase activity,GO:0047823,Stroke,MESH:D020521,3,Air Pollutants|Folic Acid|Particulate Matter,0,
+dimethylargininase activity,GO:0016403,Stroke,MESH:D020521,1,Folic Acid,0,
+dioxygenase activity,GO:0051213,Stroke,MESH:D020521,0,,1,PTGS2
+DNA binding,GO:0003677,Heat Stroke,MESH:D018883,0,,7,FOS|JUN|NFKB1|NFKB2|REL|RELA|RELB
+DNA binding,GO:0003677,Ischemic Stroke,MESH:D000083242,0,,2,VDR|ZFHX3
+DNA binding,GO:0003677,Stroke,MESH:D020521,0,,8,ALB|CASZ1|FOXF2|IRF1|NKX2-5|PITX2|TBX3|ZFHX3
+DNA-binding transcription activator activity,GO:0001216,Stroke,MESH:D020521,0,,1,NKX2-5
+"DNA-binding transcription activator activity, RNA polymerase II-specific",GO:0001228,Heat Stroke,MESH:D018883,0,,6,FOS|JUN|NFKB1|NFKB2|REL|RELA
+"DNA-binding transcription activator activity, RNA polymerase II-specific",GO:0001228,Stroke,MESH:D020521,0,,6,CASZ1|FOXF2|IRF1|NKX2-5|PITX2|TBX3
+DNA-binding transcription factor activity,GO:0003700,Heat Stroke,MESH:D018883,0,,7,FOS|JUN|NFKB1|NFKB2|REL|RELA|RELB
+DNA-binding transcription factor activity,GO:0003700,Ischemic Stroke,MESH:D000083242,1,Ozone,2,VDR|ZFHX3
+DNA-binding transcription factor activity,GO:0003700,Stroke,MESH:D020521,3,Bortezomib|Cadmium|Ozone,6,FOXF2|IRF1|NKX2-5|PITX2|TBX3|ZFHX3
+"DNA-binding transcription factor activity, RNA polymerase II-specific",GO:0000981,Heat Stroke,MESH:D018883,0,,7,FOS|JUN|NFKB1|NFKB2|REL|RELA|RELB
+"DNA-binding transcription factor activity, RNA polymerase II-specific",GO:0000981,Ischemic Stroke,MESH:D000083242,0,,3,F2|VDR|ZFHX3
+"DNA-binding transcription factor activity, RNA polymerase II-specific",GO:0000981,Stroke,MESH:D020521,0,,9,CASZ1|F2|FOXF2|IRF1|NKX2-5|PITX2|SMOX|TBX3|ZFHX3
+DNA-binding transcription factor binding,GO:0140297,Heat Stroke,MESH:D018883,0,,1,RELA
+DNA-binding transcription factor binding,GO:0140297,Stroke,MESH:D020521,0,,2,HDAC9|PITX2
+"DNA-binding transcription repressor activity, RNA polymerase II-specific",GO:0001227,Heat Stroke,MESH:D018883,0,,3,JUN|NFKB1|RELA
+"DNA-binding transcription repressor activity, RNA polymerase II-specific",GO:0001227,Ischemic Stroke,MESH:D000083242,0,,1,ZFHX3
+"DNA-binding transcription repressor activity, RNA polymerase II-specific",GO:0001227,Stroke,MESH:D020521,0,,3,PITX2|TBX3|ZFHX3
+DNA-dependent protein kinase activity,GO:0004677,Stroke,MESH:D020521,0,,1,PRKAA2
+DNA-directed DNA polymerase activity,GO:0003887,Stroke,MESH:D020521,1,Metformin,0,
+DNA-methyltransferase activity,GO:0009008,Stroke,MESH:D020521,1,Folic Acid,0,
+DNA topoisomerase binding,GO:0044547,Ischemic Stroke,MESH:D000083242,1,Etoposide,0,
+"DNA topoisomerase type II (double strand cut, ATP-hydrolyzing) activity",GO:0003918,Ischemic Stroke,MESH:D000083242,1,Etoposide,0,
+"DNA topoisomerase type II (double strand cut, ATP-hydrolyzing) activity",GO:0003918,Stroke,MESH:D020521,1,Ascorbic Acid,0,
+double-stranded DNA binding,GO:0003690,Heat Stroke,MESH:D018883,0,,4,FOS|JUN|NFKB1|RELA
+endopeptidase activity,GO:0004175,Hemorrhagic Stroke,MESH:D000083302,1,Particulate Matter,0,
+endopeptidase activity,GO:0004175,Ischemic Stroke,MESH:D000083242,1,Particulate Matter,3,F2|LPA|PLAT
+endopeptidase activity,GO:0004175,Stroke,MESH:D020521,2,Bortezomib|Particulate Matter,5,ACE|F2|LPA|MMP12|PLAT
+endopeptidase inhibitor activity,GO:0004866,Ischemic Stroke,MESH:D000083242,0,,1,LPA
+endopeptidase inhibitor activity,GO:0004866,Stroke,MESH:D020521,0,,1,LPA
+endothelin A receptor binding,GO:0031707,Stroke,MESH:D020521,0,,1,EDN1
+endothelin B receptor binding,GO:0031708,Stroke,MESH:D020521,0,,1,EDN1
+endothelin receptor activity,GO:0004962,Stroke,MESH:D020521,0,,1,EDNRA
+enterobactin binding,GO:1903981,Stroke,MESH:D020521,0,,1,ALB
+enzyme activator activity,GO:0008047,Ischemic Stroke,MESH:D000083242,0,,1,ALOX5AP
+enzyme binding,GO:0019899,Heat Stroke,MESH:D018883,0,,3,IL6RA|JUN|RELA
+enzyme binding,GO:0019899,Ischemic Stroke,MESH:D000083242,0,,3,ALOX5AP|PRKCH|ZFHX3
+enzyme binding,GO:0019899,Stroke,MESH:D020521,0,,8,ALB|ANK2|APOA1|ITGB3|PTGS2|SOD1|TGFB1|ZFHX3
+estrogen binding,GO:0099130,Stroke,MESH:D020521,0,,1,PDE3A
+eukaryotic translation initiation factor 2alpha kinase activity,GO:0004694,Stroke,MESH:D020521,0,,1,PRKAA2
+exogenous protein binding,GO:0140272,Stroke,MESH:D020521,0,,1,ALB
+exopeptidase activity,GO:0008238,Stroke,MESH:D020521,0,,1,ACE
+extracellularly glutamate-gated chloride channel activity,GO:0008068,Heat Stroke,MESH:D018883,1,Excitatory Amino Acid Agonists,0,
+extracellular matrix binding,GO:0050840,Stroke,MESH:D020521,0,,3,ITGA2B|ITGAV|ITGB3
+extracellular matrix protein binding,GO:1990430,Stroke,MESH:D020521,0,,1,ITGAV
+extracellular matrix structural constituent,GO:0005201,Stroke,MESH:D020521,0,,1,FGA
+FAD binding,GO:0071949,Stroke,MESH:D020521,0,,1,MTHFR
+fatty acid binding,GO:0005504,Stroke,MESH:D020521,0,,1,ALB
+FBXO family protein binding,GO:0098770,Stroke,MESH:D020521,0,,1,CDK6
+ferroxidase activity,GO:0004322,Stroke,MESH:D020521,1,Ethanol,0,
+fibrinogen binding,GO:0070051,Stroke,MESH:D020521,0,,2,ITGA2B|ITGB3
+fibroblast growth factor binding,GO:0017134,Stroke,MESH:D020521,0,,2,ITGAV|ITGB3
+fibronectin binding,GO:0001968,Ischemic Stroke,MESH:D000083242,0,,1,LPA
+fibronectin binding,GO:0001968,Stroke,MESH:D020521,0,,3,ITGAV|ITGB3|LPA
+flavin adenine dinucleotide binding,GO:0050660,Ischemic Stroke,MESH:D000083242,0,,1,NOS3
+flavin adenine dinucleotide binding,GO:0050660,Stroke,MESH:D020521,0,,2,MTHFR|NOS2
+FMN binding,GO:0010181,Ischemic Stroke,MESH:D000083242,0,,1,NOS3
+FMN binding,GO:0010181,Stroke,MESH:D020521,0,,1,NOS2
+frizzled binding,GO:0005109,Stroke,MESH:D020521,0,,1,WNT2B
+"fructose 1,6-bisphosphate 1-phosphatase activity",GO:0042132,Ischemic Stroke,MESH:D000083242,1,Cisplatin,0,
+fucosylgalactoside 3-alpha-galactosyltransferase activity,GO:0004381,Stroke,MESH:D020521,0,,1,ABO
+gap junction channel activity,GO:0005243,Hemorrhagic Stroke,MESH:D000083302,2,Air Pollutants|Particulate Matter,0,
+gap junction channel activity,GO:0005243,Ischemic Stroke,MESH:D000083242,2,Air Pollutants|Particulate Matter,0,
+gap junction channel activity,GO:0005243,Stroke,MESH:D020521,3,Air Pollutants|Particulate Matter|Resveratrol,0,
+GDP binding,GO:0019003,Stroke,MESH:D020521,0,,1,UCP2
+general transcription initiation factor binding,GO:0140296,Heat Stroke,MESH:D018883,0,,2,JUN|RELA
+general transcription initiation factor binding,GO:0140296,Stroke,MESH:D020521,0,,1,FOXF2
+globoside alpha-N-acetylgalactosaminyltransferase activity,GO:0047277,Stroke,MESH:D020521,0,,1,ABO
+glucose-6-phosphatase activity,GO:0004346,Ischemic Stroke,MESH:D000083242,1,Cisplatin,0,
+glucose-6-phosphatase activity,GO:0004346,Stroke,MESH:D020521,3,Ascorbic Acid|Metformin|Vitamin E,0,
+glutamate binding,GO:0016595,Stroke,MESH:D020521,1,Ethanol,0,
+glutamate-cysteine ligase activity,GO:0004357,Stroke,MESH:D020521,1,Cadmium,0,
+glutathione hydrolase activity,GO:0036374,Stroke,MESH:D020521,1,Arsenic,0,
+glutathione peroxidase activity,GO:0004602,Heat Stroke,MESH:D018883,2,Glycerol|Serotonin,0,
+glutathione peroxidase activity,GO:0004602,Hemorrhagic Stroke,MESH:D000083302,2,Air Pollutants|Particulate Matter,0,
+glutathione peroxidase activity,GO:0004602,Ischemic Stroke,MESH:D000083242,7,Air Pollutants|Bleomycin|Cisplatin|Methamphetamine|Ozone|Particulate Matter|Sulfur Dioxide,1,ALOX5AP
+glutathione peroxidase activity,GO:0004602,Stroke,MESH:D020521,31,Acetaminophen|Acrolein|Air Pollutants|Arsenic|Ascorbic Acid|Atorvastatin|Cadmium|Caffeine|Calcium|Dexamethasone|Diclofenac|Edaravone|Ethanol|Folic Acid|Glycerol|Losartan|Metformin|Methamphetamine|Methotrexate|Niacinamide|Nicotine|Ozone|Particulate Matter|Resveratrol|Riboflavin|Serotonin|Simvastatin|Soot|Sulfur Dioxide|Vitamin B 6|Vitamin E,0,
+glutathione transferase activity,GO:0004364,Heat Stroke,MESH:D018883,1,Dopamine,0,
+glutathione transferase activity,GO:0004364,Hemorrhagic Stroke,MESH:D000083302,1,Particulate Matter,0,
+glutathione transferase activity,GO:0004364,Ischemic Stroke,MESH:D000083242,4,Bleomycin|Cisplatin|Ozone|Particulate Matter,1,ALOX5AP
+glutathione transferase activity,GO:0004364,Stroke,MESH:D020521,21,Acetaminophen|Arsenic|Ascorbic Acid|Cadmium|Caffeine|Calcium|Carvedilol|Dexamethasone|Edaravone|Ethanol|Folic Acid|Metformin|Methotrexate|Niacinamide|Nicotine|Ozone|Particulate Matter|Perindopril|Resveratrol|Vitamin B 12|Vitamin E,0,
+glycerol-3-phosphate O-acyltransferase activity,GO:0004366,Stroke,MESH:D020521,1,Resveratrol,0,
+glycogen phosphorylase activity,GO:0008184,Stroke,MESH:D020521,1,Metformin,0,
+glycoprotein-fucosylgalactoside alpha-N-acetylgalactosaminyltransferase activity,GO:0004380,Stroke,MESH:D020521,0,,1,ABO
+glycosyltransferase activity,GO:0016757,Stroke,MESH:D020521,0,,1,ABO
+G-protein alpha-subunit binding,GO:0001965,Stroke,MESH:D020521,0,,1,RGS7
+G-protein beta-subunit binding,GO:0031681,Stroke,MESH:D020521,0,,1,RGS7
+G protein-coupled receptor activity,GO:0004930,Stroke,MESH:D020521,0,,3,CXCR3|EDNRA|HTR4
+G protein-coupled serotonin receptor activity,GO:0004993,Stroke,MESH:D020521,0,,1,HTR4
+growth factor activity,GO:0008083,Heat Stroke,MESH:D018883,0,,2,IL10|IL6
+growth factor activity,GO:0008083,Ischemic Stroke,MESH:D000083242,0,,1,F2
+growth factor activity,GO:0008083,Stroke,MESH:D020521,0,,3,F2|IL6|TGFB1
+GTPase activator activity,GO:0005096,Heat Stroke,MESH:D018883,0,,1,JUN
+GTPase activator activity,GO:0005096,Stroke,MESH:D020521,0,,1,RGS7
+GTPase activity,GO:0003924,Heat Stroke,MESH:D018883,0,,1,RELA
+GTPase activity,GO:0003924,Stroke,MESH:D020521,0,,2,PAOX|RGS7
+GTP binding,GO:0005525,Heat Stroke,MESH:D018883,0,,1,RELA
+GTP binding,GO:0005525,Stroke,MESH:D020521,0,,1,PAOX
+H3K27me3 modified histone binding,GO:0061628,Hemorrhagic Stroke,MESH:D000083302,1,Particulate Matter,0,
+H3K27me3 modified histone binding,GO:0061628,Ischemic Stroke,MESH:D000083242,1,Particulate Matter,0,
+H3K27me3 modified histone binding,GO:0061628,Stroke,MESH:D020521,2,Acetaminophen|Particulate Matter,0,
+heat shock protein binding,GO:0031072,Heat Stroke,MESH:D018883,0,,1,NFKB1
+heat shock protein binding,GO:0031072,Stroke,MESH:D020521,0,,1,APOA1
+heme binding,GO:0020037,Ischemic Stroke,MESH:D000083242,0,,1,NOS3
+heme binding,GO:0020037,Stroke,MESH:D020521,0,,3,ANK2|NOS2|PTGS2
+heparin binding,GO:0008201,Ischemic Stroke,MESH:D000083242,0,,2,F2|LPA
+heparin binding,GO:0008201,Stroke,MESH:D020521,0,,2,F2|LPA
+heterocyclic compound binding,GO:1901363,Stroke,MESH:D020521,0,,1,ACE
+hexokinase activity,GO:0004396,Hemorrhagic Stroke,MESH:D000083302,2,Air Pollutants|Particulate Matter,0,
+hexokinase activity,GO:0004396,Ischemic Stroke,MESH:D000083242,3,Air Pollutants|Cisplatin|Particulate Matter,0,
+hexokinase activity,GO:0004396,Stroke,MESH:D020521,4,Air Pollutants|Atorvastatin|Diltiazem|Particulate Matter,0,
+hexosyltransferase activity,GO:0016758,Stroke,MESH:D020521,0,,1,ABO
+high-density lipoprotein particle binding,GO:0008035,Stroke,MESH:D020521,0,,1,APOA1
+high-density lipoprotein particle receptor binding,GO:0070653,Stroke,MESH:D020521,0,,1,APOA1
+high voltage-gated calcium channel activity,GO:0008331,Hemorrhagic Stroke,MESH:D000083302,1,Particulate Matter,0,
+high voltage-gated calcium channel activity,GO:0008331,Ischemic Stroke,MESH:D000083242,1,Particulate Matter,0,
+high voltage-gated calcium channel activity,GO:0008331,Stroke,MESH:D020521,3,Ethanol|Nifedipine|Particulate Matter,0,
+histone acetyltransferase activity,GO:0004402,Stroke,MESH:D020521,1,Ascorbic Acid,0,
+histone deacetylase activity,GO:0004407,Stroke,MESH:D020521,2,Ascorbic Acid|Metformin,1,HDAC9
+histone deacetylase binding,GO:0042826,Heat Stroke,MESH:D018883,0,,1,RELA
+histone deacetylase binding,GO:0042826,Stroke,MESH:D020521,0,,2,HDAC9|NKX2-5
+histone H2AS121 kinase activity,GO:0072371,Stroke,MESH:D020521,0,,1,PRKAA2
+histone H2AS139 kinase activity,GO:0035979,Stroke,MESH:D020521,0,,1,PRKAA2
+histone H2AS1 kinase activity,GO:0044024,Stroke,MESH:D020521,0,,1,PRKAA2
+histone H2AT120 kinase activity,GO:1990244,Stroke,MESH:D020521,0,,1,PRKAA2
+histone H2BS14 kinase activity,GO:0044025,Stroke,MESH:D020521,0,,1,PRKAA2
+histone H2BS36 kinase activity,GO:0140823,Stroke,MESH:D020521,0,,1,PRKAA2
+histone H3K14 deacetylase activity,GO:0031078,Stroke,MESH:D020521,0,,1,HDAC9
+histone H3K4 deacetylase activity,GO:1990162,Stroke,MESH:D020521,0,,1,HDAC9
+histone H3K9 deacetylase activity,GO:0032129,Stroke,MESH:D020521,0,,1,HDAC9
+histone H3K9 demethylase activity,GO:0032454,Hemorrhagic Stroke,MESH:D000083302,1,Particulate Matter,0,
+histone H3K9 demethylase activity,GO:0032454,Ischemic Stroke,MESH:D000083242,1,Particulate Matter,0,
+histone H3K9 demethylase activity,GO:0032454,Stroke,MESH:D020521,1,Particulate Matter,0,
+histone H3S10 kinase activity,GO:0035175,Stroke,MESH:D020521,0,,1,PRKAA2
+histone H3S28 kinase activity,GO:0044022,Stroke,MESH:D020521,0,,1,PRKAA2
+histone H3S57 kinase activity,GO:0140855,Stroke,MESH:D020521,0,,1,PRKAA2
+histone H3T11 kinase activity,GO:0035402,Stroke,MESH:D020521,0,,1,PRKAA2
+histone H3T3 kinase activity,GO:0072354,Stroke,MESH:D020521,0,,1,PRKAA2
+histone H3T45 kinase activity,GO:0140857,Stroke,MESH:D020521,0,,1,PRKAA2
+histone H3T6 kinase activity,GO:0035403,Stroke,MESH:D020521,0,,1,PRKAA2
+histone H4K12 deacetylase activity,GO:0140937,Stroke,MESH:D020521,0,,1,HDAC9
+histone H4K16 deacetylase activity,GO:0034739,Stroke,MESH:D020521,0,,1,HDAC9
+histone H4S1 kinase activity,GO:0044023,Stroke,MESH:D020521,0,,1,PRKAA2
+HMG box domain binding,GO:0071837,Heat Stroke,MESH:D018883,0,,1,JUN
+hormone activity,GO:0005179,Stroke,MESH:D020521,0,,1,EDN1
+Hsp90 protein binding,GO:0051879,Ischemic Stroke,MESH:D000083242,0,,1,NOS3
+Hsp90 protein binding,GO:0051879,Stroke,MESH:D020521,0,,1,NOS2
+hyaluronic acid binding,GO:0005540,Ischemic Stroke,MESH:D000083242,0,,1,F2
+hyaluronic acid binding,GO:0005540,Stroke,MESH:D020521,0,,1,F2
+hydrolase activity,GO:0016787,Heat Stroke,MESH:D018883,0,,1,ALPL
+hydrolase activity,GO:0016787,Ischemic Stroke,MESH:D000083242,0,,2,F2|PLAT
+hydrolase activity,GO:0016787,Stroke,MESH:D020521,0,,5,ACE|F2|PDE3A|PLA2G7|PLAT
+"hydrolase activity, acting on ester bonds",GO:0016788,Stroke,MESH:D020521,0,,1,PLA2G7
+[hydroxymethylglutaryl-CoA reductase (NADPH)] kinase activity,GO:0047322,Stroke,MESH:D020521,0,,1,PRKAA2
+identical protein binding,GO:0042802,Heat Stroke,MESH:D018883,0,,7,FOS|IL6|JUN|NFKB1|RELA|RELB|TNF
+identical protein binding,GO:0042802,Ischemic Stroke,MESH:D000083242,0,,1,ALOX5AP
+identical protein binding,GO:0042802,Stroke,MESH:D020521,0,,11,ALB|APOA1|IL6|ITGA2B|ITGB3|NKX2-5|NOS2|PITX2|SOD1|TGFB1|TNF
+IkappaB kinase activity,GO:0008384,Stroke,MESH:D020521,1,Resveratrol,0,
+"indoleamine 2,3-dioxygenase activity",GO:0033754,Stroke,MESH:D020521,1,Cadmium,0,
+inorganic diphosphate phosphatase activity,GO:0004427,Heat Stroke,MESH:D018883,0,,1,ALPL
+"inositol 1,4,5-trisphosphate-sensitive calcium-release channel activity",GO:0005220,Stroke,MESH:D020521,1,Losartan,0,
+insulin-like growth factor I binding,GO:0031994,Stroke,MESH:D020521,0,,2,ITGAV|ITGB3
+integrin binding,GO:0005178,Heat Stroke,MESH:D018883,0,,1,IL1B
+integrin binding,GO:0005178,Stroke,MESH:D020521,0,,5,ICAM1|IL1B|ITGA2B|ITGAV|ITGB3
+interleukin-10 receptor binding,GO:0005141,Heat Stroke,MESH:D018883,0,,1,IL10
+interleukin-11 binding,GO:0019970,Heat Stroke,MESH:D018883,0,,1,IL11RA1
+interleukin-11 receptor activity,GO:0004921,Heat Stroke,MESH:D018883,0,,1,IL11RA1
+interleukin-1 receptor antagonist activity,GO:0005152,Stroke,MESH:D020521,0,,1,IL1RN
+interleukin-1 receptor binding,GO:0005149,Heat Stroke,MESH:D018883,0,,2,IL1A|IL1B
+interleukin-1 receptor binding,GO:0005149,Stroke,MESH:D020521,0,,2,IL1B|IL1RN
+interleukin-1 type II receptor antagonist activity,GO:0045353,Stroke,MESH:D020521,0,,1,IL1RN
+"interleukin-1, type II receptor binding",GO:0005151,Stroke,MESH:D020521,0,,1,IL1RN
+interleukin-1 type I receptor antagonist activity,GO:0045352,Stroke,MESH:D020521,0,,1,IL1RN
+"interleukin-1, type I receptor binding",GO:0005150,Stroke,MESH:D020521,0,,1,IL1RN
+interleukin-6 binding,GO:0019981,Heat Stroke,MESH:D018883,0,,1,IL6RA
+interleukin-6 receptor activity,GO:0004915,Heat Stroke,MESH:D018883,0,,1,IL6RA
+interleukin-6 receptor binding,GO:0005138,Heat Stroke,MESH:D018883,0,,2,IL6|IL6RA
+interleukin-6 receptor binding,GO:0005138,Stroke,MESH:D020521,0,,1,IL6
+inward rectifier potassium channel activity,GO:0005242,Stroke,MESH:D020521,1,Verapamil,0,
+iron ion binding,GO:0005506,Stroke,MESH:D020521,1,Cadmium,0,
+I-SMAD binding,GO:0070411,Stroke,MESH:D020521,0,,1,SMOX
+isocitrate dehydrogenase (NADP+) activity,GO:0004450,Stroke,MESH:D020521,1,Acrolein,0,
+isocitrate dehydrogenase [NAD(P)+] activity,GO:0004448,Stroke,MESH:D020521,1,Cadmium,0,
+JUN kinase activity,GO:0004705,Stroke,MESH:D020521,2,Ascorbic Acid|Cadmium,0,
+K63-linked polyubiquitin modification-dependent protein binding,GO:0070530,Stroke,MESH:D020521,0,,1,PRPF8
+kinase activity,GO:0016301,Ischemic Stroke,MESH:D000083242,0,,1,PLAU
+kinase activity,GO:0016301,Stroke,MESH:D020521,0,,3,CDK6|PLAU|PRKAA2
+lactate dehydrogenase activity,GO:0004457,Hemorrhagic Stroke,MESH:D000083302,2,Air Pollutants|Particulate Matter,0,
+lactate dehydrogenase activity,GO:0004457,Ischemic Stroke,MESH:D000083242,5,Air Pollutants|Bleomycin|Cisplatin|Ozone|Particulate Matter,0,
+lactate dehydrogenase activity,GO:0004457,Stroke,MESH:D020521,22,Acetaminophen|Air Pollutants|Arsenic|Ascorbic Acid|Atorvastatin|Bortezomib|Cadmium|Caffeine|Dexamethasone|Edaravone|Ethanol|Folic Acid|Metformin|Methotrexate|Niacinamide|Nicotine|Ozone|Particulate Matter|Raloxifene Hydrochloride|Resveratrol|Sildenafil Citrate|Vitamin B 6,0,
+L-alanine:2-oxoglutarate aminotransferase activity,GO:0004021,Stroke,MESH:D020521,2,Acetaminophen|Ascorbic Acid,0,
+large conductance calcium-activated potassium channel activity,GO:0060072,Stroke,MESH:D020521,1,Calcium,0,
+L-aspartate:2-oxoglutarate aminotransferase activity,GO:0004069,Heat Stroke,MESH:D018883,1,Cocaine,0,
+L-aspartate:2-oxoglutarate aminotransferase activity,GO:0004069,Ischemic Stroke,MESH:D000083242,2,Cisplatin|Ozone,0,
+L-aspartate:2-oxoglutarate aminotransferase activity,GO:0004069,Stroke,MESH:D020521,22,Acetaminophen|Arsenic|Ascorbic Acid|Atorvastatin|Cadmium|Caffeine|Cocaine|Dexamethasone|Diclofenac|Ethanol|Ethinyl Estradiol|Folic Acid|Metformin|Methotrexate|Niacinamide|Nicotine|Ozone|Paroxetine|Resveratrol|Sildenafil Citrate|Tranylcypromine|Vitamin E,0,
+L-aspartate transmembrane transporter activity,GO:0015183,Stroke,MESH:D020521,0,,1,UCP2
+leukotriene-C4 synthase activity,GO:0004464,Ischemic Stroke,MESH:D000083242,0,,1,ALOX5AP
+linoleate 13S-lipoxygenase activity,GO:0016165,Stroke,MESH:D020521,1,Dexamethasone,0,
+lipase activity,GO:0016298,Ischemic Stroke,MESH:D000083242,1,Ozone,0,
+lipase activity,GO:0016298,Stroke,MESH:D020521,3,Carvedilol|Ethanol|Ozone,0,
+lipase inhibitor activity,GO:0055102,Stroke,MESH:D020521,0,,1,APOA1
+lipid binding,GO:0008289,Ischemic Stroke,MESH:D000083242,0,,1,F5
+lipid binding,GO:0008289,Stroke,MESH:D020521,0,,3,ALB|APOA1|F5
+lipid transporter activity,GO:0005319,Stroke,MESH:D020521,0,,1,APOA1
+lipopolysaccharide binding,GO:0001530,Ischemic Stroke,MESH:D000083242,0,,1,F2
+lipopolysaccharide binding,GO:0001530,Stroke,MESH:D020521,0,,1,F2
+lipoprotein particle binding,GO:0071813,Stroke,MESH:D020521,0,,1,APOA1
+lithocholic acid binding,GO:1902121,Ischemic Stroke,MESH:D000083242,0,,1,VDR
+lithocholic acid receptor activity,GO:0038186,Ischemic Stroke,MESH:D000083242,0,,1,VDR
+lncRNA binding,GO:0106222,Heat Stroke,MESH:D018883,0,,1,REL
+long-chain fatty acid-CoA ligase activity,GO:0004467,Stroke,MESH:D020521,1,Diclofenac,0,
+lysine-acetylated histone binding,GO:0070577,Stroke,MESH:D020521,5,Acetaminophen|Arsenic|Ethanol|Hydrocortisone|Nicotine,0,
+malate dehydrogenase activity,GO:0016615,Hemorrhagic Stroke,MESH:D000083302,2,Air Pollutants|Particulate Matter,0,
+malate dehydrogenase activity,GO:0016615,Ischemic Stroke,MESH:D000083242,3,Air Pollutants|Cisplatin|Particulate Matter,0,
+malate dehydrogenase activity,GO:0016615,Stroke,MESH:D020521,5,Acetaminophen|Air Pollutants|Arsenic|Cadmium|Particulate Matter,0,
+malate transmembrane transporter activity,GO:0015140,Stroke,MESH:D020521,0,,1,UCP2
+malic enzyme activity,GO:0004470,Ischemic Stroke,MESH:D000083242,1,Cisplatin,0,
+manganese ion binding,GO:0030145,Stroke,MESH:D020521,0,,1,ABO
+MAP kinase activity,GO:0004707,Ischemic Stroke,MESH:D000083242,1,Cisplatin,0,
+MAP kinase activity,GO:0004707,Stroke,MESH:D020521,2,Ascorbic Acid|Cadmium,0,
+metal ion binding,GO:0046872,Heat Stroke,MESH:D018883,0,,1,ALPL
+metal ion binding,GO:0046872,Ischemic Stroke,MESH:D000083242,0,,3,NOS3|PRKCH|VDR
+metal ion binding,GO:0046872,Stroke,MESH:D020521,0,,16,ABO|ACE|ALB|CASZ1|FGA|HDAC9|ITGA2B|ITGAV|ITGB3|KCNK3|NOS2|PDE3A|PRKAA2|PTGS2|SOD1|ZCCHC14
+metallocarboxypeptidase activity,GO:0004181,Stroke,MESH:D020521,0,,1,ACE
+metallodipeptidase activity,GO:0070573,Stroke,MESH:D020521,0,,1,ACE
+metalloendopeptidase activity,GO:0004222,Stroke,MESH:D020521,0,,2,ACE|MMP12
+metallopeptidase activity,GO:0008237,Stroke,MESH:D020521,0,,2,ACE|PRPF8
+methenyltetrahydrofolate cyclohydrolase activity,GO:0004477,Heat Stroke,MESH:D018883,0,,1,REL
+methylated histone binding,GO:0035064,Hemorrhagic Stroke,MESH:D000083302,1,Particulate Matter,0,
+methylated histone binding,GO:0035064,Ischemic Stroke,MESH:D000083242,1,Particulate Matter,0,
+methylated histone binding,GO:0035064,Stroke,MESH:D020521,2,Acetaminophen|Particulate Matter,0,
+methylenetetrahydrofolate dehydrogenase (NAD+) activity,GO:0004487,Heat Stroke,MESH:D018883,0,,1,REL
+methylenetetrahydrofolate dehydrogenase (NADP+) activity,GO:0004488,Heat Stroke,MESH:D018883,0,,1,REL
+methylenetetrahydrofolate reductase (NAD(P)H) activity,GO:0004489,Stroke,MESH:D020521,0,,1,MTHFR
+methylenetetrahydrofolate reductase NADPH activity,GO:0106313,Stroke,MESH:D020521,0,,1,MTHFR
+methyltransferase activity,GO:0008168,Ischemic Stroke,MESH:D000083242,1,Ozone,0,
+methyltransferase activity,GO:0008168,Stroke,MESH:D020521,1,Ozone,1,HTR4
+mitogen-activated protein kinase binding,GO:0051019,Stroke,MESH:D020521,0,,1,ACE
+mitogen-activated protein kinase kinase binding,GO:0031434,Stroke,MESH:D020521,0,,1,ACE
+modified amino acid binding,GO:0072341,Stroke,MESH:D020521,0,,2,ALB|MTHFR
+molecular adaptor activity,GO:0060090,Stroke,MESH:D020521,0,,1,ITGA2B
+molecular_function,GO:0003674,Stroke,MESH:D020521,0,,3,ALB|TSPAN2|ZCCHC14
+monoamine oxidase activity,GO:0097621,Stroke,MESH:D020521,1,Cadmium,0,
+monoatomic cation channel activity,GO:0005261,Stroke,MESH:D020521,1,Calcium,0,
+monoatomic ion channel activity,GO:0005216,Stroke,MESH:D020521,0,,1,KCNK3
+mRNA cap binding,GO:0098808,Ischemic Stroke,MESH:D000083242,1,Cisplatin,0,
+N1-acetylspermine:oxygen oxidoreductase (3-acetamidopropanal-forming) activity,GO:0052903,Stroke,MESH:D020521,0,,1,PAOX
+NADH dehydrogenase activity,GO:0003954,Stroke,MESH:D020521,2,Ascorbic Acid|Carvedilol,0,
+NADH dehydrogenase (ubiquinone) activity,GO:0008137,Heat Stroke,MESH:D018883,1,"N-(oxo-5,6-dihydrophenanthridin-2-yl)-N,N-dimethylacetamide hydrochloride",0,
+NADH dehydrogenase (ubiquinone) activity,GO:0008137,Hemorrhagic Stroke,MESH:D000083302,2,Air Pollutants|Particulate Matter,0,
+NADH dehydrogenase (ubiquinone) activity,GO:0008137,Ischemic Stroke,MESH:D000083242,5,Air Pollutants|Cisplatin|Minocycline|Ozone|Particulate Matter,0,
+NADH dehydrogenase (ubiquinone) activity,GO:0008137,Stroke,MESH:D020521,13,Acetaminophen|Acrolein|Air Pollutants|Arsenic|Atorvastatin|Bupropion|Cadmium|Ethanol|Minocycline|Ozone|Particulate Matter|Resveratrol|Soot,0,
+NADP binding,GO:0050661,Ischemic Stroke,MESH:D000083242,0,,1,NOS3
+NADP binding,GO:0050661,Stroke,MESH:D020521,0,,2,MTHFR|NOS2
+NAD(P)H oxidase H2O2-forming activity,GO:0016174,Hemorrhagic Stroke,MESH:D000083302,2,Air Pollutants|Particulate Matter,0,
+NAD(P)H oxidase H2O2-forming activity,GO:0016174,Ischemic Stroke,MESH:D000083242,3,Air Pollutants|Cisplatin|Particulate Matter,0,
+NAD(P)H oxidase H2O2-forming activity,GO:0016174,Stroke,MESH:D020521,7,Air Pollutants|Ascorbic Acid|Atorvastatin|Nicotine|Particulate Matter|Resveratrol|rofecoxib,0,
+neuregulin binding,GO:0038132,Stroke,MESH:D020521,0,,2,ITGAV|ITGB3
+neurotransmitter receptor activity,GO:0030594,Stroke,MESH:D020521,0,,1,HTR4
+NF-kappaB binding,GO:0051059,Heat Stroke,MESH:D018883,0,,1,RELA
+NF-kappaB binding,GO:0051059,Ischemic Stroke,MESH:D000083242,1,Etoposide,0,
+NF-kappaB binding,GO:0051059,Stroke,MESH:D020521,1,Ethanol,0,
+nitric-oxide synthase activity,GO:0004517,Ischemic Stroke,MESH:D000083242,2,Methamphetamine|Sulfur Dioxide,1,NOS3
+nitric-oxide synthase activity,GO:0004517,Stroke,MESH:D020521,6,Bortezomib|Cadmium|Caffeine|Methamphetamine|Resveratrol|Sulfur Dioxide,1,NOS2
+nitric-oxide synthase binding,GO:0050998,Ischemic Stroke,MESH:D000083242,0,,1,NOS3
+nitric-oxide synthase binding,GO:0050998,Stroke,MESH:D020521,0,,1,NOS2
+nuclear estrogen receptor activity,GO:0030284,Stroke,MESH:D020521,0,,1,PDE3A
+nuclear receptor activity,GO:0004879,Ischemic Stroke,MESH:D000083242,0,,1,VDR
+nuclear retinoid X receptor binding,GO:0046965,Ischemic Stroke,MESH:D000083242,0,,1,VDR
+nuclear steroid receptor activity,GO:0003707,Ischemic Stroke,MESH:D000083242,0,,1,VDR
+nucleic acid binding,GO:0003676,Stroke,MESH:D020521,0,,3,ITGA2B|VKORC1|ZCCHC14
+nucleoside triphosphate diphosphatase activity,GO:0047429,Stroke,MESH:D020521,1,Metformin,0,
+nucleotide binding,GO:0000166,Stroke,MESH:D020521,0,,3,ABO|CDK6|PRKAA2
+nutrient reservoir activity,GO:0045735,Hemorrhagic Stroke,MESH:D000083302,2,Air Pollutants|Particulate Matter,0,
+nutrient reservoir activity,GO:0045735,Ischemic Stroke,MESH:D000083242,2,Air Pollutants|Particulate Matter,0,
+nutrient reservoir activity,GO:0045735,Stroke,MESH:D020521,2,Air Pollutants|Particulate Matter,0,
+open rectifier potassium channel activity,GO:0005252,Stroke,MESH:D020521,0,,1,KCNK3
+opsonin binding,GO:0001846,Stroke,MESH:D020521,0,,1,ITGAV
+organic cyclic compound binding,GO:0097159,Ischemic Stroke,MESH:D000083242,0,,1,VDR
+outward rectifier potassium channel activity,GO:0015271,Stroke,MESH:D020521,0,,1,KCNK3
+oxaloacetate transmembrane transporter activity,GO:0015131,Stroke,MESH:D020521,0,,1,UCP2
+oxidative phosphorylation uncoupler activity,GO:0017077,Stroke,MESH:D020521,0,,1,UCP2
+oxidoreductase activity,GO:0016491,Ischemic Stroke,MESH:D000083242,0,,2,F5|NOS3
+oxidoreductase activity,GO:0016491,Stroke,MESH:D020521,0,,7,F5|MTHFR|NOS2|PAOX|SMOX|SOD1|VKORC1
+"oxidoreductase activity, acting on CH or CH2 groups, disulfide as acceptor",GO:0016728,Stroke,MESH:D020521,0,,1,VKORC1
+"oxidoreductase activity, acting on single donors with incorporation of molecular oxygen",GO:0016701,Stroke,MESH:D020521,0,,1,PTGS2
+"oxidoreductase activity, acting on single donors with incorporation of molecular oxygen, incorporation of two atoms of oxygen",GO:0016702,Stroke,MESH:D020521,0,,1,PTGS2
+oxoglutarate dehydrogenase (succinyl-transferring) activity,GO:0004591,Stroke,MESH:D020521,1,Cadmium,0,
+oxygen binding,GO:0019825,Stroke,MESH:D020521,1,Resveratrol,1,ALB
+peptidase activator activity involved in apoptotic process,GO:0016505,Ischemic Stroke,MESH:D000083242,1,Cisplatin,0,
+peptidase activator activity involved in apoptotic process,GO:0016505,Stroke,MESH:D020521,1,Ethanol,0,
+peptidase activity,GO:0008233,Heat Stroke,MESH:D018883,1,Dopamine,0,
+peptidase activity,GO:0008233,Hemorrhagic Stroke,MESH:D000083302,1,Particulate Matter,0,
+peptidase activity,GO:0008233,Ischemic Stroke,MESH:D000083242,1,Particulate Matter,3,F2|PLAT|PLAU
+peptidase activity,GO:0008233,Stroke,MESH:D020521,2,Diclofenac|Particulate Matter,5,ACE|F2|PLAT|PLAU|PRPF8
+peptide binding,GO:0042277,Heat Stroke,MESH:D018883,0,,1,RELA
+peptidyl-dipeptidase activity,GO:0008241,Stroke,MESH:D020521,0,,1,ACE
+peroxidase activity,GO:0004601,Stroke,MESH:D020521,1,Arsenic,2,ANK2|PTGS2
+phosphatase activity,GO:0016791,Heat Stroke,MESH:D018883,0,,1,ALPL
+phosphatase activity,GO:0016791,Stroke,MESH:D020521,2,Cadmium|Potassium,0,
+phosphate ion binding,GO:0042301,Heat Stroke,MESH:D018883,0,,1,RELA
+phosphate ion binding,GO:0042301,Stroke,MESH:D020521,0,,1,SH2B3
+phosphate ion uniporter activity,GO:0140787,Stroke,MESH:D020521,0,,1,UCP2
+phosphatidylcholine-sterol O-acyltransferase activator activity,GO:0060228,Stroke,MESH:D020521,0,,1,APOA1
+"phosphatidylinositol-3,4-bisphosphate binding",GO:0043325,Stroke,MESH:D020521,0,,1,SH3PXD2A
+phosphatidylinositol-3-phosphate binding,GO:0032266,Stroke,MESH:D020521,0,,1,SH3PXD2A
+"phosphatidylinositol-4,5-bisphosphate binding",GO:0005546,Stroke,MESH:D020521,0,,1,SH3PXD2A
+phosphatidylinositol-4-phosphate binding,GO:0070273,Stroke,MESH:D020521,0,,1,SH3PXD2A
+phosphatidylinositol-5-phosphate binding,GO:0010314,Stroke,MESH:D020521,0,,1,SH3PXD2A
+phosphatidylinositol binding,GO:0035091,Stroke,MESH:D020521,0,,2,SH3PXD2A|ZCCHC14
+phosphatidylinositol phospholipase C activity,GO:0004435,Stroke,MESH:D020521,0,,1,EDNRA
+phosphatidylserine floppase activity,GO:0090556,Stroke,MESH:D020521,1,Reactive Oxygen Species,0,
+phosphoamidase activity,GO:0050187,Heat Stroke,MESH:D018883,0,,1,ALPL
+phosphoenolpyruvate carboxykinase activity,GO:0004611,Stroke,MESH:D020521,1,Arsenic,0,
+phosphoethanolamine phosphatase activity,GO:0052732,Heat Stroke,MESH:D018883,0,,1,ALPL
+phosphofructokinase activity,GO:0008443,Stroke,MESH:D020521,1,Acrolein,0,
+phospholipase A2 activity,GO:0004623,Stroke,MESH:D020521,3,Cadmium|Dexamethasone|Diclofenac,0,
+phospholipid binding,GO:0005543,Stroke,MESH:D020521,0,,2,APOA1|PLA2G7
+phosphoprotein binding,GO:0051219,Ischemic Stroke,MESH:D000083242,0,,1,PLAT
+phosphoprotein binding,GO:0051219,Stroke,MESH:D020521,0,,2,PITX2|PLAT
+phosphoric diester hydrolase activity,GO:0008081,Stroke,MESH:D020521,0,,1,PDE3A
+phosphorylation-dependent protein binding,GO:0140031,Stroke,MESH:D020521,0,,1,ANK2
+platelet-derived growth factor receptor binding,GO:0005161,Stroke,MESH:D020521,0,,1,ITGB3
+polyamine oxidase activity,GO:0046592,Stroke,MESH:D020521,0,,2,PAOX|SMOX
+potassium channel activity,GO:0005267,Stroke,MESH:D020521,0,,1,KCNK3
+potassium channel regulator activity,GO:0015459,Stroke,MESH:D020521,0,,1,ANK2
+potassium ion leak channel activity,GO:0022841,Stroke,MESH:D020521,0,,1,KCNK3
+pre-mRNA intronic binding,GO:0097157,Stroke,MESH:D020521,0,,1,PRPF8
+promoter-specific chromatin binding,GO:1990841,Heat Stroke,MESH:D018883,0,,1,FOS
+prostaglandin-endoperoxide synthase activity,GO:0004666,Hemorrhagic Stroke,MESH:D000083302,1,Particulate Matter,0,
+prostaglandin-endoperoxide synthase activity,GO:0004666,Ischemic Stroke,MESH:D000083242,1,Particulate Matter,0,
+prostaglandin-endoperoxide synthase activity,GO:0004666,Stroke,MESH:D020521,2,Diclofenac|Particulate Matter,1,PTGS2
+protease binding,GO:0002020,Heat Stroke,MESH:D018883,0,,1,TNF
+protease binding,GO:0002020,Stroke,MESH:D020521,0,,4,ITGAV|ITGB3|SH3PXD2A|TNF
+protein binding,GO:0005515,Heat Stroke,MESH:D018883,0,,14,ALPL|FOS|IL10|IL1A|IL1B|IL6|IL6RA|JUN|NFKB1|NFKB2|REL|RELA|RELB|TNF
+protein binding,GO:0005515,Ischemic Stroke,MESH:D000083242,0,,10,ALOX5AP|F2|F5|LPA|NOS3|PLAT|PLAU|PRKCH|VDR|ZFHX3
+protein binding,GO:0005515,Stroke,MESH:D020521,1,Calcium,49,ACE|ALB|ANK2|APOA1|CDK6|CXCR3|EDN1|EDNRA|F2|F5|FGA|HDAC9|HTR4|ICAM1|IL1B|IL1RN|IL6|IRF1|ITGA2B|ITGAV|ITGB3|KCNK3|LPA|LRCH1|MTHFR|NKX2-5|NOS2|PDE3A|PITX2|PLA2G7|PLAT|PLAU|PRKAA2|PRPF8|PTGS2|RGS7|SH2B3|SH3PXD2A|SMOX|SOD1|TBX3|TGFB1|TNF|TSPAN2|UCP2|VKORC1|WNT2B|ZCCHC14|ZFHX3
+protein-containing complex binding,GO:0044877,Heat Stroke,MESH:D018883,0,,5,FOS|IL11RA1|JUN|NFKB1|RELA
+protein-containing complex binding,GO:0044877,Ischemic Stroke,MESH:D000083242,0,,1,ALOX5AP
+protein-containing complex binding,GO:0044877,Stroke,MESH:D020521,0,,5,ICAM1|MTHFR|PRKAA2|SH2B3|TGFB1
+protein dimerization activity,GO:0046983,Heat Stroke,MESH:D018883,0,,1,IL10
+protein disulfide isomerase activity,GO:0003756,Ischemic Stroke,MESH:D000083242,1,Methamphetamine,0,
+protein disulfide isomerase activity,GO:0003756,Stroke,MESH:D020521,1,Methamphetamine,1,ITGB3
+protein domain specific binding,GO:0019904,Heat Stroke,MESH:D018883,0,,1,IL1B
+protein domain specific binding,GO:0019904,Stroke,MESH:D020521,0,,1,IL1B
+protein-glutamine gamma-glutamyltransferase activity,GO:0003810,Ischemic Stroke,MESH:D000083242,1,Cisplatin,0,
+protein-glutamine gamma-glutamyltransferase activity,GO:0003810,Stroke,MESH:D020521,2,Cadmium|Calcium,0,
+protein heterodimerization activity,GO:0046982,Heat Stroke,MESH:D018883,0,,1,REL
+protein heterodimerization activity,GO:0046982,Stroke,MESH:D020521,0,,1,KCNK3
+protein homodimerization activity,GO:0042803,Heat Stroke,MESH:D018883,0,,3,IL6RA|JUN|RELA
+protein homodimerization activity,GO:0042803,Stroke,MESH:D020521,0,,8,ACE|APOA1|NKX2-5|NOS2|PITX2|PTGS2|SOD1|UCP2
+protein kinase activity,GO:0004672,Ischemic Stroke,MESH:D000083242,0,,1,PRKCH
+protein kinase activity,GO:0004672,Stroke,MESH:D020521,0,,2,CDK6|PRKAA2
+protein kinase binding,GO:0019901,Heat Stroke,MESH:D018883,0,,2,RELA|RELB
+protein kinase binding,GO:0019901,Stroke,MESH:D020521,0,,2,ANK2|NOS2
+protein kinase C activity,GO:0004697,Heat Stroke,MESH:D018883,1,"N-(oxo-5,6-dihydrophenanthridin-2-yl)-N,N-dimethylacetamide hydrochloride",0,
+protein kinase C activity,GO:0004697,Ischemic Stroke,MESH:D000083242,0,,1,PRKCH
+protein kinase C activity,GO:0004697,Stroke,MESH:D020521,1,Calcium,0,
+protein kinase C binding,GO:0005080,Stroke,MESH:D020521,0,,3,HDAC9|ITGAV|ITGB3
+protein lysine deacetylase activity,GO:0033558,Stroke,MESH:D020521,0,,1,HDAC9
+protein-macromolecule adaptor activity,GO:0030674,Stroke,MESH:D020521,0,,2,ANK2|PRKAA2
+protein phosphatase 2B binding,GO:0030346,Stroke,MESH:D020521,0,,1,SOD1
+protein sequestering activity,GO:0140311,Heat Stroke,MESH:D018883,0,,1,NFKB1
+protein serine kinase activity,GO:0106310,Ischemic Stroke,MESH:D000083242,0,,1,PRKCH
+protein serine kinase activity,GO:0106310,Stroke,MESH:D020521,0,,2,CDK6|PRKAA2
+protein serine/threonine kinase activator activity,GO:0043539,Stroke,MESH:D020521,0,,1,TGFB1
+protein serine/threonine kinase activity,GO:0004674,Ischemic Stroke,MESH:D000083242,0,,1,PRKCH
+protein serine/threonine kinase activity,GO:0004674,Stroke,MESH:D020521,0,,3,ANK2|CDK6|PRKAA2
+protein serine/threonine kinase binding,GO:0120283,Ischemic Stroke,MESH:D000083242,0,,1,PRKCH
+protein serine/threonine kinase inhibitor activity,GO:0030291,Ischemic Stroke,MESH:D000083242,0,,1,PRKCH
+protein serine/threonine phosphatase activity,GO:0004722,Stroke,MESH:D020521,1,Verapamil,0,
+protein serine/threonine/tyrosine kinase activity,GO:0004712,Stroke,MESH:D020521,0,,1,PRKAA2
+protein tyrosine kinase binding,GO:1990782,Stroke,MESH:D020521,0,,1,SH2B3
+protein tyrosine phosphatase activity,GO:0004725,Hemorrhagic Stroke,MESH:D000083302,1,Particulate Matter,0,
+protein tyrosine phosphatase activity,GO:0004725,Ischemic Stroke,MESH:D000083242,1,Particulate Matter,0,
+protein tyrosine phosphatase activity,GO:0004725,Stroke,MESH:D020521,1,Particulate Matter,0,
+proton transmembrane transporter activity,GO:0015078,Stroke,MESH:D020521,0,,1,UCP2
+"proton-transporting ATPase activity, rotational mechanism",GO:0046961,Stroke,MESH:D020521,2,Arsenic|Resveratrol,0,
+"proton-transporting ATP synthase activity, rotational mechanism",GO:0046933,Hemorrhagic Stroke,MESH:D000083302,2,Air Pollutants|Particulate Matter,0,
+"proton-transporting ATP synthase activity, rotational mechanism",GO:0046933,Ischemic Stroke,MESH:D000083242,2,Air Pollutants|Particulate Matter,0,
+"proton-transporting ATP synthase activity, rotational mechanism",GO:0046933,Stroke,MESH:D020521,2,Air Pollutants|Particulate Matter,0,
+P-type calcium transporter activity,GO:0005388,Stroke,MESH:D020521,2,Arsenic|Cadmium,0,
+P-type magnesium transporter activity,GO:0015444,Stroke,MESH:D020521,2,Arsenic|Cadmium,0,
+P-type sodium:potassium-exchanging transporter activity,GO:0005391,Heat Stroke,MESH:D018883,2,Dopamine|Serotonin,0,
+P-type sodium:potassium-exchanging transporter activity,GO:0005391,Stroke,MESH:D020521,8,Arsenic|Atorvastatin|Cadmium|Ethanol|Folic Acid|Resveratrol|Serotonin|Vitamin E,0,
+pyridoxal phosphatase activity,GO:0033883,Heat Stroke,MESH:D018883,0,,1,ALPL
+pyridoxal phosphate binding,GO:0030170,Stroke,MESH:D020521,0,,1,ALB
+pyrophosphatase activity,GO:0016462,Heat Stroke,MESH:D018883,0,,1,ALPL
+pyruvate kinase activity,GO:0004743,Hemorrhagic Stroke,MESH:D000083302,2,Air Pollutants|Particulate Matter,0,
+pyruvate kinase activity,GO:0004743,Ischemic Stroke,MESH:D000083242,2,Air Pollutants|Particulate Matter,0,
+pyruvate kinase activity,GO:0004743,Stroke,MESH:D020521,2,Air Pollutants|Particulate Matter,0,
+quinone binding,GO:0048038,Stroke,MESH:D020521,0,,1,VKORC1
+receptor ligand activity,GO:0048018,Heat Stroke,MESH:D018883,0,,2,IL1B|TNF
+receptor ligand activity,GO:0048018,Ischemic Stroke,MESH:D000083242,0,,1,F2
+receptor ligand activity,GO:0048018,Stroke,MESH:D020521,0,,5,APOA1|EDN1|F2|IL1B|TNF
+receptor tyrosine kinase binding,GO:0030971,Ischemic Stroke,MESH:D000083242,0,,1,LPA
+receptor tyrosine kinase binding,GO:0030971,Stroke,MESH:D020521,0,,1,LPA
+Rho-dependent protein serine/threonine kinase activity,GO:0072518,Stroke,MESH:D020521,0,,1,PRKAA2
+ribonucleoprotein complex binding,GO:0043021,Stroke,MESH:D020521,0,,1,PITX2
+ribosomal protein S6 kinase activity,GO:0004711,Stroke,MESH:D020521,0,,1,PRKAA2
+RNA binding,GO:0003723,Stroke,MESH:D020521,0,,1,PRPF8
+RNA polymerase II cis-regulatory region sequence-specific DNA binding,GO:0000978,Heat Stroke,MESH:D018883,0,,7,FOS|JUN|NFKB1|NFKB2|REL|RELA|RELB
+RNA polymerase II cis-regulatory region sequence-specific DNA binding,GO:0000978,Ischemic Stroke,MESH:D000083242,0,,1,ZFHX3
+RNA polymerase II cis-regulatory region sequence-specific DNA binding,GO:0000978,Stroke,MESH:D020521,0,,7,FOXF2|IRF1|NKX2-5|PITX2|SMOX|TBX3|ZFHX3
+RNA polymerase II core promoter sequence-specific DNA binding,GO:0000979,Heat Stroke,MESH:D018883,0,,2,FOS|RELA
+RNA polymerase II-specific DNA-binding transcription factor binding,GO:0061629,Heat Stroke,MESH:D018883,0,,2,FOS|JUN
+RNA polymerase II-specific DNA-binding transcription factor binding,GO:0061629,Stroke,MESH:D020521,0,,4,HDAC9|NKX2-5|PITX2|TBX3
+RNA polymerase II transcription regulatory region sequence-specific DNA binding,GO:0000977,Heat Stroke,MESH:D018883,0,,3,NFKB1|REL|RELA
+RNA polymerase II transcription regulatory region sequence-specific DNA binding,GO:0000977,Ischemic Stroke,MESH:D000083242,0,,1,F2
+RNA polymerase II transcription regulatory region sequence-specific DNA binding,GO:0000977,Stroke,MESH:D020521,0,,4,CASZ1|F2|FOXF2|IRF1
+R-SMAD binding,GO:0070412,Heat Stroke,MESH:D018883,0,,2,FOS|JUN
+S100 protein binding,GO:0044548,Stroke,MESH:D020521,0,,1,KCNK3
+scaffold protein binding,GO:0097110,Ischemic Stroke,MESH:D000083242,0,,1,NOS3
+secondary active sulfate transmembrane transporter activity,GO:0008271,Stroke,MESH:D020521,0,,1,UCP2
+sequence-specific DNA binding,GO:0043565,Heat Stroke,MESH:D018883,0,,5,FOS|JUN|NFKB1|REL|RELA
+sequence-specific DNA binding,GO:0043565,Ischemic Stroke,MESH:D000083242,0,,1,VDR
+sequence-specific DNA binding,GO:0043565,Stroke,MESH:D020521,0,,6,FOXF2|IRF1|MMP12|NKX2-5|PITX2|TBX3
+sequence-specific double-stranded DNA binding,GO:1990837,Heat Stroke,MESH:D018883,0,,4,FOS|JUN|NFKB1|NFKB2
+sequence-specific double-stranded DNA binding,GO:1990837,Stroke,MESH:D020521,0,,3,NKX2-5|PITX2|TBX3
+serine-type endopeptidase activity,GO:0004252,Ischemic Stroke,MESH:D000083242,0,,4,F2|LPA|PLAT|PLAU
+serine-type endopeptidase activity,GO:0004252,Stroke,MESH:D020521,0,,5,F2|LPA|MMP12|PLAT|PLAU
+serine-type peptidase activity,GO:0008236,Ischemic Stroke,MESH:D000083242,0,,2,F2|PLAT
+serine-type peptidase activity,GO:0008236,Stroke,MESH:D020521,0,,2,F2|PLAT
+serotonin receptor activity,GO:0099589,Stroke,MESH:D020521,0,,1,HTR4
+signaling adaptor activity,GO:0035591,Stroke,MESH:D020521,0,,1,SH2B3
+signaling receptor activity,GO:0038023,Ischemic Stroke,MESH:D000083242,0,,1,F5
+signaling receptor activity,GO:0038023,Stroke,MESH:D020521,0,,3,CXCR3|F5|ICAM1
+signaling receptor binding,GO:0005102,Heat Stroke,MESH:D018883,0,,1,IL6
+signaling receptor binding,GO:0005102,Ischemic Stroke,MESH:D000083242,0,,3,F2|LPA|PLAT
+signaling receptor binding,GO:0005102,Stroke,MESH:D020521,0,,9,APOA1|EDN1|F2|FGA|IL6|ITGAV|LPA|PLAT|WNT2B
+signaling receptor complex adaptor activity,GO:0030159,Stroke,MESH:D020521,0,,1,SH2B3
+signaling receptor inhibitor activity,GO:0030547,Heat Stroke,MESH:D018883,0,,1,REL
+small GTPase binding,GO:0031267,Ischemic Stroke,MESH:D000083242,0,,1,PRKCH
+small GTPase binding,GO:0031267,Stroke,MESH:D020521,0,,1,SOD1
+small molecule binding,GO:0036094,Stroke,MESH:D020521,0,,1,ALB
+sodium channel activity,GO:0005272,Stroke,MESH:D020521,2,Cadmium|Resveratrol,1,KCNK3
+spectrin binding,GO:0030507,Stroke,MESH:D020521,0,,1,ANK2
+spermine:oxygen oxidoreductase (spermidine-forming) activity,GO:0052901,Stroke,MESH:D020521,0,,1,SMOX
+starch synthase activity,GO:0009011,Stroke,MESH:D020521,1,Nicotine,0,
+stem cell factor receptor binding,GO:0005173,Stroke,MESH:D020521,0,,1,SH2B3
+structural constituent of cytoskeleton,GO:0005200,Stroke,MESH:D020521,0,,1,ANK2
+structural constituent of ribosome,GO:0003735,Stroke,MESH:D020521,0,,1,PDE3A
+structural molecule activity,GO:0005198,Stroke,MESH:D020521,0,,1,FGA
+succinate dehydrogenase activity,GO:0000104,Ischemic Stroke,MESH:D000083242,1,Cisplatin,0,
+succinate dehydrogenase activity,GO:0000104,Stroke,MESH:D020521,4,Arsenic|Cadmium|Carvedilol|Niacin,0,
+succinate dehydrogenase (ubiquinone) activity,GO:0008177,Hemorrhagic Stroke,MESH:D000083302,1,Aspirin,0,
+succinate dehydrogenase (ubiquinone) activity,GO:0008177,Ischemic Stroke,MESH:D000083242,3,Aspirin|Cisplatin|Heparin,0,
+succinate dehydrogenase (ubiquinone) activity,GO:0008177,Stroke,MESH:D020521,7,Acetaminophen|Arsenic|Aspirin|Bupropion|Cadmium|Ethanol|Heparin,0,
+sucrose alpha-glucosidase activity,GO:0004575,Stroke,MESH:D020521,2,Folic Acid|Vitamin B 12,0,
+sulfate binding,GO:0043199,Stroke,MESH:D020521,0,,1,ACE
+SUMO binding,GO:0032183,Ischemic Stroke,MESH:D000083242,0,,1,ALOX5AP
+superoxide dismutase activity,GO:0004784,Heat Stroke,MESH:D018883,2,Cocaine|Glycerol,0,
+superoxide dismutase activity,GO:0004784,Hemorrhagic Stroke,MESH:D000083302,3,Air Pollutants|Aspirin|Particulate Matter,0,
+superoxide dismutase activity,GO:0004784,Ischemic Stroke,MESH:D000083242,9,Air Pollutants|Aspirin|Bleomycin|Cilostazol|Cisplatin|Methamphetamine|Ozone|Particulate Matter|Sulfur Dioxide,0,
+superoxide dismutase activity,GO:0004784,Stroke,MESH:D020521,44,Acetaminophen|Acrolein|Air Pollutants|Arsenic|Ascorbic Acid|Aspirin|Atorvastatin|Cadmium|Carvedilol|Cilostazol|Cocaine|Dexamethasone|Diclofenac|Diethylstilbestrol|Edaravone|Ethanol|Folic Acid|Furosemide|Glycerol|Ibuprofen|Losartan|Metformin|Methamphetamine|Methotrexate|Naloxone|Niacin|Niacinamide|Nicotine|Nifedipine|Ozone|Paroxetine|Particulate Matter|Perindopril|puag-haad|Resveratrol|Riboflavin|Sildenafil Citrate|Simvastatin|Soot|Sulfur Dioxide|Verapamil|Vitamin B 12|Vitamin B 6|Vitamin E,1,SOD1
+superoxide-generating NADPH oxidase activator activity,GO:0016176,Stroke,MESH:D020521,0,,1,SH3PXD2A
+superoxide-generating NAD(P)H oxidase activity,GO:0016175,Ischemic Stroke,MESH:D000083242,0,,1,NOS3
+superoxide-generating NADPH oxidase activity,GO:0106292,Ischemic Stroke,MESH:D000083242,1,Methamphetamine,0,
+superoxide-generating NADPH oxidase activity,GO:0106292,Stroke,MESH:D020521,1,Methamphetamine,0,
+telomerase activity,GO:0003720,Hemorrhagic Stroke,MESH:D000083302,2,Air Pollutants|Particulate Matter,0,
+telomerase activity,GO:0003720,Ischemic Stroke,MESH:D000083242,2,Air Pollutants|Particulate Matter,0,
+telomerase activity,GO:0003720,Stroke,MESH:D020521,2,Air Pollutants|Particulate Matter,0,
+testosterone 6-beta-hydroxylase activity,GO:0050649,Stroke,MESH:D020521,1,Dexamethasone,0,
+tetrahydrobiopterin binding,GO:0034617,Ischemic Stroke,MESH:D000083242,0,,1,NOS3
+tetrahydrobiopterin binding,GO:0034617,Stroke,MESH:D020521,0,,1,NOS2
+TFIIB-class transcription factor binding,GO:0001093,Stroke,MESH:D020521,0,,1,FOXF2
+thioredoxin-disulfide reductase activity,GO:0004791,Ischemic Stroke,MESH:D000083242,1,Cisplatin,0,
+thioredoxin-disulfide reductase activity,GO:0004791,Stroke,MESH:D020521,2,Ascorbic Acid|Cadmium,0,
+thrombospondin receptor activity,GO:0070053,Ischemic Stroke,MESH:D000083242,0,,1,F2
+thrombospondin receptor activity,GO:0070053,Stroke,MESH:D020521,0,,1,F2
+toxic substance binding,GO:0015643,Stroke,MESH:D020521,0,,1,ALB
+transaminase activity,GO:0008483,Stroke,MESH:D020521,1,Arsenic,0,
+transcription cis-regulatory region binding,GO:0000976,Heat Stroke,MESH:D018883,0,,5,FOS|JUN|NFKB1|RELA|TNF
+transcription cis-regulatory region binding,GO:0000976,Ischemic Stroke,MESH:D000083242,0,,1,ZFHX3
+transcription cis-regulatory region binding,GO:0000976,Stroke,MESH:D020521,0,,5,IRF1|NKX2-5|PITX2|TNF|ZFHX3
+transcription coactivator binding,GO:0001223,Heat Stroke,MESH:D018883,0,,2,NFKB1|RELA
+transcription coregulator activity,GO:0003712,Heat Stroke,MESH:D018883,0,,1,NFKB1
+transcription coregulator binding,GO:0001221,Heat Stroke,MESH:D018883,0,,1,FOS
+transcription corepressor activity,GO:0003714,Stroke,MESH:D020521,0,,1,HDAC9
+transcription factor binding,GO:0008134,Heat Stroke,MESH:D018883,0,,2,JUN|REL
+transcription factor binding,GO:0008134,Stroke,MESH:D020521,0,,1,PITX2
+transcription regulator activity,GO:0140110,Heat Stroke,MESH:D018883,0,,1,RELA
+transferase activity,GO:0016740,Stroke,MESH:D020521,0,,2,CDK6|PRKAA2
+transforming growth factor beta binding,GO:0050431,Stroke,MESH:D020521,0,,1,ITGAV
+transforming growth factor beta receptor binding,GO:0005160,Stroke,MESH:D020521,0,,1,TGFB1
+translation regulator activity,GO:0045182,Ischemic Stroke,MESH:D000083242,0,,1,PRKCH
+transmembrane receptor protein tyrosine kinase adaptor activity,GO:0005068,Stroke,MESH:D020521,0,,1,SH2B3
+transmembrane signaling receptor activity,GO:0004888,Stroke,MESH:D020521,0,,1,ICAM1
+transmembrane transporter activity,GO:0022857,Stroke,MESH:D020521,0,,1,ABO
+transmembrane transporter binding,GO:0044325,Stroke,MESH:D020521,0,,1,ANK2
+trehalase activity,GO:0015927,Ischemic Stroke,MESH:D000083242,1,Ozone,0,
+trehalase activity,GO:0015927,Stroke,MESH:D020521,1,Ozone,0,
+tripeptidyl-peptidase activity,GO:0008240,Stroke,MESH:D020521,0,,1,ACE
+"tryptophan 2,3-dioxygenase activity",GO:0004833,Stroke,MESH:D020521,1,Cadmium,0,
+tryptophan 5-monooxygenase activity,GO:0004510,Stroke,MESH:D020521,1,Tamoxifen,0,
+tumor necrosis factor receptor binding,GO:0005164,Heat Stroke,MESH:D018883,0,,1,TNF
+tumor necrosis factor receptor binding,GO:0005164,Stroke,MESH:D020521,0,,1,TNF
+type III transforming growth factor beta receptor binding,GO:0034714,Stroke,MESH:D020521,0,,1,TGFB1
+type II transforming growth factor beta receptor binding,GO:0005114,Stroke,MESH:D020521,0,,1,TGFB1
+type I transforming growth factor beta receptor binding,GO:0034713,Stroke,MESH:D020521,0,,1,TGFB1
+U1 snRNA binding,GO:0030619,Stroke,MESH:D020521,0,,1,PRPF8
+U2 snRNA binding,GO:0030620,Stroke,MESH:D020521,0,,1,PRPF8
+U5 snRNA binding,GO:0030623,Stroke,MESH:D020521,0,,1,PRPF8
+U6 snRNA binding,GO:0017070,Stroke,MESH:D020521,0,,1,PRPF8
+ubiquinol-cytochrome-c reductase activity,GO:0008121,Ischemic Stroke,MESH:D000083242,1,Cisplatin,0,
+ubiquinol-cytochrome-c reductase activity,GO:0008121,Stroke,MESH:D020521,3,Acetaminophen|Arsenic|Cadmium,0,
+ubiquitin ligase-substrate adaptor activity,GO:1990756,Stroke,MESH:D020521,0,,1,ABO
+ubiquitin-like protein ligase binding,GO:0044389,Heat Stroke,MESH:D018883,0,,1,JUN
+ubiquitin protein ligase binding,GO:0031625,Heat Stroke,MESH:D018883,0,,2,JUN|RELA
+ubiquitin protein ligase binding,GO:0031625,Stroke,MESH:D020521,0,,1,ABO
+"UDP-galactose:beta-N-acetylglucosamine beta-1,3-galactosyltransferase activity",GO:0008499,Stroke,MESH:D020521,0,,1,ABO
+vascular endothelial growth factor receptor 2 binding,GO:0043184,Stroke,MESH:D020521,0,,1,ITGB3
+virus receptor activity,GO:0001618,Stroke,MESH:D020521,0,,3,ICAM1|ITGAV|ITGB3
+vitamin D binding,GO:0005499,Ischemic Stroke,MESH:D000083242,0,,1,VDR
+vitamin D response element binding,GO:0070644,Ischemic Stroke,MESH:D000083242,0,,1,VDR
+vitamin-K-epoxide reductase (warfarin-insensitive) activity,GO:0047058,Stroke,MESH:D020521,0,,1,VKORC1
+vitamin-K-epoxide reductase (warfarin-sensitive) activity,GO:0047057,Stroke,MESH:D020521,2,Acenocoumarol|Warfarin,1,VKORC1
+voltage-gated calcium channel activity,GO:0005245,Stroke,MESH:D020521,0,,1,ITGAV
+voltage-gated channel activity,GO:0022832,Stroke,MESH:D020521,2,Furosemide|Tamoxifen,0,
+xanthine oxidase activity,GO:0004855,Stroke,MESH:D020521,1,Diclofenac,0,
+zinc ion binding,GO:0008270,Ischemic Stroke,MESH:D000083242,0,,3,PRKCH|VDR|ZFHX3
+zinc ion binding,GO:0008270,Stroke,MESH:D020521,1,Arsenic,9,ACE|ALB|CASZ1|ITGB3|MMP12|SOD1|VKORC1|ZCCHC14|ZFHX3

@@ -1,0 +1,13 @@
+GOName,GOID,DiseaseName,DiseaseID,InferenceChemicalQty,InferenceChemicalNames,InferenceGeneQty,InferenceGeneSymbols
+autophagosome,GO:0005776,"Sleep Disorders, Circadian Rhythm",MESH:D020178,1,Melatonin,0,
+chromatin,GO:0000785,"Sleep Disorders, Circadian Rhythm",MESH:D020178,0,,3,BHLHE40|NFIL3|RORC
+cytoplasm,GO:0005737,"Sleep Disorders, Circadian Rhythm",MESH:D020178,0,,4,AANAT|BHLHE40|CRY1|NFIL3
+cytosol,GO:0005829,"Sleep Disorders, Circadian Rhythm",MESH:D020178,0,,2,AANAT|CRY1
+external side of plasma membrane,GO:0009897,"Sleep Disorders, Circadian Rhythm",MESH:D020178,0,,1,RORC
+membrane,GO:0016020,"Sleep Disorders, Circadian Rhythm",MESH:D020178,0,,1,AANAT
+mitochondrion,GO:0005739,"Sleep Disorders, Circadian Rhythm",MESH:D020178,0,,1,CRY1
+nuclear body,GO:0016604,"Sleep Disorders, Circadian Rhythm",MESH:D020178,0,,2,BHLHE40|RORC
+nucleoplasm,GO:0005654,"Sleep Disorders, Circadian Rhythm",MESH:D020178,0,,3,BHLHE40|CRY1|RORC
+nucleus,GO:0005634,"Sleep Disorders, Circadian Rhythm",MESH:D020178,0,,4,BHLHE40|CRY1|NFIL3|RORC
+perinuclear region of cytoplasm,GO:0048471,"Sleep Disorders, Circadian Rhythm",MESH:D020178,0,,1,AANAT
+RNA polymerase II transcription regulator complex,GO:0090575,"Sleep Disorders, Circadian Rhythm",MESH:D020178,0,,1,NFIL3

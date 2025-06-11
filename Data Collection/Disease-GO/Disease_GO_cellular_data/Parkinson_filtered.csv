@@ -1,0 +1,1118 @@
+GOName,GOID,DiseaseName,DiseaseID,InferenceChemicalQty,InferenceChemicalNames,InferenceGeneQty,InferenceGeneSymbols
+A band,GO:0031672,Parkinson Disease,MESH:D010300,0,,1,RPL6
+acrosomal vesicle,GO:0001669,Parkinson Disease,MESH:D010300,0,,1,DRD2
+acrosomal vesicle,GO:0001669,Parkinsonian Disorders,MESH:D020734,0,,1,DRD2
+actin cytoskeleton,GO:0015629,Parkinson Disease,MESH:D010300,0,,3,MAP2|MLP60A|SNCA
+actin cytoskeleton,GO:0015629,"PARKINSON DISEASE 1, AUTOSOMAL DOMINANT",OMIM:168601,0,,1,SNCA
+actin cytoskeleton,GO:0015629,"Parkinson Disease 4, Autosomal Dominant Lewy Body",MESH:C565324,0,,1,SNCA
+actin cytoskeleton,GO:0015629,"Parkinson Disease, Secondary",MESH:D010302,0,,1,SNCA
+actin cytoskeleton,GO:0015629,Parkinsonian Disorders,MESH:D020734,0,,1,SNCA
+actin filament,GO:0005884,Parkinson Disease,MESH:D010300,0,,1,AIF1
+actin filament,GO:0005884,Parkinsonian Disorders,MESH:D020734,1,Cadmium,0,
+actin filament bundle,GO:0032432,Parkinson Disease,MESH:D010300,1,Particulate Matter,1,KST
+actin filament bundle,GO:0032432,Parkinsonian Disorders,MESH:D020734,1,Particulate Matter,0,
+actomyosin contractile ring,GO:0005826,Parkinson Disease,MESH:D010300,0,,1,KST
+aggresome,GO:0016235,Parkinson Disease,MESH:D010300,0,,3,HSPA1A|PRKN|SLC2A14
+aggresome,GO:0016235,"Parkinson Disease, Secondary",MESH:D010302,0,,1,PRKN
+aggresome,GO:0016235,Parkinsonian Disorders,MESH:D020734,0,,1,PRKN
+alphav-beta3 integrin-IGF-1-IGF1R complex,GO:0035867,Parkinson Disease,MESH:D010300,0,,1,IGF1R
+alveolar lamellar body,GO:0097208,Parkinson Disease,MESH:D010300,1,Particulate Matter,0,
+alveolar lamellar body,GO:0097208,Parkinsonian Disorders,MESH:D020734,1,Particulate Matter,0,
+amphisome,GO:0044753,Parkinson Disease,MESH:D010300,0,,1,LRRK2
+amphisome,GO:0044753,"PARKINSON DISEASE 8, AUTOSOMAL DOMINANT",OMIM:607060,0,,1,LRRK2
+amphisome,GO:0044753,Parkinsonian Disorders,MESH:D020734,0,,1,LRRK2
+amyloid-beta complex,GO:0106003,Parkinson Disease,MESH:D010300,1,Paraquat,0,
+amyloid-beta complex,GO:0106003,"Parkinson Disease, Secondary",MESH:D010302,1,Paraquat,0,
+amyloid-beta complex,GO:0106003,Parkinsonian Disorders,MESH:D020734,1,Paraquat,0,
+anchoring junction,GO:0070161,Parkinson Disease,MESH:D010300,0,,1,CNTNAP2
+apical dendrite,GO:0097440,Parkinson Disease,MESH:D010300,0,,2,MAP2|PPARGC1A
+apical distal dendrite,GO:0150014,Parkinson Disease,MESH:D010300,0,,1,MAP2
+apical junction complex,GO:0043296,Parkinson Disease,MESH:D010300,0,,1,NECTIN2
+apical part of cell,GO:0045177,Parkinson Disease,MESH:D010300,0,,1,HFE
+apical part of cell,GO:0045177,"PARKINSONISM WITH SPASTICITY, X-LINKED",OMIM:300911,0,,1,ATP6AP2
+apical plasma membrane,GO:0016324,AMYOTROPHIC LATERAL SCLEROSIS-PARKINSONISM/DEMENTIA COMPLEX 1,OMIM:105500,0,,1,TRPM7
+apical plasma membrane,GO:0016324,"Dystonia-Parkinsonism, Adult-Onset",MESH:C567844,0,,1,SLC39A14
+apical plasma membrane,GO:0016324,Parkinson Disease,MESH:D010300,0,,4,ABCB1|CEACAM6|HSPA1A|KST
+apical plasma membrane,GO:0016324,"Parkinson Disease, Secondary",MESH:D010302,0,,1,ABCB1
+apical plasma membrane,GO:0016324,"PARKINSONISM WITH SPASTICITY, X-LINKED",OMIM:300911,0,,1,ATP6AP2
+apicolateral plasma membrane,GO:0016327,Parkinson Disease,MESH:D010300,0,,1,KST
+apoptotic body,GO:0097189,Parkinson Disease,MESH:D010300,1,Rotenone,0,
+apoptotic body,GO:0097189,"Parkinson Disease, Secondary",MESH:D010302,1,Rotenone,0,
+apoptotic body,GO:0097189,Parkinsonian Disorders,MESH:D020734,4,baicalin|Cadmium|Indomethacin|Rotenone,0,
+astrocyte end-foot,GO:0097450,Parkinson Disease,MESH:D010300,0,,1,GFAP
+astrocyte projection,GO:0097449,Parkinson Disease,MESH:D010300,0,,2,GFAP|PINK1
+astrocyte projection,GO:0097449,"Parkinson Disease 6, Autosomal Recessive Early-Onset",MESH:C565276,0,,1,PINK1
+astrocyte projection,GO:0097449,Parkinsonian Disorders,MESH:D020734,0,,1,PINK1
+autolysosome,GO:0044754,Parkinson Disease,MESH:D010300,4,Methamphetamine|Paraquat|Rotenone|Sirolimus,1,LRRK2
+autolysosome,GO:0044754,"PARKINSON DISEASE 8, AUTOSOMAL DOMINANT",OMIM:607060,0,,1,LRRK2
+autolysosome,GO:0044754,"Parkinson Disease, Secondary",MESH:D010302,6,3-methyladenine|Doxorubicin|Methamphetamine|Paraquat|Rotenone|Sertraline,0,
+autolysosome,GO:0044754,Parkinsonian Disorders,MESH:D020734,6,Cadmium|Curcumin|Docosahexaenoic Acids|Paraquat|Rotenone|Sertraline,1,LRRK2
+autolysosome membrane,GO:0120281,Parkinson Disease,MESH:D010300,0,,1,HLA-DRA
+autophagosome,GO:0005776,Parkinson Disease,MESH:D010300,6,Atrazine|Lead|Melatonin|Methamphetamine|Paraquat|Sirolimus,3,ATP13A2|RAB32|TMEM230
+autophagosome,GO:0005776,"Parkinson Disease, Secondary",MESH:D010302,8,3-methyladenine|Atrazine|Benzo(a)pyrene|Doxorubicin|Melatonin|Methamphetamine|Paraquat|Resveratrol,1,ATP13A2
+autophagosome,GO:0005776,Parkinsonian Disorders,MESH:D020734,5,Cadmium|Indomethacin|Melatonin|Paraquat|Resveratrol,1,ATP13A2
+autophagosome membrane,GO:0000421,Parkinson Disease,MESH:D010300,0,,1,ATP13A2
+autophagosome membrane,GO:0000421,"Parkinson Disease, Secondary",MESH:D010302,0,,1,ATP13A2
+autophagosome membrane,GO:0000421,Parkinsonian Disorders,MESH:D020734,0,,1,ATP13A2
+autophagosome membrane,GO:0000421,"PARKINSONISM WITH SPASTICITY, X-LINKED",OMIM:300911,0,,1,ATP6AP2
+axolemma,GO:0030673,Parkinson Disease,MESH:D010300,0,,2,CNTNAP2|MAPT
+axolemma,GO:0030673,"PARKINSON DISEASE, LATE-ONSET",OMIM:168600,0,,1,MAPT
+axolemma,GO:0030673,Parkinsonian Disorders,MESH:D020734,0,,1,MAPT
+axon,GO:0030424,Parkinson Disease,MESH:D010300,0,,20,BDNF|CNTNAP2|DDC|DRD1|DRD2|IGF1R|INSR|LRRK2|MAPT|NGF|PARK7|PINK1|PRKN|RTNL1|SLC18A2|SLC38A2|SLC6A3|SNCA|TH|TMEM230
+axon,GO:0030424,"PARKINSON DISEASE 1, AUTOSOMAL DOMINANT",OMIM:168601,0,,1,SNCA
+axon,GO:0030424,"Parkinson Disease 4, Autosomal Dominant Lewy Body",MESH:C565324,0,,1,SNCA
+axon,GO:0030424,"PARKINSON DISEASE 5, AUTOSOMAL DOMINANT, SUSCEPTIBILITY TO",OMIM:613643,0,,1,UCHL1
+axon,GO:0030424,"Parkinson Disease 6, Autosomal Recessive Early-Onset",MESH:C565276,0,,1,PINK1
+axon,GO:0030424,"Parkinson Disease 7, Autosomal Recessive Early-Onset",MESH:C565238,0,,1,PARK7
+axon,GO:0030424,"PARKINSON DISEASE 8, AUTOSOMAL DOMINANT",OMIM:607060,0,,1,LRRK2
+axon,GO:0030424,"PARKINSON DISEASE, LATE-ONSET",OMIM:168600,0,,1,MAPT
+axon,GO:0030424,"Parkinson Disease, Secondary",MESH:D010302,0,,4,PRKN|SHH|SLC18A2|SNCA
+axon,GO:0030424,Parkinsonian Disorders,MESH:D020734,0,,15,ALDH1A1|ATP1A3|CAT-2|DCTN1|DDC|DRD2|LRRK2|MAPT|NGF|PARK7|PINK1|PRKN|SLC18A2|SNCA|TH
+axon,GO:0030424,"Parkinsonism-Dystonia, Infantile",MESH:C567730,0,,1,SLC6A3
+axon,GO:0030424,"PARKINSONISM WITH SPASTICITY, X-LINKED",OMIM:300911,0,,1,ATP6AP2
+axonal growth cone,GO:0044295,Parkinson Disease,MESH:D010300,0,,2,MAPT|RTNL1
+axonal growth cone,GO:0044295,"PARKINSON DISEASE, LATE-ONSET",OMIM:168600,0,,1,MAPT
+axonal growth cone,GO:0044295,Parkinsonian Disorders,MESH:D020734,0,,1,MAPT
+axonal spine,GO:0044308,Parkinsonian Disorders,MESH:D020734,1,Cadmium,0,
+axon cytoplasm,GO:1904115,Parkinson Disease,MESH:D010300,0,,2,MAPT|SOD1
+axon cytoplasm,GO:1904115,"PARKINSON DISEASE 5, AUTOSOMAL DOMINANT, SUSCEPTIBILITY TO",OMIM:613643,0,,1,UCHL1
+axon cytoplasm,GO:1904115,"PARKINSON DISEASE, LATE-ONSET",OMIM:168600,0,,1,MAPT
+axon cytoplasm,GO:1904115,Parkinsonian Disorders,MESH:D020734,0,,1,MAPT
+axoneme,GO:0005930,Parkinson Disease,MESH:D010300,0,,1,MAPT
+axoneme,GO:0005930,"PARKINSON DISEASE, LATE-ONSET",OMIM:168600,0,,1,MAPT
+axoneme,GO:0005930,Parkinsonian Disorders,MESH:D020734,0,,1,MAPT
+axon hillock,GO:0043203,Parkinson Disease,MESH:D010300,0,,1,MAP2
+axon initial segment,GO:0043194,Parkinson Disease,MESH:D010300,0,,2,CNTNAP2|MAP2
+axon terminus,GO:0043679,Parkinson Disease,MESH:D010300,0,,5,DRD1|DRD2|SLC18A2|SLC6A3|SNCA
+axon terminus,GO:0043679,"PARKINSON DISEASE 1, AUTOSOMAL DOMINANT",OMIM:168601,0,,1,SNCA
+axon terminus,GO:0043679,"Parkinson Disease 4, Autosomal Dominant Lewy Body",MESH:C565324,0,,1,SNCA
+axon terminus,GO:0043679,"Parkinson Disease, Secondary",MESH:D010302,0,,2,SLC18A2|SNCA
+axon terminus,GO:0043679,Parkinsonian Disorders,MESH:D020734,0,,5,DRD2|PDYN|PNOC|SLC18A2|SNCA
+axon terminus,GO:0043679,"Parkinsonism-Dystonia, Infantile",MESH:C567730,0,,1,SLC6A3
+azurophil granule,GO:0042582,Parkinson Disease,MESH:D010300,0,,2,DEFA4|NOS1
+azurophil granule lumen,GO:0035578,Parkinsonian Disorders,MESH:D020734,0,,1,PRKCD
+azurophil granule membrane,GO:0035577,Parkinson Disease,MESH:D010300,0,,1,CEACAM6
+basal dendrite,GO:0097441,Parkinson Disease,MESH:D010300,0,,1,MAP2
+basal part of cell,GO:0045178,Parkinson Disease,MESH:D010300,0,,2,EDN1|HFE
+basement membrane,GO:0005604,Parkinson Disease,MESH:D010300,0,,1,COL19A1
+basolateral plasma membrane,GO:0016323,"Dystonia-Parkinsonism, Adult-Onset",MESH:C567844,0,,1,SLC39A14
+basolateral plasma membrane,GO:0016323,Parkinson Disease,MESH:D010300,0,,3,HSPA1A|KCNJ4|LRRK2
+basolateral plasma membrane,GO:0016323,"PARKINSON DISEASE 8, AUTOSOMAL DOMINANT",OMIM:607060,0,,1,LRRK2
+basolateral plasma membrane,GO:0016323,Parkinsonian Disorders,MESH:D020734,0,,1,LRRK2
+bicellular tight junction,GO:0005923,Parkinson Disease,MESH:D010300,0,,1,PRM
+blood microparticle,GO:0072562,Parkinson Disease,MESH:D010300,0,,3,FGB|HBG1|HSPA1A
+bounding membrane of organelle,GO:0098588,"PARKINSONISM WITH SPASTICITY, X-LINKED",OMIM:300911,0,,1,ATP6AP2
+box C/D RNP complex,GO:0031428,Parkinsonian Disorders,MESH:D020734,0,,1,DCTN1
+brush border,GO:0005903,Parkinson Disease,MESH:D010300,0,,2,DNM1L|SLC38A2
+CA3 pyramidal cell dendrite,GO:0097442,Parkinson Disease,MESH:D010300,0,,1,MAP2
+Cajal body,GO:0015030,Parkinsonian Disorders,MESH:D020734,0,,1,PARP1
+calyx of Held,GO:0044305,Parkinson Disease,MESH:D010300,0,,1,NOS1
+calyx of Held,GO:0044305,Parkinsonian Disorders,MESH:D020734,0,,1,ATP1A3
+cardiac Troponin complex,GO:1990584,"Parkinson Disease, Secondary",MESH:D010302,1,Doxorubicin,0,
+cardiac Troponin complex,GO:1990584,Wolff-Parkinson-White Syndrome,MESH:D014927,1,Isoproterenol,0,
+caveola,GO:0005901,Parkinson Disease,MESH:D010300,0,,5,DRD1|HMOX1|IGF1R|INSR|NOS1
+caveola neck,GO:0099400,Parkinson Disease,MESH:D010300,0,,1,LRRK2
+caveola neck,GO:0099400,"PARKINSON DISEASE 8, AUTOSOMAL DOMINANT",OMIM:607060,0,,1,LRRK2
+caveola neck,GO:0099400,Parkinsonian Disorders,MESH:D020734,0,,1,LRRK2
+CD40 receptor complex,GO:0035631,Parkinson Disease 13,MESH:C565204,0,,1,HTRA2
+CD40 receptor complex,GO:0035631,Parkinsonian Disorders,MESH:D020734,0,,1,HTRA2
+cell body,GO:0044297,Parkinson Disease,MESH:D010300,0,,8,GFAP|HSPA1A|INSR|MAP2|MAPT|PARK7|PINK1|SLC18A2
+cell body,GO:0044297,"Parkinson Disease 6, Autosomal Recessive Early-Onset",MESH:C565276,0,,1,PINK1
+cell body,GO:0044297,"Parkinson Disease 7, Autosomal Recessive Early-Onset",MESH:C565238,0,,1,PARK7
+cell body,GO:0044297,"PARKINSON DISEASE, LATE-ONSET",OMIM:168600,0,,1,MAPT
+cell body,GO:0044297,"Parkinson Disease, Secondary",MESH:D010302,0,,1,SLC18A2
+cell body,GO:0044297,Parkinsonian Disorders,MESH:D020734,0,,4,MAPT|PARK7|PINK1|SLC18A2
+cell body,GO:0044297,"PARKINSONISM WITH SPASTICITY, X-LINKED",OMIM:300911,0,,1,ATP6AP2
+cell-cell contact zone,GO:0044291,Parkinson Disease,MESH:D010300,0,,1,NECTIN2
+cell-cell junction,GO:0005911,Parkinson Disease,MESH:D010300,0,,2,MAG|NECTIN2
+cell-cell junction,GO:0005911,Parkinsonian Disorders,MESH:D020734,0,,1,PRKCD
+cell cortex,GO:0005938,Parkinson Disease,MESH:D010300,0,,3,ENO2|FGB|SNCA
+cell cortex,GO:0005938,"PARKINSON DISEASE 1, AUTOSOMAL DOMINANT",OMIM:168601,0,,1,SNCA
+cell cortex,GO:0005938,"Parkinson Disease 4, Autosomal Dominant Lewy Body",MESH:C565324,0,,1,SNCA
+cell cortex,GO:0005938,"Parkinson Disease, Secondary",MESH:D010302,0,,1,SNCA
+cell cortex,GO:0005938,Parkinsonian Disorders,MESH:D020734,0,,2,DCTN1|SNCA
+cell cortex region,GO:0099738,Parkinsonian Disorders,MESH:D020734,0,,1,DCTN1
+cell junction,GO:0030054,Parkinson Disease,MESH:D010300,0,,1,KST
+cell leading edge,GO:0031252,Parkinsonian Disorders,MESH:D020734,0,,1,DCTN1
+cell periphery,GO:0071944,Parkinson Disease,MESH:D010300,0,,1,NOS1
+cell periphery,GO:0071944,Parkinson Disease 11,MESH:C564345,0,,1,GIGYF2
+cell projection,GO:0042995,Parkinson Disease,MESH:D010300,1,Lipopolysaccharides,8,AIF1|DRD1|GFAP|KST|SLC18A2|SLC6A3|TH|TRPM2
+cell projection,GO:0042995,"Parkinson Disease, Secondary",MESH:D010302,0,,2,CNR2|SLC18A2
+cell projection,GO:0042995,Parkinsonian Disorders,MESH:D020734,1,Lipopolysaccharides,3,CAT-2|SLC18A2|TH
+cell projection,GO:0042995,"Parkinsonism-Dystonia, Infantile",MESH:C567730,0,,1,SLC6A3
+cell surface,GO:0009986,Parkinson Disease,MESH:D010300,0,,14,ABCB1|CEACAM6|CHP|CNTNAP2|CP|DRD1|ENO2|FGB|HLA-DRA|IGF2R|NECTIN2|SLC6A3|TALDO1|TNF
+cell surface,GO:0009986,"Parkinson Disease, Secondary",MESH:D010302,0,,2,ABCB1|SHH
+cell surface,GO:0009986,Parkinsonian Disorders,MESH:D020734,0,,1,ATP1A3
+cell surface,GO:0009986,"Parkinsonism-Dystonia, Infantile",MESH:C567730,0,,1,SLC6A3
+cell surface,GO:0009986,"PARKINSONISM WITH SPASTICITY, X-LINKED",OMIM:300911,0,,1,ATP6AP2
+cellular_component,GO:0005575,Parkinson Disease,MESH:D010300,0,,2,MAP3K5|MIR181C
+cellular_component,GO:0005575,Parkinson Disease 11,MESH:C564345,0,,1,GIGYF2
+cellular_component,GO:0005575,"Parkinson Disease, Secondary",MESH:D010302,0,,1,PON1
+centriolar subdistal appendage,GO:0120103,Parkinsonian Disorders,MESH:D020734,0,,1,DCTN1
+centriole,GO:0005814,Parkinson Disease,MESH:D010300,0,,1,HSPA1A
+centriole,GO:0005814,Parkinsonian Disorders,MESH:D020734,0,,1,DCTN1
+centrosome,GO:0005813,Parkinson Disease,MESH:D010300,0,,3,HSPA1A|KCNJ4|SLC18A2
+centrosome,GO:0005813,"Parkinson Disease, Secondary",MESH:D010302,0,,1,SLC18A2
+centrosome,GO:0005813,Parkinsonian Disorders,MESH:D020734,0,,2,DCTN1|SLC18A2
+cerebellar granule cell to Purkinje cell synapse,GO:0150048,Parkinson Disease,MESH:D010300,0,,1,CNTNAP2
+chitin-based extracellular matrix,GO:0062129,Parkinson Disease,MESH:D010300,0,,2,CPR64AA|CPR66D
+chromatin,GO:0000785,Parkinson Disease,MESH:D010300,0,,3,PARK7|PINK1|PPARGC1A
+chromatin,GO:0000785,Parkinson Disease 13,MESH:C565204,0,,1,HTRA2
+chromatin,GO:0000785,"Parkinson Disease 6, Autosomal Recessive Early-Onset",MESH:C565276,0,,1,PINK1
+chromatin,GO:0000785,"Parkinson Disease 7, Autosomal Recessive Early-Onset",MESH:C565238,0,,1,PARK7
+chromatin,GO:0000785,"PARKINSON DISEASE, LATE-ONSET",OMIM:168600,0,,2,NR4A2|TBP
+chromatin,GO:0000785,Parkinsonian Disorders,MESH:D020734,0,,4,HTRA2|PARK7|PARP1|PINK1
+chromosome,GO:0005694,Parkinsonian Disorders,MESH:D020734,0,,2,HOTAIR|PARP1
+ciliary basal body,GO:0036064,Parkinson Disease,MESH:D010300,0,,2,KCNJ4|LRRK2
+ciliary basal body,GO:0036064,"PARKINSON DISEASE 8, AUTOSOMAL DOMINANT",OMIM:607060,0,,1,LRRK2
+ciliary basal body,GO:0036064,"PARKINSON DISEASE, LATE-ONSET",OMIM:168600,0,,1,ADH1C
+ciliary basal body,GO:0036064,Parkinsonian Disorders,MESH:D020734,0,,2,DCTN1|LRRK2
+ciliary membrane,GO:0060170,Parkinson Disease,MESH:D010300,0,,2,DRD1|DRD2
+ciliary membrane,GO:0060170,Parkinsonian Disorders,MESH:D020734,0,,1,DRD2
+cilium,GO:0005929,Parkinson Disease,MESH:D010300,0,,4,DRD1|DRD2|IGF1R|MAP2
+cilium,GO:0005929,"PARKINSON DISEASE, LATE-ONSET",OMIM:168600,0,,1,ADH1C
+cilium,GO:0005929,Parkinsonian Disorders,MESH:D020734,0,,2,DCTN1|DRD2
+clathrin coat,GO:0030118,Parkinson Disease,MESH:D010300,0,,1,IGF2R
+clathrin coat,GO:0030118,"PARKINSON DISEASE 20, EARLY-ONSET",OMIM:615530,0,,1,SYNJ1
+clathrin-coated endocytic vesicle membrane,GO:0030669,Parkinson Disease,MESH:D010300,0,,3,HLA-DRA|HLA-DRB5|IGF2R
+clathrin-coated pit,GO:0005905,Parkinson Disease,MESH:D010300,0,,1,DNM1L
+clathrin-coated vesicle,GO:0030136,Parkinson Disease,MESH:D010300,0,,1,GAK
+clathrin-coated vesicle,GO:0030136,"PARKINSON DISEASE 19A, JUVENILE-ONSET",OMIM:615528,0,,1,DNAJC6
+clathrin-coated vesicle membrane,GO:0030665,"PARKINSONISM WITH SPASTICITY, X-LINKED",OMIM:300911,0,,1,ATP6AP2
+clathrin coat of coated pit,GO:0030132,"PARKINSON DISEASE 20, EARLY-ONSET",OMIM:615530,0,,1,SYNJ1
+clathrin-sculpted monoamine transport vesicle membrane,GO:0070083,Parkinson Disease,MESH:D010300,0,,1,SLC18A2
+clathrin-sculpted monoamine transport vesicle membrane,GO:0070083,"Parkinson Disease, Secondary",MESH:D010302,0,,1,SLC18A2
+clathrin-sculpted monoamine transport vesicle membrane,GO:0070083,Parkinsonian Disorders,MESH:D020734,0,,1,SLC18A2
+collagen and cuticulin-based cuticle extracellular matrix,GO:0060102,Parkinson Disease,MESH:D010300,0,,1,COL19A1
+collagen-containing extracellular matrix,GO:0062023,Parkinson Disease,MESH:D010300,0,,1,COL19A1
+collagen trimer,GO:0005581,Parkinson Disease,MESH:D010300,0,,1,COL19A1
+collagen type II trimer,GO:0005585,Parkinson Disease,MESH:D010300,0,,1,COL19A1
+collagen type IV trimer,GO:0005587,Parkinson Disease,MESH:D010300,0,,1,COL19A1
+collagen type IX trimer,GO:0005594,Parkinson Disease,MESH:D010300,0,,1,COL19A1
+compact myelin,GO:0043218,Parkinson Disease,MESH:D010300,0,,1,MAG
+condensed nuclear chromosome,GO:0000794,Parkinson Disease,MESH:D010300,0,,1,NCAPG2
+condensin complex,GO:0000796,Parkinson Disease,MESH:D010300,0,,1,NCAPG2
+COP9 signalosome,GO:0008180,Parkinson Disease,MESH:D010300,0,,1,HSPA1A
+cortical actin cytoskeleton,GO:0030864,Parkinson Disease,MESH:D010300,0,,1,KST
+cortical cytoskeleton,GO:0030863,Parkinson Disease,MESH:D010300,0,,1,CNTNAP2
+cortical cytoskeleton,GO:0030863,"Parkinson Disease, Secondary",MESH:D010302,0,,1,NOS2
+cortical granule,GO:0060473,Parkinson Disease,MESH:D010300,1,Lipopolysaccharides,0,
+cortical granule,GO:0060473,"Parkinson Disease, Secondary",MESH:D010302,1,Resveratrol,0,
+cortical granule,GO:0060473,Parkinsonian Disorders,MESH:D020734,3,cypermethrin|Lipopolysaccharides|Resveratrol,0,
+cyclin B1-CDK1 complex,GO:0097125,Parkinson Disease,MESH:D010300,1,Herbicides,0,
+cytoplasm,GO:0005737,Parkinson Disease,MESH:D010300,0,,49,ABCB1|ADARB2|AIF1|BAG5|BDNF|CP|CYP2D6|CYP2E1|DDC|DDIT4|DNM1L|EDN1|ENO2|FAX|FBP1|GAK|GFAP|GPDH1|GSTA4|GSTM1|GSTP1|HSC70-3|HSPA1A|HSPA9|LRRK2|MAP2|MAP3K5|MAPT|MLP60A|MTA1|NOS1|NQO1|PARK7|PINK1|PRKN|PRM|RAB32|RPL14|RPL23A|RPL6|RPS8|RTNL1|SLC38A2|SLC6A3|SNCA|SOD1|TALDO1|TH|VPS35
+cytoplasm,GO:0005737,Parkinson Disease 11,MESH:C564345,0,,1,GIGYF2
+cytoplasm,GO:0005737,PARKINSON DISEASE 17,OMIM:614203,0,,1,VPS35
+cytoplasm,GO:0005737,"PARKINSON DISEASE 18, AUTOSOMAL DOMINANT, SUSCEPTIBILITY TO",OMIM:614251,0,,1,EIF4G1
+cytoplasm,GO:0005737,"PARKINSON DISEASE 19A, JUVENILE-ONSET",OMIM:615528,0,,1,DNAJC6
+cytoplasm,GO:0005737,"PARKINSON DISEASE 1, AUTOSOMAL DOMINANT",OMIM:168601,0,,1,SNCA
+cytoplasm,GO:0005737,"PARKINSON DISEASE 23, AUTOSOMAL RECESSIVE EARLY-ONSET",OMIM:616840,0,,1,VPS13C
+cytoplasm,GO:0005737,"Parkinson Disease 4, Autosomal Dominant Lewy Body",MESH:C565324,0,,1,SNCA
+cytoplasm,GO:0005737,"PARKINSON DISEASE 5, AUTOSOMAL DOMINANT, SUSCEPTIBILITY TO",OMIM:613643,0,,1,UCHL1
+cytoplasm,GO:0005737,"Parkinson Disease 6, Autosomal Recessive Early-Onset",MESH:C565276,0,,1,PINK1
+cytoplasm,GO:0005737,"Parkinson Disease 7, Autosomal Recessive Early-Onset",MESH:C565238,0,,1,PARK7
+cytoplasm,GO:0005737,"PARKINSON DISEASE 8, AUTOSOMAL DOMINANT",OMIM:607060,0,,1,LRRK2
+cytoplasm,GO:0005737,"PARKINSON DISEASE, LATE-ONSET",OMIM:168600,0,,7,ADH1C|ATXN2|ATXN3|MAPT|NR4A2|SNCAIP|TBP
+cytoplasm,GO:0005737,"Parkinson Disease, Secondary",MESH:D010302,0,,6,ABCB1|CNR2|NOS2|PRKN|RGS2|SNCA
+cytoplasm,GO:0005737,Parkinsonian Disorders,MESH:D020734,0,,19,ALDH1A1|ALDH1A2|ATP1A3|CAT-2|DCTN1|DDC|DJ-1BETA|GAPDH|GSR|LRRK2|MAPT|PARK7|PARP1|PINK1|PRKCD|PRKN|PRKRA|SNCA|TH
+cytoplasm,GO:0005737,"Parkinsonism-Dystonia, Infantile",MESH:C567730,0,,1,SLC6A3
+cytoplasm,GO:0005737,"PARKINSONISM WITH SPASTICITY, X-LINKED",OMIM:300911,0,,1,ATP6AP2
+cytoplasm,GO:0005737,Wolff-Parkinson-White Syndrome,MESH:D014927,0,,1,PRKAG2
+cytoplasmic dynein complex,GO:0005868,Parkinsonian Disorders,MESH:D020734,0,,1,DCTN1
+cytoplasmic ribonucleoprotein granule,GO:0036464,Parkinson Disease,MESH:D010300,0,,2,MAPT|RPL6
+cytoplasmic ribonucleoprotein granule,GO:0036464,"PARKINSON DISEASE, LATE-ONSET",OMIM:168600,0,,2,MAPT|SNCAIP
+cytoplasmic ribonucleoprotein granule,GO:0036464,Parkinsonian Disorders,MESH:D020734,0,,1,MAPT
+cytoplasmic side of lysosomal membrane,GO:0098574,Parkinson Disease,MESH:D010300,0,,1,GFAP
+cytoplasmic side of mitochondrial outer membrane,GO:0032473,Parkinson Disease,MESH:D010300,0,,1,LRRK2
+cytoplasmic side of mitochondrial outer membrane,GO:0032473,"PARKINSON DISEASE 8, AUTOSOMAL DOMINANT",OMIM:607060,0,,1,LRRK2
+cytoplasmic side of mitochondrial outer membrane,GO:0032473,Parkinsonian Disorders,MESH:D020734,0,,1,LRRK2
+cytoplasmic side of plasma membrane,GO:0009898,Parkinson Disease,MESH:D010300,0,,2,MAPT|TH
+cytoplasmic side of plasma membrane,GO:0009898,Parkinson Disease 13,MESH:C565204,0,,1,HTRA2
+cytoplasmic side of plasma membrane,GO:0009898,"PARKINSON DISEASE, LATE-ONSET",OMIM:168600,0,,1,MAPT
+cytoplasmic side of plasma membrane,GO:0009898,"Parkinson Disease, Secondary",MESH:D010302,0,,1,RGS2
+cytoplasmic side of plasma membrane,GO:0009898,Parkinsonian Disorders,MESH:D020734,0,,3,HTRA2|MAPT|TH
+cytoplasmic side of rough endoplasmic reticulum membrane,GO:0098556,Parkinson Disease,MESH:D010300,0,,1,RPL6
+cytoplasmic stress granule,GO:0010494,Parkinson Disease 11,MESH:C564345,0,,1,GIGYF2
+cytoplasmic stress granule,GO:0010494,"PARKINSON DISEASE 18, AUTOSOMAL DOMINANT, SUSCEPTIBILITY TO",OMIM:614251,0,,1,EIF4G1
+cytoplasmic stress granule,GO:0010494,"PARKINSON DISEASE, LATE-ONSET",OMIM:168600,0,,1,ATXN2
+cytoplasmic vesicle,GO:0031410,AMYOTROPHIC LATERAL SCLEROSIS-PARKINSONISM/DEMENTIA COMPLEX 1,OMIM:105500,0,,1,TRPM7
+cytoplasmic vesicle,GO:0031410,Parkinson Disease,MESH:D010300,0,,8,BDNF|DNM1L|GAK|HFE|LRRK2|MAG|SOD1|TH
+cytoplasmic vesicle,GO:0031410,"PARKINSON DISEASE 19A, JUVENILE-ONSET",OMIM:615528,0,,1,DNAJC6
+cytoplasmic vesicle,GO:0031410,"PARKINSON DISEASE 8, AUTOSOMAL DOMINANT",OMIM:607060,0,,1,LRRK2
+cytoplasmic vesicle,GO:0031410,Parkinsonian Disorders,MESH:D020734,0,,2,LRRK2|TH
+cytoplasmic vesicle,GO:0031410,"Parkinsonism, early onset with mental retardation",MESH:C537179,0,,1,RAB39B
+cytoplasmic vesicle membrane,GO:0030659,AMYOTROPHIC LATERAL SCLEROSIS-PARKINSONISM/DEMENTIA COMPLEX 1,OMIM:105500,0,,1,TRPM7
+cytoplasmic vesicle membrane,GO:0030659,Parkinson Disease,MESH:D010300,0,,4,KCNJ4|SNCA|TH|TRPM2
+cytoplasmic vesicle membrane,GO:0030659,"PARKINSON DISEASE 1, AUTOSOMAL DOMINANT",OMIM:168601,0,,1,SNCA
+cytoplasmic vesicle membrane,GO:0030659,"Parkinson Disease 4, Autosomal Dominant Lewy Body",MESH:C565324,0,,1,SNCA
+cytoplasmic vesicle membrane,GO:0030659,"Parkinson Disease, Secondary",MESH:D010302,0,,1,SNCA
+cytoplasmic vesicle membrane,GO:0030659,Parkinsonian Disorders,MESH:D020734,0,,2,SNCA|TH
+cytoplasmic vesicle membrane,GO:0030659,"Parkinsonism, early onset with mental retardation",MESH:C537179,0,,1,RAB39B
+cytoskeleton,GO:0005856,Parkinson Disease,MESH:D010300,0,,7,AIF1|GFAP|MAP2|MAPT|NOS1|PINK1|SNCA
+cytoskeleton,GO:0005856,Parkinson Disease 13,MESH:C565204,0,,1,HTRA2
+cytoskeleton,GO:0005856,"PARKINSON DISEASE 1, AUTOSOMAL DOMINANT",OMIM:168601,0,,1,SNCA
+cytoskeleton,GO:0005856,"Parkinson Disease 4, Autosomal Dominant Lewy Body",MESH:C565324,0,,1,SNCA
+cytoskeleton,GO:0005856,"Parkinson Disease 6, Autosomal Recessive Early-Onset",MESH:C565276,0,,1,PINK1
+cytoskeleton,GO:0005856,"PARKINSON DISEASE, LATE-ONSET",OMIM:168600,0,,1,MAPT
+cytoskeleton,GO:0005856,"Parkinson Disease, Secondary",MESH:D010302,0,,1,SNCA
+cytoskeleton,GO:0005856,Parkinsonian Disorders,MESH:D020734,0,,6,DCTN1|GAPDH|HTRA2|MAPT|PINK1|SNCA
+cytosol,GO:0005829,Parkinson Disease,MESH:D010300,0,,42,AIF1|BAG5|CPR|DDC|DDIT4|DNM1L|ENO2|FBP1|GAK|GFAP|GPDH1|GSTA4|GSTM1|GSTP1|HBG1|HMOX1|HSC70-3|HSPA1A|LRRK2|MAOA|MAP2|MAP3K5|MAPT|MTA1|MTHFR|NGF|NOS1|NQO1|PARK7|PINK1|PPARGC1A|PRKN|RAB32|RPL14|RPL23A|RPL6|RPS8|SNCA|SOD1|TALDO1|TH|VPS35
+cytosol,GO:0005829,Parkinson Disease 11,MESH:C564345,0,,1,GIGYF2
+cytosol,GO:0005829,Parkinson Disease 13,MESH:C565204,0,,1,HTRA2
+cytosol,GO:0005829,"PARKINSON DISEASE 14, AUTOSOMAL RECESSIVE",OMIM:612953,0,,1,PLA2G6
+cytosol,GO:0005829,PARKINSON DISEASE 17,OMIM:614203,0,,1,VPS35
+cytosol,GO:0005829,"PARKINSON DISEASE 18, AUTOSOMAL DOMINANT, SUSCEPTIBILITY TO",OMIM:614251,0,,1,EIF4G1
+cytosol,GO:0005829,"PARKINSON DISEASE 19A, JUVENILE-ONSET",OMIM:615528,0,,1,DNAJC6
+cytosol,GO:0005829,"PARKINSON DISEASE 1, AUTOSOMAL DOMINANT",OMIM:168601,0,,1,SNCA
+cytosol,GO:0005829,"PARKINSON DISEASE 20, EARLY-ONSET",OMIM:615530,0,,1,SYNJ1
+cytosol,GO:0005829,"PARKINSON DISEASE 23, AUTOSOMAL RECESSIVE EARLY-ONSET",OMIM:616840,0,,1,VPS13C
+cytosol,GO:0005829,"Parkinson Disease 4, Autosomal Dominant Lewy Body",MESH:C565324,0,,1,SNCA
+cytosol,GO:0005829,"PARKINSON DISEASE 5, AUTOSOMAL DOMINANT, SUSCEPTIBILITY TO",OMIM:613643,0,,1,UCHL1
+cytosol,GO:0005829,"Parkinson Disease 6, Autosomal Recessive Early-Onset",MESH:C565276,0,,1,PINK1
+cytosol,GO:0005829,"Parkinson Disease 7, Autosomal Recessive Early-Onset",MESH:C565238,0,,1,PARK7
+cytosol,GO:0005829,"PARKINSON DISEASE 8, AUTOSOMAL DOMINANT",OMIM:607060,0,,1,LRRK2
+cytosol,GO:0005829,"PARKINSON DISEASE, LATE-ONSET",OMIM:168600,0,,6,ADH1C|ATXN2|ATXN3|MAPT|SNCAIP|TBP
+cytosol,GO:0005829,"Parkinson Disease, Secondary",MESH:D010302,0,,6,NOS2|PRKN|RGS2|SHH|SNCA|TFAM
+cytosol,GO:0005829,Parkinsonian Disorders,MESH:D020734,0,,18,ALDH1A1|ALDH1A2|DCTN1|DDC|GAPDH|GSR|HTRA2|LRRK2|MAPT|NGF|PARK7|PARP1|PINK1|PRKCD|PRKN|PRKRA|SNCA|TH
+cytosol,GO:0005829,Wolff-Parkinson-White Syndrome,MESH:D014927,0,,1,PRKAG2
+cytosolic large ribosomal subunit,GO:0022625,Parkinson Disease,MESH:D010300,0,,3,RPL14|RPL23A|RPL6
+cytosolic ribosome,GO:0022626,Parkinson Disease,MESH:D010300,0,,5,PPARGC1A|RPL14|RPL23A|RPL6|RPS8
+cytosolic small ribosomal subunit,GO:0022627,Parkinson Disease,MESH:D010300,0,,1,RPS8
+dendrite,GO:0030425,Parkinson Disease,MESH:D010300,0,,16,BDNF|CNTNAP2|DRD1|DRD2|INSR|KCNJ4|LRRK2|MAOB|MAP2|MAPT|NGF|NOS1|NQO1|SLC18A2|SLC38A2|TH
+dendrite,GO:0030425,"PARKINSON DISEASE 8, AUTOSOMAL DOMINANT",OMIM:607060,0,,1,LRRK2
+dendrite,GO:0030425,"PARKINSON DISEASE, LATE-ONSET",OMIM:168600,0,,1,MAPT
+dendrite,GO:0030425,"Parkinson Disease, Secondary",MESH:D010302,0,,3,CNR2|SHH|SLC18A2
+dendrite,GO:0030425,Parkinsonian Disorders,MESH:D020734,0,,8,DRD2|LRRK2|MAPT|NGF|PDYN|PNOC|SLC18A2|TH
+dendrite cytoplasm,GO:0032839,Parkinson Disease,MESH:D010300,0,,3,LRRK2|MAP2|SOD1
+dendrite cytoplasm,GO:0032839,"PARKINSON DISEASE 8, AUTOSOMAL DOMINANT",OMIM:607060,0,,1,LRRK2
+dendrite cytoplasm,GO:0032839,Parkinsonian Disorders,MESH:D020734,0,,1,LRRK2
+dendrite membrane,GO:0032590,Parkinson Disease,MESH:D010300,0,,1,INSR
+dendritic branch,GO:0044307,Parkinson Disease,MESH:D010300,0,,1,MAP2
+dendritic cell dendrite,GO:0097511,Parkinson Disease,MESH:D010300,1,Chlorpyrifos,0,
+dendritic filopodium,GO:1902737,Parkinson Disease,MESH:D010300,0,,1,MAP2
+dendritic growth cone,GO:0044294,Parkinson Disease,MESH:D010300,0,,1,MAP2
+dendritic shaft,GO:0043198,Parkinson Disease,MESH:D010300,0,,2,DRD1|MAP2
+dendritic spine,GO:0043197,Parkinson Disease,MESH:D010300,1,Methamphetamine,4,DRD1|DRD2|MAPT|NOS1
+dendritic spine,GO:0043197,"PARKINSON DISEASE, LATE-ONSET",OMIM:168600,0,,1,MAPT
+dendritic spine,GO:0043197,"Parkinson Disease, Secondary",MESH:D010302,1,Methamphetamine,0,
+dendritic spine,GO:0043197,Parkinsonian Disorders,MESH:D020734,0,,3,DRD2|MAPT|PDYN
+dendritic spine head,GO:0044327,Parkinson Disease,MESH:D010300,0,,1,DRD1
+dendritic spine head,GO:0044327,Parkinsonian Disorders,MESH:D020734,0,,1,ATP1A3
+dendritic spine membrane,GO:0032591,"PARKINSONISM WITH SPASTICITY, X-LINKED",OMIM:300911,0,,1,ATP6AP2
+dendritic spine neck,GO:0044326,Parkinson Disease,MESH:D010300,0,,1,DRD1
+dendritic spine neck,GO:0044326,Parkinsonian Disorders,MESH:D020734,0,,1,ATP1A3
+dense core granule,GO:0031045,Parkinson Disease,MESH:D010300,0,,2,SLC18A2|SOD1
+dense core granule,GO:0031045,"Parkinson Disease, Secondary",MESH:D010302,0,,1,SLC18A2
+dense core granule,GO:0031045,Parkinsonian Disorders,MESH:D020734,0,,2,PDYN|SLC18A2
+dense core granule membrane,GO:0032127,"PARKINSON DISEASE 23, AUTOSOMAL RECESSIVE EARLY-ONSET",OMIM:616840,0,,1,VPS13C
+distal dendrite,GO:0150002,Parkinson Disease,MESH:D010300,0,,1,MAP2
+"DNA topoisomerase type II (double strand cut, ATP-hydrolyzing) complex",GO:0009330,Parkinson Disease,MESH:D010300,1,Reactive Oxygen Species,0,
+dopaminergic synapse,GO:0098691,Parkinson Disease,MESH:D010300,0,,5,DRD2|PRKN|SLC18A2|SLC6A3|VPS35
+dopaminergic synapse,GO:0098691,PARKINSON DISEASE 17,OMIM:614203,0,,1,VPS35
+dopaminergic synapse,GO:0098691,"Parkinson Disease, Secondary",MESH:D010302,0,,2,PRKN|SLC18A2
+dopaminergic synapse,GO:0098691,Parkinsonian Disorders,MESH:D020734,0,,3,DRD2|PRKN|SLC18A2
+dopaminergic synapse,GO:0098691,"Parkinsonism-Dystonia, Infantile",MESH:C567730,0,,1,SLC6A3
+dynein complex,GO:0030286,Parkinsonian Disorders,MESH:D020734,0,,1,DCTN1
+early endosome,GO:0005769,Parkinson Disease,MESH:D010300,0,,9,CNTNAP2|HFE|IGF2R|KCNJ4|RAB32|RDGA|SLC30A10|TMEM230|VPS35
+early endosome,GO:0005769,PARKINSON DISEASE 17,OMIM:614203,0,,1,VPS35
+early endosome,GO:0005769,Parkinsonian Disorders,MESH:D020734,0,,1,SLC30A10
+early endosome membrane,GO:0031901,"Dystonia-Parkinsonism, Adult-Onset",MESH:C567844,0,,1,SLC39A14
+early endosome membrane,GO:0031901,Parkinson Disease,MESH:D010300,0,,2,HLA-DRA|SLC30A10
+early endosome membrane,GO:0031901,Parkinsonian Disorders,MESH:D020734,0,,1,SLC30A10
+endocytic vesicle,GO:0030139,Parkinson Disease,MESH:D010300,0,,2,DRD2|IGF2R
+endocytic vesicle,GO:0030139,Parkinsonian Disorders,MESH:D020734,0,,1,DRD2
+endocytic vesicle membrane,GO:0030666,Parkinson Disease,MESH:D010300,0,,2,HLA-DRA|HLA-DRB5
+endolysosome,GO:0036019,Parkinsonian Disorders,MESH:D020734,0,,1,PRKCD
+endomembrane system,GO:0012505,Parkinson Disease,MESH:D010300,0,,6,DNM1L|DRD1|IGF2R|RAB32|TMEM230|TRPM2
+endomembrane system,GO:0012505,Parkinsonian Disorders,MESH:D020734,0,,1,ATP1A3
+endoplasmic reticulum,GO:0005783,Parkinson Disease,MESH:D010300,0,,19,CNX99A|CYP2D6|CYP2E1|DNM1L|DRD1|FGB|GBA1|HMOX1|HSC70-3|HSPA1A|LRRK2|MTA1|PARK7|PINK1|PRKN|RAB32|RPS8|RTNL1|TMEM230
+endoplasmic reticulum,GO:0005783,Parkinson Disease 11,MESH:C564345,0,,1,GIGYF2
+endoplasmic reticulum,GO:0005783,Parkinson Disease 13,MESH:C565204,0,,1,HTRA2
+endoplasmic reticulum,GO:0005783,"PARKINSON DISEASE 5, AUTOSOMAL DOMINANT, SUSCEPTIBILITY TO",OMIM:613643,0,,1,UCHL1
+endoplasmic reticulum,GO:0005783,"Parkinson Disease 6, Autosomal Recessive Early-Onset",MESH:C565276,0,,1,PINK1
+endoplasmic reticulum,GO:0005783,"Parkinson Disease 7, Autosomal Recessive Early-Onset",MESH:C565238,0,,1,PARK7
+endoplasmic reticulum,GO:0005783,"PARKINSON DISEASE 8, AUTOSOMAL DOMINANT",OMIM:607060,0,,1,LRRK2
+endoplasmic reticulum,GO:0005783,"PARKINSON DISEASE, LATE-ONSET",OMIM:168600,0,,1,GBA1
+endoplasmic reticulum,GO:0005783,"Parkinson Disease, Secondary",MESH:D010302,0,,4,BCHE|CNR2|PRKN|SHH
+endoplasmic reticulum,GO:0005783,Parkinsonian Disorders,MESH:D020734,1,cypermethrin,8,ATP1A3|GBA1|HTRA2|LRRK2|PARK7|PINK1|PRKCD|PRKN
+endoplasmic reticulum,GO:0005783,"PARKINSONISM WITH SPASTICITY, X-LINKED",OMIM:300911,0,,1,ATP6AP2
+endoplasmic reticulum chaperone complex,GO:0034663,Parkinson Disease,MESH:D010300,0,,1,HSC70-3
+endoplasmic reticulum exit site,GO:0070971,Parkinson Disease,MESH:D010300,0,,1,LRRK2
+endoplasmic reticulum exit site,GO:0070971,"PARKINSON DISEASE 8, AUTOSOMAL DOMINANT",OMIM:607060,0,,1,LRRK2
+endoplasmic reticulum exit site,GO:0070971,Parkinsonian Disorders,MESH:D020734,0,,1,LRRK2
+endoplasmic reticulum-Golgi intermediate compartment membrane,GO:0033116,Parkinson Disease,MESH:D010300,0,,1,INS
+endoplasmic reticulum lumen,GO:0005788,Parkinson Disease,MESH:D010300,0,,7,BDNF|COL19A1|CP|HSC70-3|IL6|INS|NGF
+endoplasmic reticulum lumen,GO:0005788,"Parkinson Disease, Secondary",MESH:D010302,0,,2,BCHE|SHH
+endoplasmic reticulum lumen,GO:0005788,Parkinsonian Disorders,MESH:D020734,0,,1,NGF
+endoplasmic reticulum membrane,GO:0005789,Parkinson Disease,MESH:D010300,0,,9,CNX99A|CYP2D6|CYP2E1|DNM1L|DRD1|HMOX1|LRRK2|PRKN|RTNL1
+endoplasmic reticulum membrane,GO:0005789,Parkinson Disease 13,MESH:C565204,0,,1,HTRA2
+endoplasmic reticulum membrane,GO:0005789,"PARKINSON DISEASE 23, AUTOSOMAL RECESSIVE EARLY-ONSET",OMIM:616840,0,,1,VPS13C
+endoplasmic reticulum membrane,GO:0005789,"PARKINSON DISEASE 5, AUTOSOMAL DOMINANT, SUSCEPTIBILITY TO",OMIM:613643,0,,1,UCHL1
+endoplasmic reticulum membrane,GO:0005789,"PARKINSON DISEASE 8, AUTOSOMAL DOMINANT",OMIM:607060,0,,1,LRRK2
+endoplasmic reticulum membrane,GO:0005789,"PARKINSON DISEASE, LATE-ONSET",OMIM:168600,0,,1,ATXN3
+endoplasmic reticulum membrane,GO:0005789,"Parkinson Disease, Secondary",MESH:D010302,0,,3,PON1|PRKN|SHH
+endoplasmic reticulum membrane,GO:0005789,Parkinsonian Disorders,MESH:D020734,0,,3,HTRA2|LRRK2|PRKN
+endoplasmic reticulum membrane,GO:0005789,"PARKINSONISM WITH SPASTICITY, X-LINKED",OMIM:300911,0,,1,ATP6AP2
+endoplasmic reticulum tubular network membrane,GO:0098826,Parkinson Disease,MESH:D010300,0,,1,RTNL1
+endosome,GO:0005768,"Dystonia-Parkinsonism, Adult-Onset",MESH:C567844,0,,1,SLC39A14
+endosome,GO:0005768,Parkinson Disease,MESH:D010300,0,,5,IGF2R|INSR|LRRK2|TMEM230|VPS35
+endosome,GO:0005768,Parkinson Disease 11,MESH:C564345,0,,1,GIGYF2
+endosome,GO:0005768,PARKINSON DISEASE 17,OMIM:614203,0,,1,VPS35
+endosome,GO:0005768,"PARKINSON DISEASE 8, AUTOSOMAL DOMINANT",OMIM:607060,0,,1,LRRK2
+endosome,GO:0005768,Parkinsonian Disorders,MESH:D020734,0,,1,LRRK2
+endosome lumen,GO:0031904,Parkinson Disease,MESH:D010300,0,,2,INS|NGF
+endosome lumen,GO:0031904,Parkinsonian Disorders,MESH:D020734,0,,2,NGF|PRL
+endosome membrane,GO:0010008,Parkinson Disease,MESH:D010300,0,,3,IGF2R|INSR|VPS35
+endosome membrane,GO:0010008,PARKINSON DISEASE 17,OMIM:614203,0,,1,VPS35
+endosome membrane,GO:0010008,"PARKINSONISM WITH SPASTICITY, X-LINKED",OMIM:300911,0,,1,ATP6AP2
+ER to Golgi transport vesicle membrane,GO:0012507,Parkinson Disease,MESH:D010300,0,,2,HLA-DRA|HLA-DRB5
+euchromatin,GO:0000791,Parkinson Disease,MESH:D010300,0,,1,PPARGC1A
+euchromatin,GO:0000791,"PARKINSON DISEASE, LATE-ONSET",OMIM:168600,0,,1,TBP
+euchromatin,GO:0000791,Parkinsonian Disorders,MESH:D020734,0,,1,PARP1
+eukaryotic translation initiation factor 2B complex,GO:0005851,"PARKINSON DISEASE 18, AUTOSOMAL DOMINANT, SUSCEPTIBILITY TO",OMIM:614251,0,,1,EIF4G1
+eukaryotic translation initiation factor 4F complex,GO:0016281,"PARKINSON DISEASE 18, AUTOSOMAL DOMINANT, SUSCEPTIBILITY TO",OMIM:614251,0,,1,EIF4G1
+excitatory synapse,GO:0060076,Parkinson Disease,MESH:D010300,0,,1,CNTNAP2
+external side of apical plasma membrane,GO:0098591,Parkinson Disease,MESH:D010300,0,,1,ABCB1
+external side of apical plasma membrane,GO:0098591,"Parkinson Disease, Secondary",MESH:D010302,0,,1,ABCB1
+external side of plasma membrane,GO:0009897,Parkinson Disease,MESH:D010300,0,,7,FCER2|FGB|HFE|IL6|INSR|MAP3K5|TNF
+external side of plasma membrane,GO:0009897,Parkinsonian Disorders,MESH:D020734,0,,1,GSR
+external side of plasma membrane,GO:0009897,"PARKINSONISM WITH SPASTICITY, X-LINKED",OMIM:300911,0,,1,ATP6AP2
+extracellular exosome,GO:0070062,Parkinson Disease,MESH:D010300,0,,2,NECTIN2|PARK7
+extracellular exosome,GO:0070062,"Parkinson Disease 7, Autosomal Recessive Early-Onset",MESH:C565238,0,,1,PARK7
+extracellular exosome,GO:0070062,Parkinsonian Disorders,MESH:D020734,0,,1,PARK7
+extracellular matrix,GO:0031012,Parkinson Disease,MESH:D010300,0,,6,CHP|COL19A1|CPR64AA|CPR66D|DEFA4|LRRK2
+extracellular matrix,GO:0031012,"PARKINSON DISEASE 8, AUTOSOMAL DOMINANT",OMIM:607060,0,,1,LRRK2
+extracellular matrix,GO:0031012,"Parkinson Disease, Secondary",MESH:D010302,0,,1,SHH
+extracellular matrix,GO:0031012,Parkinsonian Disorders,MESH:D020734,0,,1,LRRK2
+extracellular region,GO:0005576,Parkinson Disease,MESH:D010300,0,,22,BDNF|BST1|COL19A1|CP|DEFA4|DRAXIN|EDN1|FGB|GDNF|GSTM1|GSTP1|HGF|HSPA1A|IGF2|IL6|INS|MAPT|NGF|OBP99B|SNCA|SOD1|TNF
+extracellular region,GO:0005576,"PARKINSON DISEASE 1, AUTOSOMAL DOMINANT",OMIM:168601,0,,1,SNCA
+extracellular region,GO:0005576,"Parkinson Disease 4, Autosomal Dominant Lewy Body",MESH:C565324,0,,1,SNCA
+extracellular region,GO:0005576,"PARKINSON DISEASE, LATE-ONSET",OMIM:168600,0,,1,MAPT
+extracellular region,GO:0005576,"Parkinson Disease, Secondary",MESH:D010302,0,,5,BCHE|GDNF|PON1|SHH|SNCA
+extracellular region,GO:0005576,Parkinsonian Disorders,MESH:D020734,0,,8,GDNF|MAPT|NGF|PDYN|PNOC|PRKCD|PRL|SNCA
+extracellular space,GO:0005615,Parkinson Disease,MESH:D010300,0,,31,BDNF|CEACAM6|CHP|COL19A1|CP|CPR64AA|CPR66D|DEFA4|EDN1|FBP1|FGB|GBA1|GDNF|HFE|HGF|HMOX1|HSC70-3|HSPA1A|IGF2|IGF2R|IL6|INS|LRRK2|NGF|OBP99B|RDGA|RETININ|SNCA|SOD1|TALDO1|TNF
+extracellular space,GO:0005615,"PARKINSON DISEASE 14, AUTOSOMAL RECESSIVE",OMIM:612953,0,,1,PLA2G6
+extracellular space,GO:0005615,"PARKINSON DISEASE 1, AUTOSOMAL DOMINANT",OMIM:168601,0,,1,SNCA
+extracellular space,GO:0005615,"Parkinson Disease 4, Autosomal Dominant Lewy Body",MESH:C565324,0,,1,SNCA
+extracellular space,GO:0005615,"PARKINSON DISEASE 8, AUTOSOMAL DOMINANT",OMIM:607060,0,,1,LRRK2
+extracellular space,GO:0005615,"PARKINSON DISEASE, LATE-ONSET",OMIM:168600,0,,1,GBA1
+extracellular space,GO:0005615,"Parkinson Disease, Secondary",MESH:D010302,0,,6,BCHE|GDNF|NOS2|PON1|SHH|SNCA
+extracellular space,GO:0005615,Parkinsonian Disorders,MESH:D020734,0,,7,GBA1|GDNF|LRRK2|NGF|PDYN|PRL|SNCA
+extracellular space,GO:0005615,"PARKINSONISM WITH SPASTICITY, X-LINKED",OMIM:300911,0,,1,ATP6AP2
+extracellular vesicle,GO:1903561,Parkinson Disease,MESH:D010300,4,Air Pollutants|Lead|Ozone|Vehicle Emissions,0,
+extracellular vesicle,GO:1903561,"Parkinson Disease, Secondary",MESH:D010302,1,Benzo(a)pyrene,0,
+extracellular vesicle,GO:1903561,Parkinsonian Disorders,MESH:D020734,1,Cadmium,0,
+extrinsic component of cytoplasmic side of plasma membrane,GO:0031234,"Parkinson Disease, Secondary",MESH:D010302,0,,1,CNR2
+extrinsic component of membrane,GO:0019898,"PARKINSON DISEASE 23, AUTOSOMAL RECESSIVE EARLY-ONSET",OMIM:616840,0,,1,VPS13C
+extrinsic component of presynaptic endocytic zone membrane,GO:0098894,"PARKINSON DISEASE 19A, JUVENILE-ONSET",OMIM:615528,0,,1,DNAJC6
+female germ cell nucleus,GO:0001674,"PARKINSON DISEASE, LATE-ONSET",OMIM:168600,0,,1,TBP
+female pronucleus,GO:0001939,"PARKINSON DISEASE, LATE-ONSET",OMIM:168600,0,,1,TBP
+fibrinogen complex,GO:0005577,Parkinson Disease,MESH:D010300,0,,1,FGB
+ficolin-1-rich granule lumen,GO:1904813,Parkinson Disease,MESH:D010300,0,,2,GSTP1|HSPA1A
+ficolin-1-rich granule membrane,GO:0101003,Parkinson Disease,MESH:D010300,0,,1,TRPM2
+ficolin-1-rich granule membrane,GO:0101003,"PARKINSONISM WITH SPASTICITY, X-LINKED",OMIM:300911,0,,1,ATP6AP2
+filamentous actin,GO:0031941,Parkinson Disease,MESH:D010300,5,Acrolein|Air Pollutants|Estradiol|Ozone|Rotenone,0,
+filamentous actin,GO:0031941,"Parkinson Disease, Secondary",MESH:D010302,1,Rotenone,0,
+filamentous actin,GO:0031941,Parkinsonian Disorders,MESH:D020734,1,Rotenone,0,
+flotillin complex,GO:0016600,Parkinson Disease,MESH:D010300,0,,1,SLC6A3
+flotillin complex,GO:0016600,"Parkinsonism-Dystonia, Infantile",MESH:C567730,0,,1,SLC6A3
+focal adhesion,GO:0005925,Parkinson Disease,MESH:D010300,0,,2,GAK|NECTIN2
+fusome,GO:0045169,Parkinson Disease,MESH:D010300,0,,1,RTNL1
+GABA-ergic synapse,GO:0098982,Parkinson Disease,MESH:D010300,0,,3,CNTNAP2|DRD1|DRD2
+GABA-ergic synapse,GO:0098982,Parkinsonian Disorders,MESH:D020734,0,,1,DRD2
+GAIT complex,GO:0097452,Parkinsonian Disorders,MESH:D020734,0,,1,GAPDH
+gamma DNA polymerase complex,GO:0005760,Parkinsonian Disorders,MESH:D020734,0,,1,POLG
+GET complex,GO:0043529,"Parkinson Disease, Secondary",MESH:D010302,0,,1,TFAM
+glial cell projection,GO:0097386,Parkinson Disease,MESH:D010300,0,,3,AIF1|GFAP|MAPT
+glial cell projection,GO:0097386,"PARKINSON DISEASE, LATE-ONSET",OMIM:168600,0,,1,MAPT
+glial cell projection,GO:0097386,Parkinsonian Disorders,MESH:D020734,0,,1,MAPT
+glutamatergic synapse,GO:0098978,Parkinson Disease,MESH:D010300,0,,11,BDNF|CNTNAP2|DRD1|DRD2|IGF1R|KCNJ4|LRRK2|MAP2|NOS1|PRKN|VPS35
+glutamatergic synapse,GO:0098978,PARKINSON DISEASE 17,OMIM:614203,0,,1,VPS35
+glutamatergic synapse,GO:0098978,"PARKINSON DISEASE 20, EARLY-ONSET",OMIM:615530,0,,1,SYNJ1
+glutamatergic synapse,GO:0098978,"PARKINSON DISEASE 8, AUTOSOMAL DOMINANT",OMIM:607060,0,,1,LRRK2
+glutamatergic synapse,GO:0098978,"Parkinson Disease, Secondary",MESH:D010302,0,,2,PRKN|SHH
+glutamatergic synapse,GO:0098978,Parkinsonian Disorders,MESH:D020734,0,,4,DRD2|GAPDH|LRRK2|PRKN
+glycerol-3-phosphate dehydrogenase complex,GO:0009331,Parkinson Disease,MESH:D010300,0,,1,GPDH1
+Golgi apparatus,GO:0005794,Parkinson Disease,MESH:D010300,0,,12,CNTNAP2|DNM1L|GAK|GBA1|GDNF|IGF2R|LRRK2|MTA1|PRKN|RAB32|SLC30A10|TMEM230
+Golgi apparatus,GO:0005794,Parkinson Disease 11,MESH:C564345,0,,1,GIGYF2
+Golgi apparatus,GO:0005794,"PARKINSON DISEASE 8, AUTOSOMAL DOMINANT",OMIM:607060,0,,1,LRRK2
+Golgi apparatus,GO:0005794,"PARKINSON DISEASE, LATE-ONSET",OMIM:168600,0,,2,ATXN2|GBA1
+Golgi apparatus,GO:0005794,"Parkinson Disease, Secondary",MESH:D010302,0,,3,GDNF|PRKN|SHH
+Golgi apparatus,GO:0005794,Parkinsonian Disorders,MESH:D020734,0,,7,ATP1A3|GBA1|GDNF|LRRK2|PDYN|PRKN|SLC30A10
+Golgi apparatus,GO:0005794,"Parkinsonism, early onset with mental retardation",MESH:C537179,0,,1,RAB39B
+Golgi-associated vesicle,GO:0005798,Parkinson Disease,MESH:D010300,0,,1,LRRK2
+Golgi-associated vesicle,GO:0005798,"PARKINSON DISEASE 8, AUTOSOMAL DOMINANT",OMIM:607060,0,,1,LRRK2
+Golgi-associated vesicle,GO:0005798,Parkinsonian Disorders,MESH:D020734,0,,1,LRRK2
+Golgi lumen,GO:0005796,Parkinson Disease,MESH:D010300,0,,3,DEFA4|INS|NGF
+Golgi lumen,GO:0005796,Parkinsonian Disorders,MESH:D020734,0,,1,NGF
+Golgi membrane,GO:0000139,Parkinson Disease,MESH:D010300,0,,10,CYP2E1|DNM1L|DRD2|HLA-DRA|HLA-DRB5|IGF2R|INS|LRRK2|PRKN|SLC30A10
+Golgi membrane,GO:0000139,"PARKINSON DISEASE 8, AUTOSOMAL DOMINANT",OMIM:607060,0,,1,LRRK2
+Golgi membrane,GO:0000139,"Parkinson Disease, Secondary",MESH:D010302,0,,2,PRKN|SHH
+Golgi membrane,GO:0000139,Parkinsonian Disorders,MESH:D020734,0,,4,DRD2|LRRK2|PRKN|SLC30A10
+Golgi membrane,GO:0000139,"Parkinsonism, early onset with mental retardation",MESH:C537179,0,,1,RAB39B
+Golgi membrane,GO:0000139,"PARKINSONISM WITH SPASTICITY, X-LINKED",OMIM:300911,0,,1,ATP6AP2
+G protein-coupled receptor complex,GO:0097648,Parkinson Disease,MESH:D010300,0,,2,DRD1|DRD2
+G protein-coupled receptor complex,GO:0097648,Parkinsonian Disorders,MESH:D020734,0,,1,DRD2
+growth cone,GO:0030426,Parkinson Disease,MESH:D010300,0,,5,ENO2|LRRK2|MAPT|PINK1|SNCA
+growth cone,GO:0030426,"PARKINSON DISEASE 1, AUTOSOMAL DOMINANT",OMIM:168601,0,,1,SNCA
+growth cone,GO:0030426,"Parkinson Disease 4, Autosomal Dominant Lewy Body",MESH:C565324,0,,1,SNCA
+growth cone,GO:0030426,"Parkinson Disease 6, Autosomal Recessive Early-Onset",MESH:C565276,0,,1,PINK1
+growth cone,GO:0030426,"PARKINSON DISEASE 8, AUTOSOMAL DOMINANT",OMIM:607060,0,,1,LRRK2
+growth cone,GO:0030426,"PARKINSON DISEASE, LATE-ONSET",OMIM:168600,0,,1,MAPT
+growth cone,GO:0030426,"Parkinson Disease, Secondary",MESH:D010302,0,,1,SNCA
+growth cone,GO:0030426,Parkinsonian Disorders,MESH:D020734,0,,4,LRRK2|MAPT|PINK1|SNCA
+haptoglobin-hemoglobin complex,GO:0031838,Parkinson Disease,MESH:D010300,0,,1,HBG1
+hemoglobin complex,GO:0005833,Parkinson Disease,MESH:D010300,0,,1,HBG1
+HFE-transferrin receptor complex,GO:1990712,Parkinson Disease,MESH:D010300,0,,1,HFE
+high-density lipoprotein particle,GO:0034364,"Parkinson Disease, Secondary",MESH:D010302,0,,1,PON1
+hippocampal mossy fiber to CA3 synapse,GO:0098686,Parkinson Disease,MESH:D010300,0,,1,BDNF
+hippocampal mossy fiber to CA3 synapse,GO:0098686,"Parkinson Disease, Secondary",MESH:D010302,0,,1,SHH
+hippocampal mossy fiber to CA3 synapse,GO:0098686,Parkinsonian Disorders,MESH:D020734,0,,1,PDYN
+histone locus body,GO:0035363,Parkinsonian Disorders,MESH:D020734,0,,1,PARP1
+hyaline inclusion,GO:0097412,"Parkinson Disease, Secondary",MESH:D010302,1,Doxorubicin,0,
+"IgE immunoglobulin complex, circulating",GO:0071743,Parkinson Disease,MESH:D010300,3,Air Pollutants|Manganese|Particulate Matter,0,
+"IgE immunoglobulin complex, circulating",GO:0071743,"Parkinson Disease, Secondary",MESH:D010302,1,Manganese,0,
+"IgE immunoglobulin complex, circulating",GO:0071743,Parkinsonian Disorders,MESH:D020734,2,Manganese|Particulate Matter,0,
+immunological synapse,GO:0001772,Parkinson Disease,MESH:D010300,0,,1,HLA-DRA
+inclusion body,GO:0016234,Parkinson Disease,MESH:D010300,0,,3,BAG5|HSPA1A|SNCA
+inclusion body,GO:0016234,"PARKINSON DISEASE 1, AUTOSOMAL DOMINANT",OMIM:168601,0,,1,SNCA
+inclusion body,GO:0016234,"Parkinson Disease 4, Autosomal Dominant Lewy Body",MESH:C565324,0,,1,SNCA
+inclusion body,GO:0016234,"Parkinson Disease, Secondary",MESH:D010302,0,,1,SNCA
+inclusion body,GO:0016234,Parkinsonian Disorders,MESH:D020734,1,3-iodotyrosine,1,SNCA
+insulin receptor complex,GO:0005899,Parkinson Disease,MESH:D010300,0,,2,IGF1R|INSR
+intercellular bridge,GO:0045171,Parkinson Disease,MESH:D010300,0,,1,GSTM1
+intercellular bridge,GO:0045171,Parkinsonian Disorders,MESH:D020734,0,,1,DCTN1
+interleukin-6 receptor complex,GO:0005896,Parkinson Disease,MESH:D010300,0,,1,IL6
+intermediate filament,GO:0005882,Parkinson Disease,MESH:D010300,0,,1,GFAP
+intermediate filament cytoskeleton,GO:0045111,Parkinson Disease,MESH:D010300,0,,1,GFAP
+intracellular anatomical structure,GO:0005622,Parkinson Disease,MESH:D010300,0,,4,ENO2|MAP2|TALDO1|TNF
+intracellular anatomical structure,GO:0005622,Parkinsonian Disorders,MESH:D020734,0,,1,PRKRA
+intracellular membrane-bounded organelle,GO:0043231,Parkinson Disease,MESH:D010300,0,,11,CYP2D6|CYP2E1|DNM1L|GAK|IGF1R|IGF2R|LRRK2|MTA1|RAB32|SLC18A2|VPS35
+intracellular membrane-bounded organelle,GO:0043231,PARKINSON DISEASE 17,OMIM:614203,0,,1,VPS35
+intracellular membrane-bounded organelle,GO:0043231,"PARKINSON DISEASE 19A, JUVENILE-ONSET",OMIM:615528,0,,1,DNAJC6
+intracellular membrane-bounded organelle,GO:0043231,"PARKINSON DISEASE 8, AUTOSOMAL DOMINANT",OMIM:607060,0,,1,LRRK2
+intracellular membrane-bounded organelle,GO:0043231,"Parkinson Disease, Secondary",MESH:D010302,0,,1,SLC18A2
+intracellular membrane-bounded organelle,GO:0043231,Parkinsonian Disorders,MESH:D020734,0,,4,GAPDH|LRRK2|POLG|SLC18A2
+intracellular membrane-bounded organelle,GO:0043231,"PARKINSONISM WITH SPASTICITY, X-LINKED",OMIM:300911,0,,1,ATP6AP2
+intracellular vesicle,GO:0097708,Parkinson Disease,MESH:D010300,0,,1,PRKN
+intracellular vesicle,GO:0097708,"Parkinson Disease, Secondary",MESH:D010302,0,,1,PRKN
+intracellular vesicle,GO:0097708,Parkinsonian Disorders,MESH:D020734,0,,1,PRKN
+ion channel complex,GO:0034702,Parkinson Disease,MESH:D010300,0,,1,KCNJ4
+IRE1-TRAF2-ASK1 complex,GO:1990604,Parkinson Disease,MESH:D010300,0,,1,MAP3K5
+junctional membrane complex,GO:0030314,Parkinson Disease,MESH:D010300,0,,1,BAG5
+juxtaparanode region of axon,GO:0044224,Parkinson Disease,MESH:D010300,0,,1,CNTNAP2
+kinetochore,GO:0000776,Parkinsonian Disorders,MESH:D020734,0,,1,DCTN1
+lamellipodium,GO:0030027,Parkinson Disease,MESH:D010300,0,,1,AIF1
+laminin complex,GO:0043256,Parkinson Disease,MESH:D010300,1,Diazinon,0,
+large ribosomal subunit,GO:0015934,Parkinson Disease,MESH:D010300,0,,1,RPL6
+late endosome,GO:0005770,Parkinson Disease,MESH:D010300,0,,7,ATP13A2|DNM1L|IGF2R|INSR|RAB32|TMEM230|VPS35
+late endosome,GO:0005770,PARKINSON DISEASE 17,OMIM:614203,0,,1,VPS35
+late endosome,GO:0005770,"PARKINSON DISEASE 23, AUTOSOMAL RECESSIVE EARLY-ONSET",OMIM:616840,0,,1,VPS13C
+late endosome,GO:0005770,"Parkinson Disease, Secondary",MESH:D010302,0,,1,ATP13A2
+late endosome,GO:0005770,Parkinsonian Disorders,MESH:D020734,0,,1,ATP13A2
+late endosome lumen,GO:0031906,Parkinsonian Disorders,MESH:D020734,0,,1,GAPDH
+late endosome membrane,GO:0031902,"Dystonia-Parkinsonism, Adult-Onset",MESH:C567844,0,,1,SLC39A14
+late endosome membrane,GO:0031902,Parkinson Disease,MESH:D010300,0,,3,ATP13A2|HLA-DRA|HLA-DRB5
+late endosome membrane,GO:0031902,"PARKINSON DISEASE 23, AUTOSOMAL RECESSIVE EARLY-ONSET",OMIM:616840,0,,1,VPS13C
+late endosome membrane,GO:0031902,"Parkinson Disease, Secondary",MESH:D010302,0,,1,ATP13A2
+late endosome membrane,GO:0031902,Parkinsonian Disorders,MESH:D020734,0,,1,ATP13A2
+lateral plasma membrane,GO:0016328,Parkinson Disease,MESH:D010300,0,,1,DRD2
+lateral plasma membrane,GO:0016328,Parkinsonian Disorders,MESH:D020734,0,,1,DRD2
+Lewy body,GO:0097413,Parkinson Disease,MESH:D010300,0,,2,PINK1|PRKN
+Lewy body,GO:0097413,"Parkinson Disease 6, Autosomal Recessive Early-Onset",MESH:C565276,0,,1,PINK1
+Lewy body,GO:0097413,"Parkinson Disease, Secondary",MESH:D010302,0,,1,PRKN
+Lewy body,GO:0097413,Parkinsonian Disorders,MESH:D020734,0,,2,PINK1|PRKN
+lipid droplet,GO:0005811,"PARKINSON DISEASE 23, AUTOSOMAL RECESSIVE EARLY-ONSET",OMIM:616840,0,,1,VPS13C
+lipid droplet,GO:0005811,Parkinsonian Disorders,MESH:D020734,0,,1,GAPDH
+lumenal side of endoplasmic reticulum membrane,GO:0098553,Parkinson Disease,MESH:D010300,0,,2,HLA-DRA|HLA-DRB5
+lysosomal lumen,GO:0043202,Parkinson Disease,MESH:D010300,0,,2,ATP13A2|GBA1
+lysosomal lumen,GO:0043202,"PARKINSON DISEASE, LATE-ONSET",OMIM:168600,0,,1,GBA1
+lysosomal lumen,GO:0043202,"Parkinson Disease, Secondary",MESH:D010302,0,,1,ATP13A2
+lysosomal lumen,GO:0043202,Parkinsonian Disorders,MESH:D020734,0,,2,ATP13A2|GBA1
+lysosomal membrane,GO:0005765,"Dystonia-Parkinsonism, Adult-Onset",MESH:C567844,0,,1,SLC39A14
+lysosomal membrane,GO:0005765,Parkinson Disease,MESH:D010300,0,,6,ATP13A2|GBA1|GFAP|HLA-DRA|HLA-DRB5|TRPM2
+lysosomal membrane,GO:0005765,"PARKINSON DISEASE 23, AUTOSOMAL RECESSIVE EARLY-ONSET",OMIM:616840,0,,1,VPS13C
+lysosomal membrane,GO:0005765,"PARKINSON DISEASE, LATE-ONSET",OMIM:168600,0,,2,ATXN3|GBA1
+lysosomal membrane,GO:0005765,"Parkinson Disease, Secondary",MESH:D010302,0,,1,ATP13A2
+lysosomal membrane,GO:0005765,Parkinsonian Disorders,MESH:D020734,0,,2,ATP13A2|GBA1
+lysosomal membrane,GO:0005765,"PARKINSONISM WITH SPASTICITY, X-LINKED",OMIM:300911,0,,1,ATP6AP2
+lysosome,GO:0005764,"Dystonia-Parkinsonism, Adult-Onset",MESH:C567844,0,,1,SLC39A14
+lysosome,GO:0005764,Parkinson Disease,MESH:D010300,2,Manganese|Sirolimus,12,ATP13A2|DNM1L|GBA1|GFAP|HLA-DRA|INSR|LRRK2|RAB32|SNCA|SOD1|TRPM2|VPS35
+lysosome,GO:0005764,PARKINSON DISEASE 17,OMIM:614203,0,,1,VPS35
+lysosome,GO:0005764,"PARKINSON DISEASE 1, AUTOSOMAL DOMINANT",OMIM:168601,0,,1,SNCA
+lysosome,GO:0005764,"PARKINSON DISEASE 23, AUTOSOMAL RECESSIVE EARLY-ONSET",OMIM:616840,0,,1,VPS13C
+lysosome,GO:0005764,"Parkinson Disease 4, Autosomal Dominant Lewy Body",MESH:C565324,0,,1,SNCA
+lysosome,GO:0005764,"PARKINSON DISEASE 8, AUTOSOMAL DOMINANT",OMIM:607060,0,,1,LRRK2
+lysosome,GO:0005764,"PARKINSON DISEASE, LATE-ONSET",OMIM:168600,0,,1,GBA1
+lysosome,GO:0005764,"Parkinson Disease, Secondary",MESH:D010302,1,Manganese,2,ATP13A2|SNCA
+lysosome,GO:0005764,Parkinsonian Disorders,MESH:D020734,3,4-hydroxy-2-nonenal|Manganese|manganese chloride,4,ATP13A2|GBA1|LRRK2|SNCA
+lysosome,GO:0005764,"PARKINSONISM WITH SPASTICITY, X-LINKED",OMIM:300911,0,,1,ATP6AP2
+m-AAA complex,GO:0005745,Parkinsonian Disorders,MESH:D020734,0,,1,PARP1
+main axon,GO:0044304,Parkinson Disease,MESH:D010300,0,,1,MAPT
+main axon,GO:0044304,"PARKINSON DISEASE, LATE-ONSET",OMIM:168600,0,,1,MAPT
+main axon,GO:0044304,Parkinsonian Disorders,MESH:D020734,0,,1,MAPT
+male germ cell nucleus,GO:0001673,"PARKINSON DISEASE, LATE-ONSET",OMIM:168600,0,,1,TBP
+male pronucleus,GO:0001940,"PARKINSON DISEASE, LATE-ONSET",OMIM:168600,0,,1,TBP
+M band,GO:0031430,Parkinson Disease,MESH:D010300,0,,1,GPDH1
+melanosome,GO:0042470,Parkinson Disease,MESH:D010300,0,,1,RAB32
+melanosome membrane,GO:0033162,Parkinson Disease,MESH:D010300,0,,2,RAB32|TH
+melanosome membrane,GO:0033162,Parkinsonian Disorders,MESH:D020734,0,,1,TH
+membrane,GO:0016020,AMYOTROPHIC LATERAL SCLEROSIS-PARKINSONISM/DEMENTIA COMPLEX 1,OMIM:105500,0,,1,TRPM7
+membrane,GO:0016020,"Dystonia-Parkinsonism, Adult-Onset",MESH:C567844,0,,1,SLC39A14
+membrane,GO:0016020,Parkinson Disease,MESH:D010300,0,,38,ABCB1|ATP13A2|BAG5|BST1|CEACAM6|CNTNAP2|CP|CPR|CYP2D6|DNM1L|DRD1|DRD2|ENO2|GFAP|HFE|HMOX1|HSC70-3|IGF1R|IGF2R|INSR|KCNJ4|MAG|MAPT|NECTIN2|PARK7|PINK1|RAB32|RPS8|SLC18A2|SLC2A14|SLC30A10|SLC38A2|SLC6A3|SNCA|TMEM230|TNF|TRPM2|VPS35
+membrane,GO:0016020,Parkinson Disease 11,MESH:C564345,0,,1,GIGYF2
+membrane,GO:0016020,Parkinson Disease 13,MESH:C565204,0,,1,HTRA2
+membrane,GO:0016020,"PARKINSON DISEASE 14, AUTOSOMAL RECESSIVE",OMIM:612953,0,,1,PLA2G6
+membrane,GO:0016020,PARKINSON DISEASE 17,OMIM:614203,0,,1,VPS35
+membrane,GO:0016020,"PARKINSON DISEASE 1, AUTOSOMAL DOMINANT",OMIM:168601,0,,1,SNCA
+membrane,GO:0016020,"PARKINSON DISEASE 20, EARLY-ONSET",OMIM:615530,0,,1,SYNJ1
+membrane,GO:0016020,"Parkinson Disease 4, Autosomal Dominant Lewy Body",MESH:C565324,0,,1,SNCA
+membrane,GO:0016020,"PARKINSON DISEASE 5, AUTOSOMAL DOMINANT, SUSCEPTIBILITY TO",OMIM:613643,0,,1,UCHL1
+membrane,GO:0016020,"Parkinson Disease 6, Autosomal Recessive Early-Onset",MESH:C565276,0,,1,PINK1
+membrane,GO:0016020,"Parkinson Disease 7, Autosomal Recessive Early-Onset",MESH:C565238,0,,1,PARK7
+membrane,GO:0016020,"PARKINSON DISEASE, LATE-ONSET",OMIM:168600,0,,1,MAPT
+membrane,GO:0016020,"Parkinson Disease, Secondary",MESH:D010302,0,,8,ABCB1|ATP13A2|BCHE|CNR2|RGS2|SHH|SLC18A2|SNCA
+membrane,GO:0016020,Parkinsonian Disorders,MESH:D020734,0,,13,ATP13A2|ATP1A3|DOP1R2|DRD2|HTRA2|MAPT|PARK7|PARP1|PINK1|PRKCD|SLC18A2|SLC30A10|SNCA
+membrane,GO:0016020,"Parkinsonism-Dystonia, Infantile",MESH:C567730,0,,1,SLC6A3
+membrane,GO:0016020,"Parkinsonism, early onset with mental retardation",MESH:C537179,0,,1,RAB39B
+membrane,GO:0016020,"PARKINSONISM WITH SPASTICITY, X-LINKED",OMIM:300911,0,,1,ATP6AP2
+membrane coat,GO:0030117,"PARKINSON DISEASE 20, EARLY-ONSET",OMIM:615530,0,,1,SYNJ1
+membrane raft,GO:0045121,Parkinson Disease,MESH:D010300,0,,9,ENO2|HSPA1A|LRRK2|MAG|MAPT|NOS1|PARK7|SLC6A3|TNF
+membrane raft,GO:0045121,"Parkinson Disease 7, Autosomal Recessive Early-Onset",MESH:C565238,0,,1,PARK7
+membrane raft,GO:0045121,"PARKINSON DISEASE 8, AUTOSOMAL DOMINANT",OMIM:607060,0,,1,LRRK2
+membrane raft,GO:0045121,"PARKINSON DISEASE, LATE-ONSET",OMIM:168600,0,,1,MAPT
+membrane raft,GO:0045121,"Parkinson Disease, Secondary",MESH:D010302,0,,1,SHH
+membrane raft,GO:0045121,Parkinsonian Disorders,MESH:D020734,0,,3,LRRK2|MAPT|PARK7
+membrane raft,GO:0045121,"Parkinsonism-Dystonia, Infantile",MESH:C567730,0,,1,SLC6A3
+mesaxon,GO:0097453,Parkinson Disease,MESH:D010300,0,,1,MAG
+MHC class II protein complex,GO:0042613,Parkinson Disease,MESH:D010300,0,,2,HLA-DRA|HLA-DRB5
+microfibril,GO:0001527,Parkinson Disease,MESH:D010300,0,,1,ATP13A2
+microfibril,GO:0001527,"Parkinson Disease, Secondary",MESH:D010302,0,,1,ATP13A2
+microfibril,GO:0001527,Parkinsonian Disorders,MESH:D020734,0,,1,ATP13A2
+microtubule,GO:0005874,Parkinson Disease,MESH:D010300,0,,4,DNM1L|MAP2|MAPT|MTA1
+microtubule,GO:0005874,"PARKINSON DISEASE 20, EARLY-ONSET",OMIM:615530,0,,1,SYNJ1
+microtubule,GO:0005874,"PARKINSON DISEASE, LATE-ONSET",OMIM:168600,0,,1,MAPT
+microtubule,GO:0005874,Parkinsonian Disorders,MESH:D020734,0,,2,DCTN1|MAPT
+microtubule associated complex,GO:0005875,Parkinson Disease,MESH:D010300,0,,1,MAP2
+microtubule associated complex,GO:0005875,Parkinsonian Disorders,MESH:D020734,0,,1,DCTN1
+microtubule cytoskeleton,GO:0015630,Parkinson Disease,MESH:D010300,0,,2,MAP2|MAPT
+microtubule cytoskeleton,GO:0015630,"PARKINSON DISEASE 14, AUTOSOMAL RECESSIVE",OMIM:612953,0,,1,PLA2G6
+microtubule cytoskeleton,GO:0015630,"PARKINSON DISEASE, LATE-ONSET",OMIM:168600,0,,1,MAPT
+microtubule cytoskeleton,GO:0015630,Parkinsonian Disorders,MESH:D020734,0,,3,DCTN1|GAPDH|MAPT
+microtubule plus-end,GO:0035371,Parkinsonian Disorders,MESH:D020734,0,,1,DCTN1
+microvillus,GO:0005902,Parkinson Disease,MESH:D010300,0,,1,LRRK2
+microvillus,GO:0005902,"PARKINSON DISEASE 8, AUTOSOMAL DOMINANT",OMIM:607060,0,,1,LRRK2
+microvillus,GO:0005902,Parkinsonian Disorders,MESH:D020734,0,,1,LRRK2
+midbody,GO:0030496,Parkinson Disease,MESH:D010300,0,,1,KCNJ4
+mitochondria-associated endoplasmic reticulum membrane,GO:0044233,Parkinson Disease,MESH:D010300,4,4-phenylbutyric acid|Air Pollutants|Homocysteine|Particulate Matter,1,RAB32
+mitochondria-associated endoplasmic reticulum membrane,GO:0044233,Parkinsonian Disorders,MESH:D020734,2,Cadmium|Particulate Matter,0,
+mitochondrial chromosome,GO:0000262,Parkinsonian Disorders,MESH:D020734,0,,1,POLG
+mitochondrial crista,GO:0030061,Parkinson Disease,MESH:D010300,0,,1,BDNF
+mitochondrial envelope,GO:0005740,Parkinson Disease,MESH:D010300,0,,1,MAOB
+mitochondrial inner membrane,GO:0005743,Parkinson Disease,MESH:D010300,1,Dicamba,6,ATPSYNBETA|CYP2E1|HSPA9|LRRK2|PINK1|SNCA
+mitochondrial inner membrane,GO:0005743,"PARKINSON DISEASE 14, AUTOSOMAL RECESSIVE",OMIM:612953,0,,1,PLA2G6
+mitochondrial inner membrane,GO:0005743,"PARKINSON DISEASE 1, AUTOSOMAL DOMINANT",OMIM:168601,0,,1,SNCA
+mitochondrial inner membrane,GO:0005743,"Parkinson Disease 4, Autosomal Dominant Lewy Body",MESH:C565324,0,,1,SNCA
+mitochondrial inner membrane,GO:0005743,"Parkinson Disease 6, Autosomal Recessive Early-Onset",MESH:C565276,0,,1,PINK1
+mitochondrial inner membrane,GO:0005743,"PARKINSON DISEASE 8, AUTOSOMAL DOMINANT",OMIM:607060,0,,1,LRRK2
+mitochondrial inner membrane,GO:0005743,"Parkinson Disease, Secondary",MESH:D010302,0,,1,SNCA
+mitochondrial inner membrane,GO:0005743,Parkinsonian Disorders,MESH:D020734,0,,3,LRRK2|PINK1|SNCA
+mitochondrial intermembrane space,GO:0005758,Parkinson Disease,MESH:D010300,0,,3,PARK7|PINK1|SOD1
+mitochondrial intermembrane space,GO:0005758,Parkinson Disease 13,MESH:C565204,0,,1,HTRA2
+mitochondrial intermembrane space,GO:0005758,"PARKINSON DISEASE 22, AUTOSOMAL DOMINANT",OMIM:616710,0,,1,CHCHD2
+mitochondrial intermembrane space,GO:0005758,"Parkinson Disease 6, Autosomal Recessive Early-Onset",MESH:C565276,0,,1,PINK1
+mitochondrial intermembrane space,GO:0005758,"Parkinson Disease 7, Autosomal Recessive Early-Onset",MESH:C565238,0,,1,PARK7
+mitochondrial intermembrane space,GO:0005758,Parkinsonian Disorders,MESH:D020734,0,,3,HTRA2|PARK7|PINK1
+mitochondrial matrix,GO:0005759,Parkinson Disease,MESH:D010300,0,,7,ALDH2|HSPA9|LRRK2|PARK7|SNCA|SOD1|SOD2
+mitochondrial matrix,GO:0005759,"PARKINSON DISEASE 1, AUTOSOMAL DOMINANT",OMIM:168601,0,,1,SNCA
+mitochondrial matrix,GO:0005759,"Parkinson Disease 4, Autosomal Dominant Lewy Body",MESH:C565324,0,,1,SNCA
+mitochondrial matrix,GO:0005759,"Parkinson Disease 7, Autosomal Recessive Early-Onset",MESH:C565238,0,,1,PARK7
+mitochondrial matrix,GO:0005759,"PARKINSON DISEASE 8, AUTOSOMAL DOMINANT",OMIM:607060,0,,1,LRRK2
+mitochondrial matrix,GO:0005759,"PARKINSON DISEASE, LATE-ONSET",OMIM:168600,0,,1,ATXN3
+mitochondrial matrix,GO:0005759,"Parkinson Disease, Secondary",MESH:D010302,0,,2,SNCA|TFAM
+mitochondrial matrix,GO:0005759,Parkinsonian Disorders,MESH:D020734,0,,5,GSR|LRRK2|PARK7|POLG|SNCA
+mitochondrial membrane,GO:0031966,Parkinson Disease,MESH:D010300,2,Fatty Acids|Lead,2,DNM1L|LRRK2
+mitochondrial membrane,GO:0031966,Parkinson Disease 13,MESH:C565204,0,,1,HTRA2
+mitochondrial membrane,GO:0031966,"PARKINSON DISEASE 8, AUTOSOMAL DOMINANT",OMIM:607060,0,,1,LRRK2
+mitochondrial membrane,GO:0031966,"PARKINSON DISEASE, LATE-ONSET",OMIM:168600,0,,1,ATXN3
+mitochondrial membrane,GO:0031966,Parkinsonian Disorders,MESH:D020734,2,Cadmium|Docosahexaenoic Acids,2,HTRA2|LRRK2
+mitochondrial nucleoid,GO:0042645,Parkinson Disease,MESH:D010300,0,,2,HSPA9|SOD2
+mitochondrial nucleoid,GO:0042645,"Parkinson Disease, Secondary",MESH:D010302,0,,1,TFAM
+mitochondrial nucleoid,GO:0042645,Parkinsonian Disorders,MESH:D020734,0,,1,POLG
+mitochondrial outer membrane,GO:0005741,Parkinson Disease,MESH:D010300,0,,11,CPR|DNM1L|HMOX1|LRRK2|MAOA|MAOB|NOS1|PINK1|PRKN|RAB32|SNCA
+mitochondrial outer membrane,GO:0005741,"PARKINSON DISEASE 1, AUTOSOMAL DOMINANT",OMIM:168601,0,,1,SNCA
+mitochondrial outer membrane,GO:0005741,"PARKINSON DISEASE 23, AUTOSOMAL RECESSIVE EARLY-ONSET",OMIM:616840,0,,1,VPS13C
+mitochondrial outer membrane,GO:0005741,"Parkinson Disease 4, Autosomal Dominant Lewy Body",MESH:C565324,0,,1,SNCA
+mitochondrial outer membrane,GO:0005741,"Parkinson Disease 6, Autosomal Recessive Early-Onset",MESH:C565276,0,,1,PINK1
+mitochondrial outer membrane,GO:0005741,"PARKINSON DISEASE 8, AUTOSOMAL DOMINANT",OMIM:607060,0,,1,LRRK2
+mitochondrial outer membrane,GO:0005741,"Parkinson Disease, Secondary",MESH:D010302,0,,2,PRKN|SNCA
+mitochondrial outer membrane,GO:0005741,Parkinsonian Disorders,MESH:D020734,0,,4,LRRK2|PINK1|PRKN|SNCA
+mitochondrial permeability transition pore complex,GO:0005757,Parkinson Disease,MESH:D010300,1,Lead,0,
+mitochondrial permeability transition pore complex,GO:0005757,"Parkinson Disease, Secondary",MESH:D010302,4,Amlodipine|Doxorubicin|Nifedipine|thymoquinone,0,
+mitochondrial permeability transition pore complex,GO:0005757,Parkinsonian Disorders,MESH:D020734,1,Amlodipine,0,
+mitochondrial proton-transporting ATP synthase complex,GO:0005753,Parkinson Disease,MESH:D010300,2,Lipopolysaccharides|Sirolimus,0,
+mitochondrial proton-transporting ATP synthase complex,GO:0005753,Parkinsonian Disorders,MESH:D020734,1,Lipopolysaccharides,0,
+mitochondrial respiratory chain complex I,GO:0005747,Parkinson Disease,MESH:D010300,2,Lipopolysaccharides|Sirolimus,0,
+mitochondrial respiratory chain complex I,GO:0005747,Parkinsonian Disorders,MESH:D020734,1,Lipopolysaccharides,0,
+mitochondrial respiratory chain complex III,GO:0005750,Parkinson Disease,MESH:D010300,2,Lipopolysaccharides|Sirolimus,0,
+mitochondrial respiratory chain complex III,GO:0005750,Parkinsonian Disorders,MESH:D020734,1,Lipopolysaccharides,0,
+mitochondrion,GO:0005739,Parkinson Disease,MESH:D010300,3,Copper|Paraquat|Particulate Matter,25,ALDH2|BAG5|CYP2D6|DDIT4|DNM1L|GSTA4|GSTM1|GSTP1|HSPA1A|HSPA9|LRRK2|MAOA|MAOB|MAPT|NOS1|PARK7|PINK1|PRKN|RAB32|SNCA|SOD1|SOD2|TH|TRPM2|VPS35
+mitochondrion,GO:0005739,Parkinson Disease 13,MESH:C565204,0,,1,HTRA2
+mitochondrion,GO:0005739,"PARKINSON DISEASE 14, AUTOSOMAL RECESSIVE",OMIM:612953,0,,1,PLA2G6
+mitochondrion,GO:0005739,PARKINSON DISEASE 17,OMIM:614203,0,,1,VPS35
+mitochondrion,GO:0005739,"PARKINSON DISEASE 1, AUTOSOMAL DOMINANT",OMIM:168601,0,,1,SNCA
+mitochondrion,GO:0005739,"PARKINSON DISEASE 22, AUTOSOMAL DOMINANT",OMIM:616710,0,,1,CHCHD2
+mitochondrion,GO:0005739,"Parkinson Disease 4, Autosomal Dominant Lewy Body",MESH:C565324,0,,1,SNCA
+mitochondrion,GO:0005739,"Parkinson Disease 6, Autosomal Recessive Early-Onset",MESH:C565276,0,,1,PINK1
+mitochondrion,GO:0005739,"Parkinson Disease 7, Autosomal Recessive Early-Onset",MESH:C565238,0,,1,PARK7
+mitochondrion,GO:0005739,"PARKINSON DISEASE 8, AUTOSOMAL DOMINANT",OMIM:607060,0,,1,LRRK2
+mitochondrion,GO:0005739,"PARKINSON DISEASE, LATE-ONSET",OMIM:168600,0,,3,ADH1C|MAPT|TRNT
+mitochondrion,GO:0005739,"Parkinson Disease, Mitochondrial",MESH:C564015,0,,2,FMC1|TRNT
+mitochondrion,GO:0005739,"Parkinson Disease, Secondary",MESH:D010302,1,Paraquat,5,FMC1|PRKN|RGS2|SNCA|TFAM
+mitochondrion,GO:0005739,Parkinsonian Disorders,MESH:D020734,3,Curcumin|Paraquat|Particulate Matter,13,DJ-1BETA|GSR|HTRA2|LRRK2|MAPT|PARK7|PARP1|PINK1|POLG|PRKCD|PRKN|SNCA|TH
+mitochondrion,GO:0005739,Wolff-Parkinson-White Syndrome,MESH:D014927,1,Isoproterenol,0,
+mitochondrion-derived vesicle,GO:0099073,Parkinson Disease,MESH:D010300,0,,3,DNM1L|PRKN|VPS35
+mitochondrion-derived vesicle,GO:0099073,PARKINSON DISEASE 17,OMIM:614203,0,,1,VPS35
+mitochondrion-derived vesicle,GO:0099073,"Parkinson Disease, Secondary",MESH:D010302,0,,1,PRKN
+mitochondrion-derived vesicle,GO:0099073,Parkinsonian Disorders,MESH:D020734,0,,1,PRKN
+mitotic spindle,GO:0072686,Parkinsonian Disorders,MESH:D020734,0,,1,DCTN1
+mucus layer,GO:0070701,Parkinson Disease,MESH:D010300,1,Particulate Matter,0,
+mucus layer,GO:0070701,Parkinsonian Disorders,MESH:D020734,1,Particulate Matter,0,
+multivesicular body,GO:0005771,Parkinson Disease,MESH:D010300,0,,1,ATP13A2
+multivesicular body,GO:0005771,"Parkinson Disease, Secondary",MESH:D010302,0,,1,ATP13A2
+multivesicular body,GO:0005771,Parkinsonian Disorders,MESH:D020734,0,,1,ATP13A2
+"multivesicular body, internal vesicle",GO:0097487,Parkinson Disease,MESH:D010300,0,,1,LRRK2
+"multivesicular body, internal vesicle",GO:0097487,"PARKINSON DISEASE 8, AUTOSOMAL DOMINANT",OMIM:607060,0,,1,LRRK2
+"multivesicular body, internal vesicle",GO:0097487,Parkinsonian Disorders,MESH:D020734,0,,1,LRRK2
+multivesicular body membrane,GO:0032585,Parkinson Disease,MESH:D010300,0,,1,ATP13A2
+multivesicular body membrane,GO:0032585,"Parkinson Disease, Secondary",MESH:D010302,0,,1,ATP13A2
+multivesicular body membrane,GO:0032585,Parkinsonian Disorders,MESH:D020734,0,,1,ATP13A2
+myelin sheath,GO:0043209,AMYOTROPHIC LATERAL SCLEROSIS-PARKINSONISM/DEMENTIA COMPLEX 1,OMIM:105500,1,beta-N-methylamino-L-alanine,0,
+myelin sheath,GO:0043209,Parkinson Disease,MESH:D010300,1,beta-N-methylamino-L-alanine,1,MAG
+myelin sheath,GO:0043209,Parkinsonian Disorders,MESH:D020734,0,,1,ATP1A3
+myelin sheath adaxonal region,GO:0035749,Parkinson Disease,MESH:D010300,0,,1,MAG
+myosin complex,GO:0016459,Parkinson Disease,MESH:D010300,0,,1,PRM
+myosin filament,GO:0032982,Parkinson Disease,MESH:D010300,0,,1,PRM
+myosin II complex,GO:0016460,Parkinson Disease,MESH:D010300,0,,1,PRM
+NADPH oxidase complex,GO:0043020,Parkinsonian Disorders,MESH:D020734,1,Curcumin,0,
+Nebenkern,GO:0016006,Parkinson Disease,MESH:D010300,0,,1,PINK1
+Nebenkern,GO:0016006,Parkinson Disease 13,MESH:C565204,0,,1,HTRA2
+Nebenkern,GO:0016006,"Parkinson Disease 6, Autosomal Recessive Early-Onset",MESH:C565276,0,,1,PINK1
+Nebenkern,GO:0016006,Parkinsonian Disorders,MESH:D020734,0,,2,HTRA2|PINK1
+neurofibrillary tangle,GO:0097418,Parkinson Disease,MESH:D010300,0,,1,MAPT
+neurofibrillary tangle,GO:0097418,"PARKINSON DISEASE, LATE-ONSET",OMIM:168600,0,,1,MAPT
+neurofibrillary tangle,GO:0097418,Parkinsonian Disorders,MESH:D020734,0,,1,MAPT
+neuromuscular junction,GO:0031594,Parkinson Disease,MESH:D010300,0,,1,VPS35
+neuromuscular junction,GO:0031594,PARKINSON DISEASE 17,OMIM:614203,0,,1,VPS35
+neuronal cell body,GO:0043025,AMYOTROPHIC LATERAL SCLEROSIS-PARKINSONISM/DEMENTIA COMPLEX 1,OMIM:105500,0,,1,TRPM7
+neuronal cell body,GO:0043025,Parkinson Disease,MESH:D010300,2,Paclitaxel|Rotenone,25,ATP13A2|BDNF|CNTNAP2|DDC|DRD1|ENO2|IGF1R|INSR|KCNJ4|LRRK2|MAOB|MAP2|MAPT|NQO1|PPARGC1A|PRKN|SLC18A2|SLC38A2|SLC6A3|SNCA|SOD1|TH|TNF|TRPM2|VPS35
+neuronal cell body,GO:0043025,PARKINSON DISEASE 17,OMIM:614203,0,,1,VPS35
+neuronal cell body,GO:0043025,"PARKINSON DISEASE 1, AUTOSOMAL DOMINANT",OMIM:168601,0,,1,SNCA
+neuronal cell body,GO:0043025,"Parkinson Disease 4, Autosomal Dominant Lewy Body",MESH:C565324,0,,1,SNCA
+neuronal cell body,GO:0043025,"PARKINSON DISEASE 5, AUTOSOMAL DOMINANT, SUSCEPTIBILITY TO",OMIM:613643,0,,1,UCHL1
+neuronal cell body,GO:0043025,"PARKINSON DISEASE 8, AUTOSOMAL DOMINANT",OMIM:607060,0,,1,LRRK2
+neuronal cell body,GO:0043025,"PARKINSON DISEASE, LATE-ONSET",OMIM:168600,0,,2,MAPT|SNCAIP
+neuronal cell body,GO:0043025,"Parkinson Disease, Secondary",MESH:D010302,1,Rotenone,6,ATP13A2|CNR2|PRKN|SHH|SLC18A2|SNCA
+neuronal cell body,GO:0043025,Parkinsonian Disorders,MESH:D020734,1,Rotenone,12,ATP13A2|ATP1A3|DCTN1|DDC|LRRK2|MAPT|PDYN|PNOC|PRKN|SLC18A2|SNCA|TH
+neuronal cell body,GO:0043025,"Parkinsonism-Dystonia, Infantile",MESH:C567730,0,,1,SLC6A3
+neuronal cell body membrane,GO:0032809,Parkinson Disease,MESH:D010300,0,,2,INSR|SLC6A3
+neuronal cell body membrane,GO:0032809,Parkinsonian Disorders,MESH:D020734,0,,1,ATP1A3
+neuronal cell body membrane,GO:0032809,"Parkinsonism-Dystonia, Infantile",MESH:C567730,0,,1,SLC6A3
+neuronal dense core vesicle,GO:0098992,Parkinson Disease,MESH:D010300,0,,2,BDNF|SLC18A2
+neuronal dense core vesicle,GO:0098992,"Parkinson Disease, Secondary",MESH:D010302,0,,1,SLC18A2
+neuronal dense core vesicle,GO:0098992,Parkinsonian Disorders,MESH:D020734,0,,2,PDYN|SLC18A2
+neuronal dense core vesicle lumen,GO:0099013,Parkinsonian Disorders,MESH:D020734,0,,1,PDYN
+neuronal dense core vesicle membrane,GO:0099012,Parkinson Disease,MESH:D010300,0,,1,SLC18A2
+neuronal dense core vesicle membrane,GO:0099012,"Parkinson Disease, Secondary",MESH:D010302,0,,1,SLC18A2
+neuronal dense core vesicle membrane,GO:0099012,Parkinsonian Disorders,MESH:D020734,0,,1,SLC18A2
+neuron projection,GO:0043005,AMYOTROPHIC LATERAL SCLEROSIS-PARKINSONISM/DEMENTIA COMPLEX 1,OMIM:105500,1,beta-N-methylamino-L-alanine,0,
+neuron projection,GO:0043005,Parkinson Disease,MESH:D010300,8,1-Methyl-4-phenylpyridinium|Aspirin|beta-N-methylamino-L-alanine|Lead|Levodopa|Paclitaxel|Paraquat|Rotenone,10,ATP13A2|CNTNAP2|LRRK2|MAP2|MAPT|PARK7|PRKN|SLC6A3|TH|VPS35
+neuron projection,GO:0043005,PARKINSON DISEASE 17,OMIM:614203,0,,1,VPS35
+neuron projection,GO:0043005,"Parkinson Disease 6, Autosomal Recessive Early-Onset",MESH:C565276,1,Levodopa,0,
+neuron projection,GO:0043005,"Parkinson Disease 7, Autosomal Recessive Early-Onset",MESH:C565238,0,,1,PARK7
+neuron projection,GO:0043005,"PARKINSON DISEASE 8, AUTOSOMAL DOMINANT",OMIM:607060,0,,1,LRRK2
+neuron projection,GO:0043005,"PARKINSON DISEASE, LATE-ONSET",OMIM:168600,0,,1,MAPT
+neuron projection,GO:0043005,"Parkinson Disease, Secondary",MESH:D010302,7,3-methyladenine|Benzo(a)pyrene|Levodopa|Paraquat|PQQ Cofactor|Rotenone|Valproic Acid,3,ATP13A2|CNR2|PRKN
+neuron projection,GO:0043005,Parkinsonian Disorders,MESH:D020734,5,1-Methyl-4-phenylpyridinium|Levodopa|Paraquat|Rotenone|Valproic Acid,7,ATP13A2|DCTN1|LRRK2|MAPT|PARK7|PRKN|TH
+neuron projection,GO:0043005,"Parkinsonism-Dystonia, Infantile",MESH:C567730,0,,1,SLC6A3
+neuron projection,GO:0043005,"Parkinsonism, early onset with mental retardation",MESH:C537179,0,,1,RAB39B
+neuron projection terminus,GO:0044306,Parkinson Disease,MESH:D010300,0,,2,NOS1|TH
+neuron projection terminus,GO:0044306,"PARKINSON DISEASE 5, AUTOSOMAL DOMINANT, SUSCEPTIBILITY TO",OMIM:613643,0,,1,UCHL1
+neuron projection terminus,GO:0044306,Parkinsonian Disorders,MESH:D020734,0,,1,TH
+neuron spine,GO:0044309,Parkinson Disease,MESH:D010300,0,,1,CNTNAP2
+neuron to neuron synapse,GO:0098984,Parkinsonian Disorders,MESH:D020734,0,,1,ATP1A3
+neutrophil extracellular trap,GO:0140644,Parkinson Disease,MESH:D010300,1,Acrolein,0,
+NLRP1 inflammasome complex,GO:0072558,"Parkinson Disease, Secondary",MESH:D010302,1,Doxorubicin,0,
+NLRP3 inflammasome complex,GO:0072559,Parkinson Disease,MESH:D010300,1,Lipopolysaccharides,0,
+NLRP3 inflammasome complex,GO:0072559,Parkinsonian Disorders,MESH:D020734,1,Lipopolysaccharides,0,
+non-motile cilium,GO:0097730,Parkinson Disease,MESH:D010300,0,,2,DRD1|DRD2
+non-motile cilium,GO:0097730,Parkinsonian Disorders,MESH:D020734,0,,1,DRD2
+nuclear body,GO:0016604,Parkinsonian Disorders,MESH:D020734,0,,1,PARP1
+nuclear envelope,GO:0005635,Parkinson Disease,MESH:D010300,0,,2,INSR|MTA1
+nuclear envelope,GO:0005635,Parkinsonian Disorders,MESH:D020734,0,,2,DCTN1|PARP1
+nuclear envelope lumen,GO:0005641,Parkinson Disease,MESH:D010300,0,,1,IGF2R
+nuclear envelope lumen,GO:0005641,"Parkinson Disease, Secondary",MESH:D010302,0,,1,BCHE
+nuclear inclusion body,GO:0042405,"PARKINSON DISEASE, LATE-ONSET",OMIM:168600,0,,1,ATXN3
+nuclear lumen,GO:0031981,Parkinson Disease,MESH:D010300,0,,1,INSR
+nuclear matrix,GO:0016363,"PARKINSON DISEASE, LATE-ONSET",OMIM:168600,0,,1,ATXN3
+nuclear matrix,GO:0016363,Parkinsonian Disorders,MESH:D020734,0,,1,PRKCD
+nuclear membrane,GO:0031965,Parkinson Disease,MESH:D010300,0,,2,LRRK2|NOS1
+nuclear membrane,GO:0031965,"PARKINSON DISEASE 8, AUTOSOMAL DOMINANT",OMIM:607060,0,,1,LRRK2
+nuclear membrane,GO:0031965,Parkinsonian Disorders,MESH:D020734,0,,2,GAPDH|LRRK2
+nuclear outer membrane,GO:0005640,Parkinson Disease,MESH:D010300,0,,1,SNCA
+nuclear outer membrane,GO:0005640,"PARKINSON DISEASE 1, AUTOSOMAL DOMINANT",OMIM:168601,0,,1,SNCA
+nuclear outer membrane,GO:0005640,"Parkinson Disease 4, Autosomal Dominant Lewy Body",MESH:C565324,0,,1,SNCA
+nuclear outer membrane,GO:0005640,"Parkinson Disease, Secondary",MESH:D010302,0,,1,SNCA
+nuclear outer membrane,GO:0005640,Parkinsonian Disorders,MESH:D020734,0,,1,SNCA
+nuclear periphery,GO:0034399,Parkinson Disease,MESH:D010300,0,,2,MAP2|MAPT
+nuclear periphery,GO:0034399,"PARKINSON DISEASE, LATE-ONSET",OMIM:168600,0,,1,MAPT
+nuclear periphery,GO:0034399,Parkinsonian Disorders,MESH:D020734,0,,1,MAPT
+nuclear replication fork,GO:0043596,Parkinsonian Disorders,MESH:D020734,0,,1,PARP1
+nuclear speck,GO:0016607,Parkinson Disease,MESH:D010300,0,,4,HSPA1A|MAPT|NCAPG2|PRKN
+nuclear speck,GO:0016607,"PARKINSON DISEASE 14, AUTOSOMAL RECESSIVE",OMIM:612953,0,,1,PLA2G6
+nuclear speck,GO:0016607,"PARKINSON DISEASE, LATE-ONSET",OMIM:168600,0,,2,MAPT|NR4A2
+nuclear speck,GO:0016607,"Parkinson Disease, Secondary",MESH:D010302,0,,1,PRKN
+nuclear speck,GO:0016607,Parkinsonian Disorders,MESH:D020734,0,,2,MAPT|PRKN
+nucleolus,GO:0005730,Parkinson Disease,MESH:D010300,0,,5,ADARB2|HSPA9|IGF1R|RPL6|RPS8
+nucleolus,GO:0005730,"PARKINSON DISEASE, LATE-ONSET",OMIM:168600,0,,1,ATXN3
+nucleolus,GO:0005730,"Parkinson Disease, Secondary",MESH:D010302,0,,1,RGS2
+nucleolus,GO:0005730,Parkinsonian Disorders,MESH:D020734,0,,1,PARP1
+nucleoplasm,GO:0005654,Parkinson Disease,MESH:D010300,0,,11,HFE|HMOX1|HSPA1A|LRRK2|MTA1|NCAPG2|NOS1|PARK7|PPARGC1A|RPS8|SOD1
+nucleoplasm,GO:0005654,"PARKINSON DISEASE 14, AUTOSOMAL RECESSIVE",OMIM:612953,0,,1,PLA2G6
+nucleoplasm,GO:0005654,"PARKINSON DISEASE 5, AUTOSOMAL DOMINANT, SUSCEPTIBILITY TO",OMIM:613643,0,,1,UCHL1
+nucleoplasm,GO:0005654,"Parkinson Disease 7, Autosomal Recessive Early-Onset",MESH:C565238,0,,1,PARK7
+nucleoplasm,GO:0005654,"PARKINSON DISEASE 8, AUTOSOMAL DOMINANT",OMIM:607060,0,,1,LRRK2
+nucleoplasm,GO:0005654,"PARKINSON DISEASE, LATE-ONSET",OMIM:168600,0,,5,ADH1C|ATXN3|NR4A2|SNCAIP|TBP
+nucleoplasm,GO:0005654,"Parkinson Disease, Secondary",MESH:D010302,0,,2,NOS2|SHH
+nucleoplasm,GO:0005654,Parkinsonian Disorders,MESH:D020734,0,,5,LRRK2|PARK7|PARP1|PRKCD|PRKRA
+nucleoplasm,GO:0005654,Wolff-Parkinson-White Syndrome,MESH:D014927,0,,1,PRKAG2
+nucleosome,GO:0000786,Parkinson Disease,MESH:D010300,0,,1,RPL23A
+nucleotide-activated protein kinase complex,GO:0031588,Wolff-Parkinson-White Syndrome,MESH:D014927,0,,1,PRKAG2
+nucleus,GO:0005634,AMYOTROPHIC LATERAL SCLEROSIS-PARKINSONISM/DEMENTIA COMPLEX 1,OMIM:105500,0,,1,TRPM7
+nucleus,GO:0005634,Parkinson Disease,MESH:D010300,0,,30,ADARB2|AIF1|BAG5|CP|DRD1|FBP1|GSTP1|HMOX1|HSC70-3|HSPA1A|HSPA9|IGF2R|MAP2|MAPT|MLP60A|MTA1|NCAPG2|NOS1|NQO1|PARK7|PINK1|PPARGC1A|PRKN|RPL23A|RPL6|SNCA|SOD1|TALDO1|TH|VPS35
+nucleus,GO:0005634,Parkinson Disease 13,MESH:C565204,0,,1,HTRA2
+nucleus,GO:0005634,PARKINSON DISEASE 17,OMIM:614203,0,,1,VPS35
+nucleus,GO:0005634,"PARKINSON DISEASE 18, AUTOSOMAL DOMINANT, SUSCEPTIBILITY TO",OMIM:614251,0,,1,EIF4G1
+nucleus,GO:0005634,"PARKINSON DISEASE 1, AUTOSOMAL DOMINANT",OMIM:168601,0,,1,SNCA
+nucleus,GO:0005634,"PARKINSON DISEASE 22, AUTOSOMAL DOMINANT",OMIM:616710,0,,1,CHCHD2
+nucleus,GO:0005634,"Parkinson Disease 4, Autosomal Dominant Lewy Body",MESH:C565324,0,,1,SNCA
+nucleus,GO:0005634,"Parkinson Disease 6, Autosomal Recessive Early-Onset",MESH:C565276,0,,1,PINK1
+nucleus,GO:0005634,"Parkinson Disease 7, Autosomal Recessive Early-Onset",MESH:C565238,0,,1,PARK7
+nucleus,GO:0005634,"PARKINSON DISEASE, LATE-ONSET",OMIM:168600,0,,4,ATXN3|MAPT|NR4A2|TBP
+nucleus,GO:0005634,"Parkinson Disease, Secondary",MESH:D010302,0,,5,NOS2|PRKN|RGS2|SNCA|TFAM
+nucleus,GO:0005634,Parkinsonian Disorders,MESH:D020734,0,,15,ATP1A3|DCTN1|DJ-1BETA|GAPDH|HOTAIR|HTRA2|MAPT|PARK7|PARP1|PINK1|PRKCD|PRKN|PRKRA|SNCA|TH
+nucleus,GO:0005634,Wolff-Parkinson-White Syndrome,MESH:D014927,0,,1,PRKAG2
+NuRD complex,GO:0016581,Parkinson Disease,MESH:D010300,0,,1,MTA1
+organelle membrane,GO:0031090,Parkinsonian Disorders,MESH:D020734,0,,1,ATP1A3
+parallel fiber to Purkinje cell synapse,GO:0098688,"PARKINSON DISEASE 20, EARLY-ONSET",OMIM:615530,0,,1,SYNJ1
+paranodal junction,GO:0033010,Parkinson Disease,MESH:D010300,0,,1,CNTNAP2
+paranode region of axon,GO:0033270,Parkinson Disease,MESH:D010300,0,,2,CNTNAP2|MAG
+paraspeckles,GO:0042382,Parkinson Disease,MESH:D010300,1,Paraquat,0,
+paraspeckles,GO:0042382,"Parkinson Disease, Secondary",MESH:D010302,1,Paraquat,0,
+paraspeckles,GO:0042382,Parkinsonian Disorders,MESH:D020734,1,Paraquat,0,
+Parkin-FBXW7-Cul1 ubiquitin ligase complex,GO:1990452,Parkinson Disease,MESH:D010300,0,,1,PRKN
+Parkin-FBXW7-Cul1 ubiquitin ligase complex,GO:1990452,"Parkinson Disease, Secondary",MESH:D010302,0,,1,PRKN
+Parkin-FBXW7-Cul1 ubiquitin ligase complex,GO:1990452,Parkinsonian Disorders,MESH:D020734,0,,1,PRKN
+perikaryon,GO:0043204,Parkinson Disease,MESH:D010300,0,,9,AIF1|BDNF|CNTNAP2|DRD2|ENO2|LRRK2|NOS1|TH|TRPM2
+perikaryon,GO:0043204,Parkinson Disease 11,MESH:C564345,0,,1,GIGYF2
+perikaryon,GO:0043204,"PARKINSON DISEASE 8, AUTOSOMAL DOMINANT",OMIM:607060,0,,1,LRRK2
+perikaryon,GO:0043204,"Parkinson Disease, Secondary",MESH:D010302,0,,1,CNR2
+perikaryon,GO:0043204,Parkinsonian Disorders,MESH:D020734,0,,3,DRD2|LRRK2|TH
+perinuclear endoplasmic reticulum,GO:0097038,Parkinson Disease,MESH:D010300,0,,1,CNX99A
+perinuclear region of cytoplasm,GO:0048471,Parkinson Disease,MESH:D010300,0,,16,AIF1|BAG5|BDNF|DNM1L|GAK|HFE|HMOX1|HSPA1A|IGF2R|NOS1|PARK7|PINK1|PRKN|SNCA|TH|VPS35
+perinuclear region of cytoplasm,GO:0048471,PARKINSON DISEASE 17,OMIM:614203,0,,1,VPS35
+perinuclear region of cytoplasm,GO:0048471,"PARKINSON DISEASE 19A, JUVENILE-ONSET",OMIM:615528,0,,1,DNAJC6
+perinuclear region of cytoplasm,GO:0048471,"PARKINSON DISEASE 1, AUTOSOMAL DOMINANT",OMIM:168601,0,,1,SNCA
+perinuclear region of cytoplasm,GO:0048471,"PARKINSON DISEASE 20, EARLY-ONSET",OMIM:615530,0,,1,SYNJ1
+perinuclear region of cytoplasm,GO:0048471,"Parkinson Disease 4, Autosomal Dominant Lewy Body",MESH:C565324,0,,1,SNCA
+perinuclear region of cytoplasm,GO:0048471,"Parkinson Disease 6, Autosomal Recessive Early-Onset",MESH:C565276,0,,1,PINK1
+perinuclear region of cytoplasm,GO:0048471,"Parkinson Disease 7, Autosomal Recessive Early-Onset",MESH:C565238,0,,1,PARK7
+perinuclear region of cytoplasm,GO:0048471,"PARKINSON DISEASE, LATE-ONSET",OMIM:168600,0,,1,ATXN2
+perinuclear region of cytoplasm,GO:0048471,"Parkinson Disease, Secondary",MESH:D010302,0,,3,NOS2|PRKN|SNCA
+perinuclear region of cytoplasm,GO:0048471,Parkinsonian Disorders,MESH:D020734,0,,10,ALDH1A2|CAT-2|GAPDH|PARK7|PINK1|PRKCD|PRKN|PRKRA|SNCA|TH
+peroxisomal matrix,GO:0005782,"Parkinson Disease, Secondary",MESH:D010302,0,,1,NOS2
+peroxisome,GO:0005777,Parkinson Disease,MESH:D010300,0,,2,DNM1L|SOD1
+peroxisome,GO:0005777,"Parkinson Disease, Secondary",MESH:D010302,0,,1,NOS2
+phagocytic cup,GO:0001891,Parkinson Disease,MESH:D010300,0,,2,AIF1|TNF
+phagocytic vesicle,GO:0045335,Parkinson Disease,MESH:D010300,0,,2,LRRK2|RAB32
+phagocytic vesicle,GO:0045335,"PARKINSON DISEASE 8, AUTOSOMAL DOMINANT",OMIM:607060,0,,1,LRRK2
+phagocytic vesicle,GO:0045335,Parkinsonian Disorders,MESH:D020734,0,,1,LRRK2
+phagocytic vesicle membrane,GO:0030670,Parkinson Disease,MESH:D010300,0,,1,RAB32
+phagophore,GO:0061908,Parkinson Disease,MESH:D010300,1,Paraquat,0,
+phagophore,GO:0061908,"Parkinson Disease, Secondary",MESH:D010302,1,Paraquat,0,
+phagophore,GO:0061908,Parkinsonian Disorders,MESH:D020734,1,Paraquat,0,
+phosphopyruvate hydratase complex,GO:0000015,Parkinson Disease,MESH:D010300,0,,1,ENO2
+photoreceptor inner segment,GO:0001917,Parkinson Disease,MESH:D010300,0,,2,ENO2|NOS1
+photoreceptor inner segment,GO:0001917,Parkinsonian Disorders,MESH:D020734,0,,1,ATP1A3
+photoreceptor inner segment membrane,GO:0060342,Parkinsonian Disorders,MESH:D020734,0,,1,ATP1A3
+plasma membrane,GO:0005886,AMYOTROPHIC LATERAL SCLEROSIS-PARKINSONISM/DEMENTIA COMPLEX 1,OMIM:105500,0,,1,TRPM7
+plasma membrane,GO:0005886,"Dystonia-Parkinsonism, Adult-Onset",MESH:C567844,0,,1,SLC39A14
+plasma membrane,GO:0005886,Parkinson Disease,MESH:D010300,0,,39,ABCB1|AIF1|BST1|CEACAM6|CHP|CNX99A|CP|DRD1|DRD2|ENO2|FCER2|FGB|HFE|HLA-DRA|HLA-DRB5|HSPA1A|IGF1R|IGF2R|INSR|KCNJ4|KST|LRRK2|MAG|MAP2|MAPT|NECTIN2|NOS1|PARK7|RAB32|RDGA|SLC18A2|SLC2A14|SLC30A10|SLC38A2|SLC6A3|SNCA|SOD1|TNF|TRPM2
+plasma membrane,GO:0005886,"PARKINSON DISEASE 14, AUTOSOMAL RECESSIVE",OMIM:612953,0,,1,PLA2G6
+plasma membrane,GO:0005886,"PARKINSON DISEASE 1, AUTOSOMAL DOMINANT",OMIM:168601,0,,1,SNCA
+plasma membrane,GO:0005886,"Parkinson Disease 4, Autosomal Dominant Lewy Body",MESH:C565324,0,,1,SNCA
+plasma membrane,GO:0005886,"PARKINSON DISEASE 5, AUTOSOMAL DOMINANT, SUSCEPTIBILITY TO",OMIM:613643,0,,1,UCHL1
+plasma membrane,GO:0005886,"Parkinson Disease 7, Autosomal Recessive Early-Onset",MESH:C565238,0,,1,PARK7
+plasma membrane,GO:0005886,"PARKINSON DISEASE 8, AUTOSOMAL DOMINANT",OMIM:607060,0,,1,LRRK2
+plasma membrane,GO:0005886,"PARKINSON DISEASE, LATE-ONSET",OMIM:168600,0,,3,ADH1C|ATXN3|MAPT
+plasma membrane,GO:0005886,"Parkinson Disease, Secondary",MESH:D010302,0,,7,ABCB1|BCHE|CNR2|RGS2|SHH|SLC18A2|SNCA
+plasma membrane,GO:0005886,Parkinsonian Disorders,MESH:D020734,0,,13,ATP1A3|DOP1R2|DRD2|GAPDH|LRRK2|MAPT|PARK7|PDYN|PNOC|PRKCD|SLC18A2|SLC30A10|SNCA
+plasma membrane,GO:0005886,"Parkinsonism-Dystonia, Infantile",MESH:C567730,0,,1,SLC6A3
+plasma membrane,GO:0005886,"Parkinsonism, early onset with mental retardation",MESH:C537179,0,,1,RAB39B
+plasma membrane,GO:0005886,"PARKINSONISM WITH SPASTICITY, X-LINKED",OMIM:300911,0,,1,ATP6AP2
+plasma membrane raft,GO:0044853,Parkinson Disease,MESH:D010300,0,,1,CNTNAP2
+platelet alpha granule,GO:0031091,Parkinson Disease,MESH:D010300,0,,1,FGB
+platelet alpha granule lumen,GO:0031093,Parkinson Disease,MESH:D010300,0,,3,FGB|HGF|IGF2
+platelet alpha granule membrane,GO:0031092,Parkinson Disease,MESH:D010300,0,,1,SNCA
+platelet alpha granule membrane,GO:0031092,"PARKINSON DISEASE 1, AUTOSOMAL DOMINANT",OMIM:168601,0,,1,SNCA
+platelet alpha granule membrane,GO:0031092,"Parkinson Disease 4, Autosomal Dominant Lewy Body",MESH:C565324,0,,1,SNCA
+platelet alpha granule membrane,GO:0031092,"Parkinson Disease, Secondary",MESH:D010302,0,,1,SNCA
+platelet alpha granule membrane,GO:0031092,Parkinsonian Disorders,MESH:D020734,0,,1,SNCA
+PML body,GO:0016605,Parkinson Disease,MESH:D010300,0,,2,PARK7|PPARGC1A
+PML body,GO:0016605,"Parkinson Disease 7, Autosomal Recessive Early-Onset",MESH:C565238,0,,1,PARK7
+PML body,GO:0016605,Parkinsonian Disorders,MESH:D020734,0,,1,PARK7
+postsynapse,GO:0098794,Parkinson Disease,MESH:D010300,0,,13,BDNF|CNTNAP2|IGF1R|LRRK2|MAP2|PRKN|RPL14|RPL23A|RPL6|RPS8|SLC18A2|SNCA|VPS35
+postsynapse,GO:0098794,PARKINSON DISEASE 17,OMIM:614203,0,,1,VPS35
+postsynapse,GO:0098794,"PARKINSON DISEASE 18, AUTOSOMAL DOMINANT, SUSCEPTIBILITY TO",OMIM:614251,0,,1,EIF4G1
+postsynapse,GO:0098794,"PARKINSON DISEASE 1, AUTOSOMAL DOMINANT",OMIM:168601,0,,1,SNCA
+postsynapse,GO:0098794,"Parkinson Disease 4, Autosomal Dominant Lewy Body",MESH:C565324,0,,1,SNCA
+postsynapse,GO:0098794,"PARKINSON DISEASE 8, AUTOSOMAL DOMINANT",OMIM:607060,0,,1,LRRK2
+postsynapse,GO:0098794,"Parkinson Disease, Secondary",MESH:D010302,0,,4,PRKN|SHH|SLC18A2|SNCA
+postsynapse,GO:0098794,Parkinsonian Disorders,MESH:D020734,0,,5,ATP1A3|LRRK2|PRKN|SLC18A2|SNCA
+postsynaptic cytosol,GO:0099524,Parkinsonian Disorders,MESH:D020734,0,,1,PRKCD
+postsynaptic density,GO:0014069,Parkinson Disease,MESH:D010300,0,,8,DNM1L|MAP2|MAPT|NOS1|PRKN|RPL14|RPL6|VPS35
+postsynaptic density,GO:0014069,PARKINSON DISEASE 17,OMIM:614203,0,,1,VPS35
+postsynaptic density,GO:0014069,"PARKINSON DISEASE 19A, JUVENILE-ONSET",OMIM:615528,0,,1,DNAJC6
+postsynaptic density,GO:0014069,"PARKINSON DISEASE, LATE-ONSET",OMIM:168600,0,,1,MAPT
+postsynaptic density,GO:0014069,"Parkinson Disease, Secondary",MESH:D010302,0,,1,PRKN
+postsynaptic density,GO:0014069,Parkinsonian Disorders,MESH:D020734,0,,2,MAPT|PRKN
+"postsynaptic density, intracellular component",GO:0099092,Parkinson Disease,MESH:D010300,0,,1,NOS1
+"postsynaptic density, intracellular component",GO:0099092,Parkinsonian Disorders,MESH:D020734,0,,1,GAPDH
+postsynaptic membrane,GO:0045211,Parkinson Disease,MESH:D010300,0,,4,DRD1|DRD2|KCNJ4|SLC6A3
+postsynaptic membrane,GO:0045211,"Parkinson Disease, Secondary",MESH:D010302,0,,1,CNR2
+postsynaptic membrane,GO:0045211,Parkinsonian Disorders,MESH:D020734,0,,1,DRD2
+postsynaptic membrane,GO:0045211,"Parkinsonism-Dystonia, Infantile",MESH:C567730,0,,1,SLC6A3
+postsynaptic membrane,GO:0045211,"PARKINSONISM WITH SPASTICITY, X-LINKED",OMIM:300911,0,,1,ATP6AP2
+"postsynaptic specialization, intracellular component",GO:0099091,Parkinson Disease,MESH:D010300,0,,1,NOS1
+presynapse,GO:0098793,Parkinson Disease,MESH:D010300,1,Methamphetamine,8,CNTNAP2|GAK|PRKN|RPL14|RPL23A|RPL6|SNCA|VPS35
+presynapse,GO:0098793,PARKINSON DISEASE 17,OMIM:614203,0,,1,VPS35
+presynapse,GO:0098793,"PARKINSON DISEASE 1, AUTOSOMAL DOMINANT",OMIM:168601,0,,1,SNCA
+presynapse,GO:0098793,"PARKINSON DISEASE 20, EARLY-ONSET",OMIM:615530,0,,1,SYNJ1
+presynapse,GO:0098793,"Parkinson Disease 4, Autosomal Dominant Lewy Body",MESH:C565324,0,,1,SNCA
+presynapse,GO:0098793,"Parkinson Disease, Secondary",MESH:D010302,1,Methamphetamine,3,PRKN|SHH|SNCA
+presynapse,GO:0098793,Parkinsonian Disorders,MESH:D020734,0,,2,PRKN|SNCA
+presynaptic active zone,GO:0048786,Parkinson Disease,MESH:D010300,0,,1,VPS35
+presynaptic active zone,GO:0048786,PARKINSON DISEASE 17,OMIM:614203,0,,1,VPS35
+presynaptic active zone membrane,GO:0048787,Parkinson Disease,MESH:D010300,0,,1,CNTNAP2
+presynaptic cytosol,GO:0099523,Parkinson Disease,MESH:D010300,0,,1,LRRK2
+presynaptic cytosol,GO:0099523,"PARKINSON DISEASE 8, AUTOSOMAL DOMINANT",OMIM:607060,0,,1,LRRK2
+presynaptic cytosol,GO:0099523,Parkinsonian Disorders,MESH:D020734,0,,1,LRRK2
+presynaptic endocytic zone,GO:0098833,Parkinson Disease,MESH:D010300,0,,1,VPS35
+presynaptic endocytic zone,GO:0098833,PARKINSON DISEASE 17,OMIM:614203,0,,1,VPS35
+presynaptic endocytic zone membrane,GO:0098835,Parkinson Disease,MESH:D010300,0,,1,DNM1L
+presynaptic membrane,GO:0042734,Parkinson Disease,MESH:D010300,0,,4,CNTNAP2|DRD1|DRD2|SLC6A3
+presynaptic membrane,GO:0042734,"PARKINSON DISEASE, LATE-ONSET",OMIM:168600,0,,1,SNCAIP
+presynaptic membrane,GO:0042734,Parkinsonian Disorders,MESH:D020734,0,,2,ATP1A3|DRD2
+presynaptic membrane,GO:0042734,"Parkinsonism-Dystonia, Infantile",MESH:C567730,0,,1,SLC6A3
+primary dendrite,GO:0150001,Parkinson Disease,MESH:D010300,0,,1,MAP2
+pronucleus,GO:0045120,"PARKINSON DISEASE, LATE-ONSET",OMIM:168600,0,,1,TBP
+proteasome core complex,GO:0005839,Parkinsonian Disorders,MESH:D020734,1,Curcumin,0,
+protein-containing complex,GO:0032991,Parkinson Disease,MESH:D010300,0,,11,DNM1L|GSTM1|GSTP1|HSPA1A|MAP2|MAP3K5|NOS1|PRKN|SNCA|SOD1|TNF
+protein-containing complex,GO:0032991,Parkinson Disease 11,MESH:C564345,0,,1,GIGYF2
+protein-containing complex,GO:0032991,"PARKINSON DISEASE 1, AUTOSOMAL DOMINANT",OMIM:168601,0,,1,SNCA
+protein-containing complex,GO:0032991,"PARKINSON DISEASE 20, EARLY-ONSET",OMIM:615530,0,,1,SYNJ1
+protein-containing complex,GO:0032991,"Parkinson Disease 4, Autosomal Dominant Lewy Body",MESH:C565324,0,,1,SNCA
+protein-containing complex,GO:0032991,"PARKINSON DISEASE, LATE-ONSET",OMIM:168600,0,,2,NR4A2|TBP
+protein-containing complex,GO:0032991,"Parkinson Disease, Secondary",MESH:D010302,0,,3,PRKN|SNCA|TFAM
+protein-containing complex,GO:0032991,Parkinsonian Disorders,MESH:D020734,0,,6,ATP1A3|DCTN1|PARP1|POLG|PRKN|SNCA
+protein-DNA complex,GO:0032993,Parkinsonian Disorders,MESH:D020734,0,,1,PARP1
+protein kinase complex,GO:1902911,Parkinson Disease,MESH:D010300,0,,2,IGF1R|MAP3K5
+proton-transporting ATP synthase complex,GO:0045259,Parkinson Disease,MESH:D010300,0,,1,ATPSYNBETA
+"proton-transporting ATP synthase complex, catalytic core F(1)",GO:0045261,Parkinson Disease,MESH:D010300,0,,1,ATPSYNBETA
+proton-transporting V-type ATPase complex,GO:0033176,"PARKINSONISM WITH SPASTICITY, X-LINKED",OMIM:300911,0,,1,ATP6AP2
+proximal dendrite,GO:1990635,Parkinson Disease,MESH:D010300,0,,1,MAP2
+proximal dendrite,GO:1990635,Parkinson Disease 11,MESH:C564345,0,,1,GIGYF2
+proximal neuron projection,GO:1990769,Parkinson Disease,MESH:D010300,0,,1,MAP2
+pseudopodium,GO:0031143,Parkinson Disease,MESH:D010300,2,Copper|Manganese,0,
+pseudopodium,GO:0031143,"PARKINSON DISEASE 14, AUTOSOMAL RECESSIVE",OMIM:612953,0,,1,PLA2G6
+pseudopodium,GO:0031143,"Parkinson Disease, Secondary",MESH:D010302,1,Manganese,0,
+pseudopodium,GO:0031143,Parkinsonian Disorders,MESH:D020734,2,Manganese|manganese chloride,0,
+receptor complex,GO:0043235,Parkinson Disease,MESH:D010300,0,,3,GDNF|IGF1R|INSR
+receptor complex,GO:0043235,"Parkinson Disease, Secondary",MESH:D010302,0,,1,GDNF
+receptor complex,GO:0043235,Parkinsonian Disorders,MESH:D020734,0,,1,GDNF
+recycling endosome,GO:0055037,Parkinson Disease,MESH:D010300,0,,6,HFE|KCNJ4|RDGA|SLC30A10|TMEM230|TNF
+recycling endosome,GO:0055037,Parkinsonian Disorders,MESH:D020734,0,,1,SLC30A10
+recycling endosome membrane,GO:0055038,Parkinson Disease,MESH:D010300,0,,2,INSR|SLC30A10
+recycling endosome membrane,GO:0055038,Parkinsonian Disorders,MESH:D020734,0,,1,SLC30A10
+"retromer, cargo-selective complex",GO:0030906,Parkinson Disease,MESH:D010300,0,,1,VPS35
+"retromer, cargo-selective complex",GO:0030906,PARKINSON DISEASE 17,OMIM:614203,0,,1,VPS35
+retromer complex,GO:0030904,Parkinson Disease,MESH:D010300,0,,1,VPS35
+retromer complex,GO:0030904,PARKINSON DISEASE 17,OMIM:614203,0,,1,VPS35
+retromer complex,GO:0030904,Parkinsonian Disorders,MESH:D020734,0,,1,DCTN1
+rhabdomere,GO:0016028,Parkinson Disease,MESH:D010300,0,,1,CHP
+rhabdomere microvillus,GO:0035996,Parkinson Disease,MESH:D010300,0,,1,CHP
+ribonucleoprotein complex,GO:1990904,Parkinson Disease,MESH:D010300,0,,6,HSPA1A|LRRK2|RPL14|RPL23A|RPL6|RPS8
+ribonucleoprotein complex,GO:1990904,"PARKINSON DISEASE 8, AUTOSOMAL DOMINANT",OMIM:607060,0,,1,LRRK2
+ribonucleoprotein complex,GO:1990904,"PARKINSON DISEASE, LATE-ONSET",OMIM:168600,0,,1,ATXN2
+ribonucleoprotein complex,GO:1990904,Parkinsonian Disorders,MESH:D020734,0,,2,GAPDH|LRRK2
+ribosomal subunit,GO:0044391,Parkinson Disease,MESH:D010300,0,,1,RPL23A
+ribosome,GO:0005840,Parkinson Disease,MESH:D010300,0,,8,CNTNAP2|NQO1|PINK1|RPL14|RPL23A|RPL6|RPS8|SNCA
+ribosome,GO:0005840,"PARKINSON DISEASE 18, AUTOSOMAL DOMINANT, SUSCEPTIBILITY TO",OMIM:614251,0,,1,EIF4G1
+ribosome,GO:0005840,"PARKINSON DISEASE 1, AUTOSOMAL DOMINANT",OMIM:168601,0,,1,SNCA
+ribosome,GO:0005840,"Parkinson Disease 4, Autosomal Dominant Lewy Body",MESH:C565324,0,,1,SNCA
+ribosome,GO:0005840,"Parkinson Disease 6, Autosomal Recessive Early-Onset",MESH:C565276,0,,1,PINK1
+ribosome,GO:0005840,"Parkinson Disease, Secondary",MESH:D010302,0,,1,SNCA
+ribosome,GO:0005840,Parkinsonian Disorders,MESH:D020734,0,,2,PINK1|SNCA
+RISC complex,GO:0016442,Parkinson Disease,MESH:D010300,0,,1,MIR181C
+RISC complex,GO:0016442,Parkinsonian Disorders,MESH:D020734,0,,1,PRKRA
+RISC-loading complex,GO:0070578,Parkinsonian Disorders,MESH:D020734,0,,1,PRKRA
+RNA polymerase I transcription regulator complex,GO:0000120,"PARKINSON DISEASE, LATE-ONSET",OMIM:168600,0,,1,TBP
+RNA polymerase transcription factor SL1 complex,GO:0005668,"PARKINSON DISEASE, LATE-ONSET",OMIM:168600,0,,1,TBP
+rough endoplasmic reticulum,GO:0005791,Parkinson Disease,MESH:D010300,1,"Water Pollutants, Chemical",2,MTA1|RPL6
+rough endoplasmic reticulum,GO:0005791,"Parkinson Disease, Secondary",MESH:D010302,1,Carbon Monoxide,0,
+rough endoplasmic reticulum lumen,GO:0048237,Parkinson Disease,MESH:D010300,0,,1,EDN1
+ruffle,GO:0001726,AMYOTROPHIC LATERAL SCLEROSIS-PARKINSONISM/DEMENTIA COMPLEX 1,OMIM:105500,0,,1,TRPM7
+ruffle,GO:0001726,Parkinson Disease,MESH:D010300,0,,1,AIF1
+ruffle membrane,GO:0032587,Parkinson Disease,MESH:D010300,0,,2,AIF1|MAP2
+SAGA-type complex,GO:0070461,Parkinson Disease,MESH:D010300,0,,1,MAP2
+sarcolemma,GO:0042383,Parkinson Disease,MESH:D010300,0,,2,NOS1|SLC38A2
+sarcolemma,GO:0042383,Parkinsonian Disorders,MESH:D020734,0,,1,ATP1A3
+sarcoplasmic reticulum,GO:0016529,Parkinson Disease,MESH:D010300,0,,1,NOS1
+sarcoplasmic reticulum membrane,GO:0033017,Parkinson Disease,MESH:D010300,0,,1,NOS1
+Schaffer collateral - CA1 synapse,GO:0098685,"PARKINSON DISEASE 20, EARLY-ONSET",OMIM:615530,0,,1,SYNJ1
+Schmidt-Lanterman incisure,GO:0043220,Parkinson Disease,MESH:D010300,0,,1,MAG
+secretory granule,GO:0030141,Parkinson Disease,MESH:D010300,0,,4,BDNF|NOS1|SOD1|TNF
+secretory granule,GO:0030141,Parkinsonian Disorders,MESH:D020734,0,,1,PRL
+secretory granule lumen,GO:0034774,Parkinson Disease,MESH:D010300,0,,2,GSTP1|INS
+secretory granule membrane,GO:0030667,Parkinson Disease,MESH:D010300,0,,2,IGF2R|SLC18A2
+secretory granule membrane,GO:0030667,"Parkinson Disease, Secondary",MESH:D010302,0,,1,SLC18A2
+secretory granule membrane,GO:0030667,Parkinsonian Disorders,MESH:D020734,0,,1,SLC18A2
+secretory vesicle,GO:0099503,Parkinson Disease,MESH:D010300,0,,1,DNM1L
+serine-type endopeptidase complex,GO:1905370,Parkinson Disease 13,MESH:C565204,0,,1,HTRA2
+serine-type endopeptidase complex,GO:1905370,Parkinsonian Disorders,MESH:D020734,0,,1,HTRA2
+side of membrane,GO:0098552,Parkinson Disease,MESH:D010300,0,,2,BST1|CEACAM6
+site of DNA damage,GO:0090734,Parkinsonian Disorders,MESH:D020734,0,,1,PARP1
+site of double-strand break,GO:0035861,Parkinsonian Disorders,MESH:D020734,1,Curcumin,1,PARP1
+small-subunit processome,GO:0032040,Parkinson Disease,MESH:D010300,0,,1,RPS8
+small-subunit processome,GO:0032040,Parkinsonian Disorders,MESH:D020734,0,,1,DCTN1
+smooth endoplasmic reticulum,GO:0005790,Parkinson Disease,MESH:D010300,0,,2,RTNL1|TH
+smooth endoplasmic reticulum,GO:0005790,Parkinsonian Disorders,MESH:D020734,0,,1,TH
+sodium:potassium-exchanging ATPase complex,GO:0005890,Parkinsonian Disorders,MESH:D020734,0,,1,ATP1A3
+somatodendritic compartment,GO:0036477,Parkinson Disease,MESH:D010300,0,,1,MAPT
+somatodendritic compartment,GO:0036477,"PARKINSON DISEASE, LATE-ONSET",OMIM:168600,0,,1,MAPT
+somatodendritic compartment,GO:0036477,Parkinsonian Disorders,MESH:D020734,0,,1,MAPT
+specific granule lumen,GO:0035580,Parkinson Disease,MESH:D010300,0,,1,DEFA4
+specific granule membrane,GO:0035579,Parkinson Disease,MESH:D010300,0,,2,BST1|TRPM2
+sperm flagellum,GO:0036126,Parkinson Disease,MESH:D010300,1,Chlorpyrifos,1,DRD2
+sperm flagellum,GO:0036126,Parkinsonian Disorders,MESH:D020734,0,,1,DRD2
+sperm head,GO:0061827,Parkinson Disease,MESH:D010300,1,Chlorpyrifos,1,PARK7
+sperm head,GO:0061827,"Parkinson Disease 7, Autosomal Recessive Early-Onset",MESH:C565238,0,,1,PARK7
+sperm head,GO:0061827,Parkinsonian Disorders,MESH:D020734,0,,1,PARK7
+sperm midpiece,GO:0097225,Parkinson Disease,MESH:D010300,1,Chlorpyrifos,0,
+spherical high-density lipoprotein particle,GO:0034366,"Parkinson Disease, Secondary",MESH:D010302,0,,1,PON1
+spindle,GO:0005819,Parkinsonian Disorders,MESH:D020734,0,,1,DCTN1
+spindle pole,GO:0000922,Parkinsonian Disorders,MESH:D020734,0,,1,DCTN1
+striated muscle thin filament,GO:0005865,Parkinson Disease,MESH:D010300,0,,1,UP
+subsynaptic reticulum,GO:0071212,Parkinson Disease,MESH:D010300,0,,1,VPS35
+subsynaptic reticulum,GO:0071212,PARKINSON DISEASE 17,OMIM:614203,0,,1,VPS35
+supramolecular fiber,GO:0099512,Parkinson Disease,MESH:D010300,0,,1,SNCA
+supramolecular fiber,GO:0099512,"PARKINSON DISEASE 1, AUTOSOMAL DOMINANT",OMIM:168601,0,,1,SNCA
+supramolecular fiber,GO:0099512,"Parkinson Disease 4, Autosomal Dominant Lewy Body",MESH:C565324,0,,1,SNCA
+supramolecular fiber,GO:0099512,"Parkinson Disease, Secondary",MESH:D010302,0,,1,SNCA
+supramolecular fiber,GO:0099512,Parkinsonian Disorders,MESH:D020734,0,,1,SNCA
+synapse,GO:0045202,Parkinson Disease,MESH:D010300,0,,14,CNTNAP2|DNM1L|DRD2|FGB|LRRK2|NOS1|NQO1|PRKN|RPL14|RPL23A|RPL6|SNCA|TMEM230|VPS35
+synapse,GO:0045202,PARKINSON DISEASE 17,OMIM:614203,0,,1,VPS35
+synapse,GO:0045202,"PARKINSON DISEASE 19A, JUVENILE-ONSET",OMIM:615528,0,,1,DNAJC6
+synapse,GO:0045202,"PARKINSON DISEASE 1, AUTOSOMAL DOMINANT",OMIM:168601,0,,1,SNCA
+synapse,GO:0045202,"PARKINSON DISEASE 20, EARLY-ONSET",OMIM:615530,0,,1,SYNJ1
+synapse,GO:0045202,"Parkinson Disease 4, Autosomal Dominant Lewy Body",MESH:C565324,0,,1,SNCA
+synapse,GO:0045202,"PARKINSON DISEASE 8, AUTOSOMAL DOMINANT",OMIM:607060,0,,1,LRRK2
+synapse,GO:0045202,"PARKINSON DISEASE, LATE-ONSET",OMIM:168600,0,,1,ATXN3
+synapse,GO:0045202,"Parkinson Disease, Secondary",MESH:D010302,0,,3,CNR2|PRKN|SNCA
+synapse,GO:0045202,Parkinsonian Disorders,MESH:D020734,1,Curcumin,7,ALDH1A1|ATP1A3|DRD2|LRRK2|PDYN|PRKN|SNCA
+synaptic cleft,GO:0043083,Parkinson Disease,MESH:D010300,1,Atrazine,0,
+synaptic cleft,GO:0043083,"Parkinson Disease, Secondary",MESH:D010302,1,Atrazine,0,
+synaptic membrane,GO:0097060,Parkinson Disease,MESH:D010300,0,,2,CNTNAP2|ENO2
+synaptic membrane,GO:0097060,"PARKINSON DISEASE 20, EARLY-ONSET",OMIM:615530,0,,1,SYNJ1
+synaptic membrane,GO:0097060,Parkinsonian Disorders,MESH:D020734,0,,1,PNOC
+synaptic vesicle,GO:0008021,Parkinson Disease,MESH:D010300,0,,10,BDNF|DDC|LRRK2|NGF|PARK7|PRKN|SLC18A2|SNCA|TH|TMEM230
+synaptic vesicle,GO:0008021,"PARKINSON DISEASE 1, AUTOSOMAL DOMINANT",OMIM:168601,0,,1,SNCA
+synaptic vesicle,GO:0008021,"Parkinson Disease 4, Autosomal Dominant Lewy Body",MESH:C565324,0,,1,SNCA
+synaptic vesicle,GO:0008021,"Parkinson Disease 7, Autosomal Recessive Early-Onset",MESH:C565238,0,,1,PARK7
+synaptic vesicle,GO:0008021,"PARKINSON DISEASE 8, AUTOSOMAL DOMINANT",OMIM:607060,0,,1,LRRK2
+synaptic vesicle,GO:0008021,"PARKINSON DISEASE, LATE-ONSET",OMIM:168600,0,,1,SNCAIP
+synaptic vesicle,GO:0008021,"Parkinson Disease, Secondary",MESH:D010302,0,,4,PRKN|SHH|SLC18A2|SNCA
+synaptic vesicle,GO:0008021,Parkinsonian Disorders,MESH:D020734,0,,9,DDC|LRRK2|NGF|PARK7|PDYN|PRKN|SLC18A2|SNCA|TH
+synaptic vesicle membrane,GO:0030672,AMYOTROPHIC LATERAL SCLEROSIS-PARKINSONISM/DEMENTIA COMPLEX 1,OMIM:105500,0,,1,TRPM7
+synaptic vesicle membrane,GO:0030672,Parkinson Disease,MESH:D010300,0,,7,DNM1L|DRD2|LRRK2|PRKN|SLC18A2|SNCA|TMEM230
+synaptic vesicle membrane,GO:0030672,"PARKINSON DISEASE 1, AUTOSOMAL DOMINANT",OMIM:168601,0,,1,SNCA
+synaptic vesicle membrane,GO:0030672,"Parkinson Disease 4, Autosomal Dominant Lewy Body",MESH:C565324,0,,1,SNCA
+synaptic vesicle membrane,GO:0030672,"PARKINSON DISEASE 8, AUTOSOMAL DOMINANT",OMIM:607060,0,,1,LRRK2
+synaptic vesicle membrane,GO:0030672,"Parkinson Disease, Secondary",MESH:D010302,0,,3,PRKN|SLC18A2|SNCA
+synaptic vesicle membrane,GO:0030672,Parkinsonian Disorders,MESH:D020734,0,,6,DOP1R2|DRD2|LRRK2|PRKN|SLC18A2|SNCA
+synaptic vesicle membrane,GO:0030672,"PARKINSONISM WITH SPASTICITY, X-LINKED",OMIM:300911,0,,1,ATP6AP2
+terminal bouton,GO:0043195,Parkinson Disease,MESH:D010300,0,,7,BDNF|LRRK2|PRKN|SLC18A2|SNCA|TH|VPS35
+terminal bouton,GO:0043195,PARKINSON DISEASE 17,OMIM:614203,0,,1,VPS35
+terminal bouton,GO:0043195,"PARKINSON DISEASE 1, AUTOSOMAL DOMINANT",OMIM:168601,0,,1,SNCA
+terminal bouton,GO:0043195,"PARKINSON DISEASE 20, EARLY-ONSET",OMIM:615530,0,,1,SYNJ1
+terminal bouton,GO:0043195,"Parkinson Disease 4, Autosomal Dominant Lewy Body",MESH:C565324,0,,1,SNCA
+terminal bouton,GO:0043195,"PARKINSON DISEASE 8, AUTOSOMAL DOMINANT",OMIM:607060,0,,1,LRRK2
+terminal bouton,GO:0043195,"Parkinson Disease, Secondary",MESH:D010302,0,,3,PRKN|SLC18A2|SNCA
+terminal bouton,GO:0043195,Parkinsonian Disorders,MESH:D020734,0,,6,LRRK2|POLG|PRKN|SLC18A2|SNCA|TH
+terminal web,GO:1990357,Parkinson Disease,MESH:D010300,0,,1,HFE
+tertiary granule membrane,GO:0070821,Parkinson Disease,MESH:D010300,0,,1,TRPM2
+tertiary granule membrane,GO:0070821,"PARKINSONISM WITH SPASTICITY, X-LINKED",OMIM:300911,0,,1,ATP6AP2
+TIM23 mitochondrial import inner membrane translocase complex,GO:0005744,Parkinson Disease,MESH:D010300,0,,1,HSPA9
+TRAF2-GSTP1 complex,GO:0097057,Parkinson Disease,MESH:D010300,0,,1,GSTP1
+transcription factor TFIIA complex,GO:0005672,"PARKINSON DISEASE, LATE-ONSET",OMIM:168600,0,,1,TBP
+transcription factor TFIID complex,GO:0005669,"PARKINSON DISEASE, LATE-ONSET",OMIM:168600,0,,1,TBP
+transcription factor TFIIIB complex,GO:0000126,"PARKINSON DISEASE, LATE-ONSET",OMIM:168600,0,,1,TBP
+transcription regulator complex,GO:0005667,"PARKINSON DISEASE, LATE-ONSET",OMIM:168600,0,,1,NR4A2
+transcription regulator complex,GO:0005667,Parkinsonian Disorders,MESH:D020734,0,,1,PARP1
+trans-Golgi network,GO:0005802,Parkinson Disease,MESH:D010300,0,,5,GBA1|IGF2R|LRRK2|RAB32|TMEM230
+trans-Golgi network,GO:0005802,"PARKINSON DISEASE 8, AUTOSOMAL DOMINANT",OMIM:607060,0,,1,LRRK2
+trans-Golgi network,GO:0005802,"PARKINSON DISEASE, LATE-ONSET",OMIM:168600,0,,2,ATXN2|GBA1
+trans-Golgi network,GO:0005802,Parkinsonian Disorders,MESH:D020734,0,,2,GBA1|LRRK2
+trans-Golgi network membrane,GO:0032588,Parkinson Disease,MESH:D010300,0,,3,HLA-DRA|HLA-DRB5|IGF2R
+trans-Golgi network transport vesicle,GO:0030140,Parkinson Disease,MESH:D010300,0,,1,IGF2R
+transport vesicle,GO:0030133,Parkinson Disease,MESH:D010300,0,,5,ATP13A2|DEFA4|EDN1|IGF2R|INS
+transport vesicle,GO:0030133,"Parkinson Disease, Secondary",MESH:D010302,0,,1,ATP13A2
+transport vesicle,GO:0030133,Parkinsonian Disorders,MESH:D020734,0,,1,ATP13A2
+transport vesicle membrane,GO:0030658,Parkinson Disease,MESH:D010300,0,,2,HLA-DRA|HLA-DRB5
+troponin complex,GO:0005861,Parkinson Disease,MESH:D010300,0,,1,UP
+T-tubule,GO:0030315,Parkinson Disease,MESH:D010300,0,,2,IGF1R|NOS1
+tubular endosome,GO:0097422,Parkinson Disease,MESH:D010300,0,,1,VPS35
+tubular endosome,GO:0097422,PARKINSON DISEASE 17,OMIM:614203,0,,1,VPS35
+tubulin complex,GO:0045298,Parkinson Disease,MESH:D010300,1,Particulate Matter,1,MAPT
+tubulin complex,GO:0045298,"PARKINSON DISEASE, LATE-ONSET",OMIM:168600,0,,1,MAPT
+tubulin complex,GO:0045298,Parkinsonian Disorders,MESH:D020734,1,Particulate Matter,1,MAPT
+tubulobulbar complex,GO:0036284,Parkinson Disease,MESH:D010300,1,Estradiol,0,
+type III intermediate filament,GO:0045098,Parkinson Disease,MESH:D010300,0,,1,GFAP
+ubiquitin ligase complex,GO:0000151,Parkinson Disease,MESH:D010300,0,,1,PRKN
+ubiquitin ligase complex,GO:0000151,"Parkinson Disease, Secondary",MESH:D010302,0,,1,PRKN
+ubiquitin ligase complex,GO:0000151,Parkinsonian Disorders,MESH:D020734,0,,1,PRKN
+uropod,GO:0001931,Parkinson Disease,MESH:D010300,0,,1,BST1
+vacuolar proton-transporting V-type ATPase complex,GO:0016471,"PARKINSONISM WITH SPASTICITY, X-LINKED",OMIM:300911,0,,1,ATP6AP2
+"vacuolar proton-transporting V-type ATPase, V0 domain",GO:0000220,"PARKINSONISM WITH SPASTICITY, X-LINKED",OMIM:300911,0,,1,ATP6AP2
+varicosity,GO:0043196,AMYOTROPHIC LATERAL SCLEROSIS-PARKINSONISM/DEMENTIA COMPLEX 1,OMIM:105500,0,,1,TRPM7
+vesicle,GO:0031982,Parkinson Disease,MESH:D010300,0,,4,ATP13A2|GAK|HSPA1A|RAB32
+vesicle,GO:0031982,Parkinson Disease 11,MESH:C564345,0,,1,GIGYF2
+vesicle,GO:0031982,"PARKINSON DISEASE 19A, JUVENILE-ONSET",OMIM:615528,0,,1,DNAJC6
+vesicle,GO:0031982,"Parkinson Disease, Secondary",MESH:D010302,0,,1,ATP13A2
+vesicle,GO:0031982,Parkinsonian Disorders,MESH:D020734,0,,1,ATP13A2
+vesicle,GO:0031982,"Parkinsonism, early onset with mental retardation",MESH:C537179,0,,1,RAB39B
+vesicle membrane,GO:0012506,Parkinson Disease,MESH:D010300,0,,1,ATP13A2
+vesicle membrane,GO:0012506,"PARKINSON DISEASE 20, EARLY-ONSET",OMIM:615530,0,,1,SYNJ1
+vesicle membrane,GO:0012506,"Parkinson Disease, Secondary",MESH:D010302,0,,1,ATP13A2
+vesicle membrane,GO:0012506,Parkinsonian Disorders,MESH:D020734,0,,1,ATP13A2
+voltage-gated potassium channel complex,GO:0008076,Parkinson Disease,MESH:D010300,0,,2,CNTNAP2|KCNJ4
+Weibel-Palade body,GO:0033093,Parkinson Disease,MESH:D010300,0,,1,EDN1
+Wnt signalosome,GO:1990909,Parkinson Disease,MESH:D010300,0,,1,LRRK2
+Wnt signalosome,GO:1990909,"PARKINSON DISEASE 8, AUTOSOMAL DOMINANT",OMIM:607060,0,,1,LRRK2
+Wnt signalosome,GO:1990909,Parkinsonian Disorders,MESH:D020734,0,,1,LRRK2
+yolk,GO:0060417,Parkinson Disease,MESH:D010300,0,,1,INSR
+Z disc,GO:0030018,Parkinson Disease,MESH:D010300,0,,3,GPDH1|MLP60A|NOS1
+zona pellucida receptor complex,GO:0002199,Parkinson Disease,MESH:D010300,0,,1,HSPA1A
+zonula adherens,GO:0005915,Parkinson Disease,MESH:D010300,0,,1,NECTIN2
+zymogen granule,GO:0042588,Parkinson Disease,MESH:D010300,0,,1,MTA1
+zymogen granule,GO:0042588,Parkinsonian Disorders,MESH:D020734,1,Plant Preparations,0,

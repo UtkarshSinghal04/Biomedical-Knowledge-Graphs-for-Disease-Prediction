@@ -1,0 +1,1807 @@
+GOName,GOID,DiseaseName,DiseaseID,InferenceChemicalQty,InferenceChemicalNames,InferenceGeneQty,InferenceGeneSymbols
+14-3-3 protein binding,GO:0071889,Parkinson Disease,MESH:D010300,0,,1,DDIT4
+17-beta-hydroxysteroid dehydrogenase (NADP+) activity,GO:0072582,Parkinson Disease,MESH:D010300,1,Eicosapentaenoic Acid,0,
+17-beta-hydroxysteroid dehydrogenase (NADP+) activity,GO:0072582,Parkinsonian Disorders,MESH:D020734,1,Docosahexaenoic Acids,0,
+1-alkyl-2-acetylglycerophosphocholine esterase activity,GO:0003847,"PARKINSON DISEASE 14, AUTOSOMAL RECESSIVE",OMIM:612953,0,,1,PLA2G6
+1-phosphatidylinositol-3-kinase activity,GO:0016303,Parkinson Disease,MESH:D010300,1,1-Methyl-4-phenylpyridinium,0,
+1-phosphatidylinositol-3-kinase activity,GO:0016303,Parkinsonian Disorders,MESH:D020734,1,1-Methyl-4-phenylpyridinium,0,
+2-oxoglutarate-dependent dioxygenase activity,GO:0016706,Parkinsonian Disorders,MESH:D020734,0,,1,PRL
+"3',5'-cyclic-AMP phosphodiesterase activity",GO:0004115,Parkinson Disease,MESH:D010300,1,Atrazine,0,
+"3',5'-cyclic-AMP phosphodiesterase activity",GO:0004115,"Parkinson Disease, Secondary",MESH:D010302,1,Atrazine,0,
+"3',5'-cyclic-AMP phosphodiesterase activity",GO:0004115,Parkinsonian Disorders,MESH:D020734,1,Curcumin,0,
+3'-5' exonuclease activity,GO:0008408,Parkinsonian Disorders,MESH:D020734,0,,1,POLG
+3-beta-hydroxy-delta5-steroid dehydrogenase activity,GO:0003854,"Parkinson Disease, Secondary",MESH:D010302,1,Flurbiprofen,0,
+3-beta-hydroxy-delta5-steroid dehydrogenase activity,GO:0003854,Parkinsonian Disorders,MESH:D020734,2,Curcumin|Indomethacin,0,
+3beta-hydroxysteroid dehydrogenase activity,GO:0102727,"Parkinson Disease, Secondary",MESH:D010302,1,Chlorpromazine,0,
+3beta-hydroxysteroid dehydrogenase activity,GO:0102727,Parkinsonian Disorders,MESH:D020734,4,Chlorpromazine|coenzyme Q10|cypermethrin|mancozeb,0,
+3-chloroallyl aldehyde dehydrogenase activity,GO:0004028,Parkinsonian Disorders,MESH:D020734,0,,2,ALDH1A1|ALDH1A2
+3-deoxyglucosone dehydrogenase activity,GO:0106373,Parkinsonian Disorders,MESH:D020734,0,,1,ALDH1A1
+3-phosphoinositide-dependent protein kinase activity,GO:0004676,AMYOTROPHIC LATERAL SCLEROSIS-PARKINSONISM/DEMENTIA COMPLEX 1,OMIM:105500,0,,1,TRPM7
+3-phosphoinositide-dependent protein kinase activity,GO:0004676,Parkinson Disease,MESH:D010300,0,,3,GAK|LRRK2|PINK1
+3-phosphoinositide-dependent protein kinase activity,GO:0004676,"Parkinson Disease 6, Autosomal Recessive Early-Onset",MESH:C565276,0,,1,PINK1
+3-phosphoinositide-dependent protein kinase activity,GO:0004676,"PARKINSON DISEASE 8, AUTOSOMAL DOMINANT",OMIM:607060,0,,1,LRRK2
+3-phosphoinositide-dependent protein kinase activity,GO:0004676,Parkinsonian Disorders,MESH:D020734,0,,2,LRRK2|PINK1
+3-phosphoinositide-dependent protein kinase binding,GO:0043423,Parkinson Disease,MESH:D010300,0,,1,INSR
+4-nitrophenol 2-monooxygenase activity,GO:0018601,Parkinson Disease,MESH:D010300,0,,1,CYP2E1
+5.8S rRNA binding,GO:1990932,Parkinson Disease,MESH:D010300,0,,1,RPL6
+5-aminolevulinate synthase activity,GO:0003870,Parkinson Disease,MESH:D010300,1,Trichloroethylene,0,
+5-aminolevulinate synthase activity,GO:0003870,"Parkinson Disease, Secondary",MESH:D010302,1,Trichloroethylene,0,
+5'-deoxyribose-5-phosphate lyase activity,GO:0051575,Parkinsonian Disorders,MESH:D020734,0,,1,POLG
+5-hydroxy-L-tryptophan decarboxylase activity,GO:0036467,Parkinson Disease,MESH:D010300,0,,1,DDC
+5-hydroxy-L-tryptophan decarboxylase activity,GO:0036467,Parkinsonian Disorders,MESH:D020734,0,,1,DDC
+5'-nucleotidase activity,GO:0008253,"Parkinson Disease, Secondary",MESH:D010302,4,Benzo(a)pyrene|geraniol|Silymarin|thymoquinone,0,
+5'-nucleotidase activity,GO:0008253,Parkinsonian Disorders,MESH:D020734,2,geraniol|Silymarin,0,
+6-phosphofructo-2-kinase activity,GO:0003873,Parkinson Disease,MESH:D010300,1,Lithium Carbonate,0,
+6-phosphofructo-2-kinase activity,GO:0003873,"Parkinson Disease, Secondary",MESH:D010302,1,Lithium Carbonate,0,
+6-phosphofructokinase activity,GO:0003872,Parkinson Disease,MESH:D010300,1,Lead,0,
+ABC-type oligopeptide transporter activity,GO:0015421,Parkinson Disease,MESH:D010300,0,,1,ABCB1
+ABC-type oligopeptide transporter activity,GO:0015421,"Parkinson Disease, Secondary",MESH:D010302,0,,1,ABCB1
+ABC-type polyamine transporter activity,GO:0015417,Parkinson Disease,MESH:D010300,0,,1,ATP13A2
+ABC-type polyamine transporter activity,GO:0015417,"Parkinson Disease, Secondary",MESH:D010302,0,,1,ATP13A2
+ABC-type polyamine transporter activity,GO:0015417,Parkinsonian Disorders,MESH:D020734,0,,1,ATP13A2
+ABC-type transporter activity,GO:0140359,Parkinson Disease,MESH:D010300,0,,2,ABCB1|RAB32
+ABC-type transporter activity,GO:0140359,"Parkinson Disease, Secondary",MESH:D010302,0,,1,ABCB1
+ABC-type xenobiotic transporter activity,GO:0008559,Parkinson Disease,MESH:D010300,2,Chlorpyrifos|Endosulfan,1,ABCB1
+ABC-type xenobiotic transporter activity,GO:0008559,"Parkinson Disease, Secondary",MESH:D010302,1,Verapamil,1,ABCB1
+ABC-type xenobiotic transporter activity,GO:0008559,Parkinsonian Disorders,MESH:D020734,1,Verapamil,0,
+acetylcholine-gated monoatomic cation-selective channel activity,GO:0022848,"Parkinson Disease, Secondary",MESH:D010302,1,Nicotine,0,
+acetylcholinesterase activity,GO:0003990,Parkinson Disease,MESH:D010300,14,"1-Methyl-4-phenyl-1,2,3,6-tetrahydropyridine|1-Methyl-4-phenylpyridinium|Aluminum|Chlorpyrifos|Hexachlorocyclohexane|Melatonin|Organophosphates|Particulate Matter|Pesticides|Reserpine|Rivastigmine|Rotenone|Vehicle Emissions|Water Pollutants, Chemical",0,
+acetylcholinesterase activity,GO:0003990,"Parkinson Disease, Secondary",MESH:D010302,5,"1-Methyl-4-phenyl-1,2,3,6-tetrahydropyridine|Melatonin|Pesticides|Reserpine|Rotenone",1,BCHE
+acetylcholinesterase activity,GO:0003990,Parkinsonian Disorders,MESH:D020734,9,"1-Methyl-4-phenyl-1,2,3,6-tetrahydropyridine|1-Methyl-4-phenylpyridinium|coenzyme Q10|Melatonin|Particulate Matter|Plant Extracts|Reserpine|Rivastigmine|Rotenone",0,
+acetyl-CoA carboxylase activity,GO:0003989,"Parkinson Disease, Secondary",MESH:D010302,1,Resveratrol,0,
+acetyl-CoA carboxylase activity,GO:0003989,Parkinsonian Disorders,MESH:D020734,1,Resveratrol,0,
+[acetyl-CoA carboxylase] kinase activity,GO:0050405,Parkinson Disease,MESH:D010300,1,Lipopolysaccharides,0,
+[acetyl-CoA carboxylase] kinase activity,GO:0050405,Parkinsonian Disorders,MESH:D020734,1,Lipopolysaccharides,0,
+acidic amino acid transmembrane transporter activity,GO:0015172,Parkinson Disease,MESH:D010300,0,,1,SLC38A2
+acid phosphatase activity,GO:0003993,Parkinson Disease,MESH:D010300,4,Chlorpyrifos|Estradiol|Iron|Lead,0,
+acid phosphatase activity,GO:0003993,"Parkinson Disease, Secondary",MESH:D010302,3,Benzo(a)pyrene|Resveratrol|thymoquinone,0,
+acid phosphatase activity,GO:0003993,Parkinsonian Disorders,MESH:D020734,5,Cadmium|Curcumin|manganese chloride|Plant Extracts|Resveratrol,0,
+aconitate hydratase activity,GO:0003994,Parkinson Disease,MESH:D010300,3,Paraquat|Selegiline|Zinc,0,
+aconitate hydratase activity,GO:0003994,"Parkinson Disease, Secondary",MESH:D010302,1,Paraquat,0,
+aconitate hydratase activity,GO:0003994,Parkinsonian Disorders,MESH:D020734,2,Paraquat|Selegiline,0,
+actin binding,GO:0003779,AMYOTROPHIC LATERAL SCLEROSIS-PARKINSONISM/DEMENTIA COMPLEX 1,OMIM:105500,0,,1,TRPM7
+actin binding,GO:0003779,Parkinson Disease,MESH:D010300,0,,6,KST|LRRK2|MAP2|MAPT|PRKN|SNCA
+actin binding,GO:0003779,"PARKINSON DISEASE 1, AUTOSOMAL DOMINANT",OMIM:168601,0,,1,SNCA
+actin binding,GO:0003779,"Parkinson Disease 4, Autosomal Dominant Lewy Body",MESH:C565324,0,,1,SNCA
+actin binding,GO:0003779,"PARKINSON DISEASE 8, AUTOSOMAL DOMINANT",OMIM:607060,0,,1,LRRK2
+actin binding,GO:0003779,"PARKINSON DISEASE, LATE-ONSET",OMIM:168600,0,,1,MAPT
+actin binding,GO:0003779,"Parkinson Disease, Secondary",MESH:D010302,0,,3,NOS2|PRKN|SNCA
+actin binding,GO:0003779,Parkinsonian Disorders,MESH:D020734,0,,4,LRRK2|MAPT|PRKN|SNCA
+actin filament binding,GO:0051015,Parkinson Disease,MESH:D010300,0,,3,AIF1|KST|PRM
+actin filament binding,GO:0051015,Parkinsonian Disorders,MESH:D020734,1,Procaine,0,
+actinin binding,GO:0042805,Parkinson Disease,MESH:D010300,0,,1,MLP60A
+actin lateral binding,GO:0003786,Parkinson Disease,MESH:D010300,0,,1,KST
+active monoatomic ion transmembrane transporter activity,GO:0022853,"Parkinson Disease, Secondary",MESH:D010302,1,Nicotine,0,
+acyl-L-homoserine-lactone lactonohydrolase activity,GO:0102007,"Parkinson Disease, Secondary",MESH:D010302,0,,1,PON1
+"acyltransferase activity, transferring groups other than amino-acyl groups",GO:0016747,Parkinson Disease,MESH:D010300,0,,1,RDGA
+adenosine deaminase activity,GO:0004000,Parkinson Disease,MESH:D010300,1,Zinc,1,ADARB2
+adenylate cyclase inhibitor activity,GO:0010855,"Parkinson Disease, Secondary",MESH:D010302,0,,1,RGS2
+adenylate kinase activity,GO:0004017,Parkinsonian Disorders,MESH:D020734,1,cypermethrin,0,
+adenyl-nucleotide exchange factor activity,GO:0000774,Parkinson Disease,MESH:D010300,0,,1,BAG5
+ADP binding,GO:0043531,Wolff-Parkinson-White Syndrome,MESH:D014927,0,,1,PRKAG2
+ADP-D-ribose binding,GO:0072570,Parkinson Disease,MESH:D010300,0,,1,TRPM2
+ADP phosphatase activity,GO:0043262,Parkinson Disease,MESH:D010300,1,Caffeine,0,
+ADP-ribose diphosphatase activity,GO:0047631,Parkinson Disease,MESH:D010300,0,,1,TRPM2
+adrenergic receptor activity,GO:0004935,Parkinson Disease,MESH:D010300,1,Chlorpyrifos,0,
+adrenergic receptor activity,GO:0004935,"Parkinson Disease, Secondary",MESH:D010302,1,Nicotine,0,
+adrenergic receptor activity,GO:0004935,Parkinsonian Disorders,MESH:D020734,0,,1,DOP1R2
+alanine:sodium symporter activity,GO:0015655,Parkinson Disease,MESH:D010300,0,,1,SLC38A2
+alcohol dehydrogenase (NAD+) activity,GO:0004022,"PARKINSON DISEASE, LATE-ONSET",OMIM:168600,0,,1,ADH1C
+alcohol dehydrogenase (NAD+) activity,GO:0004022,Parkinsonian Disorders,MESH:D020734,1,Curcumin,0,
+aldehyde dehydrogenase (NAD+) activity,GO:0004029,Parkinson Disease,MESH:D010300,0,,1,ALDH2
+aldehyde dehydrogenase (NAD+) activity,GO:0004029,Parkinsonian Disorders,MESH:D020734,1,Disulfiram,2,ALDH1A1|ALDH1A2
+aldehyde dehydrogenase [NAD(P)+] activity,GO:0004030,Parkinson Disease,MESH:D010300,5,Benomyl|Dieldrin|Maneb|triflumizol|Ziram,1,ALDH2
+aldehyde dehydrogenase [NAD(P)+] activity,GO:0004030,"Parkinson Disease, Secondary",MESH:D010302,3,Dieldrin|Maneb|Ziram,0,
+aldehyde dehydrogenase [NAD(P)+] activity,GO:0004030,Parkinsonian Disorders,MESH:D020734,2,Maneb|Plant Extracts,0,
+alditol:NADP+ 1-oxidoreductase activity,GO:0004032,"Parkinson Disease, Secondary",MESH:D010302,1,Valproic Acid,0,
+alditol:NADP+ 1-oxidoreductase activity,GO:0004032,Parkinsonian Disorders,MESH:D020734,2,Phenol|Valproic Acid,0,
+alkaline phosphatase activity,GO:0004035,Parkinson Disease,MESH:D010300,14,Carbon Tetrachloride|Chlorpyrifos|Coffee|Endosulfan|Estradiol|Homocysteine|Lead|Lipopolysaccharides|Methomyl|pendimethalin|Pioglitazone|Sirolimus|Tea|Zinc,0,
+alkaline phosphatase activity,GO:0004035,"Parkinson Disease, Secondary",MESH:D010302,10,Benzo(a)pyrene|Doxorubicin|Methotrexate|Nicotine|Paroxetine|Resveratrol|Silymarin|thymoquinone|Valproic Acid|Vincristine,0,
+alkaline phosphatase activity,GO:0004035,Parkinsonian Disorders,MESH:D020734,15,Amphotericin B|baicalin|Cadmium|coenzyme Q10|Coffee|Curcumin|cypermethrin|Lipopolysaccharides|manganese chloride|Paroxetine|Plant Extracts|Resveratrol|Silymarin|Valproic Acid|Zidovudine,0,
+alkane 1-monooxygenase activity,GO:0018685,Parkinson Disease,MESH:D010300,1,Dicamba,0,
+alpha1-adrenergic receptor activity,GO:0004937,Parkinsonian Disorders,MESH:D020734,0,,1,DOP1R2
+alpha-2A adrenergic receptor binding,GO:0031694,"PARKINSON DISEASE 5, AUTOSOMAL DOMINANT, SUSCEPTIBILITY TO",OMIM:613643,0,,1,UCHL1
+alpha-amylase activity,GO:0004556,Parkinson Disease,MESH:D010300,1,Ditiocarb,0,
+alpha-amylase activity,GO:0004556,"Parkinson Disease, Secondary",MESH:D010302,2,Ditiocarb|Resveratrol,0,
+alpha-amylase activity,GO:0004556,Parkinsonian Disorders,MESH:D020734,2,Curcumin|Resveratrol,0,
+alpha-mannosidase activity,GO:0004559,Parkinsonian Disorders,MESH:D020734,1,Plant Preparations,0,
+alpha-tubulin binding,GO:0043014,Parkinson Disease,MESH:D010300,0,,2,PPARGC1A|SNCA
+alpha-tubulin binding,GO:0043014,"PARKINSON DISEASE 1, AUTOSOMAL DOMINANT",OMIM:168601,0,,1,SNCA
+alpha-tubulin binding,GO:0043014,"Parkinson Disease 4, Autosomal Dominant Lewy Body",MESH:C565324,0,,1,SNCA
+alpha-tubulin binding,GO:0043014,"Parkinson Disease, Secondary",MESH:D010302,0,,1,SNCA
+alpha-tubulin binding,GO:0043014,Parkinsonian Disorders,MESH:D020734,0,,1,SNCA
+amine binding,GO:0043176,Parkinson Disease,MESH:D010300,0,,1,SLC6A3
+amine binding,GO:0043176,"Parkinsonism-Dystonia, Infantile",MESH:C567730,0,,1,SLC6A3
+amine transmembrane transporter activity,GO:0005275,Parkinson Disease,MESH:D010300,0,,1,SLC18A2
+amine transmembrane transporter activity,GO:0005275,"Parkinson Disease, Secondary",MESH:D010302,0,,1,SLC18A2
+amine transmembrane transporter activity,GO:0005275,Parkinsonian Disorders,MESH:D020734,0,,1,SLC18A2
+amino acid binding,GO:0016597,Parkinson Disease,MESH:D010300,0,,2,DDC|TH
+amino acid binding,GO:0016597,Parkinsonian Disorders,MESH:D020734,0,,2,DDC|TH
+amino acid:sodium symporter activity,GO:0005283,Parkinson Disease,MESH:D010300,0,,1,SLC38A2
+amino acid transmembrane transporter activity,GO:0015171,Parkinson Disease,MESH:D010300,0,,1,SLC38A2
+aminobutyraldehyde dehydrogenase activity,GO:0019145,Parkinsonian Disorders,MESH:D020734,0,,1,ALDH1A1
+aminopeptidase activity,GO:0004177,Parkinson Disease,MESH:D010300,2,Chlorpyrifos|Zinc,0,
+aminopeptidase activity,GO:0004177,"Parkinson Disease, Secondary",MESH:D010302,1,geraniol,0,
+aminopeptidase activity,GO:0004177,Parkinsonian Disorders,MESH:D020734,1,geraniol,0,
+AMP-activated protein kinase activity,GO:0004679,AMYOTROPHIC LATERAL SCLEROSIS-PARKINSONISM/DEMENTIA COMPLEX 1,OMIM:105500,0,,1,TRPM7
+AMP-activated protein kinase activity,GO:0004679,Parkinson Disease,MESH:D010300,7,Caffeine|Carbon Disulfide|Lipopolysaccharides|Oxidopamine|Permethrin|Rotenone|Soot,3,GAK|LRRK2|PINK1
+AMP-activated protein kinase activity,GO:0004679,"Parkinson Disease 6, Autosomal Recessive Early-Onset",MESH:C565276,0,,1,PINK1
+AMP-activated protein kinase activity,GO:0004679,"PARKINSON DISEASE 8, AUTOSOMAL DOMINANT",OMIM:607060,0,,1,LRRK2
+AMP-activated protein kinase activity,GO:0004679,"Parkinson Disease, Secondary",MESH:D010302,6,Doxorubicin|geraniol|Nicotine|Oxidopamine|Resveratrol|Rotenone,0,
+AMP-activated protein kinase activity,GO:0004679,Parkinsonian Disorders,MESH:D020734,7,Carbon Disulfide|geraniol|Lipopolysaccharides|Oxidopamine|Permethrin|Resveratrol|Rotenone,2,LRRK2|PINK1
+AMP-activated protein kinase activity,GO:0004679,Wolff-Parkinson-White Syndrome,MESH:D014927,0,,1,PRKAG2
+AMP binding,GO:0016208,Parkinson Disease,MESH:D010300,0,,1,FBP1
+AMP binding,GO:0016208,Wolff-Parkinson-White Syndrome,MESH:D014927,0,,1,PRKAG2
+amylase activity,GO:0016160,Parkinson Disease,MESH:D010300,1,Lipopolysaccharides,0,
+amylase activity,GO:0016160,Parkinsonian Disorders,MESH:D020734,2,Cadmium|Lipopolysaccharides,0,
+amyloid-beta binding,GO:0001540,Parkinson Disease,MESH:D010300,0,,1,INSR
+amyloid-beta binding,GO:0001540,"Parkinson Disease, Secondary",MESH:D010302,0,,1,BCHE
+amyloid-beta binding,GO:0001540,Parkinsonian Disorders,MESH:D020734,0,,1,ATP1A3
+"anandamide 11,12 epoxidase activity",GO:0062188,Parkinson Disease,MESH:D010300,0,,1,CYP2D6
+"anandamide 14,15 epoxidase activity",GO:0062189,Parkinson Disease,MESH:D010300,0,,1,CYP2D6
+"anandamide 8,9 epoxidase activity",GO:0062187,Parkinson Disease,MESH:D010300,0,,1,CYP2D6
+androgen binding,GO:0005497,Parkinsonian Disorders,MESH:D020734,0,,1,ALDH1A1
+angiotensin receptor binding,GO:0031701,Parkinson Disease,MESH:D010300,0,,1,DRD1
+antioxidant activity,GO:0016209,Parkinson Disease,MESH:D010300,5,Carbon Tetrachloride|Chlorpyrifos|Melatonin|Particulate Matter|Pentoxifylline,2,SOD1|SOD2
+antioxidant activity,GO:0016209,"Parkinson Disease, Secondary",MESH:D010302,2,Doxorubicin|Melatonin,0,
+antioxidant activity,GO:0016209,Parkinsonian Disorders,MESH:D020734,5,coenzyme Q10|Curcumin|Malondialdehyde|Melatonin|Particulate Matter,0,
+antioxidant activity,GO:0016209,Wolff-Parkinson-White Syndrome,MESH:D014927,1,Isoproterenol,0,
+AP-1 adaptor complex binding,GO:0035650,Parkinson Disease,MESH:D010300,0,,1,RAB32
+AP-2 adaptor complex binding,GO:0035612,Parkinson Disease,MESH:D010300,0,,1,GAK
+AP-3 adaptor complex binding,GO:0035651,Parkinson Disease,MESH:D010300,0,,1,RAB32
+apolipoprotein binding,GO:0034185,Parkinson Disease,MESH:D010300,0,,1,MAPT
+apolipoprotein binding,GO:0034185,"PARKINSON DISEASE, LATE-ONSET",OMIM:168600,0,,1,MAPT
+apolipoprotein binding,GO:0034185,Parkinsonian Disorders,MESH:D020734,0,,1,MAPT
+arachidonic acid binding,GO:0050544,Parkinson Disease,MESH:D010300,0,,1,SNCA
+arachidonic acid binding,GO:0050544,"PARKINSON DISEASE 1, AUTOSOMAL DOMINANT",OMIM:168601,0,,1,SNCA
+arachidonic acid binding,GO:0050544,"Parkinson Disease 4, Autosomal Dominant Lewy Body",MESH:C565324,0,,1,SNCA
+arachidonic acid binding,GO:0050544,"Parkinson Disease, Secondary",MESH:D010302,0,,1,SNCA
+arachidonic acid binding,GO:0050544,Parkinsonian Disorders,MESH:D020734,0,,1,SNCA
+arachidonic acid epoxygenase activity,GO:0008392,Parkinson Disease,MESH:D010300,0,,1,CYP2E1
+arachidonic acid omega-hydroxylase activity,GO:0052869,Parkinson Disease,MESH:D010300,0,,1,HMOX1
+arginase activity,GO:0004053,Parkinson Disease,MESH:D010300,2,Caffeine|Zinc,0,
+arginase activity,GO:0004053,"Parkinson Disease, Secondary",MESH:D010302,2,Haloperidol|Valproic Acid,0,
+arginase activity,GO:0004053,Parkinsonian Disorders,MESH:D020734,2,Haloperidol|Valproic Acid,0,
+arginine binding,GO:0034618,Parkinson Disease,MESH:D010300,0,,1,NOS1
+arginine binding,GO:0034618,"Parkinson Disease, Secondary",MESH:D010302,0,,1,NOS2
+arginine kinase activity,GO:0004054,Parkinson Disease,MESH:D010300,1,Chlorpyrifos,0,
+argininosuccinate lyase activity,GO:0004056,Parkinsonian Disorders,MESH:D020734,1,Zidovudine,0,
+aromatase activity,GO:0070330,Parkinson Disease,MESH:D010300,0,,1,CYP2E1
+aromatase activity,GO:0070330,"Parkinson Disease, Secondary",MESH:D010302,1,Amlodipine,0,
+aromatase activity,GO:0070330,Parkinsonian Disorders,MESH:D020734,1,Amlodipine,0,
+aromatic-L-amino-acid decarboxylase activity,GO:0004058,Parkinson Disease,MESH:D010300,0,,1,DDC
+aromatic-L-amino-acid decarboxylase activity,GO:0004058,Parkinsonian Disorders,MESH:D020734,0,,1,DDC
+arrestin family protein binding,GO:1990763,Parkinson Disease,MESH:D010300,0,,1,DRD1
+aryldialkylphosphatase activity,GO:0004063,"Parkinson Disease, Secondary",MESH:D010302,1,Valproic Acid,1,PON1
+aryldialkylphosphatase activity,GO:0004063,Parkinsonian Disorders,MESH:D020734,1,Valproic Acid,0,
+arylesterase activity,GO:0004064,Parkinson Disease,MESH:D010300,1,Chlorpyrifos,0,
+arylesterase activity,GO:0004064,"Parkinson Disease, Secondary",MESH:D010302,0,,1,PON1
+arylesterase activity,GO:0004064,Parkinsonian Disorders,MESH:D020734,1,cypermethrin,0,
+aryl hydrocarbon receptor binding,GO:0017162,"PARKINSON DISEASE, LATE-ONSET",OMIM:168600,0,,1,TBP
+aspartic-type endopeptidase activity involved in amyloid precursor protein catabolic process,GO:1902944,"Parkinson Disease, Secondary",MESH:D010302,1,Nicotine,0,
+aspartic-type endopeptidase inhibitor activity,GO:0019828,Parkinsonian Disorders,MESH:D020734,0,,1,GAPDH
+ATP-activated inward rectifier potassium channel activity,GO:0015272,Parkinson Disease,MESH:D010300,1,Zinc,0,
+ATPase binding,GO:0051117,Parkinson Disease,MESH:D010300,0,,2,DRD1|NOS1
+ATPase binding,GO:0051117,"PARKINSON DISEASE, LATE-ONSET",OMIM:168600,0,,1,ATXN3
+ATPase-coupled intramembrane lipid transporter activity,GO:0140326,"Parkinson Disease, Secondary",MESH:D010302,1,Chlorpromazine,0,
+ATPase-coupled intramembrane lipid transporter activity,GO:0140326,Parkinsonian Disorders,MESH:D020734,2,Chlorpromazine|coenzyme Q10,0,
+ATPase-coupled monoatomic cation transmembrane transporter activity,GO:0019829,Parkinson Disease,MESH:D010300,0,,1,ATP13A2
+ATPase-coupled monoatomic cation transmembrane transporter activity,GO:0019829,"Parkinson Disease, Secondary",MESH:D010302,0,,1,ATP13A2
+ATPase-coupled monoatomic cation transmembrane transporter activity,GO:0019829,Parkinsonian Disorders,MESH:D020734,0,,1,ATP13A2
+ATPase-coupled transmembrane transporter activity,GO:0042626,Parkinson Disease,MESH:D010300,0,,2,ABCB1|ATP13A2
+ATPase-coupled transmembrane transporter activity,GO:0042626,"Parkinson Disease, Secondary",MESH:D010302,0,,2,ABCB1|ATP13A2
+ATPase-coupled transmembrane transporter activity,GO:0042626,Parkinsonian Disorders,MESH:D020734,0,,1,ATP13A2
+ATP binding,GO:0005524,AMYOTROPHIC LATERAL SCLEROSIS-PARKINSONISM/DEMENTIA COMPLEX 1,OMIM:105500,0,,1,TRPM7
+ATP binding,GO:0005524,Parkinson Disease,MESH:D010300,0,,15,ABCB1|ATP13A2|ATPSYNBETA|DDC|GAK|HSC70-3|HSPA1A|HSPA9|IGF1R|INSR|LRRK2|MAP3K5|NECTIN2|PINK1|RAB32
+ATP binding,GO:0005524,"PARKINSON DISEASE 18, AUTOSOMAL DOMINANT, SUSCEPTIBILITY TO",OMIM:614251,0,,1,EIF4G1
+ATP binding,GO:0005524,"Parkinson Disease 6, Autosomal Recessive Early-Onset",MESH:C565276,0,,1,PINK1
+ATP binding,GO:0005524,"PARKINSON DISEASE 8, AUTOSOMAL DOMINANT",OMIM:607060,0,,1,LRRK2
+ATP binding,GO:0005524,"Parkinson Disease, Secondary",MESH:D010302,0,,2,ABCB1|ATP13A2
+ATP binding,GO:0005524,Parkinsonian Disorders,MESH:D020734,0,,8,ATP13A2|ATP1A3|DCTN1|DDC|LRRK2|PARP1|PINK1|PRKCD
+ATP binding,GO:0005524,Wolff-Parkinson-White Syndrome,MESH:D014927,0,,1,PRKAG2
+ATP-dependent activity,GO:0140657,Parkinson Disease,MESH:D010300,3,Caffeine|Iron|Lead,0,
+ATP-dependent activity,GO:0140657,"Parkinson Disease, Secondary",MESH:D010302,2,Haloperidol|Verapamil,0,
+ATP-dependent activity,GO:0140657,Parkinsonian Disorders,MESH:D020734,4,cypermethrin|Haloperidol|manganese chloride|Verapamil,0,
+ATP-dependent peptidase activity,GO:0004176,Parkinsonian Disorders,MESH:D020734,0,,1,PARP1
+ATP-dependent protein binding,GO:0043008,Parkinson Disease,MESH:D010300,0,,1,PINK1
+ATP-dependent protein binding,GO:0043008,"PARKINSON DISEASE 14, AUTOSOMAL RECESSIVE",OMIM:612953,0,,1,PLA2G6
+ATP-dependent protein binding,GO:0043008,"Parkinson Disease 6, Autosomal Recessive Early-Onset",MESH:C565276,0,,1,PINK1
+ATP-dependent protein binding,GO:0043008,Parkinsonian Disorders,MESH:D020734,0,,1,PINK1
+ATP-dependent protein disaggregase activity,GO:0140545,Parkinson Disease,MESH:D010300,0,,1,HSPA1A
+ATP-dependent protein folding chaperone,GO:0140662,Parkinson Disease,MESH:D010300,0,,3,HSC70-3|HSPA1A|HSPA9
+ATP hydrolysis activity,GO:0016887,Parkinson Disease,MESH:D010300,7,Chlorpyrifos|Lipopolysaccharides|Particulate Matter|Rotenone|Sirolimus|Soot|Vehicle Emissions,8,ABCB1|ATP13A2|ATPSYNBETA|DDC|HSC70-3|HSPA1A|HSPA9|RAB32
+ATP hydrolysis activity,GO:0016887,"Parkinson Disease, Secondary",MESH:D010302,5,Cimetidine|Doxorubicin|Resveratrol|Rotenone|Verapamil,2,ABCB1|ATP13A2
+ATP hydrolysis activity,GO:0016887,Parkinsonian Disorders,MESH:D020734,9,Cadmium|cypermethrin|Lipopolysaccharides|Particulate Matter|Phenol|Plant Extracts|Resveratrol|Rotenone|Verapamil,5,ATP13A2|ATP1A3|DCTN1|DDC|PARP1
+A-type (transient outward) potassium channel activity,GO:0005250,"Parkinson Disease, Secondary",MESH:D010302,1,geraniol,0,
+A-type (transient outward) potassium channel activity,GO:0005250,Parkinsonian Disorders,MESH:D020734,1,geraniol,0,
+benzaldehyde dehydrogenase (NAD+) activity,GO:0018479,Parkinsonian Disorders,MESH:D020734,0,,1,ALDH1A1
+beta-2-microglobulin binding,GO:0030881,Parkinson Disease,MESH:D010300,0,,1,HFE
+beta-catenin binding,GO:0008013,Parkinson Disease,MESH:D010300,0,,1,PRKN
+beta-catenin binding,GO:0008013,"PARKINSON DISEASE, LATE-ONSET",OMIM:168600,0,,1,NR4A2
+beta-catenin binding,GO:0008013,"Parkinson Disease, Secondary",MESH:D010302,0,,2,NOS2|PRKN
+beta-catenin binding,GO:0008013,Parkinsonian Disorders,MESH:D020734,0,,1,PRKN
+beta-catenin destruction complex binding,GO:1904713,Parkinson Disease,MESH:D010300,0,,1,LRRK2
+beta-catenin destruction complex binding,GO:1904713,"PARKINSON DISEASE 8, AUTOSOMAL DOMINANT",OMIM:607060,0,,1,LRRK2
+beta-catenin destruction complex binding,GO:1904713,Parkinsonian Disorders,MESH:D020734,0,,1,LRRK2
+beta-galactosidase activity,GO:0004565,Parkinson Disease,MESH:D010300,5,Air Pollutants|Estradiol|Paraquat|Particulate Matter|Vehicle Emissions,0,
+beta-galactosidase activity,GO:0004565,"Parkinson Disease, Secondary",MESH:D010302,2,Paraquat|Resveratrol,0,
+beta-galactosidase activity,GO:0004565,Parkinsonian Disorders,MESH:D020734,3,Paraquat|Particulate Matter|Resveratrol,0,
+beta-glucosidase activity,GO:0008422,Parkinson Disease,MESH:D010300,0,,1,GBA1
+beta-glucosidase activity,GO:0008422,"PARKINSON DISEASE, LATE-ONSET",OMIM:168600,0,,1,GBA1
+beta-glucosidase activity,GO:0008422,Parkinsonian Disorders,MESH:D020734,0,,1,GBA1
+beta-glucosidase activity,GO:0008422,Wolff-Parkinson-White Syndrome,MESH:D014927,1,Isoproterenol,0,
+beta-glucuronidase activity,GO:0004566,Wolff-Parkinson-White Syndrome,MESH:D014927,1,Isoproterenol,0,
+beta-tubulin binding,GO:0048487,Parkinson Disease,MESH:D010300,0,,1,SNCA
+beta-tubulin binding,GO:0048487,"PARKINSON DISEASE 1, AUTOSOMAL DOMINANT",OMIM:168601,0,,1,SNCA
+beta-tubulin binding,GO:0048487,"Parkinson Disease 4, Autosomal Dominant Lewy Body",MESH:C565324,0,,1,SNCA
+beta-tubulin binding,GO:0048487,"Parkinson Disease, Secondary",MESH:D010302,1,Vincristine,2,RGS2|SNCA
+beta-tubulin binding,GO:0048487,Parkinsonian Disorders,MESH:D020734,0,,1,SNCA
+BH2 domain binding,GO:0051433,Parkinson Disease,MESH:D010300,0,,1,DNM1L
+bHLH transcription factor binding,GO:0043425,Parkinson Disease,MESH:D010300,0,,1,NCAPG2
+BLOC-2 complex binding,GO:0036461,Parkinson Disease,MESH:D010300,0,,1,RAB32
+boss receptor activity,GO:0008288,Parkinson Disease,MESH:D010300,0,,2,IGF1R|INSR
+brain-derived neurotrophic factor receptor activity,GO:0060175,Parkinson Disease,MESH:D010300,0,,2,IGF1R|INSR
+C3HC4-type RING finger domain binding,GO:0055131,Parkinson Disease,MESH:D010300,0,,2,HSPA1A|PINK1
+C3HC4-type RING finger domain binding,GO:0055131,"Parkinson Disease 6, Autosomal Recessive Early-Onset",MESH:C565276,0,,1,PINK1
+C3HC4-type RING finger domain binding,GO:0055131,Parkinsonian Disorders,MESH:D020734,0,,1,PINK1
+cadherin binding,GO:0045296,"Parkinson Disease, Secondary",MESH:D010302,0,,1,NOS2
+cadmium ion binding,GO:0046870,Parkinson Disease,MESH:D010300,0,,1,NOS1
+cadmium ion transmembrane transporter activity,GO:0015086,"Dystonia-Parkinsonism, Adult-Onset",MESH:C567844,0,,1,SLC39A14
+cADPR-sensitive calcium-release channel activity,GO:0072346,Parkinson Disease,MESH:D010300,1,Lead,0,
+calcium-activated potassium channel activity,GO:0015269,"Parkinson Disease, Secondary",MESH:D010302,1,geraniol,0,
+calcium-activated potassium channel activity,GO:0015269,Parkinsonian Disorders,MESH:D020734,1,geraniol,0,
+calcium channel activity,GO:0005262,AMYOTROPHIC LATERAL SCLEROSIS-PARKINSONISM/DEMENTIA COMPLEX 1,OMIM:105500,0,,1,TRPM7
+calcium channel activity,GO:0005262,Parkinson Disease,MESH:D010300,1,Zinc,1,TRPM2
+calcium channel regulator activity,GO:0005246,Parkinson Disease,MESH:D010300,0,,1,NOS1
+calcium-dependent ATPase activity,GO:0030899,Parkinson Disease,MESH:D010300,2,Aspirin|Chlorpyrifos,0,
+calcium-dependent ATPase activity,GO:0030899,"Parkinson Disease, Secondary",MESH:D010302,1,Chlorpromazine,0,
+calcium-dependent ATPase activity,GO:0030899,Parkinsonian Disorders,MESH:D020734,3,Cadmium|Chlorpromazine|coenzyme Q10,0,
+calcium-dependent ATPase activity,GO:0030899,Wolff-Parkinson-White Syndrome,MESH:D014927,1,Isoproterenol,0,
+calcium-dependent protein binding,GO:0048306,Parkinson Disease,MESH:D010300,0,,1,NOS1
+calcium-dependent protein kinase C activity,GO:0004698,Parkinsonian Disorders,MESH:D020734,0,,1,PRKCD
+calcium-independent phospholipase A2 activity,GO:0047499,"PARKINSON DISEASE 14, AUTOSOMAL RECESSIVE",OMIM:612953,0,,1,PLA2G6
+calcium-independent protein kinase C activity,GO:0004699,Parkinsonian Disorders,MESH:D020734,0,,1,PRKCD
+calcium ion binding,GO:0005509,Parkinson Disease,MESH:D010300,0,,7,AIF1|CNTNAP2|CNX99A|NOS1|SNCA|TRPM2|UP
+calcium ion binding,GO:0005509,"PARKINSON DISEASE 1, AUTOSOMAL DOMINANT",OMIM:168601,0,,1,SNCA
+calcium ion binding,GO:0005509,"Parkinson Disease 4, Autosomal Dominant Lewy Body",MESH:C565324,0,,1,SNCA
+calcium ion binding,GO:0005509,"Parkinson Disease, Secondary",MESH:D010302,0,,4,BCHE|PON1|SHH|SNCA
+calcium ion binding,GO:0005509,Parkinsonian Disorders,MESH:D020734,0,,1,SNCA
+calcium-release channel activity,GO:0015278,Parkinson Disease,MESH:D010300,0,,1,TRPM2
+calmodulin binding,GO:0005516,Parkinson Disease,MESH:D010300,0,,2,MAP2|NOS1
+calmodulin binding,GO:0005516,"PARKINSON DISEASE 14, AUTOSOMAL RECESSIVE",OMIM:612953,0,,1,PLA2G6
+calmodulin binding,GO:0005516,"Parkinson Disease, Secondary",MESH:D010302,0,,2,NOS2|RGS2
+calmodulin-dependent protein kinase activity,GO:0004683,"Parkinson Disease, Secondary",MESH:D010302,1,Vincristine,0,
+calmodulin-dependent protein phosphatase activity,GO:0033192,"Parkinson Disease, Secondary",MESH:D010302,1,Verapamil,0,
+calmodulin-dependent protein phosphatase activity,GO:0033192,Parkinsonian Disorders,MESH:D020734,1,Verapamil,0,
+cAMP-dependent protein kinase activity,GO:0004691,Parkinson Disease,MESH:D010300,1,Roflumilast,0,
+cAMP-dependent protein kinase inhibitor activity,GO:0004862,Wolff-Parkinson-White Syndrome,MESH:D014927,0,,1,PRKAG2
+cAMP-dependent protein kinase regulator activity,GO:0008603,"Parkinson Disease, Secondary",MESH:D010302,0,,1,NOS2
+cAMP-dependent protein kinase regulator activity,GO:0008603,Wolff-Parkinson-White Syndrome,MESH:D014927,0,,1,PRKAG2
+cannabinoid receptor activity,GO:0004949,"Parkinson Disease, Secondary",MESH:D010302,0,,1,CNR2
+carbohydrate binding,GO:0030246,Parkinson Disease,MESH:D010300,0,,2,MAG|TALDO1
+carbonate dehydratase activity,GO:0004089,Parkinson Disease,MESH:D010300,2,Caffeine|Copper,0,
+carbonate dehydratase activity,GO:0004089,"Parkinson Disease, Secondary",MESH:D010302,1,Valproic Acid,0,
+carbonate dehydratase activity,GO:0004089,Parkinsonian Disorders,MESH:D020734,1,Valproic Acid,0,
+carbon-carbon lyase activity,GO:0016830,Parkinson Disease,MESH:D010300,0,,1,DDC
+carbon-carbon lyase activity,GO:0016830,Parkinsonian Disorders,MESH:D020734,0,,1,DDC
+carboxylesterase activity,GO:0106435,Parkinson Disease,MESH:D010300,1,Chlorpyrifos,1,ALDH2
+carboxylic acid transmembrane transporter activity,GO:0046943,Parkinson Disease,MESH:D010300,0,,1,ABCB1
+carboxylic acid transmembrane transporter activity,GO:0046943,"Parkinson Disease, Secondary",MESH:D010302,0,,1,ABCB1
+carboxylic ester hydrolase activity,GO:0052689,Parkinson Disease,MESH:D010300,2,Chlorpyrifos|Permethrin,0,
+carboxylic ester hydrolase activity,GO:0052689,"Parkinson Disease, Secondary",MESH:D010302,1,geraniol,1,BCHE
+carboxylic ester hydrolase activity,GO:0052689,Parkinsonian Disorders,MESH:D020734,2,geraniol|Permethrin,0,
+carboxy-lyase activity,GO:0016831,Parkinson Disease,MESH:D010300,0,,1,DDC
+carboxy-lyase activity,GO:0016831,Parkinsonian Disorders,MESH:D020734,0,,1,DDC
+cardiolipin binding,GO:1901612,Parkinson Disease,MESH:D010300,1,Lead,0,
+cargo receptor activity,GO:0038024,Parkinson Disease,MESH:D010300,0,,2,INSR|VPS35
+cargo receptor activity,GO:0038024,PARKINSON DISEASE 17,OMIM:614203,0,,1,VPS35
+carnitine O-palmitoyltransferase activity,GO:0004095,Parkinson Disease,MESH:D010300,1,Copper,0,
+carnitine O-palmitoyltransferase activity,GO:0004095,"Parkinson Disease, Secondary",MESH:D010302,1,Resveratrol,0,
+carnitine O-palmitoyltransferase activity,GO:0004095,Parkinsonian Disorders,MESH:D020734,1,Resveratrol,0,
+catalase activity,GO:0004096,Parkinson Disease,MESH:D010300,2,Eugenol|Pesticides,0,
+catalase activity,GO:0004096,"Parkinson Disease, Secondary",MESH:D010302,1,Pesticides,0,
+catalase activity,GO:0004096,Parkinsonian Disorders,MESH:D020734,1,cypermethrin,0,
+catalase activity,GO:0004096,Wolff-Parkinson-White Syndrome,MESH:D014927,1,Isoproterenol,0,
+catalytic activity,GO:0003824,"PARKINSON DISEASE 14, AUTOSOMAL RECESSIVE",OMIM:612953,0,,1,PLA2G6
+catalytic activity,GO:0003824,"PARKINSON DISEASE 20, EARLY-ONSET",OMIM:615530,0,,1,SYNJ1
+catalytic activity,GO:0003824,"Parkinson Disease, Secondary",MESH:D010302,0,,1,BCHE
+catalytic activity,GO:0003824,Parkinsonian Disorders,MESH:D020734,0,,1,PARP1
+CD40 receptor binding,GO:0005174,Parkinson Disease,MESH:D010300,0,,1,TNF
+cell adhesion molecule binding,GO:0050839,Parkinson Disease,MESH:D010300,0,,3,FGB|MAG|NECTIN2
+ceramide floppase activity,GO:0099038,Parkinson Disease,MESH:D010300,0,,1,ABCB1
+ceramide floppase activity,GO:0099038,"Parkinson Disease, Secondary",MESH:D010302,0,,1,ABCB1
+channel activity,GO:0015267,Parkinson Disease,MESH:D010300,2,Copper|Zinc,0,
+channel activity,GO:0015267,Parkinsonian Disorders,MESH:D020734,1,Cadmium,0,
+chaperone binding,GO:0051087,Parkinson Disease,MESH:D010300,0,,8,BAG5|CP|FGB|GAK|HSPA9|MAPT|PRKN|SOD1
+chaperone binding,GO:0051087,"PARKINSON DISEASE, LATE-ONSET",OMIM:168600,0,,1,MAPT
+chaperone binding,GO:0051087,"Parkinson Disease, Secondary",MESH:D010302,0,,1,PRKN
+chaperone binding,GO:0051087,Parkinsonian Disorders,MESH:D020734,0,,3,ATP1A3|MAPT|PRKN
+chemoattractant activity,GO:0042056,Parkinson Disease,MESH:D010300,0,,1,HGF
+chemoattractant activity involved in axon guidance,GO:1902379,Parkinson Disease,MESH:D010300,0,,1,GDNF
+chemoattractant activity involved in axon guidance,GO:1902379,"Parkinson Disease, Secondary",MESH:D010302,0,,1,GDNF
+chemoattractant activity involved in axon guidance,GO:1902379,Parkinsonian Disorders,MESH:D020734,0,,1,GDNF
+chloride transmembrane transporter activity,GO:0015108,Parkinson Disease,MESH:D010300,1,Estradiol,0,
+cholesterol-protein transferase activity,GO:0140853,"Parkinson Disease, Secondary",MESH:D010302,0,,1,SHH
+choline binding,GO:0033265,"Parkinson Disease, Secondary",MESH:D010302,0,,1,BCHE
+cholinesterase activity,GO:0004104,Parkinson Disease,MESH:D010300,8,Chlorpyrifos|Diazinon|Insecticides|Manganese|Methomyl|Organophosphates|Pesticides|profenamine,0,
+cholinesterase activity,GO:0004104,"Parkinson Disease, Secondary",MESH:D010302,3,Manganese|Pesticides|Tacrine,1,BCHE
+cholinesterase activity,GO:0004104,Parkinsonian Disorders,MESH:D020734,2,Manganese|profenamine,0,
+chromatin binding,GO:0003682,Parkinson Disease,MESH:D010300,0,,3,MAP2|MTA1|PPARGC1A
+chromatin binding,GO:0003682,"Parkinson Disease, Secondary",MESH:D010302,0,,1,TFAM
+chromatin binding,GO:0003682,Parkinsonian Disorders,MESH:D020734,0,,2,PARP1|POLG
+chromatin DNA binding,GO:0031490,Parkinson Disease,MESH:D010300,0,,1,PPARGC1A
+clathrin binding,GO:0030276,Parkinson Disease,MESH:D010300,0,,3,DNM1L|GAK|LRRK2
+clathrin binding,GO:0030276,"PARKINSON DISEASE 19A, JUVENILE-ONSET",OMIM:615528,0,,1,DNAJC6
+clathrin binding,GO:0030276,"PARKINSON DISEASE 8, AUTOSOMAL DOMINANT",OMIM:607060,0,,1,LRRK2
+clathrin binding,GO:0030276,Parkinsonian Disorders,MESH:D020734,0,,1,LRRK2
+clathrin heavy chain binding,GO:0032050,"PARKINSON DISEASE 19A, JUVENILE-ONSET",OMIM:615528,0,,1,DNAJC6
+collagen binding involved in cell-matrix adhesion,GO:0098639,"Parkinson Disease, Secondary",MESH:D010302,1,Resveratrol,0,
+collagen binding involved in cell-matrix adhesion,GO:0098639,Parkinsonian Disorders,MESH:D020734,1,Resveratrol,0,
+copper ion binding,GO:0005507,Parkinson Disease,MESH:D010300,0,,4,CP|PARK7|SNCA|SOD1
+copper ion binding,GO:0005507,"PARKINSON DISEASE 1, AUTOSOMAL DOMINANT",OMIM:168601,0,,1,SNCA
+copper ion binding,GO:0005507,"Parkinson Disease 4, Autosomal Dominant Lewy Body",MESH:C565324,0,,1,SNCA
+copper ion binding,GO:0005507,"Parkinson Disease 7, Autosomal Recessive Early-Onset",MESH:C565238,0,,1,PARK7
+copper ion binding,GO:0005507,"Parkinson Disease, Secondary",MESH:D010302,0,,1,SNCA
+copper ion binding,GO:0005507,Parkinsonian Disorders,MESH:D020734,0,,2,PARK7|SNCA
+coreceptor activity,GO:0015026,Parkinson Disease,MESH:D010300,0,,1,NECTIN2
+co-receptor binding,GO:0039706,Parkinson Disease,MESH:D010300,0,,2,HFE|LRRK2
+co-receptor binding,GO:0039706,"PARKINSON DISEASE 8, AUTOSOMAL DOMINANT",OMIM:607060,0,,1,LRRK2
+co-receptor binding,GO:0039706,Parkinsonian Disorders,MESH:D020734,0,,1,LRRK2
+core promoter sequence-specific DNA binding,GO:0001046,"PARKINSON DISEASE, LATE-ONSET",OMIM:168600,0,,1,TBP
+coumarin 7-hydroxylase activity,GO:0008389,Parkinson Disease,MESH:D010300,1,Permethrin,0,
+coumarin 7-hydroxylase activity,GO:0008389,Parkinsonian Disorders,MESH:D020734,1,Permethrin,0,
+creatine kinase activity,GO:0004111,Parkinson Disease,MESH:D010300,2,Lead|Lipopolysaccharides,0,
+creatine kinase activity,GO:0004111,"Parkinson Disease, Secondary",MESH:D010302,3,Doxorubicin|geraniol|Resveratrol,0,
+creatine kinase activity,GO:0004111,Parkinsonian Disorders,MESH:D020734,7,baicalin|Cadmium|coenzyme Q10|crocin|geraniol|Lipopolysaccharides|Resveratrol,0,
+creatine kinase activity,GO:0004111,Wolff-Parkinson-White Syndrome,MESH:D014927,1,Isoproterenol,0,
+cullin family protein binding,GO:0097602,Parkinson Disease,MESH:D010300,0,,1,PRKN
+cullin family protein binding,GO:0097602,"Parkinson Disease, Secondary",MESH:D010302,0,,1,PRKN
+cullin family protein binding,GO:0097602,Parkinsonian Disorders,MESH:D020734,0,,1,PRKN
+cupric ion binding,GO:1903135,Parkinson Disease,MESH:D010300,0,,2,ATP13A2|PARK7
+cupric ion binding,GO:1903135,"Parkinson Disease 7, Autosomal Recessive Early-Onset",MESH:C565238,0,,1,PARK7
+cupric ion binding,GO:1903135,"Parkinson Disease, Secondary",MESH:D010302,0,,1,ATP13A2
+cupric ion binding,GO:1903135,Parkinsonian Disorders,MESH:D020734,0,,2,ATP13A2|PARK7
+cuprous ion binding,GO:1903136,Parkinson Disease,MESH:D010300,0,,2,PARK7|SNCA
+cuprous ion binding,GO:1903136,"PARKINSON DISEASE 1, AUTOSOMAL DOMINANT",OMIM:168601,0,,1,SNCA
+cuprous ion binding,GO:1903136,"Parkinson Disease 4, Autosomal Dominant Lewy Body",MESH:C565324,0,,1,SNCA
+cuprous ion binding,GO:1903136,"Parkinson Disease 7, Autosomal Recessive Early-Onset",MESH:C565238,0,,1,PARK7
+cuprous ion binding,GO:1903136,"Parkinson Disease, Secondary",MESH:D010302,0,,1,SNCA
+cuprous ion binding,GO:1903136,Parkinsonian Disorders,MESH:D020734,0,,2,PARK7|SNCA
+cyclin binding,GO:0030332,Parkinson Disease,MESH:D010300,0,,1,GAK
+cysteine-S-conjugate beta-lyase activity,GO:0047804,Parkinson Disease,MESH:D010300,1,Trichloroethylene,0,
+cysteine-S-conjugate beta-lyase activity,GO:0047804,"Parkinson Disease, Secondary",MESH:D010302,1,Trichloroethylene,0,
+cysteine-type deubiquitinase activity,GO:0004843,AMYOTROPHIC LATERAL SCLEROSIS-PARKINSONISM/DEMENTIA COMPLEX 1,OMIM:105500,0,,1,TRPM7
+cysteine-type deubiquitinase activity,GO:0004843,"PARKINSON DISEASE 5, AUTOSOMAL DOMINANT, SUSCEPTIBILITY TO",OMIM:613643,0,,1,UCHL1
+cysteine-type deubiquitinase activity,GO:0004843,"PARKINSON DISEASE, LATE-ONSET",OMIM:168600,0,,1,ATXN3
+cysteine-type endopeptidase activator activity involved in apoptotic process,GO:0008656,Parkinson Disease,MESH:D010300,0,,1,NGF
+cysteine-type endopeptidase activator activity involved in apoptotic process,GO:0008656,Parkinsonian Disorders,MESH:D020734,0,,1,NGF
+cysteine-type endopeptidase activity,GO:0004197,Parkinson Disease,MESH:D010300,8,1-Methyl-4-phenylpyridinium|4-phenylbutyric acid|Acrolein|Dopamine|Lipopolysaccharides|Paclitaxel|Particulate Matter|Vehicle Emissions,0,
+cysteine-type endopeptidase activity,GO:0004197,"PARKINSON DISEASE 5, AUTOSOMAL DOMINANT, SUSCEPTIBILITY TO",OMIM:613643,0,,1,UCHL1
+cysteine-type endopeptidase activity,GO:0004197,"Parkinson Disease, Secondary",MESH:D010302,4,3-methyladenine|Amiodarone|Doxorubicin|perhexiline maleate,0,
+cysteine-type endopeptidase activity,GO:0004197,Parkinsonian Disorders,MESH:D020734,9,1-Methyl-4-phenylpyridinium|Amiodarone|Cadmium|cypermethrin|Dopamine|genkwanin|linsidomine|Lipopolysaccharides|Particulate Matter,1,PRKRA
+cysteine-type endopeptidase activity,GO:0004197,Wolff-Parkinson-White Syndrome,MESH:D014927,1,Amiodarone,0,
+cysteine-type endopeptidase activity involved in apoptotic process,GO:0097153,Parkinson Disease,MESH:D010300,3,Chlorpyrifos|Homocysteine|Ketoconazole,0,
+cysteine-type endopeptidase activity involved in apoptotic process,GO:0097153,Parkinsonian Disorders,MESH:D020734,1,Ketoconazole,0,
+cysteine-type endopeptidase inhibitor activity,GO:0004869,Parkinson Disease,MESH:D010300,0,,1,SNCA
+cysteine-type endopeptidase inhibitor activity,GO:0004869,"PARKINSON DISEASE 1, AUTOSOMAL DOMINANT",OMIM:168601,0,,1,SNCA
+cysteine-type endopeptidase inhibitor activity,GO:0004869,"Parkinson Disease 4, Autosomal Dominant Lewy Body",MESH:C565324,0,,1,SNCA
+cysteine-type endopeptidase inhibitor activity,GO:0004869,"Parkinson Disease, Secondary",MESH:D010302,0,,1,SNCA
+cysteine-type endopeptidase inhibitor activity,GO:0004869,Parkinsonian Disorders,MESH:D020734,0,,1,SNCA
+cysteine-type endopeptidase inhibitor activity involved in apoptotic process,GO:0043027,Parkinson Disease,MESH:D010300,0,,1,SNCA
+cysteine-type endopeptidase inhibitor activity involved in apoptotic process,GO:0043027,"PARKINSON DISEASE 1, AUTOSOMAL DOMINANT",OMIM:168601,0,,1,SNCA
+cysteine-type endopeptidase inhibitor activity involved in apoptotic process,GO:0043027,"Parkinson Disease 4, Autosomal Dominant Lewy Body",MESH:C565324,0,,1,SNCA
+cysteine-type endopeptidase inhibitor activity involved in apoptotic process,GO:0043027,"Parkinson Disease, Secondary",MESH:D010302,0,,1,SNCA
+cysteine-type endopeptidase inhibitor activity involved in apoptotic process,GO:0043027,Parkinsonian Disorders,MESH:D020734,0,,1,SNCA
+cysteine-type peptidase activity,GO:0008234,Parkinson Disease,MESH:D010300,1,Carbon Tetrachloride,0,
+cysteine-type peptidase activity,GO:0008234,"PARKINSON DISEASE 5, AUTOSOMAL DOMINANT, SUSCEPTIBILITY TO",OMIM:613643,0,,1,UCHL1
+cysteine-type peptidase activity,GO:0008234,"PARKINSON DISEASE, LATE-ONSET",OMIM:168600,0,,1,ATXN3
+cysteine-type peptidase activity,GO:0008234,Parkinsonian Disorders,MESH:D020734,1,crocin,0,
+"cytochrome-b5 reductase activity, acting on NADH",GO:0090524,"Parkinson Disease, Secondary",MESH:D010302,1,Benzo(a)pyrene,0,
+"cytochrome-b5 reductase activity, acting on NAD(P)H",GO:0004128,Parkinson Disease,MESH:D010300,0,,1,NQO1
+cytochrome-c oxidase activity,GO:0004129,Parkinson Disease,MESH:D010300,21,1-Methyl-4-phenylpyridinium|4-phenylbutyric acid|Acrolein|Air Pollutants|Aspirin|Copper|Dicamba|Iron|Lead|Lipopolysaccharides|mangiferin|Nitrites|Ozone|Paraquat|Particulate Matter|Pesticides|Rotenone|Sirolimus|Soot|Vehicle Emissions|Zinc,0,
+cytochrome-c oxidase activity,GO:0004129,"Parkinson Disease, Secondary",MESH:D010302,8,Benzo(a)pyrene|Doxorubicin|Exenatide|Paraquat|Pesticides|Resveratrol|Rotenone|sodium bisulfide,0,
+cytochrome-c oxidase activity,GO:0004129,Parkinsonian Disorders,MESH:D020734,10,1-Methyl-4-phenylpyridinium|Cadmium|coenzyme Q10|Curcumin|Lipopolysaccharides|oleuropein|Paraquat|Particulate Matter|Resveratrol|Rotenone,0,
+cytochrome-c oxidase activity,GO:0004129,Wolff-Parkinson-White Syndrome,MESH:D014927,1,Isoproterenol,0,
+cytokine activity,GO:0005125,Parkinson Disease,MESH:D010300,0,,3,EDN1|IL6|TNF
+cytokine binding,GO:0019955,Parkinson Disease,MESH:D010300,0,,1,PARK7
+cytokine binding,GO:0019955,"Parkinson Disease 7, Autosomal Recessive Early-Onset",MESH:C565238,0,,1,PARK7
+cytokine binding,GO:0019955,Parkinsonian Disorders,MESH:D020734,0,,1,PARK7
+cytoskeletal regulatory protein binding,GO:0005519,Parkinson Disease,MESH:D010300,0,,1,MAP2
+D1 dopamine receptor binding,GO:0031748,Parkinson Disease,MESH:D010300,0,,1,VPS35
+D1 dopamine receptor binding,GO:0031748,PARKINSON DISEASE 17,OMIM:614203,0,,1,VPS35
+D1 dopamine receptor binding,GO:0031748,Parkinsonian Disorders,MESH:D020734,0,,1,ATP1A3
+D3 dopamine receptor binding,GO:0031750,Parkinson Disease,MESH:D010300,0,,1,DRD1
+D-alanine:2-oxoglutarate aminotransferase activity,GO:0047810,Parkinson Disease,MESH:D010300,1,Carbon Tetrachloride,0,
+D-alanine:2-oxoglutarate aminotransferase activity,GO:0047810,Parkinsonian Disorders,MESH:D020734,1,Curcumin,0,
+damaged DNA binding,GO:0003684,Parkinsonian Disorders,MESH:D020734,0,,1,PARP1
+death receptor agonist activity,GO:0038177,Parkinson Disease,MESH:D010300,0,,3,HSPA1A|NGF|TNF
+death receptor agonist activity,GO:0038177,Parkinsonian Disorders,MESH:D020734,0,,1,NGF
+dehydroascorbic acid transmembrane transporter activity,GO:0033300,Parkinson Disease,MESH:D010300,0,,1,SLC2A14
+denatured protein binding,GO:0031249,Parkinson Disease,MESH:D010300,0,,1,HSPA1A
+D-glucose transmembrane transporter activity,GO:0055056,Parkinson Disease,MESH:D010300,0,,1,SLC2A14
+D-glutamyltransferase activity,GO:0047823,Parkinson Disease,MESH:D010300,4,Air Pollutants|Carbon Tetrachloride|Particulate Matter|Zinc,0,
+D-glutamyltransferase activity,GO:0047823,"Parkinson Disease, Secondary",MESH:D010302,3,Benzo(a)pyrene|Doxorubicin|geraniol,0,
+D-glutamyltransferase activity,GO:0047823,Parkinsonian Disorders,MESH:D020734,3,geraniol|Particulate Matter|taxifolin,0,
+diacylglycerol kinase activity,GO:0004143,Parkinson Disease,MESH:D010300,0,,1,RDGA
+dimethylargininase activity,GO:0016403,Parkinson Disease,MESH:D010300,1,Homocysteine,0,
+dinitrosyl-iron complex binding,GO:0035731,Parkinson Disease,MESH:D010300,0,,1,GSTP1
+disordered domain specific binding,GO:0097718,Parkinson Disease,MESH:D010300,0,,1,HSPA1A
+disordered domain specific binding,GO:0097718,Parkinsonian Disorders,MESH:D020734,0,,1,GAPDH
+DNA binding,GO:0003677,Parkinson Disease,MESH:D010300,0,,6,MAPT|NOS1|PPARGC1A|RPL23A|RPL6|SOD2
+DNA binding,GO:0003677,"PARKINSON DISEASE, LATE-ONSET",OMIM:168600,0,,3,MAPT|NR4A2|TBP
+DNA binding,GO:0003677,"Parkinson Disease, Secondary",MESH:D010302,0,,1,TFAM
+DNA binding,GO:0003677,Parkinsonian Disorders,MESH:D020734,0,,3,MAPT|PARP1|POLG
+"DNA binding, bending",GO:0008301,"Parkinson Disease, Secondary",MESH:D010302,0,,1,TFAM
+DNA-binding transcription activator activity,GO:0001216,Parkinson Disease,MESH:D010300,1,Rotenone,0,
+DNA-binding transcription activator activity,GO:0001216,"Parkinson Disease, Secondary",MESH:D010302,1,Rotenone,0,
+DNA-binding transcription activator activity,GO:0001216,Parkinsonian Disorders,MESH:D020734,1,Rotenone,0,
+"DNA-binding transcription activator activity, RNA polymerase II-specific",GO:0001228,"PARKINSON DISEASE, LATE-ONSET",OMIM:168600,0,,1,NR4A2
+DNA-binding transcription factor activity,GO:0003700,Parkinson Disease,MESH:D010300,3,Estradiol|Lipopolysaccharides|Ozone,0,
+DNA-binding transcription factor activity,GO:0003700,Parkinsonian Disorders,MESH:D020734,2,Cadmium|Lipopolysaccharides,0,
+"DNA-binding transcription factor activity, RNA polymerase II-specific",GO:0000981,"PARKINSON DISEASE, LATE-ONSET",OMIM:168600,0,,1,NR4A2
+DNA-binding transcription factor binding,GO:0140297,Parkinson Disease,MESH:D010300,0,,2,PARK7|PPARGC1A
+DNA-binding transcription factor binding,GO:0140297,"PARKINSON DISEASE 22, AUTOSOMAL DOMINANT",OMIM:616710,0,,1,CHCHD2
+DNA-binding transcription factor binding,GO:0140297,"Parkinson Disease 7, Autosomal Recessive Early-Onset",MESH:C565238,0,,1,PARK7
+DNA-binding transcription factor binding,GO:0140297,"PARKINSON DISEASE, LATE-ONSET",OMIM:168600,0,,1,TBP
+DNA-binding transcription factor binding,GO:0140297,Parkinsonian Disorders,MESH:D020734,0,,1,PARK7
+DNA-dependent protein kinase activity,GO:0004677,AMYOTROPHIC LATERAL SCLEROSIS-PARKINSONISM/DEMENTIA COMPLEX 1,OMIM:105500,0,,1,TRPM7
+DNA-dependent protein kinase activity,GO:0004677,Parkinson Disease,MESH:D010300,0,,3,GAK|LRRK2|PINK1
+DNA-dependent protein kinase activity,GO:0004677,"Parkinson Disease 6, Autosomal Recessive Early-Onset",MESH:C565276,0,,1,PINK1
+DNA-dependent protein kinase activity,GO:0004677,"PARKINSON DISEASE 8, AUTOSOMAL DOMINANT",OMIM:607060,0,,1,LRRK2
+DNA-dependent protein kinase activity,GO:0004677,Parkinsonian Disorders,MESH:D020734,0,,2,LRRK2|PINK1
+DNA-directed DNA polymerase activity,GO:0003887,Parkinsonian Disorders,MESH:D020734,0,,1,POLG
+DNA-methyltransferase activity,GO:0009008,Parkinson Disease,MESH:D010300,1,Estradiol,0,
+DNA-methyltransferase activity,GO:0009008,"Parkinson Disease, Secondary",MESH:D010302,1,Exenatide,0,
+DNA-methyltransferase activity,GO:0009008,Parkinsonian Disorders,MESH:D020734,2,Curcumin|Plant Extracts,0,
+dopamine binding,GO:0035240,Parkinson Disease,MESH:D010300,0,,4,DRD1|DRD2|SLC6A3|TH
+dopamine binding,GO:0035240,Parkinsonian Disorders,MESH:D020734,0,,2,DRD2|TH
+dopamine binding,GO:0035240,"Parkinsonism-Dystonia, Infantile",MESH:C567730,0,,1,SLC6A3
+dopamine neurotransmitter receptor activity,GO:0004952,Parkinson Disease,MESH:D010300,0,,2,DRD1|DRD2
+dopamine neurotransmitter receptor activity,GO:0004952,Parkinsonian Disorders,MESH:D020734,0,,2,DOP1R2|DRD2
+"dopamine neurotransmitter receptor activity, coupled via Gi/Go",GO:0001591,Parkinson Disease,MESH:D010300,0,,1,DRD2
+"dopamine neurotransmitter receptor activity, coupled via Gi/Go",GO:0001591,Parkinsonian Disorders,MESH:D020734,0,,1,DRD2
+"dopamine neurotransmitter receptor activity, coupled via Gs",GO:0001588,Parkinson Disease,MESH:D010300,0,,1,DRD1
+"dopamine neurotransmitter receptor activity, coupled via Gs",GO:0001588,Parkinsonian Disorders,MESH:D020734,0,,1,DOP1R2
+dopamine:sodium symporter activity,GO:0005330,Parkinson Disease,MESH:D010300,0,,1,SLC6A3
+dopamine:sodium symporter activity,GO:0005330,"Parkinsonism-Dystonia, Infantile",MESH:C567730,0,,1,SLC6A3
+double-stranded DNA binding,GO:0003690,Parkinson Disease,MESH:D010300,0,,1,MAPT
+double-stranded DNA binding,GO:0003690,"PARKINSON DISEASE, LATE-ONSET",OMIM:168600,0,,1,MAPT
+double-stranded DNA binding,GO:0003690,Parkinsonian Disorders,MESH:D020734,0,,1,MAPT
+double-stranded RNA adenosine deaminase activity,GO:0003726,Parkinson Disease,MESH:D010300,0,,1,ADARB2
+double-stranded RNA binding,GO:0003725,Parkinson Disease,MESH:D010300,0,,2,ADARB2|HSPA1A
+double-stranded RNA binding,GO:0003725,Parkinsonian Disorders,MESH:D020734,0,,1,PRKRA
+D-sorbitol dehydrogenase (acceptor) activity,GO:0047833,"Parkinson Disease, Secondary",MESH:D010302,1,Valproic Acid,0,
+D-sorbitol dehydrogenase (acceptor) activity,GO:0047833,Parkinsonian Disorders,MESH:D020734,1,Valproic Acid,0,
+dynactin binding,GO:0034452,Parkinson Disease,MESH:D010300,0,,1,MAPT
+dynactin binding,GO:0034452,"PARKINSON DISEASE, LATE-ONSET",OMIM:168600,0,,1,MAPT
+dynactin binding,GO:0034452,Parkinsonian Disorders,MESH:D020734,0,,1,MAPT
+dynein complex binding,GO:0070840,Parkinson Disease,MESH:D010300,0,,1,SNCA
+dynein complex binding,GO:0070840,"PARKINSON DISEASE 1, AUTOSOMAL DOMINANT",OMIM:168601,0,,1,SNCA
+dynein complex binding,GO:0070840,"Parkinson Disease 4, Autosomal Dominant Lewy Body",MESH:C565324,0,,1,SNCA
+dynein complex binding,GO:0070840,"Parkinson Disease, Secondary",MESH:D010302,0,,1,SNCA
+dynein complex binding,GO:0070840,Parkinsonian Disorders,MESH:D020734,0,,1,SNCA
+dystroglycan binding,GO:0002162,Parkinson Disease,MESH:D010300,0,,1,MAP2
+efflux transmembrane transporter activity,GO:0015562,Parkinson Disease,MESH:D010300,0,,1,ABCB1
+efflux transmembrane transporter activity,GO:0015562,"Parkinson Disease, Secondary",MESH:D010302,0,,1,ABCB1
+EH domain binding,GO:1990175,"PARKINSON DISEASE 20, EARLY-ONSET",OMIM:615530,0,,1,SYNJ1
+electron transfer activity,GO:0009055,Parkinson Disease,MESH:D010300,0,,2,ALDH2|MAOB
+electron transfer activity,GO:0009055,Parkinsonian Disorders,MESH:D020734,0,,1,GSR
+endopeptidase activity,GO:0004175,Parkinson Disease,MESH:D010300,2,4-phenylbutyric acid|Particulate Matter,1,HGF
+endopeptidase activity,GO:0004175,"Parkinson Disease, Secondary",MESH:D010302,0,,1,SHH
+endopeptidase activity,GO:0004175,Parkinsonian Disorders,MESH:D020734,1,Particulate Matter,0,
+endoplasmic reticulum-autophagosome adaptor activity,GO:0140506,Parkinson Disease,MESH:D010300,0,,1,RTNL1
+endothelin A receptor binding,GO:0031707,Parkinson Disease,MESH:D010300,0,,1,EDN1
+endothelin B receptor binding,GO:0031708,Parkinson Disease,MESH:D010300,0,,1,EDN1
+enzyme activator activity,GO:0008047,Parkinson Disease,MESH:D010300,0,,1,PARK7
+enzyme activator activity,GO:0008047,"Parkinson Disease 7, Autosomal Recessive Early-Onset",MESH:C565238,0,,1,PARK7
+enzyme activator activity,GO:0008047,Parkinsonian Disorders,MESH:D020734,0,,4,PARK7|PARP1|PRKCD|PRKRA
+enzyme binding,GO:0019899,Parkinson Disease,MESH:D010300,0,,19,CNTNAP2|CYP2E1|DDC|ENO2|GSTM1|HMOX1|HSPA1A|HSPA9|IGF2R|MAPT|MTA1|NOS1|PARK7|PRKN|SLC18A2|SNCA|SOD1|SOD2|TH
+enzyme binding,GO:0019899,"PARKINSON DISEASE 1, AUTOSOMAL DOMINANT",OMIM:168601,0,,1,SNCA
+enzyme binding,GO:0019899,"Parkinson Disease 4, Autosomal Dominant Lewy Body",MESH:C565324,0,,1,SNCA
+enzyme binding,GO:0019899,"Parkinson Disease 7, Autosomal Recessive Early-Onset",MESH:C565238,0,,1,PARK7
+enzyme binding,GO:0019899,"PARKINSON DISEASE, LATE-ONSET",OMIM:168600,0,,2,MAPT|TBP
+enzyme binding,GO:0019899,"Parkinson Disease, Secondary",MESH:D010302,0,,4,BCHE|PRKN|SLC18A2|SNCA
+enzyme binding,GO:0019899,Parkinsonian Disorders,MESH:D020734,0,,11,DDC|GAPDH|MAPT|PARK7|PARP1|PRKCD|PRKN|PRKRA|SLC18A2|SNCA|TH
+enzyme inhibitor activity,GO:0004857,Parkinson Disease,MESH:D010300,0,,1,SNCA
+enzyme inhibitor activity,GO:0004857,"PARKINSON DISEASE 1, AUTOSOMAL DOMINANT",OMIM:168601,0,,1,SNCA
+enzyme inhibitor activity,GO:0004857,"Parkinson Disease 4, Autosomal Dominant Lewy Body",MESH:C565324,0,,1,SNCA
+enzyme inhibitor activity,GO:0004857,"Parkinson Disease, Secondary",MESH:D010302,0,,1,SNCA
+enzyme inhibitor activity,GO:0004857,Parkinsonian Disorders,MESH:D020734,0,,1,SNCA
+epidermal growth factor receptor activity,GO:0005006,Parkinson Disease,MESH:D010300,0,,2,IGF1R|INSR
+epidermal growth factor receptor binding,GO:0005154,"PARKINSON DISEASE, LATE-ONSET",OMIM:168600,0,,1,ATXN2
+estradiol 17-beta-dehydrogenase activity,GO:0004303,"Parkinson Disease, Secondary",MESH:D010302,1,Chlorpromazine,0,
+estradiol 17-beta-dehydrogenase activity,GO:0004303,Parkinsonian Disorders,MESH:D020734,5,Chlorpromazine|coenzyme Q10|Curcumin|cypermethrin|Indomethacin,0,
+eukaryotic initiation factor 4E binding,GO:0008190,"PARKINSON DISEASE 18, AUTOSOMAL DOMINANT, SUSCEPTIBILITY TO",OMIM:614251,0,,1,EIF4G1
+eukaryotic translation initiation factor 2alpha kinase activity,GO:0004694,AMYOTROPHIC LATERAL SCLEROSIS-PARKINSONISM/DEMENTIA COMPLEX 1,OMIM:105500,0,,1,TRPM7
+eukaryotic translation initiation factor 2alpha kinase activity,GO:0004694,Parkinson Disease,MESH:D010300,0,,3,GAK|LRRK2|PINK1
+eukaryotic translation initiation factor 2alpha kinase activity,GO:0004694,"Parkinson Disease 6, Autosomal Recessive Early-Onset",MESH:C565276,0,,1,PINK1
+eukaryotic translation initiation factor 2alpha kinase activity,GO:0004694,"PARKINSON DISEASE 8, AUTOSOMAL DOMINANT",OMIM:607060,0,,1,LRRK2
+eukaryotic translation initiation factor 2alpha kinase activity,GO:0004694,Parkinsonian Disorders,MESH:D020734,0,,2,LRRK2|PINK1
+exonuclease activity,GO:0004527,Parkinsonian Disorders,MESH:D020734,0,,1,POLG
+extracellular matrix structural constituent,GO:0005201,Parkinson Disease,MESH:D010300,0,,2,COL19A1|FGB
+extracellular matrix structural constituent conferring tensile strength,GO:0030020,Parkinson Disease,MESH:D010300,0,,1,COL19A1
+FAD binding,GO:0071949,Parkinson Disease,MESH:D010300,0,,1,MTHFR
+fatty acid binding,GO:0005504,Parkinson Disease,MESH:D010300,0,,1,GSTP1
+F-box domain binding,GO:1990444,Parkinson Disease,MESH:D010300,0,,1,PRKN
+F-box domain binding,GO:1990444,"Parkinson Disease, Secondary",MESH:D010302,0,,1,PRKN
+F-box domain binding,GO:1990444,Parkinsonian Disorders,MESH:D020734,0,,1,PRKN
+ferric iron binding,GO:0008199,Parkinson Disease,MESH:D010300,0,,1,TH
+ferric iron binding,GO:0008199,Parkinson Disease 11,MESH:C564345,0,,1,GIGYF2
+ferric iron binding,GO:0008199,Parkinsonian Disorders,MESH:D020734,0,,1,TH
+ferrous iron binding,GO:0008198,Parkinson Disease,MESH:D010300,0,,2,SNCA|TH
+ferrous iron binding,GO:0008198,"PARKINSON DISEASE 1, AUTOSOMAL DOMINANT",OMIM:168601,0,,1,SNCA
+ferrous iron binding,GO:0008198,"Parkinson Disease 4, Autosomal Dominant Lewy Body",MESH:C565324,0,,1,SNCA
+ferrous iron binding,GO:0008198,"Parkinson Disease, Secondary",MESH:D010302,0,,1,SNCA
+ferrous iron binding,GO:0008198,Parkinsonian Disorders,MESH:D020734,0,,2,SNCA|TH
+ferrous iron transmembrane transporter activity,GO:0015093,"Dystonia-Parkinsonism, Adult-Onset",MESH:C567844,0,,1,SLC39A14
+ferroxidase activity,GO:0004322,Parkinson Disease,MESH:D010300,0,,1,CP
+fibroblast growth factor binding,GO:0017134,Parkinson Disease,MESH:D010300,0,,1,HSPA9
+fibroblast growth factor receptor activity,GO:0005007,Parkinson Disease,MESH:D010300,0,,2,IGF1R|INSR
+flavin adenine dinucleotide binding,GO:0050660,Parkinson Disease,MESH:D010300,0,,6,ALDH2|CPR|MAOA|MAOB|MTHFR|NOS1
+flavin adenine dinucleotide binding,GO:0050660,"Parkinson Disease, Secondary",MESH:D010302,0,,1,NOS2
+flavin adenine dinucleotide binding,GO:0050660,Parkinsonian Disorders,MESH:D020734,0,,1,GSR
+floppase activity,GO:0140328,Parkinson Disease,MESH:D010300,0,,1,ABCB1
+floppase activity,GO:0140328,"Parkinson Disease, Secondary",MESH:D010302,0,,1,ABCB1
+FMN binding,GO:0010181,Parkinson Disease,MESH:D010300,0,,2,CPR|NOS1
+FMN binding,GO:0010181,"Parkinson Disease, Secondary",MESH:D010302,0,,1,NOS2
+frizzled binding,GO:0005109,"PARKINSONISM WITH SPASTICITY, X-LINKED",OMIM:300911,0,,1,ATP6AP2
+"fructose 1,6-bisphosphate 1-phosphatase activity",GO:0042132,Parkinson Disease,MESH:D010300,0,,1,FBP1
+"fructose 1,6-bisphosphate 1-phosphatase activity",GO:0042132,"Parkinson Disease, Secondary",MESH:D010302,1,thymoquinone,0,
+galactosylceramidase activity,GO:0004336,Parkinson Disease,MESH:D010300,0,,1,GBA1
+galactosylceramidase activity,GO:0004336,"PARKINSON DISEASE, LATE-ONSET",OMIM:168600,0,,1,GBA1
+galactosylceramidase activity,GO:0004336,Parkinsonian Disorders,MESH:D020734,0,,1,GBA1
+ganglioside GT1b binding,GO:1905576,Parkinson Disease,MESH:D010300,0,,1,MAG
+gap junction channel activity,GO:0005243,Parkinson Disease,MESH:D010300,4,Air Pollutants|Hexachlorocyclohexane|Lead|Particulate Matter,0,
+gap junction channel activity,GO:0005243,"Parkinson Disease, Secondary",MESH:D010302,2,Benzo(a)pyrene|Resveratrol,0,
+gap junction channel activity,GO:0005243,Parkinsonian Disorders,MESH:D020734,2,Particulate Matter|Resveratrol,0,
+general transcription initiation factor binding,GO:0140296,"PARKINSON DISEASE, LATE-ONSET",OMIM:168600,0,,1,TBP
+Gi/o-coupled serotonin receptor activity,GO:0001586,Parkinson Disease,MESH:D010300,1,Sirolimus,0,
+glial cell-derived neurotrophic factor receptor binding,GO:0030116,Parkinson Disease,MESH:D010300,0,,1,GDNF
+glial cell-derived neurotrophic factor receptor binding,GO:0030116,"Parkinson Disease, Secondary",MESH:D010302,0,,1,GDNF
+glial cell-derived neurotrophic factor receptor binding,GO:0030116,Parkinsonian Disorders,MESH:D020734,0,,1,GDNF
+glucokinase activity,GO:0004340,Parkinson Disease,MESH:D010300,1,Lithium Carbonate,0,
+glucokinase activity,GO:0004340,"Parkinson Disease, Secondary",MESH:D010302,1,Lithium Carbonate,0,
+glucokinase activity,GO:0004340,Parkinsonian Disorders,MESH:D020734,1,Plant Extracts,0,
+glucose-6-phosphatase activity,GO:0004346,"Parkinson Disease, Secondary",MESH:D010302,2,geraniol|thymoquinone,0,
+glucose-6-phosphatase activity,GO:0004346,Parkinsonian Disorders,MESH:D020734,2,geraniol|Plant Extracts,0,
+glucose-6-phosphate dehydrogenase activity,GO:0004345,Parkinsonian Disorders,MESH:D020734,1,Plant Extracts,0,
+glucosylceramidase activity,GO:0004348,Parkinson Disease,MESH:D010300,0,,1,GBA1
+glucosylceramidase activity,GO:0004348,"PARKINSON DISEASE, LATE-ONSET",OMIM:168600,0,,1,GBA1
+glucosylceramidase activity,GO:0004348,Parkinsonian Disorders,MESH:D020734,0,,1,GBA1
+glucosyltransferase activity,GO:0046527,Parkinson Disease,MESH:D010300,0,,1,GBA1
+glucosyltransferase activity,GO:0046527,"PARKINSON DISEASE, LATE-ONSET",OMIM:168600,0,,1,GBA1
+glucosyltransferase activity,GO:0046527,Parkinsonian Disorders,MESH:D020734,0,,1,GBA1
+glucuronosyltransferase activity,GO:0015020,Parkinson Disease,MESH:D010300,3,Carbon Tetrachloride|Estradiol|Tea,0,
+glucuronosyltransferase activity,GO:0015020,"Parkinson Disease, Secondary",MESH:D010302,1,Benzo(a)pyrene,0,
+glucuronosyltransferase activity,GO:0015020,Parkinsonian Disorders,MESH:D020734,1,Plant Preparations,0,
+glutamate-cysteine ligase activity,GO:0004357,Parkinson Disease,MESH:D010300,1,Lead,0,
+glutamate-cysteine ligase activity,GO:0004357,Parkinsonian Disorders,MESH:D020734,1,Cadmium,0,
+glutamate dehydrogenase (NAD+) activity,GO:0004352,Parkinson Disease,MESH:D010300,2,Carbon Tetrachloride|Melatonin,0,
+glutamate dehydrogenase (NAD+) activity,GO:0004352,"Parkinson Disease, Secondary",MESH:D010302,1,Melatonin,0,
+glutamate dehydrogenase (NAD+) activity,GO:0004352,Parkinsonian Disorders,MESH:D020734,1,Melatonin,0,
+glutathione binding,GO:0043295,Parkinson Disease,MESH:D010300,2,Copper|Manganese,1,GSTM1
+glutathione binding,GO:0043295,"Parkinson Disease, Secondary",MESH:D010302,1,Manganese,0,
+glutathione binding,GO:0043295,Parkinsonian Disorders,MESH:D020734,2,Manganese|manganese chloride,1,GSR
+glutathione disulfide oxidoreductase activity,GO:0015038,Parkinson Disease,MESH:D010300,0,,1,RPL23A
+glutathione-disulfide reductase (NADPH) activity,GO:0004362,Parkinson Disease,MESH:D010300,1,Pesticides,0,
+glutathione-disulfide reductase (NADPH) activity,GO:0004362,"Parkinson Disease, Secondary",MESH:D010302,1,Pesticides,0,
+glutathione-disulfide reductase (NADPH) activity,GO:0004362,Parkinsonian Disorders,MESH:D020734,0,,1,GSR
+glutathione peroxidase activity,GO:0004602,Parkinson Disease,MESH:D010300,45,"1-Methyl-4-phenyl-1,2,3,6-tetrahydropyridine|1-Methyl-4-phenylpyridinium|4-phenylbutyric acid|Acrolein|Air Pollutants|Aluminum|Atrazine|Caffeine|Carbon Tetrachloride|Chlorpyrifos|Clozapine|Coffee|Copper|Diazepam|Diazinon|Ditiocarb|Estradiol|Homocysteine|Iron|Lead|Lipopolysaccharides|Lithium|Lithium Carbonate|Manganese|mangiferin|Melatonin|Methamphetamine|Oxidopamine|Ozone|Paclitaxel|Paraquat|Particulate Matter|Permethrin|Pesticides|Pioglitazone|Probenecid|Rotenone|Sirolimus|Smoke|Soot|Tea|tetrachloroisophthalonitrile|Vehicle Emissions|Water Pollutants, Chemical|Zinc",2,CP|GSTP1
+glutathione peroxidase activity,GO:0004602,"Parkinson Disease, Secondary",MESH:D010302,29,"1-Methyl-4-phenyl-1,2,3,6-tetrahydropyridine|3-methyladenine|Amiodarone|Atrazine|Benzo(a)pyrene|Diazepam|Dichlorvos|Ditiocarb|Doxorubicin|geraniol|Lithium|Lithium Carbonate|Manganese|Melatonin|Methamphetamine|Methotrexate|Nicotine|Oxidopamine|Paraquat|Pesticides|Pyridostigmine Bromide|Resveratrol|Rotenone|Silymarin|sodium bisulfide|Tacrine|thymoquinone|Valproic Acid|Vincristine",0,
+glutathione peroxidase activity,GO:0004602,Parkinsonian Disorders,MESH:D020734,33,"1-Methyl-4-phenyl-1,2,3,6-tetrahydropyridine|1-Methyl-4-phenylpyridinium|Amiodarone|Cadmium|Clozapine|coenzyme Q10|Coffee|crocin|Curcumin|cypermethrin|Diazoxide|Docosahexaenoic Acids|geraniol|ginsenoside Re|Indomethacin|Lipopolysaccharides|Malondialdehyde|mancozeb|Manganese|manganese chloride|Melatonin|Oxidopamine|Paraquat|Particulate Matter|Permethrin|Plant Extracts|Plant Preparations|Probenecid|Resveratrol|Rotenone|Silymarin|taxifolin|Valproic Acid",0,
+glutathione peroxidase activity,GO:0004602,Wolff-Parkinson-White Syndrome,MESH:D014927,3,Amiodarone|Isoproterenol|Lithium,0,
+glutathione transferase activity,GO:0004364,Parkinson Disease,MESH:D010300,33,"1-Methyl-4-phenyl-1,2,3,6-tetrahydropyridine|1-Methyl-4-phenylpyridinium|Atrazine|Caffeine|Carbon Tetrachloride|Chlorpyrifos|Copper|Dopamine|Endosulfan|Ethylene Dibromide|Eugenol|Hydrocarbons, Chlorinated|Iron|Lead|Levodopa|Lipopolysaccharides|Lithium Carbonate|Manganese|mangiferin|Melatonin|Methomyl|Ozone|Paclitaxel|Paraquat|Particulate Matter|Permethrin|Pesticides|Pioglitazone|Rotenone|Trichloroethylene|Vehicle Emissions|Water Pollutants, Chemical|Zinc",3,GSTA4|GSTM1|GSTP1
+glutathione transferase activity,GO:0004364,"Parkinson Disease 6, Autosomal Recessive Early-Onset",MESH:C565276,1,Levodopa,0,
+glutathione transferase activity,GO:0004364,"Parkinson Disease, Secondary",MESH:D010302,23,"1-Methyl-4-phenyl-1,2,3,6-tetrahydropyridine|Atrazine|Benzo(a)pyrene|Buspirone|Dichlorvos|Doxorubicin|geraniol|Hydrocarbons, Chlorinated|Levodopa|Lithium Carbonate|Manganese|Melatonin|Methotrexate|Nicotine|Paraquat|Pesticides|Resveratrol|Rotenone|Silymarin|sodium bisulfide|thymoquinone|Trichloroethylene|Valproic Acid",0,
+glutathione transferase activity,GO:0004364,Parkinsonian Disorders,MESH:D020734,24,"1-Methyl-4-phenyl-1,2,3,6-tetrahydropyridine|1-Methyl-4-phenylpyridinium|Buspirone|Cadmium|crocin|Curcumin|cypermethrin|Dopamine|geraniol|Levodopa|Lipopolysaccharides|mancozeb|Manganese|manganese chloride|Melatonin|Paraquat|Particulate Matter|Permethrin|Plant Extracts|Plant Preparations|Resveratrol|Rotenone|Silymarin|Valproic Acid",0,
+glutathione transferase activity,GO:0004364,Wolff-Parkinson-White Syndrome,MESH:D014927,1,Isoproterenol,0,
+glyceraldehyde-3-phosphate dehydrogenase (NAD+) (phosphorylating) activity,GO:0004365,Parkinsonian Disorders,MESH:D020734,0,,1,GAPDH
+glycerol-3-phosphate dehydrogenase [NAD(P)+] activity,GO:0047952,Parkinson Disease,MESH:D010300,0,,1,GPDH1
+glycerol-3-phosphate O-acyltransferase activity,GO:0004366,"PARKINSON DISEASE 22, AUTOSOMAL DOMINANT",OMIM:616710,0,,1,CHCHD2
+glycerol-3-phosphate O-acyltransferase activity,GO:0004366,"Parkinson Disease, Secondary",MESH:D010302,1,Resveratrol,0,
+glycerol-3-phosphate O-acyltransferase activity,GO:0004366,Parkinsonian Disorders,MESH:D020734,1,Resveratrol,0,
+glycogen phosphorylase activity,GO:0008184,Parkinson Disease,MESH:D010300,1,Lithium Carbonate,0,
+glycogen phosphorylase activity,GO:0008184,"Parkinson Disease, Secondary",MESH:D010302,1,Lithium Carbonate,0,
+glycogen phosphorylase activity,GO:0008184,Parkinsonian Disorders,MESH:D020734,2,cypermethrin|Plant Extracts,0,
+glycogen (starch) synthase activity,GO:0004373,Parkinson Disease,MESH:D010300,1,Lithium Carbonate,0,
+glycogen (starch) synthase activity,GO:0004373,"PARKINSON DISEASE, LATE-ONSET",OMIM:168600,0,,1,TBP
+glycogen (starch) synthase activity,GO:0004373,"Parkinson Disease, Secondary",MESH:D010302,1,Lithium Carbonate,0,
+glycogen (starch) synthase activity,GO:0004373,Parkinsonian Disorders,MESH:D020734,1,Plant Extracts,0,
+glycosaminoglycan binding,GO:0005539,"Parkinson Disease, Secondary",MESH:D010302,0,,1,SHH
+glycosyltransferase activity,GO:0016757,Parkinson Disease,MESH:D010300,0,,1,CPR
+glycosyltransferase activity,GO:0016757,"PARKINSON DISEASE 14, AUTOSOMAL RECESSIVE",OMIM:612953,0,,1,PLA2G6
+glycosyltransferase activity,GO:0016757,Parkinsonian Disorders,MESH:D020734,0,,1,PARP1
+glyoxalase (glycolic acid-forming) activity,GO:1990422,Parkinson Disease,MESH:D010300,0,,1,PARK7
+glyoxalase (glycolic acid-forming) activity,GO:1990422,"Parkinson Disease 7, Autosomal Recessive Early-Onset",MESH:C565238,0,,1,PARK7
+glyoxalase (glycolic acid-forming) activity,GO:1990422,Parkinsonian Disorders,MESH:D020734,0,,1,PARK7
+GPI-linked ephrin receptor activity,GO:0005004,Parkinson Disease,MESH:D010300,0,,2,IGF1R|INSR
+G-protein activated inward rectifier potassium channel activity,GO:0015467,Parkinsonian Disorders,MESH:D020734,1,Rimonabant,0,
+G-protein alpha-subunit binding,GO:0001965,Parkinson Disease,MESH:D010300,0,,4,DRD1|DRD2|IGF1R|IGF2R
+G-protein alpha-subunit binding,GO:0001965,"Parkinson Disease, Secondary",MESH:D010302,0,,1,RGS2
+G-protein alpha-subunit binding,GO:0001965,Parkinsonian Disorders,MESH:D020734,0,,1,DRD2
+G protein-coupled amine receptor activity,GO:0008227,Parkinsonian Disorders,MESH:D020734,0,,1,DOP1R2
+G protein-coupled receptor activity,GO:0004930,Parkinson Disease,MESH:D010300,0,,2,DRD1|DRD2
+G protein-coupled receptor activity,GO:0004930,"Parkinson Disease, Secondary",MESH:D010302,0,,1,CNR2
+G protein-coupled receptor activity,GO:0004930,Parkinsonian Disorders,MESH:D020734,0,,2,DOP1R2|DRD2
+G protein-coupled receptor binding,GO:0001664,Parkinson Disease,MESH:D010300,0,,2,HSPA1A|PRKN
+G protein-coupled receptor binding,GO:0001664,"Parkinson Disease, Secondary",MESH:D010302,0,,1,PRKN
+G protein-coupled receptor binding,GO:0001664,Parkinsonian Disorders,MESH:D020734,0,,1,PRKN
+growth factor activity,GO:0008083,Parkinson Disease,MESH:D010300,0,,6,BDNF|GDNF|HGF|IGF2|IL6|NGF
+growth factor activity,GO:0008083,"Parkinson Disease, Secondary",MESH:D010302,0,,1,GDNF
+growth factor activity,GO:0008083,Parkinsonian Disorders,MESH:D020734,0,,2,GDNF|NGF
+GTPase activator activity,GO:0005096,Parkinson Disease,MESH:D010300,0,,2,DNM1L|LRRK2
+GTPase activator activity,GO:0005096,"PARKINSON DISEASE 8, AUTOSOMAL DOMINANT",OMIM:607060,0,,1,LRRK2
+GTPase activator activity,GO:0005096,"Parkinson Disease, Secondary",MESH:D010302,0,,1,RGS2
+GTPase activator activity,GO:0005096,Parkinsonian Disorders,MESH:D020734,0,,2,ALDH1A1|LRRK2
+GTPase activity,GO:0003924,Parkinson Disease,MESH:D010300,0,,4,CPR|DNM1L|LRRK2|RAB32
+GTPase activity,GO:0003924,"PARKINSON DISEASE 8, AUTOSOMAL DOMINANT",OMIM:607060,0,,1,LRRK2
+GTPase activity,GO:0003924,"Parkinson Disease, Secondary",MESH:D010302,0,,1,RGS2
+GTPase activity,GO:0003924,Parkinsonian Disorders,MESH:D020734,0,,1,LRRK2
+GTPase activity,GO:0003924,"Parkinsonism, early onset with mental retardation",MESH:C537179,0,,1,RAB39B
+GTPase activity,GO:0003924,Wolff-Parkinson-White Syndrome,MESH:D014927,0,,1,PRKAG2
+GTP binding,GO:0005525,Parkinson Disease,MESH:D010300,0,,5,CPR|DNM1L|INSR|LRRK2|RAB32
+GTP binding,GO:0005525,"PARKINSON DISEASE 8, AUTOSOMAL DOMINANT",OMIM:607060,0,,1,LRRK2
+GTP binding,GO:0005525,Parkinsonian Disorders,MESH:D020734,0,,1,LRRK2
+GTP binding,GO:0005525,"Parkinsonism, early onset with mental retardation",MESH:C537179,0,,1,RAB39B
+GTP binding,GO:0005525,Wolff-Parkinson-White Syndrome,MESH:D014927,0,,1,PRKAG2
+GTP-dependent protein binding,GO:0030742,Parkinson Disease,MESH:D010300,0,,2,DNM1L|RAB32
+GTP-dependent protein kinase activity,GO:0034211,Parkinson Disease,MESH:D010300,0,,1,LRRK2
+GTP-dependent protein kinase activity,GO:0034211,"PARKINSON DISEASE 8, AUTOSOMAL DOMINANT",OMIM:607060,0,,1,LRRK2
+GTP-dependent protein kinase activity,GO:0034211,Parkinsonian Disorders,MESH:D020734,0,,1,LRRK2
+guanyl-nucleotide exchange factor activity,GO:0005085,Parkinson Disease,MESH:D010300,0,,1,INSR
+guanyl-nucleotide exchange factor activity,GO:0005085,"PARKINSON DISEASE 18, AUTOSOMAL DOMINANT, SUSCEPTIBILITY TO",OMIM:614251,0,,1,EIF4G1
+H3K27me3 modified histone binding,GO:0061628,Parkinson Disease,MESH:D010300,4,"Fungicides, Industrial|Particulate Matter|Smoke|Vehicle Emissions",0,
+H3K27me3 modified histone binding,GO:0061628,Parkinsonian Disorders,MESH:D020734,1,Particulate Matter,0,
+haptoglobin binding,GO:0031720,Parkinson Disease,MESH:D010300,0,,1,HBG1
+heat shock protein binding,GO:0031072,Parkinson Disease,MESH:D010300,0,,6,HSC70-3|HSPA1A|HSPA9|MAPT|PRKN|SLC18A2
+heat shock protein binding,GO:0031072,"PARKINSON DISEASE 19A, JUVENILE-ONSET",OMIM:615528,0,,1,DNAJC6
+heat shock protein binding,GO:0031072,"PARKINSON DISEASE, LATE-ONSET",OMIM:168600,0,,1,MAPT
+heat shock protein binding,GO:0031072,"Parkinson Disease, Secondary",MESH:D010302,0,,3,PRKN|SLC18A2|TFAM
+heat shock protein binding,GO:0031072,Parkinsonian Disorders,MESH:D020734,0,,3,MAPT|PRKN|SLC18A2
+heme binding,GO:0020037,Parkinson Disease,MESH:D010300,0,,5,CYP2D6|CYP2E1|HBG1|HMOX1|NOS1
+heme binding,GO:0020037,"Parkinson Disease, Secondary",MESH:D010302,0,,1,NOS2
+heme oxygenase (decyclizing) activity,GO:0004392,Parkinson Disease,MESH:D010300,1,Rotenone,1,HMOX1
+heme oxygenase (decyclizing) activity,GO:0004392,"Parkinson Disease, Secondary",MESH:D010302,1,Rotenone,0,
+heme oxygenase (decyclizing) activity,GO:0004392,Parkinsonian Disorders,MESH:D020734,1,Rotenone,0,
+hemoglobin alpha binding,GO:0031721,Parkinson Disease,MESH:D010300,0,,1,HBG1
+heparan sulfate proteoglycan binding,GO:0043395,Parkinsonian Disorders,MESH:D020734,0,,1,ATP1A3
+hepatocyte growth factor receptor activity,GO:0005008,Parkinson Disease,MESH:D010300,0,,2,IGF1R|INSR
+heterocyclic compound binding,GO:1901363,Parkinson Disease,MESH:D010300,0,,4,DRD1|DRD2|SLC18A2|SLC6A3
+heterocyclic compound binding,GO:1901363,"Parkinson Disease, Secondary",MESH:D010302,0,,1,SLC18A2
+heterocyclic compound binding,GO:1901363,Parkinsonian Disorders,MESH:D020734,0,,2,DRD2|SLC18A2
+heterocyclic compound binding,GO:1901363,"Parkinsonism-Dystonia, Infantile",MESH:C567730,0,,1,SLC6A3
+heterotrimeric G-protein binding,GO:0032795,Parkinson Disease,MESH:D010300,0,,2,DRD1|DRD2
+heterotrimeric G-protein binding,GO:0032795,Parkinsonian Disorders,MESH:D020734,0,,1,DRD2
+hexokinase activity,GO:0004396,Parkinson Disease,MESH:D010300,4,Air Pollutants|Clozapine|Gabapentin|Particulate Matter,0,
+hexokinase activity,GO:0004396,"Parkinson Disease, Secondary",MESH:D010302,3,Chlorpromazine|Diltiazem|Valproic Acid,0,
+hexokinase activity,GO:0004396,Parkinsonian Disorders,MESH:D020734,5,Chlorpromazine|Clozapine|Indomethacin|Particulate Matter|Valproic Acid,0,
+hexokinase activity,GO:0004396,Wolff-Parkinson-White Syndrome,MESH:D014927,1,Diltiazem,0,
+high-density lipoprotein particle binding,GO:0008035,"Parkinson Disease, Secondary",MESH:D010302,0,,1,PON1
+high voltage-gated calcium channel activity,GO:0008331,Parkinson Disease,MESH:D010300,1,Particulate Matter,0,
+high voltage-gated calcium channel activity,GO:0008331,"Parkinson Disease, Secondary",MESH:D010302,1,Nifedipine,0,
+high voltage-gated calcium channel activity,GO:0008331,Parkinsonian Disorders,MESH:D020734,1,Particulate Matter,0,
+histone acetyltransferase activity,GO:0004402,Parkinson Disease,MESH:D010300,1,Estradiol,0,
+histone acetyltransferase activity,GO:0004402,"Parkinson Disease, Secondary",MESH:D010302,1,Valproic Acid,0,
+histone acetyltransferase activity,GO:0004402,Parkinsonian Disorders,MESH:D020734,3,Curcumin|manganese chloride|Valproic Acid,0,
+histone binding,GO:0042393,Parkinson Disease,MESH:D010300,0,,1,SNCA
+histone binding,GO:0042393,"PARKINSON DISEASE 1, AUTOSOMAL DOMINANT",OMIM:168601,0,,1,SNCA
+histone binding,GO:0042393,"Parkinson Disease 4, Autosomal Dominant Lewy Body",MESH:C565324,0,,1,SNCA
+histone binding,GO:0042393,"Parkinson Disease, Secondary",MESH:D010302,0,,1,SNCA
+histone binding,GO:0042393,Parkinsonian Disorders,MESH:D020734,0,,2,PARP1|SNCA
+histone deacetylase activity,GO:0004407,Parkinson Disease,MESH:D010300,2,Endosulfan|Estradiol,0,
+histone deacetylase activity,GO:0004407,"PARKINSON DISEASE, LATE-ONSET",OMIM:168600,0,,1,ATXN3
+histone deacetylase activity,GO:0004407,"Parkinson Disease, Secondary",MESH:D010302,2,Doxorubicin|Valproic Acid,0,
+histone deacetylase activity,GO:0004407,Parkinsonian Disorders,MESH:D020734,3,Curcumin|Plant Extracts|Valproic Acid,0,
+histone deacetylase binding,GO:0042826,Parkinson Disease,MESH:D010300,0,,3,HSPA1A|MTA1|PRKN
+histone deacetylase binding,GO:0042826,"PARKINSON DISEASE, LATE-ONSET",OMIM:168600,0,,1,ATXN3
+histone deacetylase binding,GO:0042826,"Parkinson Disease, Secondary",MESH:D010302,0,,1,PRKN
+histone deacetylase binding,GO:0042826,Parkinsonian Disorders,MESH:D020734,0,,2,PARP1|PRKN
+histone-dependent DNA binding,GO:0099077,Parkinson Disease,MESH:D010300,0,,1,MAPT
+histone-dependent DNA binding,GO:0099077,"PARKINSON DISEASE, LATE-ONSET",OMIM:168600,0,,1,MAPT
+histone-dependent DNA binding,GO:0099077,Parkinsonian Disorders,MESH:D020734,0,,1,MAPT
+histone H2AS121 kinase activity,GO:0072371,AMYOTROPHIC LATERAL SCLEROSIS-PARKINSONISM/DEMENTIA COMPLEX 1,OMIM:105500,0,,1,TRPM7
+histone H2AS121 kinase activity,GO:0072371,Parkinson Disease,MESH:D010300,0,,3,GAK|LRRK2|PINK1
+histone H2AS121 kinase activity,GO:0072371,"Parkinson Disease 6, Autosomal Recessive Early-Onset",MESH:C565276,0,,1,PINK1
+histone H2AS121 kinase activity,GO:0072371,"PARKINSON DISEASE 8, AUTOSOMAL DOMINANT",OMIM:607060,0,,1,LRRK2
+histone H2AS121 kinase activity,GO:0072371,Parkinsonian Disorders,MESH:D020734,0,,2,LRRK2|PINK1
+histone H2AS139 kinase activity,GO:0035979,AMYOTROPHIC LATERAL SCLEROSIS-PARKINSONISM/DEMENTIA COMPLEX 1,OMIM:105500,0,,1,TRPM7
+histone H2AS139 kinase activity,GO:0035979,Parkinson Disease,MESH:D010300,0,,3,GAK|LRRK2|PINK1
+histone H2AS139 kinase activity,GO:0035979,"Parkinson Disease 6, Autosomal Recessive Early-Onset",MESH:C565276,0,,1,PINK1
+histone H2AS139 kinase activity,GO:0035979,"PARKINSON DISEASE 8, AUTOSOMAL DOMINANT",OMIM:607060,0,,1,LRRK2
+histone H2AS139 kinase activity,GO:0035979,Parkinsonian Disorders,MESH:D020734,0,,2,LRRK2|PINK1
+histone H2AS1 kinase activity,GO:0044024,AMYOTROPHIC LATERAL SCLEROSIS-PARKINSONISM/DEMENTIA COMPLEX 1,OMIM:105500,0,,1,TRPM7
+histone H2AS1 kinase activity,GO:0044024,Parkinson Disease,MESH:D010300,0,,3,GAK|LRRK2|PINK1
+histone H2AS1 kinase activity,GO:0044024,"Parkinson Disease 6, Autosomal Recessive Early-Onset",MESH:C565276,0,,1,PINK1
+histone H2AS1 kinase activity,GO:0044024,"PARKINSON DISEASE 8, AUTOSOMAL DOMINANT",OMIM:607060,0,,1,LRRK2
+histone H2AS1 kinase activity,GO:0044024,Parkinsonian Disorders,MESH:D020734,0,,2,LRRK2|PINK1
+histone H2AT120 kinase activity,GO:1990244,AMYOTROPHIC LATERAL SCLEROSIS-PARKINSONISM/DEMENTIA COMPLEX 1,OMIM:105500,0,,1,TRPM7
+histone H2AT120 kinase activity,GO:1990244,Parkinson Disease,MESH:D010300,0,,3,GAK|LRRK2|PINK1
+histone H2AT120 kinase activity,GO:1990244,"Parkinson Disease 6, Autosomal Recessive Early-Onset",MESH:C565276,0,,1,PINK1
+histone H2AT120 kinase activity,GO:1990244,"PARKINSON DISEASE 8, AUTOSOMAL DOMINANT",OMIM:607060,0,,1,LRRK2
+histone H2AT120 kinase activity,GO:1990244,Parkinsonian Disorders,MESH:D020734,0,,2,LRRK2|PINK1
+histone H2BS14 kinase activity,GO:0044025,AMYOTROPHIC LATERAL SCLEROSIS-PARKINSONISM/DEMENTIA COMPLEX 1,OMIM:105500,0,,1,TRPM7
+histone H2BS14 kinase activity,GO:0044025,Parkinson Disease,MESH:D010300,0,,3,GAK|LRRK2|PINK1
+histone H2BS14 kinase activity,GO:0044025,"Parkinson Disease 6, Autosomal Recessive Early-Onset",MESH:C565276,0,,1,PINK1
+histone H2BS14 kinase activity,GO:0044025,"PARKINSON DISEASE 8, AUTOSOMAL DOMINANT",OMIM:607060,0,,1,LRRK2
+histone H2BS14 kinase activity,GO:0044025,Parkinsonian Disorders,MESH:D020734,0,,2,LRRK2|PINK1
+histone H2BS36 kinase activity,GO:0140823,AMYOTROPHIC LATERAL SCLEROSIS-PARKINSONISM/DEMENTIA COMPLEX 1,OMIM:105500,0,,1,TRPM7
+histone H2BS36 kinase activity,GO:0140823,Parkinson Disease,MESH:D010300,0,,3,GAK|LRRK2|PINK1
+histone H2BS36 kinase activity,GO:0140823,"Parkinson Disease 6, Autosomal Recessive Early-Onset",MESH:C565276,0,,1,PINK1
+histone H2BS36 kinase activity,GO:0140823,"PARKINSON DISEASE 8, AUTOSOMAL DOMINANT",OMIM:607060,0,,1,LRRK2
+histone H2BS36 kinase activity,GO:0140823,Parkinsonian Disorders,MESH:D020734,0,,2,LRRK2|PINK1
+histone H2Y142 phosphatase activity,GO:0140793,"PARKINSON DISEASE 19A, JUVENILE-ONSET",OMIM:615528,0,,1,DNAJC6
+histone H3K9 demethylase activity,GO:0032454,Parkinson Disease,MESH:D010300,2,Melatonin|Particulate Matter,0,
+histone H3K9 demethylase activity,GO:0032454,"Parkinson Disease, Secondary",MESH:D010302,1,Melatonin,0,
+histone H3K9 demethylase activity,GO:0032454,Parkinsonian Disorders,MESH:D020734,2,Melatonin|Particulate Matter,0,
+histone H3S10 kinase activity,GO:0035175,AMYOTROPHIC LATERAL SCLEROSIS-PARKINSONISM/DEMENTIA COMPLEX 1,OMIM:105500,0,,1,TRPM7
+histone H3S10 kinase activity,GO:0035175,Parkinson Disease,MESH:D010300,0,,3,GAK|LRRK2|PINK1
+histone H3S10 kinase activity,GO:0035175,"Parkinson Disease 6, Autosomal Recessive Early-Onset",MESH:C565276,0,,1,PINK1
+histone H3S10 kinase activity,GO:0035175,"PARKINSON DISEASE 8, AUTOSOMAL DOMINANT",OMIM:607060,0,,1,LRRK2
+histone H3S10 kinase activity,GO:0035175,Parkinsonian Disorders,MESH:D020734,0,,2,LRRK2|PINK1
+histone H3S28 kinase activity,GO:0044022,AMYOTROPHIC LATERAL SCLEROSIS-PARKINSONISM/DEMENTIA COMPLEX 1,OMIM:105500,0,,1,TRPM7
+histone H3S28 kinase activity,GO:0044022,Parkinson Disease,MESH:D010300,0,,3,GAK|LRRK2|PINK1
+histone H3S28 kinase activity,GO:0044022,"Parkinson Disease 6, Autosomal Recessive Early-Onset",MESH:C565276,0,,1,PINK1
+histone H3S28 kinase activity,GO:0044022,"PARKINSON DISEASE 8, AUTOSOMAL DOMINANT",OMIM:607060,0,,1,LRRK2
+histone H3S28 kinase activity,GO:0044022,Parkinsonian Disorders,MESH:D020734,0,,2,LRRK2|PINK1
+histone H3S57 kinase activity,GO:0140855,AMYOTROPHIC LATERAL SCLEROSIS-PARKINSONISM/DEMENTIA COMPLEX 1,OMIM:105500,0,,1,TRPM7
+histone H3S57 kinase activity,GO:0140855,Parkinson Disease,MESH:D010300,0,,3,GAK|LRRK2|PINK1
+histone H3S57 kinase activity,GO:0140855,"Parkinson Disease 6, Autosomal Recessive Early-Onset",MESH:C565276,0,,1,PINK1
+histone H3S57 kinase activity,GO:0140855,"PARKINSON DISEASE 8, AUTOSOMAL DOMINANT",OMIM:607060,0,,1,LRRK2
+histone H3S57 kinase activity,GO:0140855,Parkinsonian Disorders,MESH:D020734,0,,2,LRRK2|PINK1
+histone H3T11 kinase activity,GO:0035402,AMYOTROPHIC LATERAL SCLEROSIS-PARKINSONISM/DEMENTIA COMPLEX 1,OMIM:105500,0,,1,TRPM7
+histone H3T11 kinase activity,GO:0035402,Parkinson Disease,MESH:D010300,0,,3,GAK|LRRK2|PINK1
+histone H3T11 kinase activity,GO:0035402,"Parkinson Disease 6, Autosomal Recessive Early-Onset",MESH:C565276,0,,1,PINK1
+histone H3T11 kinase activity,GO:0035402,"PARKINSON DISEASE 8, AUTOSOMAL DOMINANT",OMIM:607060,0,,1,LRRK2
+histone H3T11 kinase activity,GO:0035402,Parkinsonian Disorders,MESH:D020734,0,,2,LRRK2|PINK1
+histone H3T3 kinase activity,GO:0072354,AMYOTROPHIC LATERAL SCLEROSIS-PARKINSONISM/DEMENTIA COMPLEX 1,OMIM:105500,0,,1,TRPM7
+histone H3T3 kinase activity,GO:0072354,Parkinson Disease,MESH:D010300,0,,3,GAK|LRRK2|PINK1
+histone H3T3 kinase activity,GO:0072354,"Parkinson Disease 6, Autosomal Recessive Early-Onset",MESH:C565276,0,,1,PINK1
+histone H3T3 kinase activity,GO:0072354,"PARKINSON DISEASE 8, AUTOSOMAL DOMINANT",OMIM:607060,0,,1,LRRK2
+histone H3T3 kinase activity,GO:0072354,Parkinsonian Disorders,MESH:D020734,0,,2,LRRK2|PINK1
+histone H3T45 kinase activity,GO:0140857,AMYOTROPHIC LATERAL SCLEROSIS-PARKINSONISM/DEMENTIA COMPLEX 1,OMIM:105500,0,,1,TRPM7
+histone H3T45 kinase activity,GO:0140857,Parkinson Disease,MESH:D010300,0,,3,GAK|LRRK2|PINK1
+histone H3T45 kinase activity,GO:0140857,"Parkinson Disease 6, Autosomal Recessive Early-Onset",MESH:C565276,0,,1,PINK1
+histone H3T45 kinase activity,GO:0140857,"PARKINSON DISEASE 8, AUTOSOMAL DOMINANT",OMIM:607060,0,,1,LRRK2
+histone H3T45 kinase activity,GO:0140857,Parkinsonian Disorders,MESH:D020734,0,,2,LRRK2|PINK1
+histone H3T6 kinase activity,GO:0035403,AMYOTROPHIC LATERAL SCLEROSIS-PARKINSONISM/DEMENTIA COMPLEX 1,OMIM:105500,0,,1,TRPM7
+histone H3T6 kinase activity,GO:0035403,Parkinson Disease,MESH:D010300,0,,3,GAK|LRRK2|PINK1
+histone H3T6 kinase activity,GO:0035403,"Parkinson Disease 6, Autosomal Recessive Early-Onset",MESH:C565276,0,,1,PINK1
+histone H3T6 kinase activity,GO:0035403,"PARKINSON DISEASE 8, AUTOSOMAL DOMINANT",OMIM:607060,0,,1,LRRK2
+histone H3T6 kinase activity,GO:0035403,Parkinsonian Disorders,MESH:D020734,0,,2,LRRK2|PINK1
+histone H4S1 kinase activity,GO:0044023,AMYOTROPHIC LATERAL SCLEROSIS-PARKINSONISM/DEMENTIA COMPLEX 1,OMIM:105500,0,,1,TRPM7
+histone H4S1 kinase activity,GO:0044023,Parkinson Disease,MESH:D010300,0,,3,GAK|LRRK2|PINK1
+histone H4S1 kinase activity,GO:0044023,"Parkinson Disease 6, Autosomal Recessive Early-Onset",MESH:C565276,0,,1,PINK1
+histone H4S1 kinase activity,GO:0044023,"PARKINSON DISEASE 8, AUTOSOMAL DOMINANT",OMIM:607060,0,,1,LRRK2
+histone H4S1 kinase activity,GO:0044023,Parkinsonian Disorders,MESH:D020734,0,,2,LRRK2|PINK1
+hormone activity,GO:0005179,Parkinson Disease,MESH:D010300,0,,3,EDN1|IGF2|INS
+hormone activity,GO:0005179,Parkinsonian Disorders,MESH:D020734,0,,1,PRL
+Hsp70 protein binding,GO:0030544,Parkinson Disease,MESH:D010300,0,,3,CYP2E1|PRKN|SNCA
+Hsp70 protein binding,GO:0030544,"PARKINSON DISEASE 1, AUTOSOMAL DOMINANT",OMIM:168601,0,,1,SNCA
+Hsp70 protein binding,GO:0030544,"Parkinson Disease 4, Autosomal Dominant Lewy Body",MESH:C565324,0,,1,SNCA
+Hsp70 protein binding,GO:0030544,"Parkinson Disease, Secondary",MESH:D010302,0,,2,PRKN|SNCA
+Hsp70 protein binding,GO:0030544,Parkinsonian Disorders,MESH:D020734,0,,2,PRKN|SNCA
+Hsp90 protein binding,GO:0051879,Parkinson Disease,MESH:D010300,0,,2,CYP2E1|MAPT
+Hsp90 protein binding,GO:0051879,"PARKINSON DISEASE, LATE-ONSET",OMIM:168600,0,,1,MAPT
+Hsp90 protein binding,GO:0051879,"Parkinson Disease, Secondary",MESH:D010302,0,,1,NOS2
+Hsp90 protein binding,GO:0051879,Parkinsonian Disorders,MESH:D020734,0,,1,MAPT
+hydrolase activity,GO:0016787,Parkinson Disease,MESH:D010300,0,,5,DNM1L|FBP1|GBA1|PARK7|RDGA
+hydrolase activity,GO:0016787,"PARKINSON DISEASE 14, AUTOSOMAL RECESSIVE",OMIM:612953,0,,1,PLA2G6
+hydrolase activity,GO:0016787,"PARKINSON DISEASE 5, AUTOSOMAL DOMINANT, SUSCEPTIBILITY TO",OMIM:613643,0,,1,UCHL1
+hydrolase activity,GO:0016787,"Parkinson Disease 7, Autosomal Recessive Early-Onset",MESH:C565238,0,,1,PARK7
+hydrolase activity,GO:0016787,"PARKINSON DISEASE, LATE-ONSET",OMIM:168600,0,,2,ATXN3|GBA1
+hydrolase activity,GO:0016787,"Parkinson Disease, Secondary",MESH:D010302,0,,1,PON1
+hydrolase activity,GO:0016787,Parkinsonian Disorders,MESH:D020734,0,,2,GBA1|PARK7
+"hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds, in cyclic amides",GO:0016812,"PARKINSON DISEASE 23, AUTOSOMAL RECESSIVE EARLY-ONSET",OMIM:616840,0,,1,VPS13C
+"hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds, in linear amides",GO:0016811,Parkinson Disease,MESH:D010300,0,,1,PARK7
+"hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds, in linear amides",GO:0016811,"Parkinson Disease 7, Autosomal Recessive Early-Onset",MESH:C565238,0,,1,PARK7
+"hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds, in linear amides",GO:0016811,Parkinsonian Disorders,MESH:D020734,0,,1,PARK7
+"hydrolase activity, acting on ester bonds",GO:0016788,Parkinson Disease,MESH:D010300,2,Chlorpyrifos|Permethrin,1,MAG
+"hydrolase activity, acting on ester bonds",GO:0016788,"Parkinson Disease, Secondary",MESH:D010302,0,,1,BCHE
+"hydrolase activity, acting on ester bonds",GO:0016788,Parkinsonian Disorders,MESH:D020734,1,Permethrin,0,
+"hydrolase activity, acting on glycosyl bonds",GO:0016798,Parkinson Disease,MESH:D010300,0,,1,GBA1
+"hydrolase activity, acting on glycosyl bonds",GO:0016798,"PARKINSON DISEASE, LATE-ONSET",OMIM:168600,0,,1,GBA1
+"hydrolase activity, acting on glycosyl bonds",GO:0016798,Parkinsonian Disorders,MESH:D020734,0,,1,GBA1
+identical protein binding,GO:0042802,Parkinson Disease,MESH:D010300,0,,32,ALDH2|CEACAM6|DNM1L|DRD2|ENO2|FBP1|GFAP|GSTA4|GSTM1|HGF|HMOX1|IGF1R|IGF2R|IL6|INS|INSR|LRRK2|MAG|MAOB|MAP3K5|MAPT|NECTIN2|NOS1|NQO1|PARK7|PRKN|SNCA|SOD1|SOD2|TALDO1|TH|TNF
+identical protein binding,GO:0042802,Parkinson Disease 13,MESH:C565204,0,,1,HTRA2
+identical protein binding,GO:0042802,"PARKINSON DISEASE 14, AUTOSOMAL RECESSIVE",OMIM:612953,0,,1,PLA2G6
+identical protein binding,GO:0042802,"PARKINSON DISEASE 1, AUTOSOMAL DOMINANT",OMIM:168601,0,,1,SNCA
+identical protein binding,GO:0042802,"Parkinson Disease 4, Autosomal Dominant Lewy Body",MESH:C565324,0,,1,SNCA
+identical protein binding,GO:0042802,"Parkinson Disease 7, Autosomal Recessive Early-Onset",MESH:C565238,0,,1,PARK7
+identical protein binding,GO:0042802,"PARKINSON DISEASE 8, AUTOSOMAL DOMINANT",OMIM:607060,0,,1,LRRK2
+identical protein binding,GO:0042802,"PARKINSON DISEASE, LATE-ONSET",OMIM:168600,0,,4,ADH1C|ATXN3|MAPT|SNCAIP
+identical protein binding,GO:0042802,"Parkinson Disease, Secondary",MESH:D010302,0,,4,BCHE|NOS2|PRKN|SNCA
+identical protein binding,GO:0042802,Parkinsonian Disorders,MESH:D020734,0,,14,ALDH1A1|DCTN1|DRD2|GAPDH|GSR|HTRA2|LRRK2|MAPT|PARK7|PARP1|PRKN|PRKRA|SNCA|TH
+IgE binding,GO:0019863,Parkinson Disease,MESH:D010300,0,,1,FCER2
+IkappaB kinase activity,GO:0008384,"Parkinson Disease, Secondary",MESH:D010302,1,Resveratrol,0,
+IkappaB kinase activity,GO:0008384,Parkinsonian Disorders,MESH:D020734,1,Resveratrol,0,
+IMP dehydrogenase activity,GO:0003938,"Parkinson Disease, Secondary",MESH:D010302,1,Ribavirin,0,
+"indoleamine 2,3-dioxygenase activity",GO:0033754,Parkinson Disease,MESH:D010300,1,Lipopolysaccharides,0,
+"indoleamine 2,3-dioxygenase activity",GO:0033754,Parkinsonian Disorders,MESH:D020734,2,Cadmium|Lipopolysaccharides,0,
+"inositol-1,4,5-trisphosphate 5-phosphatase activity",GO:0052658,"PARKINSON DISEASE 20, EARLY-ONSET",OMIM:615530,0,,1,SYNJ1
+inositol phosphate phosphatase activity,GO:0052745,"PARKINSON DISEASE 20, EARLY-ONSET",OMIM:615530,0,,1,SYNJ1
+insulin binding,GO:0043559,Parkinson Disease,MESH:D010300,0,,2,IGF1R|INSR
+insulin-like growth factor binding,GO:0005520,Parkinson Disease,MESH:D010300,0,,2,IGF1R|IGF2R
+insulin-like growth factor I binding,GO:0031994,Parkinson Disease,MESH:D010300,0,,2,IGF1R|INSR
+insulin-like growth factor II binding,GO:0031995,Parkinson Disease,MESH:D010300,0,,2,IGF2R|INSR
+insulin-like growth factor receptor activity,GO:0005010,Parkinson Disease,MESH:D010300,0,,3,IGF1R|IGF2R|INSR
+insulin-like growth factor receptor binding,GO:0005159,Parkinson Disease,MESH:D010300,0,,3,IGF2|INS|INSR
+insulin receptor activity,GO:0005009,Parkinson Disease,MESH:D010300,0,,2,IGF1R|INSR
+insulin receptor binding,GO:0005158,Parkinson Disease,MESH:D010300,0,,3,IGF1R|IGF2|INS
+insulin receptor substrate binding,GO:0043560,Parkinson Disease,MESH:D010300,0,,2,IGF1R|INSR
+insulin receptor substrate binding,GO:0043560,Parkinsonian Disorders,MESH:D020734,0,,1,PRKCD
+integrin binding,GO:0005178,Parkinson Disease,MESH:D010300,0,,3,FCER2|GFAP|IGF2
+interleukin-6 receptor binding,GO:0005138,Parkinson Disease,MESH:D010300,0,,1,IL6
+intracellular cAMP-activated cation channel activity,GO:0005222,Parkinson Disease,MESH:D010300,1,Sirolimus,0,
+inward rectifier potassium channel activity,GO:0005242,Parkinson Disease,MESH:D010300,0,,1,KCNJ4
+inward rectifier potassium channel activity,GO:0005242,"Parkinson Disease, Secondary",MESH:D010302,2,Cisapride|Verapamil,0,
+inward rectifier potassium channel activity,GO:0005242,Parkinsonian Disorders,MESH:D020734,1,Verapamil,0,
+ionotropic glutamate receptor binding,GO:0035255,Parkinson Disease,MESH:D010300,0,,1,DRD2
+ionotropic glutamate receptor binding,GO:0035255,Parkinsonian Disorders,MESH:D020734,0,,1,DRD2
+iron ion binding,GO:0005506,Parkinson Disease,MESH:D010300,0,,3,CYP2D6|CYP2E1|TH
+iron ion binding,GO:0005506,Parkinsonian Disorders,MESH:D020734,1,Cadmium,2,CAT-2|TH
+iron ion transmembrane transporter activity,GO:0005381,"Dystonia-Parkinsonism, Adult-Onset",MESH:C567844,0,,1,SLC39A14
+iron-sulfur cluster binding,GO:0051536,Parkinson Disease,MESH:D010300,0,,1,ATP13A2
+iron-sulfur cluster binding,GO:0051536,"Parkinson Disease, Secondary",MESH:D010302,0,,1,ATP13A2
+iron-sulfur cluster binding,GO:0051536,Parkinsonian Disorders,MESH:D020734,0,,1,ATP13A2
+isocitrate dehydrogenase (NAD+) activity,GO:0004449,Parkinson Disease,MESH:D010300,1,Zinc,0,
+isocitrate dehydrogenase (NADP+) activity,GO:0004450,Parkinson Disease,MESH:D010300,2,Acrolein|Zinc,0,
+isocitrate dehydrogenase [NAD(P)+] activity,GO:0004448,Parkinson Disease,MESH:D010300,2,Copper|Iron,0,
+isocitrate dehydrogenase [NAD(P)+] activity,GO:0004448,"Parkinson Disease, Secondary",MESH:D010302,1,Doxorubicin,0,
+isocitrate dehydrogenase [NAD(P)+] activity,GO:0004448,Parkinsonian Disorders,MESH:D020734,1,Cadmium,0,
+isocitrate dehydrogenase [NAD(P)+] activity,GO:0004448,Wolff-Parkinson-White Syndrome,MESH:D014927,1,Isoproterenol,0,
+JUN kinase activity,GO:0004705,Parkinson Disease,MESH:D010300,2,1-Methyl-4-phenylpyridinium|Lipopolysaccharides,0,
+JUN kinase activity,GO:0004705,Parkinsonian Disorders,MESH:D020734,4,1-Methyl-4-phenylpyridinium|Cadmium|Docosahexaenoic Acids|Lipopolysaccharides,0,
+JUN kinase binding,GO:0008432,Parkinson Disease,MESH:D010300,0,,1,GSTP1
+JUN kinase kinase kinase activity,GO:0004706,Parkinson Disease,MESH:D010300,0,,2,LRRK2|MAP3K5
+JUN kinase kinase kinase activity,GO:0004706,"PARKINSON DISEASE 8, AUTOSOMAL DOMINANT",OMIM:607060,0,,1,LRRK2
+JUN kinase kinase kinase activity,GO:0004706,Parkinsonian Disorders,MESH:D020734,0,,1,LRRK2
+K48-linked deubiquitinase activity,GO:1990380,"PARKINSON DISEASE, LATE-ONSET",OMIM:168600,0,,1,ATXN3
+K63-linked deubiquitinase activity,GO:0061578,"PARKINSON DISEASE, LATE-ONSET",OMIM:168600,0,,1,ATXN3
+kinase activity,GO:0016301,AMYOTROPHIC LATERAL SCLEROSIS-PARKINSONISM/DEMENTIA COMPLEX 1,OMIM:105500,0,,1,TRPM7
+kinase activity,GO:0016301,Parkinson Disease,MESH:D010300,0,,4,GAK|LRRK2|MAP3K5|PINK1
+kinase activity,GO:0016301,"Parkinson Disease 6, Autosomal Recessive Early-Onset",MESH:C565276,0,,1,PINK1
+kinase activity,GO:0016301,"PARKINSON DISEASE 8, AUTOSOMAL DOMINANT",OMIM:607060,0,,1,LRRK2
+kinase activity,GO:0016301,Parkinsonian Disorders,MESH:D020734,0,,3,LRRK2|PINK1|PRKRA
+kinase activity,GO:0016301,Wolff-Parkinson-White Syndrome,MESH:D014927,0,,1,PRKAG2
+kinase binding,GO:0019900,Parkinson Disease,MESH:D010300,0,,4,GFAP|PARK7|PINK1|PRKN
+kinase binding,GO:0019900,"Parkinson Disease 6, Autosomal Recessive Early-Onset",MESH:C565276,0,,1,PINK1
+kinase binding,GO:0019900,"Parkinson Disease 7, Autosomal Recessive Early-Onset",MESH:C565238,0,,1,PARK7
+kinase binding,GO:0019900,"Parkinson Disease, Secondary",MESH:D010302,0,,1,PRKN
+kinase binding,GO:0019900,Parkinsonian Disorders,MESH:D020734,0,,3,PARK7|PINK1|PRKN
+kinase regulator activity,GO:0019207,Parkinson Disease,MESH:D010300,0,,1,GSTP1
+kinesin binding,GO:0019894,Parkinson Disease,MESH:D010300,0,,1,SNCA
+kinesin binding,GO:0019894,"PARKINSON DISEASE 1, AUTOSOMAL DOMINANT",OMIM:168601,0,,1,SNCA
+kinesin binding,GO:0019894,"Parkinson Disease 4, Autosomal Dominant Lewy Body",MESH:C565324,0,,1,SNCA
+kinesin binding,GO:0019894,"Parkinson Disease, Secondary",MESH:D010302,0,,1,SNCA
+kinesin binding,GO:0019894,Parkinsonian Disorders,MESH:D020734,0,,1,SNCA
+lactase activity,GO:0000016,"Parkinson Disease, Secondary",MESH:D010302,1,geraniol,0,
+lactase activity,GO:0000016,Parkinsonian Disorders,MESH:D020734,1,geraniol,0,
+lactate dehydrogenase activity,GO:0004457,AMYOTROPHIC LATERAL SCLEROSIS-PARKINSONISM/DEMENTIA COMPLEX 1,OMIM:105500,1,beta-N-methylamino-L-alanine,0,
+lactate dehydrogenase activity,GO:0004457,Parkinson Disease,MESH:D010300,25,"1-Methyl-4-phenylpyridinium|4-phenylbutyric acid|Air Pollutants|Atrazine|beta-N-methylamino-L-alanine|Caffeine|carbidopa, levodopa drug combination|Carbon Tetrachloride|Chlorpyrifos|Clozapine|Endosulfan|Homocysteine|Lead|Lipopolysaccharides|Maneb|Manganese|Oxidopamine|Ozone|Paraquat|Particulate Matter|Permethrin|Rotenone|Sirolimus|Trichloroethylene|Zinc",0,
+lactate dehydrogenase activity,GO:0004457,"Parkinson Disease, Secondary",MESH:D010302,21,"3-methyladenine|Atrazine|Benzo(a)pyrene|carbidopa, levodopa drug combination|Cimetidine|Doxorubicin|geraniol|Maneb|Manganese|Methotrexate|Nicotine|Oxidopamine|Paraquat|PQQ Cofactor|Resveratrol|Rotenone|Silymarin|thymoquinone|Trichloroethylene|Valproic Acid|Venlafaxine Hydrochloride",0,
+lactate dehydrogenase activity,GO:0004457,Parkinsonian Disorders,MESH:D020734,24,"1-Methyl-4-phenylpyridinium|baicalin|Cadmium|carbidopa, levodopa drug combination|Clozapine|coenzyme Q10|crocin|Curcumin|cypermethrin|geraniol|Lipopolysaccharides|Maneb|Manganese|manganese chloride|Oxidopamine|Paraquat|Particulate Matter|Permethrin|Plant Extracts|Resveratrol|Rotenone|Silymarin|taxifolin|Valproic Acid",0,
+lactate dehydrogenase activity,GO:0004457,Wolff-Parkinson-White Syndrome,MESH:D014927,1,Isoproterenol,0,
+L-alanine:2-oxoglutarate aminotransferase activity,GO:0004021,Parkinson Disease,MESH:D010300,2,Lead|Pyridoxine,0,
+L-alanine:2-oxoglutarate aminotransferase activity,GO:0004021,"Parkinson Disease, Secondary",MESH:D010302,3,geraniol|Pyridoxine|Silymarin,0,
+L-alanine:2-oxoglutarate aminotransferase activity,GO:0004021,Parkinsonian Disorders,MESH:D020734,3,geraniol|Plant Extracts|Silymarin,0,
+laminin-1 binding,GO:0043237,"Parkinson Disease, Secondary",MESH:D010302,0,,1,SHH
+large conductance calcium-activated potassium channel activity,GO:0060072,Parkinsonian Disorders,MESH:D020734,1,Rimonabant,0,
+large ribosomal subunit rRNA binding,GO:0070180,Parkinson Disease,MESH:D010300,0,,1,RPL23A
+L-aspartate:2-oxoglutarate aminotransferase activity,GO:0004069,Parkinson Disease,MESH:D010300,24,4-phenylbutyric acid|Atrazine|Caffeine|Carbidopa|Carbon Tetrachloride|Chlorpyrifos|Herbicides|Homocysteine|Iron|Ketoconazole|Lead|Lipopolysaccharides|mangiferin|Melatonin|Methomyl|Ozone|Paraquat|pendimethalin|Permethrin|Pioglitazone|Rotenone|Sirolimus|Tranylcypromine|Zinc,0,
+L-aspartate:2-oxoglutarate aminotransferase activity,GO:0004069,"Parkinson Disease, Secondary",MESH:D010302,18,3-methyladenine|Amlodipine|Atrazine|Benzo(a)pyrene|Carbidopa|Cimetidine|Doxorubicin|geraniol|Melatonin|Methotrexate|Nicotine|Paraquat|Paroxetine|Resveratrol|Rotenone|Silymarin|thymoquinone|Vincristine,0,
+L-aspartate:2-oxoglutarate aminotransferase activity,GO:0004069,Parkinsonian Disorders,MESH:D020734,24,6-methyl-2-(phenylethynyl)pyridine|Amlodipine|baicalin|Cadmium|Carbidopa|coenzyme Q10|crocin|Curcumin|cypermethrin|Docosahexaenoic Acids|geraniol|Ketoconazole|Lipopolysaccharides|Melatonin|Muscimol|Paraquat|Paroxetine|Permethrin|Plant Extracts|Resveratrol|Rotenone|Silymarin|taxifolin|Zidovudine,0,
+L-aspartate:2-oxoglutarate aminotransferase activity,GO:0004069,Wolff-Parkinson-White Syndrome,MESH:D014927,1,Isoproterenol,0,
+L-dopa decarboxylase activator activity,GO:0036478,Parkinson Disease,MESH:D010300,0,,1,PARK7
+L-dopa decarboxylase activator activity,GO:0036478,"Parkinson Disease 7, Autosomal Recessive Early-Onset",MESH:C565238,0,,1,PARK7
+L-dopa decarboxylase activator activity,GO:0036478,Parkinsonian Disorders,MESH:D020734,0,,1,PARK7
+L-dopa decarboxylase activity,GO:0036468,Parkinson Disease,MESH:D010300,0,,1,DDC
+L-dopa decarboxylase activity,GO:0036468,Parkinsonian Disorders,MESH:D020734,0,,1,DDC
+L-glutamine transmembrane transporter activity,GO:0015186,Parkinson Disease,MESH:D010300,0,,1,SLC38A2
+ligand-gated calcium channel activity,GO:0099604,Parkinson Disease,MESH:D010300,0,,1,TRPM2
+ligand-gated monoatomic cation channel activity,GO:0099094,Parkinson Disease,MESH:D010300,0,,1,TRPM2
+ligand-gated monoatomic ion channel activity,GO:0015276,"Parkinson Disease, Secondary",MESH:D010302,1,geraniol,0,
+ligand-gated monoatomic ion channel activity,GO:0015276,Parkinsonian Disorders,MESH:D020734,1,geraniol,0,
+ligase activity,GO:0016874,Parkinson Disease,MESH:D010300,0,,1,PRKN
+ligase activity,GO:0016874,"Parkinson Disease, Secondary",MESH:D010302,0,,1,PRKN
+ligase activity,GO:0016874,Parkinsonian Disorders,MESH:D020734,0,,1,PRKN
+lipase activity,GO:0016298,Parkinson Disease,MESH:D010300,1,Ozone,0,
+lipase activity,GO:0016298,Parkinsonian Disorders,MESH:D020734,1,Plant Extracts,0,
+lipid binding,GO:0008289,Parkinson Disease,MESH:D010300,0,,3,DNM1L|NGF|SNCA
+lipid binding,GO:0008289,"PARKINSON DISEASE 1, AUTOSOMAL DOMINANT",OMIM:168601,0,,1,SNCA
+lipid binding,GO:0008289,"Parkinson Disease 4, Autosomal Dominant Lewy Body",MESH:C565324,0,,1,SNCA
+lipid binding,GO:0008289,"Parkinson Disease, Secondary",MESH:D010302,0,,1,SNCA
+lipid binding,GO:0008289,Parkinsonian Disorders,MESH:D020734,0,,2,NGF|SNCA
+lipid transporter activity,GO:0005319,Parkinson Disease,MESH:D010300,0,,1,MAG
+lipoic acid binding,GO:0031405,Parkinson Disease,MESH:D010300,0,,1,INSR
+lipoprotein particle binding,GO:0071813,Parkinson Disease,MESH:D010300,0,,1,MAPT
+lipoprotein particle binding,GO:0071813,"PARKINSON DISEASE, LATE-ONSET",OMIM:168600,0,,1,MAPT
+lipoprotein particle binding,GO:0071813,Parkinsonian Disorders,MESH:D020734,0,,1,MAPT
+L-lactate dehydrogenase activity,GO:0004459,Parkinson Disease,MESH:D010300,1,"Water Pollutants, Chemical",0,
+lncRNA binding,GO:0106222,Parkinson Disease,MESH:D010300,0,,1,PPARGC1A
+long-chain acyl-CoA hydrolase activity,GO:0052816,"PARKINSON DISEASE 14, AUTOSOMAL RECESSIVE",OMIM:612953,0,,1,PLA2G6
+long-chain fatty acid omega-1 hydroxylase activity,GO:0120319,Parkinson Disease,MESH:D010300,0,,1,CYP2E1
+low-affinity IgE receptor activity,GO:0019769,Parkinson Disease,MESH:D010300,0,,1,FCER2
+L-serine transmembrane transporter activity,GO:0015194,Parkinson Disease,MESH:D010300,0,,1,SLC38A2
+lyase activity,GO:0016829,Parkinson Disease,MESH:D010300,0,,2,DDC|ENO2
+lyase activity,GO:0016829,Parkinsonian Disorders,MESH:D020734,0,,1,DDC
+lysine-acetylated histone binding,GO:0070577,Parkinson Disease,MESH:D010300,2,"Fungicides, Industrial|Manganese",0,
+lysine-acetylated histone binding,GO:0070577,"Parkinson Disease, Secondary",MESH:D010302,3,Manganese|Nicotine|Valproic Acid,0,
+lysine-acetylated histone binding,GO:0070577,Parkinsonian Disorders,MESH:D020734,3,Manganese|manganese chloride|Valproic Acid,0,
+lysophospholipase activity,GO:0004622,"PARKINSON DISEASE 14, AUTOSOMAL RECESSIVE",OMIM:612953,0,,1,PLA2G6
+macrophage colony-stimulating factor receptor activity,GO:0005011,Parkinson Disease,MESH:D010300,0,,2,IGF1R|INSR
+magnesium ion binding,GO:0000287,Parkinson Disease,MESH:D010300,0,,5,ENO2|LRRK2|MAP3K5|PINK1|SNCA
+magnesium ion binding,GO:0000287,"PARKINSON DISEASE 1, AUTOSOMAL DOMINANT",OMIM:168601,0,,1,SNCA
+magnesium ion binding,GO:0000287,"Parkinson Disease 4, Autosomal Dominant Lewy Body",MESH:C565324,0,,1,SNCA
+magnesium ion binding,GO:0000287,"Parkinson Disease 6, Autosomal Recessive Early-Onset",MESH:C565276,0,,1,PINK1
+magnesium ion binding,GO:0000287,"PARKINSON DISEASE 8, AUTOSOMAL DOMINANT",OMIM:607060,0,,1,LRRK2
+magnesium ion binding,GO:0000287,"Parkinson Disease, Secondary",MESH:D010302,0,,1,SNCA
+magnesium ion binding,GO:0000287,Parkinsonian Disorders,MESH:D020734,0,,3,LRRK2|PINK1|SNCA
+magnesium ion transmembrane transporter activity,GO:0015095,AMYOTROPHIC LATERAL SCLEROSIS-PARKINSONISM/DEMENTIA COMPLEX 1,OMIM:105500,0,,1,TRPM7
+malate dehydrogenase activity,GO:0016615,Parkinson Disease,MESH:D010300,2,Air Pollutants|Particulate Matter,0,
+malate dehydrogenase activity,GO:0016615,"Parkinson Disease, Secondary",MESH:D010302,2,Doxorubicin|thymoquinone,0,
+malate dehydrogenase activity,GO:0016615,Parkinsonian Disorders,MESH:D020734,3,Cadmium|Curcumin|Particulate Matter,0,
+malate dehydrogenase activity,GO:0016615,Wolff-Parkinson-White Syndrome,MESH:D014927,1,Isoproterenol,0,
+malic enzyme activity,GO:0004470,Parkinson Disease,MESH:D010300,2,Copper|Zinc,0,
+malic enzyme activity,GO:0004470,"Parkinson Disease, Secondary",MESH:D010302,1,thymoquinone,0,
+maltose alpha-glucosidase activity,GO:0032450,Parkinson Disease,MESH:D010300,1,Paraquat,0,
+maltose alpha-glucosidase activity,GO:0032450,"Parkinson Disease, Secondary",MESH:D010302,1,Paraquat,0,
+maltose alpha-glucosidase activity,GO:0032450,Parkinsonian Disorders,MESH:D020734,1,Paraquat,0,
+manganese ion binding,GO:0030145,Parkinson Disease,MESH:D010300,0,,2,ATP13A2|SOD2
+manganese ion binding,GO:0030145,"Parkinson Disease, Secondary",MESH:D010302,0,,1,ATP13A2
+manganese ion binding,GO:0030145,Parkinsonian Disorders,MESH:D020734,0,,1,ATP13A2
+manganese ion transmembrane transporter activity,GO:0005384,"Dystonia-Parkinsonism, Adult-Onset",MESH:C567844,0,,1,SLC39A14
+manganese ion transmembrane transporter activity,GO:0005384,Parkinson Disease,MESH:D010300,0,,2,SLC30A10|TRPM2
+manganese ion transmembrane transporter activity,GO:0005384,Parkinsonian Disorders,MESH:D020734,0,,1,SLC30A10
+mannose binding,GO:0005537,Parkinson Disease,MESH:D010300,0,,1,IGF2R
+MAP kinase activity,GO:0004707,Parkinsonian Disorders,MESH:D020734,1,Cadmium,0,
+MAP kinase kinase kinase activity,GO:0004709,Parkinson Disease,MESH:D010300,0,,2,LRRK2|MAP3K5
+MAP kinase kinase kinase activity,GO:0004709,"PARKINSON DISEASE 8, AUTOSOMAL DOMINANT",OMIM:607060,0,,1,LRRK2
+MAP kinase kinase kinase activity,GO:0004709,Parkinsonian Disorders,MESH:D020734,0,,1,LRRK2
+membrane scission GTPase motor activity,GO:1990606,Parkinson Disease,MESH:D010300,0,,1,DNM1L
+mercury ion binding,GO:0045340,Parkinson Disease,MESH:D010300,0,,1,PARK7
+mercury ion binding,GO:0045340,"Parkinson Disease 7, Autosomal Recessive Early-Onset",MESH:C565238,0,,1,PARK7
+mercury ion binding,GO:0045340,Parkinsonian Disorders,MESH:D020734,0,,1,PARK7
+metal ion binding,GO:0046872,AMYOTROPHIC LATERAL SCLEROSIS-PARKINSONISM/DEMENTIA COMPLEX 1,OMIM:105500,0,,1,TRPM7
+metal ion binding,GO:0046872,Parkinson Disease,MESH:D010300,0,,23,ADARB2|AIF1|ATP13A2|CP|CYP2D6|ENO2|FBP1|FCER2|HBG1|HMOX1|HSC70-3|MAP3K5|MTA1|NOS1|PINK1|PRKN|RDGA|SLC6A3|SNCA|SOD1|SOD2|TH|TRPM2
+metal ion binding,GO:0046872,"PARKINSON DISEASE 1, AUTOSOMAL DOMINANT",OMIM:168601,0,,1,SNCA
+metal ion binding,GO:0046872,"Parkinson Disease 4, Autosomal Dominant Lewy Body",MESH:C565324,0,,1,SNCA
+metal ion binding,GO:0046872,"Parkinson Disease 6, Autosomal Recessive Early-Onset",MESH:C565276,0,,1,PINK1
+metal ion binding,GO:0046872,"PARKINSON DISEASE, LATE-ONSET",OMIM:168600,0,,2,ADH1C|NR4A2
+metal ion binding,GO:0046872,"Parkinson Disease, Secondary",MESH:D010302,0,,6,ATP13A2|NOS2|PON1|PRKN|SHH|SNCA
+metal ion binding,GO:0046872,Parkinsonian Disorders,MESH:D020734,0,,10,ATP13A2|ATP1A3|CAT-2|PARP1|PINK1|POLG|PRKN|PRL|SNCA|TH
+metal ion binding,GO:0046872,"Parkinsonism-Dystonia, Infantile",MESH:C567730,0,,1,SLC6A3
+metal ion transmembrane transporter activity,GO:0046873,"Dystonia-Parkinsonism, Adult-Onset",MESH:C567844,0,,1,SLC39A14
+metallocarboxypeptidase activity,GO:0004181,Parkinson Disease,MESH:D010300,0,,1,VPS35
+metallocarboxypeptidase activity,GO:0004181,PARKINSON DISEASE 17,OMIM:614203,0,,1,VPS35
+metalloendopeptidase activity,GO:0004222,Parkinsonian Disorders,MESH:D020734,0,,1,PARP1
+metalloendopeptidase inhibitor activity,GO:0008191,Parkinson Disease,MESH:D010300,0,,1,NGF
+metalloendopeptidase inhibitor activity,GO:0008191,Parkinsonian Disorders,MESH:D020734,0,,1,NGF
+methylated histone binding,GO:0035064,Parkinson Disease,MESH:D010300,3,"Fungicides, Industrial|Particulate Matter|Vehicle Emissions",1,NCAPG2
+methylated histone binding,GO:0035064,Parkinsonian Disorders,MESH:D020734,1,Particulate Matter,0,
+methylenetetrahydrofolate reductase (NAD(P)H) activity,GO:0004489,Parkinson Disease,MESH:D010300,0,,1,MTHFR
+methylenetetrahydrofolate reductase NADPH activity,GO:0106313,Parkinson Disease,MESH:D010300,0,,1,MTHFR
+methyltransferase activity,GO:0008168,Parkinson Disease,MESH:D010300,1,Ozone,0,
+methyltransferase activity,GO:0008168,Parkinsonian Disorders,MESH:D020734,0,,1,PRL
+MHC class II receptor activity,GO:0032395,Parkinson Disease,MESH:D010300,0,,1,HLA-DRA
+microfilament motor activity,GO:0000146,Parkinson Disease,MESH:D010300,0,,1,PRM
+microtubule binding,GO:0008017,Parkinson Disease,MESH:D010300,0,,6,DNM1L|KST|LRRK2|MAP2|MAPT|SNCA
+microtubule binding,GO:0008017,"PARKINSON DISEASE 1, AUTOSOMAL DOMINANT",OMIM:168601,0,,1,SNCA
+microtubule binding,GO:0008017,"Parkinson Disease 4, Autosomal Dominant Lewy Body",MESH:C565324,0,,1,SNCA
+microtubule binding,GO:0008017,"PARKINSON DISEASE 8, AUTOSOMAL DOMINANT",OMIM:607060,0,,1,LRRK2
+microtubule binding,GO:0008017,"PARKINSON DISEASE, LATE-ONSET",OMIM:168600,0,,1,MAPT
+microtubule binding,GO:0008017,"Parkinson Disease, Secondary",MESH:D010302,0,,1,SNCA
+microtubule binding,GO:0008017,Parkinsonian Disorders,MESH:D020734,0,,5,DCTN1|GAPDH|LRRK2|MAPT|SNCA
+microtubule lateral binding,GO:0099609,Parkinson Disease,MESH:D010300,0,,1,MAPT
+microtubule lateral binding,GO:0099609,"PARKINSON DISEASE, LATE-ONSET",OMIM:168600,0,,1,MAPT
+microtubule lateral binding,GO:0099609,Parkinsonian Disorders,MESH:D020734,0,,1,MAPT
+microtubule plus-end binding,GO:0051010,Parkinsonian Disorders,MESH:D020734,0,,1,DCTN1
+microtubule severing ATPase activity,GO:0008568,Parkinson Disease,MESH:D010300,0,,1,DDC
+microtubule severing ATPase activity,GO:0008568,Parkinsonian Disorders,MESH:D020734,0,,1,DDC
+minor groove of adenine-thymine-rich DNA binding,GO:0003680,Parkinson Disease,MESH:D010300,0,,1,MAPT
+minor groove of adenine-thymine-rich DNA binding,GO:0003680,"PARKINSON DISEASE, LATE-ONSET",OMIM:168600,0,,1,MAPT
+minor groove of adenine-thymine-rich DNA binding,GO:0003680,Parkinsonian Disorders,MESH:D020734,0,,1,MAPT
+misfolded protein binding,GO:0051787,Parkinson Disease,MESH:D010300,0,,3,HSC70-3|HSPA1A|HSPA9
+mitochondrial promoter sequence-specific DNA binding,GO:0001018,"Parkinson Disease, Secondary",MESH:D010302,0,,1,TFAM
+mitochondrial protein-transporting ATPase activity,GO:0008566,Parkinson Disease,MESH:D010300,1,Rotenone,0,
+mitochondrial protein-transporting ATPase activity,GO:0008566,"Parkinson Disease, Secondary",MESH:D010302,1,Rotenone,0,
+mitochondrial protein-transporting ATPase activity,GO:0008566,Parkinsonian Disorders,MESH:D020734,2,oleuropein|Rotenone,0,
+mitochondrial transcription factor activity,GO:0034246,"Parkinson Disease, Secondary",MESH:D010302,0,,1,TFAM
+modified amino acid binding,GO:0072341,Parkinson Disease,MESH:D010300,0,,1,MTHFR
+molecular adaptor activity,GO:0060090,Parkinson Disease,MESH:D010300,0,,2,DRAXIN|SNCA
+molecular adaptor activity,GO:0060090,Parkinson Disease 11,MESH:C564345,0,,1,GIGYF2
+molecular adaptor activity,GO:0060090,"PARKINSON DISEASE 18, AUTOSOMAL DOMINANT, SUSCEPTIBILITY TO",OMIM:614251,0,,1,EIF4G1
+molecular adaptor activity,GO:0060090,"PARKINSON DISEASE 1, AUTOSOMAL DOMINANT",OMIM:168601,0,,1,SNCA
+molecular adaptor activity,GO:0060090,"Parkinson Disease 4, Autosomal Dominant Lewy Body",MESH:C565324,0,,1,SNCA
+molecular adaptor activity,GO:0060090,"Parkinson Disease, Secondary",MESH:D010302,0,,1,SNCA
+molecular adaptor activity,GO:0060090,Parkinsonian Disorders,MESH:D020734,0,,2,DCTN1|SNCA
+molecular_function,GO:0003674,Parkinson Disease,MESH:D010300,0,,2,MIR181C|TMEM230
+molecular_function,GO:0003674,Parkinson Disease 11,MESH:C564345,0,,1,GIGYF2
+molecular_function,GO:0003674,"PARKINSON DISEASE 23, AUTOSOMAL RECESSIVE EARLY-ONSET",OMIM:616840,0,,1,VPS13C
+molecular_function,GO:0003674,"PARKINSON DISEASE, LATE-ONSET",OMIM:168600,0,,1,SNCAIP
+molecular_function,GO:0003674,"Parkinson Disease, Mitochondrial",MESH:C564015,0,,1,FMC1
+molecular_function,GO:0003674,"Parkinson Disease, Secondary",MESH:D010302,0,,1,FMC1
+mono-ADP-D-ribose binding,GO:0072571,Parkinson Disease,MESH:D010300,0,,1,TRPM2
+monoamine oxidase activity,GO:0097621,Parkinson Disease,MESH:D010300,3,"1-Methyl-4-phenyl-1,2,3,6-tetrahydropyridine|Aluminum|Rotenone",2,MAOA|MAOB
+monoamine oxidase activity,GO:0097621,"Parkinson Disease, Secondary",MESH:D010302,2,"1-Methyl-4-phenyl-1,2,3,6-tetrahydropyridine|Rotenone",0,
+monoamine oxidase activity,GO:0097621,Parkinsonian Disorders,MESH:D020734,4,"1-Methyl-4-phenyl-1,2,3,6-tetrahydropyridine|Cadmium|Rotenone|taxifolin",0,
+monoamine:proton antiporter activity,GO:0015311,Parkinson Disease,MESH:D010300,0,,1,SLC18A2
+monoamine:proton antiporter activity,GO:0015311,"Parkinson Disease, Secondary",MESH:D010302,0,,1,SLC18A2
+monoamine:proton antiporter activity,GO:0015311,Parkinsonian Disorders,MESH:D020734,0,,1,SLC18A2
+monoamine transmembrane transporter activity,GO:0008504,Parkinson Disease,MESH:D010300,0,,2,SLC18A2|SLC6A3
+monoamine transmembrane transporter activity,GO:0008504,"Parkinson Disease, Secondary",MESH:D010302,0,,1,SLC18A2
+monoamine transmembrane transporter activity,GO:0008504,Parkinsonian Disorders,MESH:D020734,0,,1,SLC18A2
+monoamine transmembrane transporter activity,GO:0008504,"Parkinsonism-Dystonia, Infantile",MESH:C567730,0,,1,SLC6A3
+monoatomic anion:monoatomic cation symporter activity,GO:0015296,"Dystonia-Parkinsonism, Adult-Onset",MESH:C567844,0,,1,SLC39A14
+monoatomic cation channel activity,GO:0005261,AMYOTROPHIC LATERAL SCLEROSIS-PARKINSONISM/DEMENTIA COMPLEX 1,OMIM:105500,0,,1,TRPM7
+monoatomic cation channel activity,GO:0005261,Parkinson Disease,MESH:D010300,1,Lipopolysaccharides,1,TRPM2
+monoatomic cation channel activity,GO:0005261,Parkinsonian Disorders,MESH:D020734,1,Lipopolysaccharides,0,
+monoatomic cation transmembrane transporter activity,GO:0008324,Parkinson Disease,MESH:D010300,0,,1,SLC30A10
+monoatomic cation transmembrane transporter activity,GO:0008324,Parkinsonian Disorders,MESH:D020734,0,,1,SLC30A10
+monoatomic ion channel activity,GO:0005216,AMYOTROPHIC LATERAL SCLEROSIS-PARKINSONISM/DEMENTIA COMPLEX 1,OMIM:105500,0,,1,TRPM7
+monoatomic ion channel activity,GO:0005216,Parkinson Disease,MESH:D010300,0,,1,TRPM2
+monoatomic ion channel activity,GO:0005216,Parkinsonian Disorders,MESH:D020734,1,Rimonabant,0,
+monooxygenase activity,GO:0004497,Parkinson Disease,MESH:D010300,0,,3,CYP2D6|CYP2E1|TH
+monooxygenase activity,GO:0004497,"Parkinson Disease, Secondary",MESH:D010302,2,Benzo(a)pyrene|Sulpiride,0,
+monooxygenase activity,GO:0004497,Parkinsonian Disorders,MESH:D020734,0,,2,CAT-2|TH
+monosaccharide binding,GO:0048029,Parkinson Disease,MESH:D010300,0,,2,FBP1|TALDO1
+morphogen activity,GO:0016015,"Parkinson Disease, Secondary",MESH:D010302,0,,1,SHH
+mRNA base-pairing translational repressor activity,GO:1903231,Parkinson Disease,MESH:D010300,0,,1,MIR181C
+mRNA binding,GO:0003729,Parkinson Disease,MESH:D010300,0,,2,PARK7|RPL6
+mRNA binding,GO:0003729,"PARKINSON DISEASE 18, AUTOSOMAL DOMINANT, SUSCEPTIBILITY TO",OMIM:614251,0,,1,EIF4G1
+mRNA binding,GO:0003729,"Parkinson Disease 7, Autosomal Recessive Early-Onset",MESH:C565238,0,,1,PARK7
+mRNA binding,GO:0003729,"PARKINSON DISEASE, LATE-ONSET",OMIM:168600,0,,1,ATXN2
+mRNA binding,GO:0003729,Parkinsonian Disorders,MESH:D020734,0,,1,PARK7
+myosin binding,GO:0017022,AMYOTROPHIC LATERAL SCLEROSIS-PARKINSONISM/DEMENTIA COMPLEX 1,OMIM:105500,0,,1,TRPM7
+myosin V binding,GO:0031489,"Parkinsonism, early onset with mental retardation",MESH:C537179,0,,1,RAB39B
+N-acetyltransferase activity,GO:0008080,"Parkinson Disease, Secondary",MESH:D010302,1,Benzo(a)pyrene,0,
+NAD+ ADP-ribosyltransferase activity,GO:0003950,Parkinson Disease,MESH:D010300,1,Paraquat,0,
+NAD+ ADP-ribosyltransferase activity,GO:0003950,"Parkinson Disease, Secondary",MESH:D010302,1,Paraquat,0,
+NAD+ ADP-ribosyltransferase activity,GO:0003950,Parkinsonian Disorders,MESH:D020734,1,Paraquat,1,PARP1
+NAD binding,GO:0051287,Parkinson Disease,MESH:D010300,0,,2,ALDH2|GPDH1
+NAD binding,GO:0051287,Parkinsonian Disorders,MESH:D020734,0,,3,ALDH1A1|GAPDH|PARP1
+NAD DNA ADP-ribosyltransferase activity,GO:0140294,Parkinsonian Disorders,MESH:D020734,0,,1,PARP1
+NADH binding,GO:0070404,Parkinson Disease,MESH:D010300,0,,1,ALDH2
+NADH dehydrogenase activity,GO:0003954,Parkinson Disease,MESH:D010300,2,"Lead|Water Pollutants, Chemical",0,
+NADH dehydrogenase activity,GO:0003954,"Parkinson Disease, Secondary",MESH:D010302,1,Doxorubicin,0,
+NADH dehydrogenase activity,GO:0003954,Wolff-Parkinson-White Syndrome,MESH:D014927,1,Isoproterenol,0,
+NADH dehydrogenase (quinone) activity,GO:0050136,Parkinson Disease,MESH:D010300,0,,1,NQO1
+NADH dehydrogenase (ubiquinone) activity,GO:0008137,Parkinson Disease,MESH:D010300,24,"1-Methyl-4-phenyl-1,2,3,6-tetrahydropyridine|1-Methyl-4-phenylpyridinium|4-phenylbutyric acid|Acrolein|Air Pollutants|Atrazine|Clozapine|Eicosapentaenoic Acid|Lead|Levodopa|Lipopolysaccharides|Lithium|Maneb|Minocycline|Nitrites|Oxidopamine|Ozone|Paraquat|Particulate Matter|Rotenone|Selegiline|Sirolimus|Soot|Vehicle Emissions",0,
+NADH dehydrogenase (ubiquinone) activity,GO:0008137,"Parkinson Disease 6, Autosomal Recessive Early-Onset",MESH:C565276,1,Levodopa,0,
+NADH dehydrogenase (ubiquinone) activity,GO:0008137,"Parkinson Disease, Secondary",MESH:D010302,16,"1-Methyl-4-phenyl-1,2,3,6-tetrahydropyridine|3-methyladenine|Atrazine|Chlorpromazine|Exenatide|Haloperidol|Levodopa|Lithium|Maneb|Minocycline|Oxidopamine|Paraquat|Resveratrol|Risperidone|Rotenone|Valproic Acid",0,
+NADH dehydrogenase (ubiquinone) activity,GO:0008137,Parkinsonian Disorders,MESH:D020734,27,"1-Methyl-4-phenyl-1,2,3,6-tetrahydropyridine|1-Methyl-4-phenylpyridinium|annonacin|Bupropion|Cadmium|Chlorpromazine|Clozapine|coenzyme Q10|Curcumin|cypermethrin|Docosahexaenoic Acids|ginsenoside Re|Haloperidol|Levodopa|Lipopolysaccharides|Maneb|oleuropein|Oxidopamine|Paraquat|Particulate Matter|Plant Extracts|Resveratrol|Risperidone|Rotenone|Selegiline|taxifolin|Valproic Acid",0,
+NADH dehydrogenase (ubiquinone) activity,GO:0008137,Wolff-Parkinson-White Syndrome,MESH:D014927,2,Isoproterenol|Lithium,0,
+NAD+-histone H2BE18 glutamate ADP-ribosyltransferase activity,GO:0140867,Parkinsonian Disorders,MESH:D020734,0,,1,PARP1
+NAD+-histone H2BE2 glutamate ADP-ribosyltransferase activity,GO:0140844,Parkinsonian Disorders,MESH:D020734,0,,1,PARP1
+NAD+-histone H2BE35 glutamate ADP-ribosyltransferase activity,GO:0140822,Parkinsonian Disorders,MESH:D020734,0,,1,PARP1
+NAD+-histone H2BS6 serine ADP-ribosyltransferase activity,GO:0140816,Parkinsonian Disorders,MESH:D020734,0,,1,PARP1
+NAD+-histone H3S10 serine ADP-ribosyltransferase activity,GO:0140817,Parkinsonian Disorders,MESH:D020734,0,,1,PARP1
+NAD+ nucleosidase activity,GO:0003953,Parkinson Disease,MESH:D010300,0,,1,BST1
+"NAD+ nucleotidase, cyclic ADP-ribose generating",GO:0061809,Parkinson Disease,MESH:D010300,0,,1,BST1
+NADP binding,GO:0050661,Parkinson Disease,MESH:D010300,0,,2,MTHFR|NOS1
+NADP binding,GO:0050661,"Parkinson Disease, Secondary",MESH:D010302,0,,1,NOS2
+NADP binding,GO:0050661,Parkinsonian Disorders,MESH:D020734,0,,2,GAPDH|GSR
+NADPH binding,GO:0070402,Parkinson Disease,MESH:D010300,0,,1,NOS1
+NADPH dehydrogenase activity,GO:0003959,Parkinson Disease,MESH:D010300,1,Chlorpyrifos,0,
+NAD(P)H dehydrogenase (quinone) activity,GO:0003955,Parkinson Disease,MESH:D010300,0,,1,NQO1
+NADPH dehydrogenase (quinone) activity,GO:0008753,Parkinson Disease,MESH:D010300,1,Endosulfan,1,NQO1
+NADPH-hemoprotein reductase activity,GO:0003958,Parkinson Disease,MESH:D010300,0,,1,CPR
+NADPH-hemoprotein reductase activity,GO:0003958,"Parkinson Disease, Secondary",MESH:D010302,1,Benzo(a)pyrene,0,
+NAD(P)H oxidase H2O2-forming activity,GO:0016174,Parkinson Disease,MESH:D010300,5,Air Pollutants|Lead|Lipopolysaccharides|Particulate Matter|Rotenone,0,
+NAD(P)H oxidase H2O2-forming activity,GO:0016174,"Parkinson Disease, Secondary",MESH:D010302,3,Nicotine|Resveratrol|Rotenone,0,
+NAD(P)H oxidase H2O2-forming activity,GO:0016174,Parkinsonian Disorders,MESH:D020734,4,Lipopolysaccharides|Particulate Matter|Resveratrol|Rotenone,0,
+NADPH:quinone reductase activity,GO:0003960,"Parkinson Disease, Secondary",MESH:D010302,1,geraniol,0,
+NADPH:quinone reductase activity,GO:0003960,Parkinsonian Disorders,MESH:D020734,1,geraniol,0,
+NAD+-protein ADP-ribosyltransferase activity,GO:1990404,Parkinsonian Disorders,MESH:D020734,1,manganese chloride,1,PARP1
+NAD+- protein-aspartate ADP-ribosyltransferase activity,GO:0140806,Parkinsonian Disorders,MESH:D020734,0,,1,PARP1
+NAD+-protein-glutamate ADP-ribosyltransferase activity,GO:0140807,Parkinsonian Disorders,MESH:D020734,0,,1,PARP1
+NAD+-protein-histidine ADP-ribosyltransferase activity,GO:0140815,Parkinsonian Disorders,MESH:D020734,0,,1,PARP1
+NAD+-protein-serine ADP-ribosyltransferase activity,GO:0140805,Parkinsonian Disorders,MESH:D020734,0,,1,PARP1
+NAD+-protein-tyrosine ADP-ribosyltransferase activity,GO:0140808,Parkinsonian Disorders,MESH:D020734,0,,1,PARP1
+NAD-retinol dehydrogenase activity,GO:0004745,"PARKINSON DISEASE, LATE-ONSET",OMIM:168600,0,,1,ADH1C
+nerve growth factor receptor binding,GO:0005163,Parkinson Disease,MESH:D010300,0,,2,BDNF|NGF
+nerve growth factor receptor binding,GO:0005163,Parkinsonian Disorders,MESH:D020734,0,,1,NGF
+neuropeptide hormone activity,GO:0005184,Parkinsonian Disorders,MESH:D020734,0,,2,PDYN|PNOC
+neurotransmitter transmembrane transporter activity,GO:0005326,Parkinson Disease,MESH:D010300,0,,1,SLC6A3
+neurotransmitter transmembrane transporter activity,GO:0005326,"Parkinsonism-Dystonia, Infantile",MESH:C567730,0,,1,SLC6A3
+neurotrophin TRKB receptor binding,GO:0005169,Parkinson Disease,MESH:D010300,0,,1,BDNF
+neutral L-amino acid:sodium symporter activity,GO:0005295,Parkinson Disease,MESH:D010300,0,,1,SLC38A2
+neutral L-amino acid transmembrane transporter activity,GO:0015175,Parkinson Disease,MESH:D010300,0,,1,SLC38A2
+NF-kappaB binding,GO:0051059,Parkinson Disease,MESH:D010300,2,Dicamba|Lipopolysaccharides,1,HSPA1A
+NF-kappaB binding,GO:0051059,Parkinsonian Disorders,MESH:D020734,1,Lipopolysaccharides,0,
+nickel cation binding,GO:0016151,Parkinson Disease,MESH:D010300,0,,1,GSTM1
+nitric oxide binding,GO:0070026,Parkinson Disease,MESH:D010300,0,,1,GSTP1
+nitric-oxide synthase activity,GO:0004517,Parkinson Disease,MESH:D010300,4,1-Methyl-4-phenylpyridinium|Caffeine|Methamphetamine|Paraquat,1,NOS1
+nitric-oxide synthase activity,GO:0004517,"Parkinson Disease, Secondary",MESH:D010302,4,Doxorubicin|Methamphetamine|Paraquat|Resveratrol,1,NOS2
+nitric-oxide synthase activity,GO:0004517,Parkinsonian Disorders,MESH:D020734,4,1-Methyl-4-phenylpyridinium|Cadmium|Paraquat|Resveratrol,0,
+nitric-oxide synthase activity,GO:0004517,Wolff-Parkinson-White Syndrome,MESH:D014927,1,Isoproterenol,0,
+nitric-oxide synthase binding,GO:0050998,"Parkinson Disease, Secondary",MESH:D010302,0,,1,NOS2
+NMDA glutamate receptor activity,GO:0004972,AMYOTROPHIC LATERAL SCLEROSIS-PARKINSONISM/DEMENTIA COMPLEX 1,OMIM:105500,1,beta-N-methylamino-L-alanine,0,
+NMDA glutamate receptor activity,GO:0004972,Parkinson Disease,MESH:D010300,1,beta-N-methylamino-L-alanine,0,
+non-membrane spanning protein tyrosine kinase activity,GO:0004715,Parkinsonian Disorders,MESH:D020734,0,,1,PRKCD
+non-membrane spanning protein tyrosine phosphatase activity,GO:0004726,"PARKINSON DISEASE 19A, JUVENILE-ONSET",OMIM:615528,0,,1,DNAJC6
+norepinephrine:sodium symporter activity,GO:0005334,Parkinson Disease,MESH:D010300,0,,1,SLC6A3
+norepinephrine:sodium symporter activity,GO:0005334,"Parkinsonism-Dystonia, Infantile",MESH:C567730,0,,1,SLC6A3
+nuclear androgen receptor binding,GO:0050681,Parkinson Disease,MESH:D010300,0,,1,PARK7
+nuclear androgen receptor binding,GO:0050681,"Parkinson Disease 7, Autosomal Recessive Early-Onset",MESH:C565238,0,,1,PARK7
+nuclear androgen receptor binding,GO:0050681,Parkinsonian Disorders,MESH:D020734,0,,1,PARK7
+nuclear estrogen receptor activity,GO:0030284,Parkinson Disease,MESH:D010300,1,Estradiol,0,
+nuclear estrogen receptor binding,GO:0030331,Parkinson Disease,MESH:D010300,0,,1,PPARGC1A
+nuclear estrogen receptor binding,GO:0030331,Parkinsonian Disorders,MESH:D020734,0,,1,PARP1
+nuclear glucocorticoid receptor binding,GO:0035259,"PARKINSON DISEASE, LATE-ONSET",OMIM:168600,0,,1,NR4A2
+nuclear receptor activity,GO:0004879,Parkinson Disease,MESH:D010300,1,Estradiol,0,
+nuclear receptor activity,GO:0004879,"PARKINSON DISEASE, LATE-ONSET",OMIM:168600,0,,1,NR4A2
+nuclear receptor binding,GO:0016922,Parkinson Disease,MESH:D010300,0,,1,PPARGC1A
+nuclear receptor coactivator activity,GO:0030374,Parkinson Disease,MESH:D010300,0,,1,PPARGC1A
+nuclear retinoid X receptor binding,GO:0046965,"PARKINSON DISEASE, LATE-ONSET",OMIM:168600,0,,1,NR4A2
+nucleic acid binding,GO:0003676,Parkinson Disease,MESH:D010300,0,,5,CHP|CNTNAP2|CPR|PPARGC1A|RDGA
+nucleic acid binding,GO:0003676,"PARKINSON DISEASE 20, EARLY-ONSET",OMIM:615530,0,,1,SYNJ1
+nucleosome binding,GO:0031491,Parkinsonian Disorders,MESH:D020734,0,,1,PARP1
+nucleotidase activity,GO:0008252,Parkinsonian Disorders,MESH:D020734,1,manganese chloride,0,
+nucleotide binding,GO:0000166,AMYOTROPHIC LATERAL SCLEROSIS-PARKINSONISM/DEMENTIA COMPLEX 1,OMIM:105500,0,,1,TRPM7
+nucleotide binding,GO:0000166,Parkinson Disease,MESH:D010300,0,,6,ATP13A2|DNM1L|HSPA9|LRRK2|MAP3K5|PINK1
+nucleotide binding,GO:0000166,"Parkinson Disease 6, Autosomal Recessive Early-Onset",MESH:C565276,0,,1,PINK1
+nucleotide binding,GO:0000166,"PARKINSON DISEASE 8, AUTOSOMAL DOMINANT",OMIM:607060,0,,1,LRRK2
+nucleotide binding,GO:0000166,"Parkinson Disease, Secondary",MESH:D010302,0,,1,ATP13A2
+nucleotide binding,GO:0000166,Parkinsonian Disorders,MESH:D020734,0,,5,ATP13A2|GAPDH|GSR|LRRK2|PINK1
+nucleotidyltransferase activity,GO:0016779,Parkinsonian Disorders,MESH:D020734,0,,2,PARP1|POLG
+nutrient reservoir activity,GO:0045735,Parkinson Disease,MESH:D010300,3,Air Pollutants|Particulate Matter|pendimethalin,1,FBP1
+nutrient reservoir activity,GO:0045735,Parkinsonian Disorders,MESH:D020734,1,Particulate Matter,0,
+odorant binding,GO:0005549,Parkinson Disease,MESH:D010300,0,,1,OBP99B
+omega peptidase activity,GO:0008242,"PARKINSON DISEASE 5, AUTOSOMAL DOMINANT, SUSCEPTIBILITY TO",OMIM:613643,0,,1,UCHL1
+opioid peptide activity,GO:0001515,Parkinsonian Disorders,MESH:D020734,0,,2,PDYN|PNOC
+opioid receptor binding,GO:0031628,Parkinsonian Disorders,MESH:D020734,0,,2,PDYN|PNOC
+organic acid binding,GO:0043177,Parkinson Disease,MESH:D010300,0,,1,HBG1
+ornithine carbamoyltransferase activity,GO:0004585,Parkinson Disease,MESH:D010300,1,Carbon Tetrachloride,0,
+oxidoreductase activity,GO:0016491,Parkinson Disease,MESH:D010300,0,,13,ALDH2|CP|CPR|CYP2D6|CYP2E1|MAOA|MAOB|MTHFR|NOS1|SNCA|SOD1|SOD2|TH
+oxidoreductase activity,GO:0016491,"PARKINSON DISEASE 1, AUTOSOMAL DOMINANT",OMIM:168601,0,,1,SNCA
+oxidoreductase activity,GO:0016491,"Parkinson Disease 4, Autosomal Dominant Lewy Body",MESH:C565324,0,,1,SNCA
+oxidoreductase activity,GO:0016491,"PARKINSON DISEASE, LATE-ONSET",OMIM:168600,0,,1,ADH1C
+oxidoreductase activity,GO:0016491,"Parkinson Disease, Secondary",MESH:D010302,0,,2,NOS2|SNCA
+oxidoreductase activity,GO:0016491,Parkinsonian Disorders,MESH:D020734,0,,6,ALDH1A1|ALDH1A2|GAPDH|GSR|SNCA|TH
+"oxidoreductase activity, acting on a sulfur group of donors, NAD(P) as acceptor",GO:0016668,Parkinsonian Disorders,MESH:D020734,0,,1,GSR
+"oxidoreductase activity, acting on metal ions, oxygen as acceptor",GO:0016724,Parkinson Disease,MESH:D010300,0,,1,CP
+"oxidoreductase activity, acting on NAD(P)H",GO:0016651,"Parkinson Disease, Secondary",MESH:D010302,1,geraniol,0,
+"oxidoreductase activity, acting on NAD(P)H",GO:0016651,Parkinsonian Disorders,MESH:D020734,2,Curcumin|geraniol,0,
+"oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen",GO:0016705,Parkinson Disease,MESH:D010300,0,,1,CYP2E1
+"oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, NAD(P)H as one donor, and incorporation of one atom of oxygen",GO:0016709,Parkinson Disease,MESH:D010300,0,,1,CYP2E1
+"oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, reduced flavin or flavoprotein as one donor, and incorporation of one atom of oxygen",GO:0016712,Parkinson Disease,MESH:D010300,0,,2,CYP2D6|CYP2E1
+"oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, reduced flavin or flavoprotein as one donor, and incorporation of one atom of oxygen",GO:0016712,"Parkinson Disease, Secondary",MESH:D010302,2,Benzo(a)pyrene|geraniol,0,
+"oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, reduced flavin or flavoprotein as one donor, and incorporation of one atom of oxygen",GO:0016712,Parkinsonian Disorders,MESH:D020734,2,geraniol|manganese chloride,0,
+"oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, reduced pteridine as one donor, and incorporation of one atom of oxygen",GO:0016714,Parkinson Disease,MESH:D010300,0,,1,TH
+"oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, reduced pteridine as one donor, and incorporation of one atom of oxygen",GO:0016714,Parkinsonian Disorders,MESH:D020734,0,,2,CAT-2|TH
+"oxidoreductase activity, acting on peroxide as acceptor",GO:0016684,Parkinson Disease,MESH:D010300,0,,1,PARK7
+"oxidoreductase activity, acting on peroxide as acceptor",GO:0016684,"Parkinson Disease 7, Autosomal Recessive Early-Onset",MESH:C565238,0,,1,PARK7
+"oxidoreductase activity, acting on peroxide as acceptor",GO:0016684,Parkinsonian Disorders,MESH:D020734,0,,1,PARK7
+"oxidoreductase activity, acting on the aldehyde or oxo group of donors, NAD or NADP as acceptor",GO:0016620,Parkinson Disease,MESH:D010300,0,,1,ALDH2
+"oxidoreductase activity, acting on the aldehyde or oxo group of donors, NAD or NADP as acceptor",GO:0016620,Parkinsonian Disorders,MESH:D020734,0,,3,ALDH1A1|ALDH1A2|GAPDH
+"oxidoreductase activity, acting on the CH-CH group of donors",GO:0016627,Parkinson Disease,MESH:D010300,0,,1,ALDH2
+"oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor",GO:0016616,Parkinson Disease,MESH:D010300,0,,1,GPDH1
+oxoglutarate dehydrogenase (succinyl-transferring) activity,GO:0004591,Parkinson Disease,MESH:D010300,1,Selegiline,0,
+oxoglutarate dehydrogenase (succinyl-transferring) activity,GO:0004591,"Parkinson Disease, Secondary",MESH:D010302,1,Doxorubicin,0,
+oxoglutarate dehydrogenase (succinyl-transferring) activity,GO:0004591,Parkinsonian Disorders,MESH:D020734,2,Cadmium|Selegiline,0,
+oxygen binding,GO:0019825,Parkinson Disease,MESH:D010300,1,Atrazine,4,CYP2E1|HBG1|SOD2|TH
+oxygen binding,GO:0019825,"Parkinson Disease, Secondary",MESH:D010302,3,Atrazine|Benzo(a)pyrene|Resveratrol,0,
+oxygen binding,GO:0019825,Parkinsonian Disorders,MESH:D020734,2,Curcumin|Resveratrol,1,TH
+oxygen carrier activity,GO:0005344,Parkinson Disease,MESH:D010300,0,,1,HBG1
+oxygen sensor activity,GO:0019826,Parkinson Disease,MESH:D010300,0,,1,PARK7
+oxygen sensor activity,GO:0019826,"Parkinson Disease 7, Autosomal Recessive Early-Onset",MESH:C565238,0,,1,PARK7
+oxygen sensor activity,GO:0019826,Parkinsonian Disorders,MESH:D020734,0,,1,PARK7
+patched binding,GO:0005113,"Parkinson Disease, Secondary",MESH:D010302,0,,1,SHH
+PDZ domain binding,GO:0030165,Parkinson Disease,MESH:D010300,0,,3,CNTNAP2|KCNJ4|PRKN
+PDZ domain binding,GO:0030165,"Parkinson Disease, Secondary",MESH:D010302,0,,1,PRKN
+PDZ domain binding,GO:0030165,Parkinsonian Disorders,MESH:D020734,0,,1,PRKN
+pentosyltransferase activity,GO:0016763,Parkinsonian Disorders,MESH:D020734,0,,1,PARP1
+peptidase activator activity,GO:0016504,Parkinson Disease,MESH:D010300,0,,1,PINK1
+peptidase activator activity,GO:0016504,"Parkinson Disease 6, Autosomal Recessive Early-Onset",MESH:C565276,0,,1,PINK1
+peptidase activator activity,GO:0016504,Parkinsonian Disorders,MESH:D020734,0,,1,PINK1
+peptidase activator activity involved in apoptotic process,GO:0016505,Parkinson Disease,MESH:D010300,5,1-Methyl-4-phenylpyridinium|Eicosapentaenoic Acid|Melatonin|Oxidopamine|Rotenone,0,
+peptidase activator activity involved in apoptotic process,GO:0016505,"Parkinson Disease, Secondary",MESH:D010302,6,3-methyladenine|Doxorubicin|Melatonin|Oxidopamine|Rotenone|Valproic Acid,0,
+peptidase activator activity involved in apoptotic process,GO:0016505,Parkinsonian Disorders,MESH:D020734,7,1-Methyl-4-phenylpyridinium|Docosahexaenoic Acids|Melatonin|Oxidopamine|Plant Extracts|Rotenone|Valproic Acid,0,
+peptidase activity,GO:0008233,Parkinson Disease,MESH:D010300,3,Dopamine|Particulate Matter|Vehicle Emissions,1,PARK7
+peptidase activity,GO:0008233,Parkinson Disease 13,MESH:C565204,0,,1,HTRA2
+peptidase activity,GO:0008233,"PARKINSON DISEASE 5, AUTOSOMAL DOMINANT, SUSCEPTIBILITY TO",OMIM:613643,0,,1,UCHL1
+peptidase activity,GO:0008233,"Parkinson Disease 7, Autosomal Recessive Early-Onset",MESH:C565238,0,,1,PARK7
+peptidase activity,GO:0008233,"PARKINSON DISEASE, LATE-ONSET",OMIM:168600,0,,1,ATXN3
+peptidase activity,GO:0008233,"Parkinson Disease, Secondary",MESH:D010302,0,,1,SHH
+peptidase activity,GO:0008233,Parkinsonian Disorders,MESH:D020734,2,Dopamine|Particulate Matter,2,HTRA2|PARK7
+peptidase inhibitor activity,GO:0030414,Parkinson Disease,MESH:D010300,0,,2,NGF|PARK7
+peptidase inhibitor activity,GO:0030414,"Parkinson Disease 7, Autosomal Recessive Early-Onset",MESH:C565238,0,,1,PARK7
+peptidase inhibitor activity,GO:0030414,Parkinsonian Disorders,MESH:D020734,0,,2,NGF|PARK7
+peptide antigen binding,GO:0042605,Parkinson Disease,MESH:D010300,0,,3,HFE|HLA-DRA|HLA-DRB5
+peptidyl-cysteine S-nitrosylase activity,GO:0035605,Parkinson Disease,MESH:D010300,0,,1,NOS1
+peptidyl-cysteine S-nitrosylase activity,GO:0035605,Parkinsonian Disorders,MESH:D020734,0,,1,GAPDH
+peroxidase activity,GO:0004601,Parkinson Disease,MESH:D010300,2,Atrazine|Carbon Tetrachloride,1,HBG1
+peroxidase activity,GO:0004601,"Parkinson Disease, Secondary",MESH:D010302,1,Atrazine,0,
+peroxidase activity,GO:0004601,Parkinsonian Disorders,MESH:D020734,1,Curcumin,0,
+peroxidase inhibitor activity,GO:0036479,Parkinson Disease,MESH:D010300,0,,1,LRRK2
+peroxidase inhibitor activity,GO:0036479,"PARKINSON DISEASE 8, AUTOSOMAL DOMINANT",OMIM:607060,0,,1,LRRK2
+peroxidase inhibitor activity,GO:0036479,Parkinsonian Disorders,MESH:D020734,0,,1,LRRK2
+peroxiredoxin activity,GO:0051920,Parkinson Disease,MESH:D010300,0,,1,PARK7
+peroxiredoxin activity,GO:0051920,"Parkinson Disease 7, Autosomal Recessive Early-Onset",MESH:C565238,0,,1,PARK7
+peroxiredoxin activity,GO:0051920,Parkinsonian Disorders,MESH:D020734,0,,2,DJ-1BETA|PARK7
+peroxisome proliferator activated receptor binding,GO:0042975,Parkinson Disease,MESH:D010300,0,,1,PPARGC1A
+phenylacetaldehyde dehydrogenase activity,GO:0008957,Parkinson Disease,MESH:D010300,0,,1,ALDH2
+phosphatase activity,GO:0016791,"PARKINSON DISEASE 19A, JUVENILE-ONSET",OMIM:615528,0,,1,DNAJC6
+phosphatase activity,GO:0016791,"PARKINSON DISEASE 20, EARLY-ONSET",OMIM:615530,0,,1,SYNJ1
+phosphatase activity,GO:0016791,Parkinsonian Disorders,MESH:D020734,1,Cadmium,0,
+phosphatidic acid binding,GO:0070300,Parkinson Disease,MESH:D010300,0,,1,ATP13A2
+phosphatidic acid binding,GO:0070300,"Parkinson Disease, Secondary",MESH:D010302,0,,1,ATP13A2
+phosphatidic acid binding,GO:0070300,Parkinsonian Disorders,MESH:D020734,0,,1,ATP13A2
+phosphatidylcholine floppase activity,GO:0090554,Parkinson Disease,MESH:D010300,0,,1,ABCB1
+phosphatidylcholine floppase activity,GO:0090554,"Parkinson Disease, Secondary",MESH:D010302,0,,1,ABCB1
+phosphatidylethanolamine flippase activity,GO:0090555,Parkinson Disease,MESH:D010300,0,,1,ABCB1
+phosphatidylethanolamine flippase activity,GO:0090555,"Parkinson Disease, Secondary",MESH:D010302,0,,1,ABCB1
+"phosphatidylinositol-3,4,5-trisphosphate 3-phosphatase activity",GO:0016314,Parkinson Disease,MESH:D010300,0,,1,GAK
+"phosphatidylinositol-3,4,5-trisphosphate 3-phosphatase activity",GO:0016314,"PARKINSON DISEASE 19A, JUVENILE-ONSET",OMIM:615528,0,,1,DNAJC6
+"phosphatidylinositol-3,5-bisphosphate 3-phosphatase activity",GO:0052629,"PARKINSON DISEASE 20, EARLY-ONSET",OMIM:615530,0,,1,SYNJ1
+"phosphatidylinositol-3,5-bisphosphate 5-phosphatase activity",GO:0043813,"PARKINSON DISEASE 20, EARLY-ONSET",OMIM:615530,0,,1,SYNJ1
+"phosphatidylinositol-3,5-bisphosphate binding",GO:0080025,Parkinson Disease,MESH:D010300,0,,1,ATP13A2
+"phosphatidylinositol-3,5-bisphosphate binding",GO:0080025,"Parkinson Disease, Secondary",MESH:D010302,0,,1,ATP13A2
+"phosphatidylinositol-3,5-bisphosphate binding",GO:0080025,Parkinsonian Disorders,MESH:D020734,0,,1,ATP13A2
+phosphatidylinositol 3-kinase binding,GO:0043548,Parkinson Disease,MESH:D010300,0,,2,IGF1R|INSR
+phosphatidylinositol-3-phosphate phosphatase activity,GO:0004438,"PARKINSON DISEASE 20, EARLY-ONSET",OMIM:615530,0,,1,SYNJ1
+"phosphatidylinositol-4,5-bisphosphate 5-phosphatase activity",GO:0004439,"PARKINSON DISEASE 20, EARLY-ONSET",OMIM:615530,0,,1,SYNJ1
+phosphatidylinositol-4-phosphate phosphatase activity,GO:0043812,"PARKINSON DISEASE 20, EARLY-ONSET",OMIM:615530,0,,1,SYNJ1
+phosphatidylinositol binding,GO:0035091,Parkinson Disease,MESH:D010300,0,,1,MAPT
+phosphatidylinositol binding,GO:0035091,"PARKINSON DISEASE, LATE-ONSET",OMIM:168600,0,,1,MAPT
+phosphatidylinositol binding,GO:0035091,Parkinsonian Disorders,MESH:D020734,0,,1,MAPT
+phosphatidylinositol bisphosphate binding,GO:1902936,Parkinson Disease,MESH:D010300,0,,1,MAPT
+phosphatidylinositol bisphosphate binding,GO:1902936,"PARKINSON DISEASE, LATE-ONSET",OMIM:168600,0,,1,MAPT
+phosphatidylinositol bisphosphate binding,GO:1902936,Parkinsonian Disorders,MESH:D020734,0,,1,MAPT
+phosphatidylinositol phosphate 4-phosphatase activity,GO:0034596,"PARKINSON DISEASE 20, EARLY-ONSET",OMIM:615530,0,,1,SYNJ1
+phosphatidylinositol phosphate 5-phosphatase activity,GO:0034595,"PARKINSON DISEASE 20, EARLY-ONSET",OMIM:615530,0,,1,SYNJ1
+phosphatidylinositol phosphate phosphatase activity,GO:0052866,"PARKINSON DISEASE 20, EARLY-ONSET",OMIM:615530,0,,1,SYNJ1
+phosphatidylserine floppase activity,GO:0090556,Parkinson Disease,MESH:D010300,1,Reactive Oxygen Species,0,
+phosphoenolpyruvate carboxykinase activity,GO:0004611,Parkinsonian Disorders,MESH:D020734,1,Plant Extracts,0,
+phosphofructokinase activity,GO:0008443,Parkinson Disease,MESH:D010300,1,Acrolein,0,
+phospholipase A2 activity,GO:0004623,Parkinson Disease,MESH:D010300,1,Eicosapentaenoic Acid,0,
+phospholipase A2 activity,GO:0004623,"PARKINSON DISEASE 14, AUTOSOMAL RECESSIVE",OMIM:612953,0,,1,PLA2G6
+phospholipase A2 activity,GO:0004623,"Parkinson Disease, Secondary",MESH:D010302,1,thymoquinone,0,
+phospholipase A2 activity,GO:0004623,Parkinsonian Disorders,MESH:D020734,3,Cadmium|Docosahexaenoic Acids|Indomethacin,0,
+phospholipase binding,GO:0043274,Parkinson Disease,MESH:D010300,0,,2,PRKN|SNCA
+phospholipase binding,GO:0043274,"PARKINSON DISEASE 1, AUTOSOMAL DOMINANT",OMIM:168601,0,,1,SNCA
+phospholipase binding,GO:0043274,"Parkinson Disease 4, Autosomal Dominant Lewy Body",MESH:C565324,0,,1,SNCA
+phospholipase binding,GO:0043274,"Parkinson Disease, Secondary",MESH:D010302,0,,2,PRKN|SNCA
+phospholipase binding,GO:0043274,Parkinsonian Disorders,MESH:D020734,0,,2,PRKN|SNCA
+phospholipase D activity,GO:0004630,Parkinson Disease,MESH:D010300,1,Oxidopamine,1,HMOX1
+phospholipase D activity,GO:0004630,"Parkinson Disease, Secondary",MESH:D010302,1,Oxidopamine,0,
+phospholipase D activity,GO:0004630,Parkinsonian Disorders,MESH:D020734,1,Oxidopamine,0,
+phospholipid binding,GO:0005543,Parkinson Disease,MESH:D010300,0,,4,DEFA4|KST|RTNL1|SNCA
+phospholipid binding,GO:0005543,"PARKINSON DISEASE 1, AUTOSOMAL DOMINANT",OMIM:168601,0,,1,SNCA
+phospholipid binding,GO:0005543,"Parkinson Disease 4, Autosomal Dominant Lewy Body",MESH:C565324,0,,1,SNCA
+phospholipid binding,GO:0005543,"Parkinson Disease, Secondary",MESH:D010302,0,,2,PON1|SNCA
+phospholipid binding,GO:0005543,Parkinsonian Disorders,MESH:D020734,0,,1,SNCA
+phospholipid-hydroperoxide glutathione peroxidase activity,GO:0047066,Parkinson Disease,MESH:D010300,0,,1,CP
+phosphoprotein binding,GO:0051219,Parkinson Disease,MESH:D010300,0,,3,IGF2R|NOS1|SNCA
+phosphoprotein binding,GO:0051219,"PARKINSON DISEASE 1, AUTOSOMAL DOMINANT",OMIM:168601,0,,1,SNCA
+phosphoprotein binding,GO:0051219,"Parkinson Disease 4, Autosomal Dominant Lewy Body",MESH:C565324,0,,1,SNCA
+phosphoprotein binding,GO:0051219,"Parkinson Disease, Secondary",MESH:D010302,0,,1,SNCA
+phosphoprotein binding,GO:0051219,Parkinsonian Disorders,MESH:D020734,0,,1,SNCA
+phosphoprotein phosphatase activity,GO:0004721,AMYOTROPHIC LATERAL SCLEROSIS-PARKINSONISM/DEMENTIA COMPLEX 1,OMIM:105500,1,beta-N-methylamino-L-alanine,0,
+phosphoprotein phosphatase activity,GO:0004721,Parkinson Disease,MESH:D010300,1,beta-N-methylamino-L-alanine,0,
+phosphoprotein phosphatase activity,GO:0004721,Parkinsonian Disorders,MESH:D020734,1,6-methyl-2-(phenylethynyl)pyridine,0,
+phosphopyruvate hydratase activity,GO:0004634,Parkinson Disease,MESH:D010300,0,,1,ENO2
+phosphorus-oxygen lyase activity,GO:0016849,Parkinson Disease,MESH:D010300,0,,1,BST1
+phosphorylase kinase regulator activity,GO:0008607,Wolff-Parkinson-White Syndrome,MESH:D014927,0,,1,PRKAG2
+placental growth factor receptor activity,GO:0036332,Parkinson Disease,MESH:D010300,0,,2,IGF1R|INSR
+platelet-derived growth factor alpha-receptor activity,GO:0005018,Parkinson Disease,MESH:D010300,0,,2,IGF1R|INSR
+platelet-derived growth factor beta-receptor activity,GO:0005019,Parkinson Disease,MESH:D010300,0,,2,IGF1R|INSR
+polyamine transmembrane transporter activity,GO:0015203,Parkinson Disease,MESH:D010300,0,,1,ATP13A2
+polyamine transmembrane transporter activity,GO:0015203,"Parkinson Disease, Secondary",MESH:D010302,0,,1,ATP13A2
+polyamine transmembrane transporter activity,GO:0015203,Parkinsonian Disorders,MESH:D020734,0,,1,ATP13A2
+polysaccharide binding,GO:0030247,Parkinson Disease,MESH:D010300,0,,1,HLA-DRA
+polyubiquitin modification-dependent protein binding,GO:0031593,Parkinson Disease,MESH:D010300,0,,1,PRKN
+polyubiquitin modification-dependent protein binding,GO:0031593,"Parkinson Disease, Secondary",MESH:D010302,0,,1,PRKN
+polyubiquitin modification-dependent protein binding,GO:0031593,Parkinsonian Disorders,MESH:D020734,0,,1,PRKN
+pore-forming activity,GO:0140911,Parkinson Disease,MESH:D010300,0,,1,DEFA4
+porphobilinogen synthase activity,GO:0004655,Parkinson Disease,MESH:D010300,0,,1,HSC70-3
+potassium channel regulator activity,GO:0015459,Parkinson Disease,MESH:D010300,0,,1,DRD2
+potassium channel regulator activity,GO:0015459,Parkinsonian Disorders,MESH:D020734,0,,1,DRD2
+pre-miRNA binding,GO:0070883,Parkinsonian Disorders,MESH:D020734,0,,1,PRKRA
+primary amine oxidase activity,GO:0008131,Parkinson Disease,MESH:D010300,0,,2,MAOA|MAOB
+prolactin receptor binding,GO:0005148,Parkinsonian Disorders,MESH:D020734,0,,1,PRL
+proline-rich region binding,GO:0070064,Parkinson Disease 11,MESH:C564345,0,,1,GIGYF2
+proline:sodium symporter activity,GO:0005298,Parkinson Disease,MESH:D010300,0,,1,SLC38A2
+promoter-specific chromatin binding,GO:1990841,Parkinson Disease,MESH:D010300,0,,1,PPARGC1A
+prostaglandin-endoperoxide synthase activity,GO:0004666,Parkinson Disease,MESH:D010300,1,Particulate Matter,0,
+prostaglandin-endoperoxide synthase activity,GO:0004666,"Parkinson Disease, Secondary",MESH:D010302,1,thymoquinone,0,
+prostaglandin-endoperoxide synthase activity,GO:0004666,Parkinsonian Disorders,MESH:D020734,1,Particulate Matter,0,
+protease binding,GO:0002020,Parkinson Disease,MESH:D010300,0,,7,CNTNAP2|FCER2|HSPA1A|INS|PINK1|SLC6A3|TNF
+protease binding,GO:0002020,"Parkinson Disease 6, Autosomal Recessive Early-Onset",MESH:C565276,0,,1,PINK1
+protease binding,GO:0002020,Parkinsonian Disorders,MESH:D020734,0,,2,PINK1|POLG
+protease binding,GO:0002020,"Parkinsonism-Dystonia, Infantile",MESH:C567730,0,,1,SLC6A3
+protein-arginine deiminase activity,GO:0004668,Parkinson Disease,MESH:D010300,1,Dieldrin,0,
+protein-arginine deiminase activity,GO:0004668,"Parkinson Disease, Secondary",MESH:D010302,1,Dieldrin,0,
+protein binding,GO:0005515,AMYOTROPHIC LATERAL SCLEROSIS-PARKINSONISM/DEMENTIA COMPLEX 1,OMIM:105500,0,,1,TRPM7
+protein binding,GO:0005515,"Dystonia-Parkinsonism, Adult-Onset",MESH:C567844,0,,1,SLC39A14
+protein binding,GO:0005515,Parkinson Disease,MESH:D010300,1,Lead,81,ABCB1|AIF1|ALDH2|ATP13A2|BAG5|BDNF|CEACAM6|CHP|CNTNAP2|CPR|DDC|DDIT4|DNM1L|DRAXIN|DRD1|DRD2|EDN1|ENO2|FBP1|FCER2|FGB|GAK|GBA1|GDNF|GFAP|GSTA4|GSTM1|GSTP1|HFE|HGF|HLA-DRA|HLA-DRB5|HMOX1|HSC70-3|HSPA1A|HSPA9|IGF1R|IGF2|IGF2R|IL6|INS|INSR|KCNJ4|KST|LRRK2|MAG|MAOA|MAOB|MAP2|MAP3K5|MAPT|MTA1|MTHFR|NCAPG2|NECTIN2|NGF|NOS1|NQO1|PARK7|PINK1|PPARGC1A|PRKN|RAB32|RDGA|RPL14|RPL23A|RPL6|RPS8|SLC18A2|SLC30A10|SLC38A2|SLC6A3|SNCA|SOD1|SOD2|TALDO1|TCL1B|TH|TMEM230|TNF|VPS35
+protein binding,GO:0005515,Parkinson Disease 11,MESH:C564345,0,,1,GIGYF2
+protein binding,GO:0005515,Parkinson Disease 13,MESH:C565204,0,,1,HTRA2
+protein binding,GO:0005515,"PARKINSON DISEASE 14, AUTOSOMAL RECESSIVE",OMIM:612953,0,,1,PLA2G6
+protein binding,GO:0005515,PARKINSON DISEASE 17,OMIM:614203,0,,1,VPS35
+protein binding,GO:0005515,"PARKINSON DISEASE 18, AUTOSOMAL DOMINANT, SUSCEPTIBILITY TO",OMIM:614251,0,,1,EIF4G1
+protein binding,GO:0005515,"PARKINSON DISEASE 19A, JUVENILE-ONSET",OMIM:615528,0,,1,DNAJC6
+protein binding,GO:0005515,"PARKINSON DISEASE 1, AUTOSOMAL DOMINANT",OMIM:168601,0,,1,SNCA
+protein binding,GO:0005515,"PARKINSON DISEASE 20, EARLY-ONSET",OMIM:615530,0,,1,SYNJ1
+protein binding,GO:0005515,"PARKINSON DISEASE 22, AUTOSOMAL DOMINANT",OMIM:616710,0,,1,CHCHD2
+protein binding,GO:0005515,"Parkinson Disease 4, Autosomal Dominant Lewy Body",MESH:C565324,0,,1,SNCA
+protein binding,GO:0005515,"PARKINSON DISEASE 5, AUTOSOMAL DOMINANT, SUSCEPTIBILITY TO",OMIM:613643,0,,1,UCHL1
+protein binding,GO:0005515,"Parkinson Disease 6, Autosomal Recessive Early-Onset",MESH:C565276,0,,1,PINK1
+protein binding,GO:0005515,"Parkinson Disease 7, Autosomal Recessive Early-Onset",MESH:C565238,0,,1,PARK7
+protein binding,GO:0005515,"PARKINSON DISEASE 8, AUTOSOMAL DOMINANT",OMIM:607060,0,,1,LRRK2
+protein binding,GO:0005515,"PARKINSON DISEASE, LATE-ONSET",OMIM:168600,0,,8,ADH1C|ATXN2|ATXN3|GBA1|MAPT|NR4A2|SNCAIP|TBP
+protein binding,GO:0005515,"Parkinson Disease, Mitochondrial",MESH:C564015,0,,1,FMC1
+protein binding,GO:0005515,"Parkinson Disease, Secondary",MESH:D010302,0,,13,ABCB1|ATP13A2|BCHE|CNR2|FMC1|GDNF|NOS2|PRKN|RGS2|SHH|SLC18A2|SNCA|TFAM
+protein binding,GO:0005515,Parkinsonian Disorders,MESH:D020734,0,,28,ALDH1A1|ATP13A2|ATP1A3|DCTN1|DDC|DRD2|GAPDH|GBA1|GDNF|HOTAIR|HTRA2|LRRK2|MAPT|NGF|PARK7|PARP1|PDYN|PINK1|PNOC|POLG|PRKCD|PRKN|PRKRA|PRL|SLC18A2|SLC30A10|SNCA|TH
+protein binding,GO:0005515,"Parkinsonism-Dystonia, Infantile",MESH:C567730,0,,1,SLC6A3
+protein binding,GO:0005515,"Parkinsonism, early onset with mental retardation",MESH:C537179,0,,1,RAB39B
+protein binding,GO:0005515,"PARKINSONISM WITH SPASTICITY, X-LINKED",OMIM:300911,0,,1,ATP6AP2
+protein binding,GO:0005515,Wolff-Parkinson-White Syndrome,MESH:D014927,0,,1,PRKAG2
+protein-containing complex binding,GO:0044877,Parkinson Disease,MESH:D010300,0,,15,DNM1L|DRD1|DRD2|ENO2|HBG1|HGF|IGF1R|INSR|LRRK2|MAPT|MTHFR|PARK7|PINK1|PRKN|SLC6A3
+protein-containing complex binding,GO:0044877,"PARKINSON DISEASE 20, EARLY-ONSET",OMIM:615530,0,,1,SYNJ1
+protein-containing complex binding,GO:0044877,"Parkinson Disease 6, Autosomal Recessive Early-Onset",MESH:C565276,0,,1,PINK1
+protein-containing complex binding,GO:0044877,"Parkinson Disease 7, Autosomal Recessive Early-Onset",MESH:C565238,0,,1,PARK7
+protein-containing complex binding,GO:0044877,"PARKINSON DISEASE 8, AUTOSOMAL DOMINANT",OMIM:607060,0,,1,LRRK2
+protein-containing complex binding,GO:0044877,"PARKINSON DISEASE, LATE-ONSET",OMIM:168600,0,,1,MAPT
+protein-containing complex binding,GO:0044877,"Parkinson Disease, Secondary",MESH:D010302,0,,1,PRKN
+protein-containing complex binding,GO:0044877,Parkinsonian Disorders,MESH:D020734,0,,7,DRD2|HOTAIR|LRRK2|MAPT|PARK7|PINK1|PRKN
+protein-containing complex binding,GO:0044877,"Parkinsonism-Dystonia, Infantile",MESH:C567730,0,,1,SLC6A3
+protein deglycase activity,GO:0036524,Parkinson Disease,MESH:D010300,0,,1,PARK7
+protein deglycase activity,GO:0036524,"Parkinson Disease 7, Autosomal Recessive Early-Onset",MESH:C565238,0,,1,PARK7
+protein deglycase activity,GO:0036524,Parkinsonian Disorders,MESH:D020734,0,,2,DJ-1BETA|PARK7
+protein dimerization activity,GO:0046983,Parkinsonian Disorders,MESH:D020734,0,,1,PARP1
+protein disulfide isomerase activity,GO:0003756,Parkinson Disease,MESH:D010300,1,Methamphetamine,0,
+protein disulfide isomerase activity,GO:0003756,"Parkinson Disease, Secondary",MESH:D010302,1,Methamphetamine,0,
+protein domain specific binding,GO:0019904,Parkinson Disease,MESH:D010300,0,,5,DDC|INSR|MAP3K5|SNCA|TH
+protein domain specific binding,GO:0019904,"PARKINSON DISEASE 1, AUTOSOMAL DOMINANT",OMIM:168601,0,,1,SNCA
+protein domain specific binding,GO:0019904,"Parkinson Disease 4, Autosomal Dominant Lewy Body",MESH:C565324,0,,1,SNCA
+protein domain specific binding,GO:0019904,"Parkinson Disease, Secondary",MESH:D010302,0,,1,SNCA
+protein domain specific binding,GO:0019904,Parkinsonian Disorders,MESH:D020734,0,,3,DDC|SNCA|TH
+protein folding chaperone,GO:0044183,Parkinson Disease,MESH:D010300,0,,1,HSPA1A
+protein-glutamine gamma-glutamyltransferase activity,GO:0003810,"Parkinson Disease, Secondary",MESH:D010302,4,Doxorubicin|Silymarin|thymoquinone|Valproic Acid,0,
+protein-glutamine gamma-glutamyltransferase activity,GO:0003810,Parkinsonian Disorders,MESH:D020734,3,Cadmium|Silymarin|Valproic Acid,0,
+protein heterodimerization activity,GO:0046982,Parkinson Disease,MESH:D010300,0,,1,CEACAM6
+protein heterodimerization activity,GO:0046982,"PARKINSON DISEASE, LATE-ONSET",OMIM:168600,0,,1,NR4A2
+protein homodimerization activity,GO:0042803,Parkinson Disease,MESH:D010300,0,,13,DEFA4|DNM1L|GDNF|GPDH1|GSTA4|GSTM1|HMOX1|LRRK2|MAG|MAP3K5|NECTIN2|PARK7|SOD1
+protein homodimerization activity,GO:0042803,"Parkinson Disease 7, Autosomal Recessive Early-Onset",MESH:C565238,0,,1,PARK7
+protein homodimerization activity,GO:0042803,"PARKINSON DISEASE 8, AUTOSOMAL DOMINANT",OMIM:607060,0,,1,LRRK2
+protein homodimerization activity,GO:0042803,"Parkinson Disease, Secondary",MESH:D010302,0,,3,GDNF|NOS2|PON1
+protein homodimerization activity,GO:0042803,Parkinsonian Disorders,MESH:D020734,0,,5,GDNF|LRRK2|PARK7|PARP1|PRKRA
+protein kinase A binding,GO:0051018,Parkinson Disease,MESH:D010300,0,,1,LRRK2
+protein kinase A binding,GO:0051018,"PARKINSON DISEASE 8, AUTOSOMAL DOMINANT",OMIM:607060,0,,1,LRRK2
+protein kinase A binding,GO:0051018,Parkinsonian Disorders,MESH:D020734,0,,1,LRRK2
+protein kinase activator activity,GO:0030295,Parkinson Disease,MESH:D010300,0,,1,INSR
+protein kinase activator activity,GO:0030295,Parkinsonian Disorders,MESH:D020734,0,,1,PRKRA
+protein kinase activator activity,GO:0030295,Wolff-Parkinson-White Syndrome,MESH:D014927,0,,1,PRKAG2
+protein kinase activity,GO:0004672,AMYOTROPHIC LATERAL SCLEROSIS-PARKINSONISM/DEMENTIA COMPLEX 1,OMIM:105500,0,,1,TRPM7
+protein kinase activity,GO:0004672,Parkinson Disease,MESH:D010300,0,,5,GAK|INSR|LRRK2|MAP3K5|PINK1
+protein kinase activity,GO:0004672,"Parkinson Disease 6, Autosomal Recessive Early-Onset",MESH:C565276,0,,1,PINK1
+protein kinase activity,GO:0004672,"PARKINSON DISEASE 8, AUTOSOMAL DOMINANT",OMIM:607060,0,,1,LRRK2
+protein kinase activity,GO:0004672,Parkinsonian Disorders,MESH:D020734,0,,3,LRRK2|PINK1|PRKCD
+protein kinase B binding,GO:0043422,Parkinson Disease,MESH:D010300,0,,1,PINK1
+protein kinase B binding,GO:0043422,"Parkinson Disease 6, Autosomal Recessive Early-Onset",MESH:C565276,0,,1,PINK1
+protein kinase B binding,GO:0043422,Parkinsonian Disorders,MESH:D020734,0,,1,PINK1
+protein kinase binding,GO:0019901,Parkinson Disease,MESH:D010300,0,,10,BAG5|GSTM1|GSTP1|INSR|MAG|MAP2|MAP3K5|MAPT|PRKN|TCL1B
+protein kinase binding,GO:0019901,"PARKINSON DISEASE 14, AUTOSOMAL RECESSIVE",OMIM:612953,0,,1,PLA2G6
+protein kinase binding,GO:0019901,"PARKINSON DISEASE, LATE-ONSET",OMIM:168600,0,,1,MAPT
+protein kinase binding,GO:0019901,"Parkinson Disease, Secondary",MESH:D010302,0,,2,NOS2|PRKN
+protein kinase binding,GO:0019901,Parkinsonian Disorders,MESH:D020734,0,,6,DCTN1|MAPT|PARP1|PRKCD|PRKN|PRKRA
+protein kinase binding,GO:0019901,Wolff-Parkinson-White Syndrome,MESH:D014927,0,,1,PRKAG2
+protein kinase C activity,GO:0004697,Parkinson Disease,MESH:D010300,5,Endosulfan|Hexachlorocyclohexane|Lead|Paraquat|Trichloroethylene,0,
+protein kinase C activity,GO:0004697,"Parkinson Disease, Secondary",MESH:D010302,3,Paraquat|Silymarin|Trichloroethylene,0,
+protein kinase C activity,GO:0004697,Parkinsonian Disorders,MESH:D020734,2,Paraquat|Silymarin,1,PRKCD
+protein kinase inhibitor activity,GO:0004860,Parkinson Disease,MESH:D010300,0,,1,SNCA
+protein kinase inhibitor activity,GO:0004860,"PARKINSON DISEASE 1, AUTOSOMAL DOMINANT",OMIM:168601,0,,1,SNCA
+protein kinase inhibitor activity,GO:0004860,"Parkinson Disease 4, Autosomal Dominant Lewy Body",MESH:C565324,0,,1,SNCA
+protein kinase inhibitor activity,GO:0004860,"Parkinson Disease, Secondary",MESH:D010302,0,,1,SNCA
+protein kinase inhibitor activity,GO:0004860,Parkinsonian Disorders,MESH:D020734,0,,1,SNCA
+protein kinase regulator activity,GO:0019887,Wolff-Parkinson-White Syndrome,MESH:D014927,0,,1,PRKAG2
+protein lysine deacetylase activity,GO:0033558,Parkinson Disease,MESH:D010300,1,Paraquat,0,
+protein lysine deacetylase activity,GO:0033558,"Parkinson Disease, Secondary",MESH:D010302,1,Paraquat,0,
+protein lysine deacetylase activity,GO:0033558,Parkinsonian Disorders,MESH:D020734,1,Paraquat,0,
+protein-macromolecule adaptor activity,GO:0030674,Parkinson Disease,MESH:D010300,0,,2,COL19A1|MAPT
+protein-macromolecule adaptor activity,GO:0030674,"PARKINSON DISEASE, LATE-ONSET",OMIM:168600,0,,1,MAPT
+protein-macromolecule adaptor activity,GO:0030674,Parkinsonian Disorders,MESH:D020734,0,,1,MAPT
+protein phosphatase 2A binding,GO:0051721,Parkinson Disease,MESH:D010300,0,,2,MAPT|SLC6A3
+protein phosphatase 2A binding,GO:0051721,"PARKINSON DISEASE, LATE-ONSET",OMIM:168600,0,,1,MAPT
+protein phosphatase 2A binding,GO:0051721,Parkinsonian Disorders,MESH:D020734,0,,1,MAPT
+protein phosphatase 2A binding,GO:0051721,"Parkinsonism-Dystonia, Infantile",MESH:C567730,0,,1,SLC6A3
+protein phosphatase 2B binding,GO:0030346,Parkinson Disease,MESH:D010300,0,,1,SOD1
+protein phosphatase binding,GO:0019903,Parkinson Disease,MESH:D010300,0,,3,DRD1|INSR|MAP3K5
+protein serine kinase activity,GO:0106310,AMYOTROPHIC LATERAL SCLEROSIS-PARKINSONISM/DEMENTIA COMPLEX 1,OMIM:105500,0,,1,TRPM7
+protein serine kinase activity,GO:0106310,Parkinson Disease,MESH:D010300,0,,4,GAK|LRRK2|MAP3K5|PINK1
+protein serine kinase activity,GO:0106310,"Parkinson Disease 6, Autosomal Recessive Early-Onset",MESH:C565276,0,,1,PINK1
+protein serine kinase activity,GO:0106310,"PARKINSON DISEASE 8, AUTOSOMAL DOMINANT",OMIM:607060,0,,1,LRRK2
+protein serine kinase activity,GO:0106310,Parkinsonian Disorders,MESH:D020734,0,,3,LRRK2|PINK1|PRKCD
+protein serine/threonine kinase activator activity,GO:0043539,Parkinson Disease,MESH:D010300,0,,2,IGF2|TCL1B
+protein serine/threonine kinase activity,GO:0004674,AMYOTROPHIC LATERAL SCLEROSIS-PARKINSONISM/DEMENTIA COMPLEX 1,OMIM:105500,0,,1,TRPM7
+protein serine/threonine kinase activity,GO:0004674,Parkinson Disease,MESH:D010300,0,,4,GAK|LRRK2|MAP3K5|PINK1
+protein serine/threonine kinase activity,GO:0004674,"Parkinson Disease 6, Autosomal Recessive Early-Onset",MESH:C565276,0,,1,PINK1
+protein serine/threonine kinase activity,GO:0004674,"PARKINSON DISEASE 8, AUTOSOMAL DOMINANT",OMIM:607060,0,,1,LRRK2
+protein serine/threonine kinase activity,GO:0004674,Parkinsonian Disorders,MESH:D020734,0,,3,LRRK2|PINK1|PRKCD
+protein serine/threonine kinase binding,GO:0120283,Parkinson Disease,MESH:D010300,0,,1,DNM1L
+protein serine/threonine kinase binding,GO:0120283,Parkinsonian Disorders,MESH:D020734,0,,1,PRKCD
+protein serine/threonine kinase inhibitor activity,GO:0030291,Parkinson Disease 13,MESH:C565204,0,,1,HTRA2
+protein serine/threonine kinase inhibitor activity,GO:0030291,Parkinsonian Disorders,MESH:D020734,0,,1,HTRA2
+protein serine/threonine phosphatase activity,GO:0004722,Parkinson Disease,MESH:D010300,1,Estradiol,0,
+protein serine/threonine phosphatase activity,GO:0004722,"Parkinson Disease, Secondary",MESH:D010302,1,Verapamil,0,
+protein serine/threonine phosphatase activity,GO:0004722,Parkinsonian Disorders,MESH:D020734,1,Verapamil,0,
+protein transporter activity,GO:0140318,Parkinson Disease,MESH:D010300,0,,1,IGF1R
+protein-transporting ATPase activity,GO:0015450,Parkinson Disease,MESH:D010300,0,,1,HSC70-3
+protein tyrosine kinase activity,GO:0004713,Parkinson Disease,MESH:D010300,0,,3,IGF1R|INSR|LRRK2
+protein tyrosine kinase activity,GO:0004713,"PARKINSON DISEASE 8, AUTOSOMAL DOMINANT",OMIM:607060,0,,1,LRRK2
+protein tyrosine kinase activity,GO:0004713,Parkinsonian Disorders,MESH:D020734,0,,2,LRRK2|PRKCD
+protein tyrosine kinase binding,GO:1990782,Parkinson Disease,MESH:D010300,0,,1,CEACAM6
+protein tyrosine kinase collagen receptor activity,GO:0038062,Parkinson Disease,MESH:D010300,0,,2,IGF1R|INSR
+protein tyrosine phosphatase activity,GO:0004725,Parkinson Disease,MESH:D010300,2,Particulate Matter|Vehicle Emissions,0,
+protein tyrosine phosphatase activity,GO:0004725,"PARKINSON DISEASE 19A, JUVENILE-ONSET",OMIM:615528,0,,1,DNAJC6
+protein tyrosine phosphatase activity,GO:0004725,Parkinsonian Disorders,MESH:D020734,1,Particulate Matter,0,
+"protein tyrosine phosphatase activity, metal-dependent",GO:0030946,"PARKINSON DISEASE 19A, JUVENILE-ONSET",OMIM:615528,0,,1,DNAJC6
+"proton-transporting ATPase activity, rotational mechanism",GO:0046961,Parkinson Disease,MESH:D010300,2,Dicamba|Zinc,0,
+"proton-transporting ATPase activity, rotational mechanism",GO:0046961,"Parkinson Disease, Secondary",MESH:D010302,2,Chlorpromazine|Resveratrol,0,
+"proton-transporting ATPase activity, rotational mechanism",GO:0046961,Parkinsonian Disorders,MESH:D020734,4,Chlorpromazine|coenzyme Q10|Curcumin|Resveratrol,0,
+"proton-transporting ATP synthase activity, rotational mechanism",GO:0046933,Parkinson Disease,MESH:D010300,2,Air Pollutants|Particulate Matter,1,ATPSYNBETA
+"proton-transporting ATP synthase activity, rotational mechanism",GO:0046933,Parkinsonian Disorders,MESH:D020734,1,Particulate Matter,0,
+PTB domain binding,GO:0051425,Parkinson Disease,MESH:D010300,0,,1,INSR
+P-type calcium transporter activity,GO:0005388,Parkinson Disease,MESH:D010300,2,Lipopolysaccharides|Rotenone,0,
+P-type calcium transporter activity,GO:0005388,"Parkinson Disease, Secondary",MESH:D010302,1,Rotenone,0,
+P-type calcium transporter activity,GO:0005388,Parkinsonian Disorders,MESH:D020734,5,Cadmium|Curcumin|Docosahexaenoic Acids|Lipopolysaccharides|Rotenone,0,
+P-type ion transporter activity,GO:0015662,Parkinson Disease,MESH:D010300,0,,1,ATP13A2
+P-type ion transporter activity,GO:0015662,"Parkinson Disease, Secondary",MESH:D010302,0,,1,ATP13A2
+P-type ion transporter activity,GO:0015662,Parkinsonian Disorders,MESH:D020734,1,Phenol,1,ATP13A2
+P-type magnesium transporter activity,GO:0015444,Parkinson Disease,MESH:D010300,1,Atrazine,0,
+P-type magnesium transporter activity,GO:0015444,"Parkinson Disease, Secondary",MESH:D010302,1,Atrazine,0,
+P-type magnesium transporter activity,GO:0015444,Parkinsonian Disorders,MESH:D020734,1,Cadmium,0,
+P-type potassium transmembrane transporter activity,GO:0008556,Parkinsonian Disorders,MESH:D020734,0,,1,ATP1A3
+P-type sodium:potassium-exchanging transporter activity,GO:0005391,Parkinson Disease,MESH:D010300,11,1-Methyl-4-phenylpyridinium|Chlorpyrifos|Dopamine|Lead|Levodopa|Lipopolysaccharides|Lithium Carbonate|Manganese|Reserpine|Rotenone|Zinc,0,
+P-type sodium:potassium-exchanging transporter activity,GO:0005391,"Parkinson Disease 6, Autosomal Recessive Early-Onset",MESH:C565276,1,Levodopa,0,
+P-type sodium:potassium-exchanging transporter activity,GO:0005391,"Parkinson Disease, Secondary",MESH:D010302,8,Chlorpromazine|Levodopa|Lithium Carbonate|Manganese|Reserpine|Resveratrol|Rotenone|Valproic Acid,0,
+P-type sodium:potassium-exchanging transporter activity,GO:0005391,Parkinsonian Disorders,MESH:D020734,17,1-Methyl-4-phenylpyridinium|Cadmium|Chlorpromazine|coenzyme Q10|Curcumin|Docosahexaenoic Acids|Dopamine|Indomethacin|Levodopa|Lipopolysaccharides|Manganese|manganese chloride|Reserpine|Resveratrol|Rotenone|taxifolin|Valproic Acid,1,ATP1A3
+P-type sodium:potassium-exchanging transporter activity,GO:0005391,Wolff-Parkinson-White Syndrome,MESH:D014927,1,Isoproterenol,0,
+P-type sodium:potassium-exchanging transporter activity involved in regulation of cardiac muscle cell membrane potential,GO:0086037,Parkinsonian Disorders,MESH:D020734,0,,1,ATP1A3
+P-type transmembrane transporter activity,GO:0140358,Parkinson Disease,MESH:D010300,0,,1,ATP13A2
+P-type transmembrane transporter activity,GO:0140358,"Parkinson Disease, Secondary",MESH:D010302,0,,1,ATP13A2
+P-type transmembrane transporter activity,GO:0140358,Parkinsonian Disorders,MESH:D020734,0,,1,ATP13A2
+pyridoxal phosphate binding,GO:0030170,Parkinson Disease,MESH:D010300,0,,1,DDC
+pyridoxal phosphate binding,GO:0030170,Parkinsonian Disorders,MESH:D020734,0,,1,DDC
+pyruvate dehydrogenase activity,GO:0004738,Parkinson Disease,MESH:D010300,1,Selegiline,0,
+pyruvate dehydrogenase activity,GO:0004738,Parkinsonian Disorders,MESH:D020734,1,Selegiline,0,
+pyruvate kinase activity,GO:0004743,Parkinson Disease,MESH:D010300,4,Air Pollutants|Lead|Lithium Carbonate|Particulate Matter,0,
+pyruvate kinase activity,GO:0004743,"Parkinson Disease, Secondary",MESH:D010302,1,Lithium Carbonate,0,
+pyruvate kinase activity,GO:0004743,Parkinsonian Disorders,MESH:D020734,1,Particulate Matter,0,
+receptor ligand activity,GO:0048018,Parkinson Disease,MESH:D010300,0,,6,EDN1|GDNF|HSPA1A|IGF2|NECTIN2|TNF
+receptor ligand activity,GO:0048018,"Parkinson Disease, Secondary",MESH:D010302,0,,1,GDNF
+receptor ligand activity,GO:0048018,Parkinsonian Disorders,MESH:D020734,0,,2,GDNF|PNOC
+receptor serine/threonine kinase binding,GO:0033612,Parkinson Disease,MESH:D010300,0,,1,LRRK2
+receptor serine/threonine kinase binding,GO:0033612,"PARKINSON DISEASE 8, AUTOSOMAL DOMINANT",OMIM:607060,0,,1,LRRK2
+receptor serine/threonine kinase binding,GO:0033612,Parkinsonian Disorders,MESH:D020734,0,,1,LRRK2
+receptor tyrosine kinase binding,GO:0030971,Parkinson Disease,MESH:D010300,0,,1,GDNF
+receptor tyrosine kinase binding,GO:0030971,"Parkinson Disease, Secondary",MESH:D010302,0,,1,GDNF
+receptor tyrosine kinase binding,GO:0030971,Parkinsonian Disorders,MESH:D020734,0,,1,GDNF
+retinal binding,GO:0016918,Parkinsonian Disorders,MESH:D020734,0,,1,ALDH1A2
+retinal dehydrogenase activity,GO:0001758,Parkinsonian Disorders,MESH:D020734,0,,2,ALDH1A1|ALDH1A2
+retinoic acid binding,GO:0001972,Parkinson Disease,MESH:D010300,0,,1,IGF2R
+retromer complex binding,GO:1905394,Parkinson Disease,MESH:D010300,0,,1,IGF2R
+Rho-dependent protein serine/threonine kinase activity,GO:0072518,AMYOTROPHIC LATERAL SCLEROSIS-PARKINSONISM/DEMENTIA COMPLEX 1,OMIM:105500,0,,1,TRPM7
+Rho-dependent protein serine/threonine kinase activity,GO:0072518,Parkinson Disease,MESH:D010300,0,,3,GAK|LRRK2|PINK1
+Rho-dependent protein serine/threonine kinase activity,GO:0072518,"Parkinson Disease 6, Autosomal Recessive Early-Onset",MESH:C565276,0,,1,PINK1
+Rho-dependent protein serine/threonine kinase activity,GO:0072518,"PARKINSON DISEASE 8, AUTOSOMAL DOMINANT",OMIM:607060,0,,1,LRRK2
+Rho-dependent protein serine/threonine kinase activity,GO:0072518,Parkinsonian Disorders,MESH:D020734,0,,2,LRRK2|PINK1
+ribosomal protein S6 kinase activity,GO:0004711,AMYOTROPHIC LATERAL SCLEROSIS-PARKINSONISM/DEMENTIA COMPLEX 1,OMIM:105500,0,,1,TRPM7
+ribosomal protein S6 kinase activity,GO:0004711,Parkinson Disease,MESH:D010300,0,,3,GAK|LRRK2|PINK1
+ribosomal protein S6 kinase activity,GO:0004711,"Parkinson Disease 6, Autosomal Recessive Early-Onset",MESH:C565276,0,,1,PINK1
+ribosomal protein S6 kinase activity,GO:0004711,"PARKINSON DISEASE 8, AUTOSOMAL DOMINANT",OMIM:607060,0,,1,LRRK2
+ribosomal protein S6 kinase activity,GO:0004711,Parkinsonian Disorders,MESH:D020734,0,,2,LRRK2|PINK1
+ribosome binding,GO:0043022,"PARKINSON DISEASE 5, AUTOSOMAL DOMINANT, SUSCEPTIBILITY TO",OMIM:613643,0,,1,UCHL1
+RNA 7-methylguanosine cap binding,GO:0000340,"PARKINSON DISEASE 18, AUTOSOMAL DOMINANT, SUSCEPTIBILITY TO",OMIM:614251,0,,1,EIF4G1
+RNA binding,GO:0003723,Parkinson Disease,MESH:D010300,0,,7,ADARB2|MAPT|PARK7|PPARGC1A|RPL14|RPL23A|RPL6
+RNA binding,GO:0003723,"PARKINSON DISEASE 18, AUTOSOMAL DOMINANT, SUSCEPTIBILITY TO",OMIM:614251,0,,1,EIF4G1
+RNA binding,GO:0003723,"PARKINSON DISEASE 20, EARLY-ONSET",OMIM:615530,0,,1,SYNJ1
+RNA binding,GO:0003723,"Parkinson Disease 7, Autosomal Recessive Early-Onset",MESH:C565238,0,,1,PARK7
+RNA binding,GO:0003723,"PARKINSON DISEASE, LATE-ONSET",OMIM:168600,0,,2,ATXN2|MAPT
+RNA binding,GO:0003723,Parkinsonian Disorders,MESH:D020734,0,,3,MAPT|PARK7|PRKRA
+RNA-dependent RNA polymerase activity,GO:0003968,Parkinson Disease,MESH:D010300,0,,1,NCAPG2
+RNA polymerase binding,GO:0070063,Parkinson Disease,MESH:D010300,1,Estradiol,0,
+RNA polymerase I core promoter sequence-specific DNA binding,GO:0001164,"PARKINSON DISEASE, LATE-ONSET",OMIM:168600,0,,1,TBP
+RNA polymerase II cis-regulatory region sequence-specific DNA binding,GO:0000978,Parkinson Disease,MESH:D010300,0,,1,MTA1
+RNA polymerase II cis-regulatory region sequence-specific DNA binding,GO:0000978,"PARKINSON DISEASE, LATE-ONSET",OMIM:168600,0,,2,NR4A2|TBP
+RNA polymerase II core promoter sequence-specific DNA binding,GO:0000979,"PARKINSON DISEASE, LATE-ONSET",OMIM:168600,0,,1,TBP
+RNA polymerase II general transcription initiation factor activity,GO:0016251,"PARKINSON DISEASE, LATE-ONSET",OMIM:168600,0,,1,TBP
+RNA polymerase II general transcription initiation factor binding,GO:0001091,"PARKINSON DISEASE, LATE-ONSET",OMIM:168600,0,,1,TBP
+RNA polymerase III general transcription initiation factor activity,GO:0000995,"PARKINSON DISEASE, LATE-ONSET",OMIM:168600,0,,1,TBP
+RNA polymerase III type 3 promoter sequence-specific DNA binding,GO:0001006,"PARKINSON DISEASE, LATE-ONSET",OMIM:168600,0,,1,TBP
+RNA polymerase II-specific DNA-binding transcription factor binding,GO:0061629,Parkinson Disease,MESH:D010300,0,,4,FBP1|MTA1|NOS1|PPARGC1A
+RNA polymerase II-specific DNA-binding transcription factor binding,GO:0061629,"PARKINSON DISEASE, LATE-ONSET",OMIM:168600,0,,1,TBP
+RNA polymerase II-specific DNA-binding transcription factor binding,GO:0061629,Parkinsonian Disorders,MESH:D020734,0,,1,PARP1
+RNA polymerase II transcription regulatory region sequence-specific DNA binding,GO:0000977,"PARKINSON DISEASE, LATE-ONSET",OMIM:168600,0,,2,ATXN3|NR4A2
+rRNA binding,GO:0019843,Parkinson Disease,MESH:D010300,0,,1,RPL23A
+R-SMAD binding,GO:0070412,Parkinsonian Disorders,MESH:D020734,0,,1,PARP1
+scaffold protein binding,GO:0097110,Parkinson Disease,MESH:D010300,0,,2,NOS1|PARK7
+scaffold protein binding,GO:0097110,"Parkinson Disease 7, Autosomal Recessive Early-Onset",MESH:C565238,0,,1,PARK7
+scaffold protein binding,GO:0097110,Parkinsonian Disorders,MESH:D020734,0,,1,PARK7
+scavenger receptor binding,GO:0005124,Parkinson Disease,MESH:D010300,0,,1,GBA1
+scavenger receptor binding,GO:0005124,"PARKINSON DISEASE, LATE-ONSET",OMIM:168600,0,,1,GBA1
+scavenger receptor binding,GO:0005124,Parkinsonian Disorders,MESH:D020734,0,,1,GBA1
+sequence-specific DNA binding,GO:0043565,Parkinson Disease,MESH:D010300,0,,3,MAPT|MTA1|PPARGC1A
+sequence-specific DNA binding,GO:0043565,"PARKINSON DISEASE 22, AUTOSOMAL DOMINANT",OMIM:616710,0,,1,CHCHD2
+sequence-specific DNA binding,GO:0043565,"PARKINSON DISEASE, LATE-ONSET",OMIM:168600,0,,2,MAPT|NR4A2
+sequence-specific DNA binding,GO:0043565,"Parkinson Disease, Secondary",MESH:D010302,0,,1,TFAM
+sequence-specific DNA binding,GO:0043565,Parkinsonian Disorders,MESH:D020734,0,,1,MAPT
+sequence-specific double-stranded DNA binding,GO:1990837,"PARKINSON DISEASE, LATE-ONSET",OMIM:168600,0,,1,NR4A2
+serine hydrolase activity,GO:0017171,"PARKINSON DISEASE 14, AUTOSOMAL RECESSIVE",OMIM:612953,0,,1,PLA2G6
+serine-type endopeptidase activity,GO:0004252,Parkinson Disease,MESH:D010300,0,,1,HGF
+serine-type endopeptidase activity,GO:0004252,Parkinson Disease 13,MESH:C565204,0,,1,HTRA2
+serine-type endopeptidase activity,GO:0004252,Parkinsonian Disorders,MESH:D020734,0,,1,HTRA2
+serine-type peptidase activity,GO:0008236,Parkinson Disease 13,MESH:C565204,0,,1,HTRA2
+serine-type peptidase activity,GO:0008236,Parkinsonian Disorders,MESH:D020734,0,,1,HTRA2
+serotonin binding,GO:0051378,Parkinson Disease,MESH:D010300,0,,1,MAOA
+serotonin:sodium:chloride symporter activity,GO:0005335,Parkinson Disease,MESH:D010300,0,,1,SLC18A2
+serotonin:sodium:chloride symporter activity,GO:0005335,"Parkinson Disease, Secondary",MESH:D010302,0,,1,SLC18A2
+serotonin:sodium:chloride symporter activity,GO:0005335,Parkinsonian Disorders,MESH:D020734,0,,1,SLC18A2
+SH2 domain binding,GO:0042169,Parkinson Disease,MESH:D010300,0,,1,MAP2
+SH3 domain binding,GO:0017124,Parkinson Disease,MESH:D010300,0,,2,MAPT|PRKN
+SH3 domain binding,GO:0017124,"PARKINSON DISEASE 19A, JUVENILE-ONSET",OMIM:615528,0,,1,DNAJC6
+SH3 domain binding,GO:0017124,"PARKINSON DISEASE 20, EARLY-ONSET",OMIM:615530,0,,1,SYNJ1
+SH3 domain binding,GO:0017124,"PARKINSON DISEASE, LATE-ONSET",OMIM:168600,0,,1,MAPT
+SH3 domain binding,GO:0017124,"Parkinson Disease, Secondary",MESH:D010302,0,,1,PRKN
+SH3 domain binding,GO:0017124,Parkinsonian Disorders,MESH:D020734,0,,2,MAPT|PRKN
+sialic acid binding,GO:0033691,Parkinson Disease,MESH:D010300,0,,1,MAG
+signaling receptor activator activity,GO:0030546,Parkinson Disease,MESH:D010300,0,,1,PARK7
+signaling receptor activator activity,GO:0030546,"Parkinson Disease 7, Autosomal Recessive Early-Onset",MESH:C565238,0,,1,PARK7
+signaling receptor activator activity,GO:0030546,Parkinsonian Disorders,MESH:D020734,0,,1,PARK7
+signaling receptor activity,GO:0038023,Parkinson Disease,MESH:D010300,0,,3,CP|FCER2|IGF2R
+signaling receptor activity,GO:0038023,"PARKINSONISM WITH SPASTICITY, X-LINKED",OMIM:300911,0,,1,ATP6AP2
+signaling receptor binding,GO:0005102,Parkinson Disease,MESH:D010300,0,,16,BDNF|DRD1|DRD2|EDN1|FGB|GBA1|GDNF|HFE|HGF|HSPA1A|IL6|LRRK2|MAG|NGF|PARK7|SLC6A3
+signaling receptor binding,GO:0005102,"Parkinson Disease 7, Autosomal Recessive Early-Onset",MESH:C565238,0,,1,PARK7
+signaling receptor binding,GO:0005102,"PARKINSON DISEASE 8, AUTOSOMAL DOMINANT",OMIM:607060,0,,1,LRRK2
+signaling receptor binding,GO:0005102,"PARKINSON DISEASE, LATE-ONSET",OMIM:168600,0,,1,GBA1
+signaling receptor binding,GO:0005102,"Parkinson Disease, Secondary",MESH:D010302,0,,1,GDNF
+signaling receptor binding,GO:0005102,Parkinsonian Disorders,MESH:D020734,0,,6,DRD2|GBA1|GDNF|LRRK2|NGF|PARK7
+signaling receptor binding,GO:0005102,"Parkinsonism-Dystonia, Infantile",MESH:C567730,0,,1,SLC6A3
+signaling receptor complex adaptor activity,GO:0030159,Parkinson Disease,MESH:D010300,0,,1,LRRK2
+signaling receptor complex adaptor activity,GO:0030159,"PARKINSON DISEASE 8, AUTOSOMAL DOMINANT",OMIM:607060,0,,1,LRRK2
+signaling receptor complex adaptor activity,GO:0030159,Parkinsonian Disorders,MESH:D020734,0,,1,LRRK2
+single-stranded DNA 3'-5' exodeoxyribonuclease activity,GO:0008310,Parkinsonian Disorders,MESH:D020734,0,,1,POLG
+single-stranded DNA binding,GO:0003697,Parkinson Disease,MESH:D010300,0,,1,MAPT
+single-stranded DNA binding,GO:0003697,"PARKINSON DISEASE, LATE-ONSET",OMIM:168600,0,,1,MAPT
+single-stranded DNA binding,GO:0003697,Parkinsonian Disorders,MESH:D020734,0,,1,MAPT
+single-stranded RNA binding,GO:0003727,Parkinson Disease,MESH:D010300,0,,2,ADARB2|MIR181C
+siRNA binding,GO:0035197,Parkinsonian Disorders,MESH:D020734,0,,1,PRKRA
+small GTPase binding,GO:0031267,Parkinson Disease,MESH:D010300,0,,4,DNM1L|LRRK2|SOD1|VPS35
+small GTPase binding,GO:0031267,PARKINSON DISEASE 17,OMIM:614203,0,,1,VPS35
+small GTPase binding,GO:0031267,"PARKINSON DISEASE 8, AUTOSOMAL DOMINANT",OMIM:607060,0,,1,LRRK2
+small GTPase binding,GO:0031267,Parkinsonian Disorders,MESH:D020734,0,,1,LRRK2
+small molecule binding,GO:0036094,Parkinson Disease,MESH:D010300,0,,1,TH
+small molecule binding,GO:0036094,Parkinsonian Disorders,MESH:D020734,0,,1,TH
+small protein activating enzyme binding,GO:0044388,Parkinson Disease,MESH:D010300,0,,1,PARK7
+small protein activating enzyme binding,GO:0044388,"Parkinson Disease 7, Autosomal Recessive Early-Onset",MESH:C565238,0,,1,PARK7
+small protein activating enzyme binding,GO:0044388,Parkinsonian Disorders,MESH:D020734,0,,1,PARK7
+SNARE binding,GO:0000149,Parkinson Disease,MESH:D010300,0,,2,LRRK2|SNCA
+SNARE binding,GO:0000149,"PARKINSON DISEASE 1, AUTOSOMAL DOMINANT",OMIM:168601,0,,1,SNCA
+SNARE binding,GO:0000149,"Parkinson Disease 4, Autosomal Dominant Lewy Body",MESH:C565324,0,,1,SNCA
+SNARE binding,GO:0000149,"PARKINSON DISEASE 8, AUTOSOMAL DOMINANT",OMIM:607060,0,,1,LRRK2
+SNARE binding,GO:0000149,"Parkinson Disease, Secondary",MESH:D010302,0,,1,SNCA
+SNARE binding,GO:0000149,Parkinsonian Disorders,MESH:D020734,0,,2,LRRK2|SNCA
+S-nitrosoglutathione binding,GO:0035730,Parkinson Disease,MESH:D010300,0,,1,GSTP1
+snoRNA binding,GO:0030515,Parkinsonian Disorders,MESH:D020734,0,,1,DCTN1
+sodium channel activity,GO:0005272,Parkinson Disease,MESH:D010300,0,,1,TRPM2
+sodium channel activity,GO:0005272,"Parkinson Disease, Secondary",MESH:D010302,1,Resveratrol,0,
+sodium channel activity,GO:0005272,Parkinsonian Disorders,MESH:D020734,2,Cadmium|Resveratrol,0,
+sodium channel regulator activity,GO:0017080,Parkinson Disease,MESH:D010300,0,,1,NOS1
+solute:bicarbonate symporter activity,GO:0140410,"Dystonia-Parkinsonism, Adult-Onset",MESH:C567844,0,,1,SLC39A14
+starch synthase activity,GO:0009011,"Parkinson Disease, Secondary",MESH:D010302,1,Nicotine,0,
+stem cell factor receptor activity,GO:0005020,Parkinson Disease,MESH:D010300,0,,2,IGF1R|INSR
+steroid binding,GO:0005496,Parkinson Disease,MESH:D010300,0,,1,GSTM1
+steroid delta-isomerase activity,GO:0004769,Parkinson Disease,MESH:D010300,1,Eicosapentaenoic Acid,0,
+steroid delta-isomerase activity,GO:0004769,Parkinsonian Disorders,MESH:D020734,1,Docosahexaenoic Acids,0,
+steroid hormone binding,GO:1990239,Parkinsonian Disorders,MESH:D020734,0,,1,ATP1A3
+steroid sulfotransferase activity,GO:0050294,Parkinson Disease,MESH:D010300,1,Estradiol,0,
+sterol esterase activity,GO:0004771,Parkinson Disease,MESH:D010300,0,,1,MAG
+steryl-beta-glucosidase activity,GO:0050295,Parkinson Disease,MESH:D010300,0,,1,GBA1
+steryl-beta-glucosidase activity,GO:0050295,"PARKINSON DISEASE, LATE-ONSET",OMIM:168600,0,,1,GBA1
+steryl-beta-glucosidase activity,GO:0050295,Parkinsonian Disorders,MESH:D020734,0,,1,GBA1
+structural constituent of chitin-based larval cuticle,GO:0008010,Parkinson Disease,MESH:D010300,0,,2,CPR64AA|CPR66D
+structural constituent of chromatin,GO:0030527,Parkinson Disease,MESH:D010300,0,,1,RPL23A
+structural constituent of collagen and cuticulin-based cuticle,GO:0042329,Parkinson Disease,MESH:D010300,0,,1,COL19A1
+structural constituent of cytoskeleton,GO:0005200,Parkinson Disease,MESH:D010300,0,,1,GFAP
+structural constituent of eye lens,GO:0005212,Parkinson Disease,MESH:D010300,0,,2,CPR66D|RETININ
+structural constituent of muscle,GO:0008307,Parkinson Disease,MESH:D010300,0,,1,MLP60A
+structural constituent of ribosome,GO:0003735,Parkinson Disease,MESH:D010300,0,,7,CNTNAP2|NQO1|PINK1|RPL14|RPL23A|RPL6|RPS8
+structural constituent of ribosome,GO:0003735,"Parkinson Disease 6, Autosomal Recessive Early-Onset",MESH:C565276,0,,1,PINK1
+structural constituent of ribosome,GO:0003735,Parkinsonian Disorders,MESH:D020734,0,,1,PINK1
+structural molecule activity,GO:0005198,Parkinson Disease,MESH:D010300,0,,6,FGB|GFAP|HMOX1|IGF1R|INSR|MAP2
+succinate dehydrogenase activity,GO:0000104,Parkinson Disease,MESH:D010300,5,"carbidopa, levodopa drug combination|Lipopolysaccharides|Rotenone|Selegiline|Zinc",0,
+succinate dehydrogenase activity,GO:0000104,"Parkinson Disease, Secondary",MESH:D010302,4,"carbidopa, levodopa drug combination|Doxorubicin|Rotenone|thymoquinone",0,
+succinate dehydrogenase activity,GO:0000104,Parkinsonian Disorders,MESH:D020734,8,"Cadmium|carbidopa, levodopa drug combination|crocin|Curcumin|Lipopolysaccharides|Plant Extracts|Rotenone|Selegiline",0,
+succinate dehydrogenase activity,GO:0000104,Wolff-Parkinson-White Syndrome,MESH:D014927,1,Isoproterenol,0,
+succinate dehydrogenase (ubiquinone) activity,GO:0008177,Parkinson Disease,MESH:D010300,12,"1-Methyl-4-phenylpyridinium|4-phenylbutyric acid|Aspirin|carbidopa, levodopa drug combination|Lead|Lithium|Lithium Carbonate|Melatonin|Nitrites|Paraquat|Rotenone|Sirolimus",0,
+succinate dehydrogenase (ubiquinone) activity,GO:0008177,"Parkinson Disease, Secondary",MESH:D010302,8,"carbidopa, levodopa drug combination|Doxorubicin|Lithium|Lithium Carbonate|Melatonin|Paraquat|Rotenone|Valproic Acid",0,
+succinate dehydrogenase (ubiquinone) activity,GO:0008177,Parkinsonian Disorders,MESH:D020734,12,"1-Methyl-4-phenylpyridinium|Bupropion|Cadmium|carbidopa, levodopa drug combination|coenzyme Q10|Curcumin|Docosahexaenoic Acids|ginsenoside Re|Melatonin|Paraquat|Rotenone|Valproic Acid",0,
+succinate dehydrogenase (ubiquinone) activity,GO:0008177,Wolff-Parkinson-White Syndrome,MESH:D014927,2,Isoproterenol|Lithium,0,
+sucrose alpha-glucosidase activity,GO:0004575,Parkinson Disease,MESH:D010300,2,Lead|Paraquat,0,
+sucrose alpha-glucosidase activity,GO:0004575,"Parkinson Disease, Secondary",MESH:D010302,2,geraniol|Paraquat,0,
+sucrose alpha-glucosidase activity,GO:0004575,Parkinsonian Disorders,MESH:D020734,2,geraniol|Paraquat,0,
+sulfotransferase activity,GO:0008146,Parkinsonian Disorders,MESH:D020734,1,Plant Extracts,0,
+superoxide dismutase activity,GO:0004784,Parkinson Disease,MESH:D010300,54,"1-Methyl-4-phenyl-1,2,3,6-tetrahydropyridine|1-Methyl-4-phenylpyridinium|4-phenylbutyric acid|6,7-dihydroxyflavone|Acrolein|Air Pollutants|Aluminum|Aspirin|Atrazine|Benomyl|Carbidopa|carbidopa, levodopa drug combination|Carbon Tetrachloride|Chlorpyrifos|Copper|Diazepam|Dicamba|Ditiocarb|Endosulfan|Estradiol|Eugenol|Hexachlorocyclohexane|Homocysteine|Iron|Lead|Lipopolysaccharides|Lithium Carbonate|Manganese|mangiferin|Melatonin|Methamphetamine|Oxidopamine|Ozone|Paclitaxel|Paraquat|Particulate Matter|pendimethalin|Permethrin|Pesticides|Pioglitazone|Probenecid|Rivastigmine|Roflumilast|Rotenone|Selegiline|Sirolimus|Smoke|Soot|Tea|Testosterone|Trichloroethylene|Vehicle Emissions|Water Pollutants, Chemical|Zinc",3,NQO1|SOD1|SOD2
+superoxide dismutase activity,GO:0004784,"Parkinson Disease, Secondary",MESH:D010302,41,"1-Methyl-4-phenyl-1,2,3,6-tetrahydropyridine|3-methyladenine|Amiodarone|Amlodipine|Atrazine|Benzo(a)pyrene|Buspirone|Carbidopa|carbidopa, levodopa drug combination|Cimetidine|Diazepam|Dichlorvos|Ditiocarb|Doxorubicin|Exenatide|Famotidine|geraniol|Lithium Carbonate|Manganese|Melatonin|Methamphetamine|Methotrexate|Nicotine|Nifedipine|Oxidopamine|Paraquat|Paroxetine|Pesticides|PQQ Cofactor|Pyridostigmine Bromide|Resveratrol|Rotenone|Silymarin|sodium bisulfide|Tacrine|thymoquinone|Trichloroethylene|Valproic Acid|Venlafaxine Hydrochloride|Verapamil|Vincristine",0,
+superoxide dismutase activity,GO:0004784,Parkinsonian Disorders,MESH:D020734,42,"1-Methyl-4-phenyl-1,2,3,6-tetrahydropyridine|1-Methyl-4-phenylpyridinium|Amiodarone|Amlodipine|baicalin|Buspirone|Cadmium|Carbidopa|carbidopa, levodopa drug combination|Centella asiatica extract|coenzyme Q10|crocin|Curcumin|cypermethrin|Docosahexaenoic Acids|Donepezil|genkwanin|geraniol|Indomethacin|Lipopolysaccharides|mancozeb|Manganese|manganese chloride|Melatonin|oleuropein|Oxidopamine|Paraquat|Paroxetine|Particulate Matter|Permethrin|Plant Extracts|Plant Preparations|Probenecid|Resveratrol|Rivastigmine|Rotenone|Selegiline|sesamin|Silymarin|taxifolin|Valproic Acid|Verapamil",0,
+superoxide dismutase activity,GO:0004784,Wolff-Parkinson-White Syndrome,MESH:D014927,2,Amiodarone|Isoproterenol,0,
+superoxide dismutase copper chaperone activity,GO:0016532,Parkinson Disease,MESH:D010300,0,,1,PARK7
+superoxide dismutase copper chaperone activity,GO:0016532,"Parkinson Disease 7, Autosomal Recessive Early-Onset",MESH:C565238,0,,1,PARK7
+superoxide dismutase copper chaperone activity,GO:0016532,Parkinsonian Disorders,MESH:D020734,0,,1,PARK7
+superoxide-generating NADPH oxidase activity,GO:0106292,Parkinson Disease,MESH:D010300,1,Methamphetamine,0,
+superoxide-generating NADPH oxidase activity,GO:0106292,"Parkinson Disease, Secondary",MESH:D010302,2,Doxorubicin|Methamphetamine,0,
+superoxide-generating NADPH oxidase activity,GO:0106292,Parkinsonian Disorders,MESH:D020734,1,Curcumin,0,
+symporter activity,GO:0015293,Parkinson Disease,MESH:D010300,0,,2,SLC38A2|SLC6A3
+symporter activity,GO:0015293,"Parkinsonism-Dystonia, Infantile",MESH:C567730,0,,1,SLC6A3
+syntaxin-1 binding,GO:0017075,Parkinson Disease,MESH:D010300,0,,1,LRRK2
+syntaxin-1 binding,GO:0017075,"PARKINSON DISEASE 8, AUTOSOMAL DOMINANT",OMIM:607060,0,,1,LRRK2
+syntaxin-1 binding,GO:0017075,Parkinsonian Disorders,MESH:D020734,0,,1,LRRK2
+tau protein binding,GO:0048156,Parkinson Disease,MESH:D010300,0,,2,MAP2|SNCA
+tau protein binding,GO:0048156,"PARKINSON DISEASE 1, AUTOSOMAL DOMINANT",OMIM:168601,0,,1,SNCA
+tau protein binding,GO:0048156,"Parkinson Disease 4, Autosomal Dominant Lewy Body",MESH:C565324,0,,1,SNCA
+tau protein binding,GO:0048156,"Parkinson Disease, Secondary",MESH:D010302,0,,1,SNCA
+tau protein binding,GO:0048156,Parkinsonian Disorders,MESH:D020734,0,,2,DCTN1|SNCA
+T cell receptor binding,GO:0042608,Parkinson Disease,MESH:D010300,0,,1,HLA-DRA
+telomerase activity,GO:0003720,Parkinson Disease,MESH:D010300,3,Air Pollutants|Estradiol|Particulate Matter,0,
+telomerase activity,GO:0003720,"Parkinson Disease, Secondary",MESH:D010302,1,Benzo(a)pyrene,0,
+telomerase activity,GO:0003720,Parkinsonian Disorders,MESH:D020734,1,Particulate Matter,0,
+testosterone 17-beta-dehydrogenase (NADP+) activity,GO:0047045,Parkinsonian Disorders,MESH:D020734,1,mancozeb,0,
+testosterone 6-beta-hydroxylase activity,GO:0050649,"Parkinson Disease, Secondary",MESH:D010302,1,Amiodarone,0,
+testosterone 6-beta-hydroxylase activity,GO:0050649,Parkinsonian Disorders,MESH:D020734,1,Amiodarone,0,
+testosterone 6-beta-hydroxylase activity,GO:0050649,Wolff-Parkinson-White Syndrome,MESH:D014927,1,Amiodarone,0,
+testosterone dehydrogenase [NAD(P)] activity,GO:0030283,Parkinsonian Disorders,MESH:D020734,1,cypermethrin,0,
+tetrahydrobiopterin binding,GO:0034617,Parkinson Disease,MESH:D010300,0,,2,NOS1|TH
+tetrahydrobiopterin binding,GO:0034617,"Parkinson Disease, Secondary",MESH:D010302,0,,1,NOS2
+tetrahydrobiopterin binding,GO:0034617,Parkinsonian Disorders,MESH:D020734,0,,1,TH
+TFIIA-class transcription factor complex binding,GO:0001092,"PARKINSON DISEASE, LATE-ONSET",OMIM:168600,0,,1,TBP
+TFIIB-class transcription factor binding,GO:0001093,"PARKINSON DISEASE, LATE-ONSET",OMIM:168600,0,,1,TBP
+thiolester hydrolase activity,GO:0016790,Parkinson Disease,MESH:D010300,0,,1,PARK7
+thiolester hydrolase activity,GO:0016790,"Parkinson Disease 7, Autosomal Recessive Early-Onset",MESH:C565238,0,,1,PARK7
+thiolester hydrolase activity,GO:0016790,Parkinsonian Disorders,MESH:D020734,0,,1,PARK7
+thioredoxin-disulfide reductase activity,GO:0004791,Parkinson Disease,MESH:D010300,2,Iron|Rotenone,0,
+thioredoxin-disulfide reductase activity,GO:0004791,"Parkinson Disease, Secondary",MESH:D010302,4,geraniol|Rotenone|sodium bisulfide|thymoquinone,0,
+thioredoxin-disulfide reductase activity,GO:0004791,Parkinsonian Disorders,MESH:D020734,4,Cadmium|Curcumin|geraniol|Rotenone,0,
+TIR domain binding,GO:0070976,Parkinsonian Disorders,MESH:D020734,0,,1,PRKCD
+TORC2 complex binding,GO:1904841,Parkinson Disease,MESH:D010300,0,,2,PINK1|RPL23A
+TORC2 complex binding,GO:1904841,"Parkinson Disease 6, Autosomal Recessive Early-Onset",MESH:C565276,0,,1,PINK1
+TORC2 complex binding,GO:1904841,Parkinsonian Disorders,MESH:D020734,0,,1,PINK1
+toxic substance binding,GO:0015643,Parkinson Disease,MESH:D010300,0,,2,GSTA4|GSTP1
+transaldolase activity,GO:0004801,Parkinson Disease,MESH:D010300,0,,1,TALDO1
+transaminase activity,GO:0008483,Parkinson Disease,MESH:D010300,1,"Water Pollutants, Chemical",0,
+transaminase activity,GO:0008483,Parkinsonian Disorders,MESH:D020734,1,Plant Extracts,0,
+transcription cis-regulatory region binding,GO:0000976,Parkinson Disease,MESH:D010300,0,,2,SNCA|TNF
+transcription cis-regulatory region binding,GO:0000976,"PARKINSON DISEASE 1, AUTOSOMAL DOMINANT",OMIM:168601,0,,1,SNCA
+transcription cis-regulatory region binding,GO:0000976,"Parkinson Disease 4, Autosomal Dominant Lewy Body",MESH:C565324,0,,1,SNCA
+transcription cis-regulatory region binding,GO:0000976,"PARKINSON DISEASE, LATE-ONSET",OMIM:168600,0,,1,TBP
+transcription cis-regulatory region binding,GO:0000976,"Parkinson Disease, Secondary",MESH:D010302,0,,2,SNCA|TFAM
+transcription cis-regulatory region binding,GO:0000976,Parkinsonian Disorders,MESH:D020734,0,,1,SNCA
+transcription coactivator activity,GO:0003713,Parkinson Disease,MESH:D010300,0,,4,MAP2|MTA1|PARK7|PPARGC1A
+transcription coactivator activity,GO:0003713,"Parkinson Disease 7, Autosomal Recessive Early-Onset",MESH:C565238,0,,1,PARK7
+transcription coactivator activity,GO:0003713,Parkinsonian Disorders,MESH:D020734,0,,1,PARK7
+transcription coactivator binding,GO:0001223,"Parkinson Disease, Secondary",MESH:D010302,0,,1,TFAM
+transcription coregulator activity,GO:0003712,Parkinson Disease,MESH:D010300,0,,1,PPARGC1A
+transcription coregulator activity,GO:0003712,Parkinsonian Disorders,MESH:D020734,1,Docosahexaenoic Acids,0,
+transcription corepressor activity,GO:0003714,Parkinson Disease,MESH:D010300,0,,3,HSPA1A|MTA1|PRKN
+transcription corepressor activity,GO:0003714,"Parkinson Disease, Secondary",MESH:D010302,0,,1,PRKN
+transcription corepressor activity,GO:0003714,Parkinsonian Disorders,MESH:D020734,0,,1,PRKN
+transcription corepressor binding,GO:0001222,"PARKINSON DISEASE, LATE-ONSET",OMIM:168600,0,,1,ATXN3
+transcription factor binding,GO:0008134,Parkinson Disease,MESH:D010300,0,,1,PPARGC1A
+transcription regulator activator activity,GO:0140537,Parkinsonian Disorders,MESH:D020734,0,,1,PARP1
+transcription regulator inhibitor activity,GO:0140416,Parkinson Disease,MESH:D010300,0,,1,HSPA1A
+transferase activity,GO:0016740,AMYOTROPHIC LATERAL SCLEROSIS-PARKINSONISM/DEMENTIA COMPLEX 1,OMIM:105500,0,,1,TRPM7
+transferase activity,GO:0016740,Parkinson Disease,MESH:D010300,0,,10,BST1|GAK|GSTA4|GSTM1|GSTP1|LRRK2|MAP3K5|PINK1|PRKN|TALDO1
+transferase activity,GO:0016740,"Parkinson Disease 6, Autosomal Recessive Early-Onset",MESH:C565276,0,,1,PINK1
+transferase activity,GO:0016740,"PARKINSON DISEASE 8, AUTOSOMAL DOMINANT",OMIM:607060,0,,1,LRRK2
+transferase activity,GO:0016740,"Parkinson Disease, Secondary",MESH:D010302,0,,2,PRKN|SHH
+transferase activity,GO:0016740,Parkinsonian Disorders,MESH:D020734,0,,7,GAPDH|LRRK2|PARP1|PINK1|POLG|PRKN|PRKRA
+transferrin receptor binding,GO:1990459,Parkinson Disease,MESH:D010300,0,,1,HFE
+transforming growth factor beta binding,GO:0050431,Parkinson Disease,MESH:D010300,0,,1,CHP
+transforming growth factor beta receptor binding,GO:0005160,Parkinson Disease,MESH:D010300,0,,1,GDNF
+transforming growth factor beta receptor binding,GO:0005160,"Parkinson Disease, Secondary",MESH:D010302,0,,1,GDNF
+transforming growth factor beta receptor binding,GO:0005160,Parkinsonian Disorders,MESH:D020734,0,,1,GDNF
+"translation factor activity, RNA binding",GO:0008135,"PARKINSON DISEASE 18, AUTOSOMAL DOMINANT, SUSCEPTIBILITY TO",OMIM:614251,0,,1,EIF4G1
+translation initiation factor activity,GO:0003743,"PARKINSON DISEASE 18, AUTOSOMAL DOMINANT, SUSCEPTIBILITY TO",OMIM:614251,0,,1,EIF4G1
+translation initiation factor binding,GO:0031369,"PARKINSON DISEASE 18, AUTOSOMAL DOMINANT, SUSCEPTIBILITY TO",OMIM:614251,0,,1,EIF4G1
+transmembrane-ephrin receptor activity,GO:0005005,Parkinson Disease,MESH:D010300,0,,2,IGF1R|INSR
+transmembrane receptor protein tyrosine kinase activator activity,GO:0030297,Parkinson Disease,MESH:D010300,0,,2,IGF2|NGF
+transmembrane receptor protein tyrosine kinase activator activity,GO:0030297,Parkinsonian Disorders,MESH:D020734,0,,1,NGF
+transmembrane receptor protein tyrosine kinase activity,GO:0004714,Parkinson Disease,MESH:D010300,0,,2,IGF1R|INSR
+transmembrane transporter activity,GO:0022857,Parkinson Disease,MESH:D010300,0,,2,ABCB1|SLC18A2
+transmembrane transporter activity,GO:0022857,"Parkinson Disease, Secondary",MESH:D010302,0,,2,ABCB1|SLC18A2
+transmembrane transporter activity,GO:0022857,Parkinsonian Disorders,MESH:D020734,0,,1,SLC18A2
+transmembrane transporter binding,GO:0044325,Parkinson Disease,MESH:D010300,0,,3,CNTNAP2|LRRK2|NOS1
+transmembrane transporter binding,GO:0044325,"PARKINSON DISEASE 8, AUTOSOMAL DOMINANT",OMIM:607060,0,,1,LRRK2
+transmembrane transporter binding,GO:0044325,Parkinsonian Disorders,MESH:D020734,0,,1,LRRK2
+trehalase activity,GO:0015927,Parkinson Disease,MESH:D010300,1,Ozone,0,
+triglyceride lipase activity,GO:0004806,Parkinson Disease,MESH:D010300,0,,1,MAG
+triplet codon-amino acid adaptor activity,GO:0030533,"PARKINSON DISEASE, LATE-ONSET",OMIM:168600,0,,1,TRNT
+triplet codon-amino acid adaptor activity,GO:0030533,"Parkinson Disease, Mitochondrial",MESH:C564015,0,,1,TRNT
+tRNA binding,GO:0000049,Parkinson Disease,MESH:D010300,0,,2,RPL6|VPS35
+tRNA binding,GO:0000049,PARKINSON DISEASE 17,OMIM:614203,0,,1,VPS35
+tRNA (cytosine-5-)-methyltransferase activity,GO:0016428,Parkinson Disease,MESH:D010300,0,,1,VPS35
+tRNA (cytosine-5-)-methyltransferase activity,GO:0016428,PARKINSON DISEASE 17,OMIM:614203,0,,1,VPS35
+tRNA-specific adenosine deaminase activity,GO:0008251,Parkinson Disease,MESH:D010300,0,,1,ADARB2
+tropomyosin binding,GO:0005523,Parkinson Disease,MESH:D010300,0,,1,UP
+"tryptophan 2,3-dioxygenase activity",GO:0004833,Parkinsonian Disorders,MESH:D020734,1,Cadmium,0,
+tubulin binding,GO:0015631,Parkinson Disease,MESH:D010300,0,,3,LRRK2|MAP2|PRKN
+tubulin binding,GO:0015631,"PARKINSON DISEASE 8, AUTOSOMAL DOMINANT",OMIM:607060,0,,1,LRRK2
+tubulin binding,GO:0015631,"Parkinson Disease, Secondary",MESH:D010302,0,,1,PRKN
+tubulin binding,GO:0015631,Parkinsonian Disorders,MESH:D020734,0,,3,DCTN1|LRRK2|PRKN
+tumor necrosis factor receptor binding,GO:0005164,Parkinson Disease,MESH:D010300,0,,1,TNF
+tyramine receptor activity,GO:0008226,Parkinsonian Disorders,MESH:D020734,0,,1,DOP1R2
+tyrosine 3-monooxygenase activator activity,GO:0036470,Parkinson Disease,MESH:D010300,0,,1,PARK7
+tyrosine 3-monooxygenase activator activity,GO:0036470,"Parkinson Disease 7, Autosomal Recessive Early-Onset",MESH:C565238,0,,1,PARK7
+tyrosine 3-monooxygenase activator activity,GO:0036470,Parkinsonian Disorders,MESH:D020734,0,,1,PARK7
+tyrosine 3-monooxygenase activity,GO:0004511,Parkinson Disease,MESH:D010300,0,,1,TH
+tyrosine 3-monooxygenase activity,GO:0004511,Parkinsonian Disorders,MESH:D020734,0,,2,CAT-2|TH
+tyrosine decarboxylase activity,GO:0004837,Parkinson Disease,MESH:D010300,1,Pyridoxine,0,
+tyrosine decarboxylase activity,GO:0004837,"Parkinson Disease, Secondary",MESH:D010302,1,Pyridoxine,0,
+ubiquinol-cytochrome-c reductase activity,GO:0008121,Parkinson Disease,MESH:D010300,5,4-phenylbutyric acid|Lead|Nitrites|Paraquat|Sirolimus,0,
+ubiquinol-cytochrome-c reductase activity,GO:0008121,"Parkinson Disease, Secondary",MESH:D010302,4,3-methyladenine|Chlorpromazine|Haloperidol|Paraquat,0,
+ubiquinol-cytochrome-c reductase activity,GO:0008121,Parkinsonian Disorders,MESH:D020734,7,Cadmium|Chlorpromazine|coenzyme Q10|Curcumin|Docosahexaenoic Acids|Haloperidol|Paraquat,0,
+ubiquinol-cytochrome-c reductase activity,GO:0008121,Wolff-Parkinson-White Syndrome,MESH:D014927,1,Isoproterenol,0,
+ubiquitin binding,GO:0043130,Parkinson Disease,MESH:D010300,0,,1,PRKN
+ubiquitin binding,GO:0043130,"PARKINSON DISEASE 5, AUTOSOMAL DOMINANT, SUSCEPTIBILITY TO",OMIM:613643,0,,1,UCHL1
+ubiquitin binding,GO:0043130,"Parkinson Disease, Secondary",MESH:D010302,0,,1,PRKN
+ubiquitin binding,GO:0043130,Parkinsonian Disorders,MESH:D020734,0,,1,PRKN
+ubiquitin conjugating enzyme binding,GO:0031624,Parkinson Disease,MESH:D010300,0,,1,PRKN
+ubiquitin conjugating enzyme binding,GO:0031624,"Parkinson Disease, Secondary",MESH:D010302,0,,1,PRKN
+ubiquitin conjugating enzyme binding,GO:0031624,Parkinsonian Disorders,MESH:D020734,0,,1,PRKN
+ubiquitin ligase inhibitor activity,GO:1990948,Parkinson Disease 13,MESH:C565204,0,,1,HTRA2
+ubiquitin ligase inhibitor activity,GO:1990948,Parkinsonian Disorders,MESH:D020734,0,,1,HTRA2
+ubiquitin-like protein conjugating enzyme binding,GO:0044390,Parkinson Disease,MESH:D010300,0,,1,PARK7
+ubiquitin-like protein conjugating enzyme binding,GO:0044390,"Parkinson Disease 7, Autosomal Recessive Early-Onset",MESH:C565238,0,,1,PARK7
+ubiquitin-like protein conjugating enzyme binding,GO:0044390,Parkinsonian Disorders,MESH:D020734,0,,1,PARK7
+ubiquitin protein ligase activity,GO:0061630,Parkinson Disease,MESH:D010300,0,,2,INS|PRKN
+ubiquitin protein ligase activity,GO:0061630,"PARKINSON DISEASE, LATE-ONSET",OMIM:168600,0,,1,ATXN2
+ubiquitin protein ligase activity,GO:0061630,"Parkinson Disease, Secondary",MESH:D010302,0,,1,PRKN
+ubiquitin protein ligase activity,GO:0061630,Parkinsonian Disorders,MESH:D020734,0,,1,PRKN
+ubiquitin protein ligase binding,GO:0031625,Parkinson Disease,MESH:D010300,0,,8,ABCB1|BAG5|DNM1L|HSPA1A|HSPA9|PINK1|PPARGC1A|PRKN
+ubiquitin protein ligase binding,GO:0031625,"PARKINSON DISEASE 5, AUTOSOMAL DOMINANT, SUSCEPTIBILITY TO",OMIM:613643,0,,1,UCHL1
+ubiquitin protein ligase binding,GO:0031625,"Parkinson Disease 6, Autosomal Recessive Early-Onset",MESH:C565276,0,,1,PINK1
+ubiquitin protein ligase binding,GO:0031625,"PARKINSON DISEASE, LATE-ONSET",OMIM:168600,0,,2,ATXN3|SNCAIP
+ubiquitin protein ligase binding,GO:0031625,"Parkinson Disease, Secondary",MESH:D010302,0,,2,ABCB1|PRKN
+ubiquitin protein ligase binding,GO:0031625,Parkinsonian Disorders,MESH:D020734,0,,3,PARP1|PINK1|PRKN
+ubiquitin-protein transferase activity,GO:0004842,Parkinson Disease,MESH:D010300,0,,1,PRKN
+ubiquitin-protein transferase activity,GO:0004842,"Parkinson Disease, Secondary",MESH:D010302,0,,1,PRKN
+ubiquitin-protein transferase activity,GO:0004842,Parkinsonian Disorders,MESH:D020734,0,,1,PRKN
+ubiquitin-protein transferase inhibitor activity,GO:0055105,Parkinson Disease,MESH:D010300,0,,1,PARK7
+ubiquitin-protein transferase inhibitor activity,GO:0055105,"Parkinson Disease 7, Autosomal Recessive Early-Onset",MESH:C565238,0,,1,PARK7
+ubiquitin-protein transferase inhibitor activity,GO:0055105,Parkinsonian Disorders,MESH:D020734,0,,1,PARK7
+ubiquitin-specific protease binding,GO:1990381,Parkinson Disease,MESH:D010300,0,,2,PARK7|PRKN
+ubiquitin-specific protease binding,GO:1990381,"Parkinson Disease 7, Autosomal Recessive Early-Onset",MESH:C565238,0,,1,PARK7
+ubiquitin-specific protease binding,GO:1990381,"Parkinson Disease, Secondary",MESH:D010302,0,,1,PRKN
+ubiquitin-specific protease binding,GO:1990381,Parkinsonian Disorders,MESH:D020734,0,,2,PARK7|PRKN
+unfolded protein binding,GO:0051082,Parkinson Disease,MESH:D010300,0,,4,CNX99A|HSC70-3|HSPA1A|HSPA9
+unfolded protein binding,GO:0051082,Parkinson Disease 13,MESH:C565204,0,,1,HTRA2
+unfolded protein binding,GO:0051082,Parkinsonian Disorders,MESH:D020734,0,,1,HTRA2
+vascular endothelial growth factor receptor activity,GO:0005021,Parkinson Disease,MESH:D010300,0,,2,IGF1R|INSR
+virus receptor activity,GO:0001618,Parkinson Disease,MESH:D010300,0,,2,HSPA1A|NECTIN2
+voltage-gated calcium channel activity,GO:0005245,Parkinsonian Disorders,MESH:D020734,1,Diazoxide,0,
+voltage-gated calcium channel activity involved in regulation of cytosolic calcium levels,GO:0099511,"Parkinson Disease, Secondary",MESH:D010302,1,Doxorubicin,0,
+voltage-gated channel activity,GO:0022832,Parkinson Disease,MESH:D010300,1,Rotenone,0,
+voltage-gated channel activity,GO:0022832,"Parkinson Disease, Secondary",MESH:D010302,1,Rotenone,0,
+voltage-gated channel activity,GO:0022832,Parkinsonian Disorders,MESH:D020734,1,Rotenone,0,
+voltage-gated monoatomic ion channel activity,GO:0005244,"Parkinson Disease, Secondary",MESH:D010302,1,geraniol,0,
+voltage-gated monoatomic ion channel activity,GO:0005244,Parkinsonian Disorders,MESH:D020734,1,geraniol,0,
+voltage-gated potassium channel activity,GO:0005249,"Parkinson Disease, Secondary",MESH:D010302,1,Valproic Acid,0,
+voltage-gated potassium channel activity,GO:0005249,Parkinsonian Disorders,MESH:D020734,1,Valproic Acid,0,
+voltage-gated sodium channel activity,GO:0005248,Parkinson Disease,MESH:D010300,1,Estradiol,0,
+wide pore channel activity,GO:0022829,Parkinsonian Disorders,MESH:D020734,1,Rimonabant,0,
+xanthine oxidase activity,GO:0004855,Parkinson Disease,MESH:D010300,1,Zinc,0,
+xanthine oxidase activity,GO:0004855,"Parkinson Disease, Secondary",MESH:D010302,1,Benzo(a)pyrene,0,
+xenobiotic transmembrane transporter activity,GO:0042910,Parkinson Disease,MESH:D010300,0,,2,ABCB1|SLC18A2
+xenobiotic transmembrane transporter activity,GO:0042910,"Parkinson Disease, Secondary",MESH:D010302,0,,2,ABCB1|SLC18A2
+xenobiotic transmembrane transporter activity,GO:0042910,Parkinsonian Disorders,MESH:D020734,0,,1,SLC18A2
+zinc ion binding,GO:0008270,Parkinson Disease,MESH:D010300,0,,10,ATP13A2|CNTNAP2|CPR|HSC70-3|MTA1|NOS1|PRKN|SNCA|SOD1|VPS35
+zinc ion binding,GO:0008270,PARKINSON DISEASE 17,OMIM:614203,0,,1,VPS35
+zinc ion binding,GO:0008270,"PARKINSON DISEASE 1, AUTOSOMAL DOMINANT",OMIM:168601,0,,1,SNCA
+zinc ion binding,GO:0008270,"Parkinson Disease 4, Autosomal Dominant Lewy Body",MESH:C565324,0,,1,SNCA
+zinc ion binding,GO:0008270,"PARKINSON DISEASE, LATE-ONSET",OMIM:168600,0,,3,ADH1C|ATXN2|NR4A2
+zinc ion binding,GO:0008270,"Parkinson Disease, Secondary",MESH:D010302,0,,4,ATP13A2|PRKN|SHH|SNCA
+zinc ion binding,GO:0008270,Parkinsonian Disorders,MESH:D020734,0,,5,ATP13A2|PARP1|PRKCD|PRKN|SNCA
+zinc ion transmembrane transporter activity,GO:0005385,AMYOTROPHIC LATERAL SCLEROSIS-PARKINSONISM/DEMENTIA COMPLEX 1,OMIM:105500,0,,1,TRPM7
+zinc ion transmembrane transporter activity,GO:0005385,"Dystonia-Parkinsonism, Adult-Onset",MESH:C567844,0,,1,SLC39A14
+zinc ion transmembrane transporter activity,GO:0005385,Parkinson Disease,MESH:D010300,0,,1,SLC30A10
+zinc ion transmembrane transporter activity,GO:0005385,Parkinsonian Disorders,MESH:D020734,0,,1,SLC30A10

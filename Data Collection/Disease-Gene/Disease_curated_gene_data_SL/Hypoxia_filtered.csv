@@ -1,0 +1,49 @@
+GeneSymbol,GeneID,DiseaseName,DiseaseID,DirectEvidence,OmimIDs,PubMedIDs
+ACADVL,37,Hypoxia,MESH:D000860,marker/mechanism,,18258771
+ACTB,60,Hypoxia,MESH:D000860,marker/mechanism,,19579223
+ADK,132,Hypoxia,MESH:D000860,marker/mechanism,,19579223
+AHCY,191,Hypoxia,MESH:D000860,marker/mechanism,,19579223
+ALDH1L1,10840,Hypoxia,MESH:D000860,marker/mechanism,,19579223
+ALDOB,229,Hypoxia,MESH:D000860,marker/mechanism,,19579223
+APOA1,335,Hypoxia,MESH:D000860,marker/mechanism,,18258771
+ATF4,468,Hypoxia,MESH:D000860,marker/mechanism,,14604972
+ATP5F1B,506,Hypoxia,MESH:D000860,marker/mechanism,,19579223
+BDNF,627,Hypoxia,MESH:D000860,marker/mechanism,,16553631
+CA9,768,Hypoxia,MESH:D000860,marker/mechanism,,16954440
+CPA2,1358,Hypoxia,MESH:D000860,marker/mechanism,,19579223
+CS,1431,Hypoxia,MESH:D000860,marker/mechanism,,19579223
+CTRB1,1504,Hypoxia,MESH:D000860,marker/mechanism,,19579223
+DAF-2,175410,Hypoxia,MESH:D000860,therapeutic,,19936206
+EGR1,1958,Hypoxia,MESH:D000860,marker/mechanism,,12468449
+ESD,2098,Hypoxia,MESH:D000860,marker/mechanism,,19579223
+F54D11.3,186237,Hypoxia,MESH:D000860,therapeutic,,19936206
+F54G2.1,180562,Hypoxia,MESH:D000860,therapeutic,,19936206
+GADR-1,186498,Hypoxia,MESH:D000860,therapeutic,,19936206
+GAPDH,2597,Hypoxia,MESH:D000860,marker/mechanism,,19579223
+GNAS,2778,Hypoxia,MESH:D000860,marker/mechanism,,20862257
+HIF1A,3091,"Hypoxia-Ischemia, Brain",MESH:D020925,marker/mechanism,,23694759
+HIM-6,178201,Hypoxia,MESH:D000860,therapeutic,,19936206
+HSP70,403612,Hypoxia,MESH:D000860,marker/mechanism,,18258771
+IRAK1,3654,"Hypoxia-Ischemia, Brain",MESH:D020925,marker/mechanism,,21925238
+IRAK4,51135,"Hypoxia-Ischemia, Brain",MESH:D020925,marker/mechanism,,21925238
+ITPR1,3708,"Hypoxia, Brain",MESH:D002534,marker/mechanism,,17285299
+ITPR2,3709,"Hypoxia, Brain",MESH:D002534,marker/mechanism,,17285299
+MPO,4353,Hypoxia,MESH:D000860,marker/mechanism,,8552434
+NME1,4830,Hypoxia,MESH:D000860,marker/mechanism,,19579223
+NOS1,4842,Hypoxia,MESH:D000860,marker/mechanism,,10956627
+NOS2,4843,"Hypoxia-Ischemia, Brain",MESH:D020925,marker/mechanism,,23694759
+NOS3,4846,Hypoxia,MESH:D000860,marker/mechanism,,10956627
+NPPA,4878,Hypoxia,MESH:D000860,marker/mechanism,,11311734
+PCK2,5106,Hypoxia,MESH:D000860,marker/mechanism,,18258771
+PDYN,5173,Hypoxia,MESH:D000860,marker/mechanism,,11311734
+PLAT,5327,Hypoxia,MESH:D000860,therapeutic,,25331496
+POMC,5443,Hypoxia,MESH:D000860,marker/mechanism,,11311734|24412703
+RPS14,6208,Hypoxia,MESH:D000860,marker/mechanism,,18258771
+RPS2,6187,Hypoxia,MESH:D000860,marker/mechanism,,18258771
+SARDH,1757,Hypoxia,MESH:D000860,marker/mechanism,,19579223
+SOD2,6648,Hypoxia,MESH:D000860,marker/mechanism,,18258771|19579223
+SRAB-21,188653,Hypoxia,MESH:D000860,therapeutic,,19936206
+TFPI,7035,Hypoxia,MESH:D000860,therapeutic,,23727623
+TKT,7086,Hypoxia,MESH:D000860,marker/mechanism,,19579223
+VEGFA,7422,"Hypoxia-Ischemia, Brain",MESH:D020925,marker/mechanism,,23694759
+ZK262.8,191270,Hypoxia,MESH:D000860,therapeutic,,19936206

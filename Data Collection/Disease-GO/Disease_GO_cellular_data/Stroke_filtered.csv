@@ -1,0 +1,343 @@
+GOName,GOID,DiseaseName,DiseaseID,InferenceChemicalQty,InferenceChemicalNames,InferenceGeneQty,InferenceGeneSymbols
+3-methyl-2-oxobutanoate dehydrogenase (lipoamide) complex,GO:0017086,Stroke,MESH:D020521,1,Simvastatin,0,
+A band,GO:0031672,Stroke,MESH:D020521,0,,1,ANK2
+actin filament,GO:0005884,Stroke,MESH:D020521,1,Cadmium,0,
+actin filament bundle,GO:0032432,Hemorrhagic Stroke,MESH:D000083302,1,Particulate Matter,0,
+actin filament bundle,GO:0032432,Ischemic Stroke,MESH:D000083242,1,Particulate Matter,0,
+actin filament bundle,GO:0032432,Stroke,MESH:D020521,1,Particulate Matter,0,
+aggresome,GO:0016235,Stroke,MESH:D020521,1,Bortezomib,0,
+alpha9-beta1 integrin-ADAM8 complex,GO:0071133,Stroke,MESH:D020521,0,,1,ITGB3
+alphav-beta3 integrin-HMGB1 complex,GO:0035868,Stroke,MESH:D020521,0,,2,ITGAV|ITGB3
+alphav-beta3 integrin-IGF-1-IGF1R complex,GO:0035867,Stroke,MESH:D020521,0,,2,ITGAV|ITGB3
+alphav-beta3 integrin-PKCalpha complex,GO:0035866,Stroke,MESH:D020521,0,,2,ITGAV|ITGB3
+alphav-beta3 integrin-vitronectin complex,GO:0071062,Stroke,MESH:D020521,0,,1,ITGB3
+alveolar lamellar body,GO:0097208,Hemorrhagic Stroke,MESH:D000083302,1,Particulate Matter,0,
+alveolar lamellar body,GO:0097208,Ischemic Stroke,MESH:D000083242,1,Particulate Matter,0,
+alveolar lamellar body,GO:0097208,Stroke,MESH:D020521,1,Particulate Matter,0,
+anchoring junction,GO:0070161,Stroke,MESH:D020521,0,,1,SH3PXD2A
+apical part of cell,GO:0045177,Ischemic Stroke,MESH:D000083242,0,,2,NOS3|PLAT
+apical part of cell,GO:0045177,Stroke,MESH:D020521,0,,1,PLAT
+apical plasma membrane,GO:0016324,Heat Stroke,MESH:D018883,0,,1,IL6RA
+apical plasma membrane,GO:0016324,Stroke,MESH:D020521,0,,3,ANK2|ITGB3|PRKAA2
+apoptotic body,GO:0097189,Ischemic Stroke,MESH:D000083242,1,Cisplatin,0,
+apoptotic body,GO:0097189,Stroke,MESH:D020521,4,Arsenic|Betaxolol|Cadmium|Raloxifene Hydrochloride,0,
+autolysosome,GO:0044754,Ischemic Stroke,MESH:D000083242,2,Cisplatin|Methamphetamine,0,
+autolysosome,GO:0044754,Stroke,MESH:D020521,4,Cadmium|Metformin|Methamphetamine|Niacinamide,0,
+autophagosome,GO:0005776,Ischemic Stroke,MESH:D000083242,2,Cisplatin|Methamphetamine,0,
+autophagosome,GO:0005776,Stroke,MESH:D020521,8,Acetaminophen|Arsenic|Cadmium|Ethanol|Metformin|Methamphetamine|Raloxifene Hydrochloride|Resveratrol,0,
+axon,GO:0030424,Stroke,MESH:D020521,0,,2,PRKAA2|TGFB1
+axonal spine,GO:0044308,Stroke,MESH:D020521,1,Cadmium,0,
+axon cytoplasm,GO:1904115,Stroke,MESH:D020521,0,,1,SOD1
+basal part of cell,GO:0045178,Stroke,MESH:D020521,0,,1,EDN1
+basal plasma membrane,GO:0009925,Stroke,MESH:D020521,0,,1,ACE
+basement membrane,GO:0005604,Stroke,MESH:D020521,0,,1,ALB
+basolateral plasma membrane,GO:0016323,Stroke,MESH:D020521,0,,1,ANK2
+Bcl3/NF-kappaB2 complex,GO:0033257,Heat Stroke,MESH:D018883,0,,1,NFKB2
+blood microparticle,GO:0072562,Stroke,MESH:D020521,0,,3,ALB|FGA|TGFB1
+brush border membrane,GO:0031526,Stroke,MESH:D020521,0,,1,ACE
+Cajal body,GO:0015030,Ischemic Stroke,MESH:D000083242,0,,1,ALOX5AP
+catalytic step 2 spliceosome,GO:0071013,Stroke,MESH:D020521,0,,1,PRPF8
+caveola,GO:0005901,Ischemic Stroke,MESH:D000083242,0,,2,NOS3|VDR
+caveola,GO:0005901,Stroke,MESH:D020521,0,,1,PTGS2
+cell-cell junction,GO:0005911,Ischemic Stroke,MESH:D000083242,0,,1,PRKCH
+cell-cell junction,GO:0005911,Stroke,MESH:D020521,0,,1,ITGB3
+cell cortex,GO:0005938,Stroke,MESH:D020521,0,,1,FGA
+cell periphery,GO:0071944,Stroke,MESH:D020521,0,,1,EDNRA
+cell projection,GO:0042995,Stroke,MESH:D020521,0,,1,SH3PXD2A
+cell surface,GO:0009986,Heat Stroke,MESH:D018883,0,,2,IL1A|TNF
+cell surface,GO:0009986,Ischemic Stroke,MESH:D000083242,0,,2,PLAT|PLAU
+cell surface,GO:0009986,Stroke,MESH:D020521,0,,11,APOA1|CXCR3|FGA|ICAM1|ITGA2B|ITGAV|ITGB3|PLAT|PLAU|TGFB1|TNF
+cell tip,GO:0051286,Stroke,MESH:D020521,0,,1,RGS7
+cellular_component,GO:0005575,Stroke,MESH:D020521,0,,2,ALB|ZCCHC14
+centrosome,GO:0005813,Heat Stroke,MESH:D018883,0,,1,RELB
+centrosome,GO:0005813,Stroke,MESH:D020521,0,,2,CDK6|IL1RN
+chromatin,GO:0000785,Heat Stroke,MESH:D018883,0,,7,FOS|JUN|NFKB1|NFKB2|REL|RELA|RELB
+chromatin,GO:0000785,Ischemic Stroke,MESH:D000083242,0,,2,VDR|ZFHX3
+chromatin,GO:0000785,Stroke,MESH:D020521,0,,7,CASZ1|FOXF2|IRF1|NKX2-5|PITX2|TBX3|ZFHX3
+ciliary basal body,GO:0036064,Stroke,MESH:D020521,0,,1,PRKAA2
+ciliary neurotrophic factor receptor complex,GO:0070110,Heat Stroke,MESH:D018883,0,,1,IL6RA
+cilium,GO:0005929,Stroke,MESH:D020521,0,,1,TBX3
+cochlear hair cell ribbon synapse,GO:0098683,Ischemic Stroke,MESH:D000083242,1,Cisplatin,0,
+collagen-containing extracellular matrix,GO:0062023,Ischemic Stroke,MESH:D000083242,0,,1,F2
+collagen-containing extracellular matrix,GO:0062023,Stroke,MESH:D020521,0,,2,F2|TGFB1
+COPII-coated ER to Golgi transport vesicle,GO:0030134,Ischemic Stroke,MESH:D000083242,0,,1,F5
+COPII-coated ER to Golgi transport vesicle,GO:0030134,Stroke,MESH:D020521,0,,1,F5
+cortical cytoskeleton,GO:0030863,Stroke,MESH:D020521,0,,1,NOS2
+cortical granule,GO:0060473,Stroke,MESH:D020521,1,Resveratrol,0,
+costamere,GO:0043034,Stroke,MESH:D020521,0,,1,ANK2
+cullin-RING ubiquitin ligase complex,GO:0031461,Stroke,MESH:D020521,0,,1,ABO
+cyclin D1-CDK6 complex,GO:0097131,Stroke,MESH:D020521,0,,1,CDK6
+cyclin D2-CDK6 complex,GO:0097132,Stroke,MESH:D020521,0,,1,CDK6
+cyclin D3-CDK6 complex,GO:0097133,Stroke,MESH:D020521,0,,1,CDK6
+cyclin-dependent protein kinase holoenzyme complex,GO:0000307,Stroke,MESH:D020521,0,,1,CDK6
+cytoplasm,GO:0005737,Heat Stroke,MESH:D018883,0,,7,FOS|IL1B|NFKB1|NFKB2|REL|RELA|RELB
+cytoplasm,GO:0005737,Ischemic Stroke,MESH:D000083242,0,,5,NOS3|PLAT|PRKCH|VDR|ZFHX3
+cytoplasm,GO:0005737,Stroke,MESH:D020521,0,,25,ACE|ALB|ANK2|CDK6|CXCR3|EDN1|HDAC9|HTR4|IL1B|IRF1|LRCH1|MMP12|NKX2-5|NOS2|PAOX|PITX2|PLAT|PRKAA2|PTGS2|RGS7|SH3PXD2A|SMOX|SOD1|TGFB1|ZFHX3
+cytoplasmic stress granule,GO:0010494,Stroke,MESH:D020521,0,,1,PRKAA2
+cytoplasmic vesicle,GO:0031410,Stroke,MESH:D020521,0,,2,APOA1|SOD1
+cytoskeleton,GO:0005856,Ischemic Stroke,MESH:D000083242,0,,1,NOS3
+cytoskeleton,GO:0005856,Stroke,MESH:D020521,0,,1,ANK2
+cytosol,GO:0005829,Heat Stroke,MESH:D018883,0,,9,FOS|IL1A|IL1B|JUN|NFKB1|NFKB2|REL|RELA|RELB
+cytosol,GO:0005829,Ischemic Stroke,MESH:D000083242,0,,4,F5|NOS3|PRKCH|VDR
+cytosol,GO:0005829,Stroke,MESH:D020521,0,,21,ANK2|APOA1|CASZ1|CDK6|F5|IL1B|IL1RN|IRF1|ITGAV|MTHFR|NKX2-5|NOS2|PAOX|PDE3A|PRKAA2|PTGS2|RGS7|SH2B3|SH3PXD2A|SMOX|SOD1
+dendrite,GO:0030425,Stroke,MESH:D020521,0,,3,HTR4|PRKAA2|RGS7
+dendrite cytoplasm,GO:0032839,Stroke,MESH:D020521,0,,1,SOD1
+dendrite terminus,GO:0044292,Stroke,MESH:D020521,0,,1,RGS7
+dendritic branch,GO:0044307,Stroke,MESH:D020521,1,Dexamethasone,0,
+dendritic spine,GO:0043197,Ischemic Stroke,MESH:D000083242,1,Methamphetamine,0,
+dendritic spine,GO:0043197,Stroke,MESH:D020521,1,Methamphetamine,0,
+dense core granule,GO:0031045,Stroke,MESH:D020521,0,,1,SOD1
+dense fibrillar component,GO:0001651,Ischemic Stroke,MESH:D000083242,0,,1,VDR
+discoidal high-density lipoprotein particle,GO:0034365,Stroke,MESH:D020521,0,,1,APOA1
+"DNA topoisomerase type II (double strand cut, ATP-hydrolyzing) complex",GO:0009330,Stroke,MESH:D020521,1,Reactive Oxygen Species,0,
+early endosome,GO:0005769,Stroke,MESH:D020521,0,,2,ANK2|APOA1
+endocytic vesicle,GO:0030139,Stroke,MESH:D020521,0,,1,APOA1
+endocytic vesicle lumen,GO:0071682,Stroke,MESH:D020521,0,,1,APOA1
+endocytic vesicle membrane,GO:0030666,Ischemic Stroke,MESH:D000083242,0,,1,NOS3
+endoplasmic reticulum,GO:0005783,Heat Stroke,MESH:D018883,0,,1,FOS
+endoplasmic reticulum,GO:0005783,Ischemic Stroke,MESH:D000083242,0,,1,ALOX5AP
+endoplasmic reticulum,GO:0005783,Stroke,MESH:D020521,0,,4,ALB|FGA|PTGS2|VKORC1
+endoplasmic reticulum-Golgi intermediate compartment membrane,GO:0033116,Ischemic Stroke,MESH:D000083242,0,,1,F5
+endoplasmic reticulum-Golgi intermediate compartment membrane,GO:0033116,Stroke,MESH:D020521,0,,1,F5
+endoplasmic reticulum lumen,GO:0005788,Heat Stroke,MESH:D018883,0,,1,IL6
+endoplasmic reticulum lumen,GO:0005788,Ischemic Stroke,MESH:D000083242,0,,2,F2|F5
+endoplasmic reticulum lumen,GO:0005788,Stroke,MESH:D020521,0,,8,ALB|APOA1|F2|F5|FGA|IL6|PTGS2|VKORC1
+endoplasmic reticulum membrane,GO:0005789,Ischemic Stroke,MESH:D000083242,0,,1,ALOX5AP
+endoplasmic reticulum membrane,GO:0005789,Stroke,MESH:D020521,0,,2,PTGS2|VKORC1
+endosome,GO:0005768,Stroke,MESH:D020521,0,,2,ACE|HTR4
+endosome membrane,GO:0010008,Stroke,MESH:D020521,0,,1,HTR4
+euchromatin,GO:0000791,Heat Stroke,MESH:D018883,0,,2,JUN|REL
+euchromatin,GO:0000791,Ischemic Stroke,MESH:D000083242,0,,1,VDR
+external side of plasma membrane,GO:0009897,Heat Stroke,MESH:D018883,0,,3,IL6|IL6RA|TNF
+external side of plasma membrane,GO:0009897,Ischemic Stroke,MESH:D000083242,0,,2,F2|PLAU
+external side of plasma membrane,GO:0009897,Stroke,MESH:D020521,0,,11,ACE|CXCR3|F2|FGA|ICAM1|IL6|ITGA2B|ITGAV|ITGB3|PLAU|TNF
+extracellular exosome,GO:0070062,Stroke,MESH:D020521,0,,4,ACE|ALB|ICAM1|ITGA2B
+extracellular matrix,GO:0031012,Heat Stroke,MESH:D018883,0,,1,ALPL
+extracellular matrix,GO:0031012,Stroke,MESH:D020521,0,,2,MMP12|TGFB1
+extracellular membrane-bounded organelle,GO:0065010,Heat Stroke,MESH:D018883,0,,1,ALPL
+extracellular region,GO:0005576,Heat Stroke,MESH:D018883,0,,9,ALPL|IL10|IL11RA1|IL1A|IL1B|IL6|IL6RA|NFKB1|TNF
+extracellular region,GO:0005576,Ischemic Stroke,MESH:D000083242,0,,5,F2|F5|LPA|PLAT|PLAU
+extracellular region,GO:0005576,Stroke,MESH:D020521,0,,20,ABO|ACE|ALB|APOA1|EDN1|F2|F5|FGA|IL1B|IL1RN|IL6|LPA|MMP12|PLA2G7|PLAT|PLAU|SOD1|TGFB1|TNF|WNT2B
+extracellular space,GO:0005615,Heat Stroke,MESH:D018883,0,,7,ALPL|IL10|IL1A|IL1B|IL6|IL6RA|TNF
+extracellular space,GO:0005615,Ischemic Stroke,MESH:D000083242,0,,5,F2|F5|LPA|PLAT|PLAU
+extracellular space,GO:0005615,Stroke,MESH:D020521,0,,21,ACE|ALB|APOA1|EDN1|F2|F5|FGA|ICAM1|IL1B|IL1RN|IL6|LPA|MMP12|NOS2|PLA2G7|PLAT|PLAU|SOD1|TGFB1|TNF|WNT2B
+extracellular vesicle,GO:1903561,Hemorrhagic Stroke,MESH:D000083302,1,Air Pollutants,0,
+extracellular vesicle,GO:1903561,Ischemic Stroke,MESH:D000083242,2,Air Pollutants|Ozone,0,
+extracellular vesicle,GO:1903561,Stroke,MESH:D020521,4,Air Pollutants|Arsenic|Cadmium|Ozone,0,
+extrinsic component of cytoplasmic side of plasma membrane,GO:0031234,Stroke,MESH:D020521,0,,1,ANK2
+extrinsic component of plasma membrane,GO:0019897,Ischemic Stroke,MESH:D000083242,0,,3,F2|LPA|PLAT
+extrinsic component of plasma membrane,GO:0019897,Stroke,MESH:D020521,0,,3,F2|LPA|PLAT
+fibrinogen complex,GO:0005577,Stroke,MESH:D020521,0,,1,FGA
+filamentous actin,GO:0031941,Hemorrhagic Stroke,MESH:D000083302,1,Air Pollutants,0,
+filamentous actin,GO:0031941,Ischemic Stroke,MESH:D000083242,2,Air Pollutants|Ozone,0,
+filamentous actin,GO:0031941,Stroke,MESH:D020521,4,Acrolein|Air Pollutants|Dexamethasone|Ozone,0,
+filopodium membrane,GO:0031527,Stroke,MESH:D020521,0,,2,ITGAV|ITGB3
+focal adhesion,GO:0005925,Stroke,MESH:D020521,0,,3,ITGA2B|ITGAV|ITGB3
+glutamatergic synapse,GO:0098978,Heat Stroke,MESH:D018883,0,,1,RELA
+glutamatergic synapse,GO:0098978,Ischemic Stroke,MESH:D000083242,0,,1,PLAT
+glutamatergic synapse,GO:0098978,Stroke,MESH:D020521,0,,4,HTR4|ITGB3|PLAT|RGS7
+glycinergic synapse,GO:0098690,Stroke,MESH:D020521,0,,1,ITGB3
+glycogen granule,GO:0042587,Stroke,MESH:D020521,1,Ethanol,0,
+Golgi apparatus,GO:0005794,Ischemic Stroke,MESH:D000083242,0,,1,NOS3
+Golgi apparatus,GO:0005794,Stroke,MESH:D020521,0,,3,ABO|ALB|PRKAA2
+Golgi cisterna membrane,GO:0032580,Stroke,MESH:D020521,0,,1,ABO
+Golgi lumen,GO:0005796,Ischemic Stroke,MESH:D000083242,0,,1,F2
+Golgi lumen,GO:0005796,Stroke,MESH:D020521,0,,2,F2|TGFB1
+Golgi membrane,GO:0000139,Ischemic Stroke,MESH:D000083242,0,,1,NOS3
+Golgi membrane,GO:0000139,Stroke,MESH:D020521,0,,1,ABO
+growth cone filopodium,GO:1990812,Stroke,MESH:D020521,1,Ethanol,0,
+heterochromatin,GO:0000792,Ischemic Stroke,MESH:D000083242,0,,1,VDR
+heteromeric SMAD protein complex,GO:0071144,Stroke,MESH:D020521,0,,1,SMOX
+high-density lipoprotein particle,GO:0034364,Stroke,MESH:D020521,0,,2,APOA1|PLA2G7
+histone deacetylase complex,GO:0000118,Stroke,MESH:D020521,0,,1,HDAC9
+histone methyltransferase complex,GO:0035097,Stroke,MESH:D020521,0,,1,HDAC9
+"IgE immunoglobulin complex, circulating",GO:0071743,Hemorrhagic Stroke,MESH:D000083302,2,Air Pollutants|Particulate Matter,0,
+"IgE immunoglobulin complex, circulating",GO:0071743,Ischemic Stroke,MESH:D000083242,2,Air Pollutants|Particulate Matter,0,
+"IgE immunoglobulin complex, circulating",GO:0071743,Stroke,MESH:D020521,3,Air Pollutants|Dexamethasone|Particulate Matter,0,
+"IgG immunoglobulin complex, circulating",GO:0071736,Stroke,MESH:D020521,1,Dexamethasone,0,
+I-kappaB/NF-kappaB complex,GO:0033256,Heat Stroke,MESH:D018883,0,,1,NFKB1
+immunological synapse,GO:0001772,Stroke,MESH:D020521,0,,1,ICAM1
+integrin alpha9-beta1 complex,GO:0034679,Stroke,MESH:D020521,0,,1,ITGB3
+integrin alphaIIb-beta3 complex,GO:0070442,Stroke,MESH:D020521,0,,2,ITGA2B|ITGB3
+integrin alphav-beta1 complex,GO:0034682,Stroke,MESH:D020521,0,,1,ITGAV
+integrin alphav-beta3 complex,GO:0034683,Stroke,MESH:D020521,0,,2,ITGAV|ITGB3
+integrin alphav-beta5 complex,GO:0034684,Stroke,MESH:D020521,0,,1,ITGAV
+integrin alphav-beta6 complex,GO:0034685,Stroke,MESH:D020521,0,,1,ITGAV
+integrin alphav-beta8 complex,GO:0034686,Stroke,MESH:D020521,0,,1,ITGAV
+integrin complex,GO:0008305,Stroke,MESH:D020521,0,,3,ITGA2B|ITGAV|ITGB3
+intercalated disc,GO:0014704,Stroke,MESH:D020521,0,,1,ANK2
+interleukin-6 receptor complex,GO:0005896,Heat Stroke,MESH:D018883,0,,2,IL6|IL6RA
+interleukin-6 receptor complex,GO:0005896,Stroke,MESH:D020521,0,,1,IL6
+intermediate-density lipoprotein particle,GO:0034363,Stroke,MESH:D020521,0,,1,APOA1
+intracellular anatomical structure,GO:0005622,Heat Stroke,MESH:D018883,0,,1,TNF
+intracellular anatomical structure,GO:0005622,Stroke,MESH:D020521,0,,1,TNF
+intracellular membrane-bounded organelle,GO:0043231,Stroke,MESH:D020521,0,,5,CASZ1|FOXF2|PTGS2|SMOX|WNT2B
+lamellipodium membrane,GO:0031258,Stroke,MESH:D020521,0,,2,ITGAV|ITGB3
+low-density lipoprotein particle,GO:0034362,Stroke,MESH:D020521,0,,2,APOA1|PLA2G7
+lysosome,GO:0005764,Heat Stroke,MESH:D018883,0,,1,IL1B
+lysosome,GO:0005764,Stroke,MESH:D020521,1,Acetaminophen,4,ACE|ANK2|IL1B|SOD1
+M band,GO:0031430,Stroke,MESH:D020521,0,,1,ANK2
+melanosome,GO:0042470,Stroke,MESH:D020521,0,,1,ITGB3
+membrane,GO:0016020,Heat Stroke,MESH:D018883,0,,3,ALPL|IL11RA1|TNF
+membrane,GO:0016020,Ischemic Stroke,MESH:D000083242,0,,2,ALOX5AP|F5
+membrane,GO:0016020,Stroke,MESH:D020521,0,,18,ABO|ACE|ANK2|CXCR3|EDNRA|F5|HTR4|ICAM1|ITGA2B|ITGAV|KCNK3|LRCH1|PDE3A|PTGS2|TNF|TSPAN2|UCP2|VKORC1
+membrane raft,GO:0045121,Heat Stroke,MESH:D018883,0,,1,TNF
+membrane raft,GO:0045121,Stroke,MESH:D020521,0,,2,ICAM1|TNF
+microvillus,GO:0005902,Stroke,MESH:D020521,0,,1,TGFB1
+microvillus membrane,GO:0031528,Stroke,MESH:D020521,0,,2,ITGAV|ITGB3
+mitochondria-associated endoplasmic reticulum membrane,GO:0044233,Hemorrhagic Stroke,MESH:D000083302,2,Air Pollutants|Particulate Matter,0,
+mitochondria-associated endoplasmic reticulum membrane,GO:0044233,Ischemic Stroke,MESH:D000083242,2,Air Pollutants|Particulate Matter,0,
+mitochondria-associated endoplasmic reticulum membrane,GO:0044233,Stroke,MESH:D020521,3,Air Pollutants|Cadmium|Particulate Matter,0,
+mitochondrial inner membrane,GO:0005743,Stroke,MESH:D020521,0,,1,UCP2
+mitochondrial intermembrane space,GO:0005758,Heat Stroke,MESH:D018883,0,,1,ALPL
+mitochondrial intermembrane space,GO:0005758,Stroke,MESH:D020521,0,,1,SOD1
+mitochondrial matrix,GO:0005759,Stroke,MESH:D020521,0,,1,SOD1
+mitochondrial membrane,GO:0031966,Heat Stroke,MESH:D018883,0,,1,ALPL
+mitochondrial membrane,GO:0031966,Stroke,MESH:D020521,1,Cadmium,1,UCP2
+mitochondrial permeability transition pore complex,GO:0005757,Stroke,MESH:D020521,2,Calcium|Nifedipine,0,
+mitochondrion,GO:0005739,Heat Stroke,MESH:D018883,1,"N-(oxo-5,6-dihydrophenanthridin-2-yl)-N,N-dimethylacetamide hydrochloride",2,NFKB1|REL
+mitochondrion,GO:0005739,Hemorrhagic Stroke,MESH:D000083302,1,Particulate Matter,0,
+mitochondrion,GO:0005739,Ischemic Stroke,MESH:D000083242,1,Particulate Matter,0,
+mitochondrion,GO:0005739,Stroke,MESH:D020521,3,Ethanol|Folic Acid|Particulate Matter,4,ANK2|PAOX|SOD1|UCP2
+mucus layer,GO:0070701,Hemorrhagic Stroke,MESH:D000083302,1,Particulate Matter,0,
+mucus layer,GO:0070701,Ischemic Stroke,MESH:D000083242,1,Particulate Matter,0,
+mucus layer,GO:0070701,Stroke,MESH:D020521,1,Particulate Matter,0,
+myelin sheath,GO:0043209,Stroke,MESH:D020521,0,,1,TSPAN2
+neuromuscular junction,GO:0031594,Stroke,MESH:D020521,0,,1,ANK2
+neuronal cell body,GO:0043025,Heat Stroke,MESH:D018883,0,,1,TNF
+neuronal cell body,GO:0043025,Stroke,MESH:D020521,0,,4,PRKAA2|SOD1|TGFB1|TNF
+neuronal cell body membrane,GO:0032809,Heat Stroke,MESH:D018883,0,,1,IL6RA
+neuronal dense core vesicle,GO:0098992,Ischemic Stroke,MESH:D000083242,0,,1,PLAT
+neuronal dense core vesicle,GO:0098992,Stroke,MESH:D020521,0,,1,PLAT
+neuron projection,GO:0043005,Hemorrhagic Stroke,MESH:D000083302,1,Aspirin,0,
+neuron projection,GO:0043005,Ischemic Stroke,MESH:D000083242,1,Aspirin,0,
+neuron projection,GO:0043005,Stroke,MESH:D020521,1,Aspirin,3,ANK2|PTGS2|RGS7
+neutrophil extracellular trap,GO:0140644,Stroke,MESH:D020521,3,Acetaminophen|Acrolein|Arsenic,0,
+NF-kappaB complex,GO:0071159,Heat Stroke,MESH:D018883,0,,3,REL|RELA|RELB
+NF-kappaB p50/p65 complex,GO:0035525,Heat Stroke,MESH:D018883,0,,2,NFKB1|RELA
+Nkx-2.5 complex,GO:1990664,Stroke,MESH:D020521,0,,1,NKX2-5
+nuclear body,GO:0016604,Ischemic Stroke,MESH:D000083242,0,,1,ZFHX3
+nuclear body,GO:0016604,Stroke,MESH:D020521,0,,2,FOXF2|ZFHX3
+nuclear chromosome,GO:0000228,Heat Stroke,MESH:D018883,0,,1,JUN
+nuclear envelope,GO:0005635,Ischemic Stroke,MESH:D000083242,0,,1,ALOX5AP
+nuclear envelope,GO:0005635,Stroke,MESH:D020521,0,,1,RGS7
+nuclear inner membrane,GO:0005637,Stroke,MESH:D020521,0,,1,PTGS2
+nuclear matrix,GO:0016363,Heat Stroke,MESH:D018883,0,,1,FOS
+nuclear matrix,GO:0016363,Ischemic Stroke,MESH:D000083242,0,,1,VDR
+nuclear membrane,GO:0031965,Ischemic Stroke,MESH:D000083242,0,,1,ALOX5AP
+nuclear membrane,GO:0031965,Stroke,MESH:D020521,0,,2,EDNRA|SMOX
+nuclear outer membrane,GO:0005640,Stroke,MESH:D020521,0,,1,PTGS2
+nuclear speck,GO:0016607,Stroke,MESH:D020521,0,,2,PRKAA2|PRPF8
+nucleoplasm,GO:0005654,Heat Stroke,MESH:D018883,0,,7,FOS|JUN|NFKB1|NFKB2|REL|RELA|RELB
+nucleoplasm,GO:0005654,Ischemic Stroke,MESH:D000083242,0,,2,VDR|ZFHX3
+nucleoplasm,GO:0005654,Stroke,MESH:D020521,0,,17,CASZ1|CDK6|FOXF2|HDAC9|IL1RN|IRF1|ITGB3|NKX2-5|NOS2|PITX2|PRKAA2|PRPF8|SMOX|SOD1|TBX3|TSPAN2|ZFHX3
+nucleotide-activated protein kinase complex,GO:0031588,Stroke,MESH:D020521,0,,1,PRKAA2
+nucleus,GO:0005634,Heat Stroke,MESH:D018883,0,,8,FOS|IL1A|JUN|NFKB1|NFKB2|REL|RELA|RELB
+nucleus,GO:0005634,Ischemic Stroke,MESH:D000083242,0,,6,ALOX5AP|F2|NOS3|PRKCH|VDR|ZFHX3
+nucleus,GO:0005634,Stroke,MESH:D020521,0,,21,ABO|CASZ1|CDK6|F2|FOXF2|HDAC9|IRF1|ITGAV|ITGB3|MMP12|NKX2-5|NOS2|PITX2|PRKAA2|PRPF8|RGS7|SMOX|SOD1|TBX3|TGFB1|ZFHX3
+outer membrane,GO:0019867,Ischemic Stroke,MESH:D000083242,0,,1,F5
+outer membrane,GO:0019867,Stroke,MESH:D020521,0,,1,F5
+paranodal junction,GO:0033010,Stroke,MESH:D020521,0,,1,ANK2
+P-body,GO:0000932,Stroke,MESH:D020521,1,Arsenic,0,
+perinuclear region of cytoplasm,GO:0048471,Ischemic Stroke,MESH:D000083242,0,,1,VDR
+perinuclear region of cytoplasm,GO:0048471,Stroke,MESH:D020521,0,,2,ANK2|NOS2
+perisynaptic space,GO:0099544,Ischemic Stroke,MESH:D000083242,0,,1,PLAT
+perisynaptic space,GO:0099544,Stroke,MESH:D020521,0,,1,PLAT
+peroxisomal matrix,GO:0005782,Stroke,MESH:D020521,0,,2,NOS2|PAOX
+peroxisome,GO:0005777,Stroke,MESH:D020521,0,,2,NOS2|SOD1
+phagocytic cup,GO:0001891,Heat Stroke,MESH:D018883,0,,1,TNF
+phagocytic cup,GO:0001891,Stroke,MESH:D020521,0,,1,TNF
+phagocytic vesicle,GO:0045335,Stroke,MESH:D020521,0,,1,ITGAV
+plasma lipoprotein particle,GO:0034358,Ischemic Stroke,MESH:D000083242,0,,1,LPA
+plasma lipoprotein particle,GO:0034358,Stroke,MESH:D020521,0,,1,LPA
+plasma membrane,GO:0005886,Heat Stroke,MESH:D018883,0,,3,ALPL|IL6RA|TNF
+plasma membrane,GO:0005886,Ischemic Stroke,MESH:D000083242,0,,5,F2|F5|NOS3|PLAU|PRKCH
+plasma membrane,GO:0005886,Stroke,MESH:D020521,0,,22,ACE|ANK2|APOA1|CXCR3|EDNRA|F2|F5|FGA|HTR4|ICAM1|IL1RN|ITGA2B|ITGAV|ITGB3|KCNK3|PLAU|RGS7|SH2B3|SOD1|TGFB1|TNF|TSPAN2
+platelet alpha granule,GO:0031091,Ischemic Stroke,MESH:D000083242,0,,1,F5
+platelet alpha granule,GO:0031091,Stroke,MESH:D020521,0,,2,F5|FGA
+platelet alpha granule lumen,GO:0031093,Ischemic Stroke,MESH:D000083242,0,,1,F5
+platelet alpha granule lumen,GO:0031093,Stroke,MESH:D020521,0,,4,ALB|F5|FGA|TGFB1
+platelet alpha granule membrane,GO:0031092,Stroke,MESH:D020521,0,,2,ITGA2B|ITGB3
+podosome,GO:0002102,Stroke,MESH:D020521,0,,1,SH3PXD2A
+polytene chromosome,GO:0005700,Stroke,MESH:D020521,0,,1,ABO
+postsynapse,GO:0098794,Ischemic Stroke,MESH:D000083242,0,,1,PLAT
+postsynapse,GO:0098794,Stroke,MESH:D020521,0,,2,HTR4|PLAT
+postsynaptic density,GO:0014069,Stroke,MESH:D020521,0,,1,ANK2
+postsynaptic membrane,GO:0045211,Stroke,MESH:D020521,0,,3,ANK2|ITGB3|RGS7
+presynapse,GO:0098793,Ischemic Stroke,MESH:D000083242,1,Methamphetamine,0,
+presynapse,GO:0098793,Stroke,MESH:D020521,1,Methamphetamine,1,RGS7
+presynaptic membrane,GO:0042734,Stroke,MESH:D020521,0,,2,ANK2|RGS7
+presynaptic periactive zone,GO:0036062,Stroke,MESH:D020521,0,,1,ANK2
+protein complex involved in cell-matrix adhesion,GO:0098637,Ischemic Stroke,MESH:D000083242,0,,1,PLAU
+protein complex involved in cell-matrix adhesion,GO:0098637,Stroke,MESH:D020521,0,,1,PLAU
+protein-containing complex,GO:0032991,Heat Stroke,MESH:D018883,0,,5,JUN|NFKB1|RELA|RELB|TNF
+protein-containing complex,GO:0032991,Stroke,MESH:D020521,0,,8,ALB|ITGB3|NKX2-5|PRKAA2|PTGS2|RGS7|SOD1|TNF
+protein-DNA complex,GO:0032993,Heat Stroke,MESH:D018883,0,,1,FOS
+protein-DNA complex,GO:0032993,Stroke,MESH:D020521,0,,1,NKX2-5
+receptor complex,GO:0043235,Ischemic Stroke,MESH:D000083242,0,,1,VDR
+receptor complex,GO:0043235,Stroke,MESH:D020521,0,,1,ITGB3
+recycling endosome,GO:0055037,Heat Stroke,MESH:D018883,0,,1,TNF
+recycling endosome,GO:0055037,Stroke,MESH:D020521,0,,2,ANK2|TNF
+ribosome,GO:0005840,Stroke,MESH:D020521,0,,1,PDE3A
+ripoptosome,GO:0097342,Stroke,MESH:D020521,3,Ethanol|Metformin|Simvastatin,0,
+RNA polymerase II transcription regulator complex,GO:0090575,Heat Stroke,MESH:D018883,0,,2,FOS|JUN
+RNA polymerase II transcription regulator complex,GO:0090575,Ischemic Stroke,MESH:D000083242,0,,1,VDR
+RNA polymerase II transcription regulator complex,GO:0090575,Stroke,MESH:D020521,0,,1,NKX2-5
+rough endoplasmic reticulum lumen,GO:0048237,Stroke,MESH:D020521,0,,1,EDN1
+ruffle,GO:0001726,Stroke,MESH:D020521,0,,1,CDK6
+ruffle membrane,GO:0032587,Stroke,MESH:D020521,0,,2,ITGAV|ITGB3
+sarcolemma,GO:0042383,Ischemic Stroke,MESH:D000083242,0,,1,NOS3
+sarcolemma,GO:0042383,Stroke,MESH:D020521,0,,1,ANK2
+Schaffer collateral - CA1 synapse,GO:0098685,Ischemic Stroke,MESH:D000083242,0,,1,PLAT
+Schaffer collateral - CA1 synapse,GO:0098685,Stroke,MESH:D020521,0,,1,PLAT
+secretory granule,GO:0030141,Heat Stroke,MESH:D018883,0,,2,IL1B|TNF
+secretory granule,GO:0030141,Ischemic Stroke,MESH:D000083242,0,,1,PLAT
+secretory granule,GO:0030141,Stroke,MESH:D020521,0,,5,IL1B|PLAT|SOD1|TGFB1|TNF
+secretory granule lumen,GO:0034774,Heat Stroke,MESH:D018883,0,,1,NFKB1
+secretory granule lumen,GO:0034774,Stroke,MESH:D020521,0,,1,APOA1
+serine protease inhibitor complex,GO:0097180,Ischemic Stroke,MESH:D000083242,0,,2,PLAT|PLAU
+serine protease inhibitor complex,GO:0097180,Stroke,MESH:D020521,0,,2,PLAT|PLAU
+serine-type endopeptidase complex,GO:1905370,Ischemic Stroke,MESH:D000083242,0,,1,PLAU
+serine-type endopeptidase complex,GO:1905370,Stroke,MESH:D020521,0,,1,PLAU
+side of membrane,GO:0098552,Heat Stroke,MESH:D018883,0,,1,ALPL
+site of double-strand break,GO:0035861,Heat Stroke,MESH:D018883,0,,1,NFKB2
+site of double-strand break,GO:0035861,Ischemic Stroke,MESH:D000083242,1,Etoposide,0,
+small nuclear ribonucleoprotein complex,GO:0030532,Stroke,MESH:D020521,0,,1,PRPF8
+specific granule lumen,GO:0035580,Heat Stroke,MESH:D018883,0,,1,NFKB1
+specific granule membrane,GO:0035579,Ischemic Stroke,MESH:D000083242,0,,1,PLAU
+specific granule membrane,GO:0035579,Stroke,MESH:D020521,0,,2,ITGAV|PLAU
+sperm flagellum,GO:0036126,Ischemic Stroke,MESH:D000083242,1,Cisplatin,0,
+sperm head,GO:0061827,Ischemic Stroke,MESH:D000083242,1,Cisplatin,0,
+sperm midpiece,GO:0097225,Ischemic Stroke,MESH:D000083242,1,Cisplatin,0,
+sperm midpiece,GO:0097225,Stroke,MESH:D020521,0,,1,ACE
+spherical high-density lipoprotein particle,GO:0034366,Stroke,MESH:D020521,0,,1,APOA1
+spliceosomal complex,GO:0005681,Stroke,MESH:D020521,0,,1,PRPF8
+synapse,GO:0045202,Heat Stroke,MESH:D018883,0,,2,RELA|RELB
+synapse,GO:0045202,Stroke,MESH:D020521,0,,4,FGA|HTR4|ITGB3|KCNK3
+synaptic membrane,GO:0097060,Stroke,MESH:D020521,0,,1,ITGB3
+telopode,GO:0120327,Stroke,MESH:D020521,1,Arsenic,0,
+terminal bouton,GO:0043195,Stroke,MESH:D020521,0,,1,ANK2
+tertiary granule membrane,GO:0070821,Ischemic Stroke,MESH:D000083242,0,,1,PLAU
+tertiary granule membrane,GO:0070821,Stroke,MESH:D020521,0,,1,PLAU
+transcription factor AP-1 complex,GO:0035976,Heat Stroke,MESH:D018883,0,,2,FOS|JUN
+transcription factor AP-1 complex,GO:0035976,Ischemic Stroke,MESH:D000083242,1,Bleomycin,0,
+transcription regulator complex,GO:0005667,Heat Stroke,MESH:D018883,0,,4,FOS|JUN|NFKB1|RELA
+transcription regulator complex,GO:0005667,Ischemic Stroke,MESH:D000083242,0,,1,ZFHX3
+transcription regulator complex,GO:0005667,Stroke,MESH:D020521,0,,7,FOXF2|HDAC9|NKX2-5|PITX2|SMOX|TBX3|ZFHX3
+transcription repressor complex,GO:0017053,Heat Stroke,MESH:D018883,0,,2,JUN|RELB
+transport vesicle,GO:0030133,Stroke,MESH:D020521,0,,1,EDN1
+T-tubule,GO:0030315,Ischemic Stroke,MESH:D000083242,0,,1,VDR
+T-tubule,GO:0030315,Stroke,MESH:D020521,0,,2,ANK2|EDNRA
+tubulin complex,GO:0045298,Hemorrhagic Stroke,MESH:D000083302,1,Particulate Matter,0,
+tubulin complex,GO:0045298,Ischemic Stroke,MESH:D000083242,1,Particulate Matter,0,
+tubulin complex,GO:0045298,Stroke,MESH:D020521,1,Particulate Matter,0,
+U2-type catalytic step 1 spliceosome,GO:0071006,Stroke,MESH:D020521,0,,1,PRPF8
+U2-type catalytic step 2 spliceosome,GO:0071007,Stroke,MESH:D020521,0,,1,PRPF8
+U2-type precatalytic spliceosome,GO:0071005,Stroke,MESH:D020521,0,,1,PRPF8
+U4/U6 x U5 tri-snRNP complex,GO:0046540,Stroke,MESH:D020521,0,,1,PRPF8
+U5 snRNP,GO:0005682,Stroke,MESH:D020521,0,,1,PRPF8
+very-low-density lipoprotein particle,GO:0034361,Stroke,MESH:D020521,0,,1,APOA1
+vesicle,GO:0031982,Heat Stroke,MESH:D018883,0,,1,IL1B
+vesicle,GO:0031982,Stroke,MESH:D020521,0,,4,ABO|ACE|IL1B|IL1RN
+Weibel-Palade body,GO:0033093,Stroke,MESH:D020521,0,,1,EDN1
+Z disc,GO:0030018,Stroke,MESH:D020521,0,,1,ANK2

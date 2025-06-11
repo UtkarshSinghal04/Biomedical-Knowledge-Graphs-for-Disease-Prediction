@@ -1,0 +1,805 @@
+GOName,GOID,DiseaseName,DiseaseID,InferenceChemicalQty,InferenceChemicalNames,InferenceGeneQty,InferenceGeneSymbols
+11-beta-hydroxysteroid dehydrogenase [NAD(P)] activity,GO:0003845,Asthma,MESH:D001249,0,,1,HSD11B2
+"1-(4-iodo-2,5-dimethoxyphenyl)propan-2-amine binding",GO:0071886,Asthma,MESH:D001249,0,,1,HTR2A
+1-alkyl-2-acetylglycerophosphocholine esterase activity,GO:0003847,Asthma,MESH:D001249,0,,1,PLA2G7
+"3',5'-cyclic-AMP phosphodiesterase activity",GO:0004115,Asthma,MESH:D001249,0,,2,PDE4B|PDE4D
+"3',5'-cyclic-nucleotide phosphodiesterase activity",GO:0004114,Asthma,MESH:D001249,0,,2,PDE4B|PDE4D
+3'-5' exonuclease activity,GO:0008408,Asthma,MESH:D001249,0,,1,RAD50
+3-hydroxybutyrate dehydrogenase activity,GO:0003858,Asthma,MESH:D001249,1,Arsenic Trioxide,0,
+4-nitrophenol 2-monooxygenase activity,GO:0018601,Asthma,MESH:D001249,0,,1,CYP2E1
+5'-nucleotidase activity,GO:0008253,Asthma,MESH:D001249,4,Benzo(a)pyrene|bisphenol A|geraniol|Streptozocin,0,
+ABC-type transporter activity,GO:0140359,Asthma,MESH:D001249,1,Dietary Fats,0,
+ABC-type xenobiotic transporter activity,GO:0008559,Asthma,MESH:D001249,1,verlukast,0,
+acetylcholinesterase activity,GO:0003990,Asthma,MESH:D001249,10,Acetylcholine|Aluminum Hydroxide|bisphenol A|epigallocatechin gallate|Hexachlorocyclohexane|Organophosphates|Particulate Matter|Pesticides|Tretinoin|Vehicle Emissions,0,
+acetyl-CoA carboxylase activity,GO:0003989,Asthma,MESH:D001249,3,bisphenol A|Dietary Fats|Resveratrol,0,
+acetyltransferase activity,GO:0016407,Asthma,MESH:D001249,0,,1,NAT1
+acid phosphatase activity,GO:0003993,Asthma,MESH:D001249,11,Arsenic|Arsenic Trioxide|Benzo(a)pyrene|bisphenol A|Cadmium|Glyphosate|phenanthrene|Polycyclic Aromatic Hydrocarbons|pyrene|Resveratrol|Streptozocin,0,
+aconitate hydratase activity,GO:0003994,Asthma,MESH:D001249,5,bisphenol A|Dietary Fats|Paraquat|Streptozocin|Zinc,0,
+actin binding,GO:0003779,Asthma,MESH:D001249,0,,1,NOS2
+actin filament binding,GO:0051015,Asthma,MESH:D001249,1,Histamine,1,CTNNA3
+actin filament binding,GO:0051015,"Asthma, Aspirin-Induced",MESH:D055963,1,Histamine,0,
+acyl-CoA oxidase activity,GO:0003997,Asthma,MESH:D001249,1,perfluoro-n-nonanoic acid,0,
+acyl-CoA oxidase activity,GO:0003997,"ASTHMA-RELATED TRAITS, SUSCEPTIBILITY TO, 8",OMIM:613207,1,perfluoro-n-nonanoic acid,0,
+acylphosphatase activity,GO:0003998,Asthma,MESH:D001249,1,Glutathione,0,
+adenosine deaminase activity,GO:0004000,Asthma,MESH:D001249,1,Zinc,0,
+adenylate cyclase activity,GO:0004016,Asthma,MESH:D001249,0,,1,ADCY2
+adenylate cyclase binding,GO:0008179,Asthma,MESH:D001249,0,,2,ADCY2|ADCYAP1R1
+adenylate kinase activity,GO:0004017,Asthma,MESH:D001249,1,Mustard Gas,0,
+ADP phosphatase activity,GO:0043262,Asthma,MESH:D001249,1,bisphenol A,0,
+adrenergic receptor activity,GO:0004935,Asthma,MESH:D001249,1,Dexamethasone,0,
+advanced glycation end-product receptor activity,GO:0050785,Asthma,MESH:D001249,0,,1,AGER
+advanced glycation end-product receptor activity,GO:0050785,"Asthma, Occupational",MESH:D059366,0,,1,AGER
+aldehyde dehydrogenase (NAD+) activity,GO:0004029,Asthma,MESH:D001249,0,,1,ALDH2
+aldehyde dehydrogenase [NAD(P)+] activity,GO:0004030,Asthma,MESH:D001249,2,Acetaldehyde|Captan,1,ALDH2
+alditol:NADP+ 1-oxidoreductase activity,GO:0004032,Asthma,MESH:D001249,1,Streptozocin,0,
+alkaline phosphatase activity,GO:0004035,Asthma,MESH:D001249,25,Acetaldehyde|Acetaminophen|Arsenic|Arsenic Trioxide|Benzo(a)pyrene|bisphenol A|Cadmium|Carbon Tetrachloride|Dexamethasone|Dietary Fats|epigallocatechin gallate|Epinephrine|Hydrogen Sulfide|Malathion|Mercury|Methotrexate|montelukast|pendimethalin|Phenobarbital|Prednisolone|pyrazolanthrone|Resveratrol|Streptozocin|Vitamin A|Zinc,0,
+alkaline phosphatase activity,GO:0004035,"Asthma, Aspirin-Induced",MESH:D055963,1,montelukast,0,
+alkaline phosphatase activity,GO:0004035,"Asthma, Exercise-Induced",MESH:D001250,1,montelukast,0,
+alkaline phosphatase activity,GO:0004035,Status Asthmaticus,MESH:D013224,3,Ampicillin|Epinephrine|Prednisolone,0,
+alkane 1-monooxygenase activity,GO:0018685,Asthma,MESH:D001249,1,Phenobarbital,0,
+alpha-amylase activity,GO:0004556,Asthma,MESH:D001249,2,Resveratrol|Synephrine,0,
+alpha-L-arabinofuranosidase activity,GO:0046556,Asthma,MESH:D001249,0,,1,IL33
+alpha-mannosidase activity,GO:0004559,Asthma,MESH:D001249,1,Plant Preparations,0,
+alpha-mannosidase activity,GO:0004559,"Asthma, Occupational",MESH:D059366,1,Plant Preparations,0,
+aminoacylase activity,GO:0004046,Asthma,MESH:D001249,0,,1,CAT
+aminopeptidase activity,GO:0004177,Asthma,MESH:D001249,3,geraniol|Streptozocin|Zinc,0,
+AMP-activated protein kinase activity,GO:0004679,Asthma,MESH:D001249,11,Arsenic Trioxide|bisphenol A|Carbon Disulfide|Dietary Fats|Emodin|geraniol|Hydrogen Sulfide|Permethrin|Resveratrol|Soot|Streptozocin,0,
+amylase activity,GO:0016160,Asthma,MESH:D001249,3,Cadmium|Dexamethasone|Streptozocin,0,
+amyloid-beta binding,GO:0001540,Asthma,MESH:D001249,0,,1,AGER
+amyloid-beta binding,GO:0001540,"Asthma, Occupational",MESH:D059366,0,,1,AGER
+anaphase-promoting complex binding,GO:0010997,Asthma,MESH:D001249,0,,1,PTEN
+antigen binding,GO:0003823,Asthma,MESH:D001249,0,,1,TGFB1
+antigen binding,GO:0003823,"Asthma, Occupational",MESH:D059366,0,,1,TGFB1
+antioxidant activity,GO:0016209,Asthma,MESH:D001249,10,Aluminum Hydroxide|Arsenic Trioxide|bisphenol A|Carbon Tetrachloride|Dietary Fats|Glutathione|Isoproterenol|Particulate Matter|perfluorooctane sulfonic acid|Tretinoin,2,CAT|SOD1
+antioxidant activity,GO:0016209,Status Asthmaticus,MESH:D013224,1,Isoproterenol,0,
+AP-1 adaptor complex binding,GO:0035650,"Asthma, Occupational",MESH:D059366,1,Silicon Dioxide,0,
+arachidonate 12(S)-lipoxygenase activity,GO:0004052,Asthma,MESH:D001249,0,,1,ALOX5
+arachidonate 5-lipoxygenase activity,GO:0004051,Asthma,MESH:D001249,0,,1,ALOX5
+arachidonate 8(S)-lipoxygenase activity,GO:0036403,Asthma,MESH:D001249,0,,1,ALOX5
+arachidonic acid epoxygenase activity,GO:0008392,Asthma,MESH:D001249,0,,2,ALOX5|CYP2E1
+arachidonic acid omega-hydroxylase activity,GO:0052869,Asthma,MESH:D001249,0,,1,HMOX1
+arginase activity,GO:0004053,Asthma,MESH:D001249,3,bisphenol A|Streptozocin|Zinc,2,ARG1|ARG2
+arginine binding,GO:0034618,Asthma,MESH:D001249,0,,1,NOS2
+aromatase activity,GO:0070330,Asthma,MESH:D001249,0,,1,CYP2E1
+arrestin family protein binding,GO:1990763,Asthma,MESH:D001249,1,Leukotriene D4,0,
+arylamine N-acetyltransferase activity,GO:0004060,Asthma,MESH:D001249,0,,1,NAT1
+arylesterase activity,GO:0004064,Asthma,MESH:D001249,1,Parathion,0,
+aryl sulfotransferase activity,GO:0004062,Asthma,MESH:D001249,1,Acetaminophen,0,
+ATP-activated inward rectifier potassium channel activity,GO:0015272,Asthma,MESH:D001249,1,Zinc,0,
+ATPase binding,GO:0051117,Asthma,MESH:D001249,0,,1,PDE4D
+ATP binding,GO:0005524,Asthma,MESH:D001249,0,,6,ADCY2|DNAH5|KIF3A|PARP1|PPP2CA|RAD50
+ATP binding,GO:0005524,"Asthma, Occupational",MESH:D059366,0,,2,PRKCA|PRKD1
+ATP binding,GO:0005524,"ASTHMA-RELATED TRAITS, SUSCEPTIBILITY TO, 5",OMIM:611064,0,,1,IRAK3
+ATP-dependent activity,GO:0140657,Asthma,MESH:D001249,3,Arsenic|bisphenol A|Streptozocin,0,
+ATP-dependent peptidase activity,GO:0004176,Asthma,MESH:D001249,0,,1,PARP1
+ATP hydrolysis activity,GO:0016887,Asthma,MESH:D001249,14,Acetaminophen|Arsenic|Arsenic Trioxide|bisphenol A|Cadmium|Dietary Fats|epigallocatechin gallate|Malathion|Particulate Matter|pyrazolanthrone|Resveratrol|Soot|Streptozocin|Vehicle Emissions,3,DNAH5|PARP1|RAD50
+ATP hydrolysis activity,GO:0016887,"Asthma, Occupational",MESH:D059366,1,Silicon Dioxide,0,
+A-type (transient outward) potassium channel activity,GO:0005250,Asthma,MESH:D001249,1,geraniol,0,
+beta-2 adrenergic receptor binding,GO:0031698,Asthma,MESH:D001249,0,,2,PDE4D|PPP2CA
+beta-catenin binding,GO:0008013,Asthma,MESH:D001249,0,,3,CTNNA3|NOS2|PTEN
+beta-galactosidase activity,GO:0004565,Asthma,MESH:D001249,5,Air Pollutants|Paraquat|Particulate Matter|Resveratrol|Vehicle Emissions,0,
+beta-glucosidase activity,GO:0008422,Asthma,MESH:D001249,1,Isoproterenol,0,
+beta-glucosidase activity,GO:0008422,Status Asthmaticus,MESH:D013224,1,Isoproterenol,0,
+beta-glucuronidase activity,GO:0004566,Asthma,MESH:D001249,1,Isoproterenol,0,
+beta-glucuronidase activity,GO:0004566,Status Asthmaticus,MESH:D013224,1,Isoproterenol,0,
+BH3 domain binding,GO:0051434,Asthma,MESH:D001249,0,,1,BCL2
+BH domain binding,GO:0051400,Asthma,MESH:D001249,0,,1,BCL2
+biliverdin reductase (NAD(P)+) activity,GO:0004074,Asthma,MESH:D001249,1,montelukast,0,
+biliverdin reductase (NAD(P)+) activity,GO:0004074,"Asthma, Aspirin-Induced",MESH:D055963,1,montelukast,0,
+biliverdin reductase (NAD(P)+) activity,GO:0004074,"Asthma, Exercise-Induced",MESH:D001250,1,montelukast,0,
+butyrate-CoA ligase activity,GO:0047760,Asthma,MESH:D001249,1,Salicylic Acid,0,
+cadherin binding,GO:0045296,Asthma,MESH:D001249,0,,3,CDHR3|CTNNA3|NOS2
+cadherin binding,GO:0045296,"Asthma, Occupational",MESH:D059366,0,,1,CDH17
+calcium-activated potassium channel activity,GO:0015269,Asthma,MESH:D001249,1,geraniol,0,
+calcium channel activity,GO:0005262,Asthma,MESH:D001249,2,Histamine|Zinc,1,TRPA1
+calcium channel activity,GO:0005262,"Asthma, Aspirin-Induced",MESH:D055963,1,Histamine,0,
+calcium channel regulator activity,GO:0005246,Asthma,MESH:D001249,0,,3,NPY|PDE4B|PDE4D
+calcium-dependent ATPase activity,GO:0030899,Asthma,MESH:D001249,5,Aspirin|Cadmium|Dietary Fats|Glyphosate|Isoproterenol,0,
+calcium-dependent ATPase activity,GO:0030899,"Asthma, Aspirin-Induced",MESH:D055963,1,Aspirin,0,
+calcium-dependent ATPase activity,GO:0030899,"Asthma, Nasal Polyps, And Aspirin Intolerance",MESH:C565935,1,Aspirin,0,
+calcium-dependent ATPase activity,GO:0030899,Status Asthmaticus,MESH:D013224,1,Isoproterenol,0,
+calcium-dependent cysteine-type endopeptidase activity,GO:0004198,Asthma,MESH:D001249,2,Acetaminophen|Arsenic,0,
+calcium-dependent phospholipase A2 activity,GO:0047498,Asthma,MESH:D001249,2,Tretinoin|Vitamin A,0,
+calcium-dependent phospholipase A2 activity,GO:0047498,"Asthma, Occupational",MESH:D059366,0,,1,PLA2G4A
+calcium-dependent phospholipid binding,GO:0005544,"Asthma, Occupational",MESH:D059366,0,,1,PLA2G4A
+calcium-dependent protein binding,GO:0048306,Asthma,MESH:D001249,0,,1,BGLAP
+calcium-dependent protein kinase C activity,GO:0004698,"Asthma, Occupational",MESH:D059366,0,,2,PRKCA|PRKD1
+calcium-independent phospholipase A2 activity,GO:0047499,Asthma,MESH:D001249,0,,1,PLA2G7
+calcium-independent phospholipase A2 activity,GO:0047499,"Asthma, Occupational",MESH:D059366,0,,1,PLA2G4A
+calcium-independent protein kinase C activity,GO:0004699,"Asthma, Occupational",MESH:D059366,0,,2,PRKCA|PRKD1
+calcium ion binding,GO:0005509,Asthma,MESH:D001249,0,,3,BGLAP|CDHR3|PLAU
+calcium ion binding,GO:0005509,"Asthma, Occupational",MESH:D059366,0,,4,CDH17|PLA2G4A|PTGS1|TENM3
+calcium-release channel activity,GO:0015278,Asthma,MESH:D001249,0,,1,TRPA1
+calmodulin binding,GO:0005516,Asthma,MESH:D001249,0,,1,NOS2
+calmodulin-dependent protein phosphatase activity,GO:0033192,Asthma,MESH:D001249,1,bisphenol A,2,PPP2CA|PTEN
+cAMP binding,GO:0030552,Asthma,MESH:D001249,0,,2,PDE4B|PDE4D
+cAMP-dependent protein kinase activity,GO:0004691,Asthma,MESH:D001249,1,Roflumilast,0,
+cAMP-dependent protein kinase regulator activity,GO:0008603,Asthma,MESH:D001249,0,,1,NOS2
+carbohydrate binding,GO:0030246,"ASTHMA-RELATED TRAITS, SUSCEPTIBILITY TO, 7",OMIM:611960,0,,1,CHI3L1
+carbonate dehydratase activity,GO:0004089,Asthma,MESH:D001249,3,Dexamethasone|Mercury|Streptozocin,0,
+carbonate dehydratase activity,GO:0004089,Status Asthmaticus,MESH:D013224,1,Anti-Bacterial Agents,0,
+carboxylesterase activity,GO:0106435,Asthma,MESH:D001249,0,,1,ALDH2
+carboxylic ester hydrolase activity,GO:0052689,Asthma,MESH:D001249,3,Dietary Fats|geraniol|Permethrin,0,
+cardiolipin binding,GO:1901612,Asthma,MESH:D001249,0,,1,GSDMB
+carnitine O-octanoyltransferase activity,GO:0008458,Asthma,MESH:D001249,2,bisphenol A|Dietary Fats,0,
+carnitine O-palmitoyltransferase activity,GO:0004095,Asthma,MESH:D001249,4,bisphenol A|Dietary Fats|Epinephrine|Resveratrol,0,
+carnitine O-palmitoyltransferase activity,GO:0004095,Status Asthmaticus,MESH:D013224,1,Epinephrine,0,
+catalase activity,GO:0004096,Asthma,MESH:D001249,4,"Air Pollutants, Occupational|Isoproterenol|Pesticides|Triclosan",1,CAT
+catalase activity,GO:0004096,Status Asthmaticus,MESH:D013224,1,Isoproterenol,0,
+catalytic activity,GO:0003824,Asthma,MESH:D001249,0,,2,CTNNA3|PARP1
+catechol oxidase activity,GO:0004097,Asthma,MESH:D001249,1,Ovalbumin,0,
+C-C chemokine binding,GO:0019957,"Asthma, Aspirin-Induced",MESH:D055963,0,,1,CCR3
+C-C chemokine receptor activity,GO:0016493,"Asthma, Aspirin-Induced",MESH:D055963,0,,1,CCR3
+CCR1 chemokine receptor binding,GO:0031726,Asthma,MESH:D001249,0,,1,CCL5
+CCR2 chemokine receptor binding,GO:0031727,Asthma,MESH:D001249,0,,1,CCL2
+CCR3 chemokine receptor binding,GO:0031728,Asthma,MESH:D001249,0,,1,CCL11
+CCR4 chemokine receptor binding,GO:0031729,Asthma,MESH:D001249,0,,1,CCL5
+CCR5 chemokine receptor binding,GO:0031730,Asthma,MESH:D001249,0,,1,CCL5
+CCR chemokine receptor binding,GO:0048020,Asthma,MESH:D001249,0,,3,CCL11|CCL2|CCL5
+CD40 receptor binding,GO:0005174,Asthma,MESH:D001249,0,,1,TNF
+CD40 receptor binding,GO:0005174,"Asthma, Occupational",MESH:D059366,0,,1,TNF
+CD4 receptor binding,GO:0042609,Asthma,MESH:D001249,0,,1,HLA-DRB1
+CD8 receptor binding,GO:0042610,Asthma,MESH:D001249,0,,1,HLA-G
+cell adhesion molecule binding,GO:0050839,"Asthma, Aspirin-Induced",MESH:D055963,0,,1,POSTN
+cell adhesion molecule binding,GO:0050839,"Asthma, Occupational",MESH:D059366,0,,1,TENM3
+ceramide 1-phosphate binding,GO:1902387,"Asthma, Occupational",MESH:D059366,0,,1,PLA2G4A
+channel activity,GO:0015267,Asthma,MESH:D001249,2,Cadmium|Zinc,2,BCL2|TRPA1
+channel inhibitor activity,GO:0016248,Asthma,MESH:D001249,0,,1,BCL2
+chaperone binding,GO:0051087,Asthma,MESH:D001249,0,,1,SOD1
+chemoattractant activity,GO:0042056,Asthma,MESH:D001249,0,,3,CCL2|CCL5|VEGFA
+chemokine activity,GO:0008009,Asthma,MESH:D001249,0,,4,CCL11|CCL2|CCL5|CXCL14
+chemokine receptor activity,GO:0004950,"Asthma, Aspirin-Induced",MESH:D055963,0,,1,CCR3
+chemokine receptor antagonist activity,GO:0046817,Asthma,MESH:D001249,0,,1,CCL5
+chemokine receptor binding,GO:0042379,Asthma,MESH:D001249,0,,1,CCL5
+chitin binding,GO:0008061,"ASTHMA-RELATED TRAITS, SUSCEPTIBILITY TO, 7",OMIM:611960,0,,1,CHI3L1
+cholinesterase activity,GO:0004104,Asthma,MESH:D001249,7,Diazinon|Dietary Fats|Glyphosate|Malathion|Mustard Gas|Organophosphates|Pesticides,0,
+chromatin binding,GO:0003682,Asthma,MESH:D001249,0,,2,DNMT1|PARP1
+chromium ion transmembrane transporter activity,GO:0070835,"Asthma, Occupational",MESH:D059366,1,Chromium,0,
+ciliary neurotrophic factor binding,GO:0070119,Asthma,MESH:D001249,0,,1,IL6R
+ciliary neurotrophic factor receptor activity,GO:0004897,Asthma,MESH:D001249,0,,1,IL6R
+citrate synthase activity,GO:0036440,Asthma,MESH:D001249,2,bisphenol A|Streptozocin,0,
+collagen binding,GO:0005518,Asthma,MESH:D001249,0,,1,MMP9
+collagen binding involved in cell-matrix adhesion,GO:0098639,Asthma,MESH:D001249,1,Resveratrol,0,
+complement receptor activity,GO:0004875,Asthma,MESH:D001249,0,,1,PTGDR2
+complement receptor activity,GO:0004875,"Asthma, Aspirin-Induced",MESH:D055963,0,,1,PTGDR2
+copper ion binding,GO:0005507,Asthma,MESH:D001249,0,,1,SOD1
+coumarin 7-hydroxylase activity,GO:0008389,Asthma,MESH:D001249,1,Permethrin,0,
+creatine kinase activity,GO:0004111,Asthma,MESH:D001249,13,Arsenic|Arsenic Trioxide|bisphenol A|Cadmium|Dexamethasone|Dietary Fats|geraniol|Glutathione|Isoproterenol|Mercury|montelukast|Resveratrol|Streptozocin,0,
+creatine kinase activity,GO:0004111,"Asthma, Aspirin-Induced",MESH:D055963,1,montelukast,0,
+creatine kinase activity,GO:0004111,"Asthma, Exercise-Induced",MESH:D001250,1,montelukast,0,
+creatine kinase activity,GO:0004111,Status Asthmaticus,MESH:D013224,1,Isoproterenol,0,
+cullin family protein binding,GO:0097602,Asthma,MESH:D001249,0,,1,PPP2CA
+cyclic-nucleotide phosphodiesterase activity,GO:0004112,Asthma,MESH:D001249,0,,1,PDE4D
+cyclin-dependent protein serine/threonine kinase activity,GO:0004693,Asthma,MESH:D001249,0,,1,PPP2CA
+cysteine-type endopeptidase activity,GO:0004197,Asthma,MESH:D001249,10,Arsenic|Arsenic Trioxide|bisphenol A|Cadmium|Glyphosate|Mercury|montelukast|Particulate Matter|pyrazolanthrone|Vehicle Emissions,0,
+cysteine-type endopeptidase activity,GO:0004197,"Asthma, Aspirin-Induced",MESH:D055963,1,montelukast,0,
+cysteine-type endopeptidase activity,GO:0004197,"Asthma, Exercise-Induced",MESH:D001250,1,montelukast,0,
+cysteine-type endopeptidase activity,GO:0004197,Status Asthmaticus,MESH:D013224,1,Isoflurane,0,
+cysteine-type peptidase activity,GO:0008234,Asthma,MESH:D001249,2,bisphenol A|Carbon Tetrachloride,0,
+cysteinyl leukotriene receptor activity,GO:0001631,"Asthma, Aspirin-Induced",MESH:D055963,0,,1,CYSLTR2
+cytidine deaminase activity,GO:0004126,Asthma,MESH:D001249,1,Arsenic,0,
+"cytochrome-b5 reductase activity, acting on NADH",GO:0090524,Asthma,MESH:D001249,1,Benzo(a)pyrene,0,
+"cytochrome-b5 reductase activity, acting on NAD(P)H",GO:0004128,Asthma,MESH:D001249,0,,1,NQO1
+cytochrome-c oxidase activity,GO:0004129,Asthma,MESH:D001249,26,"2,4-Dichlorophenoxyacetic Acid|Acetaminophen|Air Pollutants|Aspirin|Benzo(a)pyrene|bisphenol A|Cadmium|Dietary Fats|epigallocatechin gallate|Glyphosate|Hydrogen Sulfide|Isoproterenol|Malathion|Mercury|Ozone|Paraquat|Particulate Matter|Pesticides|Resveratrol|Soot|Streptozocin|Tobacco Smoke Pollution|Triclosan|Vehicle Emissions|Vitamin A|Zinc",0,
+cytochrome-c oxidase activity,GO:0004129,"Asthma, Aspirin-Induced",MESH:D055963,1,Aspirin,0,
+cytochrome-c oxidase activity,GO:0004129,"Asthma, Nasal Polyps, And Aspirin Intolerance",MESH:C565935,1,Aspirin,0,
+cytochrome-c oxidase activity,GO:0004129,Status Asthmaticus,MESH:D013224,1,Isoproterenol,0,
+cytokine activity,GO:0005125,Asthma,MESH:D001249,0,,18,AREG|CCL2|CCL5|CXCL14|EDN1|IFNL3|IL10|IL13|IL1B|IL1RN|IL33|IL4|IL5|IL6|TGFB1|TNF|TSLP|VEGFA
+cytokine activity,GO:0005125,"Asthma, Occupational",MESH:D059366,0,,2,TGFB1|TNF
+cytokine receptor activity,GO:0004896,Asthma,MESH:D001249,0,,2,IL1RL1|IL6R
+cytokine receptor binding,GO:0005126,Asthma,MESH:D001249,0,,1,IL13
+cytoskeletal motor activity,GO:0003774,Asthma,MESH:D001249,0,,1,KIF3A
+D-alanine:2-oxoglutarate aminotransferase activity,GO:0047810,Asthma,MESH:D001249,2,bisphenol A|Carbon Tetrachloride,0,
+damaged DNA binding,GO:0003684,Asthma,MESH:D001249,0,,1,PARP1
+death receptor agonist activity,GO:0038177,Asthma,MESH:D001249,0,,1,TNF
+death receptor agonist activity,GO:0038177,"Asthma, Occupational",MESH:D059366,0,,1,TNF
+deubiquitinase activator activity,GO:0035800,Asthma,MESH:D001249,0,,1,TGFB1
+deubiquitinase activator activity,GO:0035800,"Asthma, Occupational",MESH:D059366,0,,1,TGFB1
+D-glutamyltransferase activity,GO:0047823,Asthma,MESH:D001249,8,Air Pollutants|Benzo(a)pyrene|bisphenol A|Carbon Tetrachloride|geraniol|Particulate Matter|Streptozocin|Zinc,0,
+diacylglycerol binding,GO:0019992,"Asthma, Occupational",MESH:D059366,0,,1,PRKCA
+diamine oxidase activity,GO:0052597,Asthma,MESH:D001249,1,bisphenol A,0,
+dinitrosyl-iron complex binding,GO:0035731,Asthma,MESH:D001249,0,,1,GSTP1
+dioxygenase activity,GO:0051213,Asthma,MESH:D001249,0,,1,ALOX5
+dioxygenase activity,GO:0051213,"Asthma, Aspirin-Induced",MESH:D055963,0,,1,PTGS2
+dioxygenase activity,GO:0051213,"Asthma, Occupational",MESH:D059366,0,,2,PTGS1|PTGS2
+dipeptidyl-peptidase activity,GO:0008239,Asthma,MESH:D001249,1,bisphenol A,0,
+DNA binding,GO:0003677,Asthma,MESH:D001249,0,,8,AGER|DNMT1|FOXP3|MYB|PARP1|RAD50|STAT4|TBX21
+DNA binding,GO:0003677,"Asthma, Aspirin-Induced",MESH:D055963,0,,1,TBX21
+DNA binding,GO:0003677,"Asthma, Nasal Polyps, And Aspirin Intolerance",MESH:C565935,0,,1,TBX21
+DNA binding,GO:0003677,"Asthma, Occupational",MESH:D059366,0,,1,AGER
+"DNA-binding transcription activator activity, RNA polymerase II-specific",GO:0001228,Asthma,MESH:D001249,0,,5,FOXP3|IKZF3|MYB|STAT4|TBX21
+"DNA-binding transcription activator activity, RNA polymerase II-specific",GO:0001228,"Asthma, Aspirin-Induced",MESH:D055963,0,,1,TBX21
+"DNA-binding transcription activator activity, RNA polymerase II-specific",GO:0001228,"Asthma, Nasal Polyps, And Aspirin Intolerance",MESH:C565935,0,,1,TBX21
+DNA-binding transcription factor activity,GO:0003700,Asthma,MESH:D001249,3,bisphenol A|Cadmium|Ozone,6,FOXP3|IKZF3|MYB|STAT4|TBX21|TSLP
+DNA-binding transcription factor activity,GO:0003700,"Asthma, Aspirin-Induced",MESH:D055963,0,,1,TBX21
+DNA-binding transcription factor activity,GO:0003700,"Asthma, Nasal Polyps, And Aspirin Intolerance",MESH:C565935,0,,1,TBX21
+"DNA-binding transcription factor activity, RNA polymerase II-specific",GO:0000981,Asthma,MESH:D001249,0,,5,FOXP3|IKZF3|MYB|STAT4|TBX21
+"DNA-binding transcription factor activity, RNA polymerase II-specific",GO:0000981,"Asthma, Aspirin-Induced",MESH:D055963,0,,1,TBX21
+"DNA-binding transcription factor activity, RNA polymerase II-specific",GO:0000981,"Asthma, Nasal Polyps, And Aspirin Intolerance",MESH:C565935,0,,1,TBX21
+DNA-binding transcription factor binding,GO:0140297,Asthma,MESH:D001249,0,,1,BCL2
+"DNA-binding transcription repressor activity, RNA polymerase II-specific",GO:0001227,Asthma,MESH:D001249,0,,2,FOXP3|TBX21
+"DNA-binding transcription repressor activity, RNA polymerase II-specific",GO:0001227,"Asthma, Aspirin-Induced",MESH:D055963,0,,1,TBX21
+"DNA-binding transcription repressor activity, RNA polymerase II-specific",GO:0001227,"Asthma, Nasal Polyps, And Aspirin Intolerance",MESH:C565935,0,,1,TBX21
+DNA (cytosine-5-)-methyltransferase activity,GO:0003886,Asthma,MESH:D001249,0,,1,DNMT1
+"DNA (cytosine-5-)-methyltransferase activity, acting on CpG substrates",GO:0051718,Asthma,MESH:D001249,0,,1,DNMT1
+"DNA (cytosine-5-)-methyltransferase activity, acting on CpNpG substrates",GO:0051720,Asthma,MESH:D001249,0,,1,DNMT1
+"DNA (cytosine-5-)-methyltransferase activity, acting on CpN substrates",GO:0051719,Asthma,MESH:D001249,0,,1,DNMT1
+DNA helicase activity,GO:0003678,Asthma,MESH:D001249,0,,1,RAD50
+DNA-methyltransferase activity,GO:0009008,Asthma,MESH:D001249,3,Decitabine|Dietary Fats|epigallocatechin gallate,1,DNMT1
+double-stranded DNA binding,GO:0003690,Asthma,MESH:D001249,0,,2,PYHIN1|RAD50
+double-stranded telomeric DNA binding,GO:0003691,Asthma,MESH:D001249,0,,1,RAD50
+dynein intermediate chain binding,GO:0045505,Asthma,MESH:D001249,0,,1,DNAH5
+dynein light intermediate chain binding,GO:0051959,Asthma,MESH:D001249,0,,1,DNAH5
+electron transfer activity,GO:0009055,Asthma,MESH:D001249,0,,1,ALDH2
+endonuclease activity,GO:0004519,Asthma,MESH:D001249,0,,1,RNASE3
+endopeptidase activity,GO:0004175,Asthma,MESH:D001249,5,epigallocatechin gallate|Glutathione|Particulate Matter|Streptozocin|Tobacco Smoke Pollution,2,MMP1|MMP9
+endothelin A receptor binding,GO:0031707,Asthma,MESH:D001249,0,,1,EDN1
+endothelin B receptor binding,GO:0031708,Asthma,MESH:D001249,0,,1,EDN1
+enzyme activator activity,GO:0008047,Asthma,MESH:D001249,0,,1,PARP1
+enzyme activator activity,GO:0008047,"Asthma, Aspirin-Induced",MESH:D055963,0,,1,LTC4S
+enzyme binding,GO:0019899,Asthma,MESH:D001249,0,,11,CAT|CYP2E1|GSTM1|HMOX1|IL6R|PARP1|PDE4D|PPP2CA|PTEN|SOD1|TGFB1
+enzyme binding,GO:0019899,"Asthma, Aspirin-Induced",MESH:D055963,0,,1,PTGS2
+enzyme binding,GO:0019899,"Asthma, Occupational",MESH:D059366,0,,3,PRKCA|PTGS2|TGFB1
+epidermal growth factor receptor binding,GO:0005154,Asthma,MESH:D001249,0,,1,AREG
+extracellular matrix binding,GO:0050840,Asthma,MESH:D001249,0,,1,VEGFA
+extracellular matrix structural constituent,GO:0005201,Asthma,MESH:D001249,0,,1,TNC
+extracellular matrix structural constituent,GO:0005201,"Asthma, Aspirin-Induced",MESH:D055963,0,,1,POSTN
+extracellular matrix structural constituent,GO:0005201,"ASTHMA-RELATED TRAITS, SUSCEPTIBILITY TO, 7",OMIM:611960,0,,1,CHI3L1
+fatty acid binding,GO:0005504,Asthma,MESH:D001249,0,,1,GSTP1
+fibronectin binding,GO:0001968,Asthma,MESH:D001249,0,,3,MMP9|TNC|VEGFA
+flavin adenine dinucleotide binding,GO:0050660,Asthma,MESH:D001249,0,,2,ALDH2|NOS2
+FMN binding,GO:0010181,Asthma,MESH:D001249,0,,1,NOS2
+"fructose 1,6-bisphosphate 1-phosphatase activity",GO:0042132,Asthma,MESH:D001249,2,Dietary Fats|Streptozocin,0,
+fucosyltransferase activity,GO:0008417,Asthma,MESH:D001249,0,,1,ARG2
+GABA receptor binding,GO:0050811,Asthma,MESH:D001249,0,,1,PPP2CA
+gamma-tubulin binding,GO:0043015,Asthma,MESH:D001249,0,,1,PDE4B
+gap junction channel activity,GO:0005243,Asthma,MESH:D001249,11,Air Pollutants|Benzo(a)pyrene|DDT|Hexachlorocyclohexane|Particulate Matter|perfluorooctane sulfonic acid|phenanthrene|pyrazolanthrone|pyrene|Resveratrol|Tretinoin,0,
+gap junction channel activity,GO:0005243,"ASTHMA-RELATED TRAITS, SUSCEPTIBILITY TO, 8",OMIM:613207,1,perfluorodecanoic acid,0,
+gap junction channel activity involved in cardiac conduction electrical coupling,GO:0086075,Asthma,MESH:D001249,1,pyrazolanthrone,0,
+glucokinase activity,GO:0004340,Asthma,MESH:D001249,1,Streptozocin,0,
+glucose-6-phosphatase activity,GO:0004346,Asthma,MESH:D001249,4,Cyclic AMP|Dietary Fats|geraniol|Streptozocin,0,
+glucose-6-phosphate dehydrogenase activity,GO:0004345,Asthma,MESH:D001249,2,Dietary Fats|Streptozocin,0,
+glucuronosyltransferase activity,GO:0015020,Asthma,MESH:D001249,5,Benzo(a)pyrene|bisphenol A|Carbon Tetrachloride|epigallocatechin gallate|Plant Preparations,0,
+glucuronosyltransferase activity,GO:0015020,"Asthma, Occupational",MESH:D059366,1,Plant Preparations,0,
+glutamate-cysteine ligase activity,GO:0004357,Asthma,MESH:D001249,2,Cadmium|Glyphosate,0,
+glutamate dehydrogenase (NAD+) activity,GO:0004352,Asthma,MESH:D001249,1,Carbon Tetrachloride,0,
+glutaminase activity,GO:0004359,Asthma,MESH:D001249,1,bisphenol A,0,
+glutathione binding,GO:0043295,Asthma,MESH:D001249,1,Mercury,1,GSTM1
+glutathione binding,GO:0043295,"Asthma, Aspirin-Induced",MESH:D055963,0,,1,LTC4S
+glutathione-disulfide reductase (NADPH) activity,GO:0004362,Asthma,MESH:D001249,1,Pesticides,0,
+glutathione hydrolase activity,GO:0036374,Asthma,MESH:D001249,1,Arsenic,0,
+glutathione peroxidase activity,GO:0004602,Asthma,MESH:D001249,39,Acetaminophen|Air Pollutants|Arsenic|Arsenic Trioxide|Benzo(a)pyrene|bisphenol A|Cadmium|Carbimazole|Carbon Tetrachloride|Dexamethasone|Diazinon|Dietary Fats|Emodin|Ephedrine|epigallocatechin gallate|Formaldehyde|geraniol|Glutathione|Glyphosate|Isoproterenol|Malathion|Mercury|Methotrexate|Ozone|Paraquat|Particulate Matter|Permethrin|Pesticides|Phenobarbital|Plant Preparations|Resveratrol|Salicylic Acid|Smoke|Soot|Streptozocin|Sulfur Dioxide|Tobacco Smoke Pollution|Vehicle Emissions|Zinc,1,GSTP1
+glutathione peroxidase activity,GO:0004602,"Asthma, Aspirin-Induced",MESH:D055963,0,,1,LTC4S
+glutathione peroxidase activity,GO:0004602,"Asthma, Occupational",MESH:D059366,1,Plant Preparations,0,
+glutathione peroxidase activity,GO:0004602,Status Asthmaticus,MESH:D013224,3,Isoflurane|Isoproterenol|Ketamine,0,
+glutathione transferase activity,GO:0004364,Asthma,MESH:D001249,35,"Acetaminophen|Arsenic|Arsenic Trioxide|Benzo(a)pyrene|bisphenol A|Cadmium|Carbaryl|Carbon Tetrachloride|Dexamethasone|Dietary Fats|Drugs, Chinese Herbal|epigallocatechin gallate|Ethylene Dibromide|geraniol|Glutathione|Glyphosate|Hydrocarbons, Chlorinated|Isoproterenol|Malathion|Mercury|Methotrexate|Ozone|Paraquat|Particulate Matter|Permethrin|Pesticides|Phenobarbital|Plant Preparations|Resveratrol|Streptozocin|Tretinoin|Triclosan|Vehicle Emissions|Vitamin A|Zinc",2,GSTM1|GSTP1
+glutathione transferase activity,GO:0004364,"Asthma, Aspirin-Induced",MESH:D055963,0,,1,LTC4S
+glutathione transferase activity,GO:0004364,"Asthma, Occupational",MESH:D059366,2,Chromium|Plant Preparations,0,
+glutathione transferase activity,GO:0004364,Status Asthmaticus,MESH:D013224,1,Isoproterenol,0,
+glycerol-3-phosphate O-acyltransferase activity,GO:0004366,Asthma,MESH:D001249,2,bisphenol A|Resveratrol,0,
+glycine N-benzoyltransferase activity,GO:0047962,Asthma,MESH:D001249,1,Phenobarbital,0,
+glycogen phosphorylase activity,GO:0008184,Asthma,MESH:D001249,3,bisphenol A|Dietary Fats|Streptozocin,0,
+glycogen (starch) synthase activity,GO:0004373,Asthma,MESH:D001249,1,Streptozocin,0,
+glycosyltransferase activity,GO:0016757,Asthma,MESH:D001249,0,,1,PARP1
+G-protein beta/gamma-subunit complex binding,GO:0031683,Asthma,MESH:D001249,0,,1,ADCY2
+G protein-coupled peptide receptor activity,GO:0008528,Asthma,MESH:D001249,0,,1,ADCYAP1R1
+G protein-coupled receptor activity,GO:0004930,Asthma,MESH:D001249,0,,5,ADCYAP1R1|HTR2A|NPSR1|NPY|PTGDR2
+G protein-coupled receptor activity,GO:0004930,"Asthma, Aspirin-Induced",MESH:D055963,0,,7,CCR3|CYSLTR1|CYSLTR2|PTGDR2|PTGER2|PTGIR|TBXA2R
+G protein-coupled receptor activity,GO:0004930,"Asthma, Nasal Polyps, And Aspirin Intolerance",MESH:C565935,0,,1,PTGER2
+G protein-coupled receptor activity,GO:0004930,"ASTHMA-RELATED TRAITS, SUSCEPTIBILITY TO, 1",OMIM:607277,0,,1,PTGDR
+G protein-coupled receptor activity,GO:0004930,"ASTHMA-RELATED TRAITS, SUSCEPTIBILITY TO, 2",OMIM:608584,0,,1,NPSR1
+G protein-coupled receptor binding,GO:0001664,Asthma,MESH:D001249,0,,2,CCL2|NPY
+G protein-coupled serotonin receptor activity,GO:0004993,Asthma,MESH:D001249,0,,1,HTR2A
+Gq/11-coupled serotonin receptor activity,GO:0001587,Asthma,MESH:D001249,0,,1,HTR2A
+G-quadruplex DNA binding,GO:0051880,Asthma,MESH:D001249,0,,1,RAD50
+growth factor activity,GO:0008083,Asthma,MESH:D001249,0,,8,AREG|IL10|IL13|IL4|IL5|IL6|TGFB1|VEGFA
+growth factor activity,GO:0008083,"Asthma, Occupational",MESH:D059366,0,,1,TGFB1
+growth factor binding,GO:0019838,Asthma,MESH:D001249,0,,1,VEGFA
+guanyl-nucleotide exchange factor activity,GO:0005085,Asthma,MESH:D001249,0,,1,RAD50
+guanyl-nucleotide exchange factor activity,GO:0005085,"Asthma, Aspirin-Induced",MESH:D055963,0,,2,PTGIR|TBXA2R
+guanyl-nucleotide exchange factor activity,GO:0005085,"Asthma, Occupational",MESH:D059366,0,,1,HERC2
+H3K27me3 modified histone binding,GO:0061628,Asthma,MESH:D001249,6,"Acetaminophen|bisphenol A|Fungicides, Industrial|Particulate Matter|Smoke|Vehicle Emissions",0,
+heat shock protein binding,GO:0031072,"Asthma, Occupational",MESH:D059366,0,,1,PRKD1
+heme binding,GO:0020037,Asthma,MESH:D001249,0,,6,ALOX5|CAT|CTNNA3|CYP2E1|HMOX1|NOS2
+heme binding,GO:0020037,"Asthma, Aspirin-Induced",MESH:D055963,0,,1,PTGS2
+heme binding,GO:0020037,"Asthma, Occupational",MESH:D059366,0,,2,PTGS1|PTGS2
+heme oxygenase (decyclizing) activity,GO:0004392,Asthma,MESH:D001249,0,,1,HMOX1
+heparin binding,GO:0008201,Asthma,MESH:D001249,0,,3,CCL2|CCL5|VEGFA
+heparin binding,GO:0008201,"Asthma, Aspirin-Induced",MESH:D055963,0,,1,POSTN
+heterocyclic compound binding,GO:1901363,Asthma,MESH:D001249,0,,1,PDE4D
+hexokinase activity,GO:0004396,Asthma,MESH:D001249,5,Air Pollutants|Arsenic Trioxide|Dietary Fats|Particulate Matter|Streptozocin,0,
+high-affinity phosphate transmembrane transporter activity,GO:0048249,Asthma,MESH:D001249,1,Sulfates,0,
+high mobility group box 1 binding,GO:0070379,Asthma,MESH:D001249,0,,1,AGER
+high mobility group box 1 binding,GO:0070379,"Asthma, Occupational",MESH:D059366,0,,1,AGER
+high voltage-gated calcium channel activity,GO:0008331,Asthma,MESH:D001249,2,Nifedipine|Particulate Matter,0,
+histamine N-methyltransferase activity,GO:0046539,Asthma,MESH:D001249,0,,1,HNMT
+histone acetyltransferase activity,GO:0004402,Asthma,MESH:D001249,1,bisphenol A,0,
+histone acetyltransferase binding,GO:0035035,Asthma,MESH:D001249,0,,1,FOXP3
+histone acetyltransferase binding,GO:0035035,"Asthma, Occupational",MESH:D059366,0,,1,PLA2G4A
+histone binding,GO:0042393,Asthma,MESH:D001249,1,bisphenol A,2,AGER|PARP1
+histone binding,GO:0042393,"Asthma, Occupational",MESH:D059366,0,,1,AGER
+histone deacetylase activity,GO:0004407,Asthma,MESH:D001249,2,Dietary Fats|Streptozocin,0,
+histone deacetylase binding,GO:0042826,Asthma,MESH:D001249,0,,4,DNMT1|FOXP3|IKZF3|PARP1
+histone H2S140 phosphatase activity,GO:0140791,Asthma,MESH:D001249,0,,2,PPP2CA|PTEN
+histone H2Y142 phosphatase activity,GO:0140793,Asthma,MESH:D001249,0,,1,PTEN
+histone H3K27 dimethyltransferase activity,GO:0140952,Asthma,MESH:D001249,1,bisphenol A,0,
+histone H3K27 trimethyltransferase activity,GO:0140951,Asthma,MESH:D001249,1,bisphenol A,0,
+histone H3K4 methyltransferase activity,GO:0042800,Asthma,MESH:D001249,1,bisphenol A,0,
+histone H3K9 demethylase activity,GO:0032454,Asthma,MESH:D001249,2,Dietary Fats|Particulate Matter,0,
+histone H3K9 trimethyltransferase activity,GO:0140949,Asthma,MESH:D001249,1,bisphenol A,0,
+histone H3S28 kinase activity,GO:0044022,Asthma,MESH:D001249,1,bisphenol A,0,
+histone H3T6 kinase activity,GO:0035403,"Asthma, Occupational",MESH:D059366,0,,1,PRKCA
+hormone activity,GO:0005179,Asthma,MESH:D001249,0,,3,BGLAP|EDN1|NPY
+Hsp70 protein binding,GO:0030544,Asthma,MESH:D001249,0,,1,CYP2E1
+Hsp90 protein binding,GO:0051879,Asthma,MESH:D001249,0,,2,CYP2E1|NOS2
+hydrolase activity,GO:0016787,Asthma,MESH:D001249,0,,9,ALOX5|ARG1|ARG2|IL1RL1|MMP9|PDE4B|PDE4D|PLA2G7|RAD50
+hydrolase activity,GO:0016787,"Asthma, Occupational",MESH:D059366,0,,1,PLA2G4A
+"hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds, in linear amidines",GO:0016813,Asthma,MESH:D001249,0,,2,ARG1|ARG2
+"hydrolase activity, acting on ester bonds",GO:0016788,Asthma,MESH:D001249,1,Permethrin,1,PLA2G7
+hydroxyapatite binding,GO:0046848,Asthma,MESH:D001249,0,,1,BGLAP
+identical protein binding,GO:0042802,Asthma,MESH:D001249,0,,28,AGER|ALDH2|ARG1|BCL2|CAT|CCL5|CLDN18|FOXP3|GSTM1|HLA-G|HMOX1|HTR2A|IKZF3|IL6|MMP9|NOS2|NQO1|PARP1|PPP2CA|PTEN|RAD50|SOD1|STAT4|TGFB1|TNF|TNIP1|TRPA1|VEGFA
+identical protein binding,GO:0042802,"Asthma, Aspirin-Induced",MESH:D055963,0,,1,LTC4S
+identical protein binding,GO:0042802,"Asthma, Occupational",MESH:D059366,0,,5,AGER|PRKD1|TENM3|TGFB1|TNF
+IgE binding,GO:0019863,"Asthma, Aspirin-Induced",MESH:D055963,0,,1,MS4A2
+IgE receptor activity,GO:0019767,"Asthma, Aspirin-Induced",MESH:D055963,0,,1,MS4A2
+IkappaB kinase activity,GO:0008384,Asthma,MESH:D001249,1,Resveratrol,0,
+"indoleamine 2,3-dioxygenase activity",GO:0033754,Asthma,MESH:D001249,1,Cadmium,0,
+"inositol-1,3,4,5,6-pentakisphosphate 3-phosphatase activity",GO:0030351,Asthma,MESH:D001249,0,,1,PTEN
+"inositol-1,3,4,5-tetrakisphosphate 3-phosphatase activity",GO:0051717,Asthma,MESH:D001249,0,,1,PTEN
+integrin binding,GO:0005178,Asthma,MESH:D001249,0,,3,ICAM1|IL1B|TNC
+integrin binding,GO:0005178,"Asthma, Occupational",MESH:D059366,0,,2,CDH17|PRKCA
+interleukin-10 receptor binding,GO:0005141,Asthma,MESH:D001249,0,,1,IL10
+interleukin-11 binding,GO:0019970,Asthma,MESH:D001249,0,,1,IL6R
+interleukin-11 receptor activity,GO:0004921,Asthma,MESH:D001249,0,,1,IL6R
+interleukin-13 receptor binding,GO:0005144,Asthma,MESH:D001249,0,,1,IL13
+interleukin-1 receptor activity,GO:0004908,Asthma,MESH:D001249,0,,1,IL1RL1
+interleukin-1 receptor antagonist activity,GO:0005152,Asthma,MESH:D001249,0,,1,IL1RN
+interleukin-1 receptor binding,GO:0005149,Asthma,MESH:D001249,0,,2,IL1B|IL1RN
+"interleukin-1, type I, activating receptor activity",GO:0004909,Asthma,MESH:D001249,0,,1,IL1RL1
+interleukin-1 type II receptor antagonist activity,GO:0045353,Asthma,MESH:D001249,0,,1,IL1RN
+"interleukin-1, type II receptor binding",GO:0005151,Asthma,MESH:D001249,0,,1,IL1RN
+interleukin-1 type I receptor antagonist activity,GO:0045352,Asthma,MESH:D001249,0,,1,IL1RN
+"interleukin-1, type I receptor binding",GO:0005150,Asthma,MESH:D001249,0,,1,IL1RN
+interleukin-28 receptor binding,GO:0032003,Asthma,MESH:D001249,0,,1,IFNL3
+interleukin-33 binding,GO:0002113,Asthma,MESH:D001249,0,,1,IL1RL1
+interleukin-33 receptor activity,GO:0002114,Asthma,MESH:D001249,0,,1,IL1RL1
+interleukin-33 receptor binding,GO:0002112,Asthma,MESH:D001249,0,,1,IL33
+interleukin-4 receptor binding,GO:0005136,Asthma,MESH:D001249,0,,2,IL13|IL4
+interleukin-5 receptor binding,GO:0005137,Asthma,MESH:D001249,0,,1,IL5
+interleukin-6 binding,GO:0019981,Asthma,MESH:D001249,0,,1,IL6R
+interleukin-6 receptor activity,GO:0004915,Asthma,MESH:D001249,0,,1,IL6R
+interleukin-6 receptor binding,GO:0005138,Asthma,MESH:D001249,0,,2,IL6|IL6R
+interleukin-7 receptor binding,GO:0005139,Asthma,MESH:D001249,0,,1,TSLP
+intraciliary transport particle B binding,GO:0120170,Asthma,MESH:D001249,0,,1,KIF3A
+inward rectifier potassium channel activity,GO:0005242,Asthma,MESH:D001249,1,Terfenadine,1,DNMT1
+iodide peroxidase activity,GO:0004447,Asthma,MESH:D001249,1,bisphenol A,0,
+ionotropic glutamate receptor binding,GO:0035255,Asthma,MESH:D001249,0,,1,PTEN
+iron ion binding,GO:0005506,Asthma,MESH:D001249,1,Cadmium,2,ALOX5|CYP2E1
+isocitrate dehydrogenase (NAD+) activity,GO:0004449,Asthma,MESH:D001249,2,bisphenol A|Zinc,0,
+isocitrate dehydrogenase (NADP+) activity,GO:0004450,Asthma,MESH:D001249,1,Zinc,0,
+isocitrate dehydrogenase [NAD(P)+] activity,GO:0004448,Asthma,MESH:D001249,2,Cadmium|Isoproterenol,0,
+isocitrate dehydrogenase [NAD(P)+] activity,GO:0004448,Status Asthmaticus,MESH:D013224,1,Isoproterenol,0,
+JUN kinase activity,GO:0004705,Asthma,MESH:D001249,3,Cadmium|Glutathione|pyrazolanthrone,0,
+JUN kinase binding,GO:0008432,Asthma,MESH:D001249,0,,1,GSTP1
+kinase activity,GO:0016301,Asthma,MESH:D001249,0,,1,PLAU
+kinase activity,GO:0016301,"Asthma, Occupational",MESH:D059366,0,,1,PRKD1
+kinase activity,GO:0016301,"ASTHMA-RELATED TRAITS, SUSCEPTIBILITY TO, 5",OMIM:611064,0,,1,IRAK3
+kinase regulator activity,GO:0019207,Asthma,MESH:D001249,0,,1,GSTP1
+kinesin binding,GO:0019894,Asthma,MESH:D001249,0,,1,KIF3A
+lactase activity,GO:0000016,Asthma,MESH:D001249,3,bisphenol A|geraniol|Streptozocin,0,
+lactate dehydrogenase activity,GO:0004457,Asthma,MESH:D001249,30,"Acetaminophen|Air Pollutants|Arsenic|Arsenic Trioxide|Benzo(a)pyrene|bisphenol A|Cadmium|Carbon Tetrachloride|Decitabine|Dexamethasone|Dietary Fats|Drugs, Chinese Herbal|Dust|Emodin|epigallocatechin gallate|geraniol|Glyphosate|Isoproterenol|Malathion|Mercury|Methotrexate|montelukast|Ovalbumin|Ozone|Paraquat|Particulate Matter|Permethrin|Resveratrol|Streptozocin|Zinc",0,
+lactate dehydrogenase activity,GO:0004457,"Asthma, Aspirin-Induced",MESH:D055963,1,montelukast,0,
+lactate dehydrogenase activity,GO:0004457,"Asthma, Exercise-Induced",MESH:D001250,1,montelukast,0,
+lactate dehydrogenase activity,GO:0004457,"Asthma, Occupational",MESH:D059366,1,Silicon Dioxide,0,
+lactate dehydrogenase activity,GO:0004457,Status Asthmaticus,MESH:D013224,3,Isoflurane|Isoproterenol|Ketamine,0,
+L-alanine:2-oxoglutarate aminotransferase activity,GO:0004021,Asthma,MESH:D001249,4,Acetaminophen|bisphenol A|geraniol|perfluoro-n-nonanoic acid,0,
+L-alanine:2-oxoglutarate aminotransferase activity,GO:0004021,"ASTHMA-RELATED TRAITS, SUSCEPTIBILITY TO, 8",OMIM:613207,2,perfluorodecanoic acid|perfluoro-n-nonanoic acid,0,
+laminin receptor activity,GO:0005055,Asthma,MESH:D001249,0,,1,AGER
+laminin receptor activity,GO:0005055,"Asthma, Occupational",MESH:D059366,0,,1,AGER
+L-aspartate:2-oxoglutarate aminotransferase activity,GO:0004069,Asthma,MESH:D001249,31,"Acetaldehyde|Acetaminophen|Arsenic|Arsenic Trioxide|Benzo(a)pyrene|bisphenol A|Cadmium|Carbon Tetrachloride|Cocaine|Dexamethasone|Dextromethorphan|Dietary Fats|Drugs, Chinese Herbal|epigallocatechin gallate|geraniol|Glutathione|Glyphosate|Herbicides|Isoproterenol|Malathion|Methotrexate|Ovalbumin|Ozone|Paraquat|pendimethalin|perfluorooctane sulfonic acid|Permethrin|Phenobarbital|Resveratrol|Streptozocin|Zinc",0,
+L-aspartate:2-oxoglutarate aminotransferase activity,GO:0004069,Status Asthmaticus,MESH:D013224,1,Isoproterenol,0,
+leukotriene-C4 synthase activity,GO:0004464,"Asthma, Aspirin-Induced",MESH:D055963,0,,1,LTC4S
+leukotriene receptor activity,GO:0004974,"Asthma, Aspirin-Induced",MESH:D055963,0,,2,CYSLTR1|CYSLTR2
+ligand-gated monoatomic ion channel activity,GO:0015276,Asthma,MESH:D001249,1,geraniol,1,TRPA1
+linoleate 13S-lipoxygenase activity,GO:0016165,Asthma,MESH:D001249,1,Dexamethasone,0,
+lipase activity,GO:0016298,Asthma,MESH:D001249,1,Ozone,0,
+lipid binding,GO:0008289,Asthma,MESH:D001249,0,,1,PTEN
+lipid binding,GO:0008289,"Asthma, Aspirin-Induced",MESH:D055963,0,,1,LTC4S
+lipid binding,GO:0008289,"Asthma, Occupational",MESH:D059366,0,,2,PLA2G4A|PRKCA
+lipopolysaccharide binding,GO:0001530,Asthma,MESH:D001249,1,Tobacco Smoke Pollution,2,CD14|RNASE3
+lipopolysaccharide immune receptor activity,GO:0001875,Asthma,MESH:D001249,0,,1,CD14
+lipoteichoic acid binding,GO:0070891,Asthma,MESH:D001249,0,,1,CD14
+lncRNA binding,GO:0106222,Asthma,MESH:D001249,0,,1,DNMT1
+long-chain fatty acid omega-1 hydroxylase activity,GO:0120319,Asthma,MESH:D001249,0,,1,CYP2E1
+lyase activity,GO:0016829,"Asthma, Aspirin-Induced",MESH:D055963,0,,1,LTC4S
+lysine-acetylated histone binding,GO:0070577,Asthma,MESH:D001249,6,"Acetaminophen|Arsenic|bisphenol A|epigallocatechin gallate|Fungicides, Industrial|Hydrocortisone",0,
+lysine-acetylated histone binding,GO:0070577,Status Asthmaticus,MESH:D013224,1,Hydrocortisone,0,
+lysophospholipase activity,GO:0004622,"Asthma, Occupational",MESH:D059366,0,,1,PLA2G4A
+lysozyme activity,GO:0003796,Asthma,MESH:D001249,1,bisphenol A,0,
+magnesium ion binding,GO:0000287,Asthma,MESH:D001249,0,,2,ADCY2|TBX21
+magnesium ion binding,GO:0000287,"Asthma, Aspirin-Induced",MESH:D055963,0,,1,TBX21
+magnesium ion binding,GO:0000287,"Asthma, Nasal Polyps, And Aspirin Intolerance",MESH:C565935,0,,1,TBX21
+magnesium ion binding,GO:0000287,"ASTHMA-RELATED TRAITS, SUSCEPTIBILITY TO, 5",OMIM:611064,0,,1,IRAK3
+malate dehydrogenase activity,GO:0016615,Asthma,MESH:D001249,7,Acetaminophen|Air Pollutants|Arsenic|bisphenol A|Cadmium|Isoproterenol|Particulate Matter,0,
+malate dehydrogenase activity,GO:0016615,Status Asthmaticus,MESH:D013224,1,Isoproterenol,0,
+malic enzyme activity,GO:0004470,Asthma,MESH:D001249,2,Dietary Fats|Zinc,0,
+maltose alpha-glucosidase activity,GO:0032450,Asthma,MESH:D001249,3,bisphenol A|Paraquat|Streptozocin,0,
+manganese ion binding,GO:0030145,Asthma,MESH:D001249,0,,3,ADCY2|ARG1|ARG2
+MAP kinase activity,GO:0004707,Asthma,MESH:D001249,4,Cadmium|Glutathione|Tretinoin|Vitamin A,0,
+MAP kinase serine/threonine phosphatase activity,GO:1990439,Asthma,MESH:D001249,0,,2,PPP2CA|PTEN
+metal chelating activity,GO:0046911,Asthma,MESH:D001249,1,Salicylic Acid,0,
+metal ion binding,GO:0046872,Asthma,MESH:D001249,0,,23,ADCY2|ALOX5|AREG|ARG1|ARG2|BGLAP|CAT|DNMT1|FOXP3|HMOX1|IKZF3|MMP1|MMP9|NOS2|PARP1|PDE4B|PDE4D|PPP2CA|PTEN|RAD50|SOD1|TIMP3|TRPA1
+metal ion binding,GO:0046872,"Asthma, Aspirin-Induced",MESH:D055963,0,,2,POSTN|PTGS2
+metal ion binding,GO:0046872,"Asthma, Occupational",MESH:D059366,0,,7,CDH17|HERC2|PLA2G4A|PRKCA|PRKD1|PTGS1|PTGS2
+metalloendopeptidase activity,GO:0004222,Asthma,MESH:D001249,0,,4,MMP1|MMP10|MMP9|PARP1
+metalloendopeptidase inhibitor activity,GO:0008191,Asthma,MESH:D001249,0,,1,TIMP3
+metallopeptidase activity,GO:0008237,Asthma,MESH:D001249,3,epigallocatechin gallate|Glutathione|Tobacco Smoke Pollution,2,MMP1|MMP9
+methylated histone binding,GO:0035064,Asthma,MESH:D001249,4,"Acetaminophen|Fungicides, Industrial|Particulate Matter|Vehicle Emissions",0,
+methyl-CpG binding,GO:0008327,Asthma,MESH:D001249,0,,1,DNMT1
+methyltransferase activity,GO:0008168,Asthma,MESH:D001249,1,Ozone,2,DNMT1|HNMT
+MHC class II receptor activity,GO:0032395,Asthma,MESH:D001249,0,,3,HLA-DQA1|HLA-DQB1|HLA-DRB1
+microtubule binding,GO:0008017,Asthma,MESH:D001249,0,,1,KIF3A
+microtubule motor activity,GO:0003777,Asthma,MESH:D001249,0,,2,DNAH5|KIF3A
+minus-end-directed microtubule motor activity,GO:0008569,Asthma,MESH:D001249,0,,1,DNAH5
+mitogen-activated protein kinase binding,GO:0051019,Asthma,MESH:D001249,0,,1,TNIP1
+molecular adaptor activity,GO:0060090,Asthma,MESH:D001249,0,,2,AGER|BCL2
+molecular adaptor activity,GO:0060090,"Asthma, Occupational",MESH:D059366,0,,1,AGER
+molecular_function,GO:0003674,Asthma,MESH:D001249,0,,1,ORMDL3
+molecular function inhibitor activity,GO:0140678,Asthma,MESH:D001249,0,,1,PTEN
+monoamine oxidase activity,GO:0097621,Asthma,MESH:D001249,3,bisphenol A|Cadmium|Vitamin A,0,
+monoatomic cation channel activity,GO:0005261,Asthma,MESH:D001249,0,,1,TRPA1
+monoatomic ion channel activity,GO:0005216,Asthma,MESH:D001249,0,,1,TRPA1
+monooxygenase activity,GO:0004497,Asthma,MESH:D001249,1,Benzo(a)pyrene,1,CYP2E1
+mRNA binding,GO:0003729,Asthma,MESH:D001249,0,,1,NAT1
+myosin phosphatase activity,GO:0017018,Asthma,MESH:D001249,0,,2,PPP2CA|PTEN
+N-acetyltransferase activity,GO:0008080,Asthma,MESH:D001249,1,Benzo(a)pyrene,0,
+NAD+ ADP-ribosyltransferase activity,GO:0003950,Asthma,MESH:D001249,1,Paraquat,1,PARP1
+NAD binding,GO:0051287,Asthma,MESH:D001249,0,,3,ALDH2|HSD11B2|PARP1
+NAD DNA ADP-ribosyltransferase activity,GO:0140294,Asthma,MESH:D001249,0,,1,PARP1
+NADH binding,GO:0070404,Asthma,MESH:D001249,0,,1,ALDH2
+NADH dehydrogenase activity,GO:0003954,Asthma,MESH:D001249,2,Isoproterenol|Streptozocin,0,
+NADH dehydrogenase activity,GO:0003954,Status Asthmaticus,MESH:D013224,1,Isoproterenol,0,
+NADH dehydrogenase (quinone) activity,GO:0050136,Asthma,MESH:D001249,0,,1,NQO1
+NADH dehydrogenase (ubiquinone) activity,GO:0008137,Asthma,MESH:D001249,19,Acetaminophen|Air Pollutants|Arsenic|Arsenic Trioxide|bisphenol A|Cadmium|Dietary Fats|epigallocatechin gallate|Glyphosate|Isoproterenol|Malathion|Mercury|Ozone|Paraquat|Particulate Matter|Resveratrol|Soot|Streptozocin|Vehicle Emissions,0,
+NADH dehydrogenase (ubiquinone) activity,GO:0008137,Status Asthmaticus,MESH:D013224,1,Isoproterenol,0,
+NAD+-histone H2BE18 glutamate ADP-ribosyltransferase activity,GO:0140867,Asthma,MESH:D001249,0,,1,PARP1
+NAD+-histone H2BE2 glutamate ADP-ribosyltransferase activity,GO:0140844,Asthma,MESH:D001249,0,,1,PARP1
+NAD+-histone H2BE35 glutamate ADP-ribosyltransferase activity,GO:0140822,Asthma,MESH:D001249,0,,1,PARP1
+NAD+-histone H2BS6 serine ADP-ribosyltransferase activity,GO:0140816,Asthma,MESH:D001249,0,,1,PARP1
+NAD+-histone H3S10 serine ADP-ribosyltransferase activity,GO:0140817,Asthma,MESH:D001249,0,,1,PARP1
+"NAD+ nucleotidase, cyclic ADP-ribose generating",GO:0061809,Asthma,MESH:D001249,0,,1,IL1RL1
+NADP binding,GO:0050661,Asthma,MESH:D001249,0,,2,CAT|NOS2
+NAD(P)H dehydrogenase (quinone) activity,GO:0003955,Asthma,MESH:D001249,0,,1,NQO1
+NADPH dehydrogenase (quinone) activity,GO:0008753,Asthma,MESH:D001249,0,,1,NQO1
+NADPH-hemoprotein reductase activity,GO:0003958,Asthma,MESH:D001249,1,Benzo(a)pyrene,0,
+NAD(P)H oxidase H2O2-forming activity,GO:0016174,Asthma,MESH:D001249,6,Air Pollutants|Arsenic Trioxide|Dextromethorphan|Heptachlor|Particulate Matter|Resveratrol,0,
+NADPH:quinone reductase activity,GO:0003960,Asthma,MESH:D001249,1,geraniol,0,
+NAD+-protein ADP-ribosyltransferase activity,GO:1990404,Asthma,MESH:D001249,0,,1,PARP1
+NAD+- protein-aspartate ADP-ribosyltransferase activity,GO:0140806,Asthma,MESH:D001249,0,,1,PARP1
+NAD+-protein-glutamate ADP-ribosyltransferase activity,GO:0140807,Asthma,MESH:D001249,0,,1,PARP1
+NAD+-protein-histidine ADP-ribosyltransferase activity,GO:0140815,Asthma,MESH:D001249,0,,1,PARP1
+NAD+-protein-serine ADP-ribosyltransferase activity,GO:0140805,Asthma,MESH:D001249,0,,1,PARP1
+NAD+-protein-tyrosine ADP-ribosyltransferase activity,GO:0140808,Asthma,MESH:D001249,0,,1,PARP1
+neuropeptide binding,GO:0042923,Asthma,MESH:D001249,0,,1,ADCYAP1R1
+neuropeptide hormone activity,GO:0005184,Asthma,MESH:D001249,0,,1,NPY
+neuropeptide receptor activity,GO:0008188,Asthma,MESH:D001249,0,,1,NPSR1
+neuropeptide receptor activity,GO:0008188,"ASTHMA-RELATED TRAITS, SUSCEPTIBILITY TO, 2",OMIM:608584,0,,1,NPSR1
+neuropeptide Y receptor binding,GO:0031841,Asthma,MESH:D001249,0,,1,NPY
+neuropilin binding,GO:0038191,Asthma,MESH:D001249,0,,1,VEGFA
+neurotransmitter receptor activity,GO:0030594,Asthma,MESH:D001249,0,,1,HTR2A
+NFAT protein binding,GO:0051525,Asthma,MESH:D001249,0,,1,FOXP3
+NF-kappaB binding,GO:0051059,Asthma,MESH:D001249,0,,1,FOXP3
+N-hydroxyarylamine O-acetyltransferase activity,GO:0046990,Asthma,MESH:D001249,0,,1,NAT1
+nickel cation binding,GO:0016151,Asthma,MESH:D001249,0,,1,GSTM1
+nicotinic acid receptor activity,GO:0070553,Asthma,MESH:D001249,1,Cyclic AMP,0,
+nitric oxide binding,GO:0070026,Asthma,MESH:D001249,0,,1,GSTP1
+nitric-oxide synthase activity,GO:0004517,Asthma,MESH:D001249,9,"bisphenol A|Cadmium|Dietary Fats|Drugs, Chinese Herbal|Isoproterenol|Paraquat|Resveratrol|Sulfur Dioxide|Tobacco Smoke Pollution",1,NOS2
+nitric-oxide synthase activity,GO:0004517,Status Asthmaticus,MESH:D013224,1,Isoproterenol,0,
+nitric-oxide synthase binding,GO:0050998,Asthma,MESH:D001249,0,,2,ARG2|NOS2
+nitrogenase activity,GO:0016163,Asthma,MESH:D001249,0,,1,PTEN
+N-methyltransferase activity,GO:0008170,Asthma,MESH:D001249,0,,1,HNMT
+non-membrane spanning protein tyrosine phosphatase activity,GO:0004726,Asthma,MESH:D001249,0,,1,PTEN
+nuclear estrogen receptor activity,GO:0030284,Asthma,MESH:D001249,1,bisphenol A,0,
+nuclear estrogen receptor binding,GO:0030331,Asthma,MESH:D001249,0,,2,DNMT1|PARP1
+nuclear receptor activity,GO:0004879,Asthma,MESH:D001249,1,bisphenol A,0,
+nucleic acid binding,GO:0003676,Asthma,MESH:D001249,0,,4,CDHR3|PTEN|RNASE3|TNIP1
+nucleoside triphosphate diphosphatase activity,GO:0047429,Asthma,MESH:D001249,1,Streptozocin,0,
+nucleosome binding,GO:0031491,Asthma,MESH:D001249,0,,1,PARP1
+nucleotide binding,GO:0000166,Asthma,MESH:D001249,0,,3,DNAH5|KIF3A|RAD50
+nucleotide binding,GO:0000166,"Asthma, Occupational",MESH:D059366,0,,1,PRKD1
+nucleotidyltransferase activity,GO:0016779,Asthma,MESH:D001249,0,,1,PARP1
+nutrient reservoir activity,GO:0045735,Asthma,MESH:D001249,3,Air Pollutants|Particulate Matter|pendimethalin,0,
+O-acyltransferase activity,GO:0008374,"Asthma, Occupational",MESH:D059366,0,,1,PLA2G4A
+opsonin receptor activity,GO:0001847,Asthma,MESH:D001249,0,,1,CD14
+ornithine carbamoyltransferase activity,GO:0004585,Asthma,MESH:D001249,1,Carbon Tetrachloride,0,
+osmolarity-sensing monoatomic cation channel activity,GO:1990760,Asthma,MESH:D001249,0,,1,TRPA1
+oxidoreductase activity,GO:0016491,Asthma,MESH:D001249,0,,8,ALDH2|ALOX5|CAT|CYP2E1|HSD11B2|IL6R|NOS2|SOD1
+oxidoreductase activity,GO:0016491,"Asthma, Occupational",MESH:D059366,0,,1,PTGS1
+"oxidoreductase activity, acting on NAD(P)H",GO:0016651,Asthma,MESH:D001249,1,geraniol,0,
+"oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen",GO:0016705,Asthma,MESH:D001249,0,,1,CYP2E1
+"oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, NAD(P)H as one donor, and incorporation of one atom of oxygen",GO:0016709,Asthma,MESH:D001249,0,,1,CYP2E1
+"oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, reduced flavin or flavoprotein as one donor, and incorporation of one atom of oxygen",GO:0016712,Asthma,MESH:D001249,4,Benzo(a)pyrene|bisphenol A|geraniol|Phenobarbital,2,ALOX5|CYP2E1
+"oxidoreductase activity, acting on peroxide as acceptor",GO:0016684,Asthma,MESH:D001249,0,,1,CAT
+"oxidoreductase activity, acting on single donors with incorporation of molecular oxygen",GO:0016701,Asthma,MESH:D001249,0,,1,ALOX5
+"oxidoreductase activity, acting on single donors with incorporation of molecular oxygen",GO:0016701,"Asthma, Aspirin-Induced",MESH:D055963,0,,1,PTGS2
+"oxidoreductase activity, acting on single donors with incorporation of molecular oxygen",GO:0016701,"Asthma, Occupational",MESH:D059366,0,,1,PTGS2
+"oxidoreductase activity, acting on single donors with incorporation of molecular oxygen, incorporation of two atoms of oxygen",GO:0016702,Asthma,MESH:D001249,0,,1,ALOX5
+"oxidoreductase activity, acting on single donors with incorporation of molecular oxygen, incorporation of two atoms of oxygen",GO:0016702,"Asthma, Aspirin-Induced",MESH:D055963,0,,1,PTGS2
+"oxidoreductase activity, acting on single donors with incorporation of molecular oxygen, incorporation of two atoms of oxygen",GO:0016702,"Asthma, Occupational",MESH:D059366,0,,2,PTGS1|PTGS2
+"oxidoreductase activity, acting on the aldehyde or oxo group of donors, NAD or NADP as acceptor",GO:0016620,Asthma,MESH:D001249,0,,1,ALDH2
+"oxidoreductase activity, acting on the CH-CH group of donors",GO:0016627,Asthma,MESH:D001249,0,,1,ALDH2
+oxoglutarate dehydrogenase (succinyl-transferring) activity,GO:0004591,Asthma,MESH:D001249,1,Cadmium,0,
+oxygen binding,GO:0019825,Asthma,MESH:D001249,2,Benzo(a)pyrene|Resveratrol,1,CYP2E1
+palmitoyl-CoA oxidase activity,GO:0016401,Asthma,MESH:D001249,1,Phenobarbital,0,
+PDZ domain binding,GO:0030165,Asthma,MESH:D001249,0,,1,PTEN
+pentosyltransferase activity,GO:0016763,Asthma,MESH:D001249,0,,1,PARP1
+peptidase activator activity involved in apoptotic process,GO:0016505,Asthma,MESH:D001249,1,"2,4-Dichlorophenoxyacetic Acid",0,
+peptidase activity,GO:0008233,Asthma,MESH:D001249,2,Particulate Matter|Vehicle Emissions,3,MMP1|MMP9|PLAU
+peptidase inhibitor activity,GO:0030414,Asthma,MESH:D001249,0,,1,TIMP3
+peptide antigen binding,GO:0042605,Asthma,MESH:D001249,0,,5,HLA-DPB1|HLA-DQA1|HLA-DQB1|HLA-DRB1|HLA-G
+peptide antigen binding,GO:0042605,"Asthma, Aspirin-Induced",MESH:D055963,0,,1,HLA-DPB1
+peptide hormone binding,GO:0017046,Asthma,MESH:D001249,0,,1,ADCYAP1R1
+peptidoglycan immune receptor activity,GO:0016019,Asthma,MESH:D001249,0,,1,CD14
+peroxidase activity,GO:0004601,Asthma,MESH:D001249,4,Arsenic|Arsenic Trioxide|bisphenol A|Carbon Tetrachloride,2,CAT|CTNNA3
+peroxidase activity,GO:0004601,"Asthma, Aspirin-Induced",MESH:D055963,0,,1,PTGS2
+peroxidase activity,GO:0004601,"Asthma, Occupational",MESH:D059366,0,,2,PTGS1|PTGS2
+phenylacetaldehyde dehydrogenase activity,GO:0008957,Asthma,MESH:D001249,0,,1,ALDH2
+phosphatase activity,GO:0016791,Asthma,MESH:D001249,1,Cadmium,1,PTEN
+"phosphatidylinositol-3,4,5-trisphosphate 3-phosphatase activity",GO:0016314,Asthma,MESH:D001249,0,,1,PTEN
+"phosphatidylinositol-3,4-bisphosphate 3-phosphatase activity",GO:0051800,Asthma,MESH:D001249,0,,1,PTEN
+phosphatidylinositol-3-phosphate binding,GO:0032266,"Asthma, Occupational",MESH:D059366,0,,1,PLA2G4A
+phosphatidylinositol-3-phosphate phosphatase activity,GO:0004438,Asthma,MESH:D001249,0,,1,PTEN
+"phosphatidylinositol-4,5-bisphosphate binding",GO:0005546,Asthma,MESH:D001249,0,,1,GSDMB
+phosphatidylinositol-4-phosphate binding,GO:0070273,Asthma,MESH:D001249,0,,1,GSDMB
+phosphatidylinositol-4-phosphate binding,GO:0070273,"Asthma, Occupational",MESH:D059366,0,,1,PLA2G4A
+phosphatidylinositol-5-phosphate binding,GO:0010314,"Asthma, Occupational",MESH:D059366,0,,1,PLA2G4A
+phosphatidylinositol binding,GO:0035091,Asthma,MESH:D001249,0,,1,PTEN
+phosphatidylinositol kinase activity,GO:0052742,Asthma,MESH:D001249,0,,1,IL6R
+phosphatidylinositol phosphate phosphatase activity,GO:0052866,Asthma,MESH:D001249,0,,1,PTEN
+phosphatidylinositol phospholipase C activity,GO:0004435,Asthma,MESH:D001249,0,,1,CCL5
+phosphatidylserine binding,GO:0001786,Asthma,MESH:D001249,0,,1,GSDMB
+phosphoenolpyruvate carboxykinase activity,GO:0004611,Asthma,MESH:D001249,3,Arsenic|Arsenic Trioxide|Streptozocin,0,
+phosphofructokinase activity,GO:0008443,Asthma,MESH:D001249,1,bisphenol A,0,
+phospholipase A2 activity,GO:0004623,Asthma,MESH:D001249,3,Cadmium|Cromolyn Sodium|Dexamethasone,0,
+phospholipase A2 activity,GO:0004623,"Asthma, Occupational",MESH:D059366,0,,1,PLA2G4A
+phospholipase activator activity,GO:0016004,Asthma,MESH:D001249,0,,1,CCL5
+phospholipase activity,GO:0004620,"Asthma, Occupational",MESH:D059366,0,,1,PLA2G4A
+phospholipase D activity,GO:0004630,Asthma,MESH:D001249,0,,1,HMOX1
+phospholipid binding,GO:0005543,Asthma,MESH:D001249,0,,2,GSDMB|PLA2G7
+phosphoprotein binding,GO:0051219,"Asthma, Aspirin-Induced",MESH:D055963,0,,1,MS4A2
+phosphoprotein phosphatase activity,GO:0004721,Asthma,MESH:D001249,0,,2,PPP2CA|PTEN
+phosphoric diester hydrolase activity,GO:0008081,Asthma,MESH:D001249,0,,1,PDE4D
+pituitary adenylate cyclase-activating polypeptide receptor activity,GO:0001634,Asthma,MESH:D001249,0,,1,ADCYAP1R1
+platelet-derived growth factor receptor binding,GO:0005161,Asthma,MESH:D001249,0,,2,PTEN|VEGFA
+plus-end-directed microtubule motor activity,GO:0008574,Asthma,MESH:D001249,0,,1,KIF3A
+polysaccharide binding,GO:0030247,Asthma,MESH:D001249,0,,1,HLA-DRB1
+polyubiquitin modification-dependent protein binding,GO:0031593,Asthma,MESH:D001249,0,,1,TNIP1
+promoter-specific chromatin binding,GO:1990841,Asthma,MESH:D001249,0,,2,DNMT1|IKZF3
+prostacyclin receptor activity,GO:0016501,"Asthma, Aspirin-Induced",MESH:D055963,0,,2,PTGER2|PTGIR
+prostacyclin receptor activity,GO:0016501,"Asthma, Nasal Polyps, And Aspirin Intolerance",MESH:C565935,0,,1,PTGER2
+prostaglandin D receptor activity,GO:0004956,Asthma,MESH:D001249,0,,1,PTGDR2
+prostaglandin D receptor activity,GO:0004956,"Asthma, Aspirin-Induced",MESH:D055963,0,,2,PTGDR2|PTGER2
+prostaglandin D receptor activity,GO:0004956,"Asthma, Nasal Polyps, And Aspirin Intolerance",MESH:C565935,0,,1,PTGER2
+prostaglandin D receptor activity,GO:0004956,"ASTHMA-RELATED TRAITS, SUSCEPTIBILITY TO, 1",OMIM:607277,0,,1,PTGDR
+prostaglandin-endoperoxide synthase activity,GO:0004666,Asthma,MESH:D001249,1,Particulate Matter,0,
+prostaglandin-endoperoxide synthase activity,GO:0004666,"Asthma, Aspirin-Induced",MESH:D055963,0,,1,PTGS2
+prostaglandin-endoperoxide synthase activity,GO:0004666,"Asthma, Occupational",MESH:D059366,0,,2,PTGS1|PTGS2
+prostaglandin E receptor activity,GO:0004957,"Asthma, Aspirin-Induced",MESH:D055963,0,,1,PTGER2
+prostaglandin E receptor activity,GO:0004957,"Asthma, Nasal Polyps, And Aspirin Intolerance",MESH:C565935,0,,1,PTGER2
+prostaglandin E receptor activity,GO:0004957,"ASTHMA-RELATED TRAITS, SUSCEPTIBILITY TO, 1",OMIM:607277,0,,1,PTGDR
+prostaglandin F receptor activity,GO:0004958,Asthma,MESH:D001249,0,,1,PTGDR2
+prostaglandin F receptor activity,GO:0004958,"Asthma, Aspirin-Induced",MESH:D055963,0,,1,PTGDR2
+prostaglandin J receptor activity,GO:0001785,Asthma,MESH:D001249,0,,1,PTGDR2
+prostaglandin J receptor activity,GO:0001785,"Asthma, Aspirin-Induced",MESH:D055963,0,,1,PTGDR2
+prostaglandin J receptor activity,GO:0001785,"ASTHMA-RELATED TRAITS, SUSCEPTIBILITY TO, 1",OMIM:607277,0,,1,PTGDR
+prostaglandin receptor activity,GO:0004955,"ASTHMA-RELATED TRAITS, SUSCEPTIBILITY TO, 1",OMIM:607277,0,,1,PTGDR
+protease binding,GO:0002020,Asthma,MESH:D001249,0,,3,BCL2|TIMP3|TNF
+protease binding,GO:0002020,"Asthma, Occupational",MESH:D059366,0,,1,TNF
+proteasome binding,GO:0070628,Asthma,MESH:D001249,1,Formaldehyde,0,
+protein antigen binding,GO:1990405,Asthma,MESH:D001249,0,,1,PPP2CA
+protein binding,GO:0005515,Asthma,MESH:D001249,1,Glutathione,76,ADCY2|ADCYAP1R1|AGER|ALDH2|ALOX5|AREG|ARG1|ARG2|BCL2|BGLAP|CCL11|CCL2|CCL5|CD14|CDHR3|CLDN18|CTLA4|CTNNA3|CXCL14|DNAH5|DNMT1|EDN1|FOXP3|GSTM1|GSTP1|HLA-DPB1|HLA-DQA1|HLA-DQB1|HLA-DRB1|HLA-G|HMOX1|HTR2A|ICAM1|IKZF3|IL10|IL13|IL1B|IL1RL1|IL1RN|IL33|IL4|IL5|IL6|IL6R|KIF3A|KRT19|MMP1|MMP9|MUC7|MYB|NAT1|NOS2|NPY|NQO1|ORMDL3|PARP1|PDE4B|PDE4D|PLA2G7|PLAU|PPP2CA|PTEN|RAD50|SCGB3A2|SOD1|STAT4|TBX21|TGFB1|TIMP3|TNC|TNF|TNIP1|TRPA1|TSLP|VEGFA|WDR36
+protein binding,GO:0005515,"Asthma, Aspirin-Induced",MESH:D055963,0,,10,CCR3|CYSLTR1|CYSLTR2|HLA-DPB1|LTC4S|MS4A2|POSTN|PTGS2|TBX21|TBXA2R
+protein binding,GO:0005515,"Asthma, Nasal Polyps, And Aspirin Intolerance",MESH:C565935,0,,1,TBX21
+protein binding,GO:0005515,"Asthma, Occupational",MESH:D059366,0,,10,AGER|CDH17|HERC2|PRKCA|PRKD1|PTGS1|PTGS2|TENM3|TGFB1|TNF
+protein binding,GO:0005515,"ASTHMA-RELATED TRAITS, SUSCEPTIBILITY TO, 1",OMIM:607277,0,,1,PTGDR
+protein binding,GO:0005515,"ASTHMA-RELATED TRAITS, SUSCEPTIBILITY TO, 5",OMIM:611064,0,,1,IRAK3
+protein binding,GO:0005515,"ASTHMA-RELATED TRAITS, SUSCEPTIBILITY TO, 7",OMIM:611960,0,,1,CHI3L1
+protein-containing complex binding,GO:0044877,Asthma,MESH:D001249,0,,10,AGER|BCL2|HTR2A|ICAM1|KIF3A|KRT19|MMP9|PPP2CA|RAD50|TGFB1
+protein-containing complex binding,GO:0044877,"Asthma, Aspirin-Induced",MESH:D055963,0,,1,LTC4S
+protein-containing complex binding,GO:0044877,"Asthma, Occupational",MESH:D059366,0,,2,AGER|TGFB1
+protein dimerization activity,GO:0046983,Asthma,MESH:D001249,0,,3,CCL11|IL10|PARP1
+protein disulfide isomerase activity,GO:0003756,Asthma,MESH:D001249,1,bisphenol A,0,
+protein domain specific binding,GO:0019904,Asthma,MESH:D001249,0,,3,DNMT1|IL1B|PPP2CA
+protein-glutamine gamma-glutamyltransferase activity,GO:0003810,Asthma,MESH:D001249,1,Cadmium,0,
+protein heterodimerization activity,GO:0046982,Asthma,MESH:D001249,1,Cyclic AMP,3,BCL2|IKZF3|PPP2CA
+protein heterodimerization activity,GO:0046982,"Asthma, Occupational",MESH:D059366,0,,1,TENM3
+protein heterodimerization activity,GO:0046982,"ASTHMA-RELATED TRAITS, SUSCEPTIBILITY TO, 5",OMIM:611064,0,,1,IRAK3
+protein homodimerization activity,GO:0042803,Asthma,MESH:D001249,0,,13,BCL2|CAT|CCL5|FOXP3|GSTM1|HLA-G|HMOX1|IKZF3|IL6R|NOS2|PARP1|SOD1|VEGFA
+protein homodimerization activity,GO:0042803,"Asthma, Aspirin-Induced",MESH:D055963,0,,1,PTGS2
+protein homodimerization activity,GO:0042803,"Asthma, Occupational",MESH:D059366,0,,2,PTGS2|TENM3
+protein homodimerization activity,GO:0042803,"ASTHMA-RELATED TRAITS, SUSCEPTIBILITY TO, 5",OMIM:611064,0,,1,IRAK3
+protein kinase activity,GO:0004672,Asthma,MESH:D001249,0,,3,CCL2|CCL5|PPP2CA
+protein kinase activity,GO:0004672,"Asthma, Occupational",MESH:D059366,0,,2,PRKCA|PRKD1
+protein kinase activity,GO:0004672,"ASTHMA-RELATED TRAITS, SUSCEPTIBILITY TO, 5",OMIM:611064,0,,1,IRAK3
+protein kinase B binding,GO:0043422,Asthma,MESH:D001249,0,,1,PPP2CA
+protein kinase binding,GO:0019901,Asthma,MESH:D001249,0,,6,GSTM1|GSTP1|NOS2|PARP1|PPP2CA|PTEN
+protein kinase binding,GO:0019901,"Asthma, Aspirin-Induced",MESH:D055963,0,,1,MS4A2
+protein kinase binding,GO:0019901,"ASTHMA-RELATED TRAITS, SUSCEPTIBILITY TO, 5",OMIM:611064,0,,1,IRAK3
+protein kinase C activity,GO:0004697,Asthma,MESH:D001249,6,Chlordan|DDT|Heptachlor|Hexachlorocyclohexane|Paraquat|Streptozocin,0,
+protein kinase C activity,GO:0004697,"Asthma, Occupational",MESH:D059366,0,,2,PRKCA|PRKD1
+protein kinase C binding,GO:0005080,"Asthma, Occupational",MESH:D059366,0,,1,PRKD1
+protein lysine deacetylase activity,GO:0033558,Asthma,MESH:D001249,1,Paraquat,0,
+protein-macromolecule adaptor activity,GO:0030674,Asthma,MESH:D001249,0,,1,RAD50
+protein phosphatase 2A binding,GO:0051721,Asthma,MESH:D001249,0,,2,BCL2|PPP2CA
+protein phosphatase 2B binding,GO:0030346,Asthma,MESH:D001249,0,,1,SOD1
+protein phosphatase binding,GO:0019903,Asthma,MESH:D001249,0,,3,BCL2|KIF3A|PPP2CA
+protein serine kinase activity,GO:0106310,"Asthma, Occupational",MESH:D059366,0,,2,PRKCA|PRKD1
+protein serine/threonine kinase activator activity,GO:0043539,Asthma,MESH:D001249,0,,2,RAD50|TGFB1
+protein serine/threonine kinase activator activity,GO:0043539,"Asthma, Occupational",MESH:D059366,0,,1,TGFB1
+protein serine/threonine kinase activity,GO:0004674,Asthma,MESH:D001249,1,Streptozocin,1,PPP2CA
+protein serine/threonine kinase activity,GO:0004674,"Asthma, Occupational",MESH:D059366,0,,2,PRKCA|PRKD1
+protein serine/threonine kinase activity,GO:0004674,"ASTHMA-RELATED TRAITS, SUSCEPTIBILITY TO, 5",OMIM:611064,0,,1,IRAK3
+protein serine/threonine phosphatase activity,GO:0004722,Asthma,MESH:D001249,0,,2,PPP2CA|PTEN
+protein tyrosine kinase activator activity,GO:0030296,Asthma,MESH:D001249,0,,1,HTR2A
+protein tyrosine kinase activity,GO:0004713,"ASTHMA-RELATED TRAITS, SUSCEPTIBILITY TO, 5",OMIM:611064,0,,1,IRAK3
+protein tyrosine kinase binding,GO:1990782,Asthma,MESH:D001249,0,,1,PTEN
+protein tyrosine phosphatase activity,GO:0004725,Asthma,MESH:D001249,3,Arsenic Trioxide|Particulate Matter|Vehicle Emissions,2,PPP2CA|PTEN
+"protein tyrosine phosphatase activity, metal-dependent",GO:0030946,Asthma,MESH:D001249,0,,1,PTEN
+protein tyrosine/serine/threonine phosphatase activity,GO:0008138,Asthma,MESH:D001249,0,,1,PTEN
+proton-dependent oligopeptide secondary active transmembrane transporter activity,GO:0005427,"Asthma, Occupational",MESH:D059366,0,,1,CDH17
+"proton-transporting ATPase activity, rotational mechanism",GO:0046961,Asthma,MESH:D001249,4,Arsenic|epigallocatechin gallate|Resveratrol|Zinc,0,
+"proton-transporting ATP synthase activity, rotational mechanism",GO:0046933,Asthma,MESH:D001249,2,Air Pollutants|Particulate Matter,0,
+P-type calcium transporter activity,GO:0005388,Asthma,MESH:D001249,5,Arsenic|Arsenic Trioxide|bisphenol A|Cadmium|Tobacco Smoke Pollution,0,
+P-type magnesium transporter activity,GO:0015444,Asthma,MESH:D001249,2,Arsenic|Cadmium,0,
+P-type sodium:potassium-exchanging transporter activity,GO:0005391,Asthma,MESH:D001249,12,Adenosine|Arsenic|Arsenic Trioxide|bisphenol A|Cadmium|Dietary Fats|Glyphosate|Isoproterenol|Resveratrol|Streptozocin|Tobacco Smoke Pollution|Zinc,0,
+P-type sodium:potassium-exchanging transporter activity,GO:0005391,"Asthma, Occupational",MESH:D059366,1,Silicon Dioxide,0,
+P-type sodium:potassium-exchanging transporter activity,GO:0005391,Status Asthmaticus,MESH:D013224,1,Isoproterenol,0,
+pyruvate dehydrogenase (acetyl-transferring) activity,GO:0004739,Asthma,MESH:D001249,1,Dietary Fats,0,
+pyruvate dehydrogenase activity,GO:0004738,Asthma,MESH:D001249,2,Captan|Dietary Fats,0,
+pyruvate kinase activity,GO:0004743,Asthma,MESH:D001249,3,Air Pollutants|Particulate Matter|Streptozocin,0,
+receptor ligand activity,GO:0048018,Asthma,MESH:D001249,0,,6,AREG|CCL11|EDN1|IL1B|TNF|VEGFA
+receptor ligand activity,GO:0048018,"Asthma, Occupational",MESH:D059366,0,,1,TNF
+receptor signaling protein tyrosine kinase activator activity,GO:0030298,Asthma,MESH:D001249,0,,1,CCL5
+ribonuclease activity,GO:0004540,Asthma,MESH:D001249,0,,1,RNASE3
+RNA binding,GO:0003723,Asthma,MESH:D001249,0,,4,AGER|DNMT1|IL6R|NAT1
+RNA binding,GO:0003723,"Asthma, Occupational",MESH:D059366,0,,2,AGER|PRKD1
+RNA polymerase II cis-regulatory region sequence-specific DNA binding,GO:0000978,Asthma,MESH:D001249,1,Tobacco Smoke Pollution,5,FOXP3|IKZF3|MYB|STAT4|TBX21
+RNA polymerase II cis-regulatory region sequence-specific DNA binding,GO:0000978,"Asthma, Aspirin-Induced",MESH:D055963,0,,1,TBX21
+RNA polymerase II cis-regulatory region sequence-specific DNA binding,GO:0000978,"Asthma, Nasal Polyps, And Aspirin Intolerance",MESH:C565935,0,,1,TBX21
+RNA polymerase II-specific DNA-binding transcription factor binding,GO:0061629,Asthma,MESH:D001249,0,,1,PARP1
+RNA polymerase II transcription regulatory region sequence-specific DNA binding,GO:0000977,Asthma,MESH:D001249,0,,1,IKZF3
+R-SMAD binding,GO:0070412,Asthma,MESH:D001249,0,,1,PARP1
+S100 protein binding,GO:0044548,Asthma,MESH:D001249,0,,1,AGER
+S100 protein binding,GO:0044548,"Asthma, Occupational",MESH:D059366,0,,1,AGER
+S-adenosylmethionine-dependent methyltransferase activity,GO:0008757,Asthma,MESH:D001249,0,,2,DNMT1|HNMT
+scaffold protein binding,GO:0097110,Asthma,MESH:D001249,0,,1,PDE4D
+scavenger receptor activity,GO:0005044,Asthma,MESH:D001249,0,,1,AGER
+scavenger receptor activity,GO:0005044,"Asthma, Occupational",MESH:D059366,0,,1,AGER
+selenol Se-methyltransferase activity,GO:0098603,Asthma,MESH:D001249,0,,1,HNMT
+sequence-specific DNA binding,GO:0043565,Asthma,MESH:D001249,0,,5,BCL2|FOXP3|IKZF3|STAT4|TBX21
+sequence-specific DNA binding,GO:0043565,"Asthma, Aspirin-Induced",MESH:D055963,0,,1,TBX21
+sequence-specific DNA binding,GO:0043565,"Asthma, Nasal Polyps, And Aspirin Intolerance",MESH:C565935,0,,1,TBX21
+sequence-specific double-stranded DNA binding,GO:1990837,Asthma,MESH:D001249,0,,2,FOXP3|TBX21
+sequence-specific double-stranded DNA binding,GO:1990837,"Asthma, Aspirin-Induced",MESH:D055963,0,,1,TBX21
+sequence-specific double-stranded DNA binding,GO:1990837,"Asthma, Nasal Polyps, And Aspirin Intolerance",MESH:C565935,0,,1,TBX21
+serine-type endopeptidase activity,GO:0004252,Asthma,MESH:D001249,0,,4,MMP1|MMP10|MMP9|PLAU
+serine-type endopeptidase inhibitor activity,GO:0004867,Asthma,MESH:D001249,0,,1,OVAL
+serotonin binding,GO:0051378,Asthma,MESH:D001249,0,,1,HTR2A
+serotonin receptor activity,GO:0099589,Asthma,MESH:D001249,0,,1,HTR2A
+S-formylglutathione hydrolase activity,GO:0018738,Asthma,MESH:D001249,0,,1,HTR2A
+SH2 domain binding,GO:0042169,"Asthma, Aspirin-Induced",MESH:D055963,0,,1,MS4A2
+signaling receptor activity,GO:0038023,Asthma,MESH:D001249,0,,3,ADCYAP1R1|AGER|ICAM1
+signaling receptor activity,GO:0038023,"Asthma, Occupational",MESH:D059366,0,,1,AGER
+signaling receptor binding,GO:0005102,Asthma,MESH:D001249,0,,6,CCL2|EDN1|HLA-G|IFNL3|IL6|NPY
+signaling receptor binding,GO:0005102,"Asthma, Occupational",MESH:D059366,0,,1,PRKCA
+signaling receptor regulator activity,GO:0030545,Asthma,MESH:D001249,0,,1,PDE4D
+single-stranded DNA endodeoxyribonuclease activity,GO:0000014,Asthma,MESH:D001249,0,,1,RAD50
+single-stranded telomeric DNA binding,GO:0043047,Asthma,MESH:D001249,0,,1,RAD50
+small GTPase binding,GO:0031267,Asthma,MESH:D001249,0,,3,ADCYAP1R1|KIF3A|SOD1
+S-nitrosoglutathione binding,GO:0035730,Asthma,MESH:D001249,0,,1,GSTP1
+sodium channel activity,GO:0005272,Asthma,MESH:D001249,2,Cadmium|Resveratrol,0,
+spectrin binding,GO:0030507,Asthma,MESH:D001249,0,,1,KIF3A
+starch synthase activity,GO:0009011,Asthma,MESH:D001249,2,Dietary Fats|Streptozocin,0,
+steroid binding,GO:0005496,Asthma,MESH:D001249,0,,2,GSTM1|HSD11B2
+steroid hydroxylase activity,GO:0008395,Asthma,MESH:D001249,1,bisphenol A,0,
+steroid sulfotransferase activity,GO:0050294,Asthma,MESH:D001249,1,Triclosan,0,
+"stretch-activated, monoatomic cation-selective, calcium channel activity",GO:0015275,Asthma,MESH:D001249,0,,1,MMP1
+structural constituent of bone,GO:0008147,Asthma,MESH:D001249,0,,1,BGLAP
+structural constituent of cytoskeleton,GO:0005200,Asthma,MESH:D001249,0,,2,HLA-DRB1|KRT19
+structural constituent of muscle,GO:0008307,Asthma,MESH:D001249,0,,1,KRT19
+structural constituent of ribosome,GO:0003735,Asthma,MESH:D001249,0,,1,NQO1
+structural constituent of ribosome,GO:0003735,"Asthma, Occupational",MESH:D059366,0,,1,PRKD1
+structural molecule activity,GO:0005198,Asthma,MESH:D001249,0,,5,BGLAP|CLDN18|CTNNA3|HMOX1|KRT19
+succinate dehydrogenase activity,GO:0000104,Asthma,MESH:D001249,10,Arsenic|Arsenic Trioxide|bisphenol A|Cadmium|Captan|Dietary Fats|Isoproterenol|Streptozocin|Tobacco Smoke Pollution|Zinc,0,
+succinate dehydrogenase activity,GO:0000104,Status Asthmaticus,MESH:D013224,1,Isoproterenol,0,
+succinate dehydrogenase (ubiquinone) activity,GO:0008177,Asthma,MESH:D001249,14,Acetaminophen|Arsenic|Arsenic Trioxide|Aspirin|bisphenol A|Cadmium|Dietary Fats|epigallocatechin gallate|Heparin|Isoproterenol|Mercury|Paraquat|Streptozocin|Triclosan,0,
+succinate dehydrogenase (ubiquinone) activity,GO:0008177,"Asthma, Aspirin-Induced",MESH:D055963,1,Aspirin,0,
+succinate dehydrogenase (ubiquinone) activity,GO:0008177,"Asthma, Nasal Polyps, And Aspirin Intolerance",MESH:C565935,1,Aspirin,0,
+succinate dehydrogenase (ubiquinone) activity,GO:0008177,Status Asthmaticus,MESH:D013224,1,Isoproterenol,0,
+sucrose alpha-glucosidase activity,GO:0004575,Asthma,MESH:D001249,4,bisphenol A|geraniol|Paraquat|Streptozocin,0,
+sulfotransferase activity,GO:0008146,Asthma,MESH:D001249,1,Tartrazine,0,
+SUMO binding,GO:0032183,"Asthma, Occupational",MESH:D059366,0,,1,HERC2
+superoxide dismutase activity,GO:0004784,Asthma,MESH:D001249,63,"2,4-Dichlorophenoxyacetic Acid|Acetaminophen|Air Pollutants|Air Pollutants, Occupational|Aluminum Hydroxide|Arsenic|Arsenic Trioxide|Artesunate|Aspirin|Beclomethasone|Benzo(a)pyrene|bisphenol A|Cadmium|Carbimazole|Carbon Tetrachloride|Cocaine|DDT|Dexamethasone|Dietary Fats|Drugs, Chinese Herbal|Dust|Emodin|Ephedrine|epigallocatechin gallate|Formaldehyde|geraniol|Glutathione|Glyphosate|Hexachlorocyclohexane|Hydrogen Sulfide|Ibuprofen|Isoproterenol|Lansoprazole|Malathion|Mercury|Methotrexate|montelukast|Nifedipine|Ovalbumin|Ozone|Paraquat|Particulate Matter|pendimethalin|perfluorooctane sulfonic acid|Permethrin|Pesticides|phenanthrene|Phenobarbital|Plant Preparations|Prednisolone|Resveratrol|Roflumilast|Salicylic Acid|Smoke|Soot|Streptozocin|Sulfur Dioxide|syringin|Tobacco Smoke Pollution|tranilast|Vehicle Emissions|Vitamin A|Zinc",2,NQO1|SOD1
+superoxide dismutase activity,GO:0004784,"Asthma, Aspirin-Induced",MESH:D055963,2,Aspirin|montelukast,0,
+superoxide dismutase activity,GO:0004784,"Asthma, Exercise-Induced",MESH:D001250,1,montelukast,0,
+superoxide dismutase activity,GO:0004784,"Asthma, Nasal Polyps, And Aspirin Intolerance",MESH:C565935,1,Aspirin,0,
+superoxide dismutase activity,GO:0004784,"Asthma, Occupational",MESH:D059366,2,Plant Preparations|Silicon Dioxide,0,
+superoxide dismutase activity,GO:0004784,Status Asthmaticus,MESH:D013224,5,Beclomethasone|Isoflurane|Isoproterenol|Ketamine|Prednisolone,0,
+superoxide-generating NADPH oxidase activity,GO:0106292,Asthma,MESH:D001249,1,bisphenol A,0,
+syndecan binding,GO:0045545,Asthma,MESH:D001249,0,,1,TNC
+tau protein binding,GO:0048156,Asthma,MESH:D001249,0,,1,PPP2CA
+T cell receptor binding,GO:0042608,Asthma,MESH:D001249,0,,1,HLA-DRB1
+telomerase activity,GO:0003720,Asthma,MESH:D001249,6,Air Pollutants|Arsenic Trioxide|Benzo(a)pyrene|bisphenol A|Glutathione|Particulate Matter,0,
+temperature-gated cation channel activity,GO:0097604,Asthma,MESH:D001249,0,,1,TRPA1
+testosterone 6-beta-hydroxylase activity,GO:0050649,Asthma,MESH:D001249,2,Dexamethasone|Phenobarbital,0,
+testosterone dehydrogenase [NAD(P)] activity,GO:0030283,Asthma,MESH:D001249,1,bisphenol A,0,
+tetrahydrobiopterin binding,GO:0034617,Asthma,MESH:D001249,0,,1,NOS2
+thiamine pyrophosphate binding,GO:0030976,Asthma,MESH:D001249,0,,1,TBX21
+thiamine pyrophosphate binding,GO:0030976,"Asthma, Aspirin-Induced",MESH:D055963,0,,1,TBX21
+thiamine pyrophosphate binding,GO:0030976,"Asthma, Nasal Polyps, And Aspirin Intolerance",MESH:C565935,0,,1,TBX21
+thioredoxin-disulfide reductase activity,GO:0004791,Asthma,MESH:D001249,4,Cadmium|geraniol|Mercury|Streptozocin,0,
+thromboxane A2 receptor activity,GO:0004961,"Asthma, Aspirin-Induced",MESH:D055963,0,,1,TBXA2R
+thromboxane receptor activity,GO:0004960,"Asthma, Aspirin-Induced",MESH:D055963,0,,3,PTGER2|PTGIR|TBXA2R
+thromboxane receptor activity,GO:0004960,"Asthma, Nasal Polyps, And Aspirin Intolerance",MESH:C565935,0,,1,PTGER2
+thromboxane receptor activity,GO:0004960,"ASTHMA-RELATED TRAITS, SUSCEPTIBILITY TO, 1",OMIM:607277,0,,1,PTGDR
+toxic substance binding,GO:0015643,Asthma,MESH:D001249,0,,1,GSTP1
+transaminase activity,GO:0008483,Asthma,MESH:D001249,2,Arsenic|Glyphosate,0,
+transcription cis-regulatory region binding,GO:0000976,Asthma,MESH:D001249,0,,3,TBX21|TNF|TRPA1
+transcription cis-regulatory region binding,GO:0000976,"Asthma, Aspirin-Induced",MESH:D055963,0,,1,TBX21
+transcription cis-regulatory region binding,GO:0000976,"Asthma, Nasal Polyps, And Aspirin Intolerance",MESH:C565935,0,,1,TBX21
+transcription cis-regulatory region binding,GO:0000976,"Asthma, Occupational",MESH:D059366,0,,1,TNF
+transcription corepressor activity,GO:0003714,Asthma,MESH:D001249,0,,1,FOXP3
+transcription factor binding,GO:0008134,Asthma,MESH:D001249,0,,1,BCL2
+transcription regulator activator activity,GO:0140537,Asthma,MESH:D001249,0,,1,PARP1
+transferase activity,GO:0016740,Asthma,MESH:D001249,0,,5,DNMT1|GSTM1|GSTP1|HNMT|PARP1
+transferase activity,GO:0016740,"Asthma, Aspirin-Induced",MESH:D055963,0,,1,LTC4S
+transferase activity,GO:0016740,"Asthma, Occupational",MESH:D059366,0,,1,PRKD1
+transferase activity,GO:0016740,"ASTHMA-RELATED TRAITS, SUSCEPTIBILITY TO, 5",OMIM:611064,0,,1,IRAK3
+transforming growth factor beta receptor binding,GO:0005160,Asthma,MESH:D001249,0,,1,TGFB1
+transforming growth factor beta receptor binding,GO:0005160,"Asthma, Occupational",MESH:D059366,0,,1,TGFB1
+transition metal ion binding,GO:0046914,Asthma,MESH:D001249,0,,1,BGLAP
+translation initiation factor activity,GO:0003743,Asthma,MESH:D001249,0,,3,DNMT1|MMP10|NAT1
+transmembrane receptor protein tyrosine kinase activator activity,GO:0030297,Asthma,MESH:D001249,0,,2,AREG|VEGFA
+transmembrane signaling receptor activity,GO:0004888,Asthma,MESH:D001249,0,,2,AGER|ICAM1
+transmembrane signaling receptor activity,GO:0004888,"Asthma, Occupational",MESH:D059366,0,,1,AGER
+transmembrane transporter binding,GO:0044325,Asthma,MESH:D001249,0,,3,PDE4B|PDE4D|PPP2CA
+trehalase activity,GO:0015927,Asthma,MESH:D001249,1,Ozone,0,
+triglyceride lipase activity,GO:0004806,Asthma,MESH:D001249,1,Dietary Fats,0,
+"tryptophan 2,3-dioxygenase activity",GO:0004833,Asthma,MESH:D001249,1,Cadmium,0,
+tumor necrosis factor receptor binding,GO:0005164,Asthma,MESH:D001249,0,,1,TNF
+tumor necrosis factor receptor binding,GO:0005164,"Asthma, Occupational",MESH:D059366,0,,1,TNF
+type 2 neuropeptide Y receptor binding,GO:0031843,Asthma,MESH:D001249,0,,1,NPY
+type III transforming growth factor beta receptor binding,GO:0034714,Asthma,MESH:D001249,0,,1,TGFB1
+type III transforming growth factor beta receptor binding,GO:0034714,"Asthma, Occupational",MESH:D059366,0,,1,TGFB1
+type II transforming growth factor beta receptor binding,GO:0005114,Asthma,MESH:D001249,0,,1,TGFB1
+type II transforming growth factor beta receptor binding,GO:0005114,"Asthma, Occupational",MESH:D059366,0,,1,TGFB1
+type I transforming growth factor beta receptor binding,GO:0034713,Asthma,MESH:D001249,0,,1,TGFB1
+type I transforming growth factor beta receptor binding,GO:0034713,"Asthma, Occupational",MESH:D059366,0,,1,TGFB1
+tyrosinase activity,GO:0004503,Asthma,MESH:D001249,1,bisphenol A,0,
+ubiquinol-cytochrome-c reductase activity,GO:0008121,Asthma,MESH:D001249,11,Acetaminophen|Arsenic|Arsenic Trioxide|bisphenol A|Cadmium|epigallocatechin gallate|Isoproterenol|Mercury|Paraquat|pyrazolanthrone|Triclosan,0,
+ubiquinol-cytochrome-c reductase activity,GO:0008121,Status Asthmaticus,MESH:D013224,1,Isoproterenol,0,
+ubiquitin binding,GO:0043130,Asthma,MESH:D001249,0,,1,PTEN
+ubiquitin ligase activator activity,GO:1990757,Asthma,MESH:D001249,0,,1,PTEN
+ubiquitin protein ligase activity,GO:0061630,"Asthma, Occupational",MESH:D059366,0,,1,HERC2
+ubiquitin protein ligase binding,GO:0031625,Asthma,MESH:D001249,0,,3,BCL2|PARP1|PYHIN1
+ubiquitin protein ligase binding,GO:0031625,"Asthma, Occupational",MESH:D059366,0,,1,HERC2
+ubiquitin-protein transferase activity,GO:0004842,Asthma,MESH:D001249,0,,1,IKZF3
+ubiquitin-protein transferase activity,GO:0004842,"Asthma, Occupational",MESH:D059366,0,,1,HERC2
+ubiquitin-specific protease binding,GO:1990381,Asthma,MESH:D001249,0,,1,PTEN
+vascular endothelial growth factor receptor 1 binding,GO:0043183,Asthma,MESH:D001249,0,,1,VEGFA
+vascular endothelial growth factor receptor 2 binding,GO:0043184,Asthma,MESH:D001249,0,,1,VEGFA
+vascular endothelial growth factor receptor binding,GO:0005172,Asthma,MESH:D001249,0,,1,VEGFA
+vasoactive intestinal polypeptide receptor activity,GO:0004999,Asthma,MESH:D001249,0,,1,ADCYAP1R1
+vasopressin receptor activity,GO:0005000,Asthma,MESH:D001249,0,,1,NPSR1
+vasopressin receptor activity,GO:0005000,"ASTHMA-RELATED TRAITS, SUSCEPTIBILITY TO, 2",OMIM:608584,0,,1,NPSR1
+virus receptor activity,GO:0001618,Asthma,MESH:D001249,0,,3,CDHR3|HTR2A|ICAM1
+voltage-gated calcium channel activity,GO:0005245,Asthma,MESH:D001249,1,bisphenol A,1,TRPA1
+voltage-gated monoatomic ion channel activity,GO:0005244,Asthma,MESH:D001249,1,geraniol,0,
+voltage-gated potassium channel activity,GO:0005249,Asthma,MESH:D001249,2,bisphenol A|Chlordan,0,
+voltage-gated sodium channel activity,GO:0005248,Asthma,MESH:D001249,1,bisphenol A,0,
+voltage-gated sodium channel activity involved in cardiac muscle cell action potential,GO:0086006,Asthma,MESH:D001249,2,bisphenol A|Terfenadine,0,
+WD40-repeat domain binding,GO:0071987,Asthma,MESH:D001249,0,,1,MYB
+wide pore channel activity,GO:0022829,Asthma,MESH:D001249,0,,1,GSDMB
+xanthine oxidase activity,GO:0004855,Asthma,MESH:D001249,2,Benzo(a)pyrene|Zinc,0,
+zinc ion binding,GO:0008270,Asthma,MESH:D001249,1,Arsenic,9,DNMT1|FOXP3|IKZF3|MMP1|MMP10|MMP9|PARP1|SOD1|TIMP3
+zinc ion binding,GO:0008270,"Asthma, Occupational",MESH:D059366,0,,3,HERC2|PRKCA|PRKD1

@@ -1,0 +1,325 @@
+GOName,GOID,DiseaseName,DiseaseID,InferenceChemicalQty,InferenceChemicalNames,InferenceGeneQty,InferenceGeneSymbols
+actin filament bundle,GO:0032432,"Lupus Erythematosus, Systemic",MESH:D008180,1,Particulate Matter,0,
+aggresome,GO:0016235,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,CLU
+alpha-beta T cell receptor complex,GO:0042105,"Lupus Erythematosus, Cutaneous",MESH:D008178,0,,1,TCRA
+alveolar lamellar body,GO:0097208,"Lupus Erythematosus, Systemic",MESH:D008180,1,Particulate Matter,0,
+apical dendrite,GO:0097440,"Lupus Erythematosus, Systemic",MESH:D008180,0,,2,CLU|FAS
+apical dendrite,GO:0097440,Lupus Nephritis,MESH:D008181,0,,1,FAS
+apical plasma membrane,GO:0016324,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,FAS
+apical plasma membrane,GO:0016324,Lupus Nephritis,MESH:D008181,0,,1,FAS
+apoptotic body,GO:0097189,"Lupus Erythematosus, Systemic",MESH:D008180,1,Indomethacin,0,
+autolysosome,GO:0044754,"Lupus Erythematosus, Cutaneous",MESH:D008178,3,Chloroquine|Rifampin|Sertraline,0,
+autolysosome,GO:0044754,"Lupus Erythematosus, Discoid",MESH:D008179,1,Chloroquine,0,
+autolysosome,GO:0044754,"Lupus Erythematosus, Systemic",MESH:D008180,2,Chloroquine|Rifampin,0,
+autolysosome,GO:0044754,Lupus Nephritis,MESH:D008181,1,Rifampin,0,
+autolysosome membrane,GO:0120281,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,HLA-DRB1
+autophagosome,GO:0005776,Chilblain lupus 1,MESH:C535924,0,,1,STING1
+autophagosome,GO:0005776,"Lupus Erythematosus, Cutaneous",MESH:D008178,1,Chloroquine,0,
+autophagosome,GO:0005776,"Lupus Erythematosus, Discoid",MESH:D008179,1,Chloroquine,0,
+autophagosome,GO:0005776,"Lupus Erythematosus, Systemic",MESH:D008180,3,Chloroquine|Indomethacin|Melatonin,0,
+autophagosome membrane,GO:0000421,Chilblain lupus 1,MESH:C535924,0,,1,STING1
+axon,GO:0030424,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,ANXA3
+axon,GO:0030424,Lupus Nephritis,MESH:D008181,0,,1,STAT1
+azurophil granule lumen,GO:0035578,Lupus Nephritis,MESH:D008181,0,,1,C3
+azurophil granule membrane,GO:0035577,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,SYNGR1
+basal plasma membrane,GO:0009925,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,P2RY12
+beta-catenin-TCF complex,GO:1990907,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,TCF7
+catalase complex,GO:0062151,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,CAT
+caveola,GO:0005901,"Lupus Erythematosus, Systemic",MESH:D008180,0,,2,P2RY12|PTGS2
+CD95 death-inducing signaling complex,GO:0031265,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,FAS
+CD95 death-inducing signaling complex,GO:0031265,Lupus Nephritis,MESH:D008181,0,,1,FAS
+cell body,GO:0044297,"Lupus Erythematosus, Systemic",MESH:D008180,0,,2,CD40LG|FCGR2B
+cell body membrane,GO:0044298,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,P2RY12
+cell-cell junction,GO:0005911,"Lupus Erythematosus, Cutaneous",MESH:D008178,1,Fluorouracil,0,
+cell-cell junction,GO:0005911,"Lupus Erythematosus, Systemic",MESH:D008180,0,,2,CSK|DEF6
+cell periphery,GO:0071944,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,CLU
+cell projection,GO:0042995,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,CD40LG
+cell projection,GO:0042995,Lupus Nephritis,MESH:D008181,1,Lipopolysaccharides,0,
+cell projection membrane,GO:0031253,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,P2RY12
+cell surface,GO:0009986,"Lupus Erythematosus, Cutaneous",MESH:D008178,0,,1,TCRA
+cell surface,GO:0009986,"Lupus Erythematosus, Systemic",MESH:D008180,0,,12,CD226|CD40LG|CLU|CR2|FAS|FCGR2A|FCGR2B|HLA-DRB1|IL12B|IRAK4|ITGAM|TNFSF4
+cell surface,GO:0009986,Lupus Nephritis,MESH:D008181,0,,2,C3|FAS
+cell surface,GO:0009986,"Lupus Vasculitis, Central Nervous System",MESH:D020945,0,,2,FCGR3A|ITGAM
+cellular_component,GO:0005575,"Lupus Erythematosus, Systemic",MESH:D008180,0,,2,BLTP3A|PCNX3
+centriolar satellite,GO:0034451,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,PXK
+centriole,GO:0005814,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,CD226
+centrosome,GO:0005813,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,CD226
+chromaffin granule,GO:0042583,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,CLU
+chromatin,GO:0000785,"Lupus Erythematosus, Systemic",MESH:D008180,0,,4,ETS1|IRF5|STAT4|TCF7
+chromatin,GO:0000785,Lupus Nephritis,MESH:D008181,0,,1,STAT1
+chromosome,GO:0005694,Chilblain lupus 1,MESH:C535924,0,,1,SAMHD1
+chromosome,GO:0005694,CHILBLAIN LUPUS 2,OMIM:614415,0,,1,SAMHD1
+chromosome,GO:0005694,"Lupus Erythematosus, Systemic",MESH:D008180,0,,2,IKZF1|TERT
+"chromosome, telomeric region",GO:0000781,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,TERT
+ciliary basal body,GO:0036064,Chilblain lupus 1,MESH:C535924,0,,1,STING1
+ciliary basal body,GO:0036064,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,CD226
+cilium,GO:0005929,Chilblain lupus 1,MESH:C535924,0,,1,STING1
+classical-complement-pathway C3/C5 convertase complex,GO:0005601,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,CFB
+clathrin-coated endocytic vesicle,GO:0045334,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,CTLA4
+clathrin-coated endocytic vesicle membrane,GO:0030669,"Lupus Erythematosus, Systemic",MESH:D008180,0,,2,HLA-DQA1|HLA-DRB1
+collagen-containing extracellular matrix,GO:0062023,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,CLU
+collagen trimer,GO:0005581,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,C1QA
+complement component C1 complex,GO:0005602,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,C1QA
+complement component C1q complex,GO:0062167,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,C1QA
+cortical granule,GO:0060473,Lupus Nephritis,MESH:D008181,1,Lipopolysaccharides,0,
+cytoplasm,GO:0005737,Chilblain lupus 1,MESH:C535924,0,,2,STING1|TREX1
+cytoplasm,GO:0005737,"Lupus Erythematosus, Systemic",MESH:D008180,0,,26,ANXA3|BANK1|CAT|CLU|CRP|CSK|DEF6|DNASE1|ETS1|FCGR2B|IFIH1|IKZF1|IL12B|IRAK4|IRF5|NCF1|PRDM1|PTGS2|PTPN22|PXK|RASGRP3|STAT4|TERT|TNFAIP3|TNIP1|TREX1
+cytoplasm,GO:0005737,Lupus Nephritis,MESH:D008181,0,,2,JAK1|STAT1
+cytoplasmic side of plasma membrane,GO:0009898,"Lupus Erythematosus, Systemic",MESH:D008180,0,,2,NCF1|PTPN22
+cytoplasmic side of plasma membrane,GO:0009898,Lupus Nephritis,MESH:D008181,0,,1,JAK1
+cytoplasmic vesicle,GO:0031410,Chilblain lupus 1,MESH:C535924,0,,1,STING1
+cytoplasmic vesicle,GO:0031410,"Lupus Erythematosus, Cutaneous",MESH:D008178,2,Chloroquine|Hydroxychloroquine,0,
+cytoplasmic vesicle,GO:0031410,"Lupus Erythematosus, Discoid",MESH:D008179,2,Chloroquine|Hydroxychloroquine,0,
+cytoplasmic vesicle,GO:0031410,"Lupus Erythematosus, Systemic",MESH:D008180,2,Chloroquine|Hydroxychloroquine,2,CLU|DNASE1
+cytoplasmic vesicle membrane,GO:0030659,Chilblain lupus 1,MESH:C535924,0,,1,STING1
+cytoskeleton,GO:0005856,"Lupus Erythematosus, Systemic",MESH:D008180,0,,3,CLU|DEF6|FCGR2B
+cytoskeleton,GO:0005856,Lupus Nephritis,MESH:D008181,0,,1,JAK1
+cytosol,GO:0005829,Chilblain lupus 1,MESH:C535924,0,,2,STING1|TREX1
+cytosol,GO:0005829,"Lupus Erythematosus, Discoid",MESH:D008179,0,,1,OGG1
+cytosol,GO:0005829,"Lupus Erythematosus, Systemic",MESH:D008180,0,,26,BLK|CAT|CLEC16A|CLU|CSK|DEF6|FAS|IFIH1|IKZF1|IL12B|IRAK4|IRF5|JAZF1|NCF1|PTGS2|PTPN22|PXK|RASGRP1|RASGRP3|SH2B3|SIGLEC6|STAT4|TERT|TNFAIP3|TNIP1|TREX1
+cytosol,GO:0005829,Lupus Nephritis,MESH:D008181,0,,3,FAS|JAK1|STAT1
+death-inducing signaling complex,GO:0031264,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,FAS
+death-inducing signaling complex,GO:0031264,Lupus Nephritis,MESH:D008181,0,,1,FAS
+dendrite,GO:0030425,"Lupus Erythematosus, Systemic",MESH:D008180,0,,3,ANXA3|CLU|NCF1
+dendrite,GO:0030425,Lupus Nephritis,MESH:D008181,0,,2,MMP2|STAT1
+dendritic branch,GO:0044307,Lupus Nephritis,MESH:D008181,1,Dexamethasone,0,
+dendritic spine,GO:0043197,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,FCGR2B
+early endosome,GO:0005769,"Lupus Erythematosus, Cutaneous",MESH:D008178,2,Chloroquine|Hydroxychloroquine,0,
+early endosome,GO:0005769,"Lupus Erythematosus, Discoid",MESH:D008179,2,Chloroquine|Hydroxychloroquine,0,
+early endosome,GO:0005769,"Lupus Erythematosus, Systemic",MESH:D008180,2,Chloroquine|Hydroxychloroquine,1,PXK
+early endosome membrane,GO:0031901,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,SLC15A4
+endocytic vesicle membrane,GO:0030666,"Lupus Erythematosus, Systemic",MESH:D008180,0,,2,HLA-DQA1|HLA-DRB1
+endolysosome,GO:0036019,"Lupus Erythematosus, Cutaneous",MESH:D008178,2,Chloroquine|Hydroxychloroquine,0,
+endolysosome,GO:0036019,"Lupus Erythematosus, Discoid",MESH:D008179,2,Chloroquine|Hydroxychloroquine,0,
+endolysosome,GO:0036019,"Lupus Erythematosus, Systemic",MESH:D008180,2,Chloroquine|Hydroxychloroquine,0,
+endolysosome membrane,GO:0036020,"Lupus Erythematosus, Systemic",MESH:D008180,0,,2,CLEC16A|SLC15A4
+endomembrane system,GO:0012505,Lupus Nephritis,MESH:D008181,0,,1,JAK1
+endoplasmic reticulum,GO:0005783,Chilblain lupus 1,MESH:C535924,0,,2,STING1|TREX1
+endoplasmic reticulum,GO:0005783,"Lupus Erythematosus, Systemic",MESH:D008180,0,,5,CLU|DNASE1L3|PTGS2|RASGRP1|TREX1
+endoplasmic reticulum-Golgi intermediate compartment membrane,GO:0033116,Chilblain lupus 1,MESH:C535924,0,,1,STING1
+endoplasmic reticulum lumen,GO:0005788,"Lupus Erythematosus, Systemic",MESH:D008180,0,,3,IL12B|IL6|PTGS2
+endoplasmic reticulum lumen,GO:0005788,Lupus Nephritis,MESH:D008181,0,,2,C3|SERPING1
+endoplasmic reticulum membrane,GO:0005789,Chilblain lupus 1,MESH:C535924,0,,2,STING1|TREX1
+endoplasmic reticulum membrane,GO:0005789,"Lupus Erythematosus, Systemic",MESH:D008180,0,,3,PTGS2|RASGRP1|TREX1
+endosome,GO:0005768,Chilblain lupus 1,MESH:C535924,0,,1,STING1
+endosome,GO:0005768,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,FAS
+endosome,GO:0005768,Lupus Nephritis,MESH:D008181,0,,2,FAS|JAK1
+endosome lumen,GO:0031904,"Lupus Erythematosus, Systemic",MESH:D008180,0,,2,IL12B|PRL
+endosome membrane,GO:0010008,"Lupus Erythematosus, Systemic",MESH:D008180,0,,3,CLEC16A|IRAK4|SLC15A4
+ER to Golgi transport vesicle membrane,GO:0012507,"Lupus Erythematosus, Systemic",MESH:D008180,0,,2,HLA-DQA1|HLA-DRB1
+euchromatin,GO:0000791,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,TCF7
+external side of plasma membrane,GO:0009897,"Lupus Erythematosus, Cutaneous",MESH:D008178,0,,1,TCRA
+external side of plasma membrane,GO:0009897,"Lupus Erythematosus, Systemic",MESH:D008180,0,,14,CD226|CD40LG|CR2|CTLA4|FAS|FCGR2A|FCGR2B|HLA-DRB1|IL12B|IL21R|IL4|IL6|ITGAM|P2RY12
+external side of plasma membrane,GO:0009897,Lupus Nephritis,MESH:D008181,0,,3,FAS|IFNG|MMP2
+external side of plasma membrane,GO:0009897,"Lupus Vasculitis, Central Nervous System",MESH:D020945,0,,2,FCGR3A|ITGAM
+extracellular exosome,GO:0070062,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,CFB
+extracellular matrix,GO:0031012,Chilblain lupus 1,MESH:C535924,0,,1,SAMHD1
+extracellular matrix,GO:0031012,CHILBLAIN LUPUS 2,OMIM:614415,0,,1,SAMHD1
+extracellular matrix,GO:0031012,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,TLR5
+extracellular matrix,GO:0031012,Lupus Nephritis,MESH:D008181,0,,2,MMP2|MMP9
+extracellular matrix of synaptic cleft,GO:0098965,Lupus Nephritis,MESH:D008181,0,,1,MMP9
+extracellular region,GO:0005576,"Lupus Erythematosus, Systemic",MESH:D008180,0,,17,C1QA|CAT|CD40LG|CFB|CLU|CRP|DNASE1|DNASE1L3|FAS|FCGR2B|IL10|IL12B|IL21|IL4|IL6|PRL|SIGLEC6
+extracellular region,GO:0005576,Lupus Nephritis,MESH:D008181,0,,7,C3|FAS|FCGR3B|IFNG|MMP2|MMP9|SERPING1
+extracellular region,GO:0005576,"Lupus Vasculitis, Central Nervous System",MESH:D020945,0,,1,FCGR3B
+extracellular space,GO:0005615,"Lupus Erythematosus, Systemic",MESH:D008180,0,,18,CAT|CD226|CD40LG|CFB|CLU|CR2|CRP|FAS|IL10|IL12B|IL21|IL4|IL6|IRAK4|ITGAM|PRL|TLR5|TNFSF4
+extracellular space,GO:0005615,Lupus Nephritis,MESH:D008181,0,,6,C3|FAS|IFNG|MMP2|MMP9|SERPING1
+extracellular space,GO:0005615,"Lupus Vasculitis, Central Nervous System",MESH:D020945,0,,2,FCGR3A|ITGAM
+extrinsic component of cytoplasmic side of plasma membrane,GO:0031234,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,BLK
+extrinsic component of cytoplasmic side of plasma membrane,GO:0031234,Lupus Nephritis,MESH:D008181,0,,1,JAK1
+extrinsic component of endosome membrane,GO:0031313,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,PXK
+extrinsic component of plasma membrane,GO:0019897,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,IRAK4
+extrinsic component of postsynaptic membrane,GO:0098890,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,C1QA
+extrinsic component of presynaptic membrane,GO:0098888,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,C1QA
+Fc-gamma receptor III complex,GO:0033001,"Lupus Vasculitis, Central Nervous System",MESH:D020945,0,,1,FCGR3A
+fibrillar center,GO:0001650,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,JAZF1
+ficolin-1-rich granule lumen,GO:1904813,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,CAT
+ficolin-1-rich granule lumen,GO:1904813,Lupus Nephritis,MESH:D008181,0,,1,MMP9
+filamentous actin,GO:0031941,"Lupus Erythematosus, Cutaneous",MESH:D008178,1,Quinacrine,0,
+filamentous actin,GO:0031941,"Lupus Erythematosus, Systemic",MESH:D008180,2,Estradiol|Quinacrine,0,
+filamentous actin,GO:0031941,Lupus Nephritis,MESH:D008181,1,Dexamethasone,0,
+filopodium,GO:0030175,"Lupus Erythematosus, Systemic",MESH:D008180,0,,2,CRP|DEF6
+germinal vesicle,GO:0042585,"Lupus Erythematosus, Systemic",MESH:D008180,1,Cyclophosphamide,0,
+germinal vesicle,GO:0042585,Lupus Nephritis,MESH:D008181,1,Cyclophosphamide,0,
+germinal vesicle,GO:0042585,"Lupus Vasculitis, Central Nervous System",MESH:D020945,1,Cyclophosphamide,0,
+glutamatergic synapse,GO:0098978,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,C1QA
+glutamatergic synapse,GO:0098978,Lupus Nephritis,MESH:D008181,0,,1,MMP9
+Golgi apparatus,GO:0005794,Chilblain lupus 1,MESH:C535924,0,,1,STING1
+Golgi apparatus,GO:0005794,"Lupus Erythematosus, Systemic",MESH:D008180,0,,5,CD40LG|CLEC16A|CLU|CTLA4|RASGRP1
+Golgi lumen,GO:0005796,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,IL12B
+Golgi membrane,GO:0000139,Chilblain lupus 1,MESH:C535924,0,,1,STING1
+Golgi membrane,GO:0000139,"Lupus Erythematosus, Systemic",MESH:D008180,0,,3,HLA-DQA1|HLA-DRB1|RASGRP1
+growth cone,GO:0030426,"Lupus Erythematosus, Systemic",MESH:D008180,0,,2,CLU|CRP
+guanyl-nucleotide exchange factor complex,GO:0032045,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,RASGRP3
+"IgE immunoglobulin complex, circulating",GO:0071743,"Lupus Erythematosus, Systemic",MESH:D008180,1,Particulate Matter,0,
+"IgE immunoglobulin complex, circulating",GO:0071743,Lupus Nephritis,MESH:D008181,1,Dexamethasone,0,
+"IgG immunoglobulin complex, circulating",GO:0071736,Lupus Nephritis,MESH:D008181,1,Dexamethasone,0,
+immunological synapse,GO:0001772,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,HLA-DRB1
+integrin alphaM-beta2 complex,GO:0034688,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,ITGAM
+integrin alphaM-beta2 complex,GO:0034688,"Lupus Vasculitis, Central Nervous System",MESH:D020945,0,,1,ITGAM
+integrin complex,GO:0008305,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,ITGAM
+integrin complex,GO:0008305,"Lupus Vasculitis, Central Nervous System",MESH:D020945,0,,1,ITGAM
+interleukin-12 complex,GO:0043514,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,IL12B
+interleukin-23 complex,GO:0070743,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,IL12B
+interleukin-6 receptor complex,GO:0005896,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,IL6
+intermediate filament,GO:0005882,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,HLA-DRB1
+intracellular membrane-bounded organelle,GO:0043231,"Lupus Erythematosus, Systemic",MESH:D008180,0,,4,CAT|CLU|PTGS2|TERT
+ISGF3 complex,GO:0070721,Lupus Nephritis,MESH:D008181,0,,1,STAT1
+lamellar body,GO:0042599,"Lupus Erythematosus, Cutaneous",MESH:D008178,1,Chloroquine,0,
+lamellar body,GO:0042599,"Lupus Erythematosus, Discoid",MESH:D008179,1,Chloroquine,0,
+lamellar body,GO:0042599,"Lupus Erythematosus, Systemic",MESH:D008180,1,Chloroquine,0,
+late endosome,GO:0005770,"Lupus Erythematosus, Systemic",MESH:D008180,0,,3,BLTP3A|CLEC16A|PXK
+late endosome lumen,GO:0031906,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,IL12B
+late endosome membrane,GO:0031902,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,HLA-DRB1
+lumenal side of endoplasmic reticulum membrane,GO:0098553,"Lupus Erythematosus, Systemic",MESH:D008180,0,,2,HLA-DQA1|HLA-DRB1
+lysosomal membrane,GO:0005765,Chilblain lupus 1,MESH:C535924,0,,1,STING1
+lysosomal membrane,GO:0005765,"Lupus Erythematosus, Systemic",MESH:D008180,0,,4,CLEC16A|HLA-DQA1|HLA-DRB1|SLC15A4
+lysosome,GO:0005764,"Lupus Erythematosus, Cutaneous",MESH:D008178,1,Chloroquine,0,
+lysosome,GO:0005764,"Lupus Erythematosus, Discoid",MESH:D008179,1,Chloroquine,0,
+lysosome,GO:0005764,"Lupus Erythematosus, Systemic",MESH:D008180,1,Chloroquine,1,TNFAIP3
+major mitochondrial derivative,GO:0016008,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,CAT
+melanosome,GO:0042470,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,SYNGR1
+membrane,GO:0016020,Chilblain lupus 1,MESH:C535924,0,,1,STING1
+membrane,GO:0016020,"Lupus Erythematosus, Systemic",MESH:D008180,0,,25,ANXA3|CD226|CD40LG|CFB|CLU|CR2|CRP|CTLA4|FAS|FCGR2B|HLA-DRB1|IL12B|IL21R|ITGAM|NCF1|P2RY12|PCNX3|PTGS2|RASGRP1|SIGLEC6|SLC15A4|SYNGR1|TERT|TLR5|TNFSF4
+membrane,GO:0016020,Lupus Nephritis,MESH:D008181,0,,3,FAS|JAK1|SERPING1
+membrane,GO:0016020,"Lupus Vasculitis, Central Nervous System",MESH:D020945,0,,1,ITGAM
+membrane raft,GO:0045121,"Lupus Erythematosus, Systemic",MESH:D008180,0,,3,CD226|FAS|ITGAM
+membrane raft,GO:0045121,Lupus Nephritis,MESH:D008181,0,,1,FAS
+membrane raft,GO:0045121,"Lupus Vasculitis, Central Nervous System",MESH:D020945,0,,1,ITGAM
+MHC class II protein complex,GO:0042613,"Lupus Erythematosus, Systemic",MESH:D008180,0,,2,HLA-DQA1|HLA-DRB1
+mitochondria-associated endoplasmic reticulum membrane,GO:0044233,"Lupus Erythematosus, Systemic",MESH:D008180,2,Homocysteine|Particulate Matter,0,
+mitochondrial inner membrane,GO:0005743,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,CLU
+mitochondrial matrix,GO:0005759,"Lupus Erythematosus, Discoid",MESH:D008179,0,,1,OGG1
+mitochondrial membrane,GO:0031966,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,CLU
+mitochondrial nucleoid,GO:0042645,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,TERT
+mitochondrial outer membrane,GO:0005741,Chilblain lupus 1,MESH:C535924,0,,1,STING1
+mitochondrial proton-transporting ATP synthase complex,GO:0005753,Lupus Nephritis,MESH:D008181,1,Lipopolysaccharides,0,
+mitochondrial respirasome,GO:0005746,Lupus Nephritis,MESH:D008181,1,arsenic disulfide,0,
+mitochondrial respiratory chain complex I,GO:0005747,Lupus Nephritis,MESH:D008181,1,Lipopolysaccharides,0,
+mitochondrial respiratory chain complex III,GO:0005750,Lupus Nephritis,MESH:D008181,1,Lipopolysaccharides,0,
+mitochondrion,GO:0005739,"Lupus Erythematosus, Discoid",MESH:D008179,0,,1,OGG1
+mitochondrion,GO:0005739,"Lupus Erythematosus, Systemic",MESH:D008180,3,Folic Acid|Particulate Matter|triptolide,4,CAT|CLU|IFIH1|TERT
+mitochondrion,GO:0005739,Lupus Nephritis,MESH:D008181,0,,1,MMP2
+mucus layer,GO:0070701,"Lupus Erythematosus, Systemic",MESH:D008180,1,Particulate Matter,0,
+NADPH oxidase complex,GO:0043020,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,NCF1
+neurofibrillary tangle,GO:0097418,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,CLU
+neuromuscular junction,GO:0031594,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,SYNGR1
+neuronal cell body,GO:0043025,"Lupus Erythematosus, Systemic",MESH:D008180,0,,3,ANXA3|FAS|NCF1
+neuronal cell body,GO:0043025,Lupus Nephritis,MESH:D008181,0,,1,FAS
+neuron projection,GO:0043005,"Lupus Erythematosus, Cutaneous",MESH:D008178,1,Valproic Acid,0,
+neuron projection,GO:0043005,"Lupus Erythematosus, Systemic",MESH:D008180,2,Aspirin|Valproic Acid,1,PTGS2
+neuron projection,GO:0043005,Lupus Nephritis,MESH:D008181,1,Niclosamide,0,
+NLRP3 inflammasome complex,GO:0072559,Lupus Nephritis,MESH:D008181,1,Lipopolysaccharides,0,
+nuclear body,GO:0016604,"Lupus Erythematosus, Systemic",MESH:D008180,0,,3,FAS|STAT4|TCF7
+nuclear body,GO:0016604,Lupus Nephritis,MESH:D008181,0,,1,FAS
+nuclear envelope,GO:0005635,Chilblain lupus 1,MESH:C535924,0,,1,TREX1
+nuclear envelope,GO:0005635,"Lupus Erythematosus, Systemic",MESH:D008180,0,,2,DNASE1|TREX1
+nuclear inner membrane,GO:0005637,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,PTGS2
+nuclear matrix,GO:0016363,"Lupus Erythematosus, Discoid",MESH:D008179,0,,1,OGG1
+nuclear outer membrane,GO:0005640,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,PTGS2
+nuclear replication fork,GO:0043596,Chilblain lupus 1,MESH:C535924,0,,1,TREX1
+nuclear replication fork,GO:0043596,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,TREX1
+nuclear speck,GO:0016607,"Lupus Erythematosus, Discoid",MESH:D008179,0,,1,OGG1
+nuclear speck,GO:0016607,"Lupus Erythematosus, Systemic",MESH:D008180,0,,2,CLEC16A|TERT
+nuclear telomere cap complex,GO:0000783,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,TERT
+nucleolus,GO:0005730,"Lupus Erythematosus, Systemic",MESH:D008180,0,,2,PRDM1|TERT
+nucleolus,GO:0005730,Lupus Nephritis,MESH:D008181,0,,1,STAT1
+nucleoplasm,GO:0005654,Chilblain lupus 1,MESH:C535924,0,,2,SAMHD1|STING1
+nucleoplasm,GO:0005654,CHILBLAIN LUPUS 2,OMIM:614415,0,,1,SAMHD1
+nucleoplasm,GO:0005654,"Lupus Erythematosus, Discoid",MESH:D008179,0,,1,OGG1
+nucleoplasm,GO:0005654,"Lupus Erythematosus, Systemic",MESH:D008180,0,,10,DEF6|ETS1|IKZF1|IRF5|JAZF1|PRDM1|STAT4|TCF7|TERT|TNIP1
+nucleoplasm,GO:0005654,Lupus Nephritis,MESH:D008181,0,,1,STAT1
+nucleus,GO:0005634,Chilblain lupus 1,MESH:C535924,0,,2,SAMHD1|TREX1
+nucleus,GO:0005634,CHILBLAIN LUPUS 2,OMIM:614415,0,,1,SAMHD1
+nucleus,GO:0005634,"Lupus Erythematosus, Discoid",MESH:D008179,0,,1,OGG1
+nucleus,GO:0005634,"Lupus Erythematosus, Systemic",MESH:D008180,1,triptolide,20,CLU|CRP|DEF6|DNASE1|DNASE1L3|ETS1|IFIH1|IKZF1|IRF5|ITGAM|JAZF1|PRDM1|PTPN22|PXK|STAT4|TCF7|TERT|TNFAIP3|TNIP1|TREX1
+nucleus,GO:0005634,Lupus Nephritis,MESH:D008181,0,,3,JAK1|MMP2|STAT1
+nucleus,GO:0005634,"Lupus Vasculitis, Central Nervous System",MESH:D020945,0,,1,ITGAM
+oligosaccharyltransferase complex,GO:0008250,Chilblain lupus 1,MESH:C535924,0,,1,TREX1
+oligosaccharyltransferase complex,GO:0008250,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,TREX1
+pericentric heterochromatin,GO:0005721,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,IKZF1
+perikaryon,GO:0043204,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,CLU
+perikaryon,GO:0043204,Lupus Nephritis,MESH:D008181,0,,1,IFNG
+perinuclear endoplasmic reticulum lumen,GO:0099020,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,CLU
+perinuclear region of cytoplasm,GO:0048471,Chilblain lupus 1,MESH:C535924,0,,1,STING1
+perinuclear region of cytoplasm,GO:0048471,"Lupus Erythematosus, Systemic",MESH:D008180,0,,7,BANK1|CLU|CTLA4|DEF6|FAS|PTPN22|RASGRP3
+perinuclear region of cytoplasm,GO:0048471,Lupus Nephritis,MESH:D008181,0,,2,FAS|STAT1
+peroxisomal matrix,GO:0005782,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,CAT
+peroxisomal membrane,GO:0005778,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,CAT
+peroxisome,GO:0005777,Chilblain lupus 1,MESH:C535924,0,,1,STING1
+peroxisome,GO:0005777,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,CAT
+phagocytic vesicle membrane,GO:0030670,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,ANXA3
+phagolysosome,GO:0032010,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,NCF1
+phosphopantothenoylcysteine decarboxylase complex,GO:0071513,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,CSK
+photoreceptor outer segment,GO:0001750,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,CD40LG
+plasma membrane,GO:0005886,Chilblain lupus 1,MESH:C535924,0,,2,SAMHD1|STING1
+plasma membrane,GO:0005886,CHILBLAIN LUPUS 2,OMIM:614415,0,,1,SAMHD1
+plasma membrane,GO:0005886,"Lupus Erythematosus, Systemic",MESH:D008180,0,,30,ANXA3|BLK|CD226|CD40LG|CFB|CR2|CSK|CTLA4|DEF6|FAS|FCGR2A|FCGR2B|HLA-DQA1|HLA-DRB1|IL21R|IRAK4|ITGAM|NCF1|P2RY12|PHRF1|PXK|RASGRP1|RASGRP3|SH2B3|SIGLEC6|SLC15A4|SYNGR1|TERT|TLR5|TNFSF4
+plasma membrane,GO:0005886,Lupus Nephritis,MESH:D008181,0,,6,C3|FAS|FCGR3B|JAK1|MMP2|SERPING1
+plasma membrane,GO:0005886,"Lupus Vasculitis, Central Nervous System",MESH:D020945,0,,3,FCGR3A|FCGR3B|ITGAM
+plasma membrane raft,GO:0044853,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,ITGAM
+plasma membrane raft,GO:0044853,"Lupus Vasculitis, Central Nervous System",MESH:D020945,0,,1,ITGAM
+platelet alpha granule lumen,GO:0031093,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,CLU
+platelet alpha granule lumen,GO:0031093,Lupus Nephritis,MESH:D008181,0,,1,SERPING1
+PML body,GO:0016605,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,TERT
+postsynapse,GO:0098794,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,C1QA
+"postsynaptic density, intracellular component",GO:0099092,Lupus Nephritis,MESH:D008181,0,,1,MMP9
+protein complex involved in cell adhesion,GO:0098636,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,CTLA4
+protein-containing complex,GO:0032991,"Lupus Erythematosus, Discoid",MESH:D008179,0,,1,OGG1
+protein-containing complex,GO:0032991,"Lupus Erythematosus, Systemic",MESH:D008180,0,,5,CAT|CLU|IKZF1|PTGS2|PXK
+protein-containing complex,GO:0032991,Lupus Nephritis,MESH:D008181,0,,3,C3|MMP9|STAT1
+protein-DNA complex,GO:0032993,Chilblain lupus 1,MESH:C535924,0,,1,TREX1
+protein-DNA complex,GO:0032993,"Lupus Erythematosus, Systemic",MESH:D008180,0,,2,IKZF1|TREX1
+receptor complex,GO:0043235,"Lupus Erythematosus, Systemic",MESH:D008180,0,,3,BLK|CR2|CSK
+receptor complex,GO:0043235,Lupus Nephritis,MESH:D008181,0,,1,JAK1
+recycling endosome,GO:0055037,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,FCGR2B
+ribonuclease P complex,GO:0030677,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,PXK
+ribonucleoprotein complex,GO:1990904,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,JAZF1
+RNA-directed RNA polymerase complex,GO:0031379,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,TERT
+RNA polymerase II transcription regulator complex,GO:0090575,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,STAT4
+RNA polymerase II transcription regulator complex,GO:0090575,Lupus Nephritis,MESH:D008181,0,,1,STAT1
+sarcolemma,GO:0042383,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,FAS
+sarcolemma,GO:0042383,Lupus Nephritis,MESH:D008181,0,,1,FAS
+sarcomere,GO:0030017,Lupus Nephritis,MESH:D008181,0,,1,MMP2
+Schaffer collateral - CA1 synapse,GO:0098685,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,SYNGR1
+Schaffer collateral - CA1 synapse,GO:0098685,Lupus Nephritis,MESH:D008181,0,,1,MMP9
+secretory granule,GO:0030141,"Lupus Erythematosus, Systemic",MESH:D008180,0,,2,FAS|PRL
+secretory granule,GO:0030141,Lupus Nephritis,MESH:D008181,0,,1,FAS
+secretory granule lumen,GO:0034774,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,CAT
+secretory granule lumen,GO:0034774,Lupus Nephritis,MESH:D008181,0,,1,C3
+secretory granule membrane,GO:0030667,Chilblain lupus 1,MESH:C535924,0,,1,STING1
+secretory granule membrane,GO:0030667,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,FCGR2A
+secretory granule membrane,GO:0030667,Lupus Nephritis,MESH:D008181,0,,1,FCGR3B
+secretory granule membrane,GO:0030667,"Lupus Vasculitis, Central Nervous System",MESH:D020945,0,,1,FCGR3B
+serine/threonine protein kinase complex,GO:1902554,Chilblain lupus 1,MESH:C535924,0,,1,STING1
+site of double-strand break,GO:0035861,Chilblain lupus 1,MESH:C535924,0,,1,SAMHD1
+site of double-strand break,GO:0035861,CHILBLAIN LUPUS 2,OMIM:614415,0,,1,SAMHD1
+site of double-strand break,GO:0035861,"Lupus Erythematosus, Systemic",MESH:D008180,1,8-Hydroxy-2'-Deoxyguanosine,0,
+specific granule,GO:0042581,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,ANXA3
+specific granule membrane,GO:0035579,"Lupus Erythematosus, Systemic",MESH:D008180,0,,2,ITGAM|SLC15A4
+specific granule membrane,GO:0035579,"Lupus Vasculitis, Central Nervous System",MESH:D020945,0,,1,ITGAM
+spherical high-density lipoprotein particle,GO:0034366,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,CLU
+STING complex,GO:1990231,Chilblain lupus 1,MESH:C535924,0,,1,STING1
+synapse,GO:0045202,"Lupus Erythematosus, Systemic",MESH:D008180,0,,2,C1QA|CLU
+synaptic vesicle,GO:0008021,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,SYNGR1
+synaptic vesicle membrane,GO:0030672,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,SYNGR1
+T cell receptor complex,GO:0042101,"Lupus Erythematosus, Cutaneous",MESH:D008178,0,,1,TCRA
+telomerase catalytic core complex,GO:0000333,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,TERT
+telomerase holoenzyme complex,GO:0005697,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,TERT
+tertiary granule lumen,GO:1904724,Lupus Nephritis,MESH:D008181,0,,1,MMP9
+tertiary granule membrane,GO:0070821,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,ITGAM
+tertiary granule membrane,GO:0070821,"Lupus Vasculitis, Central Nervous System",MESH:D020945,0,,1,ITGAM
+TERT-RMRP complex,GO:1990572,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,TERT
+tetraspanin-enriched microdomain,GO:0097197,Chilblain lupus 1,MESH:C535924,0,,1,SAMHD1
+tetraspanin-enriched microdomain,GO:0097197,CHILBLAIN LUPUS 2,OMIM:614415,0,,1,SAMHD1
+transcription regulator complex,GO:0005667,"Lupus Erythematosus, Systemic",MESH:D008180,0,,2,ETS1|IKZF1
+transcription repressor complex,GO:0017053,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,JAZF1
+trans-Golgi network membrane,GO:0032588,"Lupus Erythematosus, Systemic",MESH:D008180,0,,2,HLA-DQA1|HLA-DRB1
+transport vesicle membrane,GO:0030658,"Lupus Erythematosus, Systemic",MESH:D008180,0,,2,HLA-DQA1|HLA-DRB1
+tubulin complex,GO:0045298,"Lupus Erythematosus, Systemic",MESH:D008180,1,Particulate Matter,0,
+tubulobulbar complex,GO:0036284,"Lupus Erythematosus, Systemic",MESH:D008180,1,Estradiol,0,
+vesicle,GO:0031982,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,CLEC16A
+virion component,GO:0044423,"Lupus Erythematosus, Cutaneous",MESH:D008178,1,Chloroquine,0,
+virion component,GO:0044423,"Lupus Erythematosus, Discoid",MESH:D008179,1,Chloroquine,0,
+virion component,GO:0044423,"Lupus Erythematosus, Systemic",MESH:D008180,1,Chloroquine,0,
+Z disc,GO:0030018,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,CRP
+zymogen granule,GO:0042588,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,DNASE1

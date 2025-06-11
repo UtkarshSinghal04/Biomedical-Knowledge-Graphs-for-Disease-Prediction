@@ -1,0 +1,61 @@
+GOName,GOID,DiseaseName,DiseaseID,InferenceChemicalQty,InferenceChemicalNames,InferenceGeneQty,InferenceGeneSymbols
+14-3-3 protein binding,GO:0071889,"Sleep Disorders, Circadian Rhythm",MESH:D020178,0,,1,AANAT
+acetylcholinesterase activity,GO:0003990,"Sleep Disorders, Circadian Rhythm",MESH:D020178,1,Melatonin,0,
+acyltransferase activity,GO:0016746,"Sleep Disorders, Circadian Rhythm",MESH:D020178,0,,1,AANAT
+"acyltransferase activity, transferring groups other than amino-acyl groups",GO:0016747,"Sleep Disorders, Circadian Rhythm",MESH:D020178,0,,1,AANAT
+antioxidant activity,GO:0016209,"Sleep Disorders, Circadian Rhythm",MESH:D020178,1,Melatonin,0,
+aralkylamine N-acetyltransferase activity,GO:0004059,"Sleep Disorders, Circadian Rhythm",MESH:D020178,0,,1,AANAT
+arginase activity,GO:0004053,"Sleep Disorders, Circadian Rhythm",MESH:D020178,1,Haloperidol,0,
+arginase activity,GO:0004053,"Sleep Disorders, Intrinsic",MESH:D020919,1,Haloperidol,0,
+arylamine N-acetyltransferase activity,GO:0004060,"Sleep Disorders, Circadian Rhythm",MESH:D020178,0,,1,AANAT
+ATP-dependent activity,GO:0140657,"Sleep Disorders, Circadian Rhythm",MESH:D020178,1,Haloperidol,0,
+ATP-dependent activity,GO:0140657,"Sleep Disorders, Intrinsic",MESH:D020919,1,Haloperidol,0,
+bHLH transcription factor binding,GO:0043425,"Sleep Disorders, Circadian Rhythm",MESH:D020178,0,,1,BHLHE40
+blue light photoreceptor activity,GO:0009882,"Sleep Disorders, Circadian Rhythm",MESH:D020178,0,,1,CRY1
+delayed rectifier potassium channel activity,GO:0005251,"Sleep Disorders, Circadian Rhythm",MESH:D020178,0,,1,AANAT
+DNA binding,GO:0003677,"Sleep Disorders, Circadian Rhythm",MESH:D020178,0,,4,BHLHE40|CRY1|NFIL3|RORC
+DNA-binding transcription factor activity,GO:0003700,"Sleep Disorders, Circadian Rhythm",MESH:D020178,0,,3,BHLHE40|NFIL3|RORC
+"DNA-binding transcription factor activity, RNA polymerase II-specific",GO:0000981,"Sleep Disorders, Circadian Rhythm",MESH:D020178,0,,3,BHLHE40|NFIL3|RORC
+DNA-binding transcription factor binding,GO:0140297,"Sleep Disorders, Circadian Rhythm",MESH:D020178,0,,1,CRY1
+"DNA-binding transcription repressor activity, RNA polymerase II-specific",GO:0001227,"Sleep Disorders, Circadian Rhythm",MESH:D020178,0,,3,BHLHE40|NFIL3|RORC
+double-stranded DNA binding,GO:0003690,"Sleep Disorders, Circadian Rhythm",MESH:D020178,0,,1,CRY1
+E-box binding,GO:0070888,"Sleep Disorders, Circadian Rhythm",MESH:D020178,0,,2,BHLHE40|CRY1
+FAD binding,GO:0071949,"Sleep Disorders, Circadian Rhythm",MESH:D020178,0,,1,CRY1
+glutamate dehydrogenase (NAD+) activity,GO:0004352,"Sleep Disorders, Circadian Rhythm",MESH:D020178,1,Melatonin,0,
+glutathione peroxidase activity,GO:0004602,"Sleep Disorders, Circadian Rhythm",MESH:D020178,1,Melatonin,0,
+glutathione transferase activity,GO:0004364,"Sleep Disorders, Circadian Rhythm",MESH:D020178,1,Melatonin,0,
+histone deacetylase binding,GO:0042826,"Sleep Disorders, Circadian Rhythm",MESH:D020178,0,,1,CRY1
+histone H3K9 demethylase activity,GO:0032454,"Sleep Disorders, Circadian Rhythm",MESH:D020178,1,Melatonin,0,
+identical protein binding,GO:0042802,"Sleep Disorders, Circadian Rhythm",MESH:D020178,0,,1,NFIL3
+kinase binding,GO:0019900,"Sleep Disorders, Circadian Rhythm",MESH:D020178,0,,1,CRY1
+L-aspartate:2-oxoglutarate aminotransferase activity,GO:0004069,"Sleep Disorders, Circadian Rhythm",MESH:D020178,2,Melatonin|Tranylcypromine,0,
+ligand-activated transcription factor activity,GO:0098531,"Sleep Disorders, Circadian Rhythm",MESH:D020178,0,,1,RORC
+metal ion binding,GO:0046872,"Sleep Disorders, Circadian Rhythm",MESH:D020178,0,,1,RORC
+MRF binding,GO:0043426,"Sleep Disorders, Circadian Rhythm",MESH:D020178,0,,1,BHLHE40
+N-acetyltransferase activity,GO:0008080,"Sleep Disorders, Circadian Rhythm",MESH:D020178,0,,1,AANAT
+NADH dehydrogenase (ubiquinone) activity,GO:0008137,"Sleep Disorders, Circadian Rhythm",MESH:D020178,1,Haloperidol,0,
+NADH dehydrogenase (ubiquinone) activity,GO:0008137,"Sleep Disorders, Intrinsic",MESH:D020919,1,Haloperidol,0,
+nuclear receptor activity,GO:0004879,"Sleep Disorders, Circadian Rhythm",MESH:D020178,0,,1,RORC
+nuclear receptor binding,GO:0016922,"Sleep Disorders, Circadian Rhythm",MESH:D020178,0,,1,CRY1
+nucleotide binding,GO:0000166,"Sleep Disorders, Circadian Rhythm",MESH:D020178,0,,1,CRY1
+oxysterol binding,GO:0008142,"Sleep Disorders, Circadian Rhythm",MESH:D020178,0,,1,RORC
+peptidase activator activity involved in apoptotic process,GO:0016505,"Sleep Disorders, Circadian Rhythm",MESH:D020178,1,Melatonin,0,
+phosphatase binding,GO:0019902,"Sleep Disorders, Circadian Rhythm",MESH:D020178,0,,1,CRY1
+photoreceptor activity,GO:0009881,"Sleep Disorders, Circadian Rhythm",MESH:D020178,0,,1,CRY1
+protein binding,GO:0005515,"Sleep Disorders, Circadian Rhythm",MESH:D020178,0,,5,AANAT|BHLHE40|CRY1|NFIL3|RORC
+protein dimerization activity,GO:0046983,"Sleep Disorders, Circadian Rhythm",MESH:D020178,0,,1,BHLHE40
+protein domain specific binding,GO:0019904,"Sleep Disorders, Circadian Rhythm",MESH:D020178,0,,1,BHLHE40
+protein heterodimerization activity,GO:0046982,"Sleep Disorders, Circadian Rhythm",MESH:D020178,0,,1,BHLHE40
+protein homodimerization activity,GO:0042803,"Sleep Disorders, Circadian Rhythm",MESH:D020178,0,,1,BHLHE40
+protein kinase binding,GO:0019901,"Sleep Disorders, Circadian Rhythm",MESH:D020178,0,,1,CRY1
+RNA polymerase II cis-regulatory region sequence-specific DNA binding,GO:0000978,"Sleep Disorders, Circadian Rhythm",MESH:D020178,0,,3,BHLHE40|NFIL3|RORC
+RNA polymerase II-specific DNA-binding transcription factor binding,GO:0061629,"Sleep Disorders, Circadian Rhythm",MESH:D020178,0,,1,BHLHE40
+RNA polymerase II transcription regulatory region sequence-specific DNA binding,GO:0000977,"Sleep Disorders, Circadian Rhythm",MESH:D020178,0,,1,NFIL3
+sequence-specific DNA binding,GO:0043565,"Sleep Disorders, Circadian Rhythm",MESH:D020178,0,,1,RORC
+sequence-specific double-stranded DNA binding,GO:1990837,"Sleep Disorders, Circadian Rhythm",MESH:D020178,0,,2,BHLHE40|RORC
+succinate dehydrogenase (ubiquinone) activity,GO:0008177,"Sleep Disorders, Circadian Rhythm",MESH:D020178,1,Melatonin,0,
+superoxide dismutase activity,GO:0004784,"Sleep Disorders, Circadian Rhythm",MESH:D020178,1,Melatonin,0,
+transcription coactivator binding,GO:0001223,"Sleep Disorders, Circadian Rhythm",MESH:D020178,0,,1,RORC
+ubiquinol-cytochrome-c reductase activity,GO:0008121,"Sleep Disorders, Circadian Rhythm",MESH:D020178,1,Haloperidol,0,
+ubiquinol-cytochrome-c reductase activity,GO:0008121,"Sleep Disorders, Intrinsic",MESH:D020919,1,Haloperidol,0,
+zinc ion binding,GO:0008270,"Sleep Disorders, Circadian Rhythm",MESH:D020178,0,,1,RORC

@@ -1,0 +1,527 @@
+GOName,GOID,DiseaseName,DiseaseID,InferenceChemicalQty,InferenceChemicalNames,InferenceGeneQty,InferenceGeneSymbols
+2-oxoglutarate-dependent dioxygenase activity,GO:0016706,"Hypoxia, Brain",MESH:D002534,0,,1,ITPR2
+3'-5' DNA helicase activity,GO:0043138,Hypoxia,MESH:D000860,0,,1,HIM-6
+3'-5' exonuclease activity,GO:0008408,Hypoxia,MESH:D000860,0,,1,NME1
+3-beta-hydroxy-delta5-steroid dehydrogenase activity,GO:0003854,Hypoxia,MESH:D000860,1,Indomethacin,0,
+3beta-hydroxysteroid dehydrogenase activity,GO:0102727,Hypoxia,MESH:D000860,3,Chlorpromazine|Propylthiouracil|Taurine,0,
+3-hydroxybutyrate dehydrogenase activity,GO:0003858,Hypoxia,MESH:D000860,2,Arsenic Trioxide|Copper Sulfate,0,
+3-phosphoinositide-dependent protein kinase activity,GO:0004676,"Hypoxia-Ischemia, Brain",MESH:D020925,0,,2,IRAK1|IRAK4
+ABC-type transporter activity,GO:0140359,Hypoxia,MESH:D000860,1,Dietary Fats,0,
+ABC-type xenobiotic transporter activity,GO:0008559,Hypoxia,MESH:D000860,1,Verapamil,0,
+acetylcholine-gated monoatomic cation-selective channel activity,GO:0022848,Hypoxia,MESH:D000860,1,Nicotine,0,
+acetylcholinesterase activity,GO:0003990,"Hypoxia, Brain",MESH:D002534,1,Plant Extracts,0,
+acetyl-CoA carboxylase activity,GO:0003989,Hypoxia,MESH:D000860,3,Dietary Fats|Glucose|Resveratrol,0,
+[acetyl-CoA carboxylase] kinase activity,GO:0050405,Hypoxia,MESH:D000860,1,Lipopolysaccharides,0,
+[acetyl-CoA carboxylase] kinase activity,GO:0050405,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Lipopolysaccharides,0,
+acid phosphatase activity,GO:0003993,Hypoxia,MESH:D000860,4,Arsenic Trioxide|Copper Sulfate|Gallic Acid|Resveratrol,0,
+acid phosphatase activity,GO:0003993,"Hypoxia, Brain",MESH:D002534,1,Plant Extracts,0,
+aconitate hydratase activity,GO:0003994,Hypoxia,MESH:D000860,2,Dietary Fats|Hydrogen Peroxide,0,
+actin binding,GO:0003779,Hypoxia,MESH:D000860,0,,1,NOS3
+actin binding,GO:0003779,"Hypoxia-Ischemia, Brain",MESH:D020925,0,,1,NOS2
+actin monomer binding,GO:0003785,Hypoxia,MESH:D000860,0,,1,NOS3
+active monoatomic ion transmembrane transporter activity,GO:0022853,Hypoxia,MESH:D000860,1,Nicotine,0,
+acyl-CoA dehydrogenase activity,GO:0003995,Hypoxia,MESH:D000860,0,,1,ACADVL
+"acyltransferase activity, acyl groups converted into alkyl on transfer",GO:0046912,Hypoxia,MESH:D000860,0,,1,CS
+adenosine deaminase activity,GO:0004000,Hypoxia,MESH:D000860,1,Allopurinol,0,
+adenosine kinase activity,GO:0004001,Hypoxia,MESH:D000860,1,Oxygen,1,ADK
+adenosine kinase activity,GO:0004001,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Oxygen,0,
+adenosylhomocysteinase activity,GO:0004013,Hypoxia,MESH:D000860,0,,1,AHCY
+adenosylselenohomocysteinase activity,GO:0098604,Hypoxia,MESH:D000860,0,,1,AHCY
+adenylate cyclase activator activity,GO:0010856,Hypoxia,MESH:D000860,0,,1,GNAS
+adenylate cyclase regulator activity,GO:0010854,Hypoxia,MESH:D000860,0,,1,GNAS
+adenylate kinase activity,GO:0004017,Hypoxia,MESH:D000860,1,Mustard Gas,0,
+adenyl nucleotide binding,GO:0030554,Hypoxia,MESH:D000860,0,,1,AHCY
+ADP binding,GO:0043531,Hypoxia,MESH:D000860,0,,1,ATP5F1B
+adrenergic receptor activity,GO:0004935,Hypoxia,MESH:D000860,1,Nicotine,0,
+adrenergic receptor activity,GO:0004935,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Dexamethasone,0,
+aldehyde dehydrogenase (NAD+) activity,GO:0004029,Hypoxia,MESH:D000860,0,,1,ALDH1L1
+aldehyde dehydrogenase (NADP+) activity,GO:0033721,Hypoxia,MESH:D000860,0,,1,ALDH1L1
+aldehyde dehydrogenase [NAD(P)+] activity,GO:0004030,Hypoxia,MESH:D000860,0,,1,ALDH1L1
+aldehyde dehydrogenase [NAD(P)+] activity,GO:0004030,"Hypoxia, Brain",MESH:D002534,1,Plant Extracts,0,
+alkaline phosphatase activity,GO:0004035,Hypoxia,MESH:D000860,17,Acetaminophen|Allopurinol|Arsenic Trioxide|Chloroquine|Dietary Fats|Fluorouracil|Gallic Acid|Glucose|Hydrogen Peroxide|Lipopolysaccharides|Nicotine|Nitroprusside|Phenobarbital|Resveratrol|Taurine|Vitamin E|Zinc Sulfate,0,
+alkaline phosphatase activity,GO:0004035,"Hypoxia, Brain",MESH:D002534,2,Edaravone|Plant Extracts,0,
+alkaline phosphatase activity,GO:0004035,"Hypoxia-Ischemia, Brain",MESH:D020925,2,Dexamethasone|Lipopolysaccharides,0,
+alkane 1-monooxygenase activity,GO:0018685,Hypoxia,MESH:D000860,1,Phenobarbital,0,
+alkylglycerophosphoethanolamine phosphodiesterase activity,GO:0047391,Hypoxia,MESH:D000860,0,,1,GNAS
+alpha-amylase activity,GO:0004556,Hypoxia,MESH:D000860,2,Phenylephrine|Resveratrol,0,
+alpha-amylase activity,GO:0004556,"Hypoxia, Brain",MESH:D002534,1,Phenylephrine,0,
+alpha-amylase activity,GO:0004556,"Hypoxia-Ischemia, Brain",MESH:D020925,1,caffeic acid phenethyl ester,0,
+alpha-tubulin binding,GO:0043014,Hypoxia,MESH:D000860,0,,1,GNAS
+aminopeptidase activity,GO:0004177,Hypoxia,MESH:D000860,2,Glucose|Hydrogen Peroxide,0,
+AMP-activated protein kinase activity,GO:0004679,Hypoxia,MESH:D000860,9,Arsenic Trioxide|Bleomycin|Dietary Fats|Glucose|Hydrogen Peroxide|Lipopolysaccharides|Nicotine|Oxygen|Resveratrol,0,
+AMP-activated protein kinase activity,GO:0004679,"Hypoxia-Ischemia, Brain",MESH:D020925,2,Lipopolysaccharides|Oxygen,2,IRAK1|IRAK4
+amylase activity,GO:0016160,Hypoxia,MESH:D000860,1,Lipopolysaccharides,0,
+amylase activity,GO:0016160,"Hypoxia-Ischemia, Brain",MESH:D020925,2,Dexamethasone|Lipopolysaccharides,0,
+amyloid-beta binding,GO:0001540,Hypoxia,MESH:D000860,0,,1,APOA1
+angiostatin binding,GO:0043532,Hypoxia,MESH:D000860,0,,1,ATP5F1B
+antioxidant activity,GO:0016209,Hypoxia,MESH:D000860,4,"6-hydroxy-2,5,7,8-tetramethylchroman-2-carboxylic acid|Arsenic Trioxide|Dietary Fats|Isoproterenol",1,SOD2
+apolipoprotein A-I receptor binding,GO:0034191,Hypoxia,MESH:D000860,0,,1,APOA1
+apolipoprotein receptor binding,GO:0034190,Hypoxia,MESH:D000860,0,,1,APOA1
+arginase activity,GO:0004053,Hypoxia,MESH:D000860,2,Oxygen|Zinc Sulfate,0,
+arginase activity,GO:0004053,"Hypoxia, Brain",MESH:D002534,1,Edaravone,0,
+arginase activity,GO:0004053,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Oxygen,0,
+arginine binding,GO:0034618,Hypoxia,MESH:D000860,0,,2,NOS1|NOS3
+arginine binding,GO:0034618,"Hypoxia-Ischemia, Brain",MESH:D020925,0,,1,NOS2
+arylesterase activity,GO:0004064,Hypoxia,MESH:D000860,1,Copper Sulfate,0,
+aryl sulfotransferase activity,GO:0004062,Hypoxia,MESH:D000860,1,Acetaminophen,0,
+aspartic-type endopeptidase activity,GO:0004190,Hypoxia,MESH:D000860,0,,1,CPA2
+aspartic-type endopeptidase activity involved in amyloid precursor protein catabolic process,GO:1902944,Hypoxia,MESH:D000860,1,Nicotine,0,
+aspartic-type endopeptidase inhibitor activity,GO:0019828,Hypoxia,MESH:D000860,0,,1,GAPDH
+ATPase binding,GO:0051117,Hypoxia,MESH:D000860,0,,2,ALDOB|NOS1
+ATPase-coupled intramembrane lipid transporter activity,GO:0140326,Hypoxia,MESH:D000860,2,Chlorpromazine|Taurine,0,
+ATP binding,GO:0005524,Hypoxia,MESH:D000860,0,,8,ACTB|ADK|ATP5F1B|CA9|DAF-2|HIM-6|HSP70|NME1
+ATP binding,GO:0005524,"Hypoxia, Brain",MESH:D002534,0,,2,ITPR1|ITPR2
+ATP binding,GO:0005524,"Hypoxia-Ischemia, Brain",MESH:D020925,0,,2,IRAK1|IRAK4
+ATP-dependent activity,GO:0140657,Hypoxia,MESH:D000860,2,Oxygen|Verapamil,0,
+ATP-dependent activity,GO:0140657,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Oxygen,0,
+"ATP-dependent activity, acting on DNA",GO:0008094,Hypoxia,MESH:D000860,0,,1,HIM-6
+ATP-dependent protein folding chaperone,GO:0140662,Hypoxia,MESH:D000860,0,,1,HSP70
+ATP hydrolysis activity,GO:0016887,Hypoxia,MESH:D000860,11,Acetaminophen|Arsenic Trioxide|Chloroquine|Deferoxamine|Dietary Fats|Glucose|Hydrogen Peroxide|Lipopolysaccharides|Resveratrol|Taurine|Verapamil,4,ACTB|ATP5F1B|HIM-6|HSP70
+ATP hydrolysis activity,GO:0016887,"Hypoxia, Brain",MESH:D002534,1,Plant Extracts,0,
+ATP hydrolysis activity,GO:0016887,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Lipopolysaccharides,0,
+beta-2 adrenergic receptor binding,GO:0031698,Hypoxia,MESH:D000860,0,,1,GNAS
+beta-catenin binding,GO:0008013,Hypoxia,MESH:D000860,0,,1,NOS3
+beta-catenin binding,GO:0008013,"Hypoxia-Ischemia, Brain",MESH:D020925,0,,1,NOS2
+beta-galactosidase activity,GO:0004565,Hypoxia,MESH:D000860,1,Resveratrol,0,
+beta-glucosidase activity,GO:0008422,Hypoxia,MESH:D000860,1,Isoproterenol,0,
+beta-glucuronidase activity,GO:0004566,Hypoxia,MESH:D000860,1,Isoproterenol,0,
+cadherin binding,GO:0045296,Hypoxia,MESH:D000860,0,,1,NOS3
+cadherin binding,GO:0045296,"Hypoxia-Ischemia, Brain",MESH:D020925,0,,1,NOS2
+cadmium ion binding,GO:0046870,Hypoxia,MESH:D000860,0,,2,NOS1|NOS3
+calcium activated cation channel activity,GO:0005227,Hypoxia,MESH:D000860,1,Nimodipine,0,
+calcium channel activity,GO:0005262,"Hypoxia, Brain",MESH:D002534,0,,2,ITPR1|ITPR2
+calcium channel inhibitor activity,GO:0019855,"Hypoxia, Brain",MESH:D002534,0,,1,ITPR1
+calcium channel regulator activity,GO:0005246,Hypoxia,MESH:D000860,0,,1,NOS1
+calcium-dependent ATPase activity,GO:0030899,Hypoxia,MESH:D000860,5,Chlorpromazine|Dietary Fats|Isoproterenol|Propylthiouracil|Taurine,0,
+calcium-dependent cysteine-type endopeptidase activity,GO:0004198,Hypoxia,MESH:D000860,4,Acetaminophen|Deoxyglucose|Glucose|Propofol,0,
+calcium-dependent protein binding,GO:0048306,Hypoxia,MESH:D000860,0,,1,NOS1
+calcium ion binding,GO:0005509,Hypoxia,MESH:D000860,0,,3,ATP5F1B|NOS1|TKT
+calcium ion binding,GO:0005509,"Hypoxia, Brain",MESH:D002534,0,,1,ITPR2
+calcium ion transmembrane transporter activity,GO:0015085,"Hypoxia, Brain",MESH:D002534,0,,2,ITPR1|ITPR2
+calcium-release channel activity,GO:0015278,"Hypoxia, Brain",MESH:D002534,0,,2,ITPR1|ITPR2
+calmodulin binding,GO:0005516,Hypoxia,MESH:D000860,0,,2,NOS1|NOS3
+calmodulin binding,GO:0005516,"Hypoxia-Ischemia, Brain",MESH:D020925,0,,1,NOS2
+calmodulin-dependent protein phosphatase activity,GO:0033192,Hypoxia,MESH:D000860,1,Verapamil,0,
+cAMP-dependent protein kinase activity,GO:0004691,Hypoxia,MESH:D000860,2,Glucose|Propylthiouracil,0,
+cAMP-dependent protein kinase regulator activity,GO:0008603,"Hypoxia-Ischemia, Brain",MESH:D020925,0,,1,NOS2
+cAMP response element binding protein binding,GO:0008140,Hypoxia,MESH:D000860,0,,1,ATF4
+carbohydrate binding,GO:0030246,Hypoxia,MESH:D000860,0,,1,TKT
+carbonate dehydratase activity,GO:0004089,Hypoxia,MESH:D000860,2,Acetazolamide|cobaltous chloride,1,CA9
+carbonate dehydratase activity,GO:0004089,"Hypoxia, Brain",MESH:D002534,2,cobaltous chloride|Edaravone,0,
+carbonate dehydratase activity,GO:0004089,"Hypoxia-Ischemia, Brain",MESH:D020925,2,cobaltous chloride|Dexamethasone,0,
+carboxylic ester hydrolase activity,GO:0052689,Hypoxia,MESH:D000860,2,Dietary Fats|Oleic Acid,1,ESD
+carboxy-lyase activity,GO:0016831,Hypoxia,MESH:D000860,0,,1,PCK2
+carboxypeptidase activity,GO:0004180,Hypoxia,MESH:D000860,0,,1,CPA2
+carnitine O-octanoyltransferase activity,GO:0008458,Hypoxia,MESH:D000860,1,Dietary Fats,0,
+carnitine O-palmitoyltransferase activity,GO:0004095,Hypoxia,MESH:D000860,4,Copper Sulfate|Dietary Fats|Norepinephrine|Resveratrol,0,
+catalase activity,GO:0004096,Hypoxia,MESH:D000860,3,Allopurinol|Copper Sulfate|Isoproterenol,0,
+catalytic activity,GO:0003824,Hypoxia,MESH:D000860,0,,1,ALDH1L1
+channel activity,GO:0015267,Hypoxia,MESH:D000860,2,Bupivacaine|Glucose,0,
+chemoattractant activity,GO:0042056,"Hypoxia-Ischemia, Brain",MESH:D020925,0,,1,VEGFA
+chemorepellent activity,GO:0045499,Hypoxia,MESH:D000860,0,,1,APOA1
+cholesterol binding,GO:0015485,Hypoxia,MESH:D000860,0,,1,APOA1
+cholesterol transfer activity,GO:0120020,Hypoxia,MESH:D000860,0,,1,APOA1
+cholinesterase activity,GO:0004104,Hypoxia,MESH:D000860,2,Dietary Fats|Mustard Gas,0,
+chromatin binding,GO:0003682,Hypoxia,MESH:D000860,0,,1,MPO
+cis-regulatory region sequence-specific DNA binding,GO:0000987,"Hypoxia-Ischemia, Brain",MESH:D020925,0,,1,HIF1A
+citrate (Si)-synthase activity,GO:0004108,Hypoxia,MESH:D000860,0,,1,CS
+citrate synthase activity,GO:0036440,Hypoxia,MESH:D000860,1,Glucose,1,CS
+collagen binding involved in cell-matrix adhesion,GO:0098639,Hypoxia,MESH:D000860,1,Resveratrol,0,
+copper ion binding,GO:0005507,Hypoxia,MESH:D000860,0,,1,AHCY
+corticotropin-releasing hormone receptor 1 binding,GO:0051430,Hypoxia,MESH:D000860,0,,1,GNAS
+creatine kinase activity,GO:0004111,Hypoxia,MESH:D000860,9,Arsenic Trioxide|Copper Sulfate|Dietary Fats|Gallic Acid|Isoproterenol|Lipopolysaccharides|Oxygen|Resveratrol|sinapinic acid,0,
+creatine kinase activity,GO:0004111,"Hypoxia-Ischemia, Brain",MESH:D020925,3,Dexamethasone|Lipopolysaccharides|Oxygen,0,
+cysteine-type endopeptidase activity,GO:0004197,Hypoxia,MESH:D000860,9,"6-hydroxy-2,5,7,8-tetramethylchroman-2-carboxylic acid|Arsenic Trioxide|Diacetyl|Fluorouracil|Glucose|Hydrogen Peroxide|Isoflurane|Lipopolysaccharides|Oxygen",0,
+cysteine-type endopeptidase activity,GO:0004197,"Hypoxia-Ischemia, Brain",MESH:D020925,2,Lipopolysaccharides|Oxygen,0,
+cysteine-type endopeptidase activity involved in apoptotic process,GO:0097153,Hypoxia,MESH:D000860,2,Chloroquine|Glucose,0,
+cysteine-type peptidase activity,GO:0008234,Hypoxia,MESH:D000860,1,Fluorouracil,0,
+cytochrome-c oxidase activity,GO:0004129,Hypoxia,MESH:D000860,17,Acetaminophen|Chloroquine|Copper Sulfate|Deferoxamine|Dietary Fats|Gallic Acid|Glucose|Hydrogen Peroxide|Isoproterenol|Lipopolysaccharides|Oleic Acid|Oxygen|Phenylephrine|Potassium Cyanide|Resveratrol|sinapinic acid|Taurine,0,
+cytochrome-c oxidase activity,GO:0004129,"Hypoxia, Brain",MESH:D002534,1,Phenylephrine,0,
+cytochrome-c oxidase activity,GO:0004129,"Hypoxia-Ischemia, Brain",MESH:D020925,2,Lipopolysaccharides|Oxygen,0,
+cytokine activity,GO:0005125,"Hypoxia-Ischemia, Brain",MESH:D020925,0,,1,VEGFA
+cytoskeletal motor activity,GO:0003774,Hypoxia,MESH:D000860,0,,1,CA9
+cytoskeletal protein binding,GO:0008092,Hypoxia,MESH:D000860,0,,1,ALDOB
+D1 dopamine receptor binding,GO:0031748,Hypoxia,MESH:D000860,0,,1,GNAS
+deoxyadenosine kinase activity,GO:0004136,Hypoxia,MESH:D000860,0,,1,ADK
+deoxyribonuclease activity,GO:0004536,Hypoxia,MESH:D000860,0,,1,NME1
+D-glutamyltransferase activity,GO:0047823,Hypoxia,MESH:D000860,1,Hydrogen Peroxide,0,
+dimethylargininase activity,GO:0016403,Hypoxia,MESH:D000860,1,Oxygen,0,
+dimethylargininase activity,GO:0016403,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Oxygen,0,
+disordered domain specific binding,GO:0097718,Hypoxia,MESH:D000860,0,,1,GAPDH
+DNA binding,GO:0003677,Hypoxia,MESH:D000860,0,,7,ATF4|ATP5F1B|EGR1|HIM-6|NME1|NOS1|SOD2
+DNA binding,GO:0003677,"Hypoxia-Ischemia, Brain",MESH:D020925,0,,1,HIF1A
+DNA-binding transcription activator activity,GO:0001216,"Hypoxia-Ischemia, Brain",MESH:D020925,0,,1,HIF1A
+"DNA-binding transcription activator activity, RNA polymerase II-specific",GO:0001228,Hypoxia,MESH:D000860,0,,2,ATF4|EGR1
+"DNA-binding transcription activator activity, RNA polymerase II-specific",GO:0001228,"Hypoxia-Ischemia, Brain",MESH:D020925,0,,1,HIF1A
+DNA-binding transcription factor activity,GO:0003700,Hypoxia,MESH:D000860,2,Lipopolysaccharides|Oxygen,2,ATF4|EGR1
+DNA-binding transcription factor activity,GO:0003700,"Hypoxia-Ischemia, Brain",MESH:D020925,2,Lipopolysaccharides|Oxygen,1,HIF1A
+"DNA-binding transcription factor activity, RNA polymerase II-specific",GO:0000981,Hypoxia,MESH:D000860,0,,2,ATF4|EGR1
+"DNA-binding transcription factor activity, RNA polymerase II-specific",GO:0000981,"Hypoxia-Ischemia, Brain",MESH:D020925,0,,1,HIF1A
+DNA-binding transcription factor binding,GO:0140297,Hypoxia,MESH:D000860,0,,1,ATF4
+DNA-binding transcription repressor activity,GO:0001217,"Hypoxia-Ischemia, Brain",MESH:D020925,0,,1,HIF1A
+DNA-dependent protein kinase activity,GO:0004677,"Hypoxia-Ischemia, Brain",MESH:D020925,0,,2,IRAK1|IRAK4
+DNA-directed DNA polymerase activity,GO:0003887,Hypoxia,MESH:D000860,1,Hydrogen Peroxide,0,
+DNA helicase activity,GO:0003678,Hypoxia,MESH:D000860,0,,1,HIM-6
+DNA-methyltransferase activity,GO:0009008,Hypoxia,MESH:D000860,2,Dietary Fats|Hydrogen Peroxide,0,
+DNA-methyltransferase activity,GO:0009008,"Hypoxia, Brain",MESH:D002534,1,Plant Extracts,0,
+double-stranded DNA binding,GO:0003690,Hypoxia,MESH:D000860,0,,1,EGR1
+double-stranded methylated DNA binding,GO:0010385,Hypoxia,MESH:D000860,0,,1,EGR1
+E-box binding,GO:0070888,"Hypoxia-Ischemia, Brain",MESH:D020925,0,,1,HIF1A
+endopeptidase activity,GO:0004175,Hypoxia,MESH:D000860,0,,1,PLAT
+endopeptidase inhibitor activity,GO:0004866,Hypoxia,MESH:D000860,0,,1,TFPI
+enzyme binding,GO:0019899,Hypoxia,MESH:D000860,0,,8,APOA1|EGR1|GAPDH|HIM-6|NME1|NOS1|RPS2|SOD2
+enzyme binding,GO:0019899,"Hypoxia-Ischemia, Brain",MESH:D020925,0,,1,HIF1A
+estradiol 17-beta-dehydrogenase activity,GO:0004303,Hypoxia,MESH:D000860,4,Chlorpromazine|Indomethacin|Propylthiouracil|Taurine,0,
+eukaryotic translation initiation factor 2alpha kinase activity,GO:0004694,"Hypoxia-Ischemia, Brain",MESH:D020925,0,,2,IRAK1|IRAK4
+extracellular matrix binding,GO:0050840,"Hypoxia-Ischemia, Brain",MESH:D020925,0,,1,VEGFA
+fatty-acyl-CoA binding,GO:0000062,Hypoxia,MESH:D000860,0,,1,ACADVL
+fibroblast growth factor binding,GO:0017134,Hypoxia,MESH:D000860,0,,1,RPS2
+fibronectin binding,GO:0001968,"Hypoxia-Ischemia, Brain",MESH:D020925,0,,1,VEGFA
+flavin adenine dinucleotide binding,GO:0050660,Hypoxia,MESH:D000860,0,,4,ACADVL|NOS1|NOS3|SARDH
+flavin adenine dinucleotide binding,GO:0050660,"Hypoxia-Ischemia, Brain",MESH:D020925,0,,1,NOS2
+FMN binding,GO:0010181,Hypoxia,MESH:D000860,0,,2,NOS1|NOS3
+FMN binding,GO:0010181,"Hypoxia-Ischemia, Brain",MESH:D020925,0,,1,NOS2
+folic acid binding,GO:0005542,Hypoxia,MESH:D000860,0,,1,SARDH
+formyltetrahydrofolate dehydrogenase activity,GO:0016155,Hypoxia,MESH:D000860,0,,1,ALDH1L1
+"fructose 1,6-bisphosphate 1-phosphatase activity",GO:0042132,Hypoxia,MESH:D000860,1,Dietary Fats,0,
+fructose-1-phosphate aldolase activity,GO:0061609,Hypoxia,MESH:D000860,0,,1,ALDOB
+fructose binding,GO:0070061,Hypoxia,MESH:D000860,0,,1,ALDOB
+fructose-bisphosphate aldolase activity,GO:0004332,Hypoxia,MESH:D000860,0,,1,ALDOB
+gamma-tubulin binding,GO:0043015,Hypoxia,MESH:D000860,0,,1,NME1
+gap junction channel activity,GO:0005243,Hypoxia,MESH:D000860,1,Resveratrol,0,
+gap junction channel activity involved in cardiac conduction electrical coupling,GO:0086075,Hypoxia,MESH:D000860,1,Indican,0,
+general transcription initiation factor binding,GO:0140296,Hypoxia,MESH:D000860,0,,1,ATF4
+glucokinase activity,GO:0004340,"Hypoxia, Brain",MESH:D002534,1,Plant Extracts,0,
+glucose-6-phosphatase activity,GO:0004346,Hypoxia,MESH:D000860,2,Dietary Fats|Vitamin E,0,
+glucose-6-phosphatase activity,GO:0004346,"Hypoxia, Brain",MESH:D002534,1,Plant Extracts,0,
+glucose-6-phosphate dehydrogenase activity,GO:0004345,Hypoxia,MESH:D000860,1,Dietary Fats,0,
+glucose-6-phosphate dehydrogenase activity,GO:0004345,"Hypoxia, Brain",MESH:D002534,1,Plant Extracts,0,
+glucuronosyltransferase activity,GO:0015020,Hypoxia,MESH:D000860,1,Taurine,0,
+glutathione binding,GO:0043295,Hypoxia,MESH:D000860,1,Copper Sulfate,0,
+glutathione hydrolase activity,GO:0036374,Hypoxia,MESH:D000860,1,Copper Sulfate,0,
+glutathione peroxidase activity,GO:0004602,Hypoxia,MESH:D000860,34,Acetaminophen|acetovanillone|Arsenic Trioxide|Bleomycin|Bupivacaine|Chloroquine|cobaltous chloride|Copper Sulfate|Deferoxamine|Diazepam|Dietary Fats|Fluorouracil|Gallic Acid|Glucose|Hydrogen Peroxide|Indomethacin|Isoflurane|Isoproterenol|Ketamine|Lipopolysaccharides|Morphine|Nicotine|Nitroprusside|Oleic Acid|Oxygen|Phenobarbital|Propofol|Propylthiouracil|Resveratrol|sinapinic acid|Spironolactone|Taurine|Vitamin E|Zinc Sulfate,0,
+glutathione peroxidase activity,GO:0004602,"Hypoxia, Brain",MESH:D002534,4,cobaltous chloride|Edaravone|Morphine|Plant Extracts,0,
+glutathione peroxidase activity,GO:0004602,"Hypoxia-Ischemia, Brain",MESH:D020925,7,caffeic acid phenethyl ester|cobaltous chloride|Dexamethasone|Lipopolysaccharides|Lithium Chloride|Methamphetamine|Oxygen,0,
+glutathione transferase activity,GO:0004364,Hypoxia,MESH:D000860,25,Acetaminophen|Allopurinol|Arsenic Trioxide|Bleomycin|Buprenorphine|cobaltous chloride|Copper Sulfate|Dietary Fats|Fluorouracil|Gallic Acid|Glucose|Hydrochloric Acid|Isoproterenol|Lipopolysaccharides|Morphine|Nicotine|Nitroglycerin|Nitroprusside|Oxygen|Phenobarbital|Propylthiouracil|Resveratrol|Taurine|Vitamin E|Zinc Sulfate,0,
+glutathione transferase activity,GO:0004364,"Hypoxia, Brain",MESH:D002534,4,cobaltous chloride|Edaravone|Morphine|Plant Extracts,0,
+glutathione transferase activity,GO:0004364,"Hypoxia-Ischemia, Brain",MESH:D020925,4,cobaltous chloride|Dexamethasone|Lipopolysaccharides|Oxygen,0,
+glyceraldehyde-3-phosphate dehydrogenase (NAD+) (phosphorylating) activity,GO:0004365,Hypoxia,MESH:D000860,1,Glucose,1,GAPDH
+glycerol-3-phosphate O-acyltransferase activity,GO:0004366,Hypoxia,MESH:D000860,1,Resveratrol,0,
+glycine N-benzoyltransferase activity,GO:0047962,Hypoxia,MESH:D000860,1,Phenobarbital,0,
+glycogen phosphorylase activity,GO:0008184,Hypoxia,MESH:D000860,1,Dietary Fats,0,
+glycogen phosphorylase activity,GO:0008184,"Hypoxia, Brain",MESH:D002534,1,Plant Extracts,0,
+glycogen (starch) synthase activity,GO:0004373,"Hypoxia, Brain",MESH:D002534,1,Plant Extracts,0,
+G protein activity,GO:0003925,Hypoxia,MESH:D000860,0,,1,GNAS
+G-protein alpha-subunit binding,GO:0001965,Hypoxia,MESH:D000860,0,,1,GNAS
+G-protein beta/gamma-subunit complex binding,GO:0031683,Hypoxia,MESH:D000860,0,,1,GNAS
+G-protein beta-subunit binding,GO:0031681,Hypoxia,MESH:D000860,0,,1,GNAS
+G protein-coupled receptor binding,GO:0001664,Hypoxia,MESH:D000860,0,,2,GNAS|POMC
+G protein-coupled serotonin receptor activity,GO:0004993,Hypoxia,MESH:D000860,0,,1,ESD
+growth factor activity,GO:0008083,Hypoxia,MESH:D000860,0,,1,BDNF
+growth factor activity,GO:0008083,"Hypoxia-Ischemia, Brain",MESH:D020925,0,,1,VEGFA
+growth factor binding,GO:0019838,"Hypoxia-Ischemia, Brain",MESH:D020925,0,,1,VEGFA
+GTPase activity,GO:0003924,Hypoxia,MESH:D000860,0,,1,GNAS
+GTP binding,GO:0005525,Hypoxia,MESH:D000860,0,,3,GNAS|NME1|PCK2
+guanyl nucleotide binding,GO:0019001,Hypoxia,MESH:D000860,0,,1,GNAS
+H3K27me3 modified histone binding,GO:0061628,Hypoxia,MESH:D000860,1,Acetaminophen,0,
+heat shock protein binding,GO:0031072,Hypoxia,MESH:D000860,0,,2,APOA1|HSP70
+heat shock protein binding,GO:0031072,"Hypoxia-Ischemia, Brain",MESH:D020925,0,,1,IRAK1
+helicase activity,GO:0004386,Hypoxia,MESH:D000860,0,,1,HIM-6
+heme binding,GO:0020037,Hypoxia,MESH:D000860,0,,3,MPO|NOS1|NOS3
+heme binding,GO:0020037,"Hypoxia-Ischemia, Brain",MESH:D020925,0,,1,NOS2
+hemi-methylated DNA-binding,GO:0044729,Hypoxia,MESH:D000860,0,,1,EGR1
+heparin binding,GO:0008201,Hypoxia,MESH:D000860,0,,1,MPO
+heparin binding,GO:0008201,"Hypoxia-Ischemia, Brain",MESH:D020925,0,,1,VEGFA
+hexokinase activity,GO:0004396,Hypoxia,MESH:D000860,8,Arsenic Trioxide|Chlorpromazine|Deoxyglucose|Dietary Fats|Diltiazem|Gabapentin|Indomethacin|Nitroprusside,0,
+high-density lipoprotein particle binding,GO:0008035,Hypoxia,MESH:D000860,0,,1,APOA1
+high-density lipoprotein particle receptor binding,GO:0070653,Hypoxia,MESH:D000860,0,,1,APOA1
+histone acetyltransferase activity,GO:0004402,Hypoxia,MESH:D000860,1,Fluorouracil,0,
+histone acetyltransferase binding,GO:0035035,Hypoxia,MESH:D000860,0,,1,EGR1
+histone deacetylase activity,GO:0004407,Hypoxia,MESH:D000860,1,Dietary Fats,0,
+histone deacetylase activity,GO:0004407,"Hypoxia, Brain",MESH:D002534,1,Plant Extracts,0,
+histone deacetylase binding,GO:0042826,"Hypoxia-Ischemia, Brain",MESH:D020925,0,,1,HIF1A
+histone H2AS121 kinase activity,GO:0072371,"Hypoxia-Ischemia, Brain",MESH:D020925,0,,2,IRAK1|IRAK4
+histone H2AS139 kinase activity,GO:0035979,"Hypoxia-Ischemia, Brain",MESH:D020925,0,,2,IRAK1|IRAK4
+histone H2AS1 kinase activity,GO:0044024,"Hypoxia-Ischemia, Brain",MESH:D020925,0,,2,IRAK1|IRAK4
+histone H2AT120 kinase activity,GO:1990244,"Hypoxia-Ischemia, Brain",MESH:D020925,0,,2,IRAK1|IRAK4
+histone H2BS14 kinase activity,GO:0044025,"Hypoxia-Ischemia, Brain",MESH:D020925,0,,2,IRAK1|IRAK4
+histone H2BS36 kinase activity,GO:0140823,"Hypoxia-Ischemia, Brain",MESH:D020925,0,,2,IRAK1|IRAK4
+histone H3K9 demethylase activity,GO:0032454,Hypoxia,MESH:D000860,1,Dietary Fats,0,
+histone H3S10 kinase activity,GO:0035175,"Hypoxia-Ischemia, Brain",MESH:D020925,0,,2,IRAK1|IRAK4
+histone H3S28 kinase activity,GO:0044022,"Hypoxia-Ischemia, Brain",MESH:D020925,0,,2,IRAK1|IRAK4
+histone H3S57 kinase activity,GO:0140855,"Hypoxia-Ischemia, Brain",MESH:D020925,0,,2,IRAK1|IRAK4
+histone H3T11 kinase activity,GO:0035402,"Hypoxia-Ischemia, Brain",MESH:D020925,0,,2,IRAK1|IRAK4
+histone H3T3 kinase activity,GO:0072354,"Hypoxia-Ischemia, Brain",MESH:D020925,0,,2,IRAK1|IRAK4
+histone H3T45 kinase activity,GO:0140857,"Hypoxia-Ischemia, Brain",MESH:D020925,0,,2,IRAK1|IRAK4
+histone H3T6 kinase activity,GO:0035403,"Hypoxia-Ischemia, Brain",MESH:D020925,0,,2,IRAK1|IRAK4
+histone H4S1 kinase activity,GO:0044023,"Hypoxia-Ischemia, Brain",MESH:D020925,0,,2,IRAK1|IRAK4
+hormone activity,GO:0005179,Hypoxia,MESH:D000860,0,,2,NPPA|POMC
+hormone receptor binding,GO:0051427,Hypoxia,MESH:D000860,0,,1,NPPA
+Hsp90 protein binding,GO:0051879,Hypoxia,MESH:D000860,0,,1,NOS3
+Hsp90 protein binding,GO:0051879,"Hypoxia-Ischemia, Brain",MESH:D020925,0,,2,HIF1A|NOS2
+hydrolase activity,GO:0016787,Hypoxia,MESH:D000860,0,,7,ACTB|AHCY|ALDH1L1|CPA2|ESD|HIM-6|PLAT
+"hydrolase activity, acting on ester bonds",GO:0016788,Hypoxia,MESH:D000860,1,Oxygen,1,ESD
+"hydrolase activity, acting on ester bonds",GO:0016788,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Oxygen,0,
+identical protein binding,GO:0042802,Hypoxia,MESH:D000860,0,,12,ACADVL|ACTB|AHCY|ALDOB|APOA1|ATF4|CS|ESD|GAPDH|NME1|NOS1|SOD2
+identical protein binding,GO:0042802,"Hypoxia, Brain",MESH:D002534,0,,1,ITPR1
+identical protein binding,GO:0042802,"Hypoxia-Ischemia, Brain",MESH:D020925,0,,3,IRAK1|NOS2|VEGFA
+IkappaB kinase activity,GO:0008384,Hypoxia,MESH:D000860,2,Fluorouracil|Resveratrol,0,
+IMP dehydrogenase activity,GO:0003938,Hypoxia,MESH:D000860,1,Ribavirin,0,
+"indoleamine 2,3-dioxygenase activity",GO:0033754,Hypoxia,MESH:D000860,1,Lipopolysaccharides,0,
+"indoleamine 2,3-dioxygenase activity",GO:0033754,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Lipopolysaccharides,0,
+"inositol 1,4,5 trisphosphate binding",GO:0070679,"Hypoxia, Brain",MESH:D002534,0,,2,ITPR1|ITPR2
+"inositol 1,4,5-trisphosphate receptor activity involved in regulation of postsynaptic cytosolic calcium levels",GO:0098695,"Hypoxia, Brain",MESH:D002534,0,,1,ITPR1
+"inositol 1,4,5-trisphosphate-sensitive calcium-release channel activity",GO:0005220,"Hypoxia, Brain",MESH:D002534,0,,2,ITPR1|ITPR2
+insulin-like growth factor receptor binding,GO:0005159,Hypoxia,MESH:D000860,0,,1,GNAS
+insulin receptor activity,GO:0005009,Hypoxia,MESH:D000860,0,,1,DAF-2
+interleukin-1 receptor binding,GO:0005149,"Hypoxia-Ischemia, Brain",MESH:D020925,0,,2,IRAK1|IRAK4
+intermediate filament binding,GO:0019215,Hypoxia,MESH:D000860,0,,1,NME1
+inward rectifier potassium channel activity,GO:0005242,Hypoxia,MESH:D000860,1,Verapamil,0,
+ionotropic glutamate receptor binding,GO:0035255,Hypoxia,MESH:D000860,0,,1,GNAS
+isocitrate dehydrogenase [NAD(P)+] activity,GO:0004448,Hypoxia,MESH:D000860,3,Copper Sulfate|Isoproterenol|sinapinic acid,0,
+isomerase activity,GO:0016853,Hypoxia,MESH:D000860,0,,1,HIM-6
+JUN kinase activity,GO:0004705,Hypoxia,MESH:D000860,2,Fluorouracil|Lipopolysaccharides,0,
+JUN kinase activity,GO:0004705,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Lipopolysaccharides,0,
+kinase activity,GO:0016301,Hypoxia,MESH:D000860,0,,3,ADK|DAF-2|PCK2
+kinase activity,GO:0016301,"Hypoxia-Ischemia, Brain",MESH:D020925,0,,2,IRAK1|IRAK4
+kinesin binding,GO:0019894,Hypoxia,MESH:D000860,0,,1,ACTB
+lactate dehydrogenase activity,GO:0004457,Hypoxia,MESH:D000860,25,Acetaminophen|acetovanillone|Arsenic Trioxide|Bleomycin|Buprenorphine|Chloroquine|Copper Sulfate|Deoxyglucose|Diacetyl|Dietary Fats|Fluorouracil|Gallic Acid|Glucose|Hydrogen Peroxide|Isoflurane|Isoproterenol|Ketamine|Lipopolysaccharides|Nicotine|Nitroglycerin|Nitroprusside|Oleic Acid|Oxygen|Resveratrol|sinapinic acid,0,
+lactate dehydrogenase activity,GO:0004457,"Hypoxia, Brain",MESH:D002534,2,Edaravone|Plant Extracts,0,
+lactate dehydrogenase activity,GO:0004457,"Hypoxia-Ischemia, Brain",MESH:D020925,3,Dexamethasone|Lipopolysaccharides|Oxygen,0,
+L-alanine:2-oxoglutarate aminotransferase activity,GO:0004021,Hypoxia,MESH:D000860,1,Acetaminophen,0,
+L-alanine:2-oxoglutarate aminotransferase activity,GO:0004021,"Hypoxia, Brain",MESH:D002534,1,Plant Extracts,0,
+L-aspartate:2-oxoglutarate aminotransferase activity,GO:0004069,Hypoxia,MESH:D000860,17,Acetaminophen|Arsenic Trioxide|Copper Sulfate|Dietary Fats|Fluorouracil|Gallic Acid|Hydrogen Peroxide|Isoproterenol|Lipopolysaccharides|Nicotine|Nitroglycerin|Nitroprusside|Oleic Acid|Phenobarbital|Resveratrol|Taurine|Vitamin E,0,
+L-aspartate:2-oxoglutarate aminotransferase activity,GO:0004069,"Hypoxia, Brain",MESH:D002534,2,Cocaine|Plant Extracts,0,
+L-aspartate:2-oxoglutarate aminotransferase activity,GO:0004069,"Hypoxia-Ischemia, Brain",MESH:D020925,3,Cocaine|Dexamethasone|Lipopolysaccharides,0,
+leucine zipper domain binding,GO:0043522,Hypoxia,MESH:D000860,0,,1,ATF4
+linoleate 13S-lipoxygenase activity,GO:0016165,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Dexamethasone,0,
+lipase activity,GO:0016298,"Hypoxia, Brain",MESH:D002534,1,Plant Extracts,0,
+lipase inhibitor activity,GO:0055102,Hypoxia,MESH:D000860,0,,1,APOA1
+lipid binding,GO:0008289,Hypoxia,MESH:D000860,0,,1,APOA1
+lipid transporter activity,GO:0005319,Hypoxia,MESH:D000860,0,,1,APOA1
+lipoprotein particle binding,GO:0071813,Hypoxia,MESH:D000860,0,,1,APOA1
+lipoprotein particle receptor activity,GO:0030228,Hypoxia,MESH:D000860,0,,1,ATP5F1B
+long-chain-acyl-CoA dehydrogenase activity,GO:0004466,Hypoxia,MESH:D000860,0,,1,ACADVL
+lyase activity,GO:0016829,Hypoxia,MESH:D000860,0,,3,ALDOB|CA9|PCK2
+lysine-acetylated histone binding,GO:0070577,Hypoxia,MESH:D000860,2,Acetaminophen|Nicotine,0,
+magnesium ion binding,GO:0000287,Hypoxia,MESH:D000860,0,,2,NME1|TKT
+magnesium ion binding,GO:0000287,"Hypoxia-Ischemia, Brain",MESH:D020925,0,,1,IRAK4
+malate dehydrogenase activity,GO:0016615,Hypoxia,MESH:D000860,4,Acetaminophen|Isoproterenol|Nitroprusside|sinapinic acid,0,
+malic enzyme activity,GO:0004470,Hypoxia,MESH:D000860,4,Copper Sulfate|Dietary Fats|Glucose|Nitroprusside,0,
+manganese ion binding,GO:0030145,Hypoxia,MESH:D000860,0,,2,PCK2|SOD2
+MAP kinase activity,GO:0004707,Hypoxia,MESH:D000860,1,"6-hydroxy-2,5,7,8-tetramethylchroman-2-carboxylic acid",0,
+MAP kinase kinase activity,GO:0004708,Hypoxia,MESH:D000860,1,Deoxyglucose,0,
+metal chelating activity,GO:0046911,Hypoxia,MESH:D000860,1,Hydrogen Peroxide,0,
+metal ion binding,GO:0046872,Hypoxia,MESH:D000860,0,,13,ADK|CA9|CPA2|DAF-2|EGR1|GNAS|HIM-6|MPO|NOS1|NOS3|PCK2|SOD2|TKT
+metal ion binding,GO:0046872,"Hypoxia, Brain",MESH:D002534,0,,2,ITPR1|ITPR2
+metal ion binding,GO:0046872,"Hypoxia-Ischemia, Brain",MESH:D020925,0,,1,NOS2
+metallocarboxypeptidase activity,GO:0004181,Hypoxia,MESH:D000860,0,,1,CPA2
+metallopeptidase activity,GO:0008237,Hypoxia,MESH:D000860,0,,1,CPA2
+methionyl-tRNA formyltransferase activity,GO:0004479,Hypoxia,MESH:D000860,0,,1,ALDH1L1
+methylated histone binding,GO:0035064,Hypoxia,MESH:D000860,1,Acetaminophen,0,
+methyltransferase activity,GO:0008168,"Hypoxia, Brain",MESH:D002534,0,,1,ITPR2
+methylumbelliferyl-acetate deacetylase activity,GO:0047374,Hypoxia,MESH:D000860,0,,1,ESD
+MHC class I protein binding,GO:0042288,Hypoxia,MESH:D000860,0,,1,ATP5F1B
+microtubule binding,GO:0008017,Hypoxia,MESH:D000860,0,,1,GAPDH
+microtubule motor activity,GO:0003777,Hypoxia,MESH:D000860,2,Glucose|Hydrogen Peroxide,0,
+misfolded protein binding,GO:0051787,Hypoxia,MESH:D000860,0,,1,HSP70
+molecular adaptor activity,GO:0060090,Hypoxia,MESH:D000860,0,,1,ALDOB
+molecular_function,GO:0003674,Hypoxia,MESH:D000860,0,,1,POMC
+molecular function activator activity,GO:0140677,Hypoxia,MESH:D000860,0,,1,CA9
+monoatomic cation channel activity,GO:0005261,Hypoxia,MESH:D000860,1,Lipopolysaccharides,0,
+monoatomic cation channel activity,GO:0005261,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Lipopolysaccharides,0,
+monoatomic ion channel activity,GO:0005216,"Hypoxia, Brain",MESH:D002534,0,,1,ITPR2
+monosaccharide binding,GO:0048029,Hypoxia,MESH:D000860,0,,1,TKT
+mRNA 5'-UTR binding,GO:0048027,Hypoxia,MESH:D000860,0,,1,RPS14
+mRNA binding,GO:0003729,Hypoxia,MESH:D000860,0,,1,RPS2
+mu-type opioid receptor binding,GO:0031852,Hypoxia,MESH:D000860,0,,1,GNAS
+myosin phosphatase activity,GO:0017018,Hypoxia,MESH:D000860,1,Glucose,0,
+NAD binding,GO:0051287,Hypoxia,MESH:D000860,0,,2,AHCY|GAPDH
+NADH dehydrogenase activity,GO:0003954,Hypoxia,MESH:D000860,1,Isoproterenol,0,
+NADH dehydrogenase (ubiquinone) activity,GO:0008137,Hypoxia,MESH:D000860,16,Acetaminophen|acetovanillone|Arsenic Trioxide|Chloroquine|Chlorpromazine|Copper Sulfate|Deferoxamine|Dietary Fats|Glucose|Hydrogen Peroxide|Isoproterenol|Lipopolysaccharides|Oleic Acid|Oxygen|Resveratrol|Taurine,0,
+NADH dehydrogenase (ubiquinone) activity,GO:0008137,"Hypoxia, Brain",MESH:D002534,1,Plant Extracts,0,
+NADH dehydrogenase (ubiquinone) activity,GO:0008137,"Hypoxia-Ischemia, Brain",MESH:D020925,3,Lipopolysaccharides|Lithium Chloride|Oxygen,0,
+NADP binding,GO:0050661,Hypoxia,MESH:D000860,0,,3,GAPDH|NOS1|NOS3
+NADP binding,GO:0050661,"Hypoxia-Ischemia, Brain",MESH:D020925,0,,1,NOS2
+NADPH binding,GO:0070402,Hypoxia,MESH:D000860,0,,1,NOS1
+NADPH-hemoprotein reductase activity,GO:0003958,Hypoxia,MESH:D000860,1,Taurine,0,
+NAD(P)H oxidase H2O2-forming activity,GO:0016174,Hypoxia,MESH:D000860,7,acetovanillone|Arsenic Trioxide|Glucose|Hydrogen Peroxide|Lipopolysaccharides|Nicotine|Resveratrol,0,
+NAD(P)H oxidase H2O2-forming activity,GO:0016174,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Lipopolysaccharides,0,
+NAD+-protein ADP-ribosyltransferase activity,GO:1990404,Hypoxia,MESH:D000860,1,Hydrogen Peroxide,0,
+nerve growth factor receptor binding,GO:0005163,Hypoxia,MESH:D000860,0,,1,BDNF
+neuropeptide hormone activity,GO:0005184,Hypoxia,MESH:D000860,0,,3,NPPA|PDYN|POMC
+neuropeptide receptor binding,GO:0071855,Hypoxia,MESH:D000860,0,,1,NPPA
+neuropilin binding,GO:0038191,"Hypoxia-Ischemia, Brain",MESH:D020925,0,,1,VEGFA
+neurotransmitter receptor activity,GO:0030594,Hypoxia,MESH:D000860,0,,1,ESD
+neurotrophin TRKB receptor binding,GO:0005169,Hypoxia,MESH:D000860,0,,1,BDNF
+NF-kappaB binding,GO:0051059,Hypoxia,MESH:D000860,1,Lipopolysaccharides,0,
+NF-kappaB binding,GO:0051059,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Lipopolysaccharides,0,
+nitric-oxide synthase activity,GO:0004517,Hypoxia,MESH:D000860,4,Chloroquine|Dietary Fats|Isoproterenol|Resveratrol,2,NOS1|NOS3
+nitric-oxide synthase activity,GO:0004517,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Methamphetamine,1,NOS2
+nitric-oxide synthase binding,GO:0050998,Hypoxia,MESH:D000860,0,,2,ACTB|NOS3
+nitric-oxide synthase binding,GO:0050998,"Hypoxia-Ischemia, Brain",MESH:D020925,0,,1,NOS2
+NMDA glutamate receptor activity,GO:0004972,Hypoxia,MESH:D000860,1,Glucose,0,
+nuclear receptor binding,GO:0016922,"Hypoxia-Ischemia, Brain",MESH:D020925,0,,1,HIF1A
+nucleic acid binding,GO:0003676,Hypoxia,MESH:D000860,0,,2,HIM-6|TFPI
+nucleoside diphosphate kinase activity,GO:0004550,Hypoxia,MESH:D000860,0,,1,NME1
+nucleosomal DNA binding,GO:0031492,Hypoxia,MESH:D000860,0,,1,ACTB
+nucleotide binding,GO:0000166,Hypoxia,MESH:D000860,0,,5,ATP5F1B|GAPDH|GNAS|HIM-6|PCK2
+nucleotide binding,GO:0000166,"Hypoxia-Ischemia, Brain",MESH:D020925,0,,2,IRAK1|IRAK4
+opioid peptide activity,GO:0001515,Hypoxia,MESH:D000860,0,,1,PDYN
+opioid receptor binding,GO:0031628,Hypoxia,MESH:D000860,0,,1,PDYN
+oxidoreductase activity,GO:0016491,Hypoxia,MESH:D000860,0,,8,ACADVL|ALDH1L1|GAPDH|MPO|NOS1|NOS3|SARDH|SOD2
+oxidoreductase activity,GO:0016491,"Hypoxia-Ischemia, Brain",MESH:D020925,0,,1,NOS2
+"oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, reduced flavin or flavoprotein as one donor, and incorporation of one atom of oxygen",GO:0016712,Hypoxia,MESH:D000860,1,Phenobarbital,0,
+"oxidoreductase activity, acting on the aldehyde or oxo group of donors, NAD or NADP as acceptor",GO:0016620,Hypoxia,MESH:D000860,0,,2,ALDH1L1|GAPDH
+"oxidoreductase activity, acting on the CH-CH group of donors",GO:0016627,Hypoxia,MESH:D000860,0,,1,ACADVL
+oxygen binding,GO:0019825,Hypoxia,MESH:D000860,2,Resveratrol|Taurine,1,SOD2
+p53 binding,GO:0002039,"Hypoxia-Ischemia, Brain",MESH:D020925,0,,1,HIF1A
+palmitoyl-CoA oxidase activity,GO:0016401,Hypoxia,MESH:D000860,1,Phenobarbital,0,
+peptidase activator activity involved in apoptotic process,GO:0016505,Hypoxia,MESH:D000860,3,Deferoxamine|Glucose|Hydrogen Peroxide,0,
+peptidase activator activity involved in apoptotic process,GO:0016505,"Hypoxia, Brain",MESH:D002534,1,Plant Extracts,0,
+peptidase activity,GO:0008233,Hypoxia,MESH:D000860,1,Indican,3,CPA2|CTRB1|PLAT
+peptide hormone binding,GO:0017046,Hypoxia,MESH:D000860,0,,1,DAF-2
+peptidyl-cysteine S-nitrosylase activity,GO:0035605,Hypoxia,MESH:D000860,0,,2,GAPDH|NOS1
+peroxidase activity,GO:0004601,Hypoxia,MESH:D000860,1,Arsenic Trioxide,1,MPO
+phosphatidylcholine binding,GO:0031210,Hypoxia,MESH:D000860,0,,1,ALDOB
+phosphatidylcholine-sterol O-acyltransferase activator activity,GO:0060228,Hypoxia,MESH:D000860,0,,1,APOA1
+phosphatidylinositol binding,GO:0035091,"Hypoxia, Brain",MESH:D002534,0,,2,ITPR1|ITPR2
+phosphoenolpyruvate carboxykinase activity,GO:0004611,Hypoxia,MESH:D000860,1,Arsenic Trioxide,1,PCK2
+phosphoenolpyruvate carboxykinase activity,GO:0004611,"Hypoxia, Brain",MESH:D002534,1,Plant Extracts,0,
+phosphoenolpyruvate carboxykinase (GTP) activity,GO:0004613,Hypoxia,MESH:D000860,0,,1,PCK2
+phospholipase A2 activity,GO:0004623,Hypoxia,MESH:D000860,1,Indomethacin,0,
+phospholipase A2 activity,GO:0004623,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Dexamethasone,0,
+phospholipid binding,GO:0005543,Hypoxia,MESH:D000860,0,,1,APOA1
+phosphoprotein binding,GO:0051219,Hypoxia,MESH:D000860,0,,2,NOS1|PLAT
+platelet-derived growth factor receptor binding,GO:0005161,"Hypoxia-Ischemia, Brain",MESH:D020925,0,,1,VEGFA
+promoter-specific chromatin binding,GO:1990841,Hypoxia,MESH:D000860,0,,2,ATF4|EGR1
+protein binding,GO:0005515,Hypoxia,MESH:D000860,0,,32,ACADVL|ACTB|AHCY|ALDH1L1|ALDOB|APOA1|ATF4|ATP5F1B|BDNF|CA9|CPA2|CTRB1|DAF-2|EGR1|ESD|GAPDH|GNAS|HIM-6|MPO|NME1|NOS1|NOS3|NPPA|PCK2|PDYN|PLAT|POMC|RPS14|RPS2|SARDH|SOD2|TKT
+protein binding,GO:0005515,"Hypoxia, Brain",MESH:D002534,0,,2,ITPR1|ITPR2
+protein binding,GO:0005515,"Hypoxia-Ischemia, Brain",MESH:D020925,0,,5,HIF1A|IRAK1|IRAK4|NOS2|VEGFA
+protein-containing complex binding,GO:0044877,Hypoxia,MESH:D000860,0,,2,ALDH1L1|RPS2
+protein-containing complex binding,GO:0044877,"Hypoxia, Brain",MESH:D002534,0,,1,ITPR1
+protein-containing complex binding,GO:0044877,"Hypoxia-Ischemia, Brain",MESH:D020925,0,,1,HIF1A
+protein dimerization activity,GO:0046983,"Hypoxia-Ischemia, Brain",MESH:D020925,0,,1,HIF1A
+protein disulfide isomerase activity,GO:0003756,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Methamphetamine,0,
+protein domain specific binding,GO:0019904,Hypoxia,MESH:D000860,0,,1,GNAS
+protein domain specific binding,GO:0019904,"Hypoxia, Brain",MESH:D002534,0,,1,ITPR1
+protein domain specific binding,GO:0019904,"Hypoxia-Ischemia, Brain",MESH:D020925,0,,1,HIF1A
+protein heterodimerization activity,GO:0046982,Hypoxia,MESH:D000860,0,,1,ATF4
+protein heterodimerization activity,GO:0046982,"Hypoxia-Ischemia, Brain",MESH:D020925,0,,2,HIF1A|IRAK1
+protein homodimerization activity,GO:0042803,Hypoxia,MESH:D000860,0,,2,APOA1|TKT
+protein homodimerization activity,GO:0042803,"Hypoxia, Brain",MESH:D002534,0,,1,ITPR1
+protein homodimerization activity,GO:0042803,"Hypoxia-Ischemia, Brain",MESH:D020925,0,,3,IRAK1|NOS2|VEGFA
+protein kinase activity,GO:0004672,Hypoxia,MESH:D000860,0,,1,DAF-2
+protein kinase activity,GO:0004672,"Hypoxia-Ischemia, Brain",MESH:D020925,0,,2,IRAK1|IRAK4
+protein kinase binding,GO:0019901,Hypoxia,MESH:D000860,0,,4,ACTB|ATF4|DAF-2|NME1
+protein kinase binding,GO:0019901,"Hypoxia-Ischemia, Brain",MESH:D020925,0,,4,HIF1A|IRAK1|IRAK4|NOS2
+protein kinase C activity,GO:0004697,Hypoxia,MESH:D000860,1,Glucose,0,
+protein phosphatase binding,GO:0019903,"Hypoxia, Brain",MESH:D002534,0,,1,ITPR1
+protein serine kinase activity,GO:0106310,"Hypoxia-Ischemia, Brain",MESH:D020925,0,,2,IRAK1|IRAK4
+protein serine/threonine kinase activity,GO:0004674,"Hypoxia-Ischemia, Brain",MESH:D020925,0,,2,IRAK1|IRAK4
+protein serine/threonine phosphatase activity,GO:0004722,Hypoxia,MESH:D000860,1,Verapamil,0,
+protein tyrosine kinase activity,GO:0004713,Hypoxia,MESH:D000860,0,,1,DAF-2
+protein tyrosine phosphatase activity,GO:0004725,Hypoxia,MESH:D000860,1,Arsenic Trioxide,0,
+"proton-transporting ATPase activity, rotational mechanism",GO:0046961,Hypoxia,MESH:D000860,3,Chlorpromazine|Resveratrol|Taurine,1,ATP5F1B
+"proton-transporting ATP synthase activity, rotational mechanism",GO:0046933,Hypoxia,MESH:D000860,0,,1,ATP5F1B
+PTB domain binding,GO:0051425,Hypoxia,MESH:D000860,0,,1,DAF-2
+P-type calcium transporter activity,GO:0005388,Hypoxia,MESH:D000860,2,Arsenic Trioxide|Lipopolysaccharides,0,
+P-type calcium transporter activity,GO:0005388,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Lipopolysaccharides,0,
+P-type sodium:potassium-exchanging transporter activity,GO:0005391,Hypoxia,MESH:D000860,13,"6-hydroxy-2,5,7,8-tetramethylchroman-2-carboxylic acid|Arsenic Trioxide|Chlorpromazine|Deoxyglucose|Dietary Fats|Glucose|Indomethacin|Isoproterenol|Lipopolysaccharides|Resveratrol|Taurine|Vitamin E|Zinc Sulfate",0,
+P-type sodium:potassium-exchanging transporter activity,GO:0005391,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Lipopolysaccharides,0,
+purine nucleotide binding,GO:0017076,Hypoxia,MESH:D000860,0,,1,PCK2
+pyruvate dehydrogenase (acetyl-transferring) activity,GO:0004739,Hypoxia,MESH:D000860,1,Dietary Fats,0,
+pyruvate dehydrogenase activity,GO:0004738,Hypoxia,MESH:D000860,1,Dietary Fats,0,
+pyruvate dehydrogenase activity,GO:0004738,"Hypoxia-Ischemia, Brain",MESH:D020925,1,caffeic acid phenethyl ester,0,
+pyruvate kinase activity,GO:0004743,Hypoxia,MESH:D000860,1,Deoxyglucose,0,
+receptor ligand activity,GO:0048018,Hypoxia,MESH:D000860,0,,1,APOA1
+receptor ligand activity,GO:0048018,"Hypoxia-Ischemia, Brain",MESH:D020925,0,,1,VEGFA
+Rho-dependent protein serine/threonine kinase activity,GO:0072518,Hypoxia,MESH:D000860,1,Oxygen,0,
+Rho-dependent protein serine/threonine kinase activity,GO:0072518,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Oxygen,2,IRAK1|IRAK4
+ribosomal protein S6 kinase activity,GO:0004711,"Hypoxia-Ischemia, Brain",MESH:D020925,0,,2,IRAK1|IRAK4
+ribosomal small subunit binding,GO:0043024,Hypoxia,MESH:D000860,0,,1,NME1
+RNA binding,GO:0003723,Hypoxia,MESH:D000860,0,,2,RPS14|RPS2
+RNA polymerase II cis-regulatory region sequence-specific DNA binding,GO:0000978,Hypoxia,MESH:D000860,0,,2,ATF4|EGR1
+RNA polymerase II cis-regulatory region sequence-specific DNA binding,GO:0000978,"Hypoxia-Ischemia, Brain",MESH:D020925,0,,1,HIF1A
+RNA polymerase II core promoter sequence-specific DNA binding,GO:0000979,Hypoxia,MESH:D000860,0,,1,EGR1
+RNA polymerase II-specific DNA-binding transcription factor binding,GO:0061629,Hypoxia,MESH:D000860,0,,2,ATF4|NOS1
+RNA polymerase II-specific DNA-binding transcription factor binding,GO:0061629,"Hypoxia-Ischemia, Brain",MESH:D020925,0,,1,HIF1A
+RNA polymerase II transcription regulatory region sequence-specific DNA binding,GO:0000977,Hypoxia,MESH:D000860,0,,3,ATF4|EGR1|NME1
+RNA polymerase II transcription regulatory region sequence-specific DNA binding,GO:0000977,"Hypoxia-Ischemia, Brain",MESH:D020925,0,,1,HIF1A
+sarcosine dehydrogenase activity,GO:0008480,Hypoxia,MESH:D000860,0,,1,SARDH
+scaffold protein binding,GO:0097110,Hypoxia,MESH:D000860,0,,2,NOS1|NOS3
+scaffold protein binding,GO:0097110,"Hypoxia, Brain",MESH:D002534,0,,1,ITPR2
+sequence-specific DNA binding,GO:0043565,Hypoxia,MESH:D000860,0,,2,ATF4|EGR1
+sequence-specific DNA binding,GO:0043565,"Hypoxia-Ischemia, Brain",MESH:D020925,0,,1,HIF1A
+sequence-specific double-stranded DNA binding,GO:1990837,Hypoxia,MESH:D000860,0,,2,ATF4|EGR1
+serine-type endopeptidase activity,GO:0004252,Hypoxia,MESH:D000860,0,,2,CTRB1|PLAT
+serine-type endopeptidase inhibitor activity,GO:0004867,Hypoxia,MESH:D000860,0,,1,TFPI
+serine-type peptidase activity,GO:0008236,Hypoxia,MESH:D000860,0,,2,CTRB1|PLAT
+S-formylglutathione hydrolase activity,GO:0018738,Hypoxia,MESH:D000860,0,,1,ESD
+SH2 domain binding,GO:0042169,Hypoxia,MESH:D000860,0,,1,DAF-2
+signaling receptor binding,GO:0005102,Hypoxia,MESH:D000860,0,,5,APOA1|BDNF|NPPA|PLAT|POMC
+single-stranded DNA binding,GO:0003697,Hypoxia,MESH:D000860,0,,1,NME1
+small ribosomal subunit rRNA binding,GO:0070181,Hypoxia,MESH:D000860,0,,1,RPS14
+sodium channel activity,GO:0005272,Hypoxia,MESH:D000860,1,Resveratrol,0,
+sodium channel regulator activity,GO:0017080,Hypoxia,MESH:D000860,0,,1,NOS1
+starch synthase activity,GO:0009011,Hypoxia,MESH:D000860,2,Dietary Fats|Nicotine,0,
+structural constituent of cytoskeleton,GO:0005200,Hypoxia,MESH:D000860,0,,1,ACTB
+structural constituent of postsynaptic actin cytoskeleton,GO:0098973,Hypoxia,MESH:D000860,0,,1,ACTB
+structural constituent of ribosome,GO:0003735,Hypoxia,MESH:D000860,0,,2,RPS14|RPS2
+succinate dehydrogenase activity,GO:0000104,Hypoxia,MESH:D000860,6,Arsenic Trioxide|Dietary Fats|Gallic Acid|Hydrogen Peroxide|Isoproterenol|Lipopolysaccharides,0,
+succinate dehydrogenase activity,GO:0000104,"Hypoxia, Brain",MESH:D002534,1,Plant Extracts,0,
+succinate dehydrogenase activity,GO:0000104,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Lipopolysaccharides,0,
+succinate dehydrogenase (ubiquinone) activity,GO:0008177,Hypoxia,MESH:D000860,13,Acetaminophen|acetovanillone|Arsenic Trioxide|Chloroquine|Copper Sulfate|Deferoxamine|Dietary Fats|Gallic Acid|Glucose|Heparin|Isoproterenol|Oleic Acid|Oxygen,0,
+succinate dehydrogenase (ubiquinone) activity,GO:0008177,"Hypoxia-Ischemia, Brain",MESH:D020925,2,Lithium Chloride|Oxygen,0,
+sulfotransferase activity,GO:0008146,"Hypoxia, Brain",MESH:D002534,1,Plant Extracts,0,
+superoxide dismutase activity,GO:0004784,Fetal Hypoxia,MESH:D005311,1,Ibuprofen,0,
+superoxide dismutase activity,GO:0004784,Hypoxia,MESH:D000860,40,Acetaminophen|acetovanillone|Allopurinol|Arsenic Trioxide|Bleomycin|Bupivacaine|Buprenorphine|Chloroquine|cobaltous chloride|Copper Sulfate|cyclo(Trp-Asp-Pro-Val-Leu)|Deferoxamine|Diazepam|Dietary Fats|Fluorouracil|Gallic Acid|Glucose|Hydrochloric Acid|Hydrogen Peroxide|Indomethacin|Isoflurane|Isoproterenol|Ketamine|Lipopolysaccharides|Morphine|Naloxone|Nicotine|Nitroprusside|Oleic Acid|Oxygen|Phenobarbital|Propofol|Propylthiouracil|Resveratrol|Sevoflurane|sinapinic acid|Taurine|Verapamil|Vitamin E|Zinc Sulfate,1,SOD2
+superoxide dismutase activity,GO:0004784,"Hypoxia, Brain",MESH:D002534,5,cobaltous chloride|Cocaine|Edaravone|Morphine|Plant Extracts,0,
+superoxide dismutase activity,GO:0004784,"Hypoxia-Ischemia, Brain",MESH:D020925,7,cobaltous chloride|Cocaine|Dexamethasone|Lipopolysaccharides|Lithium Chloride|Methamphetamine|Oxygen,0,
+superoxide-generating NAD(P)H oxidase activity,GO:0016175,Hypoxia,MESH:D000860,0,,1,NOS3
+superoxide-generating NADPH oxidase activity,GO:0106292,Hypoxia,MESH:D000860,1,Glucose,0,
+superoxide-generating NADPH oxidase activity,GO:0106292,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Methamphetamine,0,
+Tat protein binding,GO:0030957,Hypoxia,MESH:D000860,0,,1,ACTB
+tau protein binding,GO:0048156,Hypoxia,MESH:D000860,0,,1,ACTB
+telomerase activity,GO:0003720,Hypoxia,MESH:D000860,1,Arsenic Trioxide,0,
+testosterone 6-beta-hydroxylase activity,GO:0050649,Hypoxia,MESH:D000860,1,Phenobarbital,0,
+testosterone 6-beta-hydroxylase activity,GO:0050649,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Dexamethasone,0,
+tetrahydrobiopterin binding,GO:0034617,Hypoxia,MESH:D000860,0,,2,NOS1|NOS3
+tetrahydrobiopterin binding,GO:0034617,"Hypoxia-Ischemia, Brain",MESH:D020925,0,,1,NOS2
+thiamine pyrophosphate binding,GO:0030976,Hypoxia,MESH:D000860,0,,1,TKT
+thioredoxin-disulfide reductase activity,GO:0004791,Hypoxia,MESH:D000860,1,acetovanillone,0,
+Toll-like receptor 4 binding,GO:0035662,Hypoxia,MESH:D000860,1,Chloroquine,0,
+transaminase activity,GO:0008483,"Hypoxia, Brain",MESH:D002534,1,Plant Extracts,0,
+transcription cis-regulatory region binding,GO:0000976,Hypoxia,MESH:D000860,0,,2,ATF4|EGR1
+transcription coactivator binding,GO:0001223,"Hypoxia-Ischemia, Brain",MESH:D020925,0,,1,HIF1A
+transcription factor binding,GO:0008134,Hypoxia,MESH:D000860,1,Sevoflurane,0,
+transcription regulator activator activity,GO:0140537,"Hypoxia-Ischemia, Brain",MESH:D020925,0,,1,HIF1A
+transferase activity,GO:0016740,Hypoxia,MESH:D000860,0,,3,CS|GAPDH|TKT
+transferase activity,GO:0016740,"Hypoxia-Ischemia, Brain",MESH:D020925,0,,2,IRAK1|IRAK4
+transketolase activity,GO:0004802,Hypoxia,MESH:D000860,1,Glucose,1,TKT
+transketolase or transaldolase activity,GO:0016744,Hypoxia,MESH:D000860,0,,1,TKT
+translation regulator activity,GO:0045182,Hypoxia,MESH:D000860,0,,1,RPS14
+transmembrane receptor protein tyrosine kinase activator activity,GO:0030297,"Hypoxia-Ischemia, Brain",MESH:D020925,0,,1,VEGFA
+transmembrane receptor protein tyrosine kinase activity,GO:0004714,Hypoxia,MESH:D000860,0,,1,DAF-2
+transmembrane transporter binding,GO:0044325,Hypoxia,MESH:D000860,0,,1,NOS1
+transmembrane transporter binding,GO:0044325,"Hypoxia, Brain",MESH:D002534,0,,2,ITPR1|ITPR2
+triglyceride lipase activity,GO:0004806,Hypoxia,MESH:D000860,1,Dietary Fats,0,
+type 1 melanocortin receptor binding,GO:0070996,Hypoxia,MESH:D000860,0,,1,POMC
+type 3 melanocortin receptor binding,GO:0031781,Hypoxia,MESH:D000860,0,,1,POMC
+type 4 melanocortin receptor binding,GO:0031782,Hypoxia,MESH:D000860,0,,1,POMC
+ubiquinol-cytochrome-c reductase activity,GO:0008121,Hypoxia,MESH:D000860,9,Acetaminophen|Arsenic Trioxide|Chloroquine|Chlorpromazine|Deferoxamine|Gallic Acid|Isoproterenol|Oleic Acid|Oxygen,0,
+ubiquinol-cytochrome-c reductase activity,GO:0008121,"Hypoxia-Ischemia, Brain",MESH:D020925,1,Oxygen,0,
+ubiquitin protein ligase binding,GO:0031625,Hypoxia,MESH:D000860,0,,1,HSP70
+ubiquitin protein ligase binding,GO:0031625,"Hypoxia-Ischemia, Brain",MESH:D020925,0,,1,HIF1A
+unfolded protein binding,GO:0051082,Hypoxia,MESH:D000860,0,,1,HSP70
+vascular endothelial growth factor receptor 1 binding,GO:0043183,"Hypoxia-Ischemia, Brain",MESH:D020925,0,,1,VEGFA
+vascular endothelial growth factor receptor 2 binding,GO:0043184,"Hypoxia-Ischemia, Brain",MESH:D020925,0,,1,VEGFA
+vascular endothelial growth factor receptor binding,GO:0005172,"Hypoxia-Ischemia, Brain",MESH:D020925,0,,1,VEGFA
+very-long-chain-acyl-CoA dehydrogenase activity,GO:0017099,Hypoxia,MESH:D000860,0,,1,ACADVL
+voltage-gated calcium channel activity,GO:0005245,Hypoxia,MESH:D000860,1,Glucose,0,
+voltage-gated channel activity,GO:0022832,Hypoxia,MESH:D000860,1,Deoxyglucose,0,
+voltage-gated potassium channel activity,GO:0005249,Hypoxia,MESH:D000860,1,Glucose,0,
+voltage-gated sodium channel activity,GO:0005248,Hypoxia,MESH:D000860,1,Lidocaine,0,
+xanthine dehydrogenase activity,GO:0004854,Hypoxia,MESH:D000860,1,Allopurinol,0,
+xanthine oxidase activity,GO:0004855,Hypoxia,MESH:D000860,1,Allopurinol,0,
+zinc ion binding,GO:0008270,Hypoxia,MESH:D000860,0,,5,CA9|CPA2|EGR1|NOS1|TFPI

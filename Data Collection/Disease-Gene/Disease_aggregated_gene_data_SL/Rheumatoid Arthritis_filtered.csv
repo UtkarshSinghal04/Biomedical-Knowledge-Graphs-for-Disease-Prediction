@@ -1,0 +1,3 @@
+GeneSymbol,GeneID,DiseaseName,DiseaseID,DirectEvidence,InferenceChemicalName,InferenceScore,OmimIDs,PubMedIDs
+IL6,3569,"Rheumatoid Arthritis, Systemic Juvenile",MESH:C565798,marker/mechanism,,,604302,
+MIF,4282,"Rheumatoid Arthritis, Systemic Juvenile",MESH:C565798,marker/mechanism,,,604302,

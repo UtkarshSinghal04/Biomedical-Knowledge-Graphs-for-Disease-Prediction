@@ -1,0 +1,120 @@
+GeneSymbol,GeneID,DiseaseName,DiseaseID,DirectEvidence,OmimIDs,PubMedIDs
+ADCY2,108,Asthma,MESH:D001249,marker/mechanism,,21912604
+ADCYAP1R1,117,Asthma,MESH:D001249,marker/mechanism,,21059121
+AGER,177,Asthma,MESH:D001249,marker/mechanism,,33075463
+AGER,177,"Asthma, Occupational",MESH:D059366,marker/mechanism,,33075463
+ALDH2,217,Asthma,MESH:D001249,marker/mechanism,,11506308|9600491
+ALOX5,240,Asthma,MESH:D001249,marker/mechanism,600807,
+AREG,374,Asthma,MESH:D001249,marker/mechanism,,15696081
+ARG1,383,Asthma,MESH:D001249,marker/mechanism,,19281908|19800904
+ARG2,384,Asthma,MESH:D001249,marker/mechanism,,19281908
+BCL2,596,Asthma,MESH:D001249,marker/mechanism,,18357729
+BGLAP,632,Asthma,MESH:D001249,marker/mechanism,,8429434
+CAT,847,Asthma,MESH:D001249,marker/mechanism,,18048809
+CCL11,6356,Asthma,MESH:D001249,marker/mechanism,600807,
+CCL2,6347,Asthma,MESH:D001249,marker/mechanism,,19373627
+CCL5,6352,Asthma,MESH:D001249,marker/mechanism,,8534483
+CCR3,1232,"Asthma, Aspirin-Induced",MESH:D055963,marker/mechanism,,20485159
+CD14,929,Asthma,MESH:D001249,marker/mechanism,,17607003
+CDH17,1015,"Asthma, Occupational",MESH:D059366,marker/mechanism,,25918132
+CDHR3,222256,Asthma,MESH:D001249,marker/mechanism,,24241537
+CHI3L1,1116,"ASTHMA-RELATED TRAITS, SUSCEPTIBILITY TO, 7",OMIM:611960,marker/mechanism,611960,
+CLDN18,51208,Asthma,MESH:D001249,marker/mechanism,,27215490
+CTLA4,1493,Asthma,MESH:D001249,marker/mechanism,,28807506
+CTNNA3,29119,Asthma,MESH:D001249,marker/mechanism,,19187332
+CXCL14,9547,Asthma,MESH:D001249,marker/mechanism,,21150878
+CYP2E1,1571,Asthma,MESH:D001249,marker/mechanism,,28807506
+CYSLTR1,10800,"Asthma, Aspirin-Induced",MESH:D055963,marker/mechanism,,16502481|17641958|20485159
+CYSLTR2,57105,"Asthma, Aspirin-Induced",MESH:D055963,marker/mechanism,,16502481|20485159
+DNAH5,1767,Asthma,MESH:D001249,marker/mechanism,,21912604
+DNMT1,1786,Asthma,MESH:D001249,marker/mechanism,,23423710
+EDN1,1906,Asthma,MESH:D001249,marker/mechanism,,16981460
+FOXP3,50943,Asthma,MESH:D001249,marker/mechanism,,27965764|29317916
+GSDMB,55876,Asthma,MESH:D001249,marker/mechanism,,24241537
+GSTM1,2944,Asthma,MESH:D001249,marker/mechanism,,16870661|18988661
+GSTP1,2950,Asthma,MESH:D001249,marker/mechanism,,11994713|16870661|18988661|24117884|29411558
+HERC2,8924,"Asthma, Occupational",MESH:D059366,marker/mechanism,,25918132
+HLA-DPB1,3115,Asthma,MESH:D001249,marker/mechanism,,16792590|17956852
+HLA-DPB1,3115,"Asthma, Aspirin-Induced",MESH:D055963,marker/mechanism,,16502481
+HLA-DQA1,3117,Asthma,MESH:D001249,marker/mechanism,,10792356
+HLA-DQB1,3119,Asthma,MESH:D001249,marker/mechanism,,10792356
+HLA-DRB1,3123,Asthma,MESH:D001249,marker/mechanism,,16792590
+HLA-G,3135,Asthma,MESH:D001249,marker/mechanism,600807,
+HMOX1,3162,Asthma,MESH:D001249,marker/mechanism,,18048809
+HNMT,3176,Asthma,MESH:D001249,marker/mechanism,600807,17651147
+HSD11B2,3291,Asthma,MESH:D001249,marker/mechanism,,11932298
+HTR2A,3356,Asthma,MESH:D001249,marker/mechanism,,25322896
+ICAM1,3383,Asthma,MESH:D001249,marker/mechanism,,17014439|25003170
+IFNL3,282617,Asthma,MESH:D001249,marker/mechanism,,22295096
+IKZF3,22806,Asthma,MESH:D001249,marker/mechanism,,25256354
+IL10,3586,Asthma,MESH:D001249,marker/mechanism,,29317916
+IL13,3596,Asthma,MESH:D001249,marker/mechanism,600807,22867017
+IL1B,3553,Asthma,MESH:D001249,marker/mechanism,,9176529
+IL1RL1,9173,Asthma,MESH:D001249,marker/mechanism,,19198610|21150878|21804549|24241537|27472835
+IL1RN,3557,Asthma,MESH:D001249,marker/mechanism,,9176529
+IL33,90865,Asthma,MESH:D001249,marker/mechanism,,19198610|21804549|24241537|27472835|29067999
+IL4,3565,Asthma,MESH:D001249,marker/mechanism,,18357729
+IL5,3567,Asthma,MESH:D001249,marker/mechanism,,23266719|7540862
+IL6,3569,Asthma,MESH:D001249,marker/mechanism,,29902480
+IL6R,3570,Asthma,MESH:D001249,marker/mechanism,,29902480
+IRAK3,11213,"ASTHMA-RELATED TRAITS, SUSCEPTIBILITY TO, 5",OMIM:611064,marker/mechanism,611064,
+KIF3A,11127,Asthma,MESH:D001249,marker/mechanism,,21912604
+KRT19,3880,Asthma,MESH:D001249,marker/mechanism,,15478392
+LTC4S,4056,"Asthma, Aspirin-Induced",MESH:D055963,marker/mechanism,,10970818|20485159|9393345|9466979
+MMP1,4312,Asthma,MESH:D001249,marker/mechanism,,24469321
+MMP10,4319,Asthma,MESH:D001249,marker/mechanism,,16926187
+MMP9,4318,Asthma,MESH:D001249,marker/mechanism,,11742282|15131573
+MS4A2,2206,"Asthma, Aspirin-Induced",MESH:D055963,marker/mechanism,,16502481
+MUC7,4589,Asthma,MESH:D001249,marker/mechanism,600807,
+MYB,4602,Asthma,MESH:D001249,marker/mechanism,,19198610
+NAT1,9,Asthma,MESH:D001249,marker/mechanism,,31809667
+NOS2,4843,Asthma,MESH:D001249,marker/mechanism,,19800904
+NPSR1,387129,Asthma,MESH:D001249,marker/mechanism,,15710598|15764725|16926187
+NPSR1,387129,"ASTHMA-RELATED TRAITS, SUSCEPTIBILITY TO, 2",OMIM:608584,marker/mechanism,608584,
+NPY,4852,Asthma,MESH:D001249,marker/mechanism,,9731035
+NQO1,1728,Asthma,MESH:D001249,marker/mechanism,,20049212
+ORMDL3,94103,Asthma,MESH:D001249,marker/mechanism,,21150878|25256354
+OVAL,396058,Asthma,MESH:D001249,marker/mechanism,,22733167|24950052|25739523|26549244|28529457
+PARP1,142,Asthma,MESH:D001249,marker/mechanism,,18261157
+PDE4B,5142,Asthma,MESH:D001249,marker/mechanism,,21912604
+PDE4D,5144,Asthma,MESH:D001249,marker/mechanism,,19426955|21611147
+PLA2G4A,5321,"Asthma, Occupational",MESH:D059366,marker/mechanism,,27504716
+PLA2G7,7941,Asthma,MESH:D001249,marker/mechanism,,10733466
+PLAU,5328,Asthma,MESH:D001249,marker/mechanism,,21912604
+POSTN,10631,"Asthma, Aspirin-Induced",MESH:D055963,marker/mechanism,,18391768
+PPP2CA,5515,Asthma,MESH:D001249,marker/mechanism,,22205926
+PRKCA,5578,"Asthma, Occupational",MESH:D059366,marker/mechanism,,27504716
+PRKD1,5587,"Asthma, Occupational",MESH:D059366,marker/mechanism,,27504716
+PTEN,5728,Asthma,MESH:D001249,therapeutic,,17982072
+PTGDR,5729,"ASTHMA-RELATED TRAITS, SUSCEPTIBILITY TO, 1",OMIM:607277,marker/mechanism,607277,
+PTGDR2,11251,Asthma,MESH:D001249,therapeutic,,27103662
+PTGDR2,11251,"Asthma, Aspirin-Induced",MESH:D055963,marker/mechanism,,20485159
+PTGER2,5732,"Asthma, Aspirin-Induced",MESH:D055963,marker/mechanism,,16502481
+PTGER2,5732,"Asthma, Nasal Polyps, And Aspirin Intolerance",MESH:C565935,marker/mechanism,208550,
+PTGIR,5739,"Asthma, Aspirin-Induced",MESH:D055963,marker/mechanism,,20485159
+PTGS1,5742,"Asthma, Occupational",MESH:D059366,marker/mechanism,,25721048
+PTGS2,5743,"Asthma, Aspirin-Induced",MESH:D055963,marker/mechanism,,16502481|20485159
+PTGS2,5743,"Asthma, Occupational",MESH:D059366,marker/mechanism,,25721048
+PYHIN1,149628,Asthma,MESH:D001249,marker/mechanism,,21804549
+RAD50,10111,Asthma,MESH:D001249,marker/mechanism,,24241537
+RNASE3,6037,Asthma,MESH:D001249,marker/mechanism,,12153692|12587966|8874658
+SCGB3A2,117156,Asthma,MESH:D001249,marker/mechanism,600807,
+SOD1,6647,Asthma,MESH:D001249,marker/mechanism,,22867017
+SPRR2B,6701,Asthma,MESH:D001249,marker/mechanism,,21912604
+STAT4,6775,Asthma,MESH:D001249,marker/mechanism,,28807506
+TBX21,30009,Asthma,MESH:D001249,marker/mechanism,,15806396
+TBX21,30009,"Asthma, Aspirin-Induced",MESH:D055963,marker/mechanism,,16502481
+TBX21,30009,"Asthma, Nasal Polyps, And Aspirin Intolerance",MESH:C565935,marker/mechanism,208550,
+TBXA2R,6915,"Asthma, Aspirin-Induced",MESH:D055963,marker/mechanism,,16502481|20485159
+TENM3,55714,"Asthma, Occupational",MESH:D059366,marker/mechanism,,25918132
+TGFB1,7040,Asthma,MESH:D001249,marker/mechanism,,16365456|19138248
+TGFB1,7040,"Asthma, Occupational",MESH:D059366,marker/mechanism,,25721048
+TIMP3,7078,Asthma,MESH:D001249,marker/mechanism,,16926187
+TNC,3371,Asthma,MESH:D001249,marker/mechanism,,16115819
+TNF,7124,Asthma,MESH:D001249,marker/mechanism,600807,12356572|14681301|16456144|17450233|20049212
+TNF,7124,"Asthma, Occupational",MESH:D059366,marker/mechanism,,25721048
+TNIP1,10318,Asthma,MESH:D001249,marker/mechanism,,24453940
+TRPA1,8989,Asthma,MESH:D001249,marker/mechanism,,19458046
+TSLP,85480,Asthma,MESH:D001249,marker/mechanism,,21804549
+VEGFA,7422,Asthma,MESH:D001249,marker/mechanism,,11907124|15201500|19263519
+WDR36,134430,Asthma,MESH:D001249,marker/mechanism,,19198610

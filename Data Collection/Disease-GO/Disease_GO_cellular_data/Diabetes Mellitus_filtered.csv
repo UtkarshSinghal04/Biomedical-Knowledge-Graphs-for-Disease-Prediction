@@ -1,0 +1,1200 @@
+GOName,GOID,DiseaseName,DiseaseID,InferenceChemicalQty,InferenceChemicalNames,InferenceGeneQty,InferenceGeneSymbols
+6-phosphofructokinase complex,GO:0005945,"Diabetes Mellitus, Experimental",MESH:D003921,0,,1,PFKM
+acrosomal membrane,GO:0002080,"Diabetes Mellitus, Experimental",MESH:D003921,1,sodium arsenite,2,CAV1|MFGE8
+acrosomal membrane,GO:0002080,"Diabetes Mellitus, Type 1",MESH:D003922,1,sodium arsenite,0,
+acrosomal vesicle,GO:0001669,"Diabetes Mellitus, Experimental",MESH:D003921,0,,1,KCNJ11
+acrosomal vesicle,GO:0001669,"Diabetes Mellitus, Transient Neonatal, 3",MESH:C566432,0,,1,KCNJ11
+acrosomal vesicle,GO:0001669,"Diabetes Mellitus, Type 1",MESH:D003922,0,,2,CTSH|KCNJ11
+acrosomal vesicle,GO:0001669,"Diabetes Mellitus, Type 2",MESH:D003924,0,,2,ITGA1|KCNJ11
+actin cytoskeleton,GO:0015629,"Diabetes Mellitus, Experimental",MESH:D003921,0,,1,SNAP25
+actin cytoskeleton,GO:0015629,"Diabetes Mellitus, Type 2",MESH:D003924,0,,3,AUTS2|MAEA|SNAP25
+actin filament,GO:0005884,Diabetes Mellitus,MESH:D003920,1,Cadmium,1,RAC1
+actin filament,GO:0005884,"Diabetes Mellitus, Experimental",MESH:D003921,0,,1,GCK
+actin filament,GO:0005884,"Diabetes Mellitus, Permanent Neonatal",MESH:C563425,0,,1,GCK
+actin filament,GO:0005884,"Diabetes Mellitus, Type 2",MESH:D003924,1,Cadmium,1,GCK
+actin filament bundle,GO:0032432,Diabetes Mellitus,MESH:D003920,1,Particulate Matter,0,
+actin filament bundle,GO:0032432,"Diabetes Mellitus, Type 2",MESH:D003924,1,Particulate Matter,0,
+actomyosin contractile ring,GO:0005826,"Diabetes Mellitus, Type 2",MESH:D003924,0,,1,MAEA
+adherens junction,GO:0005912,Diabetes Mellitus,MESH:D003920,0,,2,A|KIF1A
+adherens junction,GO:0005912,"Diabetes Mellitus, Experimental",MESH:D003921,0,,1,VEGFA
+adherens junction,GO:0005912,"Diabetes Mellitus, Type 2",MESH:D003924,0,,1,A
+aggresome,GO:0016235,"Diabetes Mellitus, Type 1",MESH:D003922,0,,1,PRKCQ
+AIM2 inflammasome complex,GO:0097169,"Diabetes Mellitus, Type 1",MESH:D003922,0,,1,CASP12
+AIM2 inflammasome complex,GO:0097169,"Diabetes Mellitus, Type 2",MESH:D003924,1,perfluorooctane sulfonic acid,0,
+alphav-beta3 integrin-IGF-1-IGF1R complex,GO:0035867,"Diabetes Mellitus, Experimental",MESH:D003921,0,,1,IGF1
+alphav-beta3 integrin-IGF-1-IGF1R complex,GO:0035867,"Diabetes Mellitus, Type 1",MESH:D003922,0,,1,IGF1
+alphav-beta3 integrin-PKCalpha complex,GO:0035866,"Diabetes Mellitus, Experimental",MESH:D003921,0,,1,PRKCA
+alveolar lamellar body,GO:0097208,Diabetes Mellitus,MESH:D003920,1,Particulate Matter,0,
+alveolar lamellar body,GO:0097208,"Diabetes Mellitus, Type 1",MESH:D003922,0,,1,CTSH
+alveolar lamellar body,GO:0097208,"Diabetes Mellitus, Type 2",MESH:D003924,1,Particulate Matter,0,
+AP-3 adaptor complex,GO:0030123,"Diabetes Mellitus, Type 2",MESH:D003924,0,,1,AP3S2
+apical dendrite,GO:0097440,"Diabetes Mellitus, Experimental",MESH:D003921,0,,2,FAS|PPARGC1A
+apical dendrite,GO:0097440,"Diabetes Mellitus, Type 2",MESH:D003924,0,,3,ENPP1|FAS|PPARGC1A
+apical ectoplasmic specialization,GO:0061831,"Diabetes Mellitus, Experimental",MESH:D003921,0,,1,ATP2A2
+apical ectoplasmic specialization,GO:0061831,"Diabetes Mellitus, Type 2",MESH:D003924,0,,1,ATP2A2
+apical part of cell,GO:0045177,"Diabetes Mellitus, Experimental",MESH:D003921,0,,4,HSD11B1|NOS3|PRKCA|REN
+apical part of cell,GO:0045177,"Diabetes Mellitus, Type 1",MESH:D003922,0,,2,ITPR3|NOS3
+apical part of cell,GO:0045177,"Diabetes Mellitus, Type 2",MESH:D003924,0,,3,CD36|KCNQ1|NOS3
+apical plasma membrane,GO:0016324,Diabetes Mellitus,MESH:D003920,0,,2,A|FN1
+apical plasma membrane,GO:0016324,"Diabetes Mellitus, Experimental",MESH:D003921,0,,9,CAV1|CYBA|CYP4A10|CYP4A14|FAS|PFKM|SLC2A2|SLC9A1|SLC9A3
+apical plasma membrane,GO:0016324,"Diabetes Mellitus, Type 1",MESH:D003922,0,,1,ITPR3
+apical plasma membrane,GO:0016324,"Diabetes Mellitus, Type 2",MESH:D003924,0,,11,A|CD36|CYBA|EGFR|FAS|GP2|KCNQ1|KL|SLC22A3|SLC2A1|SLC2A2
+apoptotic body,GO:0097189,Diabetes Mellitus,MESH:D003920,3,Arsenic|Cadmium|Raloxifene Hydrochloride,0,
+apoptotic body,GO:0097189,"Diabetes Mellitus, Experimental",MESH:D003921,6,astaxanthine|Diethylhexyl Phthalate|pterostilbene|Quercetin|S-allylcysteine|sodium arsenite,0,
+apoptotic body,GO:0097189,"Diabetes Mellitus, Type 1",MESH:D003922,1,sodium arsenite,0,
+apoptotic body,GO:0097189,"Diabetes Mellitus, Type 2",MESH:D003924,5,Arsenic|astaxanthine|Cadmium|Diethylhexyl Phthalate|Nickel,0,
+astrocyte projection,GO:0097449,"Diabetes Mellitus, Type 2",MESH:D003924,0,,1,SLC1A2
+asymmetric synapse,GO:0032279,"Diabetes Mellitus, Experimental",MESH:D003921,0,,1,CHRM2
+asymmetric synapse,GO:0032279,"Diabetes Mellitus, Type 1",MESH:D003922,0,,1,CHRM2
+autolysosome,GO:0044754,Diabetes Mellitus,MESH:D003920,4,arsenite|Cadmium|Docosahexaenoic Acids|Metformin,0,
+autolysosome,GO:0044754,"Diabetes Mellitus, Experimental",MESH:D003921,7,Dietary Fats|Glucose|Metformin|Niacinamide|Sertraline|sodium arsenite|Taurine,0,
+autolysosome,GO:0044754,"Diabetes Mellitus, Type 1",MESH:D003922,4,Calcitriol|Niacinamide|sodium arsenite|Taurine,0,
+autolysosome,GO:0044754,"Diabetes Mellitus, Type 2",MESH:D003924,7,Cadmium|Curcumin|Dietary Fats|epigallocatechin gallate|Glucose|Metformin|Niacinamide,0,
+autolysosome membrane,GO:0120281,"Diabetes Mellitus, Type 1",MESH:D003922,0,,1,HLA-DRB1
+autophagosome,GO:0005776,Diabetes Mellitus,MESH:D003920,10,Arsenic|arsenite|Atrazine|Berberine|Cadmium|Lead|Metformin|puerarin|Raloxifene Hydrochloride|Resveratrol,0,
+autophagosome,GO:0005776,"Diabetes Mellitus, Experimental",MESH:D003921,9,Berberine|Dibutyl Phthalate|Diethylhexyl Phthalate|Glucose|Hydrogen Peroxide|Metformin|puerarin|Resveratrol|Taurine,0,
+autophagosome,GO:0005776,"Diabetes Mellitus, Type 1",MESH:D003922,2,Resveratrol|Taurine,0,
+autophagosome,GO:0005776,"Diabetes Mellitus, Type 2",MESH:D003924,13,Arsenic|Atrazine|Berberine|Cadmium|Dibutyl Phthalate|Diethylhexyl Phthalate|epigallocatechin gallate|Ethanol|Glucose|Lead|Metformin|Nickel|Resveratrol,0,
+axolemma,GO:0030673,"Diabetes Mellitus, Experimental",MESH:D003921,0,,1,KCNJ11
+axolemma,GO:0030673,"Diabetes Mellitus, Transient Neonatal, 3",MESH:C566432,0,,1,KCNJ11
+axolemma,GO:0030673,"Diabetes Mellitus, Type 1",MESH:D003922,0,,1,KCNJ11
+axolemma,GO:0030673,"Diabetes Mellitus, Type 2",MESH:D003924,0,,2,KCNJ11|SLC1A2
+axon,GO:0030424,Diabetes Mellitus,MESH:D003920,0,,2,KIF1A|SIRT1
+axon,GO:0030424,"Diabetes Mellitus, Experimental",MESH:D003921,1,tributyltin,6,INSR|PRKCA|SIRT1|SNAP25|TGFB1|TNFRSF1A
+axon,GO:0030424,"Diabetes Mellitus, Insulin-Resistant, with Acanthosis Nigricans",MESH:C562710,0,,1,INSR
+axon,GO:0030424,"Diabetes Mellitus, Type 2",MESH:D003924,0,,7,MAPK8IP1|RNF6|SIRT1|SLC1A2|SNAP25|TNFRSF1A|TNFRSF1B
+axonal growth cone,GO:0044295,Diabetes Mellitus,MESH:D003920,0,,1,KIF5B
+axonal growth cone,GO:0044295,"Diabetes Mellitus, Experimental",MESH:D003921,0,,1,SNAP25
+axonal growth cone,GO:0044295,"Diabetes Mellitus, Type 2",MESH:D003924,0,,2,MAPK8IP1|SNAP25
+axonal spine,GO:0044308,Diabetes Mellitus,MESH:D003920,1,Cadmium,0,
+axonal spine,GO:0044308,"Diabetes Mellitus, Type 2",MESH:D003924,1,Cadmium,0,
+axon cytoplasm,GO:1904115,Diabetes Mellitus,MESH:D003920,0,,3,KIF1A|KIF5B|SOD1
+axon cytoplasm,GO:1904115,"Diabetes Mellitus, Experimental",MESH:D003921,0,,1,SOD1
+axon cytoplasm,GO:1904115,"Diabetes Mellitus, Type 2",MESH:D003924,0,,2,AP3S2|SOD1
+axoneme,GO:0005930,"Diabetes Mellitus, Type 1",MESH:D003922,0,,1,CTSH
+axon terminus,GO:0043679,"Diabetes Mellitus, Experimental",MESH:D003921,0,,1,CHRM2
+axon terminus,GO:0043679,"Diabetes Mellitus, Type 1",MESH:D003922,0,,1,CHRM2
+azurophil granule,GO:0042582,"Diabetes Mellitus, Experimental",MESH:D003921,0,,1,MPO
+azurophil granule,GO:0042582,"Diabetes Mellitus, Type 1",MESH:D003922,0,,1,NOS1
+azurophil granule lumen,GO:0035578,"ATAXIA, COMBINED CEREBELLAR AND PERIPHERAL, WITH HEARING LOSS AND DIABETES MELLITUS",OMIM:616192,0,,1,DNAJC3
+azurophil granule lumen,GO:0035578,"Diabetes Mellitus, Experimental",MESH:D003921,0,,2,MPO|PRKCD
+azurophil granule lumen,GO:0035578,"Diabetes Mellitus, Type 2",MESH:D003924,0,,2,C3|RETN
+azurophil granule membrane,GO:0035577,"Diabetes Mellitus, Experimental",MESH:D003921,0,,1,CD68
+BAD-BCL-2 complex,GO:0097138,"Diabetes Mellitus, Experimental",MESH:D003921,0,,1,BCL2
+BAD-BCL-2 complex,GO:0097138,"Diabetes Mellitus, Type 2",MESH:D003924,0,,1,BCL2
+BAK complex,GO:0097145,"Diabetes Mellitus, Experimental",MESH:D003921,0,,1,BAX
+BAK complex,GO:0097145,"Diabetes Mellitus, Type 2",MESH:D003924,0,,1,BAX
+basal cortex,GO:0045180,"Diabetes Mellitus, Experimental",MESH:D003921,0,,1,GCK
+basal cortex,GO:0045180,"Diabetes Mellitus, Permanent Neonatal",MESH:C563425,0,,1,GCK
+basal cortex,GO:0045180,"Diabetes Mellitus, Type 2",MESH:D003924,0,,1,GCK
+basal dendrite,GO:0097441,"Diabetes Mellitus, Type 2",MESH:D003924,0,,1,ENPP1
+basal part of cell,GO:0045178,"Diabetes Mellitus, Experimental",MESH:D003921,0,,1,EDN1
+basal part of cell,GO:0045178,"Diabetes Mellitus, Type 2",MESH:D003924,0,,2,EDN1|ITGA1
+basal plasma membrane,GO:0009925,"Diabetes Mellitus, Experimental",MESH:D003921,0,,2,ACE|CAV1
+basal plasma membrane,GO:0009925,"Diabetes Mellitus, Type 2",MESH:D003924,0,,2,EGFR|INPPL1
+basement membrane,GO:0005604,Diabetes Mellitus,MESH:D003920,0,,2,FN1|THBS2
+basement membrane,GO:0005604,"Diabetes Mellitus, Experimental",MESH:D003921,0,,3,TIMP1|TIMP2|VEGFA
+basement membrane,GO:0005604,"Diabetes Mellitus, Type 2",MESH:D003924,0,,2,TIMP1|USP48
+basolateral part of cell,GO:1990794,Diabetes Mellitus,MESH:D003920,1,arsenite,0,
+basolateral part of cell,GO:1990794,"Diabetes Mellitus, Type 2",MESH:D003924,0,,1,KCNQ1
+basolateral plasma membrane,GO:0016323,Diabetes Mellitus,MESH:D003920,0,,1,LEPR
+basolateral plasma membrane,GO:0016323,"Diabetes Mellitus, Experimental",MESH:D003921,0,,4,CAV1|LEPR|SLC2A2|SLC9A1
+basolateral plasma membrane,GO:0016323,"Diabetes Mellitus, Type 1",MESH:D003922,0,,1,SLC29A3
+basolateral plasma membrane,GO:0016323,"Diabetes Mellitus, Type 2",MESH:D003924,0,,8,EGFR|ENPP1|KCNQ1|LEPR|SCTR|SLC22A3|SLC2A1|SLC2A2
+BAX complex,GO:0097144,"Diabetes Mellitus, Experimental",MESH:D003921,0,,1,BAX
+BAX complex,GO:0097144,"Diabetes Mellitus, Type 2",MESH:D003924,0,,1,BAX
+Bcl-2 family protein complex,GO:0097136,"Diabetes Mellitus, Experimental",MESH:D003921,0,,2,BAX|BCL2L1
+Bcl-2 family protein complex,GO:0097136,"Diabetes Mellitus, Type 2",MESH:D003924,0,,3,BAX|BCL2L1|BCL2L11
+beta-catenin-TCF7L2 complex,GO:0070369,"Diabetes Mellitus, Type 2",MESH:D003924,0,,1,TCF7L2
+beta-catenin-TCF complex,GO:1990907,"Diabetes Mellitus, Type 2",MESH:D003924,0,,1,TCF7L2
+BIM-BCL-2 complex,GO:0097141,"Diabetes Mellitus, Type 2",MESH:D003924,0,,1,BCL2L11
+BIM-BCL-xl complex,GO:0097140,"Diabetes Mellitus, Type 2",MESH:D003924,0,,1,BCL2L11
+BLOC-1 complex,GO:0031083,"Diabetes Mellitus, Experimental",MESH:D003921,0,,1,SNAP25
+BLOC-1 complex,GO:0031083,"Diabetes Mellitus, Type 2",MESH:D003924,0,,1,SNAP25
+blood microparticle,GO:0072562,"Diabetes Mellitus, Experimental",MESH:D003921,0,,1,TGFB1
+blood microparticle,GO:0072562,"Diabetes Mellitus, Type 1",MESH:D003922,0,,1,HP
+blood microparticle,GO:0072562,"Diabetes Mellitus, Type 2",MESH:D003924,0,,2,HBA1|HP
+brush border,GO:0005903,"Diabetes Mellitus, Experimental",MESH:D003921,0,,2,SLC2A2|SLC9A3
+brush border,GO:0005903,"Diabetes Mellitus, Type 1",MESH:D003922,0,,1,ITPR3
+brush border,GO:0005903,"Diabetes Mellitus, Type 2",MESH:D003924,0,,1,SLC2A2
+brush border membrane,GO:0031526,"Diabetes Mellitus, Experimental",MESH:D003921,0,,3,ACE|SLC2A2|SLC9A3
+brush border membrane,GO:0031526,"Diabetes Mellitus, Type 2",MESH:D003924,0,,4,CD36|ITLN1|PRKCB|SLC2A2
+calcium ion-transporting ATPase complex,GO:0090534,"Diabetes Mellitus, Experimental",MESH:D003921,0,,1,ATP2A2
+calcium ion-transporting ATPase complex,GO:0090534,"Diabetes Mellitus, Type 2",MESH:D003924,0,,1,ATP2A2
+calyx of Held,GO:0044305,"Diabetes Mellitus, Experimental",MESH:D003921,0,,1,PRKCA
+calyx of Held,GO:0044305,"Diabetes Mellitus, Type 1",MESH:D003922,0,,1,NOS1
+calyx of Held,GO:0044305,"Diabetes Mellitus, Type 2",MESH:D003924,0,,1,PRKCB
+cardiac Troponin complex,GO:1990584,"Diabetes Mellitus, Experimental",MESH:D003921,1,corilagin,0,
+catalase complex,GO:0062151,Diabetes Mellitus,MESH:D003920,0,,1,CAT
+catalase complex,GO:0062151,"Diabetes Mellitus, Experimental",MESH:D003921,0,,1,CAT
+catalase complex,GO:0062151,"Diabetes Mellitus, Type 1",MESH:D003922,0,,1,CAT
+catalase complex,GO:0062151,"Diabetes Mellitus, Type 2",MESH:D003924,0,,1,CAT
+catenin-TCF7L2 complex,GO:0071664,"Diabetes Mellitus, Type 2",MESH:D003924,0,,1,TCF7L2
+cation-transporting ATPase complex,GO:0090533,"Diabetes Mellitus, Experimental",MESH:D003921,0,,1,SLC9A1
+CatSper complex,GO:0036128,Diabetes Mellitus,MESH:D003920,1,bisphenol A,0,
+CatSper complex,GO:0036128,"Diabetes Mellitus, Experimental",MESH:D003921,1,bisphenol A,0,
+CatSper complex,GO:0036128,"Diabetes Mellitus, Type 1",MESH:D003922,1,bisphenol A,0,
+CatSper complex,GO:0036128,"Diabetes Mellitus, Type 2",MESH:D003924,1,bisphenol A,0,
+caveola,GO:0005901,Diabetes Mellitus,MESH:D003920,0,,2,IRS1|PTGS2
+caveola,GO:0005901,"Diabetes Mellitus, Experimental",MESH:D003921,1,costunolide,9,ADRA1A|CAV1|CAV3|HK1|HMOX1|INSR|IRS1|NOS3|PTGS2
+caveola,GO:0005901,"Diabetes Mellitus, Insulin-Resistant, with Acanthosis Nigricans",MESH:C562710,0,,1,INSR
+caveola,GO:0005901,"Diabetes Mellitus, Type 1",MESH:D003922,0,,2,NOS1|NOS3
+caveola,GO:0005901,"Diabetes Mellitus, Type 2",MESH:D003924,0,,6,CD36|HK1|HMOX1|IRS1|NOS3|SLC2A1
+caveolar macromolecular signaling complex,GO:0002095,"Diabetes Mellitus, Experimental",MESH:D003921,0,,1,CAV1
+CD40 receptor complex,GO:0035631,"Diabetes Mellitus, Type 2",MESH:D003924,0,,1,TNFRSF1B
+CD95 death-inducing signaling complex,GO:0031265,"Diabetes Mellitus, Experimental",MESH:D003921,0,,1,FAS
+CD95 death-inducing signaling complex,GO:0031265,"Diabetes Mellitus, Type 2",MESH:D003924,0,,2,CASP8|FAS
+cell body,GO:0044297,"Diabetes Mellitus, Experimental",MESH:D003921,0,,2,CX3CL1|INSR
+cell body,GO:0044297,"Diabetes Mellitus, Insulin-Resistant, with Acanthosis Nigricans",MESH:C562710,0,,1,INSR
+cell body,GO:0044297,"Diabetes Mellitus, Type 2",MESH:D003924,0,,5,BRAF|CASP8|ENPP1|GNB3|SLC1A2
+cell body fiber,GO:0070852,"Diabetes Mellitus, Experimental",MESH:D003921,0,,1,KCNJ11
+cell body fiber,GO:0070852,"Diabetes Mellitus, Transient Neonatal, 3",MESH:C566432,0,,1,KCNJ11
+cell body fiber,GO:0070852,"Diabetes Mellitus, Type 1",MESH:D003922,0,,1,KCNJ11
+cell body fiber,GO:0070852,"Diabetes Mellitus, Type 2",MESH:D003924,0,,1,KCNJ11
+cell-cell junction,GO:0005911,Diabetes Mellitus,MESH:D003920,1,bisphenol A,0,
+cell-cell junction,GO:0005911,"Diabetes Mellitus, Experimental",MESH:D003921,1,bisphenol A,2,PRKCD|SLC2A2
+cell-cell junction,GO:0005911,"Diabetes Mellitus, Type 1",MESH:D003922,1,bisphenol A,0,
+cell-cell junction,GO:0005911,"Diabetes Mellitus, Type 2",MESH:D003924,2,bisphenol A|bisphenol S,3,AKT1|SLC2A1|SLC2A2
+cell cortex,GO:0005938,Diabetes Mellitus,MESH:D003920,0,,1,RAC1
+cell cortex,GO:0005938,"Diabetes Mellitus, Experimental",MESH:D003921,0,,3,CAV1|GCK|SNAP25
+cell cortex,GO:0005938,"Diabetes Mellitus, Permanent Neonatal",MESH:C563425,0,,1,GCK
+cell cortex,GO:0005938,"Diabetes Mellitus, Type 2",MESH:D003924,0,,4,AKT1|AKT2|GCK|SNAP25
+cell junction,GO:0030054,"Diabetes Mellitus, Experimental",MESH:D003921,0,,1,CHRM2
+cell junction,GO:0030054,"Diabetes Mellitus, Type 1",MESH:D003922,0,,1,CHRM2
+cell junction,GO:0030054,"Diabetes Mellitus, Type 2",MESH:D003924,0,,1,EGFR
+cell periphery,GO:0071944,Diabetes Mellitus,MESH:D003920,0,,1,ADIPOQ
+cell periphery,GO:0071944,"Diabetes Mellitus, Experimental",MESH:D003921,0,,2,BAX|PRKCE
+cell periphery,GO:0071944,"Diabetes Mellitus, Type 1",MESH:D003922,0,,1,NOS1
+cell periphery,GO:0071944,"Diabetes Mellitus, Type 2",MESH:D003924,0,,4,ADIPOQ|BAX|CD36|EDNRA
+cell projection,GO:0042995,Diabetes Mellitus,MESH:D003920,0,,1,RAC1
+cell projection,GO:0042995,"Diabetes Mellitus, Experimental",MESH:D003921,1,Ursolic Acid,1,CX3CL1
+cell projection,GO:0042995,"Diabetes Mellitus, Type 1",MESH:D003922,1,Lipopolysaccharides,0,
+cell projection,GO:0042995,"Diabetes Mellitus, Type 2",MESH:D003924,0,,2,ADCY5|ENPP1
+cell surface,GO:0009986,Diabetes Mellitus,MESH:D003920,0,,3,ADIPOQ|AOC3|CP
+cell surface,GO:0009986,"Diabetes Mellitus, Experimental",MESH:D003921,0,,14,AOC3|CAV1|CAV3|CX3CL1|FAS|ICAM1|SLC2A4|SLC9A1|SLC9A3|TGFB1|TIMP2|TNF|TNFRSF1A|VEGFA
+cell surface,GO:0009986,"Diabetes Mellitus, Insulin-Dependent, 10",MESH:C566602,0,,1,IL2RA
+cell surface,GO:0009986,"Diabetes Mellitus, Insulin-Dependent, 22",MESH:C567284,0,,1,CCR5
+cell surface,GO:0009986,"Diabetes Mellitus, Type 1",MESH:D003922,0,,6,CD69|CP|HLA-DRB1|IL27|IL2RA|TNF
+cell surface,GO:0009986,"Diabetes Mellitus, Type 2",MESH:D003924,0,,20,ADAMTS9|ADIPOQ|C3|CD36|ECE1|EGFR|ENPP1|FAM234A|FAS|GP2|ICAM1|ITGA1|LIPC|NOTCH2|PAM|SFRP4|SLC1A2|SLC2A4|TNF|TNFRSF1A
+cellular_component,GO:0005575,Diabetes Mellitus,MESH:D003920,0,,2,MAP3K5|PON1
+cellular_component,GO:0005575,"Diabetes Mellitus, Experimental",MESH:D003921,0,,2,MAP3K5|YWHAH
+cellular_component,GO:0005575,"Diabetes Mellitus, Type 2",MESH:D003924,0,,8,FTO|MIR17HG|MIR181C|MIR192|MIR203A|PEPD|SMIM43|ZFAND3
+central element,GO:0000801,"Diabetes Mellitus, Experimental",MESH:D003921,0,,1,CPT1B
+centriolar satellite,GO:0034451,Diabetes Mellitus,MESH:D003920,0,,1,KIF5B
+centriolar satellite,GO:0034451,"Diabetes Mellitus, Type 1",MESH:D003922,0,,1,PRKCQ
+centriolar satellite,GO:0034451,"Diabetes Mellitus, Type 2",MESH:D003924,0,,1,BRAF
+centriole,GO:0005814,"Diabetes Mellitus, Experimental",MESH:D003921,0,,1,TIMP2
+centriole,GO:0005814,"Diabetes Mellitus, Type 2",MESH:D003924,0,,1,CCDC92
+centrosome,GO:0005813,Diabetes Mellitus,MESH:D003920,0,,1,ALPK1
+centrosome,GO:0005813,"Diabetes Mellitus, Experimental",MESH:D003921,0,,6,ATF3|BCL2L1|ID1|TIMP2|TP53|TRP53
+centrosome,GO:0005813,"Diabetes Mellitus, Type 2",MESH:D003924,0,,5,ATF3|BCL2L1|CCDC92|ID1|PRKCB
+cerebellar granule cell to Purkinje cell synapse,GO:0150048,"Diabetes Mellitus, Experimental",MESH:D003921,0,,1,YWHAH
+cholinergic synapse,GO:0098981,"Diabetes Mellitus, Experimental",MESH:D003921,0,,1,CHRM2
+cholinergic synapse,GO:0098981,"Diabetes Mellitus, Type 1",MESH:D003922,0,,1,CHRM2
+CHOP-ATF3 complex,GO:1990622,"Diabetes Mellitus, Experimental",MESH:D003921,0,,1,ATF3
+CHOP-ATF3 complex,GO:1990622,"Diabetes Mellitus, Type 1",MESH:D003922,0,,1,DDIT3
+CHOP-ATF3 complex,GO:1990622,"Diabetes Mellitus, Type 2",MESH:D003924,0,,1,ATF3
+CHOP-ATF4 complex,GO:1990617,"Diabetes Mellitus, Type 1",MESH:D003922,0,,1,DDIT3
+CHOP-C/EBP complex,GO:0036488,"Diabetes Mellitus, Type 1",MESH:D003922,0,,1,DDIT3
+chromaffin granule,GO:0042583,"Diabetes Mellitus, Experimental",MESH:D003921,0,,1,SERPINE1
+chromatin,GO:0000785,Diabetes Mellitus,MESH:D003920,0,,4,NR1I2|NR1I3|PPARG|SIRT1
+chromatin,GO:0000785,"Diabetes Mellitus, Experimental",MESH:D003921,0,,16,ATF3|ESRRA|FOXO3|NEUROD1|NKX6-1|PAX6|PDX1|PPARA|PPARG|PPARGC1A|RELA|SERPINE1|SIRT1|SREBF1|TP53|TRP53
+chromatin,GO:0000785,"Diabetes Mellitus, Insulin-Dependent, 20",MESH:C567286,0,,1,HNF1A
+chromatin,GO:0000785,"Diabetes Mellitus, Permanent Neonatal, with Cerebellar Agenesis",MESH:C563796,0,,1,PTF1A
+chromatin,GO:0000785,"Diabetes Mellitus, Type 1",MESH:D003922,0,,5,BACH2|DDIT3|HNF1A|PAX4|STAT3
+chromatin,GO:0000785,"Diabetes Mellitus, Type 2",MESH:D003924,0,,24,ATF3|CCND2|ETS1|HHEX|HMGA1|HNF1A|HNF1B|HNF4A|KLF14|NEUROD1|NFATC2|NFKB1|NKX6-1|PAM|PAX4|PAX6|PDX1|PPARA|PPARG|PPARGC1A|PROX1|SIRT1|SMAD5|TCF7L2
+chromatin silencing complex,GO:0005677,Diabetes Mellitus,MESH:D003920,0,,1,SIRT1
+chromatin silencing complex,GO:0005677,"Diabetes Mellitus, Experimental",MESH:D003921,0,,1,SIRT1
+chromatin silencing complex,GO:0005677,"Diabetes Mellitus, Type 2",MESH:D003924,0,,1,SIRT1
+ciliary basal body,GO:0036064,Diabetes Mellitus,MESH:D003920,0,,2,ALPK1|IRS1
+ciliary basal body,GO:0036064,"Diabetes Mellitus, Experimental",MESH:D003921,0,,4,ATF3|CHRM2|IRS1|PRKCA
+ciliary basal body,GO:0036064,"Diabetes Mellitus, Type 1",MESH:D003922,0,,1,CHRM2
+ciliary basal body,GO:0036064,"Diabetes Mellitus, Type 2",MESH:D003924,0,,5,AKT1|ATF3|BRAF|EGFR|IRS1
+ciliary base,GO:0097546,"Diabetes Mellitus, Type 2",MESH:D003924,0,,1,KCNQ1
+ciliary rootlet,GO:0035253,Diabetes Mellitus,MESH:D003920,0,,1,KIF5B
+cilium,GO:0005929,Diabetes Mellitus,MESH:D003920,0,,1,ALPK1
+cilium,GO:0005929,"Diabetes Mellitus, Experimental",MESH:D003921,0,,2,CAV1|CHRM2
+cilium,GO:0005929,"Diabetes Mellitus, Transient Neonatal, 2",MESH:C563672,0,,1,ABCC8
+cilium,GO:0005929,"Diabetes Mellitus, Type 1",MESH:D003922,0,,2,ABCC8|CHRM2
+cilium,GO:0005929,"Diabetes Mellitus, Type 2",MESH:D003924,0,,7,ABCC8|ADCY5|AKT1|BRAF|EGFR|NOTCH2|USP48
+clathrin-coated endocytic vesicle,GO:0045334,"Diabetes Mellitus, Insulin-Dependent, 12",MESH:C563326,0,,1,CTLA4
+clathrin-coated endocytic vesicle membrane,GO:0030669,"Diabetes Mellitus, Experimental",MESH:D003921,0,,1,CHRM2
+clathrin-coated endocytic vesicle membrane,GO:0030669,"Diabetes Mellitus, Type 1",MESH:D003922,0,,4,CHRM2|HLA-DQA1|HLA-DQB1|HLA-DRB1
+clathrin-coated endocytic vesicle membrane,GO:0030669,"Diabetes Mellitus, Type 2",MESH:D003924,0,,2,EGFR|HLA-DRB5
+clathrin-coated pit,GO:0005905,"Diabetes Mellitus, Experimental",MESH:D003921,0,,2,BCL2L1|SLC2A4
+clathrin-coated pit,GO:0005905,"Diabetes Mellitus, Type 2",MESH:D003924,0,,3,BCL2L1|DGKD|SLC2A4
+clathrin-coated vesicle,GO:0030136,"Diabetes Mellitus, Experimental",MESH:D003921,0,,1,SLC2A4
+clathrin-coated vesicle,GO:0030136,"Diabetes Mellitus, Type 2",MESH:D003924,0,,1,SLC2A4
+collagen-containing extracellular matrix,GO:0062023,Diabetes Mellitus,MESH:D003920,0,,2,FN1|THBS2
+collagen-containing extracellular matrix,GO:0062023,"Diabetes Mellitus, Experimental",MESH:D003921,0,,3,S100A6|SERPINE1|TGFB1
+collagen-containing extracellular matrix,GO:0062023,"Diabetes Mellitus, Type 2",MESH:D003924,0,,3,ADAMTS9|HPX|S100A6
+collagen trimer,GO:0005581,Diabetes Mellitus,MESH:D003920,0,,1,ADIPOQ
+collagen trimer,GO:0005581,"Diabetes Mellitus, Type 1",MESH:D003922,0,,1,C1QTNF6
+collagen trimer,GO:0005581,"Diabetes Mellitus, Type 2",MESH:D003924,0,,1,ADIPOQ
+condensed chromosome,GO:0000793,"Diabetes Mellitus, Type 2",MESH:D003924,0,,1,PAM
+cone photoreceptor outer segment,GO:0120199,"Diabetes Mellitus, Experimental",MESH:D003921,0,,1,PRKCA
+cortical actin cytoskeleton,GO:0030864,"Diabetes Mellitus, Type 2",MESH:D003924,0,,1,SLC2A1
+cortical cytoskeleton,GO:0030863,"Diabetes Mellitus, Experimental",MESH:D003921,0,,1,NOS2
+cortical cytoskeleton,GO:0030863,"Diabetes Mellitus, Type 2",MESH:D003924,0,,1,NOS2
+cortical granule,GO:0060473,Diabetes Mellitus,MESH:D003920,1,Resveratrol,0,
+cortical granule,GO:0060473,"Diabetes Mellitus, Experimental",MESH:D003921,1,Resveratrol,0,
+cortical granule,GO:0060473,"Diabetes Mellitus, Type 1",MESH:D003922,2,Lipopolysaccharides|Resveratrol,0,
+cortical granule,GO:0060473,"Diabetes Mellitus, Type 2",MESH:D003924,2,Glutathione|Resveratrol,0,
+creatine kinase complex,GO:0002185,"Diabetes Mellitus, Experimental",MESH:D003921,1,Taurine,0,
+creatine kinase complex,GO:0002185,"Diabetes Mellitus, Type 1",MESH:D003922,1,Taurine,0,
+cyclin D2-CDK4 complex,GO:0097129,"Diabetes Mellitus, Type 2",MESH:D003924,0,,1,CCND2
+cyclin-dependent protein kinase holoenzyme complex,GO:0000307,"Diabetes Mellitus, Type 2",MESH:D003924,0,,1,CCND2
+cytolytic granule membrane,GO:0101004,Diabetes Mellitus,MESH:D003920,0,,1,KIF5B
+cytoneme,GO:0035230,"Diabetes Mellitus, Type 2",MESH:D003924,0,,1,EGFR
+cytoplasm,GO:0005737,"ATAXIA, COMBINED CEREBELLAR AND PERIPHERAL, WITH HEARING LOSS AND DIABETES MELLITUS",OMIM:616192,0,,1,DNAJC3
+cytoplasm,GO:0005737,Diabetes Mellitus,MESH:D003920,0,,18,AOC3|CAT|CP|CYBB|INS2|IRS1|KIF1A|KIF5B|MAP3K5|MT2A|NCF1|NR1I3|POMC|PPARG|PTGS2|RAC1|SIRT1|SOD1
+cytoplasm,GO:0005737,"Diabetes Mellitus, Experimental",MESH:D003921,0,,62,ACE|ACOT1|ACOX1|ADRA1A|AIFM1|AOC3|BAX|BCL2|BCL2L1|CASP3|CAT|CPT1B|CYBA|CYBB|CYP4A10|CYP4A14|EDN1|ESRRA|FGF21|FOXO3|GCK|GPX1|GSR|ID1|IL1B|IRS1|IRS2|KCNJ11|LEP|MAP3K5|NCF1|NEUROD1|NOS2|NOS3|NQO1|PAX6|PCK1|PCX|PFKM|PKLR|PPARG|PRKCA|PRKCD|PRKCE|PTGS2|RELA|S100A6|S1PR2|S1PR4|S1PR5|SIRT1|SLC2A2|SLC2A4|SLC9A1|SNAP25|SOD1|SREBF1|TGFB1|TP53|TRP53|VEGFA|YWHAH
+cytoplasm,GO:0005737,"Diabetes Mellitus, Insulin-Dependent, 20",MESH:C567286,0,,1,HNF1A
+cytoplasm,GO:0005737,"Diabetes Mellitus, Insulin-Dependent, 22",MESH:C567284,0,,1,CCR5
+cytoplasm,GO:0005737,"Diabetes Mellitus, Noninsulin-Dependent, 1",MESH:C563359,0,,1,CAPN10
+cytoplasm,GO:0005737,"Diabetes Mellitus, Permanent Neonatal",MESH:C563425,0,,1,GCK
+cytoplasm,GO:0005737,"Diabetes Mellitus, Permanent Neonatal, with Cerebellar Agenesis",MESH:C563796,0,,1,PTF1A
+cytoplasm,GO:0005737,"Diabetes Mellitus, Transient Neonatal, 3",MESH:C566432,0,,1,KCNJ11
+cytoplasm,GO:0005737,"Diabetes Mellitus, Type 1",MESH:D003922,0,,18,AIFM1|C1QTNF6|CAT|CP|CRP|DDIT3|FGF21|HNF1A|IL27|INS2|ITPR3|KCNJ11|NOS1|NOS3|PRKCQ|PTPN22|STAT3|TYK2
+cytoplasm,GO:0005737,"Diabetes Mellitus, Type 2",MESH:D003924,0,,78,AKT1|AKT2|AUTS2|BAX|BCL2|BCL2L1|BCL2L11|BHMT|BRAF|CAPN10|CASP3|CASP8|CAT|CBS|CCDC92|CCND2|CD36|CISD2|CNKSR2|CYBA|CYP3A2|DGKD|EDN1|EGFR|ETS1|FGF21|FTO|GCG|GCK|GCKR|GNB3|GPX1|GRB14|GSTM1|HHEX|HMGA1|HNF1A|HNF4A|ID1|IGF2BP2|INPPL1|IRS1|IRS2|KCNJ11|KCNQ1|KCNU1|KSR2|LEP|MAEA|MAPK8IP1|MIR140|NEUROD1|NFATC2|NFKB1|NOS2|NOS3|PAX6|PCX|PIK3CG|PLEKHA1|PPARG|PRKCB|PROX1|PTPN1|RNF6|S100A6|SFRP4|SIRT1|SLC2A1|SLC2A2|SLC2A4|SMAD5|SNAP25|SOD1|TMEM18|USP48|VPS26A|ZFAND3
+cytoplasmic microtubule,GO:0005881,"Diabetes Mellitus, Type 2",MESH:D003924,0,,1,SCTR
+cytoplasmic ribonucleoprotein granule,GO:0036464,Diabetes Mellitus,MESH:D003920,0,,1,RAC1
+cytoplasmic ribonucleoprotein granule,GO:0036464,"Diabetes Mellitus, Type 1",MESH:D003922,0,,1,CTSH
+cytoplasmic side of endoplasmic reticulum membrane,GO:0098554,"Diabetes Mellitus, Type 1",MESH:D003922,0,,1,ITPR3
+cytoplasmic side of endoplasmic reticulum membrane,GO:0098554,"Diabetes Mellitus, Type 2",MESH:D003924,0,,2,PTPN1|THADA
+cytoplasmic side of plasma membrane,GO:0009898,Diabetes Mellitus,MESH:D003920,0,,1,NCF1
+cytoplasmic side of plasma membrane,GO:0009898,"Diabetes Mellitus, Experimental",MESH:D003921,0,,2,NCF1|S100A6
+cytoplasmic side of plasma membrane,GO:0009898,"Diabetes Mellitus, Type 1",MESH:D003922,0,,2,PTPN22|TYK2
+cytoplasmic side of plasma membrane,GO:0009898,"Diabetes Mellitus, Type 2",MESH:D003924,0,,1,S100A6
+cytoplasmic stress granule,GO:0010494,"Diabetes Mellitus, Experimental",MESH:D003921,1,sodium arsenite,0,
+cytoplasmic stress granule,GO:0010494,"Diabetes Mellitus, Type 1",MESH:D003922,1,sodium arsenite,0,
+cytoplasmic stress granule,GO:0010494,"Diabetes Mellitus, Type 2",MESH:D003924,0,,1,IGF2BP2
+cytoplasmic vesicle,GO:0031410,Diabetes Mellitus,MESH:D003920,0,,3,KIF1A|RAC1|SOD1
+cytoplasmic vesicle,GO:0031410,"Diabetes Mellitus, Experimental",MESH:D003921,0,,3,CAV1|SOD1|SREBF1
+cytoplasmic vesicle,GO:0031410,"Diabetes Mellitus, Type 1",MESH:D003922,0,,1,ITPR3
+cytoplasmic vesicle,GO:0031410,"Diabetes Mellitus, Type 2",MESH:D003924,0,,6,AP3S2|DGKD|KCNQ1|PAM|SLC30A8|SOD1
+cytoplasmic vesicle membrane,GO:0030659,"Diabetes Mellitus, Experimental",MESH:D003921,0,,1,SLC2A4
+cytoplasmic vesicle membrane,GO:0030659,"Diabetes Mellitus, Type 2",MESH:D003924,0,,3,AP3S2|KCNQ1|SLC2A4
+cytoskeleton,GO:0005856,Diabetes Mellitus,MESH:D003920,0,,4,KIF1A|KIF5B|NR1I3|RAC1
+cytoskeleton,GO:0005856,"Diabetes Mellitus, Experimental",MESH:D003921,0,,3,NOS3|PRKCE|SNAP25
+cytoskeleton,GO:0005856,"Diabetes Mellitus, Noninsulin-Dependent, 1",MESH:C563359,0,,1,CAPN10
+cytoskeleton,GO:0005856,"Diabetes Mellitus, Type 1",MESH:D003922,0,,3,NOS1|NOS3|TYK2
+cytoskeleton,GO:0005856,"Diabetes Mellitus, Type 2",MESH:D003924,0,,7,CAPN10|CASP8|IGF2BP2|INPPL1|MAEA|NOS3|SNAP25
+cytosol,GO:0005829,"ATAXIA, COMBINED CEREBELLAR AND PERIPHERAL, WITH HEARING LOSS AND DIABETES MELLITUS",OMIM:616192,0,,1,DNAJC3
+cytosol,GO:0005829,Diabetes Mellitus,MESH:D003920,0,,14,ALPK1|CAT|INS2|IRS1|KIF5B|MAP3K5|MT2A|NCF1|NR1I3|PPARG|PTGS2|RAC1|SIRT1|SOD1
+cytosol,GO:0005829,"Diabetes Mellitus, Experimental",MESH:D003921,0,,51,ACOT1|ACOX1|ADRA1A|AIFM1|BAX|BCL2|BCL2L1|CASP3|CAT|FAS|FGF21|FOXO3|GCK|GPX1|GSR|HK1|HMOX1|IAPP|IL1B|INS1|IRS1|IRS2|LEP|MAP3K5|NCF1|NKX6-1|NOS2|NOS3|NQO1|PAX6|PCK1|PDX1|PFKM|PKLR|PPARG|PPARGC1A|PRKCA|PRKCD|PRKCE|PTGS2|RELA|S100A6|SIRT1|SLC2A4|SNAP25|SOD1|SREBF1|TIMP2|TP53|TRP53|YWHAH
+cytosol,GO:0005829,"Diabetes Mellitus, Noninsulin-Dependent, 1",MESH:C563359,0,,1,CAPN10
+cytosol,GO:0005829,"Diabetes Mellitus, Permanent Neonatal",MESH:C563425,0,,1,GCK
+cytosol,GO:0005829,"Diabetes Mellitus, Permanent Neonatal, with Cerebellar Agenesis",MESH:C563796,0,,1,PTF1A
+cytosol,GO:0005829,"Diabetes Mellitus, Type 1",MESH:D003922,0,,16,AIFM1|BACH2|CAT|CLEC16A|CTSH|DDIT3|FGF21|IL27|INS2|NOS1|NOS3|PRKCQ|PTPN22|SH2B3|STAT3|TYK2
+cytosol,GO:0005829,"Diabetes Mellitus, Type 2",MESH:D003924,0,,77,AKT1|AKT2|BAX|BCL2|BCL2L1|BCL2L11|BHMT|BRAF|CAPN10|CASP3|CASP8|CAT|CBS|CCND2|CDO1|CMIP|DGKD|EGFR|FAS|FGF21|FTO|GCK|GCKR|GCLC|GCLM|GNB3|GPX1|GRB14|GSTM1|HBA1|HK1|HMGA1|HMOX1|HNF1B|HNF4A|IAPP|IGF2BP2|INPPL1|INS1|IRS1|IRS2|JAZF1|KCNQ1|KSR2|LEP|MAEA|MAPK8IP1|MAT1A|NFATC2|NFKB1|NKX6-1|NOS2|NOS3|NOTCH2|OGG1|PAM|PAX6|PDX1|PIK3CG|PLEKHA1|PPARG|PPARGC1A|PRKCB|PROX1|PSMD6|PTPN1|S100A6|SIRT1|SLC2A1|SLC2A4|SMAD5|SNAP25|SOD1|TCF7L2|THADA|USP48|VPS26A
+cytosolic ribosome,GO:0022626,"Diabetes Mellitus, Experimental",MESH:D003921,0,,1,PPARGC1A
+cytosolic ribosome,GO:0022626,"Diabetes Mellitus, Type 2",MESH:D003924,0,,1,PPARGC1A
+death-inducing signaling complex,GO:0031264,"Diabetes Mellitus, Experimental",MESH:D003921,0,,2,CASP3|FAS
+death-inducing signaling complex,GO:0031264,"Diabetes Mellitus, Type 2",MESH:D003924,0,,3,CASP3|CASP8|FAS
+dehydrodolichyl diphosphate synthase complex,GO:1904423,"Diabetes Mellitus, Type 2",MESH:D003924,0,,1,NUS1
+dendrite,GO:0030425,Diabetes Mellitus,MESH:D003920,0,,4,CYBB|KIF1A|NCF1|RAC1
+dendrite,GO:0030425,"Diabetes Mellitus, Experimental",MESH:D003921,0,,10,CHRM2|CYBA|CYBB|INSR|MMP2|NCF1|ND1|NQO1|PCSK2|PRKCA
+dendrite,GO:0030425,"Diabetes Mellitus, Insulin-Resistant, with Acanthosis Nigricans",MESH:C562710,0,,1,INSR
+dendrite,GO:0030425,"Diabetes Mellitus, Type 1",MESH:D003922,0,,3,CHRM2|ITPR3|NOS1
+dendrite,GO:0030425,"Diabetes Mellitus, Type 2",MESH:D003924,0,,6,AKT1|CYBA|GNB3|MAPK8IP1|PCSK2|WFS1
+dendrite cytoplasm,GO:0032839,Diabetes Mellitus,MESH:D003920,0,,3,KIF1A|KIF5B|SOD1
+dendrite cytoplasm,GO:0032839,"Diabetes Mellitus, Experimental",MESH:D003921,0,,1,SOD1
+dendrite cytoplasm,GO:0032839,"Diabetes Mellitus, Type 2",MESH:D003924,0,,1,SOD1
+dendrite membrane,GO:0032590,"Diabetes Mellitus, Experimental",MESH:D003921,0,,1,INSR
+dendrite membrane,GO:0032590,"Diabetes Mellitus, Insulin-Resistant, with Acanthosis Nigricans",MESH:C562710,0,,1,INSR
+dendritic branch,GO:0044307,Diabetes Mellitus,MESH:D003920,1,bisphenol A,0,
+dendritic branch,GO:0044307,"Diabetes Mellitus, Experimental",MESH:D003921,1,bisphenol A,0,
+dendritic branch,GO:0044307,"Diabetes Mellitus, Type 1",MESH:D003922,1,bisphenol A,0,
+dendritic branch,GO:0044307,"Diabetes Mellitus, Type 2",MESH:D003924,1,bisphenol A,0,
+dendritic cell dendrite,GO:0097511,Diabetes Mellitus,MESH:D003920,1,Chlorpyrifos,0,
+dendritic growth cone,GO:0044294,"Diabetes Mellitus, Type 2",MESH:D003924,0,,1,MAPK8IP1
+dendritic shaft,GO:0043198,"Diabetes Mellitus, Type 2",MESH:D003924,0,,1,SLC1A2
+dendritic spine,GO:0043197,Diabetes Mellitus,MESH:D003920,1,bisphenol A,1,RAC1
+dendritic spine,GO:0043197,"Diabetes Mellitus, Experimental",MESH:D003921,3,bisphenol A|Dibutyl Phthalate|Dronabinol,0,
+dendritic spine,GO:0043197,"Diabetes Mellitus, Type 1",MESH:D003922,1,bisphenol A,1,NOS1
+dendritic spine,GO:0043197,"Diabetes Mellitus, Type 2",MESH:D003924,2,bisphenol A|Dibutyl Phthalate,1,SLC1A2
+dense core granule,GO:0031045,Diabetes Mellitus,MESH:D003920,0,,1,SOD1
+dense core granule,GO:0031045,"Diabetes Mellitus, Experimental",MESH:D003921,0,,1,SOD1
+dense core granule,GO:0031045,"Diabetes Mellitus, Type 2",MESH:D003924,0,,1,SOD1
+dentate gyrus mossy fiber,GO:0044302,"Diabetes Mellitus, Type 2",MESH:D003924,0,,1,MAPK8IP1
+"DNA topoisomerase type II (double strand cut, ATP-hydrolyzing) complex",GO:0009330,Diabetes Mellitus,MESH:D003920,1,Reactive Oxygen Species,0,
+"DNA topoisomerase type II (double strand cut, ATP-hydrolyzing) complex",GO:0009330,"Diabetes Mellitus, Type 1",MESH:D003922,1,Reactive Oxygen Species,0,
+"DNA topoisomerase type II (double strand cut, ATP-hydrolyzing) complex",GO:0009330,"Diabetes Mellitus, Type 2",MESH:D003924,1,Reactive Oxygen Species,0,
+dopaminergic synapse,GO:0098691,"Diabetes Mellitus, Experimental",MESH:D003921,0,,1,ADRA1A
+dystrophin-associated glycoprotein complex,GO:0016010,"Diabetes Mellitus, Experimental",MESH:D003921,0,,1,CAV3
+early endosome,GO:0005769,Diabetes Mellitus,MESH:D003920,0,,2,ADRB1|AOC3
+early endosome,GO:0005769,"Diabetes Mellitus, Experimental",MESH:D003921,0,,2,AOC3|SLC9A3
+early endosome,GO:0005769,"Diabetes Mellitus, Type 2",MESH:D003924,0,,7,AKT2|AP3S2|ECE1|KCNQ1|LIPC|PTPN1|VPS26A
+early endosome membrane,GO:0031901,Diabetes Mellitus,MESH:D003920,0,,1,RAC1
+early endosome membrane,GO:0031901,"Diabetes Mellitus, Experimental",MESH:D003921,0,,2,CAV1|SLC9A3
+early endosome membrane,GO:0031901,"Diabetes Mellitus, Type 2",MESH:D003924,0,,1,EGFR
+endocytic vesicle,GO:0030139,Diabetes Mellitus,MESH:D003920,0,,1,KIF5B
+endocytic vesicle,GO:0030139,"Diabetes Mellitus, Type 2",MESH:D003924,0,,1,EGFR
+endocytic vesicle lumen,GO:0071682,"Diabetes Mellitus, Type 1",MESH:D003922,0,,1,HP
+endocytic vesicle lumen,GO:0071682,"Diabetes Mellitus, Type 2",MESH:D003924,0,,3,HBA1|HP|HPX
+endocytic vesicle membrane,GO:0030666,"Diabetes Mellitus, Experimental",MESH:D003921,0,,2,CAV1|NOS3
+endocytic vesicle membrane,GO:0030666,"Diabetes Mellitus, Type 1",MESH:D003922,0,,4,HLA-DQA1|HLA-DQB1|HLA-DRB1|NOS3
+endocytic vesicle membrane,GO:0030666,"Diabetes Mellitus, Type 2",MESH:D003924,0,,3,CD36|HLA-DRB5|NOS3
+endolysosome,GO:0036019,"Diabetes Mellitus, Experimental",MESH:D003921,0,,1,PRKCD
+endolysosome membrane,GO:0036020,"Diabetes Mellitus, Type 1",MESH:D003922,0,,1,CLEC16A
+endomembrane system,GO:0012505,"Diabetes Mellitus, Experimental",MESH:D003921,0,,1,SLC2A4
+endomembrane system,GO:0012505,"Diabetes Mellitus, Type 1",MESH:D003922,0,,1,TYK2
+endomembrane system,GO:0012505,"Diabetes Mellitus, Type 2",MESH:D003924,0,,5,BCL2L11|MRAS|PTPN1|SLC22A3|SLC2A4
+endoplasmic reticulum,GO:0005783,"ATAXIA, COMBINED CEREBELLAR AND PERIPHERAL, WITH HEARING LOSS AND DIABETES MELLITUS",OMIM:616192,0,,1,DNAJC3
+endoplasmic reticulum,GO:0005783,Diabetes Mellitus,MESH:D003920,0,,3,ADIPOQ|AOC3|PTGS2
+endoplasmic reticulum,GO:0005783,"Diabetes Mellitus, Experimental",MESH:D003921,0,,24,ACSL1|AOC3|ATP2A2|ATP2A3|BAX|BCL2|BCL2L1|BDKRB1|CAV1|CAV3|CYP1A1|HMOX1|HSD11B1|PCK1|PCX|PRKCA|PRKCD|PRKCE|PTGS2|SREBF1|STS|TP53|TRP53|VEGFA
+endoplasmic reticulum,GO:0005783,"Diabetes Mellitus, Type 1",MESH:D003922,0,,3,CASP12|HSD11B2|ITPR3
+endoplasmic reticulum,GO:0005783,"Diabetes Mellitus, Type 2",MESH:D003924,1,Glutathione,16,ADAMTS9|ADIPOQ|ATP2A2|ATP2A3|BAX|BCL2|BCL2L1|CDKAL1|CISD2|HMOX1|KCNQ1|NUS1|PCX|PTPN1|THADA|WFS1
+endoplasmic reticulum-Golgi intermediate compartment,GO:0005793,Diabetes Mellitus,MESH:D003920,0,,1,FN1
+endoplasmic reticulum-Golgi intermediate compartment membrane,GO:0033116,Diabetes Mellitus,MESH:D003920,0,,1,INS
+endoplasmic reticulum-Golgi intermediate compartment membrane,GO:0033116,"Diabetes Mellitus, Insulin-Dependent, 2",MESH:C565100,0,,1,INS
+endoplasmic reticulum-Golgi intermediate compartment membrane,GO:0033116,"Diabetes Mellitus, Type 1",MESH:D003922,0,,1,INS
+endoplasmic reticulum-Golgi intermediate compartment membrane,GO:0033116,"Diabetes Mellitus, Type 2",MESH:D003924,0,,1,INS
+endoplasmic reticulum lumen,GO:0005788,"ATAXIA, COMBINED CEREBELLAR AND PERIPHERAL, WITH HEARING LOSS AND DIABETES MELLITUS",OMIM:616192,0,,1,DNAJC3
+endoplasmic reticulum lumen,GO:0005788,Diabetes Mellitus,MESH:D003920,0,,5,CP|FN1|INS|INS2|PTGS2
+endoplasmic reticulum lumen,GO:0005788,"Diabetes Mellitus, Experimental",MESH:D003921,0,,7,IL6|INS1|MFGE8|PCSK2|PTGS2|STS|TIMP1
+endoplasmic reticulum lumen,GO:0005788,"Diabetes Mellitus, Insulin-Dependent, 2",MESH:C565100,0,,1,INS
+endoplasmic reticulum lumen,GO:0005788,"Diabetes Mellitus, Type 1",MESH:D003922,0,,5,CP|IL27|IL6|INS|INS2
+endoplasmic reticulum lumen,GO:0005788,"Diabetes Mellitus, Type 2",MESH:D003924,0,,9,C3|GCG|IL6|INS|INS1|LIPC|PCSK2|TIMP1|WFS1
+endoplasmic reticulum membrane,GO:0005789,Diabetes Mellitus,MESH:D003920,0,,4,CYBB|PON1|PTGS2|RAC1
+endoplasmic reticulum membrane,GO:0005789,"Diabetes Mellitus, Experimental",MESH:D003921,0,,20,ACSL1|ATP2A2|ATP2A3|BAX|BCL2|CAV1|CYBA|CYBB|CYP1A1|CYP2B10|CYP2B9|CYP3A11|CYP4A10|CYP4A14|GPAM|HMOX1|HSD11B1|PTGS2|SREBF1|STS
+endoplasmic reticulum membrane,GO:0005789,"Diabetes Mellitus, Type 1",MESH:D003922,0,,2,HSD11B2|ITPR3
+endoplasmic reticulum membrane,GO:0005789,"Diabetes Mellitus, Type 2",MESH:D003924,0,,18,ATP2A2|ATP2A3|BAX|BCL2|CASP8|CDKAL1|CISD2|CYBA|CYP1A2|CYP3A2|CYP3A23-3A1|EGFR|HMOX1|KCNK16|MAPK8IP1|NOTCH2|NUS1|WFS1
+endosome,GO:0005768,"Diabetes Mellitus, Experimental",MESH:D003921,0,,12,ACE|CAV1|CD68|CYBA|FAS|INSR|KCNJ11|SLC2A2|SLC2A4|SLC9A3|SNAP25|STS
+endosome,GO:0005768,"Diabetes Mellitus, Insulin-Dependent, 22",MESH:C567284,0,,1,CCR5
+endosome,GO:0005768,"Diabetes Mellitus, Insulin-Resistant, with Acanthosis Nigricans",MESH:C562710,0,,1,INSR
+endosome,GO:0005768,"Diabetes Mellitus, Transient Neonatal, 3",MESH:C566432,0,,1,KCNJ11
+endosome,GO:0005768,"Diabetes Mellitus, Type 1",MESH:D003922,0,,2,KCNJ11|SLC11A1
+endosome,GO:0005768,"Diabetes Mellitus, Type 2",MESH:D003924,0,,12,ADCY5|CYBA|ECE1|EGFR|FAS|GP2|GRB14|KCNJ11|SLC2A2|SLC2A4|SNAP25|VPS26A
+endosome lumen,GO:0031904,Diabetes Mellitus,MESH:D003920,0,,1,INS
+endosome lumen,GO:0031904,"Diabetes Mellitus, Insulin-Dependent, 2",MESH:C565100,0,,1,INS
+endosome lumen,GO:0031904,"Diabetes Mellitus, Type 1",MESH:D003922,0,,1,INS
+endosome lumen,GO:0031904,"Diabetes Mellitus, Type 2",MESH:D003924,0,,2,INS|PTPN1
+endosome membrane,GO:0010008,"Diabetes Mellitus, Experimental",MESH:D003921,0,,2,CD68|INSR
+endosome membrane,GO:0010008,"Diabetes Mellitus, Insulin-Resistant, with Acanthosis Nigricans",MESH:C562710,0,,1,INSR
+endosome membrane,GO:0010008,"Diabetes Mellitus, Type 1",MESH:D003922,0,,2,CLEC16A|SLC11A1
+endosome membrane,GO:0010008,"Diabetes Mellitus, Type 2",MESH:D003924,0,,4,ECE1|EGFR|GRB14|VPS26A
+eNoSc complex,GO:0061773,Diabetes Mellitus,MESH:D003920,0,,1,SIRT1
+eNoSc complex,GO:0061773,"Diabetes Mellitus, Experimental",MESH:D003921,0,,1,SIRT1
+eNoSc complex,GO:0061773,"Diabetes Mellitus, Type 2",MESH:D003924,0,,1,SIRT1
+epidermal lamellar body membrane,GO:0097234,"Diabetes Mellitus, Type 2",MESH:D003924,1,conduritol epoxide,0,
+ERMES complex,GO:0032865,"Diabetes Mellitus, Experimental",MESH:D003921,1,Hydrogen Peroxide,0,
+ER to Golgi transport vesicle membrane,GO:0012507,"Diabetes Mellitus, Experimental",MESH:D003921,0,,1,SREBF1
+ER to Golgi transport vesicle membrane,GO:0012507,"Diabetes Mellitus, Type 1",MESH:D003922,0,,3,HLA-DQA1|HLA-DQB1|HLA-DRB1
+ER to Golgi transport vesicle membrane,GO:0012507,"Diabetes Mellitus, Type 2",MESH:D003924,0,,1,HLA-DRB5
+ESC/E(Z) complex,GO:0035098,Diabetes Mellitus,MESH:D003920,0,,1,SIRT1
+ESC/E(Z) complex,GO:0035098,"Diabetes Mellitus, Experimental",MESH:D003921,0,,1,SIRT1
+ESC/E(Z) complex,GO:0035098,"Diabetes Mellitus, Type 2",MESH:D003924,0,,1,SIRT1
+euchromatin,GO:0000791,Diabetes Mellitus,MESH:D003920,0,,1,SIRT1
+euchromatin,GO:0000791,"Diabetes Mellitus, Experimental",MESH:D003921,0,,2,PPARGC1A|SIRT1
+euchromatin,GO:0000791,"Diabetes Mellitus, Type 2",MESH:D003924,0,,2,PPARGC1A|SIRT1
+exocytic vesicle,GO:0070382,"Diabetes Mellitus, Experimental",MESH:D003921,0,,2,CAV1|IGF1
+exocytic vesicle,GO:0070382,"Diabetes Mellitus, Type 1",MESH:D003922,0,,1,IGF1
+external side of plasma membrane,GO:0009897,Diabetes Mellitus,MESH:D003920,0,,2,LEPR|MAP3K5
+external side of plasma membrane,GO:0009897,"Diabetes Mellitus, Experimental",MESH:D003921,0,,14,ACE|BDKRB1|FAS|GSR|ICAM1|IFNG|IL6|INSR|LEPR|MAP3K5|MFGE8|MMP2|SLC2A4|TNF
+external side of plasma membrane,GO:0009897,"Diabetes Mellitus, Insulin-Dependent, 10",MESH:C566602,0,,1,IL2RA
+external side of plasma membrane,GO:0009897,"Diabetes Mellitus, Insulin-Dependent, 12",MESH:C563326,0,,1,CTLA4
+external side of plasma membrane,GO:0009897,"Diabetes Mellitus, Insulin-Dependent, 22",MESH:C567284,0,,1,CCR5
+external side of plasma membrane,GO:0009897,"Diabetes Mellitus, Insulin-Resistant, with Acanthosis Nigricans",MESH:C562710,0,,1,INSR
+external side of plasma membrane,GO:0009897,"Diabetes Mellitus, Type 1",MESH:D003922,0,,6,CD69|HLA-DRB1|IFNG|IL2RA|IL6|TNF
+external side of plasma membrane,GO:0009897,"Diabetes Mellitus, Type 2",MESH:D003924,0,,12,CD36|ECE1|FAS|GP2|ICAM1|IL13RA1|IL6|ITGA1|LEPR|SLC2A4|TNF|TNFRSF1B
+extracellular exosome,GO:0070062,Diabetes Mellitus,MESH:D003920,0,,1,FN1
+extracellular exosome,GO:0070062,"Diabetes Mellitus, Experimental",MESH:D003921,0,,6,ACE|ICAM1|S100A6|SERPINE1|SLC2A4|SLC9A3
+extracellular exosome,GO:0070062,"Diabetes Mellitus, Type 2",MESH:D003924,0,,11,BHMT|ICAM1|MIR10B|MIR125B1|MIR1260A|MIR195|MIR27A|MIR423|MIR4516|S100A6|SLC2A4
+extracellular matrix,GO:0031012,Diabetes Mellitus,MESH:D003920,0,,2,FN1|THBS2
+extracellular matrix,GO:0031012,"Diabetes Mellitus, Experimental",MESH:D003921,0,,6,MMP2|MMP9|TGFB1|TIMP1|TIMP2|VEGFA
+extracellular matrix,GO:0031012,"Diabetes Mellitus, Type 2",MESH:D003924,0,,2,ADAMTS9|TIMP1
+extracellular matrix of synaptic cleft,GO:0098965,"Diabetes Mellitus, Experimental",MESH:D003921,0,,1,MMP9
+extracellular region,GO:0005576,"ATAXIA, COMBINED CEREBELLAR AND PERIPHERAL, WITH HEARING LOSS AND DIABETES MELLITUS",OMIM:616192,0,,1,DNAJC3
+extracellular region,GO:0005576,Diabetes Mellitus,MESH:D003920,0,,12,ADIPOQ|ALPK1|CAT|CP|FN1|INS|INS2|LEPR|POMC|PON1|SOD1|THBS2
+extracellular region,GO:0005576,"Diabetes Mellitus, Experimental",MESH:D003921,0,,31,ACE|AGT|CAT|CCL20|CX3CL1|EDN1|FAS|FGF21|IAPP|IFNG|IGF1|IL1B|IL6|INS1|LEP|LEPR|MFGE8|MMP2|MMP9|MPO|PCSK2|PRKCD|REN|SERPINE1|SOD1|TGFB1|TIMP1|TIMP2|TNF|TNFRSF1A|VEGFA
+extracellular region,GO:0005576,"Diabetes Mellitus, Insulin-Dependent, 2",MESH:C565100,0,,1,INS
+extracellular region,GO:0005576,"Diabetes Mellitus, Noninsulin-Dependent, 1",MESH:C563359,0,,1,CAPN10
+extracellular region,GO:0005576,"Diabetes Mellitus, Type 1",MESH:D003922,0,,17,CAT|CCL20|CP|CRP|CTSH|FGF21|HP|IFNG|IGF1|IL10|IL19|IL20|IL27|IL6|INS|INS2|TNF
+extracellular region,GO:0005576,"Diabetes Mellitus, Type 2",MESH:D003924,0,,41,ADAMTS9|ADIPOQ|BRAF|C3|CAPN10|CASP8|CAT|DGKD|EDN1|ENPP1|FAS|FGF21|GCG|GP2|GSTM1|HBA1|HP|HPX|IAPP|IL6|INS|INS1|ITLN1|KL|LEP|LEPR|LIPC|NFKB1|NOTCH2|PAM|PCSK2|PSMD6|RETN|SFRP4|SHBG|SOD1|ST6GAL1|TIMP1|TNF|TNFRSF1A|TNFRSF1B
+extracellular space,GO:0005615,Diabetes Mellitus,MESH:D003920,0,,12,A|ADIPOQ|AOC3|CAT|CP|FN1|INS|INS2|LEPR|POMC|PON1|SOD1
+extracellular space,GO:0005615,"Diabetes Mellitus, Congenital Autoimmune",MESH:C565730,0,,1,TNFSF8
+extracellular space,GO:0005615,"Diabetes Mellitus, Experimental",MESH:D003921,0,,36,ACE|AGT|AOC3|CAT|CCL20|CX3CL1|CYP4A14|EDN1|FAS|FGF21|HMOX1|IAPP|ICAM1|IFNG|IGF1|IL1B|IL6|INS1|LEP|LEPR|MFGE8|MMP2|MMP9|MPO|NOS2|PCSK2|REN|S100A6|SERPINE1|SOD1|TGFB1|TIMP1|TIMP2|TNF|TNFRSF1A|VEGFA
+extracellular space,GO:0005615,"Diabetes Mellitus, Insulin-Dependent, 2",MESH:C565100,0,,1,INS
+extracellular space,GO:0005615,"Diabetes Mellitus, Type 1",MESH:D003922,0,,18,C1QTNF6|CAT|CCL20|CP|CRP|CTSH|FGF21|HP|IFNG|IGF1|IL10|IL19|IL20|IL27|IL6|INS|INS2|TNF
+extracellular space,GO:0005615,"Diabetes Mellitus, Type 2",MESH:D003924,0,,43,A|ADAMTS9|ADIPOQ|BHMT|C3|CAT|EDN1|EGFR|ENPP1|FAS|FGF21|GCG|GP2|HBA1|HMOX1|HP|HPX|IAPP|ICAM1|IL6|INS|INS1|ITLN1|KL|LEP|LEPR|LIPC|MIR126|MIR142|MIR192|MIR222|MIR335|NOS2|PAM|PCSK2|RETN|S100A6|SFRP4|SHBG|SOD1|TIMP1|TNF|TNFRSF1A
+extracellular vesicle,GO:1903561,Diabetes Mellitus,MESH:D003920,5,Air Pollutants|Arsenic|Cadmium|Lead|Ozone,0,
+extracellular vesicle,GO:1903561,"Diabetes Mellitus, Type 2",MESH:D003924,6,Air Pollutants|Arsenic|Cadmium|Lead|Nickel|Vehicle Emissions,0,
+extrinsic component of cytoplasmic side of plasma membrane,GO:0031234,"Diabetes Mellitus, Experimental",MESH:D003921,0,,1,ATP2A2
+extrinsic component of cytoplasmic side of plasma membrane,GO:0031234,"Diabetes Mellitus, Type 1",MESH:D003922,0,,1,TYK2
+extrinsic component of cytoplasmic side of plasma membrane,GO:0031234,"Diabetes Mellitus, Type 2",MESH:D003924,0,,1,ATP2A2
+extrinsic component of plasma membrane,GO:0019897,"Diabetes Mellitus, Type 1",MESH:D003922,0,,1,TYK2
+extrinsic component of postsynaptic density membrane,GO:0099147,"Diabetes Mellitus, Type 2",MESH:D003924,0,,1,CNKSR2
+extrinsic component of presynaptic membrane,GO:0098888,"Diabetes Mellitus, Experimental",MESH:D003921,0,,1,SNAP25
+extrinsic component of presynaptic membrane,GO:0098888,"Diabetes Mellitus, Type 2",MESH:D003924,0,,1,SNAP25
+female germ cell nucleus,GO:0001674,"Diabetes Mellitus, Type 2",MESH:D003924,0,,1,SLC2A1
+female pronucleus,GO:0001939,"Diabetes Mellitus, Type 2",MESH:D003924,0,,1,SLC2A1
+ferritin complex,GO:0070288,Diabetes Mellitus,MESH:D003920,1,bisphenol A,0,
+ferritin complex,GO:0070288,"Diabetes Mellitus, Experimental",MESH:D003921,1,bisphenol A,0,
+ferritin complex,GO:0070288,"Diabetes Mellitus, Type 1",MESH:D003922,1,bisphenol A,0,
+ferritin complex,GO:0070288,"Diabetes Mellitus, Type 2",MESH:D003924,1,bisphenol A,0,
+fibrillar center,GO:0001650,Diabetes Mellitus,MESH:D003920,0,,1,SIRT1
+fibrillar center,GO:0001650,"Diabetes Mellitus, Experimental",MESH:D003921,0,,2,ESRRA|SIRT1
+fibrillar center,GO:0001650,"Diabetes Mellitus, Type 2",MESH:D003924,0,,2,JAZF1|SIRT1
+fibrinogen complex,GO:0005577,Diabetes Mellitus,MESH:D003920,0,,1,FN1
+fibrinogen complex,GO:0005577,"Diabetes Mellitus, Experimental",MESH:D003921,1,Dietary Fats,0,
+fibrinogen complex,GO:0005577,"Diabetes Mellitus, Type 2",MESH:D003924,1,Dietary Fats,0,
+ficolin-1-rich granule lumen,GO:1904813,Diabetes Mellitus,MESH:D003920,0,,1,CAT
+ficolin-1-rich granule lumen,GO:1904813,"Diabetes Mellitus, Experimental",MESH:D003921,0,,3,CAT|MMP9|TIMP2
+ficolin-1-rich granule lumen,GO:1904813,"Diabetes Mellitus, Type 1",MESH:D003922,0,,2,CAT|CTSH
+ficolin-1-rich granule lumen,GO:1904813,"Diabetes Mellitus, Type 2",MESH:D003924,0,,2,CAT|PSMD6
+ficolin-1-rich granule membrane,GO:0101003,Diabetes Mellitus,MESH:D003920,0,,1,RAC1
+ficolin-1-rich granule membrane,GO:0101003,"Diabetes Mellitus, Type 1",MESH:D003922,0,,1,SLC11A1
+filamentous actin,GO:0031941,Diabetes Mellitus,MESH:D003920,3,Air Pollutants|bisphenol A|Ozone,0,
+filamentous actin,GO:0031941,"Diabetes Mellitus, Experimental",MESH:D003921,1,bisphenol A,0,
+filamentous actin,GO:0031941,"Diabetes Mellitus, Type 1",MESH:D003922,2,bisphenol A|Genistein,0,
+filamentous actin,GO:0031941,"Diabetes Mellitus, Type 2",MESH:D003924,4,Air Pollutants|bisphenol A|daidzein|Genistein,0,
+filopodium,GO:0030175,"Diabetes Mellitus, Experimental",MESH:D003921,0,,1,SNAP25
+filopodium,GO:0030175,"Diabetes Mellitus, Type 1",MESH:D003922,0,,1,CRP
+filopodium,GO:0030175,"Diabetes Mellitus, Type 2",MESH:D003924,0,,2,INPPL1|SNAP25
+focal adhesion,GO:0005925,"Diabetes Mellitus, Experimental",MESH:D003921,0,,3,CAV1|CAV3|CYBA
+focal adhesion,GO:0005925,"Diabetes Mellitus, Type 2",MESH:D003924,0,,2,CYBA|ITGA1
+GABA-ergic synapse,GO:0098982,Diabetes Mellitus,MESH:D003920,0,,1,RAC1
+GABA-ergic synapse,GO:0098982,"Diabetes Mellitus, Experimental",MESH:D003921,0,,1,ADRA1A
+germ cell nucleus,GO:0043073,"Diabetes Mellitus, Experimental",MESH:D003921,0,,2,TP53|TRP53
+germinal vesicle,GO:0042585,"Diabetes Mellitus, Congenital Autoimmune",MESH:C565730,1,Cyclophosphamide,0,
+germinal vesicle,GO:0042585,"Diabetes Mellitus, Experimental",MESH:D003921,1,Cyclophosphamide,0,
+germinal vesicle,GO:0042585,"Diabetes Mellitus, Type 1",MESH:D003922,1,Cyclophosphamide,0,
+GID complex,GO:0034657,"Diabetes Mellitus, Type 2",MESH:D003924,0,,1,MAEA
+glomerular endothelium fenestra,GO:0036053,"Diabetes Mellitus, Type 2",MESH:D003924,1,Diethylnitrosamine,0,
+glucose transporter complex,GO:1990350,"Diabetes Mellitus, Type 2",MESH:D003924,0,,1,SLC2A1
+glutamate-cysteine ligase complex,GO:0017109,"Diabetes Mellitus, Type 2",MESH:D003924,0,,2,GCLC|GCLM
+glutamatergic synapse,GO:0098978,Diabetes Mellitus,MESH:D003920,0,,2,KIF1A|RAC1
+glutamatergic synapse,GO:0098978,"Diabetes Mellitus, Experimental",MESH:D003921,0,,11,ADRA1A|CASP3|CHRM2|IGF1|KCNJ11|MMP9|PRKCE|RELA|S1PR2|SNAP25|YWHAH
+glutamatergic synapse,GO:0098978,"Diabetes Mellitus, Transient Neonatal, 3",MESH:C566432,0,,1,KCNJ11
+glutamatergic synapse,GO:0098978,"Diabetes Mellitus, Type 1",MESH:D003922,0,,5,CHRM2|IGF1|KCNJ11|NOS1|STAT3
+glutamatergic synapse,GO:0098978,"Diabetes Mellitus, Type 2",MESH:D003924,0,,10,AKT1|BRAF|CASP3|CNKSR2|EGFR|KCNJ11|NOTCH2|PTPN1|SLC1A2|SNAP25
+glycerol-3-phosphate dehydrogenase complex,GO:0009331,"Diabetes Mellitus, Experimental",MESH:D003921,0,,1,GPD2
+glycerol-3-phosphate dehydrogenase complex,GO:0009331,"Diabetes Mellitus, Type 2",MESH:D003924,0,,1,GPD2
+glycogen granule,GO:0042587,"Diabetes Mellitus, Type 2",MESH:D003924,1,Ethanol,0,
+Golgi apparatus,GO:0005794,Diabetes Mellitus,MESH:D003920,0,,1,AOC3
+Golgi apparatus,GO:0005794,"Diabetes Mellitus, Experimental",MESH:D003921,0,,10,AOC3|ATF3|CAV1|CAV3|CHRM2|NOS3|PRKCE|SREBF1|STS|VEGFA
+Golgi apparatus,GO:0005794,"Diabetes Mellitus, Insulin-Dependent, 12",MESH:C563326,0,,1,CTLA4
+Golgi apparatus,GO:0005794,"Diabetes Mellitus, Type 1",MESH:D003922,0,,4,CHRM2|CLEC16A|NOS3|SLC29A3
+Golgi apparatus,GO:0005794,"Diabetes Mellitus, Type 2",MESH:D003924,0,,9,AP3S2|ATF3|CD36|ECE1|EGFR|INPPL1|NOS3|NOTCH2|ST6GAL1
+Golgi cisterna membrane,GO:0032580,"Diabetes Mellitus, Type 2",MESH:D003924,0,,1,ST6GAL1
+Golgi lumen,GO:0005796,Diabetes Mellitus,MESH:D003920,0,,1,INS
+Golgi lumen,GO:0005796,"Diabetes Mellitus, Experimental",MESH:D003921,0,,1,TGFB1
+Golgi lumen,GO:0005796,"Diabetes Mellitus, Insulin-Dependent, 2",MESH:C565100,0,,1,INS
+Golgi lumen,GO:0005796,"Diabetes Mellitus, Type 1",MESH:D003922,0,,1,INS
+Golgi lumen,GO:0005796,"Diabetes Mellitus, Type 2",MESH:D003924,0,,1,INS
+Golgi medial cisterna,GO:0005797,"Diabetes Mellitus, Type 2",MESH:D003924,0,,1,ST6GAL1
+Golgi membrane,GO:0000139,Diabetes Mellitus,MESH:D003920,0,,2,INS|RAC1
+Golgi membrane,GO:0000139,"Diabetes Mellitus, Experimental",MESH:D003921,0,,7,CAV1|CAV3|NOS3|PCSK2|PRKCE|SREBF1|TNFRSF1A
+Golgi membrane,GO:0000139,"Diabetes Mellitus, Insulin-Dependent, 2",MESH:C565100,0,,1,INS
+Golgi membrane,GO:0000139,"Diabetes Mellitus, Type 1",MESH:D003922,0,,5,HLA-DQA1|HLA-DQB1|HLA-DRB1|INS|NOS3
+Golgi membrane,GO:0000139,"Diabetes Mellitus, Type 2",MESH:D003924,0,,10,EGFR|HLA-DRB5|INS|NOS3|NOTCH2|PCSK2|SLC2A1|SLC30A8|ST6GAL1|TNFRSF1A
+Golgi trans cisterna,GO:0000138,"Diabetes Mellitus, Type 2",MESH:D003924,0,,1,ST6GAL1
+growth cone,GO:0030426,Diabetes Mellitus,MESH:D003920,0,,1,SIRT1
+growth cone,GO:0030426,"Diabetes Mellitus, Experimental",MESH:D003921,0,,3,SIRT1|SNAP25|TIMP2
+growth cone,GO:0030426,"Diabetes Mellitus, Type 1",MESH:D003922,0,,1,CRP
+growth cone,GO:0030426,"Diabetes Mellitus, Type 2",MESH:D003924,0,,3,AUTS2|SIRT1|SNAP25
+growth cone filopodium,GO:1990812,"Diabetes Mellitus, Type 2",MESH:D003924,1,Ethanol,0,
+haptoglobin-hemoglobin complex,GO:0031838,"Diabetes Mellitus, Type 1",MESH:D003922,0,,1,HP
+haptoglobin-hemoglobin complex,GO:0031838,"Diabetes Mellitus, Type 2",MESH:D003924,0,,2,HBA1|HP
+hemoglobin complex,GO:0005833,"Diabetes Mellitus, Type 2",MESH:D003924,0,,1,HBA1
+heterochromatin,GO:0000792,Diabetes Mellitus,MESH:D003920,0,,2,SIRT1|ZFP57
+heterochromatin,GO:0000792,"Diabetes Mellitus, Experimental",MESH:D003921,0,,1,SIRT1
+heterochromatin,GO:0000792,"Diabetes Mellitus, Transient Neonatal, 1",MESH:C563322,0,,1,ZFP57
+heterochromatin,GO:0000792,"Diabetes Mellitus, Type 2",MESH:D003924,0,,1,SIRT1
+heteromeric SMAD protein complex,GO:0071144,"Diabetes Mellitus, Type 2",MESH:D003924,0,,1,SMAD5
+heterotrimeric G-protein complex,GO:0005834,"Diabetes Mellitus, Experimental",MESH:D003921,0,,1,S1PR4
+heterotrimeric G-protein complex,GO:0005834,"Diabetes Mellitus, Type 2",MESH:D003924,0,,1,GNB3
+high-density lipoprotein particle,GO:0034364,Diabetes Mellitus,MESH:D003920,0,,1,PON1
+high-density lipoprotein particle,GO:0034364,"Diabetes Mellitus, Type 2",MESH:D003924,0,,1,LIPC
+histone acetyltransferase complex,GO:0000123,"Diabetes Mellitus, Type 2",MESH:D003924,0,,1,JADE2
+"IgE immunoglobulin complex, circulating",GO:0071743,Diabetes Mellitus,MESH:D003920,5,Air Pollutants|bisphenol A|Mercury|Particulate Matter|Selenium,0,
+"IgE immunoglobulin complex, circulating",GO:0071743,"Diabetes Mellitus, Experimental",MESH:D003921,2,bisphenol A|Manganese,0,
+"IgE immunoglobulin complex, circulating",GO:0071743,"Diabetes Mellitus, Type 1",MESH:D003922,2,bisphenol A|Mercury,0,
+"IgE immunoglobulin complex, circulating",GO:0071743,"Diabetes Mellitus, Type 2",MESH:D003924,5,Air Pollutants|bisphenol A|Manganese|Mercury|Particulate Matter,0,
+IgG immunoglobulin complex,GO:0071735,"Diabetes Mellitus, Type 1",MESH:D003922,1,decabromobiphenyl ether,0,
+IgG immunoglobulin complex,GO:0071735,"Diabetes Mellitus, Type 2",MESH:D003924,1,Boron,0,
+"IgG immunoglobulin complex, circulating",GO:0071736,Diabetes Mellitus,MESH:D003920,1,Tetrachlorodibenzodioxin,0,
+"IgG immunoglobulin complex, circulating",GO:0071736,"Diabetes Mellitus, Type 1",MESH:D003922,1,Tetrachlorodibenzodioxin,0,
+"IgG immunoglobulin complex, circulating",GO:0071736,"Diabetes Mellitus, Type 2",MESH:D003924,4,perfluorodecanoic acid|perfluorohexanesulfonic acid|perfluorooctane sulfonic acid|perfluorooctanoic acid,0,
+IgM immunoglobulin complex,GO:0071753,"Diabetes Mellitus, Type 1",MESH:D003922,1,decabromobiphenyl ether,0,
+I-kappaB/NF-kappaB complex,GO:0033256,"Diabetes Mellitus, Type 2",MESH:D003924,0,,1,NFKB1
+immunological synapse,GO:0001772,"Diabetes Mellitus, Experimental",MESH:D003921,0,,1,ICAM1
+immunological synapse,GO:0001772,"Diabetes Mellitus, Type 1",MESH:D003922,0,,2,HLA-DRB1|PRKCQ
+immunological synapse,GO:0001772,"Diabetes Mellitus, Type 2",MESH:D003924,0,,1,ICAM1
+inclusion body,GO:0016234,"Diabetes Mellitus, Experimental",MESH:D003921,0,,1,IAPP
+inclusion body,GO:0016234,"Diabetes Mellitus, Type 2",MESH:D003924,0,,1,IAPP
+inhibin B complex,GO:0043513,Diabetes Mellitus,MESH:D003920,1,bisphenol A,0,
+inhibin B complex,GO:0043513,"Diabetes Mellitus, Experimental",MESH:D003921,1,bisphenol A,0,
+inhibin B complex,GO:0043513,"Diabetes Mellitus, Type 1",MESH:D003922,1,bisphenol A,0,
+inhibin B complex,GO:0043513,"Diabetes Mellitus, Type 2",MESH:D003924,1,bisphenol A,0,
+insulin-like growth factor binding protein complex,GO:0016942,"Diabetes Mellitus, Experimental",MESH:D003921,0,,1,IGF1
+insulin-like growth factor binding protein complex,GO:0016942,"Diabetes Mellitus, Type 1",MESH:D003922,0,,1,IGF1
+insulin-like growth factor ternary complex,GO:0042567,"Diabetes Mellitus, Experimental",MESH:D003921,0,,1,IGF1
+insulin-like growth factor ternary complex,GO:0042567,"Diabetes Mellitus, Type 1",MESH:D003922,0,,1,IGF1
+insulin receptor complex,GO:0005899,Diabetes Mellitus,MESH:D003920,0,,1,IRS1
+insulin receptor complex,GO:0005899,"Diabetes Mellitus, Experimental",MESH:D003921,0,,2,INSR|IRS1
+insulin receptor complex,GO:0005899,"Diabetes Mellitus, Insulin-Resistant, with Acanthosis Nigricans",MESH:C562710,0,,1,INSR
+insulin receptor complex,GO:0005899,"Diabetes Mellitus, Type 2",MESH:D003924,0,,1,IRS1
+insulin-responsive compartment,GO:0032593,"Diabetes Mellitus, Experimental",MESH:D003921,0,,1,SLC2A4
+insulin-responsive compartment,GO:0032593,"Diabetes Mellitus, Type 2",MESH:D003924,0,,2,AKT2|SLC2A4
+integrin alpha1-beta1 complex,GO:0034665,"Diabetes Mellitus, Type 2",MESH:D003924,0,,1,ITGA1
+integrin complex,GO:0008305,"Diabetes Mellitus, Type 2",MESH:D003924,0,,1,ITGA1
+intercalated disc,GO:0014704,"Diabetes Mellitus, Experimental",MESH:D003921,0,,6,ATP2A2|CAV3|KCNJ11|PRKCA|SLC9A1|YWHAH
+intercalated disc,GO:0014704,"Diabetes Mellitus, Transient Neonatal, 3",MESH:C566432,0,,1,KCNJ11
+intercalated disc,GO:0014704,"Diabetes Mellitus, Type 1",MESH:D003922,0,,1,KCNJ11
+intercalated disc,GO:0014704,"Diabetes Mellitus, Type 2",MESH:D003924,0,,3,ATP2A2|KCNJ11|SLC2A1
+intercellular bridge,GO:0045171,"Diabetes Mellitus, Experimental",MESH:D003921,0,,1,ESRRA
+intercellular bridge,GO:0045171,"Diabetes Mellitus, Type 2",MESH:D003924,0,,1,GSTM1
+interleukin-12 receptor complex,GO:0042022,"Diabetes Mellitus, Type 1",MESH:D003922,0,,1,TYK2
+interleukin-13 receptor complex,GO:0005898,"Diabetes Mellitus, Type 2",MESH:D003924,0,,1,IL13RA1
+interleukin-23 receptor complex,GO:0072536,"Diabetes Mellitus, Type 1",MESH:D003922,0,,1,TYK2
+interleukin-2 receptor complex,GO:0005893,"Diabetes Mellitus, Insulin-Dependent, 10",MESH:C566602,0,,1,IL2RA
+interleukin-2 receptor complex,GO:0005893,"Diabetes Mellitus, Type 1",MESH:D003922,0,,1,IL2RA
+interleukin-6 receptor complex,GO:0005896,"Diabetes Mellitus, Experimental",MESH:D003921,0,,1,IL6
+interleukin-6 receptor complex,GO:0005896,"Diabetes Mellitus, Type 1",MESH:D003922,0,,1,IL6
+interleukin-6 receptor complex,GO:0005896,"Diabetes Mellitus, Type 2",MESH:D003924,0,,1,IL6
+intermediate filament,GO:0005882,"Diabetes Mellitus, Type 1",MESH:D003922,0,,1,HLA-DRB1
+intermediate filament cytoskeleton,GO:0045111,Diabetes Mellitus,MESH:D003920,0,,1,NR1I2
+intermediate filament cytoskeleton,GO:0045111,"Diabetes Mellitus, Experimental",MESH:D003921,0,,1,PRKCE
+interstitial matrix,GO:0005614,"Diabetes Mellitus, Experimental",MESH:D003921,0,,1,IGF1
+interstitial matrix,GO:0005614,"Diabetes Mellitus, Type 1",MESH:D003922,0,,1,IGF1
+intracellular anatomical structure,GO:0005622,"Diabetes Mellitus, Experimental",MESH:D003921,0,,7,BAX|BCL2|BCL2L1|NEUROD1|PAX6|PDX1|TNF
+intracellular anatomical structure,GO:0005622,"Diabetes Mellitus, Permanent Neonatal, with Cerebellar Agenesis",MESH:C563796,0,,1,PTF1A
+intracellular anatomical structure,GO:0005622,"Diabetes Mellitus, Type 1",MESH:D003922,0,,1,TNF
+intracellular anatomical structure,GO:0005622,"Diabetes Mellitus, Type 2",MESH:D003924,0,,9,BAX|BCL2|BCL2L1|EGFR|NEUROD1|PAX6|PDX1|SLC2A1|TNF
+intracellular membrane-bounded organelle,GO:0043231,Diabetes Mellitus,MESH:D003920,0,,4,CAT|IRS1|PPARG|PTGS2
+intracellular membrane-bounded organelle,GO:0043231,"Diabetes Mellitus, Experimental",MESH:D003921,0,,14,ADRA1A|ATF3|CAT|CAV3|CYP4A10|CYP4A14|HSD11B1|IRS1|MPO|PCSK2|PPARG|PRKCE|PTGS2|STS
+intracellular membrane-bounded organelle,GO:0043231,"Diabetes Mellitus, Type 1",MESH:D003922,0,,4,CAT|CTSH|HSD11B2|SLC29A3
+intracellular membrane-bounded organelle,GO:0043231,"Diabetes Mellitus, Type 2",MESH:D003924,0,,18,ADAMTS9|AKT2|AP3S2|ATF3|BCL2L11|BRAF|CAT|CCDC92|CISD2|CYP1A2|FTO|GRB14|HNF1B|IRS1|PCSK2|PPARG|RNF6|SLC30A8
+intracellular vesicle,GO:0097708,"Diabetes Mellitus, Type 2",MESH:D003924,0,,1,EGFR
+inward rectifying potassium channel,GO:0008282,"Diabetes Mellitus, Experimental",MESH:D003921,0,,1,KCNJ11
+inward rectifying potassium channel,GO:0008282,"Diabetes Mellitus, Transient Neonatal, 2",MESH:C563672,0,,1,ABCC8
+inward rectifying potassium channel,GO:0008282,"Diabetes Mellitus, Transient Neonatal, 3",MESH:C566432,0,,1,KCNJ11
+inward rectifying potassium channel,GO:0008282,"Diabetes Mellitus, Type 1",MESH:D003922,0,,2,ABCC8|KCNJ11
+inward rectifying potassium channel,GO:0008282,"Diabetes Mellitus, Type 2",MESH:D003924,0,,2,ABCC8|KCNJ11
+ion channel complex,GO:0034702,Diabetes Mellitus,MESH:D003920,0,,1,CYBB
+ion channel complex,GO:0034702,"Diabetes Mellitus, Experimental",MESH:D003921,0,,2,CYBB|KCNJ11
+ion channel complex,GO:0034702,"Diabetes Mellitus, Transient Neonatal, 3",MESH:C566432,0,,1,KCNJ11
+ion channel complex,GO:0034702,"Diabetes Mellitus, Type 1",MESH:D003922,0,,1,KCNJ11
+ion channel complex,GO:0034702,"Diabetes Mellitus, Type 2",MESH:D003924,0,,4,KCNJ11|KCNK16|KCNQ1|KCNU1
+IPAF inflammasome complex,GO:0072557,"Diabetes Mellitus, Type 1",MESH:D003922,0,,1,CASP12
+IRE1-TRAF2-ASK1 complex,GO:1990604,Diabetes Mellitus,MESH:D003920,0,,1,MAP3K5
+IRE1-TRAF2-ASK1 complex,GO:1990604,"Diabetes Mellitus, Experimental",MESH:D003921,0,,1,MAP3K5
+kinesin complex,GO:0005871,Diabetes Mellitus,MESH:D003920,0,,2,KIF1A|KIF5B
+kinocilium,GO:0060091,Diabetes Mellitus,MESH:D003920,0,,1,RAC1
+lamellipodium,GO:0030027,Diabetes Mellitus,MESH:D003920,0,,1,RAC1
+lamellipodium,GO:0030027,"Diabetes Mellitus, Experimental",MESH:D003921,0,,2,SLC9A1|SNAP25
+lamellipodium,GO:0030027,"Diabetes Mellitus, Type 2",MESH:D003924,0,,4,AKT1|CASP8|INPPL1|SNAP25
+laminin complex,GO:0043256,Diabetes Mellitus,MESH:D003920,1,Diazinon,0,
+laminin complex,GO:0043256,"Diabetes Mellitus, Type 1",MESH:D003922,1,Thioctic Acid,0,
+large ribosomal subunit,GO:0015934,"Diabetes Mellitus, Experimental",MESH:D003921,1,sodium arsenite,0,
+large ribosomal subunit,GO:0015934,"Diabetes Mellitus, Type 1",MESH:D003922,1,sodium arsenite,0,
+late endosome,GO:0005770,"Diabetes Mellitus, Experimental",MESH:D003921,0,,1,INSR
+late endosome,GO:0005770,"Diabetes Mellitus, Insulin-Resistant, with Acanthosis Nigricans",MESH:C562710,0,,1,INSR
+late endosome,GO:0005770,"Diabetes Mellitus, Type 1",MESH:D003922,0,,3,CLEC16A|DDIT3|SLC11A1
+late endosome,GO:0005770,"Diabetes Mellitus, Type 2",MESH:D003924,0,,2,KCNQ1|LIPC
+late endosome membrane,GO:0031902,"Diabetes Mellitus, Experimental",MESH:D003921,0,,1,CD68
+late endosome membrane,GO:0031902,"Diabetes Mellitus, Type 1",MESH:D003922,0,,3,HLA-DRB1|SLC11A1|SLC29A3
+late endosome membrane,GO:0031902,"Diabetes Mellitus, Type 2",MESH:D003924,0,,1,HLA-DRB5
+Lewy body,GO:0097413,"Diabetes Mellitus, Experimental",MESH:D003921,0,,1,GPX1
+Lewy body,GO:0097413,"Diabetes Mellitus, Type 2",MESH:D003924,0,,1,GPX1
+lipid droplet,GO:0005811,"Diabetes Mellitus, Experimental",MESH:D003921,1,Dietary Fats,1,CAV1
+lipid droplet,GO:0005811,"Diabetes Mellitus, Type 2",MESH:D003924,1,Dietary Fats,0,
+longitudinal sarcoplasmic reticulum,GO:0014801,"Diabetes Mellitus, Experimental",MESH:D003921,0,,1,ATP2A2
+longitudinal sarcoplasmic reticulum,GO:0014801,"Diabetes Mellitus, Type 2",MESH:D003924,0,,1,ATP2A2
+lumenal side of endoplasmic reticulum membrane,GO:0098553,"Diabetes Mellitus, Type 1",MESH:D003922,0,,3,HLA-DQA1|HLA-DQB1|HLA-DRB1
+lumenal side of endoplasmic reticulum membrane,GO:0098553,"Diabetes Mellitus, Type 2",MESH:D003924,0,,1,HLA-DRB5
+lumenal side of membrane,GO:0098576,"Diabetes Mellitus, Type 2",MESH:D003924,0,,1,KCNQ1
+lysosomal membrane,GO:0005765,"Diabetes Mellitus, Experimental",MESH:D003921,0,,1,CD68
+lysosomal membrane,GO:0005765,"Diabetes Mellitus, Type 1",MESH:D003922,0,,6,CLEC16A|HLA-DQA1|HLA-DQB1|HLA-DRB1|SLC11A1|SLC29A3
+lysosomal membrane,GO:0005765,"Diabetes Mellitus, Type 2",MESH:D003924,0,,1,HLA-DRB5
+lysosome,GO:0005764,Diabetes Mellitus,MESH:D003920,0,,1,SOD1
+lysosome,GO:0005764,"Diabetes Mellitus, Experimental",MESH:D003921,2,Manganese|sodium arsenite,7,ACE|CD68|IL1B|INSR|MPO|SOD1|STS
+lysosome,GO:0005764,"Diabetes Mellitus, Insulin-Resistant, with Acanthosis Nigricans",MESH:C562710,0,,1,INSR
+lysosome,GO:0005764,"Diabetes Mellitus, Type 1",MESH:D003922,1,sodium arsenite,2,CTSH|SLC11A1
+lysosome,GO:0005764,"Diabetes Mellitus, Type 2",MESH:D003924,1,Manganese,3,KCNQ1|SOD1|VPS26A
+major mitochondrial derivative,GO:0016008,Diabetes Mellitus,MESH:D003920,0,,1,CAT
+major mitochondrial derivative,GO:0016008,"Diabetes Mellitus, Experimental",MESH:D003921,0,,1,CAT
+major mitochondrial derivative,GO:0016008,"Diabetes Mellitus, Type 1",MESH:D003922,0,,1,CAT
+major mitochondrial derivative,GO:0016008,"Diabetes Mellitus, Type 2",MESH:D003924,0,,1,CAT
+male germ cell nucleus,GO:0001673,"Diabetes Mellitus, Type 2",MESH:D003924,0,,2,HMGA1|SMAD5
+melanosome,GO:0042470,Diabetes Mellitus,MESH:D003920,0,,1,RAC1
+melanosome,GO:0042470,"Diabetes Mellitus, Type 2",MESH:D003924,0,,1,SLC2A1
+membrane,GO:0016020,Diabetes Mellitus,MESH:D003920,0,,10,ADRB1|AOC3|ATP6|CP|CPT1A|CYBB|LEPR|NCF1|PTGS2|RAC1
+membrane,GO:0016020,"Diabetes Mellitus, Congenital Autoimmune",MESH:C565730,0,,1,TNFSF8
+membrane,GO:0016020,"Diabetes Mellitus, Experimental",MESH:D003921,0,,55,ACE|ACSL1|ADRA1A|ADRB3|AIFM1|AOC3|ATP2A2|ATP2A3|BAX|BCL2|BCL2L1|BDKRB1|CAV1|CAV3|CD68|CHRM2|COX2|CPT1A|CPT1B|CX3CL1|CYBA|CYBB|CYP1A1|FAS|FOXO3|GPAM|HMOX1|ICAM1|INSR|KCNJ11|LEPR|NCF1|ND1|PCSK2|PCX|PFKM|PRKCA|PRKCD|PRKCE|PTGS2|REN|S1PR2|S1PR4|S1PR5|SLC2A2|SLC2A4|SLC9A1|SLC9A3|SNAP25|SREBF1|STS|TNF|TNFRSF1A|UCP2|VEGFA
+membrane,GO:0016020,"Diabetes Mellitus, Insulin-Dependent, 12",MESH:C563326,0,,1,CTLA4
+membrane,GO:0016020,"Diabetes Mellitus, Insulin-Dependent, 22",MESH:C567284,0,,1,CCR5
+membrane,GO:0016020,"Diabetes Mellitus, Insulin-Resistant, with Acanthosis Nigricans",MESH:C562710,0,,1,INSR
+membrane,GO:0016020,"Diabetes Mellitus, Noninsulin-Dependent, 1",MESH:C563359,0,,1,CAPN10
+membrane,GO:0016020,"Diabetes Mellitus, Transient Neonatal, 2",MESH:C563672,0,,1,ABCC8
+membrane,GO:0016020,"Diabetes Mellitus, Transient Neonatal, 3",MESH:C566432,0,,1,KCNJ11
+membrane,GO:0016020,"Diabetes Mellitus, Type 1",MESH:D003922,0,,15,ABCC8|AIFM1|CD69|CHRM2|CP|CRP|HLA-DQB1|HLA-DRB1|HSD11B2|ITPR3|KCNJ11|SLC11A1|SLC29A3|TNF|TYK2
+membrane,GO:0016020,"Diabetes Mellitus, Type 2",MESH:D003924,0,,70,ABCC8|ADAMTS9|ADCY5|AKT1|AP3S2|ATP2A2|ATP2A3|BAX|BCL2|BCL2L1|BCL2L11|CAPN10|CCND2|CD36|CDKAL1|CISD2|CNKSR2|CPT1A|CYBA|ECE1|EDNRA|EDNRB|EGFR|ENPP1|FAM234A|FAS|GLP1R|HECTD4|HMOX1|ICAM1|IL13RA1|INPPL1|ITGA1|ITLN1|KCNJ11|KCNK16|KCNQ1|KCNU1|KL|LEPR|MAEA|MAPK8IP1|MRAS|MTNR1B|NOTCH2|NUS1|PAM|PCSK2|PCX|PIK3CG|PLEKHA1|PPP1R3A|PRKCB|PTPN1|SCTR|SLC1A2|SLC22A3|SLC2A1|SLC2A2|SLC2A4|SLC30A8|SNAP25|ST6GAL1|TMEM18|TNF|TNFRSF1A|TNFRSF1B|UCP2|VPS26A|WFS1
+membrane-bounded organelle,GO:0043227,Diabetes Mellitus,MESH:D003920,0,,1,KIF5B
+membrane coat,GO:0030117,"Diabetes Mellitus, Type 2",MESH:D003924,0,,1,AP3S2
+membrane protein complex,GO:0098796,"Diabetes Mellitus, Type 2",MESH:D003924,0,,1,SLC1A2
+membrane raft,GO:0045121,"Diabetes Mellitus, Experimental",MESH:D003921,0,,9,CAV1|CAV3|FAS|HK1|ICAM1|SLC2A4|SLC9A1|TNF|TNFRSF1A
+membrane raft,GO:0045121,"Diabetes Mellitus, Type 1",MESH:D003922,0,,2,NOS1|TNF
+membrane raft,GO:0045121,"Diabetes Mellitus, Type 2",MESH:D003924,0,,14,CD36|EGFR|FAS|GP2|HK1|ICAM1|ITLN1|KCNQ1|SLC1A2|SLC2A1|SLC2A4|TNF|TNFRSF1A|TNFRSF1B
+methionine adenosyltransferase complex,GO:0048269,"Diabetes Mellitus, Type 2",MESH:D003924,0,,1,MAT1A
+MHC class II protein complex,GO:0042613,"Diabetes Mellitus, Type 1",MESH:D003922,0,,3,HLA-DQA1|HLA-DQB1|HLA-DRB1
+MHC class II protein complex,GO:0042613,"Diabetes Mellitus, Type 2",MESH:D003924,0,,1,HLA-DRB5
+microtubule,GO:0005874,Diabetes Mellitus,MESH:D003920,0,,2,KIF1A|KIF5B
+microtubule,GO:0005874,"Diabetes Mellitus, Type 2",MESH:D003924,0,,1,BCL2L11
+microtubule cytoskeleton,GO:0015630,Diabetes Mellitus,MESH:D003920,0,,1,KIF5B
+microtubule cytoskeleton,GO:0015630,"Diabetes Mellitus, Experimental",MESH:D003921,0,,1,ESRRA
+microtubule cytoskeleton,GO:0015630,"Diabetes Mellitus, Type 2",MESH:D003924,0,,1,AKT1
+microvillus,GO:0005902,Diabetes Mellitus,MESH:D003920,0,,1,AOC3
+microvillus,GO:0005902,"Diabetes Mellitus, Experimental",MESH:D003921,0,,2,AOC3|TGFB1
+microvillus,GO:0005902,"Diabetes Mellitus, Type 2",MESH:D003924,0,,1,LIPC
+midbody,GO:0030496,"Diabetes Mellitus, Type 2",MESH:D003924,0,,1,SLC2A1
+mitochondria-associated endoplasmic reticulum membrane,GO:0044233,Diabetes Mellitus,MESH:D003920,4,Air Pollutants|Cadmium|Molybdenum|Particulate Matter,0,
+mitochondria-associated endoplasmic reticulum membrane,GO:0044233,"Diabetes Mellitus, Experimental",MESH:D003921,1,Hydrogen Peroxide,0,
+mitochondria-associated endoplasmic reticulum membrane,GO:0044233,"Diabetes Mellitus, Type 2",MESH:D003924,4,Air Pollutants|Cadmium|Particulate Matter|perfluorooctane sulfonic acid,0,
+mitochondrial chromosome,GO:0000262,Diabetes Mellitus,MESH:D003920,2,bisphenol A|Flavonoids,0,
+mitochondrial chromosome,GO:0000262,"Diabetes Mellitus, Experimental",MESH:D003921,1,bisphenol A,0,
+mitochondrial chromosome,GO:0000262,"Diabetes Mellitus, Type 1",MESH:D003922,1,bisphenol A,0,
+mitochondrial chromosome,GO:0000262,"Diabetes Mellitus, Type 2",MESH:D003924,1,bisphenol A,0,
+mitochondrial crista,GO:0030061,"Diabetes Mellitus, Experimental",MESH:D003921,0,,1,BCL2
+mitochondrial crista,GO:0030061,"Diabetes Mellitus, Type 2",MESH:D003924,0,,2,BCL2|PTPN1
+mitochondrial inner membrane,GO:0005743,Diabetes Mellitus,MESH:D003920,0,,1,ATP6
+mitochondrial inner membrane,GO:0005743,"Diabetes Mellitus, Experimental",MESH:D003921,0,,8,AIFM1|BCL2L1|COX2|CYP1A1|CYP2B10|GPD2|ND1|UCP2
+mitochondrial inner membrane,GO:0005743,"Diabetes Mellitus, Noninsulin-Dependent, 1",MESH:C563359,0,,1,CAPN10
+mitochondrial inner membrane,GO:0005743,"Diabetes Mellitus, Type 1",MESH:D003922,0,,2,AIFM1|STAT3
+mitochondrial inner membrane,GO:0005743,"Diabetes Mellitus, Type 2",MESH:D003924,0,,5,BCL2L1|CAPN10|GPD2|KCNK16|UCP2
+mitochondrial intermembrane space,GO:0005758,Diabetes Mellitus,MESH:D003920,0,,1,SOD1
+mitochondrial intermembrane space,GO:0005758,"Diabetes Mellitus, Experimental",MESH:D003921,0,,3,AIFM1|CPT1B|SOD1
+mitochondrial intermembrane space,GO:0005758,"Diabetes Mellitus, Type 1",MESH:D003922,0,,1,AIFM1
+mitochondrial intermembrane space,GO:0005758,"Diabetes Mellitus, Type 2",MESH:D003924,0,,2,AKT1|SOD1
+mitochondrial matrix,GO:0005759,Diabetes Mellitus,MESH:D003920,0,,1,SOD1
+mitochondrial matrix,GO:0005759,"Diabetes Mellitus, Experimental",MESH:D003921,0,,12,BCL2L1|COX2|FOXO3|GPX1|GSR|PCX|PDK4|SNAP25|SOD1|SOD2|TP53|TRP53
+mitochondrial matrix,GO:0005759,"Diabetes Mellitus, Noninsulin-Dependent, 1",MESH:C563359,0,,1,CAPN10
+mitochondrial matrix,GO:0005759,"Diabetes Mellitus, Type 2",MESH:D003924,0,,9,BCL2L1|CAPN10|GPX1|OGG1|PCX|PTPN1|SNAP25|SOD1|SOD2
+mitochondrial matrix,GO:0005759,Noninsulin-dependent diabetes mellitus with deafness,MESH:C536246,0,,1,TRNL1
+mitochondrial membrane,GO:0031966,Diabetes Mellitus,MESH:D003920,5,Cadmium|Docosahexaenoic Acids|Lead|Mercury|Molybdenum,0,
+mitochondrial membrane,GO:0031966,"Diabetes Mellitus, Experimental",MESH:D003921,0,,8,BAX|BCL2|BCL2L1|COX2|GPAM|ND1|PRKCA|UCP2
+mitochondrial membrane,GO:0031966,"Diabetes Mellitus, Type 1",MESH:D003922,1,Mercury,1,SLC29A3
+mitochondrial membrane,GO:0031966,"Diabetes Mellitus, Type 2",MESH:D003924,3,Cadmium|Lead|Mercury,6,BAX|BCL2|BCL2L1|MAPK8IP1|SLC22A3|UCP2
+mitochondrial nucleoid,GO:0042645,"Diabetes Mellitus, Experimental",MESH:D003921,0,,1,SOD2
+mitochondrial nucleoid,GO:0042645,"Diabetes Mellitus, Type 2",MESH:D003924,0,,1,SOD2
+mitochondrial outer membrane,GO:0005741,Diabetes Mellitus,MESH:D003920,0,,1,CPT1A
+mitochondrial outer membrane,GO:0005741,"Diabetes Mellitus, Experimental",MESH:D003921,0,,11,ACSL1|AIFM1|BAX|BCL2|BCL2L1|CPT1A|CPT1B|FOXO3|GPAM|HK1|HMOX1
+mitochondrial outer membrane,GO:0005741,"Diabetes Mellitus, Noninsulin-Dependent, 1",MESH:C563359,0,,1,CAPN10
+mitochondrial outer membrane,GO:0005741,"Diabetes Mellitus, Type 1",MESH:D003922,0,,3,AIFM1|NOS1|SLC29A3
+mitochondrial outer membrane,GO:0005741,"Diabetes Mellitus, Type 2",MESH:D003924,0,,10,BAX|BCL2|BCL2L1|BCL2L11|CAPN10|CASP8|CISD2|CPT1A|HK1|HMOX1
+mitochondrial permeability transition pore complex,GO:0005757,Diabetes Mellitus,MESH:D003920,1,Lead,0,
+mitochondrial permeability transition pore complex,GO:0005757,"Diabetes Mellitus, Experimental",MESH:D003921,3,Hydrogen Peroxide|Quercetin|thymoquinone,1,BAX
+mitochondrial permeability transition pore complex,GO:0005757,"Diabetes Mellitus, Type 2",MESH:D003924,2,Calcium|Lead,1,BAX
+mitochondrial proton-transporting ATP synthase complex,GO:0005753,"Diabetes Mellitus, Type 1",MESH:D003922,1,Lipopolysaccharides,0,
+mitochondrial respirasome,GO:0005746,"Diabetes Mellitus, Type 2",MESH:D003924,1,TAK-875,0,
+mitochondrial respiratory chain complex I,GO:0005747,Diabetes Mellitus,MESH:D003920,1,Streptozocin,0,
+mitochondrial respiratory chain complex I,GO:0005747,"Diabetes Mellitus, Experimental",MESH:D003921,1,Streptozocin,0,
+mitochondrial respiratory chain complex I,GO:0005747,"Diabetes Mellitus, Type 1",MESH:D003922,2,Lipopolysaccharides|Streptozocin,0,
+mitochondrial respiratory chain complex I,GO:0005747,"Diabetes Mellitus, Type 2",MESH:D003924,1,Streptozocin,0,
+mitochondrial respiratory chain complex III,GO:0005750,"Diabetes Mellitus, Type 1",MESH:D003922,1,Lipopolysaccharides,0,
+"mitochondrial respiratory chain complex II, succinate dehydrogenase complex (ubiquinone)",GO:0005749,Diabetes Mellitus,MESH:D003920,1,Streptozocin,0,
+"mitochondrial respiratory chain complex II, succinate dehydrogenase complex (ubiquinone)",GO:0005749,"Diabetes Mellitus, Experimental",MESH:D003921,1,Streptozocin,0,
+"mitochondrial respiratory chain complex II, succinate dehydrogenase complex (ubiquinone)",GO:0005749,"Diabetes Mellitus, Type 1",MESH:D003922,1,Streptozocin,0,
+"mitochondrial respiratory chain complex II, succinate dehydrogenase complex (ubiquinone)",GO:0005749,"Diabetes Mellitus, Type 2",MESH:D003924,1,Streptozocin,0,
+mitochondrial respiratory chain complex IV,GO:0005751,Diabetes Mellitus,MESH:D003920,1,Streptozocin,0,
+mitochondrial respiratory chain complex IV,GO:0005751,"Diabetes Mellitus, Experimental",MESH:D003921,1,Streptozocin,0,
+mitochondrial respiratory chain complex IV,GO:0005751,"Diabetes Mellitus, Type 1",MESH:D003922,1,Streptozocin,0,
+mitochondrial respiratory chain complex IV,GO:0005751,"Diabetes Mellitus, Type 2",MESH:D003924,1,Streptozocin,0,
+mitochondrion,GO:0005739,Diabetes Mellitus,MESH:D003920,2,Copper|Particulate Matter,6,ATP6|CAT|CPT1A|KIF5B|SIRT1|SOD1
+mitochondrion,GO:0005739,"Diabetes Mellitus, Congenital Autoimmune",MESH:C565730,1,"N-(oxo-5,6-dihydrophenanthridin-2-yl)-N,N-dimethylacetamide hydrochloride",0,
+mitochondrion,GO:0005739,"Diabetes Mellitus, Experimental",MESH:D003921,3,"Dibutyl Phthalate|Diethylhexyl Phthalate|N-(oxo-5,6-dihydrophenanthridin-2-yl)-N,N-dimethylacetamide hydrochloride",37,ACOT1|ACSL1|AIFM1|BAX|BCL2|BCL2L1|CAT|COX2|CPT1A|CPT1B|CYP1A1|FOXO3|GCK|GPAM|GPD2|GPX1|GSR|HK1|MMP2|ND1|PCK1|PCX|PDK4|PRKCA|PRKCD|PRKCE|S1PR4|SIRT1|SLC9A1|SNAP25|SOD1|SOD2|TNFRSF1A|TP53|TRP53|UCP2|YWHAH
+mitochondrion,GO:0005739,"Diabetes Mellitus, Noninsulin-Dependent, 1",MESH:C563359,0,,1,CAPN10
+mitochondrion,GO:0005739,"Diabetes Mellitus, Permanent Neonatal",MESH:C563425,0,,1,GCK
+mitochondrion,GO:0005739,"Diabetes Mellitus, Type 1",MESH:D003922,0,,3,AIFM1|CAT|NOS1
+mitochondrion,GO:0005739,"Diabetes Mellitus, Type 2",MESH:D003924,8,bisphenol S|Copper|Curcumin|Dibutyl Phthalate|Diethylhexyl Phthalate|Ethanol|Folic Acid|Particulate Matter,30,AKT1|BAX|BCL2|BCL2L1|BCL2L11|BRAF|CAPN10|CASP8|CAT|CISD2|CPT1A|GCK|GCKR|GCLC|GPD2|GPX1|GSTM1|HK1|HMGA1|NFKB1|OGG1|PCX|SIRT1|SMAD5|SNAP25|SOD1|SOD2|TNFRSF1A|UCP2|USP48
+mitochondrion,GO:0005739,Noninsulin-dependent diabetes mellitus with deafness,MESH:C536246,0,,1,TRNL1
+mucus layer,GO:0070701,Diabetes Mellitus,MESH:D003920,2,Gallic Acid|Particulate Matter,0,
+mucus layer,GO:0070701,"Diabetes Mellitus, Experimental",MESH:D003921,1,Gallic Acid,0,
+mucus layer,GO:0070701,"Diabetes Mellitus, Type 2",MESH:D003924,1,Particulate Matter,0,
+multivesicular body,GO:0005771,"Diabetes Mellitus, Experimental",MESH:D003921,0,,1,SLC2A4
+multivesicular body,GO:0005771,"Diabetes Mellitus, Type 2",MESH:D003924,0,,1,SLC2A4
+"multivesicular body, internal vesicle lumen",GO:0097489,"Diabetes Mellitus, Type 2",MESH:D003924,0,,1,EGFR
+multivesicular body lumen,GO:0097486,"Diabetes Mellitus, Type 1",MESH:D003922,0,,1,CTSH
+myelin sheath,GO:0043209,"Diabetes Mellitus, Experimental",MESH:D003921,0,,1,BCL2
+myelin sheath,GO:0043209,"Diabetes Mellitus, Type 2",MESH:D003924,0,,1,BCL2
+NADH dehydrogenase complex,GO:0030964,Diabetes Mellitus,MESH:D003920,1,bisphenol A,0,
+NADH dehydrogenase complex,GO:0030964,"Diabetes Mellitus, Experimental",MESH:D003921,1,bisphenol A,0,
+NADH dehydrogenase complex,GO:0030964,"Diabetes Mellitus, Type 1",MESH:D003922,1,bisphenol A,0,
+NADH dehydrogenase complex,GO:0030964,"Diabetes Mellitus, Type 2",MESH:D003924,1,bisphenol A,0,
+NADPH oxidase complex,GO:0043020,Diabetes Mellitus,MESH:D003920,0,,3,CYBB|NCF1|RAC1
+NADPH oxidase complex,GO:0043020,"Diabetes Mellitus, Experimental",MESH:D003921,0,,3,CYBA|CYBB|NCF1
+NADPH oxidase complex,GO:0043020,"Diabetes Mellitus, Type 2",MESH:D003924,1,Curcumin,1,CYBA
+neuromuscular junction,GO:0031594,Diabetes Mellitus,MESH:D003920,1,Chlordan,0,
+neuromuscular junction,GO:0031594,"Diabetes Mellitus, Experimental",MESH:D003921,0,,2,CAV3|PRKCE
+neuromuscular junction,GO:0031594,"Diabetes Mellitus, Type 1",MESH:D003922,0,,1,PRKCQ
+neuronal cell body,GO:0043025,Diabetes Mellitus,MESH:D003920,1,bisphenol A,5,CYBB|KIF1A|NCF1|POMC|SOD1
+neuronal cell body,GO:0043025,"Diabetes Mellitus, Experimental",MESH:D003921,1,bisphenol A,21,CASP3|CHRM2|CX3CL1|CYBA|CYBB|FAS|IAPP|IGF1|INSR|KCNJ11|NCF1|ND1|NQO1|PCSK2|PPARGC1A|PRKCA|SNAP25|SOD1|TGFB1|TIMP2|TNF
+neuronal cell body,GO:0043025,"Diabetes Mellitus, Insulin-Resistant, with Acanthosis Nigricans",MESH:C562710,0,,1,INSR
+neuronal cell body,GO:0043025,"Diabetes Mellitus, Transient Neonatal, 3",MESH:C566432,0,,1,KCNJ11
+neuronal cell body,GO:0043025,"Diabetes Mellitus, Type 1",MESH:D003922,1,bisphenol A,5,CHRM2|IGF1|ITPR3|KCNJ11|TNF
+neuronal cell body,GO:0043025,"Diabetes Mellitus, Type 2",MESH:D003924,1,bisphenol A,17,CASP3|CNKSR2|CYBA|ENPP1|FAS|IAPP|KCNJ11|KCNQ1|MAPK8IP1|PAM|PCSK2|PPARGC1A|SLC22A3|SNAP25|SOD1|TNF|TNFRSF1B
+neuronal cell body membrane,GO:0032809,"Diabetes Mellitus, Experimental",MESH:D003921,0,,1,INSR
+neuronal cell body membrane,GO:0032809,"Diabetes Mellitus, Insulin-Resistant, with Acanthosis Nigricans",MESH:C562710,0,,1,INSR
+neuronal dense core vesicle,GO:0098992,Diabetes Mellitus,MESH:D003920,0,,2,ADRB1|KIF1A
+neuronal dense core vesicle lumen,GO:0099013,"Diabetes Mellitus, Experimental",MESH:D003921,0,,1,IGF1
+neuronal dense core vesicle lumen,GO:0099013,"Diabetes Mellitus, Type 1",MESH:D003922,0,,1,IGF1
+neuronal dense core vesicle membrane,GO:0099012,Diabetes Mellitus,MESH:D003920,0,,1,KIF1A
+neuron projection,GO:0043005,Diabetes Mellitus,MESH:D003920,2,Aspirin|Lead,3,KIF1A|KIF5B|PTGS2
+neuron projection,GO:0043005,"Diabetes Mellitus, Experimental",MESH:D003921,1,Ursolic Acid,4,CX3CL1|PCSK2|PTGS2|SNAP25
+neuron projection,GO:0043005,"Diabetes Mellitus, Type 2",MESH:D003924,1,Lead,5,BRAF|KCNQ1|MAPK8IP1|PCSK2|SNAP25
+neuron projection terminus,GO:0044306,"Diabetes Mellitus, Type 1",MESH:D003922,0,,1,NOS1
+neuron projection terminus,GO:0044306,"Diabetes Mellitus, Type 2",MESH:D003924,0,,1,SLC1A2
+neutrophil extracellular trap,GO:0140644,Diabetes Mellitus,MESH:D003920,2,Arsenic|bisphenol A,0,
+neutrophil extracellular trap,GO:0140644,"Diabetes Mellitus, Experimental",MESH:D003921,3,bisphenol A|Eucalyptol|sodium arsenite,0,
+neutrophil extracellular trap,GO:0140644,"Diabetes Mellitus, Type 1",MESH:D003922,2,bisphenol A|sodium arsenite,0,
+neutrophil extracellular trap,GO:0140644,"Diabetes Mellitus, Type 2",MESH:D003924,2,Arsenic|bisphenol A,0,
+NF-kappaB complex,GO:0071159,"Diabetes Mellitus, Experimental",MESH:D003921,0,,1,RELA
+NF-kappaB p50/p65 complex,GO:0035525,"Diabetes Mellitus, Experimental",MESH:D003921,0,,1,RELA
+NF-kappaB p50/p65 complex,GO:0035525,"Diabetes Mellitus, Type 2",MESH:D003924,0,,1,NFKB1
+NLRP3 inflammasome complex,GO:0072559,"Diabetes Mellitus, Type 1",MESH:D003922,1,Lipopolysaccharides,1,CASP12
+Noc1p-Noc2p complex,GO:0030690,"Diabetes Mellitus, Type 2",MESH:D003924,0,,1,CASP8
+NuA4 histone acetyltransferase complex,GO:0035267,"Diabetes Mellitus, Type 2",MESH:D003924,0,,1,EPC2
+nuclear aryl hydrocarbon receptor complex,GO:0034753,Diabetes Mellitus,MESH:D003920,1,Tetrachlorodibenzodioxin,0,
+nuclear aryl hydrocarbon receptor complex,GO:0034753,"Diabetes Mellitus, Type 1",MESH:D003922,1,Tetrachlorodibenzodioxin,0,
+nuclear body,GO:0016604,Diabetes Mellitus,MESH:D003920,0,,1,NR1I2
+nuclear body,GO:0016604,"Diabetes Mellitus, Experimental",MESH:D003921,0,,4,ATF3|FAS|TP53|TRP53
+nuclear body,GO:0016604,"Diabetes Mellitus, Type 2",MESH:D003924,0,,3,ATF3|FAS|HHEX
+nuclear envelope,GO:0005635,Diabetes Mellitus,MESH:D003920,0,,2,CYBB|SIRT1
+nuclear envelope,GO:0005635,"Diabetes Mellitus, Experimental",MESH:D003921,0,,8,BAX|CYBB|INSR|KCNJ11|S100A6|SIRT1|SREBF1|STS
+nuclear envelope,GO:0005635,"Diabetes Mellitus, Insulin-Resistant, with Acanthosis Nigricans",MESH:C562710,0,,1,INSR
+nuclear envelope,GO:0005635,"Diabetes Mellitus, Transient Neonatal, 3",MESH:C566432,0,,1,KCNJ11
+nuclear envelope,GO:0005635,"Diabetes Mellitus, Type 1",MESH:D003922,0,,2,ITPR3|KCNJ11
+nuclear envelope,GO:0005635,"Diabetes Mellitus, Type 2",MESH:D003924,0,,5,BAX|KCNJ11|S100A6|SIRT1|ZC3HC1
+nuclear inner membrane,GO:0005637,Diabetes Mellitus,MESH:D003920,0,,2,PTGS2|SIRT1
+nuclear inner membrane,GO:0005637,"Diabetes Mellitus, Experimental",MESH:D003921,0,,2,PTGS2|SIRT1
+nuclear inner membrane,GO:0005637,"Diabetes Mellitus, Type 2",MESH:D003924,0,,1,SIRT1
+nuclear lumen,GO:0031981,"Diabetes Mellitus, Experimental",MESH:D003921,0,,1,INSR
+nuclear lumen,GO:0031981,"Diabetes Mellitus, Insulin-Resistant, with Acanthosis Nigricans",MESH:C562710,0,,1,INSR
+nuclear matrix,GO:0016363,"Diabetes Mellitus, Experimental",MESH:D003921,0,,3,PRKCD|TP53|TRP53
+nuclear matrix,GO:0016363,"Diabetes Mellitus, Type 2",MESH:D003924,0,,3,MAEA|MAT1A|OGG1
+nuclear membrane,GO:0031965,Diabetes Mellitus,MESH:D003920,0,,1,KIF5B
+nuclear membrane,GO:0031965,"Diabetes Mellitus, Experimental",MESH:D003921,0,,5,ADRA1A|ATP2A3|BCL2|BCL2L1|HSD11B1
+nuclear membrane,GO:0031965,"Diabetes Mellitus, Type 1",MESH:D003922,0,,1,NOS1
+nuclear membrane,GO:0031965,"Diabetes Mellitus, Type 2",MESH:D003924,0,,11,ATP2A3|BCL2|BCL2L1|CCND2|EDNRA|EDNRB|EGFR|HMGA1|RNF6|TMEM18|ZC3HC1
+nuclear outer membrane,GO:0005640,Diabetes Mellitus,MESH:D003920,0,,1,PTGS2
+nuclear outer membrane,GO:0005640,"Diabetes Mellitus, Experimental",MESH:D003921,0,,1,PTGS2
+nuclear outer membrane,GO:0005640,"Diabetes Mellitus, Type 1",MESH:D003922,0,,1,ITPR3
+nuclear outer membrane,GO:0005640,"Diabetes Mellitus, Type 2",MESH:D003924,0,,1,SLC22A3
+nuclear pore nuclear basket,GO:0044615,"Diabetes Mellitus, Type 2",MESH:D003924,0,,1,ZC3HC1
+nuclear speck,GO:0016607,"Diabetes Mellitus, Experimental",MESH:D003921,0,,1,PDX1
+nuclear speck,GO:0016607,"Diabetes Mellitus, Type 1",MESH:D003922,0,,1,CLEC16A
+nuclear speck,GO:0016607,"Diabetes Mellitus, Type 2",MESH:D003924,0,,4,FTO|INPPL1|OGG1|PDX1
+nucleolus,GO:0005730,Diabetes Mellitus,MESH:D003920,0,,1,SIRT1
+nucleolus,GO:0005730,"Diabetes Mellitus, Experimental",MESH:D003921,0,,5,ATF3|CHRM2|SIRT1|TP53|TRP53
+nucleolus,GO:0005730,"Diabetes Mellitus, Type 1",MESH:D003922,0,,2,CHRM2|ITPR3
+nucleolus,GO:0005730,"Diabetes Mellitus, Type 2",MESH:D003924,0,,5,ATF3|C2CD4A|CCND2|GCLM|SIRT1
+nucleoplasm,GO:0005654,Diabetes Mellitus,MESH:D003920,0,,6,IRS1|NR1I2|NR1I3|PPARG|SIRT1|SOD1
+nucleoplasm,GO:0005654,"Diabetes Mellitus, Experimental",MESH:D003921,0,,28,ADRA1A|ATF3|CASP3|ESRRA|FOXO3|GCK|HMOX1|ID1|IRS1|MPO|NEUROD1|NOS2|PAX6|PCSK2|PDX1|PPARA|PPARG|PPARGC1A|PRKCA|PRKCD|RELA|SERPINE1|SIRT1|SLC9A1|SOD1|SREBF1|TP53|TRP53
+nucleoplasm,GO:0005654,"Diabetes Mellitus, Permanent Neonatal",MESH:C563425,0,,1,GCK
+nucleoplasm,GO:0005654,"Diabetes Mellitus, Permanent Neonatal, with Cerebellar Agenesis",MESH:C563796,0,,1,PTF1A
+nucleoplasm,GO:0005654,"Diabetes Mellitus, Type 1",MESH:D003922,0,,6,BACH2|DDIT3|ITPR3|NOS1|PAX4|STAT3
+nucleoplasm,GO:0005654,"Diabetes Mellitus, Type 2",MESH:D003924,0,,46,AKT1|AKT2|ATF3|C2CD4A|CASP3|CASP8|CCDC92|CCND2|CMIP|ETS1|FTO|GCK|GCKR|HMGA1|HMOX1|HNF1B|HNF4A|ID1|IRS1|JADE2|JAZF1|MAEA|NEUROD1|NFATC2|NFKB1|NOS2|NOTCH2|OGG1|PAX4|PAX6|PCSK2|PDX1|PLEKHA1|PPARA|PPARG|PPARGC1A|PRKCB|PROX1|PSMD6|RNF6|SIRT1|SMAD5|SOD1|TCF7L2|USP48|ZC3HC1
+nucleosome,GO:0000786,"Diabetes Mellitus, Type 2",MESH:D003924,0,,1,EPC2
+nucleus,GO:0005634,Diabetes Mellitus,MESH:D003920,0,,11,CP|INS2|IRS1|MT2A|NR1I2|NR1I3|PPARG|RAC1|SIRT1|SOD1|ZFP57
+nucleus,GO:0005634,"Diabetes Mellitus, Experimental",MESH:D003921,0,,38,ACOX1|ADRA1A|AGT|AIFM1|ATF3|BAX|BCL2|CASP3|ESRRA|FOXO3|GCK|HMOX1|ID1|IRS1|MMP2|NEUROD1|NKX6-1|NOS2|NOS3|NQO1|PAX6|PDX1|PFKM|PPARA|PPARG|PPARGC1A|PRKCA|PRKCD|PRKCE|RELA|S100A6|SIRT1|SOD1|SREBF1|TGFB1|TP53|TRP53|VEGFA
+nucleus,GO:0005634,"Diabetes Mellitus, Insulin-Dependent, 20",MESH:C567286,0,,1,HNF1A
+nucleus,GO:0005634,"Diabetes Mellitus, Insulin-Dependent, 5",MESH:C563958,0,,1,SUMO4
+nucleus,GO:0005634,"Diabetes Mellitus, Neonatal, with Congenital Hypothyroidism",MESH:C565705,0,,1,GLIS3
+nucleus,GO:0005634,"Diabetes Mellitus, Noninsulin-Dependent, 1",MESH:C563359,0,,1,CAPN10
+nucleus,GO:0005634,"Diabetes Mellitus, Permanent Neonatal",MESH:C563425,0,,1,GCK
+nucleus,GO:0005634,"Diabetes Mellitus, Permanent Neonatal, with Cerebellar Agenesis",MESH:C563796,0,,1,PTF1A
+nucleus,GO:0005634,"Diabetes Mellitus, Transient Neonatal, 1",MESH:C563322,0,,2,HYMAI|ZFP57
+nucleus,GO:0005634,"Diabetes Mellitus, Type 1",MESH:D003922,0,,15,AIFM1|BACH2|CP|CRP|DDIT3|GLIS3|HNF1A|INS2|ITPR3|NOS1|NOS3|PAX4|PTPN22|STAT3|TYK2
+nucleus,GO:0005634,"Diabetes Mellitus, Type 2",MESH:D003924,0,,70,AKT1|AKT2|ATF3|AUTS2|BAX|BCL2|BHMT|BRAF|C2CD4A|C2CD4B|CAPN10|CASP3|CASP8|CBS|CCND2|DGKD|EGFR|EPC2|ETS1|FTO|GCK|GCKR|GCLC|GLIS3|HHEX|HMG20A|HMGA1|HMOX1|HNF1A|HNF1B|HNF4A|ID1|IGF2BP2|INPPL1|IRS1|JAZF1|KLF14|MAEA|MAPK8IP1|MIR140|MIR214|NEUROD1|NFATC2|NFKB1|NKX6-1|NOS2|NOS3|NOTCH2|OGG1|PAX4|PAX6|PDX1|PPARA|PPARG|PPARGC1A|PRKCB|PROX1|RETN|RNF6|S100A6|SFRP4|SIRT1|SMAD5|SOD1|TCF7L2|TMEM18|UBE2E2|USP48|ZC3HC1|ZNF257
+ooplasm,GO:1990917,"Diabetes Mellitus, Experimental",MESH:D003921,0,,1,PRKCA
+organelle membrane,GO:0031090,"Diabetes Mellitus, Experimental",MESH:D003921,0,,1,ATP2A3
+organelle membrane,GO:0031090,"Diabetes Mellitus, Type 2",MESH:D003924,0,,1,ATP2A3
+outer dense fiber,GO:0001520,"Diabetes Mellitus, Type 1",MESH:D003922,0,,1,CTSH
+P-body,GO:0000932,Diabetes Mellitus,MESH:D003920,1,Arsenic,0,
+P-body,GO:0000932,"Diabetes Mellitus, Experimental",MESH:D003921,1,sodium arsenite,0,
+P-body,GO:0000932,"Diabetes Mellitus, Type 1",MESH:D003922,1,sodium arsenite,0,
+P-body,GO:0000932,"Diabetes Mellitus, Type 2",MESH:D003924,1,Arsenic,1,IGF2BP2
+peptidase inhibitor complex,GO:1904090,"Diabetes Mellitus, Experimental",MESH:D003921,0,,1,SERPINE1
+pericentric heterochromatin,GO:0005721,"Diabetes Mellitus, Experimental",MESH:D003921,0,,1,ACOX1
+pericentriolar material,GO:0000242,Diabetes Mellitus,MESH:D003920,0,,1,RAC1
+perikaryon,GO:0043204,"Diabetes Mellitus, Experimental",MESH:D003921,0,,2,IFNG|PCSK2
+perikaryon,GO:0043204,"Diabetes Mellitus, Type 1",MESH:D003922,0,,2,IFNG|NOS1
+perikaryon,GO:0043204,"Diabetes Mellitus, Type 2",MESH:D003924,0,,3,ITGA1|PAM|PCSK2
+perinuclear endoplasmic reticulum,GO:0097038,Diabetes Mellitus,MESH:D003920,0,,1,CYBB
+perinuclear endoplasmic reticulum,GO:0097038,"Diabetes Mellitus, Experimental",MESH:D003921,0,,2,CYBA|CYBB
+perinuclear endoplasmic reticulum,GO:0097038,"Diabetes Mellitus, Type 2",MESH:D003924,0,,2,CISD2|CYBA
+perinuclear region of cytoplasm,GO:0048471,Diabetes Mellitus,MESH:D003920,0,,4,ADIPOQ|KIF1A|KIF5B|PPARG
+perinuclear region of cytoplasm,GO:0048471,"Diabetes Mellitus, Experimental",MESH:D003921,0,,17,AIFM1|ATP2A2|BAX|BCL2|CAV1|CX3CL1|FAS|HMOX1|NOS2|PPARG|PRKCA|PRKCD|PRKCE|S100A6|SLC2A4|SLC9A1|SNAP25
+perinuclear region of cytoplasm,GO:0048471,"Diabetes Mellitus, Insulin-Dependent, 12",MESH:C563326,0,,1,CTLA4
+perinuclear region of cytoplasm,GO:0048471,"Diabetes Mellitus, Type 1",MESH:D003922,0,,4,AIFM1|ITPR3|NOS1|PTPN22
+perinuclear region of cytoplasm,GO:0048471,"Diabetes Mellitus, Type 2",MESH:D003924,0,,19,ADIPOQ|ATP2A2|BAX|BCL2|CISD2|ECE1|EGFR|FAS|GCLC|HMOX1|MAPK8IP1|MIR214|NOS2|PAM|PPARG|S100A6|SLC2A4|SNAP25|TNFRSF1B
+peroxisomal matrix,GO:0005782,Diabetes Mellitus,MESH:D003920,0,,2,CAT|POMC
+peroxisomal matrix,GO:0005782,"Diabetes Mellitus, Experimental",MESH:D003921,0,,3,ACOX1|CAT|NOS2
+peroxisomal matrix,GO:0005782,"Diabetes Mellitus, Type 1",MESH:D003922,0,,1,CAT
+peroxisomal matrix,GO:0005782,"Diabetes Mellitus, Type 2",MESH:D003924,0,,2,CAT|NOS2
+peroxisomal membrane,GO:0005778,Diabetes Mellitus,MESH:D003920,0,,1,CAT
+peroxisomal membrane,GO:0005778,"Diabetes Mellitus, Experimental",MESH:D003921,0,,4,ACOX1|ACSL1|CAT|CAV1
+peroxisomal membrane,GO:0005778,"Diabetes Mellitus, Type 1",MESH:D003922,0,,1,CAT
+peroxisomal membrane,GO:0005778,"Diabetes Mellitus, Type 2",MESH:D003924,0,,1,CAT
+peroxisome,GO:0005777,Diabetes Mellitus,MESH:D003920,0,,2,CAT|SOD1
+peroxisome,GO:0005777,"Diabetes Mellitus, Experimental",MESH:D003921,0,,4,ACOX1|CAT|NOS2|SOD1
+peroxisome,GO:0005777,"Diabetes Mellitus, Type 1",MESH:D003922,0,,1,CAT
+peroxisome,GO:0005777,"Diabetes Mellitus, Type 2",MESH:D003924,1,perfluorooctane sulfonic acid,3,CAT|NOS2|SOD1
+phagocytic cup,GO:0001891,Diabetes Mellitus,MESH:D003920,1,bisphenol A,1,RAC1
+phagocytic cup,GO:0001891,"Diabetes Mellitus, Experimental",MESH:D003921,1,bisphenol A,1,TNF
+phagocytic cup,GO:0001891,"Diabetes Mellitus, Type 1",MESH:D003922,1,bisphenol A,1,TNF
+phagocytic cup,GO:0001891,"Diabetes Mellitus, Type 2",MESH:D003924,1,bisphenol A,1,TNF
+phagocytic vesicle,GO:0045335,Diabetes Mellitus,MESH:D003920,0,,2,CYBB|KIF5B
+phagocytic vesicle,GO:0045335,"Diabetes Mellitus, Experimental",MESH:D003921,0,,1,CYBB
+phagocytic vesicle,GO:0045335,"Diabetes Mellitus, Type 2",MESH:D003924,0,,1,CD36
+phagocytic vesicle lumen,GO:0097013,"Diabetes Mellitus, Experimental",MESH:D003921,0,,1,MPO
+phagocytic vesicle membrane,GO:0030670,Diabetes Mellitus,MESH:D003920,0,,1,CYBB
+phagocytic vesicle membrane,GO:0030670,"Diabetes Mellitus, Experimental",MESH:D003921,0,,2,CYBA|CYBB
+phagocytic vesicle membrane,GO:0030670,"Diabetes Mellitus, Type 1",MESH:D003922,0,,1,SLC11A1
+phagocytic vesicle membrane,GO:0030670,"Diabetes Mellitus, Type 2",MESH:D003924,0,,1,CYBA
+phagolysosome,GO:0032010,Diabetes Mellitus,MESH:D003920,0,,1,NCF1
+phagolysosome,GO:0032010,"Diabetes Mellitus, Experimental",MESH:D003921,0,,1,NCF1
+phosphatidylinositol 3-kinase complex,GO:0005942,"Diabetes Mellitus, Type 2",MESH:D003924,0,,1,PIK3CG
+"phosphatidylinositol 3-kinase complex, class IA",GO:0005943,"Diabetes Mellitus, Type 2",MESH:D003924,0,,1,PIK3CG
+"phosphatidylinositol 3-kinase complex, class IB",GO:0005944,"Diabetes Mellitus, Type 2",MESH:D003924,0,,1,PIK3CG
+photoreceptor connecting cilium,GO:0032391,Diabetes Mellitus,MESH:D003920,0,,1,ALPK1
+photoreceptor inner segment,GO:0001917,"Diabetes Mellitus, Experimental",MESH:D003921,0,,1,SNAP25
+photoreceptor inner segment,GO:0001917,"Diabetes Mellitus, Transient Neonatal, 2",MESH:C563672,0,,1,ABCC8
+photoreceptor inner segment,GO:0001917,"Diabetes Mellitus, Type 1",MESH:D003922,0,,2,ABCC8|NOS1
+photoreceptor inner segment,GO:0001917,"Diabetes Mellitus, Type 2",MESH:D003924,0,,3,ABCC8|SLC2A1|SNAP25
+photoreceptor outer segment,GO:0001750,"Diabetes Mellitus, Insulin-Dependent, 20",MESH:C567286,0,,1,HNF1A
+photoreceptor outer segment,GO:0001750,"Diabetes Mellitus, Type 1",MESH:D003922,0,,1,HNF1A
+photoreceptor outer segment,GO:0001750,"Diabetes Mellitus, Type 2",MESH:D003924,0,,1,HNF1A
+Piccolo NuA4 histone acetyltransferase complex,GO:0032777,"Diabetes Mellitus, Type 2",MESH:D003924,0,,1,EPC2
+plasma membrane,GO:0005886,Diabetes Mellitus,MESH:D003920,0,,10,ADRB1|AOC3|CP|CYBB|FN1|IRS1|LEPR|NCF1|RAC1|SOD1
+plasma membrane,GO:0005886,"Diabetes Mellitus, Congenital Autoimmune",MESH:C565730,0,,1,TNFSF8
+plasma membrane,GO:0005886,"Diabetes Mellitus, Experimental",MESH:D003921,0,,49,ACE|ADRA1A|ADRB3|AOC3|ATP2A2|BAX|BDKRB1|CAV1|CAV3|CD68|CHRM2|CX3CL1|CYBA|CYBB|FAS|GPAM|ICAM1|IGF1|INSR|IRS1|IRS2|KCNJ11|LEPR|MFGE8|MMP2|NCF1|NOS3|PKLR|PRKCA|PRKCD|PRKCE|REN|S100A6|S1PR2|S1PR4|S1PR5|SERPINE1|SLC2A2|SLC2A4|SLC9A1|SLC9A3|SNAP25|SOD1|STS|TGFB1|TNF|TNFRSF1A|VEGFA|YWHAH
+plasma membrane,GO:0005886,"Diabetes Mellitus, Insulin-Dependent, 10",MESH:C566602,0,,1,IL2RA
+plasma membrane,GO:0005886,"Diabetes Mellitus, Insulin-Dependent, 12",MESH:C563326,0,,1,CTLA4
+plasma membrane,GO:0005886,"Diabetes Mellitus, Insulin-Dependent, 22",MESH:C567284,0,,1,CCR5
+plasma membrane,GO:0005886,"Diabetes Mellitus, Insulin-Resistant, with Acanthosis Nigricans",MESH:C562710,0,,1,INSR
+plasma membrane,GO:0005886,"Diabetes Mellitus, Noninsulin-Dependent, 1",MESH:C563359,0,,1,CAPN10
+plasma membrane,GO:0005886,"Diabetes Mellitus, Transient Neonatal, 2",MESH:C563672,0,,1,ABCC8
+plasma membrane,GO:0005886,"Diabetes Mellitus, Transient Neonatal, 3",MESH:C566432,0,,1,KCNJ11
+plasma membrane,GO:0005886,"Diabetes Mellitus, Type 1",MESH:D003922,0,,20,ABCC8|CD69|CHRM2|CP|HLA-DQA1|HLA-DQB1|HLA-DRB1|IGF1|IL2RA|ITPR3|KCNJ11|NOS1|NOS3|PRKCQ|SH2B3|SLC11A1|SLC29A3|STAT3|TNF|TYK2
+plasma membrane,GO:0005886,"Diabetes Mellitus, Type 2",MESH:D003924,0,,69,ABCC8|ADCY5|AKT1|AKT2|ATP2A2|BAX|BRAF|C3|CAPN10|CASP8|CD36|CDO1|CNKSR2|CYBA|DGKD|ECE1|EDNRA|EDNRB|EGFR|ENPP1|FAS|FTO|GCG|GLP1R|GNB3|GP2|GRB14|HLA-DRB5|ICAM1|IL13RA1|INPPL1|IRS1|IRS2|ITGA1|KCNJ11|KCNK16|KCNQ1|KCNU1|KL|KSR2|LEPR|MAEA|MAPK8IP1|MRAS|MTNR1B|NOS3|NOTCH2|PAM|PIK3CG|PLEKHA1|PRKCB|PTPN1|RETN|RNF6|S100A6|SCTR|SFRP4|SLC1A2|SLC22A3|SLC2A1|SLC2A2|SLC2A4|SLC30A8|SMIM43|SNAP25|SOD1|TNF|TNFRSF1A|TNFRSF1B
+plasma membrane bounded cell projection,GO:0120025,"Diabetes Mellitus, Experimental",MESH:D003921,0,,1,ATP2A2
+plasma membrane bounded cell projection,GO:0120025,"Diabetes Mellitus, Type 2",MESH:D003924,0,,1,ATP2A2
+platelet alpha granule,GO:0031091,Diabetes Mellitus,MESH:D003920,0,,1,THBS2
+platelet alpha granule,GO:0031091,"Diabetes Mellitus, Experimental",MESH:D003921,0,,1,IGF1
+platelet alpha granule,GO:0031091,"Diabetes Mellitus, Type 1",MESH:D003922,0,,1,IGF1
+platelet alpha granule lumen,GO:0031093,Diabetes Mellitus,MESH:D003920,0,,1,FN1
+platelet alpha granule lumen,GO:0031093,"Diabetes Mellitus, Experimental",MESH:D003921,0,,5,IGF1|SERPINE1|TGFB1|TIMP1|VEGFA
+platelet alpha granule lumen,GO:0031093,"Diabetes Mellitus, Type 1",MESH:D003922,0,,1,IGF1
+platelet alpha granule lumen,GO:0031093,"Diabetes Mellitus, Type 2",MESH:D003924,0,,1,TIMP1
+platelet alpha granule membrane,GO:0031092,"Diabetes Mellitus, Type 2",MESH:D003924,0,,1,CD36
+platelet dense tubular network membrane,GO:0031095,"Diabetes Mellitus, Experimental",MESH:D003921,0,,2,ATP2A2|ATP2A3
+platelet dense tubular network membrane,GO:0031095,"Diabetes Mellitus, Type 1",MESH:D003922,0,,1,ITPR3
+platelet dense tubular network membrane,GO:0031095,"Diabetes Mellitus, Type 2",MESH:D003924,0,,2,ATP2A2|ATP2A3
+PML body,GO:0016605,Diabetes Mellitus,MESH:D003920,1,dimethylarsinous acid,1,SIRT1
+PML body,GO:0016605,"Diabetes Mellitus, Experimental",MESH:D003921,0,,4,PPARGC1A|SIRT1|TP53|TRP53
+PML body,GO:0016605,"Diabetes Mellitus, Type 2",MESH:D003924,0,,4,PPARGC1A|RNF6|SIRT1|TCF7L2
+polysome,GO:0005844,"Diabetes Mellitus, Experimental",MESH:D003921,1,sodium arsenite,0,
+polysome,GO:0005844,"Diabetes Mellitus, Type 1",MESH:D003922,1,sodium arsenite,0,
+pore complex,GO:0046930,"Diabetes Mellitus, Experimental",MESH:D003921,0,,2,BAX|BCL2
+pore complex,GO:0046930,"Diabetes Mellitus, Type 2",MESH:D003924,0,,2,BAX|BCL2
+postsynapse,GO:0098794,Diabetes Mellitus,MESH:D003920,0,,3,ADRB1|KIF1A|RAC1
+postsynapse,GO:0098794,"Diabetes Mellitus, Experimental",MESH:D003921,0,,3,CX3CL1|IGF1|S1PR2
+postsynapse,GO:0098794,"Diabetes Mellitus, Type 1",MESH:D003922,0,,1,IGF1
+postsynapse,GO:0098794,"Diabetes Mellitus, Type 2",MESH:D003924,0,,3,AKT1|BRAF|PTPN1
+postsynaptic cytosol,GO:0099524,Diabetes Mellitus,MESH:D003920,0,,1,KIF5B
+postsynaptic cytosol,GO:0099524,"Diabetes Mellitus, Experimental",MESH:D003921,0,,1,PRKCD
+postsynaptic density,GO:0014069,"Diabetes Mellitus, Experimental",MESH:D003921,0,,1,CASP3
+postsynaptic density,GO:0014069,"Diabetes Mellitus, Type 1",MESH:D003922,0,,2,NOS1|STAT3
+postsynaptic density,GO:0014069,"Diabetes Mellitus, Type 2",MESH:D003924,0,,2,CASP3|CNKSR2
+"postsynaptic density, intracellular component",GO:0099092,"Diabetes Mellitus, Experimental",MESH:D003921,0,,1,MMP9
+"postsynaptic density, intracellular component",GO:0099092,"Diabetes Mellitus, Type 1",MESH:D003922,0,,1,NOS1
+postsynaptic density membrane,GO:0098839,"Diabetes Mellitus, Type 2",MESH:D003924,0,,1,NOTCH2
+postsynaptic membrane,GO:0045211,Diabetes Mellitus,MESH:D003920,0,,1,RAC1
+postsynaptic membrane,GO:0045211,"Diabetes Mellitus, Experimental",MESH:D003921,0,,2,ADRA1A|CHRM2
+postsynaptic membrane,GO:0045211,"Diabetes Mellitus, Type 1",MESH:D003922,0,,1,CHRM2
+postsynaptic membrane,GO:0045211,"Diabetes Mellitus, Type 2",MESH:D003924,0,,3,CNKSR2|KCNU1|USP48
+"postsynaptic specialization, intracellular component",GO:0099091,"Diabetes Mellitus, Type 1",MESH:D003922,0,,1,NOS1
+potassium channel complex,GO:0034705,"Diabetes Mellitus, Type 2",MESH:D003924,0,,1,KCNQ1
+potassium ion-transporting ATPase complex,GO:0031004,"Diabetes Mellitus, Transient Neonatal, 2",MESH:C563672,0,,1,ABCC8
+potassium ion-transporting ATPase complex,GO:0031004,"Diabetes Mellitus, Type 1",MESH:D003922,0,,1,ABCC8
+potassium ion-transporting ATPase complex,GO:0031004,"Diabetes Mellitus, Type 2",MESH:D003924,0,,1,ABCC8
+presynapse,GO:0098793,Diabetes Mellitus,MESH:D003920,0,,1,KIF1A
+presynapse,GO:0098793,"Diabetes Mellitus, Experimental",MESH:D003921,0,,6,BCL2L1|S1PR2|S1PR4|S1PR5|SLC2A4|YWHAH
+presynapse,GO:0098793,"Diabetes Mellitus, Type 1",MESH:D003922,0,,1,ITPR3
+presynapse,GO:0098793,"Diabetes Mellitus, Type 2",MESH:D003924,0,,5,BCL2L1|BRAF|SLC22A3|SLC2A1|SLC2A4
+presynaptic active zone membrane,GO:0048787,"Diabetes Mellitus, Experimental",MESH:D003921,0,,1,SNAP25
+presynaptic active zone membrane,GO:0048787,"Diabetes Mellitus, Type 2",MESH:D003924,0,,1,SNAP25
+presynaptic cytosol,GO:0099523,"Diabetes Mellitus, Experimental",MESH:D003921,0,,2,PRKCA|PRKCE
+presynaptic cytosol,GO:0099523,"Diabetes Mellitus, Type 2",MESH:D003924,0,,1,PRKCB
+presynaptic membrane,GO:0042734,Diabetes Mellitus,MESH:D003920,0,,1,RAC1
+presynaptic membrane,GO:0042734,"Diabetes Mellitus, Experimental",MESH:D003921,0,,4,ADRA1A|CHRM2|KCNJ11|SNAP25
+presynaptic membrane,GO:0042734,"Diabetes Mellitus, Transient Neonatal, 2",MESH:C563672,0,,1,ABCC8
+presynaptic membrane,GO:0042734,"Diabetes Mellitus, Transient Neonatal, 3",MESH:C566432,0,,1,KCNJ11
+presynaptic membrane,GO:0042734,"Diabetes Mellitus, Type 1",MESH:D003922,0,,3,ABCC8|CHRM2|KCNJ11
+presynaptic membrane,GO:0042734,"Diabetes Mellitus, Type 2",MESH:D003924,0,,4,ABCC8|KCNJ11|SLC1A2|SNAP25
+pronucleus,GO:0045120,"Diabetes Mellitus, Insulin-Dependent, 20",MESH:C567286,0,,1,HNF1A
+pronucleus,GO:0045120,"Diabetes Mellitus, Type 1",MESH:D003922,0,,1,HNF1A
+pronucleus,GO:0045120,"Diabetes Mellitus, Type 2",MESH:D003924,0,,1,HNF1A
+proteasome accessory complex,GO:0022624,"Diabetes Mellitus, Type 2",MESH:D003924,0,,1,PSMD6
+proteasome complex,GO:0000502,"Diabetes Mellitus, Type 2",MESH:D003924,0,,1,PSMD6
+proteasome core complex,GO:0005839,"Diabetes Mellitus, Experimental",MESH:D003921,1,Hydrogen Peroxide,0,
+proteasome core complex,GO:0005839,"Diabetes Mellitus, Type 1",MESH:D003922,1,Thioctic Acid,0,
+proteasome core complex,GO:0005839,"Diabetes Mellitus, Type 2",MESH:D003924,1,Curcumin,0,
+proteasome regulatory particle,GO:0005838,"Diabetes Mellitus, Type 2",MESH:D003924,0,,1,PSMD6
+protein complex involved in cell adhesion,GO:0098636,"Diabetes Mellitus, Insulin-Dependent, 12",MESH:C563326,0,,1,CTLA4
+protein-containing complex,GO:0032991,Diabetes Mellitus,MESH:D003920,0,,7,ADIPOQ|CAT|KIF1A|MAP3K5|PTGS2|SIRT1|SOD1
+protein-containing complex,GO:0032991,"Diabetes Mellitus, Experimental",MESH:D003921,0,,19,ATP2A2|BCL2|CAT|CAV1|CAV3|FOXO3|HK1|MAP3K5|MMP9|PRKCA|PTGS2|RELA|SIRT1|SOD1|SREBF1|TNF|TNFRSF1A|TP53|TRP53
+protein-containing complex,GO:0032991,"Diabetes Mellitus, Insulin-Dependent, 20",MESH:C567286,0,,1,HNF1A
+protein-containing complex,GO:0032991,"Diabetes Mellitus, Transient Neonatal, 2",MESH:C563672,0,,1,ABCC8
+protein-containing complex,GO:0032991,"Diabetes Mellitus, Type 1",MESH:D003922,0,,8,ABCC8|C1QTNF6|CAT|CD69|HNF1A|NOS1|STAT3|TNF
+protein-containing complex,GO:0032991,"Diabetes Mellitus, Type 2",MESH:D003924,0,,24,ABCC8|ADIPOQ|AKT1|ATP2A2|BCL2|BHMT|C3|CASP8|CAT|CD36|CISD2|EGFR|GSTM1|HK1|HNF1A|NFKB1|NOTCH2|OGG1|PTPN1|SIRT1|SMAD5|SOD1|TNF|TNFRSF1A
+protein-DNA complex,GO:0032993,"Diabetes Mellitus, Type 1",MESH:D003922,0,,1,DDIT3
+protein-DNA complex,GO:0032993,"Diabetes Mellitus, Type 2",MESH:D003924,0,,2,HHEX|TCF7L2
+protein kinase complex,GO:1902911,Diabetes Mellitus,MESH:D003920,0,,1,MAP3K5
+protein kinase complex,GO:1902911,"Diabetes Mellitus, Experimental",MESH:D003921,0,,1,MAP3K5
+protein phosphatase type 1 complex,GO:0000164,"Diabetes Mellitus, Type 2",MESH:D003924,0,,2,MRAS|PPP1R3A
+proton-transporting ATP synthase complex,GO:0045259,Diabetes Mellitus,MESH:D003920,0,,1,ATP6
+pseudopodium,GO:0031143,Diabetes Mellitus,MESH:D003920,2,Copper|Mercury,0,
+pseudopodium,GO:0031143,"Diabetes Mellitus, Experimental",MESH:D003921,1,Manganese,0,
+pseudopodium,GO:0031143,"Diabetes Mellitus, Type 1",MESH:D003922,1,Mercury,0,
+pseudopodium,GO:0031143,"Diabetes Mellitus, Type 2",MESH:D003924,3,Copper|Manganese|Mercury,0,
+pyruvate kinase complex,GO:1902912,"Diabetes Mellitus, Experimental",MESH:D003921,0,,1,PKLR
+rDNA heterochromatin,GO:0033553,Diabetes Mellitus,MESH:D003920,0,,1,SIRT1
+rDNA heterochromatin,GO:0033553,"Diabetes Mellitus, Experimental",MESH:D003921,0,,1,SIRT1
+rDNA heterochromatin,GO:0033553,"Diabetes Mellitus, Type 2",MESH:D003924,0,,1,SIRT1
+receptor complex,GO:0043235,Diabetes Mellitus,MESH:D003920,0,,2,LEPR|PPARG
+receptor complex,GO:0043235,"Diabetes Mellitus, Experimental",MESH:D003921,0,,5,ADRB3|INSR|LEPR|PPARG|TNFRSF1A
+receptor complex,GO:0043235,"Diabetes Mellitus, Insulin-Resistant, with Acanthosis Nigricans",MESH:C562710,0,,1,INSR
+receptor complex,GO:0043235,"Diabetes Mellitus, Type 1",MESH:D003922,0,,2,ITPR3|TYK2
+receptor complex,GO:0043235,"Diabetes Mellitus, Type 2",MESH:D003924,0,,8,CD36|EGFR|IL13RA1|ITLN1|LEPR|NOTCH2|PPARG|TNFRSF1A
+recycling endosome,GO:0055037,"Diabetes Mellitus, Experimental",MESH:D003921,0,,1,TNF
+recycling endosome,GO:0055037,"Diabetes Mellitus, Type 1",MESH:D003922,0,,1,TNF
+recycling endosome,GO:0055037,"Diabetes Mellitus, Type 2",MESH:D003924,0,,1,TNF
+recycling endosome membrane,GO:0055038,Diabetes Mellitus,MESH:D003920,0,,1,RAC1
+recycling endosome membrane,GO:0055038,"Diabetes Mellitus, Experimental",MESH:D003921,0,,2,INSR|SLC9A3
+recycling endosome membrane,GO:0055038,"Diabetes Mellitus, Insulin-Resistant, with Acanthosis Nigricans",MESH:C562710,0,,1,INSR
+replication fork,GO:0005657,"Diabetes Mellitus, Experimental",MESH:D003921,0,,2,TP53|TRP53
+respiratory chain complex I,GO:0045271,"Diabetes Mellitus, Experimental",MESH:D003921,0,,1,ND1
+respiratory chain complex IV,GO:0045277,"Diabetes Mellitus, Experimental",MESH:D003921,0,,1,COX2
+"retromer, cargo-selective complex",GO:0030906,"Diabetes Mellitus, Type 2",MESH:D003924,0,,1,VPS26A
+retromer complex,GO:0030904,"Diabetes Mellitus, Type 2",MESH:D003924,0,,1,VPS26A
+rhabdomere,GO:0016028,Diabetes Mellitus,MESH:D003920,0,,1,RAC1
+ribbon synapse,GO:0097470,"Diabetes Mellitus, Experimental",MESH:D003921,0,,2,ATP2A2|SNAP25
+ribbon synapse,GO:0097470,"Diabetes Mellitus, Type 2",MESH:D003924,0,,2,ATP2A2|SNAP25
+ribonucleoprotein complex,GO:1990904,"Diabetes Mellitus, Type 2",MESH:D003924,0,,3,CISD2|JAZF1|NFATC2
+ribosome,GO:0005840,Diabetes Mellitus,MESH:D003920,0,,1,RAC1
+ribosome,GO:0005840,"Diabetes Mellitus, Experimental",MESH:D003921,0,,1,NQO1
+ribosome,GO:0005840,"Diabetes Mellitus, Type 2",MESH:D003924,0,,1,BRAF
+ripoptosome,GO:0097342,Diabetes Mellitus,MESH:D003920,1,Metformin,0,
+ripoptosome,GO:0097342,"Diabetes Mellitus, Experimental",MESH:D003921,2,Metformin|pterostilbene,0,
+ripoptosome,GO:0097342,"Diabetes Mellitus, Type 2",MESH:D003924,2,Ethanol|Metformin,1,CASP8
+RISC complex,GO:0016442,"Diabetes Mellitus, Type 2",MESH:D003924,0,,41,MIR10B|MIR1249|MIR125B1|MIR126|MIR127|MIR1296|MIR1306|MIR1307|MIR140|MIR141|MIR142|MIR144|MIR17HG|MIR181C|MIR192|MIR195|MIR200A|MIR203A|MIR204|MIR205|MIR214|MIR215|MIR221|MIR222|MIR27A|MIR30A|MIR335|MIR339|MIR33B|MIR375|MIR377|MIR409|MIR423|MIR485|MIR487B|MIR532|MIR628|MIR744|MIR939|MIR98|MIRLET7D
+RISC-loading complex,GO:0070578,"Diabetes Mellitus, Type 2",MESH:D003924,0,,1,MIR27A
+RNAi effector complex,GO:0031332,"Diabetes Mellitus, Type 2",MESH:D003924,0,,1,MIR144
+"RNA polymerase II, holoenzyme",GO:0016591,"Diabetes Mellitus, Type 2",MESH:D003924,0,,1,SLC30A8
+RNA polymerase II transcription regulator complex,GO:0090575,Diabetes Mellitus,MESH:D003920,0,,1,PPARG
+RNA polymerase II transcription regulator complex,GO:0090575,"Diabetes Mellitus, Experimental",MESH:D003921,0,,5,ATF3|NEUROD1|PPARG|TP53|TRP53
+RNA polymerase II transcription regulator complex,GO:0090575,"Diabetes Mellitus, Type 1",MESH:D003922,0,,3,BACH2|DDIT3|STAT3
+RNA polymerase II transcription regulator complex,GO:0090575,"Diabetes Mellitus, Type 2",MESH:D003924,0,,4,ATF3|HMGA1|NEUROD1|PPARG
+RNA polymerase II transcription repressor complex,GO:0090571,"Diabetes Mellitus, Experimental",MESH:D003921,0,,1,FOXO3
+rough endoplasmic reticulum,GO:0005791,"Diabetes Mellitus, Type 2",MESH:D003924,0,,1,CDKAL1
+rough endoplasmic reticulum lumen,GO:0048237,"Diabetes Mellitus, Experimental",MESH:D003921,0,,1,EDN1
+rough endoplasmic reticulum lumen,GO:0048237,"Diabetes Mellitus, Type 2",MESH:D003924,0,,1,EDN1
+ruffle,GO:0001726,Diabetes Mellitus,MESH:D003920,0,,1,RAC1
+ruffle,GO:0001726,"Diabetes Mellitus, Experimental",MESH:D003921,0,,1,S100A6
+ruffle,GO:0001726,"Diabetes Mellitus, Type 2",MESH:D003924,0,,1,S100A6
+ruffle membrane,GO:0032587,Diabetes Mellitus,MESH:D003920,0,,1,RAC1
+ruffle membrane,GO:0032587,"Diabetes Mellitus, Type 2",MESH:D003924,0,,3,AKT2|EGFR|PLEKHA1
+sarcoglycan complex,GO:0016012,"Diabetes Mellitus, Type 2",MESH:D003924,0,,1,WFS1
+sarcolemma,GO:0042383,"Diabetes Mellitus, Experimental",MESH:D003921,0,,7,CAV1|CAV3|FAS|KCNJ11|NOS3|SLC2A4|SLC9A1
+sarcolemma,GO:0042383,"Diabetes Mellitus, Transient Neonatal, 2",MESH:C563672,0,,1,ABCC8
+sarcolemma,GO:0042383,"Diabetes Mellitus, Transient Neonatal, 3",MESH:C566432,0,,1,KCNJ11
+sarcolemma,GO:0042383,"Diabetes Mellitus, Type 1",MESH:D003922,0,,5,ABCC8|KCNJ11|NOS1|NOS3|PRKCQ
+sarcolemma,GO:0042383,"Diabetes Mellitus, Type 2",MESH:D003924,0,,9,ABCC8|ADCY5|CD36|FAS|KCNJ11|KCNQ1|NOS3|SLC2A1|SLC2A4
+sarcomere,GO:0030017,"Diabetes Mellitus, Experimental",MESH:D003921,0,,1,MMP2
+sarcoplasmic reticulum,GO:0016529,"Diabetes Mellitus, Experimental",MESH:D003921,0,,3,ATP2A2|ATP2A3|SLC2A4
+sarcoplasmic reticulum,GO:0016529,"Diabetes Mellitus, Type 1",MESH:D003922,0,,1,NOS1
+sarcoplasmic reticulum,GO:0016529,"Diabetes Mellitus, Type 2",MESH:D003924,0,,4,AKT2|ATP2A2|ATP2A3|SLC2A4
+sarcoplasmic reticulum membrane,GO:0033017,"Diabetes Mellitus, Experimental",MESH:D003921,0,,2,ATP2A2|ATP2A3
+sarcoplasmic reticulum membrane,GO:0033017,"Diabetes Mellitus, Type 1",MESH:D003922,0,,1,NOS1
+sarcoplasmic reticulum membrane,GO:0033017,"Diabetes Mellitus, Type 2",MESH:D003924,0,,2,ATP2A2|ATP2A3
+Schaffer collateral - CA1 synapse,GO:0098685,Diabetes Mellitus,MESH:D003920,0,,1,ADRB1
+Schaffer collateral - CA1 synapse,GO:0098685,"Diabetes Mellitus, Experimental",MESH:D003921,0,,1,MMP9
+Schaffer collateral - CA1 synapse,GO:0098685,"Diabetes Mellitus, Type 1",MESH:D003922,0,,1,STAT3
+secretory granule,GO:0030141,Diabetes Mellitus,MESH:D003920,0,,3,INS2|POMC|SOD1
+secretory granule,GO:0030141,"Diabetes Mellitus, Experimental",MESH:D003921,0,,11,CYBA|FAS|GCK|IAPP|IL1B|MPO|PCSK2|SOD1|TGFB1|TNF|VEGFA
+secretory granule,GO:0030141,"Diabetes Mellitus, Permanent Neonatal",MESH:C563425,0,,1,GCK
+secretory granule,GO:0030141,"Diabetes Mellitus, Type 1",MESH:D003922,0,,3,INS2|NOS1|TNF
+secretory granule,GO:0030141,"Diabetes Mellitus, Type 2",MESH:D003924,0,,12,CYBA|ECE1|FAS|GCK|IAPP|PAM|PCSK2|RETN|SLC30A8|SOD1|TNF|WFS1
+secretory granule lumen,GO:0034774,Diabetes Mellitus,MESH:D003920,0,,4,CAT|INS|INS2|POMC
+secretory granule lumen,GO:0034774,"Diabetes Mellitus, Experimental",MESH:D003921,0,,3,CAT|INS1|PCSK2
+secretory granule lumen,GO:0034774,"Diabetes Mellitus, Insulin-Dependent, 2",MESH:C565100,0,,1,INS
+secretory granule lumen,GO:0034774,"Diabetes Mellitus, Type 1",MESH:D003922,0,,4,CAT|CTSH|INS|INS2
+secretory granule lumen,GO:0034774,"Diabetes Mellitus, Type 2",MESH:D003924,0,,8,C3|CAT|GCG|INS|INS1|NFKB1|PCSK2|PSMD6
+secretory granule membrane,GO:0030667,Diabetes Mellitus,MESH:D003920,0,,1,RAC1
+secretory granule membrane,GO:0030667,"Diabetes Mellitus, Type 2",MESH:D003924,0,,2,PAM|SLC30A8
+senescence-associated heterochromatin focus,GO:0035985,"Diabetes Mellitus, Type 2",MESH:D003924,0,,1,HMGA1
+serine protease inhibitor complex,GO:0097180,"Diabetes Mellitus, Experimental",MESH:D003921,0,,1,SERPINE1
+Set1C/COMPASS complex,GO:0048188,"Diabetes Mellitus, Type 2",MESH:D003924,0,,1,MAT1A
+Shc-EGFR complex,GO:0070435,"Diabetes Mellitus, Type 2",MESH:D003924,0,,1,EGFR
+side of membrane,GO:0098552,"Diabetes Mellitus, Type 2",MESH:D003924,0,,1,ITLN1
+site of double-strand break,GO:0035861,Diabetes Mellitus,MESH:D003920,1,Cyclosporine,0,
+site of double-strand break,GO:0035861,"Diabetes Mellitus, Experimental",MESH:D003921,0,,2,TP53|TRP53
+site of double-strand break,GO:0035861,"Diabetes Mellitus, Type 2",MESH:D003924,1,Curcumin,0,
+SMAD protein complex,GO:0071141,"Diabetes Mellitus, Type 2",MESH:D003924,0,,1,SMAD5
+small ribosomal subunit,GO:0015935,"Diabetes Mellitus, Experimental",MESH:D003921,1,sodium arsenite,0,
+small ribosomal subunit,GO:0015935,"Diabetes Mellitus, Type 1",MESH:D003922,1,sodium arsenite,0,
+smooth endoplasmic reticulum,GO:0005790,"ATAXIA, COMBINED CEREBELLAR AND PERIPHERAL, WITH HEARING LOSS AND DIABETES MELLITUS",OMIM:616192,0,,1,DNAJC3
+SNARE complex,GO:0031201,"Diabetes Mellitus, Experimental",MESH:D003921,0,,1,SNAP25
+SNARE complex,GO:0031201,"Diabetes Mellitus, Type 2",MESH:D003924,0,,1,SNAP25
+sno(s)RNA-containing ribonucleoprotein complex,GO:0005732,Diabetes Mellitus,MESH:D003920,0,,1,INS2
+sno(s)RNA-containing ribonucleoprotein complex,GO:0005732,"Diabetes Mellitus, Type 1",MESH:D003922,0,,1,INS2
+sodium channel complex,GO:0034706,"Diabetes Mellitus, Experimental",MESH:D003921,0,,1,TNFRSF1A
+sodium channel complex,GO:0034706,"Diabetes Mellitus, Type 2",MESH:D003924,0,,1,TNFRSF1A
+somatodendritic compartment,GO:0036477,"Diabetes Mellitus, Experimental",MESH:D003921,0,,1,SNAP25
+somatodendritic compartment,GO:0036477,"Diabetes Mellitus, Type 2",MESH:D003924,0,,1,SNAP25
+sorting endosome,GO:0097443,"Diabetes Mellitus, Type 2",MESH:D003924,0,,1,PTPN1
+specific granule lumen,GO:0035580,"Diabetes Mellitus, Experimental",MESH:D003921,0,,1,TIMP2
+specific granule lumen,GO:0035580,"Diabetes Mellitus, Type 1",MESH:D003922,0,,1,HP
+specific granule lumen,GO:0035580,"Diabetes Mellitus, Type 2",MESH:D003924,0,,3,HP|NFKB1|RETN
+specific granule membrane,GO:0035579,Diabetes Mellitus,MESH:D003920,0,,1,CYBB
+specific granule membrane,GO:0035579,"Diabetes Mellitus, Experimental",MESH:D003921,0,,3,CYBA|CYBB|SNAP25
+specific granule membrane,GO:0035579,"Diabetes Mellitus, Type 2",MESH:D003924,0,,4,CD36|CYBA|SNAP25|TNFRSF1B
+spectrin,GO:0008091,"Diabetes Mellitus, Type 2",MESH:D003924,0,,1,PRKCB
+sperm flagellum,GO:0036126,Diabetes Mellitus,MESH:D003920,3,bisphenol A|Chlorpyrifos|Gallic Acid,0,
+sperm flagellum,GO:0036126,"Diabetes Mellitus, Experimental",MESH:D003921,2,bisphenol A|Gallic Acid,0,
+sperm flagellum,GO:0036126,"Diabetes Mellitus, Type 1",MESH:D003922,1,bisphenol A,0,
+sperm flagellum,GO:0036126,"Diabetes Mellitus, Type 2",MESH:D003924,1,bisphenol A,1,KCNU1
+sperm head,GO:0061827,Diabetes Mellitus,MESH:D003920,3,bisphenol A|Chlorpyrifos|Gallic Acid,0,
+sperm head,GO:0061827,"Diabetes Mellitus, Experimental",MESH:D003921,2,bisphenol A|Gallic Acid,0,
+sperm head,GO:0061827,"Diabetes Mellitus, Type 1",MESH:D003922,1,bisphenol A,0,
+sperm head,GO:0061827,"Diabetes Mellitus, Type 2",MESH:D003924,1,bisphenol A,0,
+sperm head plasma membrane,GO:1990913,Diabetes Mellitus,MESH:D003920,1,bisphenol A,0,
+sperm head plasma membrane,GO:1990913,"Diabetes Mellitus, Experimental",MESH:D003921,1,bisphenol A,0,
+sperm head plasma membrane,GO:1990913,"Diabetes Mellitus, Type 1",MESH:D003922,1,bisphenol A,0,
+sperm head plasma membrane,GO:1990913,"Diabetes Mellitus, Type 2",MESH:D003924,1,bisphenol A,0,
+sperm midpiece,GO:0097225,Diabetes Mellitus,MESH:D003920,2,Chlorpyrifos|Gallic Acid,0,
+sperm midpiece,GO:0097225,"Diabetes Mellitus, Experimental",MESH:D003921,1,Gallic Acid,1,ACE
+sperm principal piece,GO:0097228,"Diabetes Mellitus, Experimental",MESH:D003921,0,,1,PFKM
+spherical high-density lipoprotein particle,GO:0034366,Diabetes Mellitus,MESH:D003920,0,,1,PON1
+spherical high-density lipoprotein particle,GO:0034366,"Diabetes Mellitus, Type 1",MESH:D003922,0,,1,HP
+spherical high-density lipoprotein particle,GO:0034366,"Diabetes Mellitus, Type 2",MESH:D003924,0,,1,HP
+spindle,GO:0005819,"Diabetes Mellitus, Type 2",MESH:D003924,0,,2,AKT1|MAEA
+spindle pole,GO:0000922,Diabetes Mellitus,MESH:D003920,0,,1,ALPK1
+spindle pole,GO:0000922,"Diabetes Mellitus, Type 2",MESH:D003924,0,,1,INPPL1
+stereocilia ankle link complex,GO:0002142,"Diabetes Mellitus, Transient Neonatal, 2",MESH:C563672,0,,1,ABCC8
+stereocilia ankle link complex,GO:0002142,"Diabetes Mellitus, Type 1",MESH:D003922,0,,1,ABCC8
+stereocilia ankle link complex,GO:0002142,"Diabetes Mellitus, Type 2",MESH:D003924,0,,1,ABCC8
+stereocilium tip,GO:0032426,"Diabetes Mellitus, Transient Neonatal, 2",MESH:C563672,0,,1,ABCC8
+stereocilium tip,GO:0032426,"Diabetes Mellitus, Type 1",MESH:D003922,0,,1,ABCC8
+stereocilium tip,GO:0032426,"Diabetes Mellitus, Type 2",MESH:D003924,0,,1,ABCC8
+stress fiber,GO:0001725,"Diabetes Mellitus, Experimental",MESH:D003921,0,,1,CYBA
+stress fiber,GO:0001725,"Diabetes Mellitus, Type 2",MESH:D003924,0,,1,CYBA
+SUMO ligase complex,GO:0106068,Diabetes Mellitus,MESH:D003920,0,,1,PPARG
+SUMO ligase complex,GO:0106068,"Diabetes Mellitus, Experimental",MESH:D003921,0,,1,PPARG
+SUMO ligase complex,GO:0106068,"Diabetes Mellitus, Insulin-Dependent, 5",MESH:C563958,0,,1,SUMO4
+SUMO ligase complex,GO:0106068,"Diabetes Mellitus, Type 2",MESH:D003924,0,,2,HMGA1|PPARG
+symmetric synapse,GO:0032280,"Diabetes Mellitus, Experimental",MESH:D003921,0,,1,CHRM2
+symmetric synapse,GO:0032280,"Diabetes Mellitus, Type 1",MESH:D003922,0,,1,CHRM2
+synapse,GO:0045202,Diabetes Mellitus,MESH:D003920,0,,1,KIF1A
+synapse,GO:0045202,"Diabetes Mellitus, Experimental",MESH:D003921,1,sodium arsenite,6,CHRM2|NQO1|PRKCE|RELA|SNAP25|YWHAH
+synapse,GO:0045202,"Diabetes Mellitus, Type 1",MESH:D003922,1,sodium arsenite,2,CHRM2|NOS1
+synapse,GO:0045202,"Diabetes Mellitus, Type 2",MESH:D003924,1,Curcumin,6,MAPK8IP1|MIR221|MTNR1B|SLC1A2|SLC2A1|SNAP25
+synaptic cleft,GO:0043083,Diabetes Mellitus,MESH:D003920,1,Atrazine,0,
+synaptic cleft,GO:0043083,"Diabetes Mellitus, Type 2",MESH:D003924,1,Atrazine,0,
+synaptic membrane,GO:0097060,"Diabetes Mellitus, Type 2",MESH:D003924,0,,1,EGFR
+synaptic vesicle,GO:0008021,Diabetes Mellitus,MESH:D003920,0,,1,KIF1A
+synaptic vesicle,GO:0008021,"Diabetes Mellitus, Experimental",MESH:D003921,0,,2,BCL2L1|SNAP25
+synaptic vesicle,GO:0008021,"Diabetes Mellitus, Type 2",MESH:D003924,0,,3,AP3S2|BCL2L1|SNAP25
+synaptic vesicle membrane,GO:0030672,Diabetes Mellitus,MESH:D003920,0,,1,RAC1
+synaptic vesicle membrane,GO:0030672,"Diabetes Mellitus, Experimental",MESH:D003921,0,,1,BCL2L1
+synaptic vesicle membrane,GO:0030672,"Diabetes Mellitus, Transient Neonatal, 2",MESH:C563672,0,,1,ABCC8
+synaptic vesicle membrane,GO:0030672,"Diabetes Mellitus, Type 1",MESH:D003922,0,,1,ABCC8
+synaptic vesicle membrane,GO:0030672,"Diabetes Mellitus, Type 2",MESH:D003924,0,,3,ABCC8|BCL2L1|WFS1
+synaptobrevin 2-SNAP-25-syntaxin-1a complex,GO:0070044,"Diabetes Mellitus, Experimental",MESH:D003921,0,,1,SNAP25
+synaptobrevin 2-SNAP-25-syntaxin-1a complex,GO:0070044,"Diabetes Mellitus, Type 2",MESH:D003924,0,,1,SNAP25
+synaptobrevin 2-SNAP-25-syntaxin-1a-complexin I complex,GO:0070032,"Diabetes Mellitus, Experimental",MESH:D003921,0,,1,SNAP25
+synaptobrevin 2-SNAP-25-syntaxin-1a-complexin I complex,GO:0070032,"Diabetes Mellitus, Type 2",MESH:D003924,0,,1,SNAP25
+synaptobrevin 2-SNAP-25-syntaxin-1a-complexin II complex,GO:0070033,"Diabetes Mellitus, Experimental",MESH:D003921,0,,1,SNAP25
+synaptobrevin 2-SNAP-25-syntaxin-1a-complexin II complex,GO:0070033,"Diabetes Mellitus, Type 2",MESH:D003924,0,,1,SNAP25
+telopode,GO:0120327,Diabetes Mellitus,MESH:D003920,1,Arsenic,0,
+telopode,GO:0120327,"Diabetes Mellitus, Experimental",MESH:D003921,1,sodium arsenite,0,
+telopode,GO:0120327,"Diabetes Mellitus, Type 1",MESH:D003922,1,sodium arsenite,0,
+telopode,GO:0120327,"Diabetes Mellitus, Type 2",MESH:D003924,1,Arsenic,0,
+terminal bouton,GO:0043195,"Diabetes Mellitus, Experimental",MESH:D003921,1,Dronabinol,1,SNAP25
+terminal bouton,GO:0043195,"Diabetes Mellitus, Type 2",MESH:D003924,0,,1,SNAP25
+tertiary granule lumen,GO:1904724,"Diabetes Mellitus, Experimental",MESH:D003921,0,,2,MMP9|TIMP2
+tertiary granule lumen,GO:1904724,"Diabetes Mellitus, Type 1",MESH:D003922,0,,2,CTSH|HP
+tertiary granule lumen,GO:1904724,"Diabetes Mellitus, Type 2",MESH:D003924,0,,1,HP
+tertiary granule membrane,GO:0070821,Diabetes Mellitus,MESH:D003920,0,,1,CYBB
+tertiary granule membrane,GO:0070821,"Diabetes Mellitus, Experimental",MESH:D003921,0,,3,CYBA|CYBB|SNAP25
+tertiary granule membrane,GO:0070821,"Diabetes Mellitus, Type 1",MESH:D003922,0,,1,SLC11A1
+tertiary granule membrane,GO:0070821,"Diabetes Mellitus, Type 2",MESH:D003924,0,,2,CYBA|SNAP25
+transcription factor AP-1 complex,GO:0035976,"Diabetes Mellitus, Experimental",MESH:D003921,1,platycodin D,0,
+transcription factor AP-1 complex,GO:0035976,"Diabetes Mellitus, Type 2",MESH:D003924,0,,1,NFATC2
+transcription regulator complex,GO:0005667,Diabetes Mellitus,MESH:D003920,0,,1,NR1I2
+transcription regulator complex,GO:0005667,"Diabetes Mellitus, Experimental",MESH:D003921,0,,4,PAX6|RELA|TP53|TRP53
+transcription regulator complex,GO:0005667,"Diabetes Mellitus, Insulin-Dependent, 20",MESH:C567286,0,,1,HNF1A
+transcription regulator complex,GO:0005667,"Diabetes Mellitus, Permanent Neonatal, with Cerebellar Agenesis",MESH:C563796,0,,1,PTF1A
+transcription regulator complex,GO:0005667,"Diabetes Mellitus, Type 1",MESH:D003922,0,,4,DDIT3|HNF1A|PAX4|STAT3
+transcription regulator complex,GO:0005667,"Diabetes Mellitus, Type 2",MESH:D003924,0,,10,ETS1|HMGA1|HNF1A|HNF1B|NFATC2|NFKB1|PAX4|PAX6|SMAD5|TCF7L2
+transcription repressor complex,GO:0017053,"Diabetes Mellitus, Experimental",MESH:D003921,0,,2,TP53|TRP53
+transcription repressor complex,GO:0017053,"Diabetes Mellitus, Type 2",MESH:D003924,0,,1,JAZF1
+trans-Golgi network,GO:0005802,Diabetes Mellitus,MESH:D003920,0,,1,RAC1
+trans-Golgi network,GO:0005802,"Diabetes Mellitus, Experimental",MESH:D003921,0,,3,PCSK2|SLC2A4|SNAP25
+trans-Golgi network,GO:0005802,"Diabetes Mellitus, Type 2",MESH:D003924,0,,5,AP3S2|PAM|PCSK2|SLC2A4|SNAP25
+trans-Golgi network membrane,GO:0032588,"Diabetes Mellitus, Type 1",MESH:D003922,0,,3,HLA-DQA1|HLA-DQB1|HLA-DRB1
+trans-Golgi network membrane,GO:0032588,"Diabetes Mellitus, Type 2",MESH:D003924,0,,1,HLA-DRB5
+trans-Golgi network transport vesicle,GO:0030140,"Diabetes Mellitus, Experimental",MESH:D003921,0,,1,SLC2A4
+trans-Golgi network transport vesicle,GO:0030140,"Diabetes Mellitus, Type 2",MESH:D003924,0,,1,SLC2A4
+translation initiation complex,GO:0070992,Diabetes Mellitus,MESH:D003920,1,bisphenol A,0,
+translation initiation complex,GO:0070992,"Diabetes Mellitus, Experimental",MESH:D003921,1,bisphenol A,0,
+translation initiation complex,GO:0070992,"Diabetes Mellitus, Type 1",MESH:D003922,1,bisphenol A,0,
+translation initiation complex,GO:0070992,"Diabetes Mellitus, Type 2",MESH:D003924,1,bisphenol A,0,
+transporter complex,GO:1990351,"Diabetes Mellitus, Experimental",MESH:D003921,0,,1,SLC9A1
+transport vesicle,GO:0030133,Diabetes Mellitus,MESH:D003920,0,,1,INS
+transport vesicle,GO:0030133,"Diabetes Mellitus, Experimental",MESH:D003921,0,,2,EDN1|PCSK2
+transport vesicle,GO:0030133,"Diabetes Mellitus, Insulin-Dependent, 2",MESH:C565100,0,,1,INS
+transport vesicle,GO:0030133,"Diabetes Mellitus, Type 1",MESH:D003922,0,,1,INS
+transport vesicle,GO:0030133,"Diabetes Mellitus, Type 2",MESH:D003924,0,,4,EDN1|INS|KCNQ1|PCSK2
+transport vesicle membrane,GO:0030658,Diabetes Mellitus,MESH:D003920,0,,1,KIF1A
+transport vesicle membrane,GO:0030658,"Diabetes Mellitus, Type 1",MESH:D003922,0,,4,HLA-DQA1|HLA-DQB1|HLA-DRB1|ITPR3
+transport vesicle membrane,GO:0030658,"Diabetes Mellitus, Type 2",MESH:D003924,0,,3,HLA-DRB5|PAM|SLC30A8
+tRNA-intron endonuclease complex,GO:0000214,Diabetes Mellitus,MESH:D003920,0,,1,PPARG
+tRNA-intron endonuclease complex,GO:0000214,"Diabetes Mellitus, Experimental",MESH:D003921,0,,1,PPARG
+tRNA-intron endonuclease complex,GO:0000214,"Diabetes Mellitus, Type 2",MESH:D003924,0,,1,PPARG
+T-tubule,GO:0030315,"Diabetes Mellitus, Experimental",MESH:D003921,0,,6,ADRA1A|CAV3|KCNJ11|PRKCE|SLC2A4|SLC9A1
+T-tubule,GO:0030315,"Diabetes Mellitus, Transient Neonatal, 3",MESH:C566432,0,,1,KCNJ11
+T-tubule,GO:0030315,"Diabetes Mellitus, Type 1",MESH:D003922,0,,2,KCNJ11|NOS1
+T-tubule,GO:0030315,"Diabetes Mellitus, Type 2",MESH:D003924,0,,3,EDNRA|KCNJ11|SLC2A4
+tubular endosome,GO:0097422,"Diabetes Mellitus, Type 2",MESH:D003924,0,,1,VPS26A
+tubulin complex,GO:0045298,Diabetes Mellitus,MESH:D003920,1,Particulate Matter,0,
+tubulin complex,GO:0045298,"Diabetes Mellitus, Experimental",MESH:D003921,1,Hydrogen Peroxide,0,
+tubulin complex,GO:0045298,"Diabetes Mellitus, Type 2",MESH:D003924,1,Particulate Matter,0,
+tumor necrosis factor receptor superfamily complex,GO:0002947,"Diabetes Mellitus, Experimental",MESH:D003921,0,,1,TNFRSF1A
+tumor necrosis factor receptor superfamily complex,GO:0002947,"Diabetes Mellitus, Type 2",MESH:D003924,0,,2,TNFRSF1A|TNFRSF1B
+ubiquitin ligase complex,GO:0000151,"Diabetes Mellitus, Type 2",MESH:D003924,0,,1,MAEA
+varicosity,GO:0043196,"Diabetes Mellitus, Type 2",MESH:D003924,0,,1,TNFRSF1B
+VEGF-A complex,GO:1990150,"Diabetes Mellitus, Experimental",MESH:D003921,0,,1,VEGFA
+vesicle,GO:0031982,Diabetes Mellitus,MESH:D003920,0,,1,KIF5B
+vesicle,GO:0031982,"Diabetes Mellitus, Experimental",MESH:D003921,0,,7,ACE|CAV3|IL1B|SLC2A4|SLC9A3|SNAP25|VEGFA
+vesicle,GO:0031982,"Diabetes Mellitus, Type 1",MESH:D003922,0,,1,CLEC16A
+vesicle,GO:0031982,"Diabetes Mellitus, Type 2",MESH:D003924,0,,8,AKT1|AKT2|ECE1|SLC1A2|SLC2A1|SLC2A4|SNAP25|VPS26A
+vesicle membrane,GO:0012506,"Diabetes Mellitus, Experimental",MESH:D003921,0,,1,SLC2A4
+vesicle membrane,GO:0012506,"Diabetes Mellitus, Type 2",MESH:D003924,0,,1,SLC2A4
+voltage-gated potassium channel complex,GO:0008076,"Diabetes Mellitus, Experimental",MESH:D003921,0,,1,SNAP25
+voltage-gated potassium channel complex,GO:0008076,"Diabetes Mellitus, Type 2",MESH:D003924,0,,2,KCNQ1|SNAP25
+Weibel-Palade body,GO:0033093,"Diabetes Mellitus, Experimental",MESH:D003921,0,,1,EDN1
+Weibel-Palade body,GO:0033093,"Diabetes Mellitus, Type 2",MESH:D003924,0,,2,ECE1|EDN1
+yolk,GO:0060417,"Diabetes Mellitus, Experimental",MESH:D003921,0,,1,INSR
+yolk,GO:0060417,"Diabetes Mellitus, Insulin-Resistant, with Acanthosis Nigricans",MESH:C562710,0,,1,INSR
+Z disc,GO:0030018,"Diabetes Mellitus, Experimental",MESH:D003921,0,,2,ADRA1A|CAV3
+Z disc,GO:0030018,"Diabetes Mellitus, Type 1",MESH:D003922,0,,2,CRP|NOS1
+Z disc,GO:0030018,"Diabetes Mellitus, Type 2",MESH:D003924,0,,1,SLC2A1
+zymogen granule,GO:0042588,Diabetes Mellitus,MESH:D003920,1,Plant Preparations,0,
+zymogen granule,GO:0042588,"Diabetes Mellitus, Experimental",MESH:D003921,1,Plant Preparations,0,
+zymogen granule membrane,GO:0042589,"Diabetes Mellitus, Type 2",MESH:D003924,0,,2,GP2|KCNQ1

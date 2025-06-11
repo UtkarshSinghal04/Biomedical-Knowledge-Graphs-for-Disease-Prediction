@@ -1,0 +1,1522 @@
+GOName,GOID,DiseaseName,DiseaseID,InferenceChemicalQty,InferenceChemicalNames,InferenceGeneQty,InferenceGeneSymbols
+14-3-3 protein binding,GO:0071889,Epilepsy,MESH:D004827,0,,3,AKT1|KCNH1|TSC2
+1-acylglycerophosphocholine O-acyltransferase activity,GO:0047184,"Epilepsy, Tonic-Clonic",MESH:D004830,0,,1,NES
+2-hydroxyglutarate dehydrogenase activity,GO:0047545,Epilepsy,MESH:D004827,0,,1,L2HGDH
+"2-hydroxyglutarate dehydrogenase activity, forward reaction",GO:0061758,Epilepsy,MESH:D004827,0,,1,L2HGDH
+2-oxoglutarate-dependent dioxygenase activity,GO:0016706,Epilepsy,MESH:D004827,0,,1,ALG13
+3'-5' exonuclease activity,GO:0008408,Epilepsy,MESH:D004827,0,,1,POLG
+3beta-hydroxysteroid dehydrogenase activity,GO:0102727,"Epilepsy, Tonic-Clonic",MESH:D004830,1,Chlorpromazine,0,
+3-phosphoinositide-dependent protein kinase activity,GO:0004676,Epilepsy,MESH:D004827,0,,2,AKT1|ERN1
+5'-deoxyribose-5-phosphate lyase activity,GO:0051575,Epilepsy,MESH:D004827,0,,1,POLG
+5'-nucleotidase activity,GO:0008253,Epilepsy,MESH:D004827,1,nimesulide,0,
+6-phosphofructo-2-kinase activity,GO:0003873,"Epilepsy, Absence",MESH:D004832,1,Lithium Carbonate,0,
+6-phosphofructo-2-kinase activity,GO:0003873,"Epilepsy, Tonic-Clonic",MESH:D004830,1,Lithium Carbonate,0,
+A2A adenosine receptor binding,GO:0031687,"Epilepsy, Temporal Lobe",MESH:D004833,0,,1,GRM5
+ABC-type oligopeptide transporter activity,GO:0015421,Epilepsy,MESH:D004827,0,,1,ABCB1
+ABC-type transporter activity,GO:0140359,Epilepsy,MESH:D004827,0,,1,ABCB1
+ABC-type xenobiotic transporter activity,GO:0008559,Epilepsy,MESH:D004827,1,Dronabinol,1,ABCB1
+acetylcholine binding,GO:0042166,"Epilepsy, Frontal Lobe",MESH:D017034,0,,2,CHRNA4|CHRNB2
+acetylcholine binding,GO:0042166,"Epilepsy, Generalized",MESH:D004829,0,,1,CHRNA7
+acetylcholine binding,GO:0042166,"Epilepsy, Nocturnal Frontal Lobe, Type 1",MESH:C563930,0,,1,CHRNA4
+acetylcholine binding,GO:0042166,"Epilepsy, Nocturnal Frontal Lobe, Type 3",MESH:C565334,0,,1,CHRNB2
+acetylcholine-gated monoatomic cation-selective channel activity,GO:0022848,Epilepsy,MESH:D004827,1,Dronabinol,0,
+acetylcholine-gated monoatomic cation-selective channel activity,GO:0022848,"Epilepsy, Frontal Lobe",MESH:D017034,0,,2,CHRNA4|CHRNB2
+acetylcholine-gated monoatomic cation-selective channel activity,GO:0022848,"Epilepsy, Generalized",MESH:D004829,0,,1,CHRNA7
+acetylcholine-gated monoatomic cation-selective channel activity,GO:0022848,"Epilepsy, Nocturnal Frontal Lobe, Type 1",MESH:C563930,0,,1,CHRNA4
+acetylcholine-gated monoatomic cation-selective channel activity,GO:0022848,"Epilepsy, Nocturnal Frontal Lobe, Type 3",MESH:C565334,0,,1,CHRNB2
+acetylcholine-gated monoatomic cation-selective channel activity,GO:0022848,"Epilepsy, Nocturnal Frontal Lobe, Type 4",MESH:C563679,0,,1,CHRNA2
+acetylcholine receptor activity,GO:0015464,"Epilepsy, Frontal Lobe",MESH:D017034,0,,2,CHRNA4|CHRNB2
+acetylcholine receptor activity,GO:0015464,"Epilepsy, Generalized",MESH:D004829,0,,1,CHRNA7
+acetylcholine receptor activity,GO:0015464,"Epilepsy, Nocturnal Frontal Lobe, Type 1",MESH:C563930,0,,1,CHRNA4
+acetylcholine receptor activity,GO:0015464,"Epilepsy, Nocturnal Frontal Lobe, Type 3",MESH:C565334,0,,1,CHRNB2
+acetylcholine receptor activity,GO:0015464,"Epilepsy, Nocturnal Frontal Lobe, Type 4",MESH:C563679,0,,1,CHRNA2
+acetylcholinesterase activity,GO:0003990,Epilepsy,MESH:D004827,2,Dronabinol|Plant Extracts,0,
+acetylcholinesterase activity,GO:0003990,"Epilepsy, Temporal Lobe",MESH:D004833,1,Plant Extracts,0,
+acetylcholinesterase activity,GO:0003990,"Epilepsy, Tonic-Clonic",MESH:D004830,7,Aluminum|Aluminum Hydroxide|Hexachlorocyclohexane|Paraoxon|Plant Extracts|pralidoxime|Sarin,1,BCHE
+[acetyl-CoA carboxylase] kinase activity,GO:0050405,"Epilepsy, Tonic-Clonic",MESH:D004830,1,Ethanol,0,
+acidic amino acid transmembrane transporter activity,GO:0015172,Epilepsy,MESH:D004827,0,,3,SLC1A1|SLC1A2|SLC1A3
+acidic amino acid transmembrane transporter activity,GO:0015172,"Epilepsy, Temporal Lobe",MESH:D004833,0,,1,SLC1A1
+acid phosphatase activity,GO:0003993,Epilepsy,MESH:D004827,3,Cisplatin|Folic Acid|Plant Extracts,0,
+acid phosphatase activity,GO:0003993,"Epilepsy, Temporal Lobe",MESH:D004833,1,Plant Extracts,0,
+acid phosphatase activity,GO:0003993,"Epilepsy, Tonic-Clonic",MESH:D004830,1,Plant Extracts,0,
+actin binding,GO:0003779,Epilepsy,MESH:D004827,0,,4,ALG13|DYRK1A|FLNA|HNRNPU
+actin binding,GO:0003779,"EPILEPSY, FAMILIAL TEMPORAL LOBE, 1",OMIM:600512,0,,1,MICAL1
+actin binding,GO:0003779,"Epilepsy, X-Linked, with Variable Learning Disabilities and Behavior Disorders",MESH:C564505,0,,1,SYN1
+actin binding,GO:0003779,Generalized Epilepsy and Paroxysmal Dyskinesia,MESH:C563719,0,,1,KCNMA1
+actin filament binding,GO:0051015,Epilepsy,MESH:D004827,0,,1,FLNA
+actin filament binding,GO:0051015,"Epilepsy, Tonic-Clonic",MESH:D004830,1,Procaine,0,
+actin monomer binding,GO:0003785,Epilepsy,MESH:D004827,0,,1,STX1B
+actin monomer binding,GO:0003785,"GENERALIZED EPILEPSY WITH FEBRILE SEIZURES PLUS, TYPE 9",OMIM:616172,0,,1,STX1B
+adenylate cyclase activity,GO:0004016,Epilepsy,MESH:D004827,1,Dronabinol,0,
+adenylate cyclase binding,GO:0008179,"Epilepsy, Generalized",MESH:D004829,0,,1,CHRNA7
+adenylate cyclase inhibiting G protein-coupled glutamate receptor activity,GO:0001640,Epilepsy,MESH:D004827,0,,2,GRIN2B|GRM1
+adenylate cyclase inhibiting G protein-coupled glutamate receptor activity,GO:0001640,"Epilepsy, Temporal Lobe",MESH:D004833,0,,3,GRM1|GRM4|GRM5
+adenylate cyclase regulator activity,GO:0010854,Epilepsy,MESH:D004827,0,,1,GNAO1
+ADP binding,GO:0043531,Epilepsy,MESH:D004827,0,,1,ERN1
+ADP phosphatase activity,GO:0043262,"Epilepsy, Tonic-Clonic",MESH:D004830,1,Caffeine,0,
+adrenergic receptor activity,GO:0004935,Epilepsy,MESH:D004827,1,Dexamethasone,1,ADRA2A
+aldehyde dehydrogenase (NAD+) activity,GO:0004029,"Epilepsy, Tonic-Clonic",MESH:D004830,1,Disulfiram,0,
+aldehyde dehydrogenase (NAD+) activity,GO:0004029,Pyridoxine-dependent epilepsy,MESH:C536254,0,,1,ALDH7A1
+aldehyde dehydrogenase [NAD(P)+] activity,GO:0004030,Epilepsy,MESH:D004827,1,Plant Extracts,0,
+aldehyde dehydrogenase [NAD(P)+] activity,GO:0004030,"Epilepsy, Temporal Lobe",MESH:D004833,1,Plant Extracts,0,
+aldehyde dehydrogenase [NAD(P)+] activity,GO:0004030,"Epilepsy, Tonic-Clonic",MESH:D004830,2,Ethanol|Plant Extracts,0,
+alditol:NADP+ 1-oxidoreductase activity,GO:0004032,Epilepsy,MESH:D004827,2,Valproic Acid|Vitamin U,0,
+alditol:NADP+ 1-oxidoreductase activity,GO:0004032,"Epilepsy, Absence",MESH:D004832,1,Valproic Acid,0,
+alditol:NADP+ 1-oxidoreductase activity,GO:0004032,"Epilepsy, Complex Partial",MESH:D017029,1,Valproic Acid,0,
+alditol:NADP+ 1-oxidoreductase activity,GO:0004032,"Epilepsy, Generalized",MESH:D004829,1,Valproic Acid,0,
+alditol:NADP+ 1-oxidoreductase activity,GO:0004032,"Epilepsy, Reflex",MESH:D020195,1,Valproic Acid,0,
+alditol:NADP+ 1-oxidoreductase activity,GO:0004032,"Epilepsy, Rolandic",MESH:D019305,1,Valproic Acid,0,
+alditol:NADP+ 1-oxidoreductase activity,GO:0004032,"Epilepsy, Temporal Lobe",MESH:D004833,2,Capsaicin|Valproic Acid,0,
+alditol:NADP+ 1-oxidoreductase activity,GO:0004032,"Epilepsy, Tonic-Clonic",MESH:D004830,1,Valproic Acid,0,
+alditol:NADP+ 1-oxidoreductase activity,GO:0004032,"Myoclonic Epilepsy, Juvenile",MESH:D020190,1,Valproic Acid,0,
+aldo-keto reductase (NADP) activity,GO:0004033,Epilepsy,MESH:D004827,0,,1,KCNAB2
+alkaline phosphatase activity,GO:0004035,Epilepsy,MESH:D004827,11,"Ampicillin|Cilastatin, Imipenem Drug Combination|Cisplatin|Dexamethasone|Epinephrine|Folic Acid|Methimazole|Methotrexate|Phenobarbital|Plant Extracts|Valproic Acid",0,
+alkaline phosphatase activity,GO:0004035,"Epilepsy, Absence",MESH:D004832,4,"Cilastatin, Imipenem Drug Combination|Doxorubicin|Phenobarbital|Valproic Acid",0,
+alkaline phosphatase activity,GO:0004035,"Epilepsy, Complex Partial",MESH:D017029,3,Methotrexate|Phenobarbital|Valproic Acid,0,
+alkaline phosphatase activity,GO:0004035,"Epilepsy, Generalized",MESH:D004829,4,Phenobarbital|Prednisolone|Valproic Acid|Zidovudine,0,
+alkaline phosphatase activity,GO:0004035,"Epilepsy, Reflex",MESH:D020195,1,Valproic Acid,0,
+alkaline phosphatase activity,GO:0004035,"Epilepsy, Rolandic",MESH:D019305,1,Valproic Acid,0,
+alkaline phosphatase activity,GO:0004035,"Epilepsy, Temporal Lobe",MESH:D004833,4,Methotrexate|Phenobarbital|Plant Extracts|Valproic Acid,0,
+alkaline phosphatase activity,GO:0004035,"Epilepsy, Tonic-Clonic",MESH:D004830,13,"Acetaminophen|Chloroquine|Cilastatin, Imipenem Drug Combination|Diclofenac|Epinephrine|Ethanol|Methotrexate|Metronidazole|Paroxetine|Phenobarbital|Plant Extracts|Valproic Acid|Vincristine",0,
+alkaline phosphatase activity,GO:0004035,"Myoclonic Epilepsy, Juvenile",MESH:D020190,1,Valproic Acid,0,
+alkane 1-monooxygenase activity,GO:0018685,Epilepsy,MESH:D004827,1,Phenobarbital,0,
+alkane 1-monooxygenase activity,GO:0018685,"Epilepsy, Absence",MESH:D004832,1,Phenobarbital,0,
+alkane 1-monooxygenase activity,GO:0018685,"Epilepsy, Complex Partial",MESH:D017029,1,Phenobarbital,0,
+alkane 1-monooxygenase activity,GO:0018685,"Epilepsy, Generalized",MESH:D004829,1,Phenobarbital,0,
+alkane 1-monooxygenase activity,GO:0018685,"Epilepsy, Temporal Lobe",MESH:D004833,1,Phenobarbital,0,
+alkane 1-monooxygenase activity,GO:0018685,"Epilepsy, Tonic-Clonic",MESH:D004830,1,Phenobarbital,0,
+alpha-1B adrenergic receptor binding,GO:0031692,Epilepsy,MESH:D004827,0,,1,ADRA2A
+alpha2-adrenergic receptor activity,GO:0004938,Epilepsy,MESH:D004827,0,,1,ADRA2A
+alpha-2C adrenergic receptor binding,GO:0031696,Epilepsy,MESH:D004827,0,,1,ADRA2A
+alpha-aminoadipate acetyltransferase activity,GO:0043741,Pyridoxine-dependent epilepsy,MESH:C536254,0,,1,ALDH7A1
+alpha-tubulin binding,GO:0043014,"Epilepsy, Absence",MESH:D004832,0,,1,EFHC1
+alpha-tubulin binding,GO:0043014,"Myoclonic Epilepsy, Juvenile",MESH:D020190,0,,1,EFHC1
+amino acid binding,GO:0016597,Epilepsy,MESH:D004827,0,,1,SLC1A3
+amino acid binding,GO:0016597,"Epilepsy, Idiopathic Generalized",MESH:C562694,0,,1,CASR
+amino acid:sodium symporter activity,GO:0005283,Epilepsy,MESH:D004827,0,,1,SLC6A1
+amino acid:sodium symporter activity,GO:0005283,MYOCLONIC-ATONIC EPILEPSY,OMIM:616421,0,,1,SLC6A1
+ammonium transmembrane transporter activity,GO:0008519,Epilepsy,MESH:D004827,0,,2,SLC12A2|SLC12A5
+ammonium transmembrane transporter activity,GO:0008519,"Epilepsy, Idiopathic Generalized",MESH:C562694,0,,1,SLC12A5
+ammonium transmembrane transporter activity,GO:0008519,"Epilepsy, Temporal Lobe",MESH:D004833,0,,2,SLC12A2|SLC12A5
+AMP-activated protein kinase activity,GO:0004679,Epilepsy,MESH:D004827,2,Cisplatin|Folic Acid,2,AKT1|ERN1
+AMP-activated protein kinase activity,GO:0004679,"Epilepsy, Absence",MESH:D004832,1,Doxorubicin,0,
+AMP-activated protein kinase activity,GO:0004679,"Epilepsy, Tonic-Clonic",MESH:D004830,2,Caffeine|Ethanol,0,
+AMPA glutamate receptor activity,GO:0004971,Epilepsy,MESH:D004827,1,"6-Cyano-7-nitroquinoxaline-2,3-dione",0,
+amylase activity,GO:0016160,Epilepsy,MESH:D004827,1,Dexamethasone,0,
+amylase activity,GO:0016160,"Epilepsy, Tonic-Clonic",MESH:D004830,1,Ethanol,0,
+amyloid-beta binding,GO:0001540,Epilepsy,MESH:D004827,0,,2,GRIN2A|GRIN2B
+amyloid-beta binding,GO:0001540,"Epilepsy, Absence",MESH:D004832,0,,1,CACNA1A
+amyloid-beta binding,GO:0001540,"EPILEPSY, FOCAL, WITH SPEECH DISORDER AND WITH OR WITHOUT IMPAIRED INTELLECTUAL DEVELOPMENT",OMIM:245570,0,,1,GRIN2A
+amyloid-beta binding,GO:0001540,"Epilepsy, Generalized",MESH:D004829,0,,1,CHRNA7
+amyloid-beta binding,GO:0001540,"Epilepsy, Rolandic",MESH:D019305,0,,1,GRIN2A
+amyloid-beta binding,GO:0001540,"Epilepsy, Tonic-Clonic",MESH:D004830,0,,1,BCHE
+"anandamide 11,12 epoxidase activity",GO:0062188,"Epilepsy, Tonic-Clonic",MESH:D004830,0,,1,CYP2D6
+"anandamide 14,15 epoxidase activity",GO:0062189,"Epilepsy, Tonic-Clonic",MESH:D004830,0,,1,CYP2D6
+"anandamide 8,9 epoxidase activity",GO:0062187,"Epilepsy, Tonic-Clonic",MESH:D004830,0,,1,CYP2D6
+ankyrin binding,GO:0030506,Epilepsy,MESH:D004827,0,,1,KCNQ2
+ankyrin binding,GO:0030506,"Epilepsy, Benign Neonatal",MESH:D020936,0,,1,KCNQ2
+antigen binding,GO:0003823,Epilepsy,MESH:D004827,0,,1,TGFB1
+antioxidant activity,GO:0016209,Epilepsy,MESH:D004827,1,Ciprofloxacin,2,ALB|SELENOW
+antioxidant activity,GO:0016209,"Epilepsy, Absence",MESH:D004832,1,Doxorubicin,0,
+antioxidant activity,GO:0016209,"Epilepsy, Tonic-Clonic",MESH:D004830,2,Aluminum Hydroxide|Ciprofloxacin,0,
+AP-2 adaptor complex binding,GO:0035612,Epilepsy,MESH:D004827,0,,1,GABRB3
+AP-2 adaptor complex binding,GO:0035612,"Epilepsy, Absence",MESH:D004832,0,,1,GABRB3
+arginase activity,GO:0004053,Epilepsy,MESH:D004827,2,Haloperidol|Valproic Acid,0,
+arginase activity,GO:0004053,"Epilepsy, Absence",MESH:D004832,2,Haloperidol|Valproic Acid,0,
+arginase activity,GO:0004053,"Epilepsy, Complex Partial",MESH:D017029,1,Valproic Acid,0,
+arginase activity,GO:0004053,"Epilepsy, Generalized",MESH:D004829,1,Valproic Acid,0,
+arginase activity,GO:0004053,"Epilepsy, Reflex",MESH:D020195,1,Valproic Acid,0,
+arginase activity,GO:0004053,"Epilepsy, Rolandic",MESH:D019305,1,Valproic Acid,0,
+arginase activity,GO:0004053,"Epilepsy, Temporal Lobe",MESH:D004833,1,Valproic Acid,0,
+arginase activity,GO:0004053,"Epilepsy, Tonic-Clonic",MESH:D004830,3,Caffeine|Haloperidol|Valproic Acid,0,
+arginase activity,GO:0004053,"Myoclonic Epilepsy, Juvenile",MESH:D020190,1,Valproic Acid,0,
+argininosuccinate lyase activity,GO:0004056,"Epilepsy, Generalized",MESH:D004829,1,Zidovudine,0,
+arrestin family protein binding,GO:1990763,Epilepsy,MESH:D004827,0,,1,CHRM2
+aryldialkylphosphatase activity,GO:0004063,Epilepsy,MESH:D004827,1,Valproic Acid,0,
+aryldialkylphosphatase activity,GO:0004063,"Epilepsy, Absence",MESH:D004832,1,Valproic Acid,0,
+aryldialkylphosphatase activity,GO:0004063,"Epilepsy, Complex Partial",MESH:D017029,1,Valproic Acid,0,
+aryldialkylphosphatase activity,GO:0004063,"Epilepsy, Generalized",MESH:D004829,1,Valproic Acid,0,
+aryldialkylphosphatase activity,GO:0004063,"Epilepsy, Reflex",MESH:D020195,1,Valproic Acid,0,
+aryldialkylphosphatase activity,GO:0004063,"Epilepsy, Rolandic",MESH:D019305,1,Valproic Acid,0,
+aryldialkylphosphatase activity,GO:0004063,"Epilepsy, Temporal Lobe",MESH:D004833,1,Valproic Acid,0,
+aryldialkylphosphatase activity,GO:0004063,"Epilepsy, Tonic-Clonic",MESH:D004830,1,Valproic Acid,0,
+aryldialkylphosphatase activity,GO:0004063,"Myoclonic Epilepsy, Juvenile",MESH:D020190,1,Valproic Acid,0,
+arylesterase activity,GO:0004064,Epilepsy,MESH:D004827,1,Vitamin U,0,
+aryl sulfotransferase activity,GO:0004062,"Epilepsy, Tonic-Clonic",MESH:D004830,1,Acetaminophen,0,
+aspartic-type endopeptidase activity,GO:0004190,Epilepsy,MESH:D004827,0,,1,ANKRD11
+aspartic-type endopeptidase activity,GO:0004190,"EPILEPSY, PROGRESSIVE MYOCLONIC, 3, WITH OR WITHOUT INTRACELLULAR INCLUSIONS",OMIM:611726,0,,1,KCTD7
+ATPase binding,GO:0051117,Epilepsy,MESH:D004827,0,,1,GRIN2A
+ATPase binding,GO:0051117,"EPILEPSY, FOCAL, WITH SPEECH DISORDER AND WITH OR WITHOUT IMPAIRED INTELLECTUAL DEVELOPMENT",OMIM:245570,0,,1,GRIN2A
+ATPase binding,GO:0051117,"Epilepsy, Generalized",MESH:D004829,0,,1,CHRNA7
+ATPase binding,GO:0051117,"Epilepsy, Rolandic",MESH:D019305,0,,1,GRIN2A
+ATPase-coupled intramembrane lipid transporter activity,GO:0140326,"Epilepsy, Tonic-Clonic",MESH:D004830,1,Chlorpromazine,0,
+ATPase-coupled transmembrane transporter activity,GO:0042626,Epilepsy,MESH:D004827,0,,1,ABCB1
+ATPase inhibitor activity,GO:0042030,Epilepsy,MESH:D004827,0,,1,TSC1
+ATP binding,GO:0005524,Epilepsy,MESH:D004827,0,,16,ABCB1|AKT1|ANKRD11|CDKL5|CHD2|DDX3X|DYRK1A|ERN1|HNRNPU|ILK|P2RX2|P2RX4|SMC1A|SNAP25|VDAC1|VDAC2
+ATP binding,GO:0005524,"Epilepsy, Temporal Lobe",MESH:D004833,0,,5,KDR|P2RX4|P2RX7|TEK|TRPV1
+ATP binding,GO:0005524,"Epilepsy, X-Linked, with Variable Learning Disabilities and Behavior Disorders",MESH:C564505,0,,1,SYN1
+ATP binding,GO:0005524,"Polyhydramnios, Megalencephaly, And Symptomatic Epilepsy",MESH:C567020,0,,1,STRADA
+ATP-dependent activity,GO:0140657,Epilepsy,MESH:D004827,1,Haloperidol,0,
+ATP-dependent activity,GO:0140657,"Epilepsy, Absence",MESH:D004832,1,Haloperidol,0,
+ATP-dependent activity,GO:0140657,"Epilepsy, Tonic-Clonic",MESH:D004830,3,Caffeine|Clomipramine|Haloperidol,0,
+ATP-dependent chromatin remodeler activity,GO:0140658,Epilepsy,MESH:D004827,0,,1,CHD2
+ATP-gated ion channel activity,GO:0035381,Epilepsy,MESH:D004827,0,,1,P2RX4
+ATP-gated ion channel activity,GO:0035381,"Epilepsy, Temporal Lobe",MESH:D004833,0,,2,P2RX4|P2RX7
+ATP hydrolysis activity,GO:0016887,Epilepsy,MESH:D004827,2,Cimetidine|Plant Extracts,4,ABCB1|CHD2|DDX3X|SMC1A
+ATP hydrolysis activity,GO:0016887,"Epilepsy, Absence",MESH:D004832,1,Doxorubicin,0,
+ATP hydrolysis activity,GO:0016887,"Epilepsy, Temporal Lobe",MESH:D004833,1,Plant Extracts,0,
+ATP hydrolysis activity,GO:0016887,"Epilepsy, Tonic-Clonic",MESH:D004830,6,Acetaminophen|Chloroquine|Cimetidine|Deferoxamine|Plant Extracts|Sodium Chloride,0,
+A-type (transient outward) potassium channel activity,GO:0005250,Epilepsy,MESH:D004827,1,4-Aminopyridine,0,
+benzodiazepine receptor activity,GO:0008503,"Myoclonic Epilepsy, Juvenile",MESH:D020190,0,,1,GABRA1
+beta-2 adrenergic receptor binding,GO:0031698,"Epilepsy, Temporal Lobe",MESH:D004833,0,,1,BDKRB2
+beta-catenin binding,GO:0008013,Epilepsy,MESH:D004827,0,,1,GRIN2B
+beta-endorphin receptor activity,GO:0004979,Epilepsy,MESH:D004827,0,,1,OPRM1
+beta-galactosidase activity,GO:0004565,Epilepsy,MESH:D004827,1,Dronabinol,0,
+beta-galactosidase activity,GO:0004565,"EPILEPSY, FAMILIAL TEMPORAL LOBE, 8",OMIM:616461,0,,1,GAL
+"beta-galactoside (CMP) alpha-2,3-sialyltransferase activity",GO:0003836,Amish Infantile Epilepsy Syndrome,MESH:C563799,0,,1,ST3GAL5
+betaine-aldehyde dehydrogenase activity,GO:0008802,Pyridoxine-dependent epilepsy,MESH:C536254,0,,1,ALDH7A1
+beta-tubulin binding,GO:0048487,"Epilepsy, Tonic-Clonic",MESH:D004830,1,Vincristine,0,
+bile acid transmembrane transporter activity,GO:0015125,Epilepsy,MESH:D004827,0,,1,SLCO1A5
+boss receptor activity,GO:0008288,"Epilepsy, Temporal Lobe",MESH:D004833,0,,2,KDR|TEK
+bradykinin receptor activity,GO:0004947,"Epilepsy, Temporal Lobe",MESH:D004833,0,,2,BDKRB1|BDKRB2
+brain-derived neurotrophic factor receptor activity,GO:0060175,"Epilepsy, Temporal Lobe",MESH:D004833,0,,2,KDR|TEK
+butyrate-CoA ligase activity,GO:0047760,"Epilepsy, Tonic-Clonic",MESH:D004830,1,Diclofenac,0,
+cadherin binding,GO:0045296,Epilepsy,MESH:D004827,0,,2,P2RX4|PCDH19
+cadherin binding,GO:0045296,"Epilepsy, Female-Restricted, with Mental Retardation",MESH:C564715,0,,1,PCDH19
+cadherin binding,GO:0045296,"Epilepsy, Temporal Lobe",MESH:D004833,0,,2,KDR|P2RX4
+cadmium ion binding,GO:0046870,Epilepsy,MESH:D004827,0,,1,P2RX2
+calcitriol binding,GO:1902098,"Epilepsy, Temporal Lobe",MESH:D004833,0,,1,VDR
+calcium activated cation channel activity,GO:0005227,Epilepsy,MESH:D004827,1,Carbachol,0,
+calcium-activated potassium channel activity,GO:0015269,Generalized Epilepsy and Paroxysmal Dyskinesia,MESH:C563719,0,,1,KCNMA1
+calcium channel activity,GO:0005262,Epilepsy,MESH:D004827,2,Calcium|Dronabinol,3,GRIN2A|GRIN2B|VDAC1
+calcium channel activity,GO:0005262,"Epilepsy, Absence",MESH:D004832,0,,3,CACNA1A|CACNA1H|CACNA2D2
+calcium channel activity,GO:0005262,"EPILEPSY, FOCAL, WITH SPEECH DISORDER AND WITH OR WITHOUT IMPAIRED INTELLECTUAL DEVELOPMENT",OMIM:245570,0,,1,GRIN2A
+calcium channel activity,GO:0005262,"Epilepsy, Generalized",MESH:D004829,0,,1,CHRNA7
+calcium channel activity,GO:0005262,"Epilepsy, Rolandic",MESH:D019305,0,,1,GRIN2A
+calcium channel activity,GO:0005262,"Epilepsy, Temporal Lobe",MESH:D004833,1,Capsaicin,1,TRPV1
+calcium channel regulator activity,GO:0005246,Epilepsy,MESH:D004827,0,,2,NPY|NPY2R
+calcium channel regulator activity,GO:0005246,"Epilepsy, Absence",MESH:D004832,0,,1,CACNA2D2
+calcium channel regulator activity,GO:0005246,"Epilepsy, Temporal Lobe",MESH:D004833,0,,4,GRM2|GRM3|NPY|NPY2R
+calcium-dependent ATPase activity,GO:0030899,Epilepsy,MESH:D004827,2,Cisplatin|Magnesium,0,
+calcium-dependent ATPase activity,GO:0030899,"Epilepsy, Tonic-Clonic",MESH:D004830,1,Chlorpromazine,0,
+calcium-dependent cysteine-type endopeptidase activity,GO:0004198,Epilepsy,MESH:D004827,2,Cisplatin|Propofol,0,
+calcium-dependent cysteine-type endopeptidase activity,GO:0004198,"Epilepsy, Generalized",MESH:D004829,1,Propofol,0,
+calcium-dependent cysteine-type endopeptidase activity,GO:0004198,"Epilepsy, Tonic-Clonic",MESH:D004830,2,Acetaminophen|Propofol,0,
+calcium-dependent protein binding,GO:0048306,Epilepsy,MESH:D004827,0,,2,GRIN2A|SNAP25
+calcium-dependent protein binding,GO:0048306,"EPILEPSY, FOCAL, WITH SPEECH DISORDER AND WITH OR WITHOUT IMPAIRED INTELLECTUAL DEVELOPMENT",OMIM:245570,0,,1,GRIN2A
+calcium-dependent protein binding,GO:0048306,"Epilepsy, Rolandic",MESH:D019305,0,,1,GRIN2A
+calcium-dependent protein binding,GO:0048306,"Epilepsy, Temporal Lobe",MESH:D004833,0,,1,GRM4
+calcium-dependent protein binding,GO:0048306,"Epilepsy, X-Linked, with Variable Learning Disabilities and Behavior Disorders",MESH:C564505,0,,1,SYN1
+calcium-dependent protein serine/threonine phosphatase activity,GO:0004723,"Epilepsy, Temporal Lobe",MESH:D004833,1,Tacrolimus,0,
+calcium-dependent protein serine/threonine phosphatase activity,GO:0004723,"Epilepsy, Tonic-Clonic",MESH:D004830,1,Tacrolimus,0,
+calcium ion binding,GO:0005509,Cortical Dysplasia-Focal Epilepsy Syndrome,MESH:C567657,0,,1,CNTNAP2
+calcium ion binding,GO:0005509,Epilepsy,MESH:D004827,0,,4,CNTNAP2|PCDH19|SLC1A2|SPARCL1
+calcium ion binding,GO:0005509,"Epilepsy, Absence",MESH:D004832,0,,2,CACNA1A|EFHC1
+calcium ion binding,GO:0005509,"Epilepsy, Female-Restricted, with Mental Retardation",MESH:C564715,0,,1,PCDH19
+calcium ion binding,GO:0005509,"Epilepsy, Idiopathic Generalized",MESH:C562694,0,,1,CASR
+calcium ion binding,GO:0005509,"Epilepsy, Temporal Lobe",MESH:D004833,0,,1,SLIT2
+calcium ion binding,GO:0005509,"Epilepsy, Tonic-Clonic",MESH:D004830,0,,1,BCHE
+calcium ion binding,GO:0005509,"Myoclonic Epilepsy, Juvenile",MESH:D020190,0,,1,EFHC1
+calcium-release channel activity,GO:0015278,"Epilepsy, Temporal Lobe",MESH:D004833,0,,1,TRPV1
+calmodulin binding,GO:0005516,Epilepsy,MESH:D004827,0,,4,AKT1|KCNH1|KCNQ2|SCN2A
+calmodulin binding,GO:0005516,"Epilepsy, Absence",MESH:D004832,0,,1,CACNA1A
+calmodulin binding,GO:0005516,"Epilepsy, Benign Neonatal",MESH:D020936,0,,1,KCNQ2
+calmodulin binding,GO:0005516,"Epilepsy, Benign Neonatal, 3",MESH:C564274,0,,1,SCN2A
+calmodulin binding,GO:0005516,"Epilepsy, Complex Partial",MESH:D017029,0,,1,SCN3A
+calmodulin binding,GO:0005516,"Epilepsy, Temporal Lobe",MESH:D004833,0,,3,GRM4|GRM5|TRPV1
+calmodulin-dependent protein kinase activity,GO:0004683,"Epilepsy, Tonic-Clonic",MESH:D004830,1,Vincristine,0,
+cAMP binding,GO:0030552,Epilepsy,MESH:D004827,0,,1,HCN1
+cAMP-dependent protein kinase activity,GO:0004691,Epilepsy,MESH:D004827,2,Cisplatin|Pentylenetetrazole,0,
+cAMP-dependent protein kinase activity,GO:0004691,"Epilepsy, Absence",MESH:D004832,1,Pentylenetetrazole,0,
+cAMP-dependent protein kinase activity,GO:0004691,"Epilepsy, Tonic-Clonic",MESH:D004830,1,Pentylenetetrazole,0,
+cannabinoid receptor activity,GO:0004949,"Epilepsy, Temporal Lobe",MESH:D004833,0,,1,CNR1
+carbohydrate binding,GO:0030246,"EPILEPSY, EARLY-ONSET, 5, WITH OR WITHOUT DEVELOPMENTAL DELAY",OMIM:615400,0,,1,CNTN2
+carbonate dehydratase activity,GO:0004089,Epilepsy,MESH:D004827,5,Acetazolamide|Dexamethasone|Ifosfamide|Valproic Acid|Vitamin U,0,
+carbonate dehydratase activity,GO:0004089,"Epilepsy, Absence",MESH:D004832,1,Valproic Acid,0,
+carbonate dehydratase activity,GO:0004089,"Epilepsy, Complex Partial",MESH:D017029,1,Valproic Acid,0,
+carbonate dehydratase activity,GO:0004089,"Epilepsy, Generalized",MESH:D004829,1,Valproic Acid,0,
+carbonate dehydratase activity,GO:0004089,"Epilepsy, Reflex",MESH:D020195,1,Valproic Acid,0,
+carbonate dehydratase activity,GO:0004089,"Epilepsy, Rolandic",MESH:D019305,1,Valproic Acid,0,
+carbonate dehydratase activity,GO:0004089,"Epilepsy, Temporal Lobe",MESH:D004833,1,Valproic Acid,0,
+carbonate dehydratase activity,GO:0004089,"Epilepsy, Tonic-Clonic",MESH:D004830,2,Caffeine|Valproic Acid,0,
+carbonate dehydratase activity,GO:0004089,"Myoclonic Epilepsy, Juvenile",MESH:D020190,2,Acetazolamide|Valproic Acid,0,
+carboxylesterase activity,GO:0106435,"Epilepsy, Tonic-Clonic",MESH:D004830,1,Paraoxon,0,
+carboxylic acid transmembrane transporter activity,GO:0046943,Epilepsy,MESH:D004827,0,,1,ABCB1
+carboxylic ester hydrolase activity,GO:0052689,"Epilepsy, Tonic-Clonic",MESH:D004830,0,,1,BCHE
+carboxypeptidase activity,GO:0004180,"EPILEPSY, FAMILIAL TEMPORAL LOBE, 5",OMIM:614417,0,,1,CPA6
+cargo receptor activity,GO:0038024,"EPILEPSY, PROGRESSIVE MYOCLONIC, 4, WITH OR WITHOUT RENAL FAILURE",OMIM:254900,0,,1,SCARB2
+carnitine O-palmitoyltransferase activity,GO:0004095,Epilepsy,MESH:D004827,2,Epinephrine|Norepinephrine,0,
+carnitine O-palmitoyltransferase activity,GO:0004095,"Epilepsy, Tonic-Clonic",MESH:D004830,1,Epinephrine,0,
+catalase activity,GO:0004096,Epilepsy,MESH:D004827,1,Gentamicins,0,
+catalytic activity,GO:0003824,"Epilepsy, Temporal Lobe",MESH:D004833,0,,1,GRM4
+catalytic activity,GO:0003824,"Epilepsy, Tonic-Clonic",MESH:D004830,0,,1,BCHE
+C-C chemokine binding,GO:0019957,"Epilepsy, Temporal Lobe",MESH:D004833,0,,2,BDKRB1|BDKRB2
+C-C chemokine receptor activity,GO:0016493,"Epilepsy, Temporal Lobe",MESH:D004833,0,,2,BDKRB1|BDKRB2
+CCR5 chemokine receptor binding,GO:0031730,"Epilepsy, Tonic-Clonic",MESH:D004830,0,,1,NES
+cell adhesion mediator activity,GO:0098631,"EPILEPSY, EARLY-ONSET, 5, WITH OR WITHOUT DEVELOPMENTAL DELAY",OMIM:615400,0,,1,CNTN2
+cell adhesion molecule binding,GO:0050839,Epilepsy,MESH:D004827,0,,2,GRIN2A|GRIN2B
+cell adhesion molecule binding,GO:0050839,"EPILEPSY, FOCAL, WITH SPEECH DISORDER AND WITH OR WITHOUT IMPAIRED INTELLECTUAL DEVELOPMENT",OMIM:245570,0,,1,GRIN2A
+cell adhesion molecule binding,GO:0050839,"Epilepsy, Rolandic",MESH:D019305,0,,1,GRIN2A
+cell-cell adhesion mediator activity,GO:0098632,"EPILEPSY, EARLY-ONSET, 5, WITH OR WITHOUT DEVELOPMENTAL DELAY",OMIM:615400,0,,1,CNTN2
+ceramide binding,GO:0097001,Epilepsy,MESH:D004827,0,,3,CERT1|VDAC1|VDAC2
+ceramide floppase activity,GO:0099038,Epilepsy,MESH:D004827,0,,1,ABCB1
+ceramide transfer activity,GO:0120017,Epilepsy,MESH:D004827,0,,1,CERT1
+channel activity,GO:0015267,Epilepsy,MESH:D004827,2,Calcium|Carbachol,3,P2RX2|P2RX4|VDAC2
+channel activity,GO:0015267,"Epilepsy, Temporal Lobe",MESH:D004833,1,Capsaicin,2,P2RX4|P2RX7
+channel activity,GO:0015267,"Epilepsy, Tonic-Clonic",MESH:D004830,1,Bupivacaine,0,
+chaperone binding,GO:0051087,Epilepsy,MESH:D004827,0,,3,ALB|SLC12A2|TSC1
+chaperone binding,GO:0051087,"EPILEPSY, PROGRESSIVE MYOCLONIC, 4, WITH OR WITHOUT RENAL FAILURE",OMIM:254900,0,,1,SCARB2
+chaperone binding,GO:0051087,"Epilepsy, Temporal Lobe",MESH:D004833,0,,1,SLC12A2
+chemoattractant activity,GO:0042056,"Epilepsy, Temporal Lobe",MESH:D004833,0,,1,VEGFA
+chemoattractant activity,GO:0042056,"Epilepsy, Tonic-Clonic",MESH:D004830,0,,2,FGF2|NTF3
+chemokine binding,GO:0019956,"Epilepsy, Tonic-Clonic",MESH:D004830,0,,1,FGF2
+chemorepellent activity,GO:0045499,"Epilepsy, Temporal Lobe",MESH:D004833,0,,1,SLIT2
+chloride-activated potassium channel activity,GO:0070089,"Epilepsy, Frontal Lobe",MESH:D017034,0,,1,KCNT1
+chloride-activated potassium channel activity,GO:0070089,"EPILEPSY, NOCTURNAL FRONTAL LOBE, 5",OMIM:615005,0,,1,KCNT1
+chloride channel activity,GO:0005254,Epilepsy,MESH:D004827,1,Calcium,2,GABRB2|GABRB3
+chloride channel activity,GO:0005254,"Epilepsy, Absence",MESH:D004832,0,,1,GABRB3
+chloride channel activity,GO:0005254,"Epilepsy, Idiopathic Generalized",MESH:C562694,0,,2,CLCN2|GABRD
+chloride channel activity,GO:0005254,"Myoclonic Epilepsy, Juvenile",MESH:D020190,0,,1,GABRA1
+chloride channel regulator activity,GO:0017081,"Epilepsy, Generalized",MESH:D004829,0,,1,CHRNA7
+chloride channel regulator activity,GO:0017081,"Epilepsy, Idiopathic Generalized",MESH:C562694,0,,1,CLCN2
+chloride channel regulator activity,GO:0017081,"Epilepsy, Temporal Lobe",MESH:D004833,0,,1,TRPV1
+chloride:monoatomic cation symporter activity,GO:0015377,Epilepsy,MESH:D004827,0,,1,SLC12A2
+chloride:monoatomic cation symporter activity,GO:0015377,"Epilepsy, Temporal Lobe",MESH:D004833,0,,1,SLC12A2
+chloride transmembrane transporter activity,GO:0015108,Epilepsy,MESH:D004827,0,,2,SLC12A5|SLC1A1
+chloride transmembrane transporter activity,GO:0015108,"Epilepsy, Idiopathic Generalized",MESH:C562694,0,,1,SLC12A5
+chloride transmembrane transporter activity,GO:0015108,"Epilepsy, Temporal Lobe",MESH:D004833,0,,2,SLC12A5|SLC1A1
+cholesterol binding,GO:0015485,Epilepsy,MESH:D004827,0,,2,VDAC1|VDAC2
+cholesterol binding,GO:0015485,"EPILEPSY, PROGRESSIVE MYOCLONIC, 4, WITH OR WITHOUT RENAL FAILURE",OMIM:254900,0,,1,SCARB2
+choline binding,GO:0033265,"Epilepsy, Tonic-Clonic",MESH:D004830,0,,1,BCHE
+cholinesterase activity,GO:0004104,Epilepsy,MESH:D004827,2,Atropine|Magnesium,0,
+cholinesterase activity,GO:0004104,"Epilepsy, Tonic-Clonic",MESH:D004830,4,Atropine|Paraoxon|pralidoxime|Sarin,1,BCHE
+chromatin binding,GO:0003682,Epilepsy,MESH:D004827,1,Cisplatin,9,ASXL3|AUTS2|CHD2|FOS|HNRNPU|MECP2|MEF2C|POLG|SMC1A
+chromatin DNA binding,GO:0031490,Epilepsy,MESH:D004827,0,,2,HNRNPU|MECP2
+cis-regulatory region sequence-specific DNA binding,GO:0000987,Epilepsy,MESH:D004827,0,,1,MEF2C
+cobalt ion binding,GO:0050897,Epilepsy,MESH:D004827,0,,1,P2RX2
+collagen binding,GO:0005518,Epilepsy,MESH:D004827,0,,1,SPARCL1
+copper ion binding,GO:0005507,Epilepsy,MESH:D004827,0,,3,ALB|P2RX2|P2RX4
+copper ion binding,GO:0005507,"Epilepsy, Temporal Lobe",MESH:D004833,0,,2,P2RX4|P2RX7
+coreceptor activity,GO:0015026,"Epilepsy, Temporal Lobe",MESH:D004833,0,,1,KDR
+corticotropin-releasing hormone receptor 1 binding,GO:0051430,Epilepsy,MESH:D004827,0,,1,GNAO1
+creatine kinase activity,GO:0004111,Epilepsy,MESH:D004827,3,Ciprofloxacin|Dexamethasone|Methylmercury Compounds,0,
+creatine kinase activity,GO:0004111,"Epilepsy, Absence",MESH:D004832,1,Doxorubicin,0,
+creatine kinase activity,GO:0004111,"Epilepsy, Tonic-Clonic",MESH:D004830,1,Ciprofloxacin,0,
+CTPase activity,GO:0043273,Epilepsy,MESH:D004827,0,,1,DDX3X
+cyclin-dependent protein serine/threonine kinase activity,GO:0004693,Epilepsy,MESH:D004827,0,,1,CDKL5
+cysteine-S-conjugate beta-lyase activity,GO:0047804,Epilepsy,MESH:D004827,1,Aminooxyacetic Acid,0,
+cysteine transmembrane transporter activity,GO:0033229,Epilepsy,MESH:D004827,0,,2,SLC1A1|SLC1A2
+cysteine transmembrane transporter activity,GO:0033229,"Epilepsy, Temporal Lobe",MESH:D004833,0,,1,SLC1A1
+cysteine-type deubiquitinase activity,GO:0004843,Epilepsy,MESH:D004827,0,,1,ALG13
+cysteine-type endopeptidase activator activity involved in apoptotic process,GO:0008656,"Epilepsy, Tonic-Clonic",MESH:D004830,0,,1,NGF
+cysteine-type endopeptidase activity,GO:0004197,Epilepsy,MESH:D004827,1,Dronabinol,0,
+cysteine-type endopeptidase activity,GO:0004197,"Epilepsy, Absence",MESH:D004832,1,Doxorubicin,0,
+cysteine-type endopeptidase activity,GO:0004197,"Epilepsy, Temporal Lobe",MESH:D004833,1,Capsaicin,0,
+cysteine-type endopeptidase activity,GO:0004197,"Epilepsy, Tonic-Clonic",MESH:D004830,1,Ethanol,0,
+cysteine-type endopeptidase activity involved in apoptotic process,GO:0097153,Epilepsy,MESH:D004827,2,Folic Acid|Ketoconazole,0,
+cysteine-type endopeptidase activity involved in apoptotic process,GO:0097153,"Epilepsy, Tonic-Clonic",MESH:D004830,2,Chloroquine|Mebendazole,0,
+cysteine-type peptidase activity,GO:0008234,Epilepsy,MESH:D004827,0,,1,ALG13
+cysteine-type peptidase activity,GO:0008234,"Epilepsy, Tonic-Clonic",MESH:D004830,2,Dizocilpine Maleate|Methylphenidate,0,
+cytochrome-c oxidase activity,GO:0004129,Epilepsy,MESH:D004827,3,Cisplatin|Dronabinol|Methylmercury Compounds,0,
+cytochrome-c oxidase activity,GO:0004129,"Epilepsy, Absence",MESH:D004832,1,Doxorubicin,0,
+cytochrome-c oxidase activity,GO:0004129,"Epilepsy, Temporal Lobe",MESH:D004833,0,,1,COX3
+cytochrome-c oxidase activity,GO:0004129,"Epilepsy, Tonic-Clonic",MESH:D004830,4,Acetaminophen|Chloroquine|Deferoxamine|Ethanol,0,
+cytokine activity,GO:0005125,Epilepsy,MESH:D004827,0,,1,TGFB1
+cytokine activity,GO:0005125,"Epilepsy, Temporal Lobe",MESH:D004833,0,,1,VEGFA
+cytokine activity,GO:0005125,"Epilepsy, Tonic-Clonic",MESH:D004830,0,,1,FGF2
+cytoskeletal protein binding,GO:0008092,Epilepsy,MESH:D004827,0,,1,DYRK1A
+cytoskeletal protein-membrane anchor activity,GO:0106006,"Epilepsy, X-Linked, with Variable Learning Disabilities and Behavior Disorders",MESH:C564505,0,,1,SYN1
+D2 dopamine receptor binding,GO:0031749,Epilepsy,MESH:D004827,0,,2,DNM1|GRIN2B
+D-alanine:2-oxoglutarate aminotransferase activity,GO:0047810,"Epilepsy, Tonic-Clonic",MESH:D004830,1,Ethanol,0,
+"D-arabinono-1,4-lactone oxidase activity",GO:0003885,"Epilepsy, Nocturnal Frontal Lobe, Type 4",MESH:C563679,0,,1,CHRNA2
+D-aspartate transmembrane transporter activity,GO:0140010,Epilepsy,MESH:D004827,0,,1,SLC1A1
+D-aspartate transmembrane transporter activity,GO:0140010,"Epilepsy, Temporal Lobe",MESH:D004833,0,,1,SLC1A1
+death receptor agonist activity,GO:0038177,"Epilepsy, Tonic-Clonic",MESH:D004830,0,,1,NGF
+delayed rectifier potassium channel activity,GO:0005251,Epilepsy,MESH:D004827,0,,1,KCNH1
+delayed rectifier potassium channel activity,GO:0005251,"Epilepsy, Temporal Lobe",MESH:D004833,0,,1,KCNC4
+deubiquitinase activator activity,GO:0035800,Epilepsy,MESH:D004827,0,,1,TGFB1
+deubiquitinase activity,GO:0101005,Epilepsy,MESH:D004827,0,,1,STAMBP
+D-glutamyltransferase activity,GO:0047823,Epilepsy,MESH:D004827,1,Folic Acid,0,
+D-glutamyltransferase activity,GO:0047823,"Epilepsy, Absence",MESH:D004832,1,Doxorubicin,0,
+diazepam binding,GO:0050809,"Myoclonic Epilepsy, Juvenile",MESH:D020190,0,,1,GABRA1
+dimethylargininase activity,GO:0016403,Epilepsy,MESH:D004827,1,Folic Acid,0,
+DNA binding,GO:0003677,Epilepsy,MESH:D004827,0,,15,ALB|ARID1B|ASXL3|CHD2|DDX3X|FOS|FOSB|FOXG1|HNRNPU|IQSEC2|MECP2|MEF2C|POLG|PURA|SMC1A
+DNA binding,GO:0003677,"Epilepsy, Absence",MESH:D004832,0,,1,JRK
+DNA binding,GO:0003677,"Epilepsy, Generalized",MESH:D004829,0,,1,JRK
+DNA binding,GO:0003677,"Epilepsy, Temporal Lobe",MESH:D004833,0,,1,VDR
+DNA binding,GO:0003677,"Myoclonic Epilepsy, Juvenile",MESH:D020190,0,,1,JRK
+DNA binding,GO:0003677,"NEURODEVELOPMENTAL DISORDER WITH EPILEPSY, CATARACTS, FEEDING DIFFICULTIES, AND DELAYED BRAIN MYELINATION",OMIM:617393,0,,1,NACC1
+DNA binding,GO:0003677,Pyridoxine-dependent epilepsy,MESH:C536254,0,,1,PLPBP
+"DNA-binding transcription activator activity, RNA polymerase II-specific",GO:0001228,Epilepsy,MESH:D004827,0,,4,FOS|FOSB|MEF2C|P2RX2
+DNA-binding transcription factor activity,GO:0003700,Epilepsy,MESH:D004827,0,,7,ARID1B|FOS|FOSB|FOXG1|MECP2|MEF2C|PURA
+DNA-binding transcription factor activity,GO:0003700,"Epilepsy, Temporal Lobe",MESH:D004833,0,,1,VDR
+"DNA-binding transcription factor activity, RNA polymerase II-specific",GO:0000981,Epilepsy,MESH:D004827,0,,5,FOS|FOSB|FOXG1|MEF2C|PURA
+"DNA-binding transcription factor activity, RNA polymerase II-specific",GO:0000981,"Epilepsy, Temporal Lobe",MESH:D004833,0,,1,VDR
+"DNA-binding transcription factor activity, RNA polymerase II-specific",GO:0000981,"NEURODEVELOPMENTAL DISORDER WITH EPILEPSY, CATARACTS, FEEDING DIFFICULTIES, AND DELAYED BRAIN MYELINATION",OMIM:617393,0,,1,NACC1
+DNA-binding transcription factor binding,GO:0140297,Epilepsy,MESH:D004827,0,,3,FLNA|MEF2C|PURA
+"DNA-binding transcription repressor activity, RNA polymerase II-specific",GO:0001227,Epilepsy,MESH:D004827,0,,2,FOXG1|PURA
+"DNA-binding transcription repressor activity, RNA polymerase II-specific",GO:0001227,"NEURODEVELOPMENTAL DISORDER WITH EPILEPSY, CATARACTS, FEEDING DIFFICULTIES, AND DELAYED BRAIN MYELINATION",OMIM:617393,0,,1,NACC1
+DNA-dependent protein kinase activity,GO:0004677,Epilepsy,MESH:D004827,0,,2,AKT1|ERN1
+DNA-directed DNA polymerase activity,GO:0003887,Epilepsy,MESH:D004827,0,,1,POLG
+DNA helicase activity,GO:0003678,Epilepsy,MESH:D004827,0,,1,DDX3X
+DNA-methyltransferase activity,GO:0009008,Epilepsy,MESH:D004827,2,Folic Acid|Plant Extracts,0,
+DNA-methyltransferase activity,GO:0009008,"Epilepsy, Temporal Lobe",MESH:D004833,1,Plant Extracts,0,
+DNA-methyltransferase activity,GO:0009008,"Epilepsy, Tonic-Clonic",MESH:D004830,1,Plant Extracts,0,
+DNA topoisomerase binding,GO:0044547,Epilepsy,MESH:D004827,1,Etoposide,0,
+"DNA topoisomerase type II (double strand cut, ATP-hydrolyzing) activity",GO:0003918,Epilepsy,MESH:D004827,1,Etoposide,0,
+double-stranded DNA binding,GO:0003690,Epilepsy,MESH:D004827,0,,4,FOS|FOSB|HNRNPU|PURA
+double-stranded DNA helicase activity,GO:0036121,Epilepsy,MESH:D004827,0,,1,CHD2
+double-stranded methylated DNA binding,GO:0010385,Epilepsy,MESH:D004827,0,,1,MECP2
+double-stranded RNA binding,GO:0003725,Epilepsy,MESH:D004827,0,,1,HNRNPU
+double-stranded telomeric DNA binding,GO:0003691,Epilepsy,MESH:D004827,0,,1,PURA
+D-sorbitol dehydrogenase (acceptor) activity,GO:0047833,Epilepsy,MESH:D004827,2,Valproic Acid|Vitamin U,0,
+D-sorbitol dehydrogenase (acceptor) activity,GO:0047833,"Epilepsy, Absence",MESH:D004832,1,Valproic Acid,0,
+D-sorbitol dehydrogenase (acceptor) activity,GO:0047833,"Epilepsy, Complex Partial",MESH:D017029,1,Valproic Acid,0,
+D-sorbitol dehydrogenase (acceptor) activity,GO:0047833,"Epilepsy, Generalized",MESH:D004829,1,Valproic Acid,0,
+D-sorbitol dehydrogenase (acceptor) activity,GO:0047833,"Epilepsy, Reflex",MESH:D020195,1,Valproic Acid,0,
+D-sorbitol dehydrogenase (acceptor) activity,GO:0047833,"Epilepsy, Rolandic",MESH:D019305,1,Valproic Acid,0,
+D-sorbitol dehydrogenase (acceptor) activity,GO:0047833,"Epilepsy, Temporal Lobe",MESH:D004833,1,Valproic Acid,0,
+D-sorbitol dehydrogenase (acceptor) activity,GO:0047833,"Epilepsy, Tonic-Clonic",MESH:D004830,1,Valproic Acid,0,
+D-sorbitol dehydrogenase (acceptor) activity,GO:0047833,"Myoclonic Epilepsy, Juvenile",MESH:D020190,1,Valproic Acid,0,
+efflux transmembrane transporter activity,GO:0015562,Epilepsy,MESH:D004827,2,Cloxacillin|Erythromycin,1,ABCB1
+efflux transmembrane transporter activity,GO:0015562,"Epilepsy, Tonic-Clonic",MESH:D004830,1,Erythromycin,0,
+electron transfer activity,GO:0009055,"Epilepsy, Temporal Lobe",MESH:D004833,0,,1,COX3
+endonuclease activity,GO:0004519,Epilepsy,MESH:D004827,0,,1,ERN1
+endopeptidase inhibitor activity,GO:0004866,Epilepsy,MESH:D004827,0,,1,TXNRD1
+endoribonuclease activity,GO:0004521,Epilepsy,MESH:D004827,0,,1,ERN1
+enterobactin binding,GO:1903981,Epilepsy,MESH:D004827,0,,1,ALB
+enzyme binding,GO:0019899,Cortical Dysplasia-Focal Epilepsy Syndrome,MESH:C567657,0,,1,CNTNAP2
+enzyme binding,GO:0019899,Epilepsy,MESH:D004827,0,,6,AKT1|ALB|CNTNAP2|ERN1|MECP2|TGFB1
+enzyme binding,GO:0019899,"Epilepsy, Familial Adult Myoclonic, 3",MESH:C567098,0,,1,MARCHF6
+enzyme binding,GO:0019899,"EPILEPSY, PROGRESSIVE MYOCLONIC, 4, WITH OR WITHOUT RENAL FAILURE",OMIM:254900,0,,1,SCARB2
+enzyme binding,GO:0019899,"Epilepsy, Tonic-Clonic",MESH:D004830,0,,1,BCHE
+epidermal growth factor receptor activity,GO:0005006,"Epilepsy, Temporal Lobe",MESH:D004833,0,,2,KDR|TEK
+epidermal growth factor receptor binding,GO:0005154,"Epilepsy, Tonic-Clonic",MESH:D004830,0,,1,HBEGF
+epinephrine binding,GO:0051379,Epilepsy,MESH:D004827,0,,1,ADRA2A
+estradiol 17-beta-dehydrogenase activity,GO:0004303,"Epilepsy, Tonic-Clonic",MESH:D004830,1,Chlorpromazine,0,
+eukaryotic initiation factor 4E binding,GO:0008190,Epilepsy,MESH:D004827,0,,1,DDX3X
+eukaryotic translation initiation factor 2alpha kinase activity,GO:0004694,Epilepsy,MESH:D004827,0,,2,AKT1|ERN1
+excitatory extracellular ligand-gated monoatomic ion channel activity,GO:0005231,"Epilepsy, Temporal Lobe",MESH:D004833,0,,1,TRPV1
+exogenous protein binding,GO:0140272,Epilepsy,MESH:D004827,0,,1,ALB
+exonuclease activity,GO:0004527,Epilepsy,MESH:D004827,0,,1,POLG
+extracellular ligand-gated monoatomic ion channel activity,GO:0005230,Epilepsy,MESH:D004827,0,,2,GABRB2|GABRB3
+extracellular ligand-gated monoatomic ion channel activity,GO:0005230,"Epilepsy, Absence",MESH:D004832,0,,1,GABRB3
+extracellular ligand-gated monoatomic ion channel activity,GO:0005230,"Epilepsy, Frontal Lobe",MESH:D017034,0,,2,CHRNA4|CHRNB2
+extracellular ligand-gated monoatomic ion channel activity,GO:0005230,"Epilepsy, Generalized",MESH:D004829,0,,1,CHRNA7
+extracellular ligand-gated monoatomic ion channel activity,GO:0005230,"Epilepsy, Idiopathic Generalized",MESH:C562694,0,,1,GABRD
+extracellular ligand-gated monoatomic ion channel activity,GO:0005230,"Epilepsy, Nocturnal Frontal Lobe, Type 1",MESH:C563930,0,,1,CHRNA4
+extracellular ligand-gated monoatomic ion channel activity,GO:0005230,"Epilepsy, Nocturnal Frontal Lobe, Type 3",MESH:C565334,0,,1,CHRNB2
+extracellular ligand-gated monoatomic ion channel activity,GO:0005230,"Epilepsy, Nocturnal Frontal Lobe, Type 4",MESH:C563679,0,,1,CHRNA2
+extracellular ligand-gated monoatomic ion channel activity,GO:0005230,"Epilepsy, Temporal Lobe",MESH:D004833,0,,1,TRPV1
+extracellular ligand-gated monoatomic ion channel activity,GO:0005230,"Myoclonic Epilepsy, Juvenile",MESH:D020190,0,,1,GABRA1
+extracellularly ATP-gated monoatomic cation channel activity,GO:0004931,Epilepsy,MESH:D004827,0,,2,P2RX2|P2RX4
+extracellularly ATP-gated monoatomic cation channel activity,GO:0004931,"Epilepsy, Temporal Lobe",MESH:D004833,0,,2,P2RX4|P2RX7
+extracellularly glutamate-gated ion channel activity,GO:0005234,Epilepsy,MESH:D004827,0,,2,GRIN2A|GRIN2B
+extracellularly glutamate-gated ion channel activity,GO:0005234,"EPILEPSY, FOCAL, WITH SPEECH DISORDER AND WITH OR WITHOUT IMPAIRED INTELLECTUAL DEVELOPMENT",OMIM:245570,0,,1,GRIN2A
+extracellularly glutamate-gated ion channel activity,GO:0005234,"Epilepsy, Rolandic",MESH:D019305,0,,1,GRIN2A
+extracellular matrix binding,GO:0050840,Epilepsy,MESH:D004827,0,,1,SPARCL1
+extracellular matrix binding,GO:0050840,"Epilepsy, Temporal Lobe",MESH:D004833,0,,1,VEGFA
+extracellular matrix structural constituent,GO:0005201,"EPILEPSY, FAMILIAL TEMPORAL LOBE, 1",OMIM:600512,0,,1,RELN
+extracellular matrix structural constituent,GO:0005201,"EPILEPSY, FAMILIAL TEMPORAL LOBE, 7",OMIM:616436,0,,1,RELN
+extracellular matrix structural constituent,GO:0005201,"Epilepsy, Temporal Lobe",MESH:D004833,0,,1,SLIT2
+extracellular matrix structural constituent,GO:0005201,"Rolandic Epilepsy, Mental Retardation, and Speech Dyspraxia, X-Linked",MESH:C564467,0,,1,SRPX2
+FAD binding,GO:0071949,Epilepsy,MESH:D004827,0,,1,TXNRD1
+FAD binding,GO:0071949,"EPILEPSY, FAMILIAL TEMPORAL LOBE, 1",OMIM:600512,0,,1,MICAL1
+FAD binding,GO:0071949,"Epilepsy, Nocturnal Frontal Lobe, Type 4",MESH:C563679,0,,1,CHRNA2
+fatty acid amide hydrolase activity,GO:0017064,SPINAL MUSCULAR ATROPHY WITH PROGRESSIVE MYOCLONIC EPILEPSY,OMIM:159950,0,,1,ASAH1
+fatty acid binding,GO:0005504,Epilepsy,MESH:D004827,0,,1,ALB
+Fc-gamma receptor I complex binding,GO:0034988,Epilepsy,MESH:D004827,0,,1,FLNA
+ferroxidase activity,GO:0004322,"Epilepsy, Tonic-Clonic",MESH:D004830,1,Ethanol,0,
+fibroblast growth factor receptor activity,GO:0005007,"Epilepsy, Temporal Lobe",MESH:D004833,0,,2,KDR|TEK
+fibroblast growth factor receptor binding,GO:0005104,"Epilepsy, Tonic-Clonic",MESH:D004830,0,,1,FGF2
+fibronectin binding,GO:0001968,"Epilepsy, Temporal Lobe",MESH:D004833,0,,1,VEGFA
+flavin adenine dinucleotide binding,GO:0050660,Epilepsy,MESH:D004827,0,,1,TXNRD1
+floppase activity,GO:0140328,Epilepsy,MESH:D004827,0,,1,ABCB1
+folic acid binding,GO:0005542,Epilepsy,MESH:D004827,0,,1,FOLR1
+folic acid receptor activity,GO:0061714,Epilepsy,MESH:D004827,0,,1,FOLR1
+follicle-stimulating hormone receptor activity,GO:0004963,"Epilepsy, Temporal Lobe",MESH:D004833,0,,1,SLIT2
+forked DNA-dependent helicase activity,GO:0061749,Epilepsy,MESH:D004827,0,,1,CHD2
+four-way junction DNA binding,GO:0000400,Epilepsy,MESH:D004827,0,,1,MECP2
+four-way junction helicase activity,GO:0009378,Epilepsy,MESH:D004827,0,,1,CHD2
+frizzled binding,GO:0005109,"Mental Retardation, X-Linked, with Epilepsy",MESH:C564516,0,,1,ATP6AP2
+"fructose 1,6-bisphosphate 1-phosphatase activity",GO:0042132,Epilepsy,MESH:D004827,1,Cisplatin,0,
+GABA-A receptor activity,GO:0004890,Epilepsy,MESH:D004827,0,,2,GABRB2|GABRB3
+GABA-A receptor activity,GO:0004890,"Epilepsy, Absence",MESH:D004832,0,,1,GABRB3
+GABA-A receptor activity,GO:0004890,"Epilepsy, Idiopathic Generalized",MESH:C562694,0,,1,GABRD
+GABA-A receptor activity,GO:0004890,"Myoclonic Epilepsy, Juvenile",MESH:D020190,0,,1,GABRA1
+GABA-gated chloride ion channel activity,GO:0022851,Epilepsy,MESH:D004827,0,,2,GABRB2|GABRB3
+GABA-gated chloride ion channel activity,GO:0022851,"Epilepsy, Absence",MESH:D004832,0,,1,GABRB3
+GABA-gated chloride ion channel activity,GO:0022851,"Myoclonic Epilepsy, Juvenile",MESH:D020190,0,,1,GABRA1
+GABA receptor activity,GO:0016917,Epilepsy,MESH:D004827,0,,1,GABRB2
+GABA receptor activity,GO:0016917,"Myoclonic Epilepsy, Juvenile",MESH:D020190,0,,1,GABRA1
+GABA receptor binding,GO:0050811,Epilepsy,MESH:D004827,1,gamma-Aminobutyric Acid,0,
+galanin receptor activity,GO:0004966,"EPILEPSY, FAMILIAL TEMPORAL LOBE, 8",OMIM:616461,0,,1,GAL
+galanin receptor binding,GO:0031763,"EPILEPSY, FAMILIAL TEMPORAL LOBE, 8",OMIM:616461,0,,1,GAL
+gamma-aminobutyric acid:sodium:chloride symporter activity,GO:0005332,Epilepsy,MESH:D004827,0,,1,SLC6A1
+gamma-aminobutyric acid:sodium:chloride symporter activity,GO:0005332,MYOCLONIC-ATONIC EPILEPSY,OMIM:616421,0,,1,SLC6A1
+gamma-aminobutyric acid transmembrane transporter activity,GO:0015185,Epilepsy,MESH:D004827,0,,1,SLC6A1
+gamma-aminobutyric acid transmembrane transporter activity,GO:0015185,MYOCLONIC-ATONIC EPILEPSY,OMIM:616421,0,,1,SLC6A1
+gamma-tubulin binding,GO:0043015,Epilepsy,MESH:D004827,0,,1,DDX3X
+gap junction channel activity,GO:0005243,"Epilepsy, Tonic-Clonic",MESH:D004830,1,Hexachlorocyclohexane,0,
+GDP binding,GO:0019003,Epilepsy,MESH:D004827,0,,2,DNM1|GNAO1
+Gi/o-coupled serotonin receptor activity,GO:0001586,Epilepsy,MESH:D004827,1,Dronabinol,0,
+glucokinase activity,GO:0004340,Epilepsy,MESH:D004827,1,Plant Extracts,0,
+glucokinase activity,GO:0004340,"Epilepsy, Absence",MESH:D004832,1,Lithium Carbonate,0,
+glucokinase activity,GO:0004340,"Epilepsy, Temporal Lobe",MESH:D004833,1,Plant Extracts,0,
+glucokinase activity,GO:0004340,"Epilepsy, Tonic-Clonic",MESH:D004830,2,Lithium Carbonate|Plant Extracts,0,
+glucose-6-phosphatase activity,GO:0004346,Epilepsy,MESH:D004827,2,Cisplatin|Plant Extracts,0,
+glucose-6-phosphatase activity,GO:0004346,"Epilepsy, Temporal Lobe",MESH:D004833,1,Plant Extracts,0,
+glucose-6-phosphatase activity,GO:0004346,"Epilepsy, Tonic-Clonic",MESH:D004830,1,Plant Extracts,0,
+glucose-6-phosphate dehydrogenase activity,GO:0004345,Epilepsy,MESH:D004827,1,Plant Extracts,0,
+glucose-6-phosphate dehydrogenase activity,GO:0004345,"Epilepsy, Temporal Lobe",MESH:D004833,1,Plant Extracts,0,
+glucose-6-phosphate dehydrogenase activity,GO:0004345,"Epilepsy, Tonic-Clonic",MESH:D004830,1,Plant Extracts,0,
+glutamate binding,GO:0016595,Epilepsy,MESH:D004827,0,,4,GRIN2A|GRIN2B|SLC1A1|SLC1A3
+glutamate binding,GO:0016595,"EPILEPSY, FOCAL, WITH SPEECH DISORDER AND WITH OR WITHOUT IMPAIRED INTELLECTUAL DEVELOPMENT",OMIM:245570,0,,1,GRIN2A
+glutamate binding,GO:0016595,"Epilepsy, Rolandic",MESH:D019305,0,,1,GRIN2A
+glutamate binding,GO:0016595,"Epilepsy, Temporal Lobe",MESH:D004833,0,,1,SLC1A1
+glutamate binding,GO:0016595,"Epilepsy, Tonic-Clonic",MESH:D004830,1,Ethanol,0,
+glutamate decarboxylase activity,GO:0004351,Epilepsy,MESH:D004827,1,trimethyltin chloride,0,
+glutamate-gated calcium ion channel activity,GO:0022849,Epilepsy,MESH:D004827,0,,2,GRIN2A|GRIN2B
+glutamate-gated calcium ion channel activity,GO:0022849,"EPILEPSY, FOCAL, WITH SPEECH DISORDER AND WITH OR WITHOUT IMPAIRED INTELLECTUAL DEVELOPMENT",OMIM:245570,0,,1,GRIN2A
+glutamate-gated calcium ion channel activity,GO:0022849,"Epilepsy, Rolandic",MESH:D019305,0,,1,GRIN2A
+glutamate receptor activity,GO:0008066,Epilepsy,MESH:D004827,0,,1,GRM1
+glutamate receptor activity,GO:0008066,"Epilepsy, Temporal Lobe",MESH:D004833,0,,5,GRM1|GRM2|GRM3|GRM4|GRM5
+glutamate receptor binding,GO:0035254,Epilepsy,MESH:D004827,0,,2,GRIN2A|GRIN2B
+glutamate receptor binding,GO:0035254,"EPILEPSY, FOCAL, WITH SPEECH DISORDER AND WITH OR WITHOUT IMPAIRED INTELLECTUAL DEVELOPMENT",OMIM:245570,0,,1,GRIN2A
+glutamate receptor binding,GO:0035254,"Epilepsy, Rolandic",MESH:D019305,0,,1,GRIN2A
+glutamate:sodium symporter activity,GO:0015501,Epilepsy,MESH:D004827,0,,3,SLC1A1|SLC1A2|SLC1A3
+glutamate:sodium symporter activity,GO:0015501,"Epilepsy, Temporal Lobe",MESH:D004833,0,,1,SLC1A1
+glutathione-disulfide reductase (NADPH) activity,GO:0004362,Epilepsy,MESH:D004827,0,,1,TXNRD1
+glutathione hydrolase activity,GO:0036374,Epilepsy,MESH:D004827,1,"Cilastatin, Imipenem Drug Combination",0,
+glutathione hydrolase activity,GO:0036374,"Epilepsy, Absence",MESH:D004832,1,"Cilastatin, Imipenem Drug Combination",0,
+glutathione hydrolase activity,GO:0036374,"Epilepsy, Tonic-Clonic",MESH:D004830,1,"Cilastatin, Imipenem Drug Combination",0,
+glutathione peroxidase activity,GO:0004602,Epilepsy,MESH:D004827,24,"Calcium|Cilastatin, Imipenem Drug Combination|Cisplatin|Clozapine|Dexamethasone|Dextroamphetamine|Diazepam|Folic Acid|Gentamicins|Ifosfamide|Kainic Acid|Ketamine|Lithium|Lithium Chloride|Methotrexate|Methylmercury Compounds|Morphine|Pentylenetetrazole|Phenobarbital|Plant Extracts|Propofol|Valproic Acid|Vitamin B 6|Vitamin U",1,GPX1
+glutathione peroxidase activity,GO:0004602,"Epilepsy, Absence",MESH:D004832,7,"Cilastatin, Imipenem Drug Combination|Diazepam|Doxorubicin|Lithium Carbonate|Pentylenetetrazole|Phenobarbital|Valproic Acid",0,
+glutathione peroxidase activity,GO:0004602,"Epilepsy, Complex Partial",MESH:D017029,5,Clozapine|Diazepam|Methotrexate|Phenobarbital|Valproic Acid,0,
+glutathione peroxidase activity,GO:0004602,"Epilepsy, Generalized",MESH:D004829,5,Clozapine|Diazepam|Phenobarbital|Propofol|Valproic Acid,0,
+glutathione peroxidase activity,GO:0004602,"Epilepsy, Post-Traumatic",MESH:D004834,1,Kainic Acid,0,
+glutathione peroxidase activity,GO:0004602,"Epilepsy, Reflex",MESH:D020195,1,Valproic Acid,0,
+glutathione peroxidase activity,GO:0004602,"Epilepsy, Rolandic",MESH:D019305,1,Valproic Acid,0,
+glutathione peroxidase activity,GO:0004602,"Epilepsy, Temporal Lobe",MESH:D004833,7,Kainic Acid|Lithium|Lithium Chloride|Methotrexate|Phenobarbital|Plant Extracts|Valproic Acid,0,
+glutathione peroxidase activity,GO:0004602,"Epilepsy, Tonic-Clonic",MESH:D004830,24,"Acetaminophen|Aluminum|Bupivacaine|Caffeine|Chloroquine|Cilastatin, Imipenem Drug Combination|Clozapine|Deferoxamine|Diazepam|Diclofenac|Ephedrine|Ethanol|Lithium|Lithium Carbonate|Lithium Chloride|Methamphetamine|Methotrexate|Morphine|Pentylenetetrazole|Phenobarbital|Plant Extracts|Propofol|Valproic Acid|Vincristine",0,
+glutathione peroxidase activity,GO:0004602,"Myoclonic Epilepsy, Juvenile",MESH:D020190,1,Valproic Acid,0,
+glutathione transferase activity,GO:0004364,Epilepsy,MESH:D004827,15,Calcium|Ciprofloxacin|Cisplatin|Dexamethasone|Folic Acid|Gentamicins|Methotrexate|Methylmercury Compounds|Morphine|Pentylenetetrazole|Phenobarbital|Plant Extracts|Valproic Acid|Vitamin B 12|Vitamin U,0,
+glutathione transferase activity,GO:0004364,"Epilepsy, Absence",MESH:D004832,5,Doxorubicin|Lithium Carbonate|Pentylenetetrazole|Phenobarbital|Valproic Acid,0,
+glutathione transferase activity,GO:0004364,"Epilepsy, Complex Partial",MESH:D017029,3,Methotrexate|Phenobarbital|Valproic Acid,0,
+glutathione transferase activity,GO:0004364,"Epilepsy, Generalized",MESH:D004829,2,Phenobarbital|Valproic Acid,0,
+glutathione transferase activity,GO:0004364,"Epilepsy, Reflex",MESH:D020195,1,Valproic Acid,0,
+glutathione transferase activity,GO:0004364,"Epilepsy, Rolandic",MESH:D019305,1,Valproic Acid,0,
+glutathione transferase activity,GO:0004364,"Epilepsy, Temporal Lobe",MESH:D004833,4,Methotrexate|Phenobarbital|Plant Extracts|Valproic Acid,0,
+glutathione transferase activity,GO:0004364,"Epilepsy, Tonic-Clonic",MESH:D004830,12,Acetaminophen|Buspirone|Caffeine|Ciprofloxacin|Ethanol|Lithium Carbonate|Methotrexate|Morphine|Pentylenetetrazole|Phenobarbital|Plant Extracts|Valproic Acid,0,
+glutathione transferase activity,GO:0004364,"Myoclonic Epilepsy, Juvenile",MESH:D020190,1,Valproic Acid,0,
+glycine binding,GO:0016594,Epilepsy,MESH:D004827,0,,1,GRIN2B
+glycine N-benzoyltransferase activity,GO:0047962,Epilepsy,MESH:D004827,1,Phenobarbital,0,
+glycine N-benzoyltransferase activity,GO:0047962,"Epilepsy, Absence",MESH:D004832,1,Phenobarbital,0,
+glycine N-benzoyltransferase activity,GO:0047962,"Epilepsy, Complex Partial",MESH:D017029,1,Phenobarbital,0,
+glycine N-benzoyltransferase activity,GO:0047962,"Epilepsy, Generalized",MESH:D004829,1,Phenobarbital,0,
+glycine N-benzoyltransferase activity,GO:0047962,"Epilepsy, Temporal Lobe",MESH:D004833,1,Phenobarbital,0,
+glycine N-benzoyltransferase activity,GO:0047962,"Epilepsy, Tonic-Clonic",MESH:D004830,1,Phenobarbital,0,
+glycogen phosphorylase activity,GO:0008184,Epilepsy,MESH:D004827,1,Plant Extracts,0,
+glycogen phosphorylase activity,GO:0008184,"Epilepsy, Absence",MESH:D004832,1,Lithium Carbonate,0,
+glycogen phosphorylase activity,GO:0008184,"Epilepsy, Temporal Lobe",MESH:D004833,1,Plant Extracts,0,
+glycogen phosphorylase activity,GO:0008184,"Epilepsy, Tonic-Clonic",MESH:D004830,2,Lithium Carbonate|Plant Extracts,0,
+glycogen (starch) synthase activity,GO:0004373,Epilepsy,MESH:D004827,1,Plant Extracts,0,
+glycogen (starch) synthase activity,GO:0004373,"Epilepsy, Absence",MESH:D004832,1,Lithium Carbonate,0,
+glycogen (starch) synthase activity,GO:0004373,"Epilepsy, Temporal Lobe",MESH:D004833,1,Plant Extracts,0,
+glycogen (starch) synthase activity,GO:0004373,"Epilepsy, Tonic-Clonic",MESH:D004830,2,Lithium Carbonate|Plant Extracts,0,
+glycosyltransferase activity,GO:0016757,Amish Infantile Epilepsy Syndrome,MESH:C563799,0,,1,ST3GAL5
+GPI-linked ephrin receptor activity,GO:0005004,"Epilepsy, Temporal Lobe",MESH:D004833,0,,2,KDR|TEK
+G protein activity,GO:0003925,Epilepsy,MESH:D004827,0,,1,GNAO1
+G-protein alpha-subunit binding,GO:0001965,Epilepsy,MESH:D004827,0,,1,OPRM1
+G-protein beta/gamma-subunit complex binding,GO:0031683,Epilepsy,MESH:D004827,0,,1,GNAO1
+G-protein beta-subunit binding,GO:0031681,Epilepsy,MESH:D004827,0,,1,OPRM1
+G protein-coupled acetylcholine receptor activity,GO:0016907,Epilepsy,MESH:D004827,0,,2,CHRM1|CHRM2
+G protein-coupled enkephalin receptor activity,GO:0038046,Epilepsy,MESH:D004827,0,,2,OPRD1|OPRM1
+G protein-coupled neurotransmitter receptor activity involved in regulation of postsynaptic cytosolic calcium ion concentration,GO:0098872,Epilepsy,MESH:D004827,0,,1,GRM1
+G protein-coupled neurotransmitter receptor activity involved in regulation of postsynaptic cytosolic calcium ion concentration,GO:0098872,"Epilepsy, Temporal Lobe",MESH:D004833,0,,1,GRM1
+G protein-coupled opioid receptor activity,GO:0004985,Epilepsy,MESH:D004827,0,,2,OPRD1|OPRM1
+G protein-coupled receptor activity,GO:0004930,Epilepsy,MESH:D004827,0,,8,ADRA2A|CHRM1|CHRM2|GRM1|NPY|NPY2R|OPRD1|OPRM1
+G protein-coupled receptor activity,GO:0004930,"Epilepsy, Idiopathic Generalized",MESH:C562694,0,,1,CASR
+G protein-coupled receptor activity,GO:0004930,"Epilepsy, Temporal Lobe",MESH:D004833,0,,10,BDKRB1|BDKRB2|CNR1|GRM1|GRM2|GRM3|GRM4|GRM5|NPY|NPY2R
+G protein-coupled receptor activity involved in regulation of postsynaptic membrane potential,GO:0099530,Epilepsy,MESH:D004827,0,,1,GRM1
+G protein-coupled receptor activity involved in regulation of postsynaptic membrane potential,GO:0099530,"Epilepsy, Temporal Lobe",MESH:D004833,0,,2,GRM1|GRM5
+G protein-coupled receptor binding,GO:0001664,Epilepsy,MESH:D004827,0,,4,FLNA|GNAO1|NPY|POMC
+G protein-coupled receptor binding,GO:0001664,"EPILEPSY, FAMILIAL TEMPORAL LOBE, 8",OMIM:616461,0,,1,GAL
+G protein-coupled receptor binding,GO:0001664,"Epilepsy, Temporal Lobe",MESH:D004833,0,,1,NPY
+G protein-coupled receptor binding,GO:0001664,"Epilepsy, Tonic-Clonic",MESH:D004830,0,,1,POMC
+G protein-coupled serotonin receptor activity,GO:0004993,Epilepsy,MESH:D004827,0,,2,CHRM1|CHRM2
+G protein-coupled serotonin receptor binding,GO:0031821,Epilepsy,MESH:D004827,0,,1,GNAO1
+group III metabotropic glutamate receptor activity,GO:0001642,"Epilepsy, Temporal Lobe",MESH:D004833,0,,1,GRM4
+group II metabotropic glutamate receptor activity,GO:0001641,"Epilepsy, Temporal Lobe",MESH:D004833,0,,2,GRM2|GRM3
+growth factor activity,GO:0008083,Epilepsy,MESH:D004827,0,,2,BDNF|TGFB1
+growth factor activity,GO:0008083,"Epilepsy, Temporal Lobe",MESH:D004833,0,,1,VEGFA
+growth factor activity,GO:0008083,"Epilepsy, Tonic-Clonic",MESH:D004830,0,,5,BDNF|FGF2|HBEGF|NGF|NTF3
+growth factor binding,GO:0019838,"Epilepsy, Temporal Lobe",MESH:D004833,0,,3,KDR|TEK|VEGFA
+GTPase activating protein binding,GO:0032794,Epilepsy,MESH:D004827,0,,2,AKT1|GNAO1
+GTPase activator activity,GO:0005096,Epilepsy,MESH:D004827,0,,3,SYNGAP1|TSC1|TSC2
+GTPase activator activity,GO:0005096,"Epilepsy, Partial, with Variable Foci",MESH:C565785,0,,3,DEPDC5|NPRL2|NPRL3
+GTPase activator activity,GO:0005096,"Epilepsy, rolandic with paroxysmal exercise-induced dystonia and writer's cramp",MESH:C535499,0,,1,TBC1D24
+GTPase activator activity,GO:0005096,"MYOCLONIC EPILEPSY, FAMILIAL INFANTILE",OMIM:605021,0,,1,TBC1D24
+GTPase activity,GO:0003924,Epilepsy,MESH:D004827,0,,5,DDX3X|DNM1|EEF1A2|GNAO1|RAB39B
+GTPase binding,GO:0051020,Epilepsy,MESH:D004827,0,,1,FLNA
+GTPase inhibitor activity,GO:0005095,"Epilepsy, Temporal Lobe",MESH:D004833,0,,1,SLIT2
+GTP binding,GO:0005525,Epilepsy,MESH:D004827,0,,5,DNM1|EEF1A2|GNAO1|RAB39B|TSC1
+guanyl nucleotide binding,GO:0019001,Epilepsy,MESH:D004827,0,,1,GNAO1
+guanyl-nucleotide exchange factor activity,GO:0005085,Epilepsy,MESH:D004827,0,,3,ADRA2A|IQSEC2|PURA
+guanyl-nucleotide exchange factor activity,GO:0005085,Hyperekplexia and Epilepsy,MESH:C564474,0,,1,ARHGEF9
+H3K27me3 modified histone binding,GO:0061628,"Epilepsy, Tonic-Clonic",MESH:D004830,1,Acetaminophen,0,
+H3K9me3 modified histone binding,GO:0062072,Epilepsy,MESH:D004827,1,Dronabinol,0,
+H3K9me3 modified histone binding,GO:0062072,"Epilepsy, Tonic-Clonic",MESH:D004830,0,,1,FGF2
+helicase activity,GO:0004386,Epilepsy,MESH:D004827,0,,2,CHD2|DDX3X
+heme binding,GO:0020037,"Epilepsy, Partial, with Variable Foci",MESH:C565785,0,,1,NPRL3
+heme binding,GO:0020037,"Epilepsy, Tonic-Clonic",MESH:D004830,0,,1,CYP2D6
+heme oxygenase (decyclizing) activity,GO:0004392,Epilepsy,MESH:D004827,1,Dronabinol,0,
+heparan sulfate proteoglycan binding,GO:0043395,"Epilepsy, Temporal Lobe",MESH:D004833,0,,1,SLIT2
+heparin binding,GO:0008201,"Epilepsy, Temporal Lobe",MESH:D004833,0,,2,SLIT2|VEGFA
+heparin binding,GO:0008201,"Epilepsy, Tonic-Clonic",MESH:D004830,0,,2,FGF2|HBEGF
+hepatocyte growth factor binding,GO:0036458,"Rolandic Epilepsy, Mental Retardation, and Speech Dyspraxia, X-Linked",MESH:C564467,0,,1,SRPX2
+hepatocyte growth factor receptor activity,GO:0005008,"Epilepsy, Temporal Lobe",MESH:D004833,0,,2,KDR|TEK
+heterocyclic compound binding,GO:1901363,Epilepsy,MESH:D004827,0,,1,GRIN2B
+heterocyclic compound binding,GO:1901363,"Epilepsy, Frontal Lobe",MESH:D017034,0,,2,CHRNA4|CHRNB2
+heterocyclic compound binding,GO:1901363,"Epilepsy, Nocturnal Frontal Lobe, Type 1",MESH:C563930,0,,1,CHRNA4
+heterocyclic compound binding,GO:1901363,"Epilepsy, Nocturnal Frontal Lobe, Type 3",MESH:C565334,0,,1,CHRNB2
+heterocyclic compound binding,GO:1901363,"Epilepsy, Nocturnal Frontal Lobe, Type 4",MESH:C563679,0,,1,CHRNA2
+heterotrimeric G-protein binding,GO:0032795,Epilepsy,MESH:D004827,0,,1,ADRA2A
+hexokinase activity,GO:0004396,Epilepsy,MESH:D004827,4,Cisplatin|Clozapine|Gabapentin|Valproic Acid,0,
+hexokinase activity,GO:0004396,"Epilepsy, Absence",MESH:D004832,1,Valproic Acid,0,
+hexokinase activity,GO:0004396,"Epilepsy, Complex Partial",MESH:D017029,3,Clozapine|Gabapentin|Valproic Acid,0,
+hexokinase activity,GO:0004396,"Epilepsy, Generalized",MESH:D004829,2,Clozapine|Valproic Acid,0,
+hexokinase activity,GO:0004396,"Epilepsy, Reflex",MESH:D020195,1,Valproic Acid,0,
+hexokinase activity,GO:0004396,"Epilepsy, Rolandic",MESH:D019305,1,Valproic Acid,0,
+hexokinase activity,GO:0004396,"Epilepsy, Temporal Lobe",MESH:D004833,1,Valproic Acid,0,
+hexokinase activity,GO:0004396,"Epilepsy, Tonic-Clonic",MESH:D004830,4,Chlorpromazine|Clozapine|Gabapentin|Valproic Acid,0,
+hexokinase activity,GO:0004396,"Myoclonic Epilepsy, Juvenile",MESH:D020190,1,Valproic Acid,0,
+hexosyltransferase activity,GO:0016758,Epilepsy,MESH:D004827,0,,1,ALG13
+high-affinity L-glutamate transmembrane transporter activity,GO:0005314,Epilepsy,MESH:D004827,0,,3,SLC1A1|SLC1A2|SLC1A3
+high-affinity L-glutamate transmembrane transporter activity,GO:0005314,"Epilepsy, Temporal Lobe",MESH:D004833,0,,1,SLC1A1
+high-affinity phosphate transmembrane transporter activity,GO:0048249,"Epilepsy, Tonic-Clonic",MESH:D004830,1,Foscarnet,0,
+high voltage-gated calcium channel activity,GO:0008331,"Epilepsy, Absence",MESH:D004832,0,,2,CACNA1A|CACNA1H
+high voltage-gated calcium channel activity,GO:0008331,"Epilepsy, Generalized",MESH:D004829,0,,1,CACNB4
+high voltage-gated calcium channel activity,GO:0008331,"Epilepsy, Idiopathic Generalized",MESH:C562694,0,,1,CACNB4
+high voltage-gated calcium channel activity,GO:0008331,"Epilepsy, Tonic-Clonic",MESH:D004830,1,Ethanol,0,
+high voltage-gated calcium channel activity,GO:0008331,"Myoclonic Epilepsy, Juvenile",MESH:D020190,0,,1,CACNB4
+histone acetyltransferase activity,GO:0004402,Epilepsy,MESH:D004827,1,Valproic Acid,0,
+histone acetyltransferase activity,GO:0004402,"Epilepsy, Absence",MESH:D004832,1,Valproic Acid,0,
+histone acetyltransferase activity,GO:0004402,"Epilepsy, Complex Partial",MESH:D017029,1,Valproic Acid,0,
+histone acetyltransferase activity,GO:0004402,"Epilepsy, Generalized",MESH:D004829,1,Valproic Acid,0,
+histone acetyltransferase activity,GO:0004402,"Epilepsy, Reflex",MESH:D020195,1,Valproic Acid,0,
+histone acetyltransferase activity,GO:0004402,"Epilepsy, Rolandic",MESH:D019305,1,Valproic Acid,0,
+histone acetyltransferase activity,GO:0004402,"Epilepsy, Temporal Lobe",MESH:D004833,1,Valproic Acid,0,
+histone acetyltransferase activity,GO:0004402,"Epilepsy, Tonic-Clonic",MESH:D004830,1,Valproic Acid,0,
+histone acetyltransferase activity,GO:0004402,"Myoclonic Epilepsy, Juvenile",MESH:D020190,1,Valproic Acid,0,
+histone binding,GO:0042393,Epilepsy,MESH:D004827,0,,1,CHD2
+histone deacetylase activity,GO:0004407,Epilepsy,MESH:D004827,2,Plant Extracts|Valproic Acid,0,
+histone deacetylase activity,GO:0004407,"Epilepsy, Absence",MESH:D004832,2,Doxorubicin|Valproic Acid,0,
+histone deacetylase activity,GO:0004407,"Epilepsy, Complex Partial",MESH:D017029,1,Valproic Acid,0,
+histone deacetylase activity,GO:0004407,"Epilepsy, Generalized",MESH:D004829,1,Valproic Acid,0,
+histone deacetylase activity,GO:0004407,"Epilepsy, Reflex",MESH:D020195,1,Valproic Acid,0,
+histone deacetylase activity,GO:0004407,"Epilepsy, Rolandic",MESH:D019305,1,Valproic Acid,0,
+histone deacetylase activity,GO:0004407,"Epilepsy, Temporal Lobe",MESH:D004833,2,Plant Extracts|Valproic Acid,0,
+histone deacetylase activity,GO:0004407,"Epilepsy, Tonic-Clonic",MESH:D004830,3,Mechlorethamine|Plant Extracts|Valproic Acid,0,
+histone deacetylase activity,GO:0004407,"Myoclonic Epilepsy, Juvenile",MESH:D020190,1,Valproic Acid,0,
+histone deacetylase binding,GO:0042826,Epilepsy,MESH:D004827,0,,2,MECP2|MEF2C
+histone deacetylase binding,GO:0042826,"NEURODEVELOPMENTAL DISORDER WITH EPILEPSY, CATARACTS, FEEDING DIFFICULTIES, AND DELAYED BRAIN MYELINATION",OMIM:617393,0,,1,NACC1
+histone H2AS121 kinase activity,GO:0072371,Epilepsy,MESH:D004827,0,,2,AKT1|ERN1
+histone H2AS139 kinase activity,GO:0035979,Epilepsy,MESH:D004827,0,,2,AKT1|ERN1
+histone H2AS1 kinase activity,GO:0044024,Epilepsy,MESH:D004827,0,,2,AKT1|ERN1
+histone H2AT120 kinase activity,GO:1990244,Epilepsy,MESH:D004827,0,,2,AKT1|ERN1
+histone H2AY142 kinase activity,GO:0140801,"Epilepsy, Temporal Lobe",MESH:D004833,0,,2,KDR|TEK
+histone H2BS14 kinase activity,GO:0044025,Epilepsy,MESH:D004827,0,,2,AKT1|ERN1
+histone H2BS36 kinase activity,GO:0140823,Epilepsy,MESH:D004827,0,,2,AKT1|ERN1
+histone H3S10 kinase activity,GO:0035175,Epilepsy,MESH:D004827,0,,2,AKT1|ERN1
+histone H3S28 kinase activity,GO:0044022,Epilepsy,MESH:D004827,0,,2,AKT1|ERN1
+histone H3S57 kinase activity,GO:0140855,Epilepsy,MESH:D004827,0,,2,AKT1|ERN1
+histone H3T11 kinase activity,GO:0035402,Epilepsy,MESH:D004827,0,,2,AKT1|ERN1
+histone H3T3 kinase activity,GO:0072354,Epilepsy,MESH:D004827,0,,2,AKT1|ERN1
+histone H3T45 kinase activity,GO:0140857,Epilepsy,MESH:D004827,0,,3,AKT1|DYRK1A|ERN1
+histone H3T6 kinase activity,GO:0035403,Epilepsy,MESH:D004827,0,,2,AKT1|ERN1
+histone H3Y41 kinase activity,GO:0035401,"Epilepsy, Temporal Lobe",MESH:D004833,0,,2,KDR|TEK
+histone H4S1 kinase activity,GO:0044023,Epilepsy,MESH:D004827,0,,2,AKT1|ERN1
+histone reader activity,GO:0140566,Epilepsy,MESH:D004827,0,,1,MECP2
+HMG box domain binding,GO:0071837,Epilepsy,MESH:D004827,0,,1,MEF2C
+hormone activity,GO:0005179,Epilepsy,MESH:D004827,0,,2,NPY|POMC
+hormone activity,GO:0005179,"EPILEPSY, FAMILIAL TEMPORAL LOBE, 8",OMIM:616461,0,,1,GAL
+hormone activity,GO:0005179,"Epilepsy, Temporal Lobe",MESH:D004833,0,,1,NPY
+hormone activity,GO:0005179,"Epilepsy, Tonic-Clonic",MESH:D004830,0,,2,OXT|POMC
+Hsp70 protein binding,GO:0030544,Epilepsy,MESH:D004827,0,,2,ERN1|TSC1
+Hsp90 protein binding,GO:0051879,Epilepsy,MESH:D004827,0,,4,ERN1|SLC12A2|TSC1|TSC2
+Hsp90 protein binding,GO:0051879,"Epilepsy, Temporal Lobe",MESH:D004833,0,,2,KDR|SLC12A2
+hydrolase activity,GO:0016787,Epilepsy,MESH:D004827,0,,3,CHD2|DDX3X|DNM1
+hydrolase activity,GO:0016787,"EPILEPSY, FAMILIAL TEMPORAL LOBE, 1",OMIM:600512,0,,1,RELN
+hydrolase activity,GO:0016787,"EPILEPSY, FAMILIAL TEMPORAL LOBE, 5",OMIM:614417,0,,1,CPA6
+hydrolase activity,GO:0016787,"EPILEPSY, FAMILIAL TEMPORAL LOBE, 7",OMIM:616436,0,,1,RELN
+hydrolase activity,GO:0016787,SPINAL MUSCULAR ATROPHY WITH PROGRESSIVE MYOCLONIC EPILEPSY,OMIM:159950,0,,1,ASAH1
+"hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds",GO:0016810,SPINAL MUSCULAR ATROPHY WITH PROGRESSIVE MYOCLONIC EPILEPSY,OMIM:159950,0,,1,ASAH1
+"hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds, in linear amides",GO:0016811,SPINAL MUSCULAR ATROPHY WITH PROGRESSIVE MYOCLONIC EPILEPSY,OMIM:159950,0,,1,ASAH1
+"hydrolase activity, acting on ester bonds",GO:0016788,"Epilepsy, Tonic-Clonic",MESH:D004830,0,,1,BCHE
+identical protein binding,GO:0042802,Epilepsy,MESH:D004827,0,,25,AKT1|ALB|ANKRD11|CERT1|DNM1|DYRK1A|ERN1|FOS|GABRB3|GFAP|HCN1|HNRNPU|KCNH1|MECP2|P2RX2|P2RX4|PCDH19|SLC12A2|SLC1A1|SLC6A1|STXBP1|TGFB1|TXNRD1|VDAC1|VDAC2
+identical protein binding,GO:0042802,"Epilepsy, Absence",MESH:D004832,0,,2,GABRB3|KCNK9
+identical protein binding,GO:0042802,"Epilepsy, Female-Restricted, with Mental Retardation",MESH:C564715,0,,1,PCDH19
+identical protein binding,GO:0042802,"Epilepsy, Idiopathic Generalized",MESH:C562694,0,,1,CASR
+identical protein binding,GO:0042802,"EPILEPSY, PROGRESSIVE MYOCLONIC, 3, WITH OR WITHOUT INTRACELLULAR INCLUSIONS",OMIM:611726,0,,1,KCTD7
+identical protein binding,GO:0042802,"Epilepsy, Temporal Lobe",MESH:D004833,0,,11,CNR1|GRM5|KDR|P2RX4|P2RX7|SLC12A2|SLC1A1|SLIT2|TEK|TRPV1|VEGFA
+identical protein binding,GO:0042802,"Epilepsy, Tonic-Clonic",MESH:D004830,0,,2,BCHE|FGF2
+identical protein binding,GO:0042802,"Epilepsy, X-Linked, with Variable Learning Disabilities and Behavior Disorders",MESH:C564505,0,,1,SYN1
+identical protein binding,GO:0042802,Generalized Epilepsy and Paroxysmal Dyskinesia,MESH:C563719,0,,1,KCNMA1
+identical protein binding,GO:0042802,MYOCLONIC-ATONIC EPILEPSY,OMIM:616421,0,,1,SLC6A1
+identical protein binding,GO:0042802,Pyridoxine-dependent epilepsy,MESH:C536254,0,,1,ALDH7A1
+identical protein binding,GO:0042802,"Rolandic Epilepsy, Mental Retardation, and Speech Dyspraxia, X-Linked",MESH:C564467,0,,1,SRPX2
+inhibitory extracellular ligand-gated monoatomic ion channel activity,GO:0005237,Epilepsy,MESH:D004827,0,,1,GABRB2
+inhibitory extracellular ligand-gated monoatomic ion channel activity,GO:0005237,"Myoclonic Epilepsy, Juvenile",MESH:D020190,0,,1,GABRA1
+inorganic cation transmembrane transporter activity,GO:0022890,Epilepsy,MESH:D004827,0,,2,GRIN2A|GRIN2B
+inorganic cation transmembrane transporter activity,GO:0022890,"EPILEPSY, FOCAL, WITH SPEECH DISORDER AND WITH OR WITHOUT IMPAIRED INTELLECTUAL DEVELOPMENT",OMIM:245570,0,,1,GRIN2A
+inorganic cation transmembrane transporter activity,GO:0022890,"Epilepsy, Rolandic",MESH:D019305,0,,1,GRIN2A
+insulin-like growth factor receptor activity,GO:0005010,"Epilepsy, Temporal Lobe",MESH:D004833,0,,2,KDR|TEK
+insulin receptor activity,GO:0005009,"Epilepsy, Temporal Lobe",MESH:D004833,0,,2,KDR|TEK
+integrin binding,GO:0005178,Epilepsy,MESH:D004827,0,,3,ERN1|GFAP|ILK
+integrin binding,GO:0005178,"Epilepsy, Idiopathic Generalized",MESH:C562694,0,,1,CASR
+integrin binding,GO:0005178,"Epilepsy, Temporal Lobe",MESH:D004833,0,,1,KDR
+integrin binding,GO:0005178,"Epilepsy, Tonic-Clonic",MESH:D004830,0,,1,FGF2
+interleukin-1 receptor binding,GO:0005149,Epilepsy,MESH:D004827,0,,1,GRIN2B
+intermediate filament binding,GO:0019215,"Epilepsy, Tonic-Clonic",MESH:D004830,0,,1,NES
+intracellular cAMP-activated cation channel activity,GO:0005222,Epilepsy,MESH:D004827,1,Dronabinol,1,HCN1
+intracellular cAMP-activated cation channel activity involved in regulation of presynaptic membrane potential,GO:0140232,Epilepsy,MESH:D004827,0,,1,HCN1
+intracellular sodium activated potassium channel activity,GO:0005228,"Epilepsy, Frontal Lobe",MESH:D017034,0,,1,KCNT1
+intracellular sodium activated potassium channel activity,GO:0005228,"EPILEPSY, NOCTURNAL FRONTAL LOBE, 5",OMIM:615005,0,,1,KCNT1
+ionotropic glutamate receptor activity,GO:0004970,Epilepsy,MESH:D004827,0,,2,GRIN2A|GRIN2B
+ionotropic glutamate receptor activity,GO:0004970,"EPILEPSY, FOCAL, WITH SPEECH DISORDER AND WITH OR WITHOUT IMPAIRED INTELLECTUAL DEVELOPMENT",OMIM:245570,0,,1,GRIN2A
+ionotropic glutamate receptor activity,GO:0004970,"Epilepsy, Rolandic",MESH:D019305,0,,1,GRIN2A
+ionotropic glutamate receptor binding,GO:0035255,Epilepsy,MESH:D004827,0,,1,GRIN2B
+iron ion binding,GO:0005506,"Epilepsy, Tonic-Clonic",MESH:D004830,0,,1,CYP2D6
+isocitrate dehydrogenase [NAD(P)+] activity,GO:0004448,"Epilepsy, Absence",MESH:D004832,1,Doxorubicin,0,
+JUN kinase activity,GO:0004705,"Epilepsy, Tonic-Clonic",MESH:D004830,1,Chlormethiazole,0,
+K63-linked deubiquitinase activity,GO:0061578,Epilepsy,MESH:D004827,0,,1,STAMBP
+kinase activity,GO:0016301,Epilepsy,MESH:D004827,0,,4,AKT1|CDKL5|CERT1|ILK
+kinase activity,GO:0016301,"Epilepsy, Temporal Lobe",MESH:D004833,0,,2,KDR|TEK
+kinase activity,GO:0016301,"Polyhydramnios, Megalencephaly, And Symptomatic Epilepsy",MESH:C567020,0,,1,STRADA
+kinase binding,GO:0019900,Epilepsy,MESH:D004827,0,,4,AKT1|FLNA|GFAP|TSC1
+kinase binding,GO:0019900,"Polyhydramnios, Megalencephaly, And Symptomatic Epilepsy",MESH:C567020,0,,1,STRADA
+lactate dehydrogenase activity,GO:0004457,Epilepsy,MESH:D004827,15,"carbidopa, levodopa drug combination|Cimetidine|Cisplatin|Clozapine|Dexamethasone|Folic Acid|Gentamicins|Ketamine|Methotrexate|Methylmercury Compounds|Plant Extracts|trimethyltin chloride|Valproic Acid|Vitamin B 6|Vitamin U",0,
+lactate dehydrogenase activity,GO:0004457,"Epilepsy, Absence",MESH:D004832,2,Doxorubicin|Valproic Acid,0,
+lactate dehydrogenase activity,GO:0004457,"Epilepsy, Complex Partial",MESH:D017029,3,Clozapine|Methotrexate|Valproic Acid,0,
+lactate dehydrogenase activity,GO:0004457,"Epilepsy, Generalized",MESH:D004829,2,Clozapine|Valproic Acid,0,
+lactate dehydrogenase activity,GO:0004457,"Epilepsy, Reflex",MESH:D020195,1,Valproic Acid,0,
+lactate dehydrogenase activity,GO:0004457,"Epilepsy, Rolandic",MESH:D019305,1,Valproic Acid,0,
+lactate dehydrogenase activity,GO:0004457,"Epilepsy, Temporal Lobe",MESH:D004833,3,Methotrexate|Plant Extracts|Valproic Acid,0,
+lactate dehydrogenase activity,GO:0004457,"Epilepsy, Tonic-Clonic",MESH:D004830,14,Acetaminophen|Caffeine|Chloroquine|Cimetidine|Clomipramine|Clozapine|Dizocilpine Maleate|Ethanol|Methotrexate|Methylphenidate|Plant Extracts|Sodium Chloride|Valproic Acid|Venlafaxine Hydrochloride,0,
+lactate dehydrogenase activity,GO:0004457,"Myoclonic Epilepsy, Juvenile",MESH:D020190,1,Valproic Acid,0,
+"lactosylceramide alpha-2,3-sialyltransferase activity",GO:0047291,Amish Infantile Epilepsy Syndrome,MESH:C563799,0,,1,ST3GAL5
+L-alanine:2-oxoglutarate aminotransferase activity,GO:0004021,Epilepsy,MESH:D004827,1,Plant Extracts,0,
+L-alanine:2-oxoglutarate aminotransferase activity,GO:0004021,"Epilepsy, Temporal Lobe",MESH:D004833,1,Plant Extracts,0,
+L-alanine:2-oxoglutarate aminotransferase activity,GO:0004021,"Epilepsy, Tonic-Clonic",MESH:D004830,2,Acetaminophen|Plant Extracts,0,
+laminin-1 binding,GO:0043237,"Epilepsy, Temporal Lobe",MESH:D004833,0,,1,SLIT2
+L-amino acid transmembrane transporter activity,GO:0015179,Epilepsy,MESH:D004827,0,,3,SLC1A1|SLC1A2|SLC1A3
+L-amino acid transmembrane transporter activity,GO:0015179,"Epilepsy, Temporal Lobe",MESH:D004833,0,,1,SLC1A1
+L-aminoadipate-semialdehyde dehydrogenase activity,GO:0004043,Pyridoxine-dependent epilepsy,MESH:C536254,0,,1,ALDH7A1
+large conductance calcium-activated potassium channel activity,GO:0060072,Epilepsy,MESH:D004827,1,Calcium,0,
+large conductance calcium-activated potassium channel activity,GO:0060072,Generalized Epilepsy and Paroxysmal Dyskinesia,MESH:C563719,0,,1,KCNMA1
+L-aspartate:2-oxoglutarate aminotransferase activity,GO:0004069,Epilepsy,MESH:D004827,13,Bicuculline|Cimetidine|Cisplatin|Dexamethasone|Dronabinol|Folic Acid|gamma-Aminobutyric Acid|Ketoconazole|Methimazole|Methotrexate|Muscimol|Phenobarbital|Plant Extracts,0,
+L-aspartate:2-oxoglutarate aminotransferase activity,GO:0004069,"Epilepsy, Absence",MESH:D004832,2,Doxorubicin|Phenobarbital,0,
+L-aspartate:2-oxoglutarate aminotransferase activity,GO:0004069,"Epilepsy, Complex Partial",MESH:D017029,2,Methotrexate|Phenobarbital,0,
+L-aspartate:2-oxoglutarate aminotransferase activity,GO:0004069,"Epilepsy, Generalized",MESH:D004829,2,Phenobarbital|Zidovudine,0,
+L-aspartate:2-oxoglutarate aminotransferase activity,GO:0004069,"Epilepsy, Temporal Lobe",MESH:D004833,3,Methotrexate|Phenobarbital|Plant Extracts,0,
+L-aspartate:2-oxoglutarate aminotransferase activity,GO:0004069,"Epilepsy, Tonic-Clonic",MESH:D004830,14,Acetaminophen|Caffeine|Chlormethiazole|Cimetidine|Clomipramine|Cocaine|Diclofenac|Ethanol|Methotrexate|Metronidazole|Paroxetine|Phenobarbital|Plant Extracts|Vincristine,0,
+L-aspartate transmembrane transporter activity,GO:0015183,Epilepsy,MESH:D004827,0,,1,SLC1A1
+L-aspartate transmembrane transporter activity,GO:0015183,"Epilepsy, Temporal Lobe",MESH:D004833,0,,1,SLC1A1
+leucine zipper domain binding,GO:0043522,Epilepsy,MESH:D004827,0,,1,SCN2A
+leucine zipper domain binding,GO:0043522,"Epilepsy, Benign Neonatal, 3",MESH:C564274,0,,1,SCN2A
+L-glutamate transmembrane transporter activity,GO:0005313,Epilepsy,MESH:D004827,0,,3,SLC1A1|SLC1A2|SLC1A3
+L-glutamate transmembrane transporter activity,GO:0005313,"Epilepsy, Temporal Lobe",MESH:D004833,0,,1,SLC1A1
+ligand-gated calcium channel activity,GO:0099604,Epilepsy,MESH:D004827,0,,1,P2RX4
+ligand-gated calcium channel activity,GO:0099604,"Epilepsy, Temporal Lobe",MESH:D004833,0,,1,P2RX4
+ligand-gated monoatomic cation channel activity,GO:0099094,Epilepsy,MESH:D004827,0,,1,P2RX4
+ligand-gated monoatomic cation channel activity,GO:0099094,"Epilepsy, Temporal Lobe",MESH:D004833,0,,1,P2RX4
+ligand-gated monoatomic ion channel activity,GO:0015276,Epilepsy,MESH:D004827,0,,3,GRIN2A|GRIN2B|P2RX2
+ligand-gated monoatomic ion channel activity,GO:0015276,"EPILEPSY, FOCAL, WITH SPEECH DISORDER AND WITH OR WITHOUT IMPAIRED INTELLECTUAL DEVELOPMENT",OMIM:245570,0,,1,GRIN2A
+ligand-gated monoatomic ion channel activity,GO:0015276,"Epilepsy, Frontal Lobe",MESH:D017034,0,,2,CHRNA4|CHRNB2
+ligand-gated monoatomic ion channel activity,GO:0015276,"Epilepsy, Nocturnal Frontal Lobe, Type 1",MESH:C563930,0,,1,CHRNA4
+ligand-gated monoatomic ion channel activity,GO:0015276,"Epilepsy, Nocturnal Frontal Lobe, Type 3",MESH:C565334,0,,1,CHRNB2
+ligand-gated monoatomic ion channel activity,GO:0015276,"Epilepsy, Rolandic",MESH:D019305,0,,1,GRIN2A
+ligand-gated monoatomic ion channel activity,GO:0015276,"Epilepsy, Temporal Lobe",MESH:D004833,0,,1,TRPV1
+ligand-gated monoatomic ion channel activity involved in regulation of presynaptic membrane potential,GO:0099507,Epilepsy,MESH:D004827,0,,3,GABRB2|GRIN2A|GRIN2B
+ligand-gated monoatomic ion channel activity involved in regulation of presynaptic membrane potential,GO:0099507,"EPILEPSY, FOCAL, WITH SPEECH DISORDER AND WITH OR WITHOUT IMPAIRED INTELLECTUAL DEVELOPMENT",OMIM:245570,0,,1,GRIN2A
+ligand-gated monoatomic ion channel activity involved in regulation of presynaptic membrane potential,GO:0099507,"Epilepsy, Rolandic",MESH:D019305,0,,1,GRIN2A
+ligand-gated monoatomic ion channel activity involved in regulation of presynaptic membrane potential,GO:0099507,Generalized Epilepsy and Paroxysmal Dyskinesia,MESH:C563719,0,,1,KCNMA1
+ligand-gated monoatomic ion channel activity involved in regulation of presynaptic membrane potential,GO:0099507,"Myoclonic Epilepsy, Juvenile",MESH:D020190,0,,1,GABRA1
+ligase activity,GO:0016874,Epilepsy,MESH:D004827,0,,1,UBE3A
+linoleate 13S-lipoxygenase activity,GO:0016165,Epilepsy,MESH:D004827,1,Dexamethasone,0,
+lipase activity,GO:0016298,Epilepsy,MESH:D004827,1,Plant Extracts,0,
+lipase activity,GO:0016298,"Epilepsy, Temporal Lobe",MESH:D004833,1,Plant Extracts,0,
+lipase activity,GO:0016298,"Epilepsy, Tonic-Clonic",MESH:D004830,2,Ethanol|Plant Extracts,0,
+lipid binding,GO:0008289,Epilepsy,MESH:D004827,0,,4,ALB|CERT1|SNAP25|WDR45
+lipid binding,GO:0008289,"Epilepsy, Myoclonic, Benign Adult Familial, Type 2",MESH:C564313,0,,1,STARD7
+lipid binding,GO:0008289,"Epilepsy, Tonic-Clonic",MESH:D004830,0,,1,NGF
+lipid transfer activity,GO:0120013,"Epilepsy, Myoclonic, Benign Adult Familial, Type 2",MESH:C564313,0,,1,STARD7
+lipopolysaccharide binding,GO:0001530,"Epilepsy, Temporal Lobe",MESH:D004833,0,,1,P2RX7
+lipoprotein particle receptor binding,GO:0070325,"EPILEPSY, FAMILIAL TEMPORAL LOBE, 1",OMIM:600512,0,,1,RELN
+lipoprotein particle receptor binding,GO:0070325,"EPILEPSY, FAMILIAL TEMPORAL LOBE, 7",OMIM:616436,0,,1,RELN
+lithocholic acid binding,GO:1902121,"Epilepsy, Temporal Lobe",MESH:D004833,0,,1,VDR
+lithocholic acid receptor activity,GO:0038186,"Epilepsy, Temporal Lobe",MESH:D004833,0,,1,VDR
+lncRNA binding,GO:0106222,Epilepsy,MESH:D004827,0,,1,HNRNPU
+long-chain fatty acid-CoA ligase activity,GO:0004467,"Epilepsy, Tonic-Clonic",MESH:D004830,1,Diclofenac,0,
+low voltage-gated calcium channel activity,GO:0008332,"Epilepsy, Absence",MESH:D004832,0,,1,CACNA1H
+lysine-acetylated histone binding,GO:0070577,Epilepsy,MESH:D004827,1,Valproic Acid,0,
+lysine-acetylated histone binding,GO:0070577,"Epilepsy, Absence",MESH:D004832,1,Valproic Acid,0,
+lysine-acetylated histone binding,GO:0070577,"Epilepsy, Complex Partial",MESH:D017029,1,Valproic Acid,0,
+lysine-acetylated histone binding,GO:0070577,"Epilepsy, Generalized",MESH:D004829,1,Valproic Acid,0,
+lysine-acetylated histone binding,GO:0070577,"Epilepsy, Reflex",MESH:D020195,1,Valproic Acid,0,
+lysine-acetylated histone binding,GO:0070577,"Epilepsy, Rolandic",MESH:D019305,1,Valproic Acid,0,
+lysine-acetylated histone binding,GO:0070577,"Epilepsy, Temporal Lobe",MESH:D004833,1,Valproic Acid,0,
+lysine-acetylated histone binding,GO:0070577,"Epilepsy, Tonic-Clonic",MESH:D004830,3,Acetaminophen|Ethanol|Valproic Acid,0,
+lysine-acetylated histone binding,GO:0070577,"Myoclonic Epilepsy, Juvenile",MESH:D020190,1,Valproic Acid,0,
+lysophospholipid acyltransferase activity,GO:0071617,"Epilepsy, Tonic-Clonic",MESH:D004830,0,,1,NES
+macrophage colony-stimulating factor receptor activity,GO:0005011,"Epilepsy, Temporal Lobe",MESH:D004833,0,,2,KDR|TEK
+magnesium ion binding,GO:0000287,Epilepsy,MESH:D004827,0,,2,ERN1|ILK
+magnesium ion binding,GO:0000287,"Epilepsy, Temporal Lobe",MESH:D004833,0,,1,P2RX7
+malate dehydrogenase activity,GO:0016615,Epilepsy,MESH:D004827,1,Cisplatin,0,
+malate dehydrogenase activity,GO:0016615,"Epilepsy, Absence",MESH:D004832,1,Doxorubicin,0,
+malate dehydrogenase activity,GO:0016615,"Epilepsy, Tonic-Clonic",MESH:D004830,2,Acetaminophen|Dizocilpine Maleate,0,
+malic enzyme activity,GO:0004470,Epilepsy,MESH:D004827,1,Cisplatin,0,
+MAP kinase activity,GO:0004707,Epilepsy,MESH:D004827,2,Cisplatin|Dronabinol,1,CDKL5
+mediator complex binding,GO:0036033,Epilepsy,MESH:D004827,0,,1,SMC1A
+mercury ion binding,GO:0045340,Epilepsy,MESH:D004827,0,,2,P2RX2|TXNRD1
+metal-dependent deubiquitinase activity,GO:0140492,Epilepsy,MESH:D004827,0,,1,STAMBP
+metal ion binding,GO:0046872,Epilepsy,MESH:D004827,0,,15,ALB|ASXL3|GNAO1|GRIN2A|GRIN2B|PCDH19|POLG|SLC12A2|SLC12A5|SLC1A1|SLC1A2|SLC1A3|SLC6A1|SPARCL1|STAMBP
+metal ion binding,GO:0046872,"Epilepsy, Absence",MESH:D004832,0,,4,CACNA1A|CACNA1H|CACNA2D2|KCNK9
+metal ion binding,GO:0046872,"Epilepsy, Familial Adult Myoclonic, 3",MESH:C567098,0,,1,MARCHF6
+metal ion binding,GO:0046872,"EPILEPSY, FAMILIAL TEMPORAL LOBE, 1",OMIM:600512,0,,2,MICAL1|RELN
+metal ion binding,GO:0046872,"EPILEPSY, FAMILIAL TEMPORAL LOBE, 5",OMIM:614417,0,,1,CPA6
+metal ion binding,GO:0046872,"EPILEPSY, FAMILIAL TEMPORAL LOBE, 7",OMIM:616436,0,,1,RELN
+metal ion binding,GO:0046872,"Epilepsy, Female-Restricted, with Mental Retardation",MESH:C564715,0,,1,PCDH19
+metal ion binding,GO:0046872,"EPILEPSY, FOCAL, WITH SPEECH DISORDER AND WITH OR WITHOUT IMPAIRED INTELLECTUAL DEVELOPMENT",OMIM:245570,0,,1,GRIN2A
+metal ion binding,GO:0046872,"Epilepsy, Frontal Lobe",MESH:D017034,0,,1,KCNT1
+metal ion binding,GO:0046872,"Epilepsy, Idiopathic Generalized",MESH:C562694,0,,2,CASR|SLC12A5
+metal ion binding,GO:0046872,"EPILEPSY, NOCTURNAL FRONTAL LOBE, 5",OMIM:615005,0,,1,KCNT1
+metal ion binding,GO:0046872,"Epilepsy, Rolandic",MESH:D019305,0,,1,GRIN2A
+metal ion binding,GO:0046872,"Epilepsy, Temporal Lobe",MESH:D004833,0,,8,KCNC4|KDR|SLC12A2|SLC12A5|SLC1A1|TEK|TRPV1|VDR
+metal ion binding,GO:0046872,"Epilepsy, Tonic-Clonic",MESH:D004830,0,,1,CYP2D6
+metal ion binding,GO:0046872,"Epilepsy, X-Linked, with Variable Learning Disabilities and Behavior Disorders",MESH:C564505,0,,1,SYN1
+metal ion binding,GO:0046872,Generalized Epilepsy and Paroxysmal Dyskinesia,MESH:C563719,0,,1,KCNMA1
+metal ion binding,GO:0046872,MYOCLONIC-ATONIC EPILEPSY,OMIM:616421,0,,1,SLC6A1
+metal ion binding,GO:0046872,Prickle1-Related Progressive Myoclonic Epilepsy with Ataxia,MESH:C580388,0,,1,PRICKLE1
+metal ion transmembrane transporter activity,GO:0046873,Epilepsy,MESH:D004827,0,,1,SLC12A2
+metal ion transmembrane transporter activity,GO:0046873,"Epilepsy, Temporal Lobe",MESH:D004833,0,,1,SLC12A2
+metallocarboxypeptidase activity,GO:0004181,"EPILEPSY, FAMILIAL TEMPORAL LOBE, 5",OMIM:614417,0,,1,CPA6
+metalloendopeptidase activity,GO:0004222,Epilepsy,MESH:D004827,0,,1,SLC12A5
+metalloendopeptidase activity,GO:0004222,"Epilepsy, Idiopathic Generalized",MESH:C562694,0,,1,SLC12A5
+metalloendopeptidase activity,GO:0004222,"Epilepsy, Temporal Lobe",MESH:D004833,0,,1,SLC12A5
+metalloendopeptidase inhibitor activity,GO:0008191,"Epilepsy, Tonic-Clonic",MESH:D004830,0,,1,NGF
+metallopeptidase activity,GO:0008237,Epilepsy,MESH:D004827,0,,1,STAMBP
+metallopeptidase activity,GO:0008237,"EPILEPSY, FAMILIAL TEMPORAL LOBE, 5",OMIM:614417,0,,1,CPA6
+methylated histone binding,GO:0035064,"Epilepsy, Tonic-Clonic",MESH:D004830,1,Acetaminophen,0,
+methyl-CpG binding,GO:0008327,Epilepsy,MESH:D004827,0,,1,MECP2
+"methylglyoxal reductase (NADPH-dependent, acetol producing)",GO:1990002,Epilepsy,MESH:D004827,0,,1,KCNAB2
+methyltransferase activity,GO:0008168,Epilepsy,MESH:D004827,0,,1,ALG13
+microtubule binding,GO:0008017,Epilepsy,MESH:D004827,0,,2,ALG13|DNM1
+minor groove of adenine-thymine-rich DNA binding,GO:0003680,Epilepsy,MESH:D004827,0,,1,MEF2C
+modified amino acid binding,GO:0072341,Epilepsy,MESH:D004827,0,,1,ALB
+molecular adaptor activity,GO:0060090,Epilepsy,MESH:D004827,0,,2,MECP2|STXBP1
+molecular carrier activity,GO:0140104,"Epilepsy, Myoclonic, Benign Adult Familial, Type 2",MESH:C564313,0,,1,STARD7
+molecular condensate scaffold activity,GO:0140693,Epilepsy,MESH:D004827,0,,1,MECP2
+molecular_function,GO:0003674,Epilepsy,MESH:D004827,0,,3,ALB|ANKRD11|POMC
+molecular_function,GO:0003674,"Epilepsy, Myoclonic, Benign Adult Familial, Type 1",MESH:C563399,0,,1,SAMD12
+molecular_function,GO:0003674,"Epilepsy, Partial, with Variable Foci",MESH:C565785,0,,1,NPRL3
+molecular_function,GO:0003674,"Epilepsy, Tonic-Clonic",MESH:D004830,0,,1,POMC
+molecular_function,GO:0003674,"MICROCEPHALY, EPILEPSY, AND DIABETES SYNDROME 1",OMIM:614231,0,,1,IER3IP1
+monoamine oxidase activity,GO:0097621,"Epilepsy, Tonic-Clonic",MESH:D004830,1,Aluminum,0,
+monoatomic anion channel activity,GO:0005253,Epilepsy,MESH:D004827,0,,2,SLC1A1|VDAC1
+monoatomic anion channel activity,GO:0005253,"Epilepsy, Temporal Lobe",MESH:D004833,0,,1,SLC1A1
+monoatomic anion transmembrane transporter activity,GO:0008509,Epilepsy,MESH:D004827,0,,2,SLC1A2|SLC4A10
+monoatomic anion transmembrane transporter activity,GO:0008509,"Epilepsy, Frontal Lobe",MESH:D017034,0,,1,SLC4A10
+monoatomic cation channel activity,GO:0005261,Epilepsy,MESH:D004827,1,Calcium,3,GRIN2A|GRIN2B|SCN8A
+monoatomic cation channel activity,GO:0005261,"EPILEPSY, FOCAL, WITH SPEECH DISORDER AND WITH OR WITHOUT IMPAIRED INTELLECTUAL DEVELOPMENT",OMIM:245570,0,,1,GRIN2A
+monoatomic cation channel activity,GO:0005261,"Epilepsy, Rolandic",MESH:D019305,0,,1,GRIN2A
+monoatomic cation channel activity,GO:0005261,"Epilepsy, Temporal Lobe",MESH:D004833,0,,1,TRPV1
+monoatomic cation transmembrane transporter activity,GO:0008324,Epilepsy,MESH:D004827,0,,1,SLC12A2
+monoatomic cation transmembrane transporter activity,GO:0008324,"Epilepsy, Temporal Lobe",MESH:D004833,0,,2,SLC12A2|TRPV1
+monoatomic ion channel activity,GO:0005216,Epilepsy,MESH:D004827,0,,3,GABRB3|HCN1|P2RX2
+monoatomic ion channel activity,GO:0005216,"Epilepsy, Absence",MESH:D004832,0,,1,GABRB3
+monoatomic ion channel activity,GO:0005216,"Epilepsy, Frontal Lobe",MESH:D017034,0,,2,CHRNA4|CHRNB2
+monoatomic ion channel activity,GO:0005216,"Epilepsy, Generalized",MESH:D004829,0,,1,CHRNA7
+monoatomic ion channel activity,GO:0005216,"Epilepsy, Idiopathic Generalized",MESH:C562694,0,,1,GABRD
+monoatomic ion channel activity,GO:0005216,"Epilepsy, Nocturnal Frontal Lobe, Type 1",MESH:C563930,0,,1,CHRNA4
+monoatomic ion channel activity,GO:0005216,"Epilepsy, Nocturnal Frontal Lobe, Type 3",MESH:C565334,0,,1,CHRNB2
+monoatomic ion channel activity,GO:0005216,"Epilepsy, Temporal Lobe",MESH:D004833,0,,3,KCNC4|P2RX7|TRPV1
+monoatomic ion channel activity,GO:0005216,Generalized Epilepsy and Paroxysmal Dyskinesia,MESH:C563719,0,,1,KCNMA1
+monoatomic ion channel activity,GO:0005216,"Myoclonic Epilepsy, Juvenile",MESH:D020190,0,,1,GABRA1
+monocarboxylic acid transmembrane transporter activity,GO:0008028,Epilepsy,MESH:D004827,0,,1,SLCO1A5
+monooxygenase activity,GO:0004497,"EPILEPSY, FAMILIAL TEMPORAL LOBE, 1",OMIM:600512,0,,1,MICAL1
+monooxygenase activity,GO:0004497,"Epilepsy, Tonic-Clonic",MESH:D004830,0,,1,CYP2D6
+morphine receptor activity,GO:0038047,Epilepsy,MESH:D004827,0,,1,OPRM1
+mRNA 3'-UTR binding,GO:0003730,Epilepsy,MESH:D004827,0,,1,HNRNPU
+mRNA 5'-UTR binding,GO:0048027,Epilepsy,MESH:D004827,0,,1,DDX3X
+mRNA binding,GO:0003729,Epilepsy,MESH:D004827,0,,2,DDX3X|MECP2
+mRNA binding,GO:0003729,"Epilepsy, Absence",MESH:D004832,0,,1,JRK
+mRNA binding,GO:0003729,"Epilepsy, Generalized",MESH:D004829,0,,1,JRK
+mRNA binding,GO:0003729,"Myoclonic Epilepsy, Juvenile",MESH:D020190,0,,1,JRK
+mRNA cap binding,GO:0098808,Epilepsy,MESH:D004827,1,Cisplatin,0,
+mRNA regulatory element binding translation repressor activity,GO:0000900,Epilepsy,MESH:D004827,0,,1,PURA
+mu-type opioid receptor binding,GO:0031852,Epilepsy,MESH:D004827,0,,1,GNAO1
+myosin binding,GO:0017022,Epilepsy,MESH:D004827,0,,1,SNAP25
+myosin V binding,GO:0031489,Epilepsy,MESH:D004827,0,,1,RAB39B
+N-acetylglucosaminyldiphosphodolichol N-acetylglucosaminyltransferase activity,GO:0004577,Epilepsy,MESH:D004827,0,,1,ALG13
+N-acylsphingosine amidohydrolase activity,GO:0017040,SPINAL MUSCULAR ATROPHY WITH PROGRESSIVE MYOCLONIC EPILEPSY,OMIM:159950,0,,1,ASAH1
+NADH dehydrogenase activity,GO:0003954,"Epilepsy, Absence",MESH:D004832,1,Doxorubicin,0,
+NADH dehydrogenase (ubiquinone) activity,GO:0008137,Epilepsy,MESH:D004827,11,Cisplatin|Clozapine|Dextroamphetamine|Dronabinol|Haloperidol|Kainic Acid|Lithium|Lithium Chloride|Methylmercury Compounds|Plant Extracts|Valproic Acid,0,
+NADH dehydrogenase (ubiquinone) activity,GO:0008137,"Epilepsy, Absence",MESH:D004832,2,Haloperidol|Valproic Acid,0,
+NADH dehydrogenase (ubiquinone) activity,GO:0008137,"Epilepsy, Complex Partial",MESH:D017029,2,Clozapine|Valproic Acid,0,
+NADH dehydrogenase (ubiquinone) activity,GO:0008137,"Epilepsy, Generalized",MESH:D004829,2,Clozapine|Valproic Acid,0,
+NADH dehydrogenase (ubiquinone) activity,GO:0008137,"Epilepsy, Post-Traumatic",MESH:D004834,1,Kainic Acid,0,
+NADH dehydrogenase (ubiquinone) activity,GO:0008137,"Epilepsy, Reflex",MESH:D020195,1,Valproic Acid,0,
+NADH dehydrogenase (ubiquinone) activity,GO:0008137,"Epilepsy, Rolandic",MESH:D019305,1,Valproic Acid,0,
+NADH dehydrogenase (ubiquinone) activity,GO:0008137,"Epilepsy, Temporal Lobe",MESH:D004833,5,Kainic Acid|Lithium|Lithium Chloride|Plant Extracts|Valproic Acid,0,
+NADH dehydrogenase (ubiquinone) activity,GO:0008137,"Epilepsy, Tonic-Clonic",MESH:D004830,12,Acetaminophen|Bupropion|Chloroquine|Chlorpromazine|Clozapine|Deferoxamine|Ethanol|Haloperidol|Lithium|Lithium Chloride|Plant Extracts|Valproic Acid,0,
+NADH dehydrogenase (ubiquinone) activity,GO:0008137,"Myoclonic Epilepsy, Juvenile",MESH:D020190,1,Valproic Acid,0,
+NADPH oxidase H202-forming activity,GO:0106294,"EPILEPSY, FAMILIAL TEMPORAL LOBE, 1",OMIM:600512,0,,1,MICAL1
+NAD(P)H oxidase H2O2-forming activity,GO:0016174,Epilepsy,MESH:D004827,1,Cisplatin,1,TXNRD1
+NAD(P)H oxidase H2O2-forming activity,GO:0016174,"EPILEPSY, FAMILIAL TEMPORAL LOBE, 1",OMIM:600512,0,,1,MICAL1
+NADPH peroxidase activity,GO:0050137,Epilepsy,MESH:D004827,0,,1,TXNRD1
+nerve growth factor binding,GO:0048406,"Epilepsy, Tonic-Clonic",MESH:D004830,0,,1,NTF3
+nerve growth factor receptor binding,GO:0005163,Epilepsy,MESH:D004827,0,,1,BDNF
+nerve growth factor receptor binding,GO:0005163,"Epilepsy, Tonic-Clonic",MESH:D004830,0,,3,BDNF|NGF|NTF3
+neurohypophyseal hormone activity,GO:0005185,"Epilepsy, Tonic-Clonic",MESH:D004830,0,,1,OXT
+neuropeptide binding,GO:0042923,Epilepsy,MESH:D004827,0,,3,NPY2R|OPRD1|OPRM1
+neuropeptide binding,GO:0042923,"Epilepsy, Temporal Lobe",MESH:D004833,0,,1,NPY2R
+neuropeptide hormone activity,GO:0005184,Epilepsy,MESH:D004827,0,,2,NPY|POMC
+neuropeptide hormone activity,GO:0005184,"EPILEPSY, FAMILIAL TEMPORAL LOBE, 8",OMIM:616461,0,,1,GAL
+neuropeptide hormone activity,GO:0005184,"Epilepsy, Temporal Lobe",MESH:D004833,0,,1,NPY
+neuropeptide hormone activity,GO:0005184,"Epilepsy, Tonic-Clonic",MESH:D004830,0,,2,OXT|POMC
+neuropeptide Y receptor activity,GO:0004983,Epilepsy,MESH:D004827,0,,1,NPY2R
+neuropeptide Y receptor activity,GO:0004983,"Epilepsy, Temporal Lobe",MESH:D004833,0,,1,NPY2R
+neuropeptide Y receptor binding,GO:0031841,Epilepsy,MESH:D004827,0,,1,NPY
+neuropeptide Y receptor binding,GO:0031841,"Epilepsy, Temporal Lobe",MESH:D004833,0,,1,NPY
+neuropilin binding,GO:0038191,"Epilepsy, Temporal Lobe",MESH:D004833,0,,1,VEGFA
+neurotransmitter receptor activity,GO:0030594,Epilepsy,MESH:D004827,0,,2,GABRB2|GABRB3
+neurotransmitter receptor activity,GO:0030594,"Epilepsy, Absence",MESH:D004832,0,,1,GABRB3
+neurotransmitter receptor activity,GO:0030594,"Epilepsy, Frontal Lobe",MESH:D017034,0,,2,CHRNA4|CHRNB2
+neurotransmitter receptor activity,GO:0030594,"Epilepsy, Generalized",MESH:D004829,0,,1,CHRNA7
+neurotransmitter receptor activity,GO:0030594,"Epilepsy, Idiopathic Generalized",MESH:C562694,0,,1,GABRD
+neurotransmitter receptor activity,GO:0030594,"Epilepsy, Nocturnal Frontal Lobe, Type 1",MESH:C563930,0,,1,CHRNA4
+neurotransmitter receptor activity,GO:0030594,"Epilepsy, Nocturnal Frontal Lobe, Type 3",MESH:C565334,0,,1,CHRNB2
+neurotransmitter receptor activity,GO:0030594,"Epilepsy, Nocturnal Frontal Lobe, Type 4",MESH:C563679,0,,1,CHRNA2
+neurotransmitter receptor activity involved in regulation of postsynaptic cytosolic calcium ion concentration,GO:0099583,Epilepsy,MESH:D004827,0,,2,GRIN2B|GRM1
+neurotransmitter receptor activity involved in regulation of postsynaptic cytosolic calcium ion concentration,GO:0099583,"Epilepsy, Temporal Lobe",MESH:D004833,0,,2,GRM1|GRM5
+neurotrophin p75 receptor binding,GO:0005166,"Epilepsy, Tonic-Clonic",MESH:D004830,0,,1,NTF3
+neurotrophin receptor binding,GO:0005165,"Epilepsy, Tonic-Clonic",MESH:D004830,0,,1,NTF3
+neurotrophin TRKB receptor binding,GO:0005169,Epilepsy,MESH:D004827,0,,1,BDNF
+neurotrophin TRKB receptor binding,GO:0005169,"Epilepsy, Tonic-Clonic",MESH:D004830,0,,1,BDNF
+neutral L-amino acid transmembrane transporter activity,GO:0015175,Epilepsy,MESH:D004827,0,,2,SLC1A2|SLC1A3
+NF-kappaB binding,GO:0051059,Epilepsy,MESH:D004827,1,Etoposide,0,
+NF-kappaB binding,GO:0051059,"Epilepsy, Tonic-Clonic",MESH:D004830,1,Ethanol,0,
+nickel cation binding,GO:0016151,Epilepsy,MESH:D004827,0,,1,P2RX2
+nitric-oxide synthase activity,GO:0004517,"Epilepsy, Absence",MESH:D004832,1,Doxorubicin,0,
+nitric-oxide synthase activity,GO:0004517,"Epilepsy, Tonic-Clonic",MESH:D004830,3,Caffeine|Chloroquine|Methamphetamine,0,
+nitric-oxide synthase binding,GO:0050998,Epilepsy,MESH:D004827,0,,1,DNM1
+nitric-oxide synthase regulator activity,GO:0030235,Epilepsy,MESH:D004827,0,,1,AKT1
+NMDA glutamate receptor activity,GO:0004972,Epilepsy,MESH:D004827,0,,2,GRIN2A|GRIN2B
+NMDA glutamate receptor activity,GO:0004972,"EPILEPSY, FOCAL, WITH SPEECH DISORDER AND WITH OR WITHOUT IMPAIRED INTELLECTUAL DEVELOPMENT",OMIM:245570,0,,1,GRIN2A
+NMDA glutamate receptor activity,GO:0004972,"Epilepsy, Rolandic",MESH:D019305,0,,1,GRIN2A
+non-membrane spanning protein tyrosine kinase activity,GO:0004715,Epilepsy,MESH:D004827,0,,1,DYRK1A
+norepinephrine binding,GO:0051380,Epilepsy,MESH:D004827,0,,1,ADRA2A
+nuclear estrogen receptor binding,GO:0030331,Epilepsy,MESH:D004827,0,,1,GRM1
+nuclear estrogen receptor binding,GO:0030331,"Epilepsy, Temporal Lobe",MESH:D004833,0,,1,GRM1
+nuclear export signal receptor activity,GO:0005049,Pyridoxine-dependent epilepsy,MESH:C536254,0,,1,ALDH7A1
+nuclear receptor activity,GO:0004879,"Epilepsy, Temporal Lobe",MESH:D004833,0,,1,VDR
+nuclear receptor binding,GO:0016922,SPINAL MUSCULAR ATROPHY WITH PROGRESSIVE MYOCLONIC EPILEPSY,OMIM:159950,0,,1,ASAH1
+nuclear retinoid X receptor binding,GO:0046965,"Epilepsy, Temporal Lobe",MESH:D004833,0,,1,VDR
+nuclear steroid receptor activity,GO:0003707,"Epilepsy, Temporal Lobe",MESH:D004833,0,,1,VDR
+nucleic acid binding,GO:0003676,Cortical Dysplasia-Focal Epilepsy Syndrome,MESH:C567657,0,,1,CNTNAP2
+nucleic acid binding,GO:0003676,Epilepsy,MESH:D004827,0,,4,CNTNAP2|DDX3X|DYRK1A|MECP2
+nucleic acid binding,GO:0003676,"Epilepsy, Absence",MESH:D004832,0,,1,KCNK9
+nucleic acid binding,GO:0003676,"Epilepsy, Familial Adult Myoclonic, 3",MESH:C567098,0,,1,MARCHF6
+nucleic acid binding,GO:0003676,"EPILEPSY, PROGRESSIVE MYOCLONIC, 3, WITH OR WITHOUT INTRACELLULAR INCLUSIONS",OMIM:611726,0,,1,KCTD7
+nucleic acid binding,GO:0003676,"Epilepsy, Tonic-Clonic",MESH:D004830,0,,1,FGF2
+nucleosome binding,GO:0031491,Epilepsy,MESH:D004827,0,,1,ARID1B
+nucleotide binding,GO:0000166,Epilepsy,MESH:D004827,0,,7,AKT1|CDKL5|CHD2|EEF1A2|P2RX2|TXNRD1|VDAC1
+nucleotide binding,GO:0000166,"Epilepsy, Temporal Lobe",MESH:D004833,0,,3,KDR|TEK|TRPV1
+nucleotidyltransferase activity,GO:0016779,Epilepsy,MESH:D004827,0,,1,POLG
+organic anion transmembrane transporter activity,GO:0008514,Epilepsy,MESH:D004827,0,,1,SLCO1A5
+organic cyclic compound binding,GO:0097159,"Epilepsy, Temporal Lobe",MESH:D004833,0,,1,VDR
+outward rectifier potassium channel activity,GO:0015271,"Epilepsy, Absence",MESH:D004832,0,,1,KCNK9
+outward rectifier potassium channel activity,GO:0015271,"Epilepsy, Frontal Lobe",MESH:D017034,0,,1,KCNT1
+outward rectifier potassium channel activity,GO:0015271,"EPILEPSY, NOCTURNAL FRONTAL LOBE, 5",OMIM:615005,0,,1,KCNT1
+oxidoreductase activity,GO:0016491,Epilepsy,MESH:D004827,0,,4,KCNAB2|L2HGDH|SELENOW|TXNRD1
+oxidoreductase activity,GO:0016491,"EPILEPSY, FAMILIAL TEMPORAL LOBE, 1",OMIM:600512,0,,1,MICAL1
+oxidoreductase activity,GO:0016491,"Epilepsy, Tonic-Clonic",MESH:D004830,0,,1,CYP2D6
+oxidoreductase activity,GO:0016491,Generalized Epilepsy and Paroxysmal Dyskinesia,MESH:C563719,0,,1,KCNMA1
+oxidoreductase activity,GO:0016491,Pyridoxine-dependent epilepsy,MESH:C536254,0,,1,ALDH7A1
+"oxidoreductase activity, acting on CH-OH group of donors",GO:0016614,Epilepsy,MESH:D004827,0,,1,L2HGDH
+"oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, NAD(P)H as one donor, and incorporation of one atom of oxygen",GO:0016709,"EPILEPSY, FAMILIAL TEMPORAL LOBE, 1",OMIM:600512,0,,1,MICAL1
+"oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, reduced flavin or flavoprotein as one donor, and incorporation of one atom of oxygen",GO:0016712,Epilepsy,MESH:D004827,1,Phenobarbital,0,
+"oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, reduced flavin or flavoprotein as one donor, and incorporation of one atom of oxygen",GO:0016712,"Epilepsy, Absence",MESH:D004832,1,Phenobarbital,0,
+"oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, reduced flavin or flavoprotein as one donor, and incorporation of one atom of oxygen",GO:0016712,"Epilepsy, Complex Partial",MESH:D017029,1,Phenobarbital,0,
+"oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, reduced flavin or flavoprotein as one donor, and incorporation of one atom of oxygen",GO:0016712,"Epilepsy, Generalized",MESH:D004829,1,Phenobarbital,0,
+"oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, reduced flavin or flavoprotein as one donor, and incorporation of one atom of oxygen",GO:0016712,"Epilepsy, Temporal Lobe",MESH:D004833,1,Phenobarbital,0,
+"oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, reduced flavin or flavoprotein as one donor, and incorporation of one atom of oxygen",GO:0016712,"Epilepsy, Tonic-Clonic",MESH:D004830,1,Phenobarbital,1,CYP2D6
+"oxidoreductase activity, acting on the aldehyde or oxo group of donors, NAD or NADP as acceptor",GO:0016620,Pyridoxine-dependent epilepsy,MESH:C536254,0,,1,ALDH7A1
+oxoglutarate dehydrogenase (succinyl-transferring) activity,GO:0004591,"Epilepsy, Absence",MESH:D004832,1,Doxorubicin,0,
+oxygen binding,GO:0019825,Epilepsy,MESH:D004827,0,,1,ALB
+oxygen binding,GO:0019825,"Epilepsy, Partial, with Variable Foci",MESH:C565785,0,,1,NPRL3
+oxysterol binding,GO:0008142,Epilepsy,MESH:D004827,0,,2,VDAC1|VDAC2
+oxytocin receptor binding,GO:0031855,"Epilepsy, Tonic-Clonic",MESH:D004830,0,,1,OXT
+p53 binding,GO:0002039,Epilepsy,MESH:D004827,0,,1,CDKL5
+palmitoyl-CoA oxidase activity,GO:0016401,Epilepsy,MESH:D004827,1,Phenobarbital,0,
+palmitoyl-CoA oxidase activity,GO:0016401,"Epilepsy, Absence",MESH:D004832,1,Phenobarbital,0,
+palmitoyl-CoA oxidase activity,GO:0016401,"Epilepsy, Complex Partial",MESH:D017029,1,Phenobarbital,0,
+palmitoyl-CoA oxidase activity,GO:0016401,"Epilepsy, Generalized",MESH:D004829,1,Phenobarbital,0,
+palmitoyl-CoA oxidase activity,GO:0016401,"Epilepsy, Temporal Lobe",MESH:D004833,1,Phenobarbital,0,
+palmitoyl-CoA oxidase activity,GO:0016401,"Epilepsy, Tonic-Clonic",MESH:D004830,1,Phenobarbital,0,
+palmitoyltransferase activity,GO:0016409,Epilepsy,MESH:D004827,0,,1,ARID1B
+PDZ domain binding,GO:0030165,Cortical Dysplasia-Focal Epilepsy Syndrome,MESH:C567657,0,,1,CNTNAP2
+PDZ domain binding,GO:0030165,Epilepsy,MESH:D004827,0,,1,CNTNAP2
+PDZ domain binding,GO:0030165,"Epilepsy, Temporal Lobe",MESH:D004833,0,,1,GRM5
+peptidase activator activity involved in apoptotic process,GO:0016505,Epilepsy,MESH:D004827,4,Cisplatin|Kainic Acid|Plant Extracts|Valproic Acid,0,
+peptidase activator activity involved in apoptotic process,GO:0016505,"Epilepsy, Absence",MESH:D004832,2,Doxorubicin|Valproic Acid,0,
+peptidase activator activity involved in apoptotic process,GO:0016505,"Epilepsy, Complex Partial",MESH:D017029,1,Valproic Acid,0,
+peptidase activator activity involved in apoptotic process,GO:0016505,"Epilepsy, Generalized",MESH:D004829,1,Valproic Acid,0,
+peptidase activator activity involved in apoptotic process,GO:0016505,"Epilepsy, Post-Traumatic",MESH:D004834,1,Kainic Acid,0,
+peptidase activator activity involved in apoptotic process,GO:0016505,"Epilepsy, Reflex",MESH:D020195,1,Valproic Acid,0,
+peptidase activator activity involved in apoptotic process,GO:0016505,"Epilepsy, Rolandic",MESH:D019305,1,Valproic Acid,0,
+peptidase activator activity involved in apoptotic process,GO:0016505,"Epilepsy, Temporal Lobe",MESH:D004833,3,Kainic Acid|Plant Extracts|Valproic Acid,0,
+peptidase activator activity involved in apoptotic process,GO:0016505,"Epilepsy, Tonic-Clonic",MESH:D004830,4,Deferoxamine|Ethanol|Plant Extracts|Valproic Acid,0,
+peptidase activator activity involved in apoptotic process,GO:0016505,"Myoclonic Epilepsy, Juvenile",MESH:D020190,1,Valproic Acid,0,
+peptidase activity,GO:0008233,"EPILEPSY, FAMILIAL TEMPORAL LOBE, 5",OMIM:614417,0,,1,CPA6
+peptidase activity,GO:0008233,"Epilepsy, Tonic-Clonic",MESH:D004830,1,Diclofenac,0,
+peptidase inhibitor activity,GO:0030414,"Epilepsy, Tonic-Clonic",MESH:D004830,0,,1,NGF
+peptide binding,GO:0042277,"Epilepsy, Temporal Lobe",MESH:D004833,0,,1,BDKRB1
+peptide YY receptor activity,GO:0001601,Epilepsy,MESH:D004827,0,,1,NPY2R
+peptide YY receptor activity,GO:0001601,"Epilepsy, Temporal Lobe",MESH:D004833,0,,1,NPY2R
+peroxidase activity,GO:0004601,Epilepsy,MESH:D004827,0,,1,GPX1
+peroxisome proliferator activated receptor binding,GO:0042975,Epilepsy,MESH:D004827,0,,1,ASXL3
+phosphatase activity,GO:0016791,Epilepsy,MESH:D004827,1,Magnesium,0,
+phosphatase binding,GO:0019902,Epilepsy,MESH:D004827,0,,1,TSC2
+phosphate ion transmembrane transporter activity,GO:0015114,"Epilepsy, Tonic-Clonic",MESH:D004830,1,Sodium Chloride,0,
+phosphatidylcholine binding,GO:0031210,Epilepsy,MESH:D004827,0,,2,VDAC1|VDAC2
+phosphatidylcholine binding,GO:0031210,"EPILEPSY, PROGRESSIVE MYOCLONIC, 4, WITH OR WITHOUT RENAL FAILURE",OMIM:254900,0,,1,SCARB2
+phosphatidylcholine floppase activity,GO:0090554,Epilepsy,MESH:D004827,0,,1,ABCB1
+phosphatidylethanolamine flippase activity,GO:0090555,Epilepsy,MESH:D004827,0,,1,ABCB1
+"phosphatidylinositol-3,4,5-trisphosphate binding",GO:0005547,Epilepsy,MESH:D004827,0,,3,AKT1|DNM1|HCN1
+"phosphatidylinositol-3,4-bisphosphate binding",GO:0043325,Epilepsy,MESH:D004827,0,,1,AKT1
+"phosphatidylinositol-3,5-bisphosphate binding",GO:0080025,Epilepsy,MESH:D004827,0,,1,WDR45
+phosphatidylinositol-3-phosphate binding,GO:0032266,Epilepsy,MESH:D004827,0,,1,WDR45
+"phosphatidylinositol-4,5-bisphosphate binding",GO:0005546,Epilepsy,MESH:D004827,0,,2,DNM1|HCN1
+phosphatidylinositol-4-phosphate binding,GO:0070273,Epilepsy,MESH:D004827,0,,1,CERT1
+phosphatidylinositol binding,GO:0035091,Epilepsy,MESH:D004827,0,,1,P2RX2
+phosphatidylinositol binding,GO:0035091,"Epilepsy, Temporal Lobe",MESH:D004833,0,,1,TRPV1
+phosphatidylinositol bisphosphate binding,GO:1902936,Epilepsy,MESH:D004827,0,,1,KCNH1
+phosphatidylinositol phosphate binding,GO:1901981,Epilepsy,MESH:D004827,0,,1,WDR45
+phosphatidylinositol phospholipase C activity,GO:0004435,Epilepsy,MESH:D004827,0,,1,CHRM1
+phosphatidylinositol phospholipase C activity,GO:0004435,"Epilepsy, Idiopathic Generalized",MESH:C562694,0,,1,CASR
+phosphatidylinositol phospholipase C activity,GO:0004435,"Epilepsy, Temporal Lobe",MESH:D004833,0,,1,BDKRB2
+phosphatidylserine binding,GO:0001786,"EPILEPSY, PROGRESSIVE MYOCLONIC, 4, WITH OR WITHOUT RENAL FAILURE",OMIM:254900,0,,1,SCARB2
+phosphoenolpyruvate carboxykinase activity,GO:0004611,Epilepsy,MESH:D004827,1,Plant Extracts,0,
+phosphoenolpyruvate carboxykinase activity,GO:0004611,"Epilepsy, Temporal Lobe",MESH:D004833,1,Plant Extracts,0,
+phosphoenolpyruvate carboxykinase activity,GO:0004611,"Epilepsy, Tonic-Clonic",MESH:D004830,1,Plant Extracts,0,
+phospholipase A2 activity,GO:0004623,Epilepsy,MESH:D004827,1,Dexamethasone,0,
+phospholipase A2 activity,GO:0004623,"Epilepsy, Tonic-Clonic",MESH:D004830,1,Diclofenac,0,
+phospholipase binding,GO:0043274,Epilepsy,MESH:D004827,0,,1,STXBP1
+phospholipid-hydroperoxide glutathione peroxidase activity,GO:0047066,Epilepsy,MESH:D004827,0,,1,GPX1
+phospholipid scramblase activity,GO:0017128,Epilepsy,MESH:D004827,0,,1,VDAC2
+phosphoprotein binding,GO:0051219,"Epilepsy, Temporal Lobe",MESH:D004833,0,,1,TRPV1
+piRNA binding,GO:0034584,Epilepsy,MESH:D004827,0,,1,HNRNPU
+placental growth factor receptor activity,GO:0036332,"Epilepsy, Temporal Lobe",MESH:D004833,0,,2,KDR|TEK
+platelet-derived growth factor alpha-receptor activity,GO:0005018,"Epilepsy, Temporal Lobe",MESH:D004833,0,,2,KDR|TEK
+platelet-derived growth factor beta-receptor activity,GO:0005019,"Epilepsy, Temporal Lobe",MESH:D004833,0,,2,KDR|TEK
+platelet-derived growth factor receptor binding,GO:0005161,Epilepsy,MESH:D004827,0,,1,ERN1
+platelet-derived growth factor receptor binding,GO:0005161,"Epilepsy, Temporal Lobe",MESH:D004833,0,,1,VEGFA
+PLC activating G protein-coupled glutamate receptor activity,GO:0001639,Epilepsy,MESH:D004827,0,,1,GRM1
+PLC activating G protein-coupled glutamate receptor activity,GO:0001639,"Epilepsy, Temporal Lobe",MESH:D004833,0,,2,GRM1|GRM5
+poly(A) binding,GO:0008143,Epilepsy,MESH:D004827,0,,2,DDX3X|HNRNPU
+poly(C) RNA binding,GO:0017130,Epilepsy,MESH:D004827,0,,1,HNRNPU
+poly(G) binding,GO:0034046,Epilepsy,MESH:D004827,0,,1,HNRNPU
+porin activity,GO:0015288,Epilepsy,MESH:D004827,0,,2,VDAC1|VDAC2
+potassium channel activator activity,GO:0099104,Epilepsy,MESH:D004827,0,,1,AKT1
+potassium channel activity,GO:0005267,Epilepsy,MESH:D004827,0,,3,HCN1|KCNH1|KCNQ2
+potassium channel activity,GO:0005267,"Epilepsy, Absence",MESH:D004832,0,,1,KCNK9
+potassium channel activity,GO:0005267,"Epilepsy, Benign Neonatal",MESH:D020936,0,,1,KCNQ2
+potassium channel activity,GO:0005267,"Epilepsy, Frontal Lobe",MESH:D017034,0,,1,KCNT1
+potassium channel activity,GO:0005267,"EPILEPSY, NOCTURNAL FRONTAL LOBE, 5",OMIM:615005,0,,1,KCNT1
+potassium channel activity,GO:0005267,"Epilepsy, Temporal Lobe",MESH:D004833,0,,2,KCNC4|P2RX7
+potassium channel activity,GO:0005267,Generalized Epilepsy and Paroxysmal Dyskinesia,MESH:C563719,0,,1,KCNMA1
+potassium channel regulator activity,GO:0015459,Epilepsy,MESH:D004827,0,,2,FLNA|KCNAB2
+potassium:chloride symporter activity,GO:0015379,Epilepsy,MESH:D004827,0,,1,SLC12A5
+potassium:chloride symporter activity,GO:0015379,"Epilepsy, Idiopathic Generalized",MESH:C562694,0,,1,SLC12A5
+potassium:chloride symporter activity,GO:0015379,"Epilepsy, Temporal Lobe",MESH:D004833,0,,1,SLC12A5
+potassium ion leak channel activity,GO:0022841,"Epilepsy, Absence",MESH:D004832,0,,1,KCNK9
+potassium ion transmembrane transporter activity,GO:0015079,Epilepsy,MESH:D004827,0,,1,SLC12A2
+potassium ion transmembrane transporter activity,GO:0015079,"Epilepsy, Temporal Lobe",MESH:D004833,0,,1,SLC12A2
+pre-mRNA binding,GO:0036002,Epilepsy,MESH:D004827,0,,1,HNRNPU
+primary miRNA binding,GO:0070878,Epilepsy,MESH:D004827,0,,1,DDX3X
+promoter-specific chromatin binding,GO:1990841,Epilepsy,MESH:D004827,0,,3,FOS|HNRNPU|MECP2
+prostaglandin-endoperoxide synthase activity,GO:0004666,"Epilepsy, Tonic-Clonic",MESH:D004830,1,Diclofenac,0,
+protease binding,GO:0002020,Cortical Dysplasia-Focal Epilepsy Syndrome,MESH:C567657,0,,1,CNTNAP2
+protease binding,GO:0002020,Epilepsy,MESH:D004827,0,,2,CNTNAP2|POLG
+protease binding,GO:0002020,"Epilepsy, Temporal Lobe",MESH:D004833,0,,1,BDKRB2
+protein binding,GO:0005515,Amish Infantile Epilepsy Syndrome,MESH:C563799,0,,1,ST3GAL5
+protein binding,GO:0005515,Cortical Dysplasia-Focal Epilepsy Syndrome,MESH:C567657,0,,1,CNTNAP2
+protein binding,GO:0005515,Epilepsy,MESH:D004827,2,Calcium|Magnesium,76,ABCB1|ADRA2A|AKT1|ALB|ALG13|ANKRD11|ARID1B|AUTS2|BDNF|CDKL5|CERT1|CHD2|CHRM1|CNTNAP2|DDX3X|DNM1|DYRK1A|EEF1A2|ERN1|FLNA|FOLR1|FOS|FOSB|FOXG1|GABRB2|GABRB3|GFAP|GNAO1|GPX1|GRIN2A|GRIN2B|GRM1|HCN1|HNRNPU|ILK|IQSEC2|KCNAB2|KCNH1|KCNQ2|MECP2|MEF2C|NPY|NPY2R|OPRD1|OPRM1|P2RX2|P2RX4|POLG|POMC|PURA|RAB39B|SCN1A|SCN2A|SCN8A|SLC12A2|SLC12A5|SLC1A1|SLC1A2|SLC1A3|SLC4A10|SLC6A1|SMC1A|SNAP25|SPARCL1|STAMBP|STX1B|STXBP1|SYNGAP1|TGFB1|TSC1|TSC2|TXNRD1|UBE3A|VDAC1|VDAC2|WDR45
+protein binding,GO:0005515,"Epilepsy, Absence",MESH:D004832,0,,6,CACNA1A|CACNA1H|EFHC1|GABRB3|JRK|KCNK9
+protein binding,GO:0005515,"Epilepsy, Benign Neonatal",MESH:D020936,0,,1,KCNQ2
+protein binding,GO:0005515,"Epilepsy, Benign Neonatal, 3",MESH:C564274,0,,1,SCN2A
+protein binding,GO:0005515,"Epilepsy, Complex Partial",MESH:D017029,0,,1,SCN3A
+protein binding,GO:0005515,"EPILEPSY, EARLY-ONSET, 5, WITH OR WITHOUT DEVELOPMENTAL DELAY",OMIM:615400,0,,1,CNTN2
+protein binding,GO:0005515,"Epilepsy, Familial Adult Myoclonic, 3",MESH:C567098,0,,1,MARCHF6
+protein binding,GO:0005515,"EPILEPSY, FAMILIAL TEMPORAL LOBE, 1",OMIM:600512,0,,3,LGI1|MICAL1|RELN
+protein binding,GO:0005515,"EPILEPSY, FAMILIAL TEMPORAL LOBE, 7",OMIM:616436,0,,1,RELN
+protein binding,GO:0005515,"EPILEPSY, FAMILIAL TEMPORAL LOBE, 8",OMIM:616461,0,,1,GAL
+protein binding,GO:0005515,"EPILEPSY, FOCAL, WITH SPEECH DISORDER AND WITH OR WITHOUT IMPAIRED INTELLECTUAL DEVELOPMENT",OMIM:245570,0,,1,GRIN2A
+protein binding,GO:0005515,"Epilepsy, Frontal Lobe",MESH:D017034,0,,4,CHRNA4|CHRNB2|KCNT1|SLC4A10
+protein binding,GO:0005515,"Epilepsy, Generalized",MESH:D004829,0,,4,CACNB4|CHRNA7|JRK|SCN1A
+protein binding,GO:0005515,"Epilepsy, Idiopathic Generalized",MESH:C562694,0,,5,CACNB4|CASR|CLCN2|GABRD|SLC12A5
+protein binding,GO:0005515,"Epilepsy, Myoclonic, Benign Adult Familial, Type 1",MESH:C563399,0,,1,SAMD12
+protein binding,GO:0005515,"Epilepsy, Myoclonic, Benign Adult Familial, Type 2",MESH:C564313,0,,1,STARD7
+protein binding,GO:0005515,"EPILEPSY, NOCTURNAL FRONTAL LOBE, 5",OMIM:615005,0,,1,KCNT1
+protein binding,GO:0005515,"Epilepsy, Nocturnal Frontal Lobe, Type 1",MESH:C563930,0,,1,CHRNA4
+protein binding,GO:0005515,"Epilepsy, Nocturnal Frontal Lobe, Type 3",MESH:C565334,0,,1,CHRNB2
+protein binding,GO:0005515,"Epilepsy, Partial, with Variable Foci",MESH:C565785,0,,3,DEPDC5|NPRL2|NPRL3
+protein binding,GO:0005515,"EPILEPSY, PROGRESSIVE MYOCLONIC, 3, WITH OR WITHOUT INTRACELLULAR INCLUSIONS",OMIM:611726,0,,1,KCTD7
+protein binding,GO:0005515,"EPILEPSY, PROGRESSIVE MYOCLONIC, 4, WITH OR WITHOUT RENAL FAILURE",OMIM:254900,0,,1,SCARB2
+protein binding,GO:0005515,"Epilepsy, Rolandic",MESH:D019305,0,,1,GRIN2A
+protein binding,GO:0005515,"Epilepsy, rolandic with paroxysmal exercise-induced dystonia and writer's cramp",MESH:C535499,0,,1,TBC1D24
+protein binding,GO:0005515,"Epilepsy, Temporal Lobe",MESH:D004833,0,,22,BDKRB1|BDKRB2|CNR1|COX3|GRM1|GRM2|GRM4|GRM5|KCNC4|KDR|NPY|NPY2R|P2RX4|P2RX7|SLC12A2|SLC12A5|SLC1A1|SLIT2|TEK|TRPV1|VDR|VEGFA
+protein binding,GO:0005515,"Epilepsy, Tonic-Clonic",MESH:D004830,0,,9,BCHE|BDNF|FGF2|HBEGF|NES|NGF|NTF3|OXT|POMC
+protein binding,GO:0005515,"Epilepsy, X-Linked, with Variable Learning Disabilities and Behavior Disorders",MESH:C564505,0,,1,SYN1
+protein binding,GO:0005515,Generalized Epilepsy and Paroxysmal Dyskinesia,MESH:C563719,0,,1,KCNMA1
+protein binding,GO:0005515,"Generalized Epilepsy With Febrile Seizures Plus, Type 1",MESH:C565809,0,,1,SCN1B
+protein binding,GO:0005515,"Generalized Epilepsy With Febrile Seizures Plus, Type 2",MESH:C565810,0,,1,SCN1A
+protein binding,GO:0005515,"GENERALIZED EPILEPSY WITH FEBRILE SEIZURES PLUS, TYPE 9",OMIM:616172,0,,1,STX1B
+protein binding,GO:0005515,Hyperekplexia and Epilepsy,MESH:C564474,0,,1,ARHGEF9
+protein binding,GO:0005515,"INTELLECTUAL DEVELOPMENTAL DISORDER, AUTOSOMAL RECESSIVE 18, WITH OR WITHOUT EPILEPSY",OMIM:614249,0,,1,MED23
+protein binding,GO:0005515,"Mental Retardation, X-Linked, with Epilepsy",MESH:C564516,0,,1,ATP6AP2
+protein binding,GO:0005515,"MICROCEPHALY, EPILEPSY, AND DIABETES SYNDROME 1",OMIM:614231,0,,1,IER3IP1
+protein binding,GO:0005515,MYOCLONIC-ATONIC EPILEPSY,OMIM:616421,0,,1,SLC6A1
+protein binding,GO:0005515,"MYOCLONIC EPILEPSY, FAMILIAL INFANTILE",OMIM:605021,0,,1,TBC1D24
+protein binding,GO:0005515,"Myoclonic Epilepsy, Juvenile",MESH:D020190,0,,4,CACNB4|EFHC1|GABRA1|JRK
+protein binding,GO:0005515,"NEURODEVELOPMENTAL DISORDER WITH EPILEPSY, CATARACTS, FEEDING DIFFICULTIES, AND DELAYED BRAIN MYELINATION",OMIM:617393,0,,1,NACC1
+protein binding,GO:0005515,"Polyhydramnios, Megalencephaly, And Symptomatic Epilepsy",MESH:C567020,0,,1,STRADA
+protein binding,GO:0005515,Prickle1-Related Progressive Myoclonic Epilepsy with Ataxia,MESH:C580388,0,,1,PRICKLE1
+protein binding,GO:0005515,Pyridoxine-dependent epilepsy,MESH:C536254,0,,1,ALDH7A1
+protein binding,GO:0005515,"Rolandic Epilepsy, Mental Retardation, and Speech Dyspraxia, X-Linked",MESH:C564467,0,,1,SRPX2
+protein binding,GO:0005515,SPINAL MUSCULAR ATROPHY WITH PROGRESSIVE MYOCLONIC EPILEPSY,OMIM:159950,0,,1,ASAH1
+protein-containing complex binding,GO:0044877,Epilepsy,MESH:D004827,0,,13,DNM1|FLNA|FOS|GRIN2A|GRIN2B|HNRNPU|ILK|KCNAB2|KCNH1|P2RX2|TGFB1|TSC2|VDAC1
+protein-containing complex binding,GO:0044877,"EPILEPSY, FOCAL, WITH SPEECH DISORDER AND WITH OR WITHOUT IMPAIRED INTELLECTUAL DEVELOPMENT",OMIM:245570,0,,1,GRIN2A
+protein-containing complex binding,GO:0044877,"Epilepsy, Frontal Lobe",MESH:D017034,0,,2,CHRNA4|CHRNB2
+protein-containing complex binding,GO:0044877,"Epilepsy, Nocturnal Frontal Lobe, Type 1",MESH:C563930,0,,1,CHRNA4
+protein-containing complex binding,GO:0044877,"Epilepsy, Nocturnal Frontal Lobe, Type 3",MESH:C565334,0,,1,CHRNB2
+protein-containing complex binding,GO:0044877,"Epilepsy, Partial, with Variable Foci",MESH:C565785,0,,1,DEPDC5
+protein-containing complex binding,GO:0044877,"Epilepsy, Rolandic",MESH:D019305,0,,1,GRIN2A
+protein-containing complex binding,GO:0044877,Generalized Epilepsy and Paroxysmal Dyskinesia,MESH:C563719,0,,1,KCNMA1
+protein-containing complex binding,GO:0044877,"Polyhydramnios, Megalencephaly, And Symptomatic Epilepsy",MESH:C567020,0,,1,STRADA
+protein-containing complex binding,GO:0044877,Prickle1-Related Progressive Myoclonic Epilepsy with Ataxia,MESH:C580388,0,,1,PRICKLE1
+protein dimerization activity,GO:0046983,Epilepsy,MESH:D004827,0,,1,MEF2C
+protein dimerization activity,GO:0046983,Pyridoxine-dependent epilepsy,MESH:C536254,0,,1,PLPBP
+protein disulfide isomerase activity,GO:0003756,"Epilepsy, Tonic-Clonic",MESH:D004830,1,Methamphetamine,0,
+protein domain specific binding,GO:0019904,Epilepsy,MESH:D004827,0,,7,ILK|MECP2|OPRM1|SNAP25|STAMBP|STX1B|STXBP1
+protein domain specific binding,GO:0019904,"GENERALIZED EPILEPSY WITH FEBRILE SEIZURES PLUS, TYPE 9",OMIM:616172,0,,1,STX1B
+protein folding chaperone,GO:0044183,Epilepsy,MESH:D004827,0,,1,TSC1
+protein-glutamine gamma-glutamyltransferase activity,GO:0003810,Epilepsy,MESH:D004827,4,Calcium|Cisplatin|Valproic Acid|Vitamin U,0,
+protein-glutamine gamma-glutamyltransferase activity,GO:0003810,"Epilepsy, Absence",MESH:D004832,2,Doxorubicin|Valproic Acid,0,
+protein-glutamine gamma-glutamyltransferase activity,GO:0003810,"Epilepsy, Complex Partial",MESH:D017029,1,Valproic Acid,0,
+protein-glutamine gamma-glutamyltransferase activity,GO:0003810,"Epilepsy, Generalized",MESH:D004829,1,Valproic Acid,0,
+protein-glutamine gamma-glutamyltransferase activity,GO:0003810,"Epilepsy, Reflex",MESH:D020195,1,Valproic Acid,0,
+protein-glutamine gamma-glutamyltransferase activity,GO:0003810,"Epilepsy, Rolandic",MESH:D019305,1,Valproic Acid,0,
+protein-glutamine gamma-glutamyltransferase activity,GO:0003810,"Epilepsy, Temporal Lobe",MESH:D004833,1,Valproic Acid,0,
+protein-glutamine gamma-glutamyltransferase activity,GO:0003810,"Epilepsy, Tonic-Clonic",MESH:D004830,1,Valproic Acid,0,
+protein-glutamine gamma-glutamyltransferase activity,GO:0003810,"Myoclonic Epilepsy, Juvenile",MESH:D020190,1,Valproic Acid,0,
+protein heterodimerization activity,GO:0046982,Epilepsy,MESH:D004827,0,,3,ADRA2A|MEF2C|SMC1A
+protein heterodimerization activity,GO:0046982,"Epilepsy, Absence",MESH:D004832,0,,1,KCNK9
+protein heterodimerization activity,GO:0046982,"Epilepsy, Temporal Lobe",MESH:D004833,0,,1,BDKRB2
+protein homodimerization activity,GO:0042803,Epilepsy,MESH:D004827,0,,7,ADRA2A|AKT1|ANKRD11|DNM1|ERN1|FLNA|TSC2
+protein homodimerization activity,GO:0042803,"EPILEPSY, FAMILIAL TEMPORAL LOBE, 8",OMIM:616461,0,,1,GAL
+protein homodimerization activity,GO:0042803,"Epilepsy, Generalized",MESH:D004829,0,,1,CHRNA7
+protein homodimerization activity,GO:0042803,"Epilepsy, Idiopathic Generalized",MESH:C562694,0,,1,CASR
+protein homodimerization activity,GO:0042803,"EPILEPSY, PROGRESSIVE MYOCLONIC, 4, WITH OR WITHOUT RENAL FAILURE",OMIM:254900,0,,1,SCARB2
+protein homodimerization activity,GO:0042803,"Epilepsy, Temporal Lobe",MESH:D004833,0,,2,SLIT2|VEGFA
+protein kinase activator activity,GO:0030295,"Polyhydramnios, Megalencephaly, And Symptomatic Epilepsy",MESH:C567020,0,,1,STRADA
+protein kinase activity,GO:0004672,Epilepsy,MESH:D004827,0,,4,AKT1|CDKL5|DYRK1A|ILK
+protein kinase activity,GO:0004672,"Epilepsy, Temporal Lobe",MESH:D004833,0,,2,KDR|TEK
+protein kinase activity,GO:0004672,"Polyhydramnios, Megalencephaly, And Symptomatic Epilepsy",MESH:C567020,0,,1,STRADA
+protein kinase binding,GO:0019901,Epilepsy,MESH:D004827,0,,15,ADRA2A|AKT1|DNM1|EEF1A2|GRIN2A|ILK|KCNH1|SLC12A2|SLC12A5|STX1B|STXBP1|SYNGAP1|TSC1|VDAC1|WDR45
+protein kinase binding,GO:0019901,"EPILEPSY, FAMILIAL TEMPORAL LOBE, 1",OMIM:600512,0,,1,MICAL1
+protein kinase binding,GO:0019901,"EPILEPSY, FOCAL, WITH SPEECH DISORDER AND WITH OR WITHOUT IMPAIRED INTELLECTUAL DEVELOPMENT",OMIM:245570,0,,1,GRIN2A
+protein kinase binding,GO:0019901,"Epilepsy, Generalized",MESH:D004829,0,,2,CACNB4|CHRNA7
+protein kinase binding,GO:0019901,"Epilepsy, Idiopathic Generalized",MESH:C562694,0,,3,CACNB4|CASR|SLC12A5
+protein kinase binding,GO:0019901,"Epilepsy, Rolandic",MESH:D019305,0,,1,GRIN2A
+protein kinase binding,GO:0019901,"Epilepsy, Temporal Lobe",MESH:D004833,0,,2,SLC12A2|SLC12A5
+protein kinase binding,GO:0019901,"Epilepsy, X-Linked, with Variable Learning Disabilities and Behavior Disorders",MESH:C564505,0,,1,SYN1
+protein kinase binding,GO:0019901,"GENERALIZED EPILEPSY WITH FEBRILE SEIZURES PLUS, TYPE 9",OMIM:616172,0,,1,STX1B
+protein kinase binding,GO:0019901,"Myoclonic Epilepsy, Juvenile",MESH:D020190,0,,1,CACNB4
+protein kinase C activity,GO:0004697,Epilepsy,MESH:D004827,1,Calcium,0,
+protein kinase C activity,GO:0004697,"Epilepsy, Tonic-Clonic",MESH:D004830,1,Hexachlorocyclohexane,0,
+protein kinase C binding,GO:0005080,Epilepsy,MESH:D004827,0,,2,AKT1|FLNA
+protein phosphatase 2A binding,GO:0051721,Epilepsy,MESH:D004827,0,,1,AKT1
+protein sequestering activity,GO:0140311,Epilepsy,MESH:D004827,0,,1,FLNA
+protein serine kinase activity,GO:0106310,Epilepsy,MESH:D004827,0,,4,AKT1|CDKL5|DYRK1A|ERN1
+protein serine/threonine kinase activator activity,GO:0043539,Epilepsy,MESH:D004827,0,,2,DDX3X|TGFB1
+protein serine/threonine kinase activator activity,GO:0043539,"Epilepsy, Temporal Lobe",MESH:D004833,0,,1,P2RX7
+protein serine/threonine kinase activator activity,GO:0043539,"Polyhydramnios, Megalencephaly, And Symptomatic Epilepsy",MESH:C567020,0,,1,STRADA
+protein serine/threonine kinase activity,GO:0004674,Epilepsy,MESH:D004827,0,,6,AKT1|ANKRD11|CDKL5|DYRK1A|ERN1|ILK
+protein serine/threonine kinase activity,GO:0004674,"Polyhydramnios, Megalencephaly, And Symptomatic Epilepsy",MESH:C567020,0,,1,STRADA
+protein serine/threonine kinase binding,GO:0120283,Epilepsy,MESH:D004827,0,,2,AKT1|DNM1
+protein serine/threonine kinase inhibitor activity,GO:0030291,Epilepsy,MESH:D004827,0,,1,AKT1
+protein serine/threonine/tyrosine kinase activity,GO:0004712,Epilepsy,MESH:D004827,0,,2,AKT1|DYRK1A
+protein tyrosine kinase activator activity,GO:0030296,"Epilepsy, Temporal Lobe",MESH:D004833,0,,1,GRM5
+protein tyrosine kinase activity,GO:0004713,Epilepsy,MESH:D004827,0,,2,DYRK1A|ILK
+protein tyrosine kinase activity,GO:0004713,"Epilepsy, Temporal Lobe",MESH:D004833,0,,2,KDR|TEK
+protein tyrosine kinase binding,GO:1990782,Epilepsy,MESH:D004827,0,,2,GRIN2A|GRIN2B
+protein tyrosine kinase binding,GO:1990782,"EPILEPSY, FOCAL, WITH SPEECH DISORDER AND WITH OR WITHOUT IMPAIRED INTELLECTUAL DEVELOPMENT",OMIM:245570,0,,1,GRIN2A
+protein tyrosine kinase binding,GO:1990782,"Epilepsy, Rolandic",MESH:D019305,0,,1,GRIN2A
+protein tyrosine kinase binding,GO:1990782,"Epilepsy, Temporal Lobe",MESH:D004833,0,,1,GRM5
+protein tyrosine kinase collagen receptor activity,GO:0038062,"Epilepsy, Temporal Lobe",MESH:D004833,0,,2,KDR|TEK
+protein xylosyltransferase activity,GO:0030158,"Epilepsy, Tonic-Clonic",MESH:D004830,0,,1,OXT
+proteoglycan binding,GO:0043394,"Epilepsy, Temporal Lobe",MESH:D004833,0,,1,SLIT2
+proton transmembrane transporter activity,GO:0015078,"EPILEPSY, PROGRESSIVE MYOCLONIC, 3, WITH OR WITHOUT INTRACELLULAR INCLUSIONS",OMIM:611726,0,,1,KCTD7
+"proton-transporting ATPase activity, rotational mechanism",GO:0046961,"Epilepsy, rolandic with paroxysmal exercise-induced dystonia and writer's cramp",MESH:C535499,0,,1,TBC1D24
+"proton-transporting ATPase activity, rotational mechanism",GO:0046961,"Epilepsy, Tonic-Clonic",MESH:D004830,1,Chlorpromazine,0,
+"proton-transporting ATPase activity, rotational mechanism",GO:0046961,"MYOCLONIC EPILEPSY, FAMILIAL INFANTILE",OMIM:605021,0,,1,TBC1D24
+P-type sodium:potassium-exchanging transporter activity,GO:0005391,Epilepsy,MESH:D004827,8,"Adenosine|Folic Acid|Kainic Acid|Magnesium|Methylmercury Compounds|N-Methyl-3,4-methylenedioxyamphetamine|trimethyltin chloride|Valproic Acid",0,
+P-type sodium:potassium-exchanging transporter activity,GO:0005391,"Epilepsy, Absence",MESH:D004832,2,Lithium Carbonate|Valproic Acid,0,
+P-type sodium:potassium-exchanging transporter activity,GO:0005391,"Epilepsy, Complex Partial",MESH:D017029,1,Valproic Acid,0,
+P-type sodium:potassium-exchanging transporter activity,GO:0005391,"Epilepsy, Generalized",MESH:D004829,1,Valproic Acid,0,
+P-type sodium:potassium-exchanging transporter activity,GO:0005391,"Epilepsy, Post-Traumatic",MESH:D004834,1,Kainic Acid,0,
+P-type sodium:potassium-exchanging transporter activity,GO:0005391,"Epilepsy, Reflex",MESH:D020195,1,Valproic Acid,0,
+P-type sodium:potassium-exchanging transporter activity,GO:0005391,"Epilepsy, Rolandic",MESH:D019305,1,Valproic Acid,0,
+P-type sodium:potassium-exchanging transporter activity,GO:0005391,"Epilepsy, Temporal Lobe",MESH:D004833,2,Kainic Acid|Valproic Acid,0,
+P-type sodium:potassium-exchanging transporter activity,GO:0005391,"Epilepsy, Tonic-Clonic",MESH:D004830,5,Adenosine|Chlorpromazine|Ethanol|Lithium Carbonate|Valproic Acid,0,
+P-type sodium:potassium-exchanging transporter activity,GO:0005391,"Myoclonic Epilepsy, Juvenile",MESH:D020190,1,Valproic Acid,0,
+purinergic nucleotide receptor activity,GO:0001614,Epilepsy,MESH:D004827,0,,2,P2RX2|P2RX4
+purinergic nucleotide receptor activity,GO:0001614,"Epilepsy, Temporal Lobe",MESH:D004833,0,,2,P2RX4|P2RX7
+purine-rich negative regulatory element binding,GO:0032422,Epilepsy,MESH:D004827,0,,1,PURA
+pyridoxal phosphate binding,GO:0030170,Epilepsy,MESH:D004827,0,,1,ALB
+pyridoxal phosphate binding,GO:0030170,Pyridoxine-dependent epilepsy,MESH:C536254,0,,1,PLPBP
+pyruvate kinase activity,GO:0004743,"Epilepsy, Absence",MESH:D004832,1,Lithium Carbonate,0,
+pyruvate kinase activity,GO:0004743,"Epilepsy, Tonic-Clonic",MESH:D004830,1,Lithium Carbonate,0,
+quaternary ammonium group binding,GO:0050997,"Epilepsy, Frontal Lobe",MESH:D017034,0,,2,CHRNA4|CHRNB2
+quaternary ammonium group binding,GO:0050997,"Epilepsy, Nocturnal Frontal Lobe, Type 1",MESH:C563930,0,,1,CHRNA4
+quaternary ammonium group binding,GO:0050997,"Epilepsy, Nocturnal Frontal Lobe, Type 3",MESH:C565334,0,,1,CHRNB2
+quaternary ammonium group binding,GO:0050997,"Epilepsy, Nocturnal Frontal Lobe, Type 4",MESH:C563679,0,,1,CHRNA2
+receptor ligand activity,GO:0048018,"EPILEPSY, FAMILIAL TEMPORAL LOBE, 1",OMIM:600512,0,,1,RELN
+receptor ligand activity,GO:0048018,"EPILEPSY, FAMILIAL TEMPORAL LOBE, 7",OMIM:616436,0,,1,RELN
+receptor ligand activity,GO:0048018,"Epilepsy, Temporal Lobe",MESH:D004833,0,,1,VEGFA
+receptor ligand activity,GO:0048018,"Epilepsy, Tonic-Clonic",MESH:D004830,0,,1,HBEGF
+receptor-receptor interaction,GO:0090722,"Epilepsy, Tonic-Clonic",MESH:D004830,0,,1,FGF2
+receptor serine/threonine kinase binding,GO:0033612,Epilepsy,MESH:D004827,0,,1,OPRD1
+Rho-dependent protein serine/threonine kinase activity,GO:0072518,Epilepsy,MESH:D004827,2,Dronabinol|Methylmercury Compounds,2,AKT1|ERN1
+ribonucleoprotein complex binding,GO:0043021,Epilepsy,MESH:D004827,0,,1,HNRNPU
+ribonucleoside triphosphate phosphatase activity,GO:0017111,Epilepsy,MESH:D004827,0,,1,DDX3X
+ribosomal protein S6 kinase activity,GO:0004711,Epilepsy,MESH:D004827,0,,2,AKT1|ERN1
+ribosomal small subunit binding,GO:0043024,Epilepsy,MESH:D004827,0,,1,DDX3X
+RNA binding,GO:0003723,Epilepsy,MESH:D004827,0,,2,DDX3X|HNRNPU
+RNA-DNA hybrid ribonuclease activity,GO:0004523,"EPILEPSY, PROGRESSIVE MYOCLONIC, 3, WITH OR WITHOUT INTRACELLULAR INCLUSIONS",OMIM:611726,0,,1,KCTD7
+RNA helicase activity,GO:0003724,Epilepsy,MESH:D004827,0,,1,DDX3X
+RNA polymerase II cis-regulatory region sequence-specific DNA binding,GO:0000978,Epilepsy,MESH:D004827,0,,5,CHD2|FOS|FOSB|HNRNPU|MEF2C
+RNA polymerase II cis-regulatory region sequence-specific DNA binding,GO:0000978,"NEURODEVELOPMENTAL DISORDER WITH EPILEPSY, CATARACTS, FEEDING DIFFICULTIES, AND DELAYED BRAIN MYELINATION",OMIM:617393,0,,1,NACC1
+RNA polymerase II complex binding,GO:0000993,Epilepsy,MESH:D004827,0,,1,HNRNPU
+RNA polymerase II core promoter sequence-specific DNA binding,GO:0000979,Epilepsy,MESH:D004827,0,,1,FOS
+RNA polymerase II CTD heptapeptide repeat kinase activity,GO:0008353,Epilepsy,MESH:D004827,0,,1,DYRK1A
+RNA polymerase II C-terminal domain binding,GO:0099122,Epilepsy,MESH:D004827,0,,1,HNRNPU
+RNA polymerase II-specific DNA-binding transcription factor binding,GO:0061629,Epilepsy,MESH:D004827,0,,2,FOS|MEF2C
+RNA polymerase II transcription regulatory region sequence-specific DNA binding,GO:0000977,Epilepsy,MESH:D004827,0,,2,MEF2C|PURA
+RNA stem-loop binding,GO:0035613,Epilepsy,MESH:D004827,0,,1,DDX3X
+RNA strand annealing activity,GO:0033592,Epilepsy,MESH:D004827,0,,1,DDX3X
+Roundabout binding,GO:0048495,"Epilepsy, Temporal Lobe",MESH:D004833,0,,1,SLIT2
+R-SMAD binding,GO:0070412,Epilepsy,MESH:D004827,0,,1,FOS
+(S)-2-hydroxy-acid oxidase activity,GO:0003973,Epilepsy,MESH:D004827,0,,1,L2HGDH
+scaffold protein binding,GO:0097110,Epilepsy,MESH:D004827,0,,2,GRIN2A|GRIN2B
+scaffold protein binding,GO:0097110,"Epilepsy, Absence",MESH:D004832,0,,1,CACNA1H
+scaffold protein binding,GO:0097110,"EPILEPSY, FOCAL, WITH SPEECH DISORDER AND WITH OR WITHOUT IMPAIRED INTELLECTUAL DEVELOPMENT",OMIM:245570,0,,1,GRIN2A
+scaffold protein binding,GO:0097110,"Epilepsy, Generalized",MESH:D004829,0,,1,CHRNA7
+scaffold protein binding,GO:0097110,"Epilepsy, Rolandic",MESH:D019305,0,,1,GRIN2A
+scaffold protein binding,GO:0097110,"Epilepsy, Temporal Lobe",MESH:D004833,0,,3,GRM2|GRM3|P2RX7
+scavenger receptor activity,GO:0005044,"EPILEPSY, PROGRESSIVE MYOCLONIC, 4, WITH OR WITHOUT RENAL FAILURE",OMIM:254900,0,,1,SCARB2
+secondary active transmembrane transporter activity,GO:0015291,Epilepsy,MESH:D004827,0,,1,SLC4A10
+secondary active transmembrane transporter activity,GO:0015291,"Epilepsy, Frontal Lobe",MESH:D017034,0,,1,SLC4A10
+sedoheptulokinase activity,GO:0050277,"Epilepsy, Temporal Lobe",MESH:D004833,0,,1,TRPV1
+selenate reductase activity,GO:0033797,Epilepsy,MESH:D004827,0,,1,TXNRD1
+semaphorin receptor activity,GO:0017154,Epilepsy,MESH:D004827,0,,1,TXNRD1
+sequence-specific DNA binding,GO:0043565,Epilepsy,MESH:D004827,0,,5,FOS|FOSB|FOXG1|HNRNPU|MEF2C
+sequence-specific DNA binding,GO:0043565,"Epilepsy, Myoclonic, Benign Adult Familial, Type 1",MESH:C563399,0,,1,SAMD12
+sequence-specific DNA binding,GO:0043565,"Epilepsy, Temporal Lobe",MESH:D004833,0,,1,VDR
+sequence-specific double-stranded DNA binding,GO:1990837,Epilepsy,MESH:D004827,0,,5,FOS|FOSB|FOXG1|HNRNPU|MEF2C
+serine-type endopeptidase activity,GO:0004252,Epilepsy,MESH:D004827,0,,1,SLC1A2
+serine-type endopeptidase activity,GO:0004252,"Epilepsy, Absence",MESH:D004832,0,,1,CACNA1H
+serine-type peptidase activity,GO:0008236,"EPILEPSY, FAMILIAL TEMPORAL LOBE, 1",OMIM:600512,0,,1,RELN
+serine-type peptidase activity,GO:0008236,"EPILEPSY, FAMILIAL TEMPORAL LOBE, 7",OMIM:616436,0,,1,RELN
+SH3 domain binding,GO:0017124,Epilepsy,MESH:D004827,0,,4,DNM1|GPX1|ILK|SYNGAP1
+SH3 domain binding,GO:0017124,"EPILEPSY, FAMILIAL TEMPORAL LOBE, 1",OMIM:600512,0,,1,MICAL1
+sialyltransferase activity,GO:0008373,Amish Infantile Epilepsy Syndrome,MESH:C563799,0,,1,ST3GAL5
+signaling adaptor activity,GO:0035591,Epilepsy,MESH:D004827,0,,1,DDX3X
+signaling receptor activity,GO:0038023,Epilepsy,MESH:D004827,0,,4,FOLR1|GRIN2A|GRIN2B|NPY2R
+signaling receptor activity,GO:0038023,"EPILEPSY, FOCAL, WITH SPEECH DISORDER AND WITH OR WITHOUT IMPAIRED INTELLECTUAL DEVELOPMENT",OMIM:245570,0,,1,GRIN2A
+signaling receptor activity,GO:0038023,"Epilepsy, Rolandic",MESH:D019305,0,,1,GRIN2A
+signaling receptor activity,GO:0038023,"Epilepsy, Temporal Lobe",MESH:D004833,0,,3,NPY2R|P2RX7|TEK
+signaling receptor activity,GO:0038023,"Mental Retardation, X-Linked, with Epilepsy",MESH:C564516,0,,1,ATP6AP2
+signaling receptor binding,GO:0005102,Epilepsy,MESH:D004827,0,,8,BDNF|GNAO1|GRIN2A|GRIN2B|NPY|P2RX4|POMC|STX1B
+signaling receptor binding,GO:0005102,"EPILEPSY, FAMILIAL TEMPORAL LOBE, 1",OMIM:600512,0,,1,LGI1
+signaling receptor binding,GO:0005102,"EPILEPSY, FOCAL, WITH SPEECH DISORDER AND WITH OR WITHOUT IMPAIRED INTELLECTUAL DEVELOPMENT",OMIM:245570,0,,1,GRIN2A
+signaling receptor binding,GO:0005102,"Epilepsy, Rolandic",MESH:D019305,0,,1,GRIN2A
+signaling receptor binding,GO:0005102,"Epilepsy, Temporal Lobe",MESH:D004833,0,,4,NPY|P2RX4|P2RX7|SLIT2
+signaling receptor binding,GO:0005102,"Epilepsy, Tonic-Clonic",MESH:D004830,0,,4,BDNF|NGF|NTF3|POMC
+signaling receptor binding,GO:0005102,"GENERALIZED EPILEPSY WITH FEBRILE SEIZURES PLUS, TYPE 9",OMIM:616172,0,,1,STX1B
+signaling receptor binding,GO:0005102,"Rolandic Epilepsy, Mental Retardation, and Speech Dyspraxia, X-Linked",MESH:C564467,0,,1,SRPX2
+single-stranded 3'-5' DNA helicase activity,GO:1990518,Epilepsy,MESH:D004827,0,,1,CHD2
+single-stranded DNA 3'-5' exodeoxyribonuclease activity,GO:0008310,Epilepsy,MESH:D004827,0,,1,POLG
+single-stranded DNA binding,GO:0003697,Epilepsy,MESH:D004827,0,,2,HNRNPU|PURA
+single-stranded RNA binding,GO:0003727,Epilepsy,MESH:D004827,0,,1,HNRNPU
+siRNA binding,GO:0035197,Epilepsy,MESH:D004827,0,,1,MECP2
+SMAD binding,GO:0046332,Epilepsy,MESH:D004827,0,,2,FLNA|PURA
+small GTPase binding,GO:0031267,Epilepsy,MESH:D004827,0,,3,CDKL5|FLNA|TSC2
+small GTPase binding,GO:0031267,"EPILEPSY, FAMILIAL TEMPORAL LOBE, 1",OMIM:600512,0,,1,MICAL1
+small GTPase binding,GO:0031267,"Epilepsy, Partial, with Variable Foci",MESH:C565785,0,,1,DEPDC5
+small GTPase binding,GO:0031267,Pyridoxine-dependent epilepsy,MESH:C536254,0,,1,ALDH7A1
+small molecule binding,GO:0036094,Epilepsy,MESH:D004827,0,,2,ALB|GRIN2B
+SNAP receptor activity,GO:0005484,Epilepsy,MESH:D004827,0,,2,SNAP25|STX1B
+SNAP receptor activity,GO:0005484,"GENERALIZED EPILEPSY WITH FEBRILE SEIZURES PLUS, TYPE 9",OMIM:616172,0,,1,STX1B
+SNARE binding,GO:0000149,Epilepsy,MESH:D004827,0,,3,SNAP25|STX1B|STXBP1
+SNARE binding,GO:0000149,"GENERALIZED EPILEPSY WITH FEBRILE SEIZURES PLUS, TYPE 9",OMIM:616172,0,,1,STX1B
+snRNA binding,GO:0017069,Epilepsy,MESH:D004827,0,,1,HNRNPU
+"sodium,bicarbonate:chloride antiporter activity",GO:0140892,Epilepsy,MESH:D004827,0,,1,SLC4A10
+"sodium,bicarbonate:chloride antiporter activity",GO:0140892,"Epilepsy, Frontal Lobe",MESH:D017034,0,,1,SLC4A10
+sodium:bicarbonate symporter activity,GO:0008510,Epilepsy,MESH:D004827,0,,1,SLC4A10
+sodium:bicarbonate symporter activity,GO:0008510,"Epilepsy, Frontal Lobe",MESH:D017034,0,,1,SLC4A10
+sodium channel activity,GO:0005272,Epilepsy,MESH:D004827,0,,4,HCN1|SCN1A|SCN2A|SCN8A
+sodium channel activity,GO:0005272,"Epilepsy, Absence",MESH:D004832,0,,1,KCNK9
+sodium channel activity,GO:0005272,"Epilepsy, Benign Neonatal, 3",MESH:C564274,0,,1,SCN2A
+sodium channel activity,GO:0005272,"Epilepsy, Complex Partial",MESH:D017029,0,,1,SCN3A
+sodium channel activity,GO:0005272,"Epilepsy, Generalized",MESH:D004829,0,,1,SCN1A
+sodium channel activity,GO:0005272,"Epilepsy, Temporal Lobe",MESH:D004833,0,,1,P2RX7
+sodium channel activity,GO:0005272,"Generalized Epilepsy With Febrile Seizures Plus, Type 1",MESH:C565809,0,,1,SCN1B
+sodium channel activity,GO:0005272,"Generalized Epilepsy With Febrile Seizures Plus, Type 2",MESH:C565810,0,,1,SCN1A
+sodium channel inhibitor activity,GO:0019871,"Generalized Epilepsy With Febrile Seizures Plus, Type 1",MESH:C565809,0,,1,SCN1B
+sodium channel regulator activity,GO:0017080,"Generalized Epilepsy With Febrile Seizures Plus, Type 1",MESH:C565809,0,,1,SCN1B
+sodium:chloride symporter activity,GO:0015378,Epilepsy,MESH:D004827,0,,1,SLC6A1
+sodium:chloride symporter activity,GO:0015378,MYOCLONIC-ATONIC EPILEPSY,OMIM:616421,0,,1,SLC6A1
+sodium ion binding,GO:0031402,Epilepsy,MESH:D004827,0,,3,SCN1A|SCN2A|SCN8A
+sodium ion binding,GO:0031402,"Epilepsy, Benign Neonatal, 3",MESH:C564274,0,,1,SCN2A
+sodium ion binding,GO:0031402,"Epilepsy, Complex Partial",MESH:D017029,0,,1,SCN3A
+sodium ion binding,GO:0031402,"Epilepsy, Generalized",MESH:D004829,0,,1,SCN1A
+sodium ion binding,GO:0031402,"Generalized Epilepsy With Febrile Seizures Plus, Type 2",MESH:C565810,0,,1,SCN1A
+sodium:potassium:chloride symporter activity,GO:0008511,Epilepsy,MESH:D004827,0,,1,SLC12A2
+sodium:potassium:chloride symporter activity,GO:0008511,"Epilepsy, Temporal Lobe",MESH:D004833,0,,1,SLC12A2
+solute:inorganic anion antiporter activity,GO:0005452,Epilepsy,MESH:D004827,0,,1,SLC4A10
+solute:inorganic anion antiporter activity,GO:0005452,"Epilepsy, Frontal Lobe",MESH:D017034,0,,1,SLC4A10
+stem cell factor receptor activity,GO:0005020,"Epilepsy, Temporal Lobe",MESH:D004833,0,,2,KDR|TEK
+structural constituent of cytoskeleton,GO:0005200,Epilepsy,MESH:D004827,0,,1,GFAP
+structural constituent of muscle,GO:0008307,"Epilepsy, X-Linked, with Variable Learning Disabilities and Behavior Disorders",MESH:C564505,0,,1,SYN1
+structural constituent of nuclear pore,GO:0017056,Pyridoxine-dependent epilepsy,MESH:C536254,0,,1,PLPBP
+structural constituent of ribosome,GO:0003735,Cortical Dysplasia-Focal Epilepsy Syndrome,MESH:C567657,0,,1,CNTNAP2
+structural constituent of ribosome,GO:0003735,Epilepsy,MESH:D004827,0,,1,CNTNAP2
+structural molecule activity,GO:0005198,Epilepsy,MESH:D004827,0,,2,GFAP|P2RX4
+structural molecule activity,GO:0005198,"Epilepsy, Temporal Lobe",MESH:D004833,0,,1,P2RX4
+structural molecule activity,GO:0005198,"Epilepsy, X-Linked, with Variable Learning Disabilities and Behavior Disorders",MESH:C564505,0,,1,SYN1
+succinate dehydrogenase activity,GO:0000104,Epilepsy,MESH:D004827,3,"carbidopa, levodopa drug combination|Cisplatin|Plant Extracts",0,
+succinate dehydrogenase activity,GO:0000104,"Epilepsy, Absence",MESH:D004832,1,Doxorubicin,0,
+succinate dehydrogenase activity,GO:0000104,"Epilepsy, Temporal Lobe",MESH:D004833,1,Plant Extracts,0,
+succinate dehydrogenase activity,GO:0000104,"Epilepsy, Tonic-Clonic",MESH:D004830,1,Plant Extracts,0,
+succinate dehydrogenase (ubiquinone) activity,GO:0008177,Epilepsy,MESH:D004827,8,"carbidopa, levodopa drug combination|Cisplatin|Dextroamphetamine|Dronabinol|Lithium|Lithium Chloride|Methylmercury Compounds|Valproic Acid",0,
+succinate dehydrogenase (ubiquinone) activity,GO:0008177,"Epilepsy, Absence",MESH:D004832,4,Doxorubicin|Heparin|Lithium Carbonate|Valproic Acid,0,
+succinate dehydrogenase (ubiquinone) activity,GO:0008177,"Epilepsy, Complex Partial",MESH:D017029,1,Valproic Acid,0,
+succinate dehydrogenase (ubiquinone) activity,GO:0008177,"Epilepsy, Generalized",MESH:D004829,1,Valproic Acid,0,
+succinate dehydrogenase (ubiquinone) activity,GO:0008177,"Epilepsy, Reflex",MESH:D020195,1,Valproic Acid,0,
+succinate dehydrogenase (ubiquinone) activity,GO:0008177,"Epilepsy, Rolandic",MESH:D019305,1,Valproic Acid,0,
+succinate dehydrogenase (ubiquinone) activity,GO:0008177,"Epilepsy, Temporal Lobe",MESH:D004833,3,Lithium|Lithium Chloride|Valproic Acid,0,
+succinate dehydrogenase (ubiquinone) activity,GO:0008177,"Epilepsy, Tonic-Clonic",MESH:D004830,10,Acetaminophen|Bupropion|Chloroquine|Deferoxamine|Ethanol|Heparin|Lithium|Lithium Carbonate|Lithium Chloride|Valproic Acid,0,
+succinate dehydrogenase (ubiquinone) activity,GO:0008177,"Myoclonic Epilepsy, Juvenile",MESH:D020190,1,Valproic Acid,0,
+sucrose alpha-glucosidase activity,GO:0004575,Epilepsy,MESH:D004827,2,Folic Acid|Vitamin B 12,0,
+sulfotransferase activity,GO:0008146,Epilepsy,MESH:D004827,1,Plant Extracts,0,
+sulfotransferase activity,GO:0008146,"Epilepsy, Temporal Lobe",MESH:D004833,1,Plant Extracts,0,
+sulfotransferase activity,GO:0008146,"Epilepsy, Tonic-Clonic",MESH:D004830,1,Plant Extracts,0,
+superoxide dismutase activity,GO:0004784,Epilepsy,MESH:D004827,30,"carbidopa, levodopa drug combination|Chondroitin Sulfates|Cilastatin, Imipenem Drug Combination|Cimetidine|Ciprofloxacin|Cisplatin|Dexamethasone|Diazepam|Dronabinol|Folic Acid|gamma-Aminobutyric Acid|Gentamicins|Ifosfamide|Ketamine|Lithium Chloride|Methotrexate|Methylmercury Compounds|Morphine|Naloxone|Pentylenetetrazole|Phenobarbital|Plant Extracts|Propofol|Sevoflurane|Topiramate|trimethyltin chloride|Valproic Acid|Vitamin B 12|Vitamin B 6|Vitamin U",0,
+superoxide dismutase activity,GO:0004784,"Epilepsy, Absence",MESH:D004832,8,"Cilastatin, Imipenem Drug Combination|Diazepam|Doxorubicin|Lithium Carbonate|Naloxone|Pentylenetetrazole|Phenobarbital|Valproic Acid",0,
+superoxide dismutase activity,GO:0004784,"Epilepsy, Complex Partial",MESH:D017029,5,Diazepam|Methotrexate|Phenobarbital|Topiramate|Valproic Acid,0,
+superoxide dismutase activity,GO:0004784,"Epilepsy, Generalized",MESH:D004829,6,Diazepam|Naloxone|Phenobarbital|Prednisolone|Propofol|Valproic Acid,0,
+superoxide dismutase activity,GO:0004784,"Epilepsy, Reflex",MESH:D020195,1,Valproic Acid,0,
+superoxide dismutase activity,GO:0004784,"Epilepsy, Rolandic",MESH:D019305,2,Topiramate|Valproic Acid,0,
+superoxide dismutase activity,GO:0004784,"Epilepsy, Temporal Lobe",MESH:D004833,7,Capsaicin|Lithium Chloride|Methotrexate|Phenobarbital|Plant Extracts|Topiramate|Valproic Acid,0,
+superoxide dismutase activity,GO:0004784,"Epilepsy, Tonic-Clonic",MESH:D004830,34,"Acetaminophen|Aluminum|Aluminum Hydroxide|Bupivacaine|Buspirone|Chlormethiazole|Chloroquine|Cilastatin, Imipenem Drug Combination|Cimetidine|Ciprofloxacin|Cocaine|Deferoxamine|Diazepam|Diclofenac|Ephedrine|Ethanol|Hexachlorocyclohexane|Lithium Carbonate|Lithium Chloride|Methamphetamine|Methotrexate|Methylphenidate|Morphine|Naloxone|Paroxetine|Pentylenetetrazole|Phenobarbital|Plant Extracts|pralidoxime|Propofol|Topiramate|Valproic Acid|Venlafaxine Hydrochloride|Vincristine",0,
+superoxide dismutase activity,GO:0004784,"Myoclonic Epilepsy, Juvenile",MESH:D020190,1,Valproic Acid,0,
+superoxide-generating NADPH oxidase activity,GO:0106292,Epilepsy,MESH:D004827,1,Gentamicins,0,
+superoxide-generating NADPH oxidase activity,GO:0106292,"Epilepsy, Absence",MESH:D004832,1,Doxorubicin,0,
+superoxide-generating NADPH oxidase activity,GO:0106292,"Epilepsy, Tonic-Clonic",MESH:D004830,1,Methamphetamine,0,
+suramin binding,GO:0043924,Epilepsy,MESH:D004827,0,,1,P2RX2
+symporter activity,GO:0015293,Epilepsy,MESH:D004827,0,,6,SLC12A2|SLC12A5|SLC1A1|SLC1A2|SLC1A3|SLC6A1
+symporter activity,GO:0015293,"Epilepsy, Idiopathic Generalized",MESH:C562694,0,,1,SLC12A5
+symporter activity,GO:0015293,"Epilepsy, Temporal Lobe",MESH:D004833,0,,3,SLC12A2|SLC12A5|SLC1A1
+symporter activity,GO:0015293,MYOCLONIC-ATONIC EPILEPSY,OMIM:616421,0,,1,SLC6A1
+syntaxin-1 binding,GO:0017075,Epilepsy,MESH:D004827,0,,2,SNAP25|STXBP1
+syntaxin binding,GO:0019905,Epilepsy,MESH:D004827,0,,2,SNAP25|STXBP1
+syntaxin binding,GO:0019905,"Epilepsy, Absence",MESH:D004832,0,,1,CACNA1A
+tau protein binding,GO:0048156,Epilepsy,MESH:D004827,0,,1,DYRK1A
+telomerase RNA binding,GO:0070034,Epilepsy,MESH:D004827,0,,1,HNRNPU
+temperature-gated ion channel activity,GO:0097603,"Epilepsy, Temporal Lobe",MESH:D004833,0,,1,TRPV1
+testosterone 6-beta-hydroxylase activity,GO:0050649,Epilepsy,MESH:D004827,2,Dexamethasone|Phenobarbital,0,
+testosterone 6-beta-hydroxylase activity,GO:0050649,"Epilepsy, Absence",MESH:D004832,1,Phenobarbital,0,
+testosterone 6-beta-hydroxylase activity,GO:0050649,"Epilepsy, Complex Partial",MESH:D017029,1,Phenobarbital,0,
+testosterone 6-beta-hydroxylase activity,GO:0050649,"Epilepsy, Generalized",MESH:D004829,1,Phenobarbital,0,
+testosterone 6-beta-hydroxylase activity,GO:0050649,"Epilepsy, Temporal Lobe",MESH:D004833,1,Phenobarbital,0,
+testosterone 6-beta-hydroxylase activity,GO:0050649,"Epilepsy, Tonic-Clonic",MESH:D004830,1,Phenobarbital,0,
+TFIIH-class transcription factor complex binding,GO:0001097,Epilepsy,MESH:D004827,0,,1,HNRNPU
+thioesterase binding,GO:0031996,Epilepsy,MESH:D004827,0,,1,ADRA2A
+thioredoxin-disulfide reductase activity,GO:0004791,Epilepsy,MESH:D004827,2,Cisplatin|Methylmercury Compounds,1,TXNRD1
+thyroid hormone transmembrane transporter activity,GO:0015349,Epilepsy,MESH:D004827,0,,1,SLCO1A5
+Toll-like receptor 4 binding,GO:0035662,"Epilepsy, Tonic-Clonic",MESH:D004830,1,Chloroquine,0,
+TORC2 complex binding,GO:1904841,Epilepsy,MESH:D004827,0,,1,AKT1
+toxic substance binding,GO:0015643,Epilepsy,MESH:D004827,0,,1,ALB
+toxic substance binding,GO:0015643,"Epilepsy, Generalized",MESH:D004829,0,,1,CHRNA7
+transaminase activity,GO:0008483,Epilepsy,MESH:D004827,1,Plant Extracts,0,
+transaminase activity,GO:0008483,"Epilepsy, Temporal Lobe",MESH:D004833,1,Plant Extracts,0,
+transaminase activity,GO:0008483,"Epilepsy, Tonic-Clonic",MESH:D004830,1,Plant Extracts,0,
+transcription cis-regulatory region binding,GO:0000976,Epilepsy,MESH:D004827,0,,2,FOS|MEF2C
+transcription coactivator activity,GO:0003713,Epilepsy,MESH:D004827,0,,4,ARID1B|DYRK1A|TXNRD1|UBE3A
+transcription coactivator activity,GO:0003713,"Epilepsy, Tonic-Clonic",MESH:D004830,0,,1,FGF2
+transcription coactivator activity,GO:0003713,"INTELLECTUAL DEVELOPMENTAL DISORDER, AUTOSOMAL RECESSIVE 18, WITH OR WITHOUT EPILEPSY",OMIM:614249,0,,1,MED23
+transcription coregulator activity,GO:0003712,"INTELLECTUAL DEVELOPMENTAL DISORDER, AUTOSOMAL RECESSIVE 18, WITH OR WITHOUT EPILEPSY",OMIM:614249,0,,1,MED23
+transcription coregulator binding,GO:0001221,Epilepsy,MESH:D004827,0,,1,FOS
+transcription corepressor activity,GO:0003714,Epilepsy,MESH:D004827,0,,2,HNRNPU|MECP2
+transcription corepressor activity,GO:0003714,SPINAL MUSCULAR ATROPHY WITH PROGRESSIVE MYOCLONIC EPILEPSY,OMIM:159950,0,,1,ASAH1
+transcription factor binding,GO:0008134,Epilepsy,MESH:D004827,1,Sevoflurane,3,CDKL5|DDX3X|MECP2
+transcription regulator inhibitor activity,GO:0140416,Epilepsy,MESH:D004827,0,,1,PURA
+transferase activity,GO:0016740,Amish Infantile Epilepsy Syndrome,MESH:C563799,0,,1,ST3GAL5
+transferase activity,GO:0016740,Epilepsy,MESH:D004827,0,,6,AKT1|ALG13|CDKL5|ILK|POLG|UBE3A
+transferase activity,GO:0016740,"Epilepsy, Familial Adult Myoclonic, 3",MESH:C567098,0,,1,MARCHF6
+transferase activity,GO:0016740,"Epilepsy, Temporal Lobe",MESH:D004833,0,,2,KDR|TEK
+transferase activity,GO:0016740,"Polyhydramnios, Megalencephaly, And Symptomatic Epilepsy",MESH:C567020,0,,1,STRADA
+transforming growth factor beta receptor binding,GO:0005160,Epilepsy,MESH:D004827,0,,1,TGFB1
+translation elongation factor activity,GO:0003746,Epilepsy,MESH:D004827,0,,1,EEF1A2
+"translation factor activity, RNA binding",GO:0008135,Epilepsy,MESH:D004827,0,,1,EEF1A2
+translation initiation factor binding,GO:0031369,Epilepsy,MESH:D004827,0,,1,DDX3X
+transmembrane-ephrin receptor activity,GO:0005005,"Epilepsy, Temporal Lobe",MESH:D004833,0,,2,KDR|TEK
+transmembrane receptor protein tyrosine kinase activator activity,GO:0030297,"Epilepsy, Temporal Lobe",MESH:D004833,0,,1,VEGFA
+transmembrane receptor protein tyrosine kinase activator activity,GO:0030297,"Epilepsy, Tonic-Clonic",MESH:D004830,0,,2,HBEGF|NGF
+transmembrane receptor protein tyrosine kinase activity,GO:0004714,"Epilepsy, Temporal Lobe",MESH:D004833,0,,2,KDR|TEK
+transmembrane signaling receptor activity,GO:0004888,Epilepsy,MESH:D004827,0,,1,GABRB3
+transmembrane signaling receptor activity,GO:0004888,"Epilepsy, Absence",MESH:D004832,0,,1,GABRB3
+transmembrane signaling receptor activity,GO:0004888,"Epilepsy, Frontal Lobe",MESH:D017034,0,,2,CHRNA4|CHRNB2
+transmembrane signaling receptor activity,GO:0004888,"Epilepsy, Generalized",MESH:D004829,0,,1,CHRNA7
+transmembrane signaling receptor activity,GO:0004888,"Epilepsy, Idiopathic Generalized",MESH:C562694,0,,1,GABRD
+transmembrane signaling receptor activity,GO:0004888,"Epilepsy, Nocturnal Frontal Lobe, Type 1",MESH:C563930,0,,1,CHRNA4
+transmembrane signaling receptor activity,GO:0004888,"Epilepsy, Nocturnal Frontal Lobe, Type 3",MESH:C565334,0,,1,CHRNB2
+transmembrane signaling receptor activity,GO:0004888,"Epilepsy, Nocturnal Frontal Lobe, Type 4",MESH:C563679,0,,1,CHRNA2
+transmembrane signaling receptor activity,GO:0004888,"EPILEPSY, PROGRESSIVE MYOCLONIC, 4, WITH OR WITHOUT RENAL FAILURE",OMIM:254900,0,,1,SCARB2
+transmembrane signaling receptor activity,GO:0004888,"Epilepsy, Temporal Lobe",MESH:D004833,0,,1,TRPV1
+transmembrane signaling receptor activity,GO:0004888,"Myoclonic Epilepsy, Juvenile",MESH:D020190,0,,1,GABRA1
+transmembrane transporter activity,GO:0022857,Epilepsy,MESH:D004827,0,,3,ABCB1|SLC12A2|SLCO1A5
+transmembrane transporter activity,GO:0022857,"Epilepsy, Temporal Lobe",MESH:D004833,0,,1,SLC12A2
+transmembrane transporter binding,GO:0044325,Cortical Dysplasia-Focal Epilepsy Syndrome,MESH:C567657,0,,1,CNTNAP2
+transmembrane transporter binding,GO:0044325,Epilepsy,MESH:D004827,0,,6,CNTNAP2|FLNA|KCNAB2|KCNH1|SNAP25|VDAC1
+transmembrane transporter binding,GO:0044325,"Epilepsy, Idiopathic Generalized",MESH:C562694,0,,1,CASR
+transmembrane transporter binding,GO:0044325,"Generalized Epilepsy With Febrile Seizures Plus, Type 1",MESH:C565809,0,,1,SCN1B
+transmitter-gated monoatomic ion channel activity involved in regulation of postsynaptic membrane potential,GO:1904315,Epilepsy,MESH:D004827,0,,4,GABRB2|GABRB3|GRIN2A|GRIN2B
+transmitter-gated monoatomic ion channel activity involved in regulation of postsynaptic membrane potential,GO:1904315,"Epilepsy, Absence",MESH:D004832,0,,1,GABRB3
+transmitter-gated monoatomic ion channel activity involved in regulation of postsynaptic membrane potential,GO:1904315,"EPILEPSY, FOCAL, WITH SPEECH DISORDER AND WITH OR WITHOUT IMPAIRED INTELLECTUAL DEVELOPMENT",OMIM:245570,0,,1,GRIN2A
+transmitter-gated monoatomic ion channel activity involved in regulation of postsynaptic membrane potential,GO:1904315,"Epilepsy, Frontal Lobe",MESH:D017034,0,,2,CHRNA4|CHRNB2
+transmitter-gated monoatomic ion channel activity involved in regulation of postsynaptic membrane potential,GO:1904315,"Epilepsy, Generalized",MESH:D004829,0,,1,CHRNA7
+transmitter-gated monoatomic ion channel activity involved in regulation of postsynaptic membrane potential,GO:1904315,"Epilepsy, Idiopathic Generalized",MESH:C562694,0,,1,GABRD
+transmitter-gated monoatomic ion channel activity involved in regulation of postsynaptic membrane potential,GO:1904315,"Epilepsy, Nocturnal Frontal Lobe, Type 1",MESH:C563930,0,,1,CHRNA4
+transmitter-gated monoatomic ion channel activity involved in regulation of postsynaptic membrane potential,GO:1904315,"Epilepsy, Nocturnal Frontal Lobe, Type 3",MESH:C565334,0,,1,CHRNB2
+transmitter-gated monoatomic ion channel activity involved in regulation of postsynaptic membrane potential,GO:1904315,"Epilepsy, Rolandic",MESH:D019305,0,,1,GRIN2A
+transmitter-gated monoatomic ion channel activity involved in regulation of postsynaptic membrane potential,GO:1904315,"Myoclonic Epilepsy, Juvenile",MESH:D020190,0,,1,GABRA1
+tryptophan-tRNA ligase activity,GO:0004830,Epilepsy,MESH:D004827,0,,1,SNAP25
+tubulin binding,GO:0015631,Epilepsy,MESH:D004827,0,,1,DYRK1A
+type 1 angiotensin receptor binding,GO:0031702,"Epilepsy, Temporal Lobe",MESH:D004833,0,,1,BDKRB2
+type 1 galanin receptor binding,GO:0031764,"EPILEPSY, FAMILIAL TEMPORAL LOBE, 8",OMIM:616461,0,,1,GAL
+type 1 melanocortin receptor binding,GO:0070996,Epilepsy,MESH:D004827,0,,1,POMC
+type 1 melanocortin receptor binding,GO:0070996,"Epilepsy, Tonic-Clonic",MESH:D004830,0,,1,POMC
+type 2 galanin receptor binding,GO:0031765,"EPILEPSY, FAMILIAL TEMPORAL LOBE, 8",OMIM:616461,0,,1,GAL
+type 2 neuropeptide Y receptor binding,GO:0031843,Epilepsy,MESH:D004827,0,,1,NPY
+type 2 neuropeptide Y receptor binding,GO:0031843,"Epilepsy, Temporal Lobe",MESH:D004833,0,,1,NPY
+type 3 galanin receptor binding,GO:0031766,"EPILEPSY, FAMILIAL TEMPORAL LOBE, 8",OMIM:616461,0,,1,GAL
+type 3 melanocortin receptor binding,GO:0031781,Epilepsy,MESH:D004827,0,,1,POMC
+type 3 melanocortin receptor binding,GO:0031781,"Epilepsy, Tonic-Clonic",MESH:D004830,0,,1,POMC
+type 4 melanocortin receptor binding,GO:0031782,Epilepsy,MESH:D004827,0,,1,POMC
+type 4 melanocortin receptor binding,GO:0031782,"Epilepsy, Tonic-Clonic",MESH:D004830,0,,1,POMC
+type III transforming growth factor beta receptor binding,GO:0034714,Epilepsy,MESH:D004827,0,,1,TGFB1
+type II transforming growth factor beta receptor binding,GO:0005114,Epilepsy,MESH:D004827,0,,1,TGFB1
+type I transforming growth factor beta receptor binding,GO:0034713,Epilepsy,MESH:D004827,0,,1,TGFB1
+ubiquinol-cytochrome-c reductase activity,GO:0008121,Epilepsy,MESH:D004827,2,Cisplatin|Haloperidol,0,
+ubiquinol-cytochrome-c reductase activity,GO:0008121,"Epilepsy, Absence",MESH:D004832,1,Haloperidol,0,
+ubiquinol-cytochrome-c reductase activity,GO:0008121,"Epilepsy, Tonic-Clonic",MESH:D004830,5,Acetaminophen|Chloroquine|Chlorpromazine|Deferoxamine|Haloperidol,0,
+ubiquitin conjugating enzyme binding,GO:0031624,"Epilepsy, Familial Adult Myoclonic, 3",MESH:C567098,0,,1,MARCHF6
+ubiquitin protein ligase activity,GO:0061630,Epilepsy,MESH:D004827,0,,1,UBE3A
+ubiquitin protein ligase activity,GO:0061630,"Epilepsy, Familial Adult Myoclonic, 3",MESH:C567098,0,,1,MARCHF6
+ubiquitin protein ligase activity,GO:0061630,"INTELLECTUAL DEVELOPMENTAL DISORDER, AUTOSOMAL RECESSIVE 18, WITH OR WITHOUT EPILEPSY",OMIM:614249,0,,1,MED23
+ubiquitin protein ligase binding,GO:0031625,Epilepsy,MESH:D004827,0,,1,ABCB1
+ubiquitin-protein transferase activity,GO:0004842,Epilepsy,MESH:D004827,0,,2,ILK|UBE3A
+ubiquitin-protein transferase activity,GO:0004842,"Epilepsy, Familial Adult Myoclonic, 3",MESH:C567098,0,,1,MARCHF6
+ubiquitin-specific protease binding,GO:1990381,"Epilepsy, Familial Adult Myoclonic, 3",MESH:C567098,0,,1,MARCHF6
+unfolded protein binding,GO:0051082,Epilepsy,MESH:D004827,0,,1,ERN1
+unmethylated CpG binding,GO:0045322,Epilepsy,MESH:D004827,0,,1,MECP2
+V1A vasopressin receptor binding,GO:0031894,"Epilepsy, Tonic-Clonic",MESH:D004830,0,,1,OXT
+vascular endothelial growth factor binding,GO:0038085,"Epilepsy, Temporal Lobe",MESH:D004833,0,,1,KDR
+vascular endothelial growth factor receptor 1 binding,GO:0043183,"Epilepsy, Temporal Lobe",MESH:D004833,0,,1,VEGFA
+vascular endothelial growth factor receptor 2 binding,GO:0043184,"Epilepsy, Temporal Lobe",MESH:D004833,0,,1,VEGFA
+vascular endothelial growth factor receptor activity,GO:0005021,"Epilepsy, Temporal Lobe",MESH:D004833,0,,2,KDR|TEK
+vascular endothelial growth factor receptor binding,GO:0005172,"Epilepsy, Temporal Lobe",MESH:D004833,0,,1,VEGFA
+very-low-density lipoprotein particle receptor binding,GO:0070326,"EPILEPSY, FAMILIAL TEMPORAL LOBE, 1",OMIM:600512,0,,1,RELN
+very-low-density lipoprotein particle receptor binding,GO:0070326,"EPILEPSY, FAMILIAL TEMPORAL LOBE, 7",OMIM:616436,0,,1,RELN
+virus receptor activity,GO:0001618,"EPILEPSY, PROGRESSIVE MYOCLONIC, 4, WITH OR WITHOUT RENAL FAILURE",OMIM:254900,0,,1,SCARB2
+vitamin D binding,GO:0005499,"Epilepsy, Temporal Lobe",MESH:D004833,0,,1,VDR
+vitamin D response element binding,GO:0070644,"Epilepsy, Temporal Lobe",MESH:D004833,0,,1,VDR
+voltage-gated calcium channel activity,GO:0005245,Epilepsy,MESH:D004827,0,,2,OPRM1|SMC1A
+voltage-gated calcium channel activity,GO:0005245,"Epilepsy, Absence",MESH:D004832,0,,3,CACNA1A|CACNA1H|CACNA2D2
+voltage-gated calcium channel activity,GO:0005245,"Epilepsy, Generalized",MESH:D004829,0,,1,CACNB4
+voltage-gated calcium channel activity,GO:0005245,"Epilepsy, Idiopathic Generalized",MESH:C562694,0,,1,CACNB4
+voltage-gated calcium channel activity,GO:0005245,"Epilepsy, Temporal Lobe",MESH:D004833,0,,1,TRPV1
+voltage-gated calcium channel activity,GO:0005245,"Myoclonic Epilepsy, Juvenile",MESH:D020190,0,,1,CACNB4
+voltage-gated calcium channel activity involved in regulation of cytosolic calcium levels,GO:0099511,"Epilepsy, Absence",MESH:D004832,1,Doxorubicin,0,
+voltage-gated calcium channel activity involved in regulation of presynaptic cytosolic calcium levels,GO:0099626,"Epilepsy, Absence",MESH:D004832,0,,1,CACNA1A
+voltage-gated calcium channel activity involved in regulation of presynaptic cytosolic calcium levels,GO:0099626,"Epilepsy, Generalized",MESH:D004829,0,,1,CACNB4
+voltage-gated calcium channel activity involved in regulation of presynaptic cytosolic calcium levels,GO:0099626,"Epilepsy, Idiopathic Generalized",MESH:C562694,0,,1,CACNB4
+voltage-gated calcium channel activity involved in regulation of presynaptic cytosolic calcium levels,GO:0099626,"Myoclonic Epilepsy, Juvenile",MESH:D020190,0,,1,CACNB4
+voltage-gated channel activity,GO:0022832,Epilepsy,MESH:D004827,0,,1,VDAC1
+voltage-gated chloride channel activity,GO:0005247,"Epilepsy, Idiopathic Generalized",MESH:C562694,0,,1,CLCN2
+voltage-gated monoatomic anion channel activity,GO:0008308,Epilepsy,MESH:D004827,0,,2,VDAC1|VDAC2
+voltage-gated monoatomic anion channel activity,GO:0008308,"Epilepsy, Idiopathic Generalized",MESH:C562694,0,,1,CLCN2
+voltage-gated monoatomic cation channel activity,GO:0022843,Epilepsy,MESH:D004827,0,,3,GRIN2A|HCN1|KCNQ2
+voltage-gated monoatomic cation channel activity,GO:0022843,"Epilepsy, Absence",MESH:D004832,0,,1,CACNA1A
+voltage-gated monoatomic cation channel activity,GO:0022843,"Epilepsy, Benign Neonatal",MESH:D020936,0,,1,KCNQ2
+voltage-gated monoatomic cation channel activity,GO:0022843,"EPILEPSY, FOCAL, WITH SPEECH DISORDER AND WITH OR WITHOUT IMPAIRED INTELLECTUAL DEVELOPMENT",OMIM:245570,0,,1,GRIN2A
+voltage-gated monoatomic cation channel activity,GO:0022843,"Epilepsy, Rolandic",MESH:D019305,0,,1,GRIN2A
+voltage-gated monoatomic ion channel activity,GO:0005244,Epilepsy,MESH:D004827,0,,3,KCNQ2|VDAC1|VDAC2
+voltage-gated monoatomic ion channel activity,GO:0005244,"Epilepsy, Absence",MESH:D004832,0,,1,CACNA1H
+voltage-gated monoatomic ion channel activity,GO:0005244,"Epilepsy, Benign Neonatal",MESH:D020936,0,,1,KCNQ2
+voltage-gated monoatomic ion channel activity involved in regulation of postsynaptic membrane potential,GO:1905030,"Epilepsy, Temporal Lobe",MESH:D004833,0,,1,KCNC4
+voltage-gated monoatomic ion channel activity involved in regulation of presynaptic membrane potential,GO:0099508,Epilepsy,MESH:D004827,0,,3,KCNH1|SCN1A|SCN2A
+voltage-gated monoatomic ion channel activity involved in regulation of presynaptic membrane potential,GO:0099508,"Epilepsy, Benign Neonatal, 3",MESH:C564274,0,,1,SCN2A
+voltage-gated monoatomic ion channel activity involved in regulation of presynaptic membrane potential,GO:0099508,"Epilepsy, Generalized",MESH:D004829,0,,1,SCN1A
+voltage-gated monoatomic ion channel activity involved in regulation of presynaptic membrane potential,GO:0099508,"Epilepsy, Temporal Lobe",MESH:D004833,0,,1,KCNC4
+voltage-gated monoatomic ion channel activity involved in regulation of presynaptic membrane potential,GO:0099508,"Generalized Epilepsy With Febrile Seizures Plus, Type 2",MESH:C565810,0,,1,SCN1A
+voltage-gated potassium channel activity,GO:0005249,Epilepsy,MESH:D004827,2,4-Aminopyridine|Valproic Acid,6,EEF1A2|HCN1|KCNAB2|KCNH1|KCNQ2|SNAP25
+voltage-gated potassium channel activity,GO:0005249,"Epilepsy, Absence",MESH:D004832,1,Valproic Acid,1,KCNK9
+voltage-gated potassium channel activity,GO:0005249,"Epilepsy, Benign Neonatal",MESH:D020936,0,,1,KCNQ2
+voltage-gated potassium channel activity,GO:0005249,"Epilepsy, Complex Partial",MESH:D017029,1,Valproic Acid,0,
+voltage-gated potassium channel activity,GO:0005249,"Epilepsy, Generalized",MESH:D004829,1,Valproic Acid,0,
+voltage-gated potassium channel activity,GO:0005249,"Epilepsy, Reflex",MESH:D020195,1,Valproic Acid,0,
+voltage-gated potassium channel activity,GO:0005249,"Epilepsy, Rolandic",MESH:D019305,1,Valproic Acid,0,
+voltage-gated potassium channel activity,GO:0005249,"Epilepsy, Temporal Lobe",MESH:D004833,1,Valproic Acid,1,KCNC4
+voltage-gated potassium channel activity,GO:0005249,"Epilepsy, Tonic-Clonic",MESH:D004830,1,Valproic Acid,0,
+voltage-gated potassium channel activity,GO:0005249,Generalized Epilepsy and Paroxysmal Dyskinesia,MESH:C563719,0,,1,KCNMA1
+voltage-gated potassium channel activity,GO:0005249,"Myoclonic Epilepsy, Juvenile",MESH:D020190,1,Valproic Acid,0,
+voltage-gated sodium channel activity,GO:0005248,Epilepsy,MESH:D004827,1,Lidocaine,4,HCN1|SCN1A|SCN2A|SCN8A
+voltage-gated sodium channel activity,GO:0005248,"Epilepsy, Absence",MESH:D004832,0,,1,CACNA1H
+voltage-gated sodium channel activity,GO:0005248,"Epilepsy, Benign Neonatal, 3",MESH:C564274,0,,1,SCN2A
+voltage-gated sodium channel activity,GO:0005248,"Epilepsy, Complex Partial",MESH:D017029,0,,1,SCN3A
+voltage-gated sodium channel activity,GO:0005248,"Epilepsy, Generalized",MESH:D004829,0,,1,SCN1A
+voltage-gated sodium channel activity,GO:0005248,"Epilepsy, Tonic-Clonic",MESH:D004830,1,Lidocaine,0,
+voltage-gated sodium channel activity,GO:0005248,"Generalized Epilepsy With Febrile Seizures Plus, Type 1",MESH:C565809,0,,1,SCN1B
+voltage-gated sodium channel activity,GO:0005248,"Generalized Epilepsy With Febrile Seizures Plus, Type 2",MESH:C565810,0,,1,SCN1A
+voltage-gated sodium channel activity involved in cardiac muscle cell action potential,GO:0086006,"Generalized Epilepsy With Febrile Seizures Plus, Type 1",MESH:C565809,0,,1,SCN1B
+voltage-gated sodium channel activity involved in Purkinje myocyte action potential,GO:0086062,"Generalized Epilepsy With Febrile Seizures Plus, Type 1",MESH:C565809,0,,1,SCN1B
+volume-sensitive chloride channel activity,GO:0072320,"Epilepsy, Idiopathic Generalized",MESH:C562694,0,,1,CLCN2
+xanthine oxidase activity,GO:0004855,"Epilepsy, Tonic-Clonic",MESH:D004830,1,Diclofenac,0,
+xenobiotic transmembrane transporter activity,GO:0042910,Epilepsy,MESH:D004827,0,,1,ABCB1
+zinc ion binding,GO:0008270,Cortical Dysplasia-Focal Epilepsy Syndrome,MESH:C567657,0,,1,CNTNAP2
+zinc ion binding,GO:0008270,Epilepsy,MESH:D004827,0,,10,ALB|ASXL3|CNTNAP2|DYRK1A|GRIN2A|GRIN2B|P2RX2|P2RX4|SLC12A5|UBE3A
+zinc ion binding,GO:0008270,"Epilepsy, Familial Adult Myoclonic, 3",MESH:C567098,0,,1,MARCHF6
+zinc ion binding,GO:0008270,"EPILEPSY, FAMILIAL TEMPORAL LOBE, 5",OMIM:614417,0,,1,CPA6
+zinc ion binding,GO:0008270,"EPILEPSY, FOCAL, WITH SPEECH DISORDER AND WITH OR WITHOUT IMPAIRED INTELLECTUAL DEVELOPMENT",OMIM:245570,0,,1,GRIN2A
+zinc ion binding,GO:0008270,"Epilepsy, Idiopathic Generalized",MESH:C562694,0,,1,SLC12A5
+zinc ion binding,GO:0008270,"Epilepsy, Nocturnal Frontal Lobe, Type 4",MESH:C563679,0,,1,CHRNA2
+zinc ion binding,GO:0008270,"Epilepsy, Rolandic",MESH:D019305,0,,1,GRIN2A
+zinc ion binding,GO:0008270,"Epilepsy, Temporal Lobe",MESH:D004833,0,,4,P2RX4|P2RX7|SLC12A5|VDR
+zinc ion binding,GO:0008270,Prickle1-Related Progressive Myoclonic Epilepsy with Ataxia,MESH:C580388,0,,1,PRICKLE1

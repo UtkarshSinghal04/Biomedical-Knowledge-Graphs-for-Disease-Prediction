@@ -1,0 +1,187 @@
+GeneSymbol,GeneID,DiseaseName,DiseaseID,DirectEvidence,OmimIDs,PubMedIDs
+ABCB1,5243,Epilepsy,MESH:D004827,marker/mechanism,,19570321|8001500
+ADRA2A,150,Epilepsy,MESH:D004827,therapeutic,,17341653
+AKT1,207,Epilepsy,MESH:D004827,therapeutic,,20064661
+ALB,213,Epilepsy,MESH:D004827,marker/mechanism,,15356194|17121744
+ALDH7A1,501,Pyridoxine-dependent epilepsy,MESH:C536254,marker/mechanism,266100,28087462
+ALG13,79868,Epilepsy,MESH:D004827,marker/mechanism,,29942082
+ANKRD11,29123,Epilepsy,MESH:D004827,marker/mechanism,,29942082
+ARHGEF9,23229,Hyperekplexia and Epilepsy,MESH:C564474,marker/mechanism,300607,
+ARID1B,57492,Epilepsy,MESH:D004827,marker/mechanism,,29942082
+ASAH1,427,SPINAL MUSCULAR ATROPHY WITH PROGRESSIVE MYOCLONIC EPILEPSY,OMIM:159950,marker/mechanism,159950,
+ASXL3,80816,Epilepsy,MESH:D004827,marker/mechanism,,29942082
+ATP6AP2,10159,"Mental Retardation, X-Linked, with Epilepsy",MESH:C564516,marker/mechanism,300423,
+AUTS2,26053,Epilepsy,MESH:D004827,marker/mechanism,,20502679
+BCHE,590,"Epilepsy, Tonic-Clonic",MESH:D004830,marker/mechanism,,15121994
+BDKRB1,623,"Epilepsy, Temporal Lobe",MESH:D004833,marker/mechanism,,15196965
+BDKRB2,624,"Epilepsy, Temporal Lobe",MESH:D004833,therapeutic,,15196965
+BDNF,627,Epilepsy,MESH:D004827,marker/mechanism,,15282290
+BDNF,627,"Epilepsy, Tonic-Clonic",MESH:D004830,marker/mechanism,,16023256
+CACNA1A,773,"Epilepsy, Absence",MESH:D004832,marker/mechanism,,17196942
+CACNA1H,8912,"Epilepsy, Absence",MESH:D004832,marker/mechanism,611942,
+CACNA2D2,9254,"Epilepsy, Absence",MESH:D004832,marker/mechanism,,14660671
+CACNB4,785,"Epilepsy, Generalized",MESH:D004829,marker/mechanism,,10762541
+CACNB4,785,"Epilepsy, Idiopathic Generalized",MESH:C562694,marker/mechanism,607682,
+CACNB4,785,"Myoclonic Epilepsy, Juvenile",MESH:D020190,marker/mechanism,,10762541
+CASR,846,"Epilepsy, Idiopathic Generalized",MESH:C562694,marker/mechanism,612899,
+CDKL5,6792,Epilepsy,MESH:D004827,marker/mechanism,,29942082
+CERT1,10087,Epilepsy,MESH:D004827,marker/mechanism,,29942082
+CHD2,1106,Epilepsy,MESH:D004827,marker/mechanism,,23708187|29942082
+CHRM1,1128,Epilepsy,MESH:D004827,marker/mechanism,,18333967
+CHRM2,1129,Epilepsy,MESH:D004827,marker/mechanism,,18333967
+CHRNA2,1135,"Epilepsy, Nocturnal Frontal Lobe, Type 4",MESH:C563679,marker/mechanism,610353,19383498
+CHRNA4,1137,"Epilepsy, Frontal Lobe",MESH:D017034,marker/mechanism,,12823585|14996991|17881519
+CHRNA4,1137,"Epilepsy, Nocturnal Frontal Lobe, Type 1",MESH:C563930,marker/mechanism,600513,
+CHRNA7,1139,"Epilepsy, Generalized",MESH:D004829,marker/mechanism,,19136953
+CHRNB2,1141,"Epilepsy, Frontal Lobe",MESH:D017034,marker/mechanism,,14996991
+CHRNB2,1141,"Epilepsy, Nocturnal Frontal Lobe, Type 3",MESH:C565334,marker/mechanism,605375,
+CLCN2,1181,"Epilepsy, Idiopathic Generalized",MESH:C562694,marker/mechanism,607628,
+CNR1,1268,"Epilepsy, Temporal Lobe",MESH:D004833,therapeutic,,20498848
+CNTN2,6900,"EPILEPSY, EARLY-ONSET, 5, WITH OR WITHOUT DEVELOPMENTAL DELAY",OMIM:615400,marker/mechanism,615400,
+CNTNAP2,26047,Cortical Dysplasia-Focal Epilepsy Syndrome,MESH:C567657,marker/mechanism,610042,
+CNTNAP2,26047,Epilepsy,MESH:D004827,marker/mechanism,,20502679|21962519
+COX3,4514,"Epilepsy, Temporal Lobe",MESH:D004833,marker/mechanism,,17092649
+CPA6,57094,"EPILEPSY, FAMILIAL TEMPORAL LOBE, 5",OMIM:614417,marker/mechanism,614417,
+CYP2D6,1565,"Epilepsy, Tonic-Clonic",MESH:D004830,marker/mechanism,,16835697
+DDX3X,1654,Epilepsy,MESH:D004827,marker/mechanism,,29942082
+DEPDC5,9681,"Epilepsy, Partial, with Variable Foci",MESH:C565785,marker/mechanism,604364,23542697|23542701
+DNM1,1759,Epilepsy,MESH:D004827,marker/mechanism,,29942082
+DYRK1A,1859,Epilepsy,MESH:D004827,marker/mechanism,,29942082
+EEF1A2,1917,Epilepsy,MESH:D004827,marker/mechanism,,29942082
+EFHC1,114327,"Epilepsy, Absence",MESH:D004832,marker/mechanism,607631,
+EFHC1,114327,"Myoclonic Epilepsy, Juvenile",MESH:D020190,marker/mechanism,254770,
+ERN1,2081,Epilepsy,MESH:D004827,marker/mechanism,,19558813
+FGF2,2247,"Epilepsy, Tonic-Clonic",MESH:D004830,marker/mechanism,,16023256
+FLNA,2316,Epilepsy,MESH:D004827,marker/mechanism,,11914408
+FOLR1,2348,Epilepsy,MESH:D004827,marker/mechanism,,19732866
+FOS,2353,Epilepsy,MESH:D004827,marker/mechanism,,15973680
+FOSB,2354,Epilepsy,MESH:D004827,marker/mechanism,,16391389
+FOXG1,2290,Epilepsy,MESH:D004827,marker/mechanism,,29942082
+GABRA1,2554,"Myoclonic Epilepsy, Juvenile",MESH:D020190,marker/mechanism,611136,
+GABRB2,2561,Epilepsy,MESH:D004827,marker/mechanism,,29942082
+GABRB3,2562,Epilepsy,MESH:D004827,marker/mechanism,,15878204|29942082
+GABRB3,2562,"Epilepsy, Absence",MESH:D004832,marker/mechanism,612269,18514161
+GABRD,2563,"Epilepsy, Idiopathic Generalized",MESH:C562694,marker/mechanism,613060,
+GAL,51083,"EPILEPSY, FAMILIAL TEMPORAL LOBE, 8",OMIM:616461,marker/mechanism,616461,
+GFAP,2670,Epilepsy,MESH:D004827,marker/mechanism,,21177194
+GNAO1,2775,Epilepsy,MESH:D004827,marker/mechanism,,29942082
+GPX1,2876,Epilepsy,MESH:D004827,marker/mechanism,,19499324
+GRIN2A,2903,Epilepsy,MESH:D004827,marker/mechanism,,20890276|23933818
+GRIN2A,2903,"EPILEPSY, FOCAL, WITH SPEECH DISORDER AND WITH OR WITHOUT IMPAIRED INTELLECTUAL DEVELOPMENT",OMIM:245570,marker/mechanism,245570,
+GRIN2A,2903,"Epilepsy, Rolandic",MESH:D019305,marker/mechanism,,23933819
+GRIN2B,2904,Epilepsy,MESH:D004827,marker/mechanism,,16407536|29942082
+GRM1,2911,Epilepsy,MESH:D004827,marker/mechanism,,19853022
+GRM1,2911,"Epilepsy, Temporal Lobe",MESH:D004833,marker/mechanism,,15694259
+GRM2,2912,"Epilepsy, Temporal Lobe",MESH:D004833,marker/mechanism,,18804094
+GRM3,2913,"Epilepsy, Temporal Lobe",MESH:D004833,marker/mechanism,,18804094
+GRM4,2914,"Epilepsy, Temporal Lobe",MESH:D004833,marker/mechanism,,15694259
+GRM5,2915,"Epilepsy, Temporal Lobe",MESH:D004833,marker/mechanism,,15694259
+HBEGF,1839,"Epilepsy, Tonic-Clonic",MESH:D004830,marker/mechanism,,16023256
+HCN1,348980,Epilepsy,MESH:D004827,marker/mechanism,,12890777
+HNRNPU,3192,Epilepsy,MESH:D004827,marker/mechanism,,29942082
+IER3IP1,51124,"MICROCEPHALY, EPILEPSY, AND DIABETES SYNDROME 1",OMIM:614231,marker/mechanism,614231,
+ILK,3611,Epilepsy,MESH:D004827,therapeutic,,20064661
+IQSEC2,23096,Epilepsy,MESH:D004827,marker/mechanism,,29942082
+JRK,8629,"Epilepsy, Absence",MESH:D004832,marker/mechanism,,11463517
+JRK,8629,"Epilepsy, Generalized",MESH:D004829,marker/mechanism,,11463517
+JRK,8629,"Myoclonic Epilepsy, Juvenile",MESH:D020190,marker/mechanism,,11463517
+KCNAB2,8514,Epilepsy,MESH:D004827,marker/mechanism,,11580756
+KCNC4,3749,"Epilepsy, Temporal Lobe",MESH:D004833,marker/mechanism,,20971086
+KCNH1,3756,Epilepsy,MESH:D004827,marker/mechanism,,25420144|29942082
+KCNK9,51305,"Epilepsy, Absence",MESH:D004832,marker/mechanism,,15781965
+KCNMA1,3778,Generalized Epilepsy and Paroxysmal Dyskinesia,MESH:C563719,marker/mechanism,609446,
+KCNQ2,3785,Epilepsy,MESH:D004827,marker/mechanism,,16464983|29942082
+KCNQ2,3785,"Epilepsy, Benign Neonatal",MESH:D020936,marker/mechanism,,19380078|26910900
+KCNT1,57582,"Epilepsy, Frontal Lobe",MESH:D017034,marker/mechanism,,23086396
+KCNT1,57582,"EPILEPSY, NOCTURNAL FRONTAL LOBE, 5",OMIM:615005,marker/mechanism,615005,
+KCTD7,154881,"EPILEPSY, PROGRESSIVE MYOCLONIC, 3, WITH OR WITHOUT INTRACELLULAR INCLUSIONS",OMIM:611726,marker/mechanism,611726,
+KDR,3791,"Epilepsy, Temporal Lobe",MESH:D004833,marker/mechanism,,17533168
+L2HGDH,79944,Epilepsy,MESH:D004827,marker/mechanism,,15385440
+LGI1,9211,"EPILEPSY, FAMILIAL TEMPORAL LOBE, 1",OMIM:600512,marker/mechanism,600512,
+MARCHF6,10299,"Epilepsy, Familial Adult Myoclonic, 3",MESH:C567098,marker/mechanism,613608,
+MECP2,4204,Epilepsy,MESH:D004827,marker/mechanism,,29942082
+MED23,9439,"INTELLECTUAL DEVELOPMENTAL DISORDER, AUTOSOMAL RECESSIVE 18, WITH OR WITHOUT EPILEPSY",OMIM:614249,marker/mechanism,614249,
+MEF2C,4208,Epilepsy,MESH:D004827,marker/mechanism,,20412115|29942082
+MICAL1,64780,"EPILEPSY, FAMILIAL TEMPORAL LOBE, 1",OMIM:600512,marker/mechanism,600512,
+NACC1,112939,"NEURODEVELOPMENTAL DISORDER WITH EPILEPSY, CATARACTS, FEEDING DIFFICULTIES, AND DELAYED BRAIN MYELINATION",OMIM:617393,marker/mechanism,617393,
+NES,10763,"Epilepsy, Tonic-Clonic",MESH:D004830,marker/mechanism,,16137769
+NEXMIF,340533,Epilepsy,MESH:D004827,marker/mechanism,,29942082
+NGF,4803,"Epilepsy, Tonic-Clonic",MESH:D004830,marker/mechanism,,16023256
+NPRL2,10641,"Epilepsy, Partial, with Variable Foci",MESH:C565785,marker/mechanism,617116,
+NPRL3,8131,"Epilepsy, Partial, with Variable Foci",MESH:C565785,marker/mechanism,617118,
+NPY,4852,Epilepsy,MESH:D004827,therapeutic,,20064661|8868293
+NPY,4852,"Epilepsy, Temporal Lobe",MESH:D004833,therapeutic,,15716408
+NPY2R,4887,Epilepsy,MESH:D004827,therapeutic,,8868293
+NPY2R,4887,"Epilepsy, Temporal Lobe",MESH:D004833,therapeutic,,15716408
+NTF3,4908,"Epilepsy, Tonic-Clonic",MESH:D004830,marker/mechanism,,16023256
+OPRD1,4985,Epilepsy,MESH:D004827,marker/mechanism,,2415332
+OPRM1,4988,Epilepsy,MESH:D004827,marker/mechanism,,2415332
+OXT,5020,"Epilepsy, Tonic-Clonic",MESH:D004830,marker/mechanism,,4988877|6407273
+P2RX2,22953,Epilepsy,MESH:D004827,marker/mechanism,,12941474
+P2RX4,5025,Epilepsy,MESH:D004827,marker/mechanism,,12941474
+P2RX4,5025,"Epilepsy, Temporal Lobe",MESH:D004833,marker/mechanism,,19084381
+P2RX7,5027,"Epilepsy, Temporal Lobe",MESH:D004833,marker/mechanism,,12121326|19084381
+PCDH19,57526,Epilepsy,MESH:D004827,marker/mechanism,,18469813
+PCDH19,57526,"Epilepsy, Female-Restricted, with Mental Retardation",MESH:C564715,marker/mechanism,300088,
+PLPBP,11212,Pyridoxine-dependent epilepsy,MESH:C536254,marker/mechanism,617290,
+POLG,5428,Epilepsy,MESH:D004827,marker/mechanism,,18716558
+POMC,5443,Epilepsy,MESH:D004827,therapeutic,,20708863
+POMC,5443,"Epilepsy, Tonic-Clonic",MESH:D004830,marker/mechanism,,4371370
+PRICKLE1,144165,Prickle1-Related Progressive Myoclonic Epilepsy with Ataxia,MESH:C580388,marker/mechanism,612437,
+PURA,5813,Epilepsy,MESH:D004827,marker/mechanism,,29942082
+RAB39B,116442,Epilepsy,MESH:D004827,marker/mechanism,,20159109
+RELN,5649,"EPILEPSY, FAMILIAL TEMPORAL LOBE, 1",OMIM:600512,marker/mechanism,600512,
+RELN,5649,"EPILEPSY, FAMILIAL TEMPORAL LOBE, 7",OMIM:616436,marker/mechanism,616436,
+SAMD12,401474,"Epilepsy, Myoclonic, Benign Adult Familial, Type 1",MESH:C563399,marker/mechanism,601068,
+SCARB2,950,"EPILEPSY, PROGRESSIVE MYOCLONIC, 4, WITH OR WITHOUT RENAL FAILURE",OMIM:254900,marker/mechanism,254900,
+SCN1A,6323,Epilepsy,MESH:D004827,marker/mechanism,,15805193|19694741|23708187|29942082
+SCN1A,6323,"Epilepsy, Generalized",MESH:D004829,marker/mechanism,,21480876
+SCN1A,6323,"Generalized Epilepsy With Febrile Seizures Plus, Type 2",MESH:C565810,marker/mechanism,604403,
+SCN1B,6324,"Generalized Epilepsy With Febrile Seizures Plus, Type 1",MESH:C565809,marker/mechanism,604233,
+SCN2A,6326,Epilepsy,MESH:D004827,marker/mechanism,,16464983|23708187|29942082
+SCN2A,6326,"Epilepsy, Benign Neonatal, 3",MESH:C564274,marker/mechanism,607745,
+SCN3A,6328,"Epilepsy, Complex Partial",MESH:D017029,marker/mechanism,,18242854
+SCN8A,6334,Epilepsy,MESH:D004827,marker/mechanism,,23708187|29942082
+SELENOW,6415,Epilepsy,MESH:D004827,marker/mechanism,,19499324
+SLC12A2,6558,Epilepsy,MESH:D004827,marker/mechanism,,18550034
+SLC12A2,6558,"Epilepsy, Temporal Lobe",MESH:D004833,marker/mechanism,,19674083
+SLC12A5,57468,Epilepsy,MESH:D004827,marker/mechanism,,12000122|18550034
+SLC12A5,57468,"Epilepsy, Idiopathic Generalized",MESH:C562694,marker/mechanism,616685,
+SLC12A5,57468,"Epilepsy, Temporal Lobe",MESH:D004833,marker/mechanism,,19674083
+SLC1A1,6505,Epilepsy,MESH:D004827,marker/mechanism,,12151515
+SLC1A1,6505,"Epilepsy, Temporal Lobe",MESH:D004833,marker/mechanism,,11906504
+SLC1A2,6506,Epilepsy,MESH:D004827,marker/mechanism,,19853022
+SLC1A3,6507,Epilepsy,MESH:D004827,marker/mechanism,,19853022
+SLC4A10,57282,Epilepsy,MESH:D004827,therapeutic,,18165320
+SLC4A10,57282,"Epilepsy, Frontal Lobe",MESH:D017034,marker/mechanism,,18413482
+SLC6A1,6529,Epilepsy,MESH:D004827,marker/mechanism,,29942082
+SLC6A1,6529,MYOCLONIC-ATONIC EPILEPSY,OMIM:616421,marker/mechanism,616421,
+SLCO1A5,108096,Epilepsy,MESH:D004827,marker/mechanism,,19570321
+SLIT2,9353,"Epilepsy, Temporal Lobe",MESH:D004833,marker/mechanism,,20153733
+SMC1A,8243,Epilepsy,MESH:D004827,marker/mechanism,,29942082
+SNAP25,6616,Epilepsy,MESH:D004827,marker/mechanism,,29942082
+SPARCL1,8404,Epilepsy,MESH:D004827,marker/mechanism,,18488994
+SRPX2,27286,"Rolandic Epilepsy, Mental Retardation, and Speech Dyspraxia, X-Linked",MESH:C564467,marker/mechanism,300643,
+ST3GAL5,8869,Amish Infantile Epilepsy Syndrome,MESH:C563799,marker/mechanism,609056,
+STAMBP,10617,Epilepsy,MESH:D004827,marker/mechanism,,23542699
+STARD7,56910,"Epilepsy, Myoclonic, Benign Adult Familial, Type 2",MESH:C564313,marker/mechanism,607876,
+STRADA,92335,"Polyhydramnios, Megalencephaly, And Symptomatic Epilepsy",MESH:C567020,marker/mechanism,611087,
+STX1B,112755,Epilepsy,MESH:D004827,marker/mechanism,,25362483
+STX1B,112755,"GENERALIZED EPILEPSY WITH FEBRILE SEIZURES PLUS, TYPE 9",OMIM:616172,marker/mechanism,616172,
+STXBP1,6812,Epilepsy,MESH:D004827,marker/mechanism,,29942082
+SYN1,6853,"Epilepsy, X-Linked, with Variable Learning Disabilities and Behavior Disorders",MESH:C564505,marker/mechanism,300491,
+SYNGAP1,8831,Epilepsy,MESH:D004827,marker/mechanism,,23708187|29942082
+TBC1D24,57465,"Epilepsy, rolandic with paroxysmal exercise-induced dystonia and writer's cramp",MESH:C535499,marker/mechanism,608105,
+TBC1D24,57465,"MYOCLONIC EPILEPSY, FAMILIAL INFANTILE",OMIM:605021,marker/mechanism,605021,
+TEK,7010,"Epilepsy, Temporal Lobe",MESH:D004833,marker/mechanism,,17533168
+TGFB1,7040,Epilepsy,MESH:D004827,marker/mechanism,,29483653
+TRPV1,7442,"Epilepsy, Temporal Lobe",MESH:D004833,marker/mechanism,,20144892
+TSC1,7248,Epilepsy,MESH:D004827,marker/mechanism,,12112044|21062901
+TSC2,7249,Epilepsy,MESH:D004827,marker/mechanism,,21062901
+TXNRD1,7296,Epilepsy,MESH:D004827,marker/mechanism,,19499324
+UBE3A,7337,Epilepsy,MESH:D004827,marker/mechanism,,15878204
+VDAC1,7416,Epilepsy,MESH:D004827,marker/mechanism,,17893921
+VDAC2,7417,Epilepsy,MESH:D004827,marker/mechanism,,17893921
+VDR,7421,"Epilepsy, Temporal Lobe",MESH:D004833,marker/mechanism,,18534255
+VEGFA,7422,"Epilepsy, Temporal Lobe",MESH:D004833,marker/mechanism,,17533168
+WDR45,11152,Epilepsy,MESH:D004827,marker/mechanism,,29942082

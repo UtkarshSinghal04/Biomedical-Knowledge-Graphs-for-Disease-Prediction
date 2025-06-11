@@ -1,0 +1,1351 @@
+GOName,GOID,DiseaseName,DiseaseID,InferenceChemicalQty,InferenceChemicalNames,InferenceGeneQty,InferenceGeneSymbols
+14-3-3 protein binding,GO:0071889,Obesity,MESH:D009765,0,,2,AKT1|ESR1
+"1-(4-iodo-2,5-dimethoxyphenyl)propan-2-amine binding",GO:0071886,Obesity,MESH:D009765,0,,2,HTR2A|HTR2C
+15-hydroxyprostaglandin-D dehydrogenase (NADP+) activity,GO:0047020,Obesity,MESH:D009765,0,,1,AKR1C3
+"17-alpha,20-alpha-dihydroxypregn-4-en-3-one dehydrogenase activity",GO:0047006,Obesity,MESH:D009765,0,,1,AKR1C3
+17-beta-hydroxysteroid dehydrogenase (NADP+) activity,GO:0072582,Obesity,MESH:D009765,1,Tetrachlorodibenzodioxin,0,
+17-beta-hydroxysteroid dehydrogenase (NADP+) activity,GO:0072582,"Obesity, Abdominal",MESH:D056128,1,Tetrachlorodibenzodioxin,0,
+1-phosphatidylinositol 4-kinase activity,GO:0004430,Obesity,MESH:D009765,1,Quercetin,0,
+2-oxoglutarate-dependent dioxygenase activity,GO:0016706,Obesity,MESH:D009765,0,,2,FTO|TNFRSF1B
+2-oxoglutarate-dependent dioxygenase activity,GO:0016706,Pediatric Obesity,MESH:D063766,0,,1,FTO
+"3',5'-cyclic-AMP phosphodiesterase activity",GO:0004115,Obesity,MESH:D009765,2,Atrazine|Curcumin,1,ENPP1
+3-beta-hydroxy-delta5-steroid dehydrogenase activity,GO:0003854,Obesity,MESH:D009765,1,Curcumin,0,
+3beta-hydroxysteroid dehydrogenase activity,GO:0102727,Obesity,MESH:D009765,3,cyhalothrin|Taurine|Tetrachlorodibenzodioxin,0,
+3beta-hydroxysteroid dehydrogenase activity,GO:0102727,"Obesity, Abdominal",MESH:D056128,1,Tetrachlorodibenzodioxin,0,
+3-hydroxyacyl-[acyl-carrier-protein] dehydratase activity,GO:0019171,Obesity,MESH:D009765,0,,1,FASN
+3-hydroxyacyl-CoA dehydrogenase activity,GO:0003857,Obesity,MESH:D009765,0,,1,HADH
+3-hydroxypropionyl-CoA dehydratase activity,GO:0043956,Obesity,MESH:D009765,0,,1,ECHS1
+3-oxoacyl-[acyl-carrier-protein] reductase (NADPH) activity,GO:0004316,Obesity,MESH:D009765,0,,1,FASN
+3-oxoacyl-[acyl-carrier-protein] synthase activity,GO:0004315,Obesity,MESH:D009765,0,,1,FASN
+3'-phosphoadenosine 5'-phosphosulfate binding,GO:0050656,Obesity,MESH:D009765,0,,1,ENPP1
+3-phosphoinositide-dependent protein kinase activity,GO:0004676,Obesity,MESH:D009765,0,,1,AKT1
+3-phosphoinositide-dependent protein kinase activity,GO:0004676,"Obesity, Morbid",MESH:D009767,0,,1,KSR2
+"4 iron, 4 sulfur cluster binding",GO:0051539,Obesity,MESH:D009765,0,,2,DPYD|ETFDH
+4-nitrophenol 2-monooxygenase activity,GO:0018601,Obesity,MESH:D009765,0,,1,CYP2E1
+5'-3' exoribonuclease activity,GO:0004534,Obesity,MESH:D009765,0,,1,RAI1
+"5alpha-androstane-3beta,17beta-diol dehydrogenase activity",GO:0047024,Obesity,MESH:D009765,0,,1,AKR1C3
+5'-nucleotidase activity,GO:0008253,Obesity,MESH:D009765,6,bisphenol A|Fructose|geraniol|Metformin|Silymarin|Streptozocin,0,
+5'-nucleotidase activity,GO:0008253,"Obesity, Abdominal",MESH:D056128,1,bisphenol A,0,
+6-phosphofructo-2-kinase activity,GO:0003873,Obesity,MESH:D009765,0,,1,PFKFB3
+6-phosphofructokinase activity,GO:0003872,Obesity,MESH:D009765,1,Lead,0,
+7-beta-hydroxysteroid dehydrogenase (NADP+) activity,GO:0047022,Obesity,MESH:D009765,0,,1,HSD11B1
+7-beta-hydroxysteroid dehydrogenase (NADP+) activity,GO:0047022,"Obesity, Abdominal",MESH:D056128,0,,1,HSD11B1
+"8-oxo-7,8-dihydroguanine DNA N-glycosylase activity",GO:0034039,Obesity,MESH:D009765,0,,1,OGG1
+8-oxo-(d)RTP hydrolase activity,GO:0106379,Obesity,MESH:D009765,0,,1,ENPP1
+ABC-type transporter activity,GO:0140359,Obesity,MESH:D009765,1,Dietary Fats,0,
+ABC-type transporter activity,GO:0140359,"Obesity, Abdominal",MESH:D056128,1,Dietary Fats,0,
+ABC-type xenobiotic transporter activity,GO:0008559,Obesity,MESH:D009765,2,Chlorpyrifos|Dronabinol,0,
+acetate-CoA ligase activity,GO:0003987,Obesity,MESH:D009765,0,,1,ACSL1
+acetylation-dependent protein binding,GO:0140033,Obesity,MESH:D009765,0,,1,EP300
+acetylcholine binding,GO:0042166,Obesity,MESH:D009765,0,,1,ACHE
+acetylcholine-gated monoatomic cation-selective channel activity,GO:0022848,Obesity,MESH:D009765,2,Dronabinol|Nicotine,0,
+acetylcholinesterase activity,GO:0003990,Obesity,MESH:D009765,11,"Ascorbic Acid|bisphenol A|Chlorpyrifos|Diethylhexyl Phthalate|Dronabinol|Particulate Matter|Pesticides|Plant Extracts|Quercetin|Vehicle Emissions|Water Pollutants, Chemical",2,ACHE|BCHE
+acetylcholinesterase activity,GO:0003990,"Obesity, Abdominal",MESH:D056128,2,bisphenol A|Particulate Matter,0,
+acetylcholine transmembrane transporter activity,GO:0005277,Obesity,MESH:D009765,0,,2,SLC22A1|SLC22A2
+acetyl-CoA carboxylase activity,GO:0003989,Obesity,MESH:D009765,4,bisphenol A|Dietary Fats|Glucose|Resveratrol,1,ACACB
+acetyl-CoA carboxylase activity,GO:0003989,"Obesity, Abdominal",MESH:D056128,2,bisphenol A|Dietary Fats,0,
+acetyltransferase activity,GO:0016407,Obesity,MESH:D009765,0,,1,EP300
+acid phosphatase activity,GO:0003993,Obesity,MESH:D009765,17,3-(indol-3-yl)propionic acid|Ascorbic Acid|azoxystrobin|bisphenol A|Cadmium|Chlorpyrifos|Curcumin|Cyclosporine|Diethylhexyl Phthalate|Folic Acid|Glyphosate|Lead|Plant Extracts|Quercetin|Resveratrol|Streptozocin|Tetrachlorodibenzodioxin,1,ACP5
+acid phosphatase activity,GO:0003993,"Obesity, Abdominal",MESH:D056128,2,bisphenol A|Tetrachlorodibenzodioxin,0,
+acid phosphatase activity,GO:0003993,Pediatric Obesity,MESH:D063766,1,Cadmium,0,
+aconitate hydratase activity,GO:0003994,Obesity,MESH:D009765,3,bisphenol A|Dietary Fats|Streptozocin,0,
+aconitate hydratase activity,GO:0003994,"Obesity, Abdominal",MESH:D056128,2,bisphenol A|Dietary Fats,0,
+actin binding,GO:0003779,Obesity,MESH:D009765,0,,2,KCNMA1|PTPN1
+actin binding,GO:0003779,"Obesity, Morbid",MESH:D009767,0,,1,KCNMA1
+actin filament binding,GO:0051015,Obesity,MESH:D009765,0,,1,GAS7
+actinin binding,GO:0042805,Obesity,MESH:D009765,0,,1,CRP
+active monoatomic ion transmembrane transporter activity,GO:0022853,Obesity,MESH:D009765,1,Nicotine,0,
+acyl-[acyl-carrier-protein] hydrolase activity,GO:0016297,Obesity,MESH:D009765,0,,1,FASN
+[acyl-carrier-protein] S-acetyltransferase activity,GO:0004313,Obesity,MESH:D009765,0,,1,FASN
+[acyl-carrier-protein] S-malonyltransferase activity,GO:0004314,Obesity,MESH:D009765,0,,1,FASN
+acyl-CoA dehydrogenase activity,GO:0003995,Obesity,MESH:D009765,0,,1,ACADM
+acyl-CoA oxidase activity,GO:0003997,Pediatric Obesity,MESH:D063766,1,perfluoroundecanoic acid,0,
+acylglycerol lipase activity,GO:0047372,Obesity,MESH:D009765,0,,1,FAAH
+acylphosphatase activity,GO:0003998,Obesity,MESH:D009765,2,Glutathione|Quercetin,0,
+acyltransferase activity,GO:0016746,Obesity,MESH:D009765,0,,3,EP300|FASN|SAT1
+"acyltransferase activity, acyl groups converted into alkyl on transfer",GO:0046912,Obesity,MESH:D009765,0,,1,CS
+"acyltransferase activity, transferring groups other than amino-acyl groups",GO:0016747,Obesity,MESH:D009765,0,,1,SAT1
+adenylate cyclase activator activity,GO:0010856,Obesity,MESH:D009765,0,,1,GNAS
+adenylate cyclase activity,GO:0004016,Obesity,MESH:D009765,1,Dronabinol,1,ADCY3
+adenylate cyclase activity,GO:0004016,"Obesity, Morbid",MESH:D009767,0,,1,ADCY3
+adenylate cyclase binding,GO:0008179,Obesity,MESH:D009765,0,,1,ADRB2
+adenylate cyclase regulator activity,GO:0010854,Obesity,MESH:D009765,0,,1,GNAS
+adenylate kinase activity,GO:0004017,Obesity,MESH:D009765,1,Berberine,0,
+ADP binding,GO:0043531,Obesity,MESH:D009765,0,,1,ME1
+ADP phosphatase activity,GO:0043262,Obesity,MESH:D009765,2,bisphenol A|Caffeine,0,
+ADP phosphatase activity,GO:0043262,"Obesity, Abdominal",MESH:D056128,1,bisphenol A,0,
+adrenergic receptor activity,GO:0004935,Obesity,MESH:D009765,2,Chlorpyrifos|Nicotine,1,ADRB1
+AF-2 domain binding,GO:0050682,Obesity,MESH:D009765,0,,1,PPARGC1B
+alcohol dehydrogenase (NAD+) activity,GO:0004022,Obesity,MESH:D009765,2,Curcumin|Diethylhexyl Phthalate,1,ADH1B
+aldehyde dehydrogenase (NAD+) activity,GO:0004029,Obesity,MESH:D009765,0,,1,ALDH1L1
+aldehyde dehydrogenase (NADP+) activity,GO:0033721,Obesity,MESH:D009765,0,,1,ALDH1L1
+aldehyde dehydrogenase [NAD(P)+] activity,GO:0004030,Obesity,MESH:D009765,1,Plant Extracts,1,ALDH1L1
+alditol:NADP+ 1-oxidoreductase activity,GO:0004032,Obesity,MESH:D009765,6,Berberine|Capsaicin|Metformin|Quercetin|Streptozocin|Valproic Acid,1,AKR1C3
+aldo-keto reductase (NADP) activity,GO:0004033,Obesity,MESH:D009765,0,,1,AKR1C3
+alkaline phosphatase activity,GO:0004035,Obesity,MESH:D009765,42,"2,2',4,4'-tetrabromodiphenyl ether|3-(indol-3-yl)propionic acid|Acetylcysteine|Ascorbic Acid|bisphenol A|Cadmium|Chlorpyrifos|Curcumin|Cyclosporine|cyhalothrin|deoxynivalenol|Dietary Carbohydrates|Dietary Fats|Diethylhexyl Phthalate|Diethylnitrosamine|Firemaster 550|Folic Acid|Fructose|Genistein|Glucose|GW 4064|Halogenated Diphenyl Ethers|Lead|Mercury|Metformin|naringenin|Nicotine|Oleanolic Acid|Pioglitazone|Plant Extracts|Polystyrenes|Prednisolone|Quercetin|Resveratrol|Rosiglitazone|Silymarin|Sodium Glutamate|Streptozocin|Taurine|Telmisartan|Tetrachlorodibenzodioxin|Valproic Acid",0,
+alkaline phosphatase activity,GO:0004035,"Obesity, Abdominal",MESH:D056128,3,bisphenol A|Dietary Fats|Tetrachlorodibenzodioxin,0,
+alkaline phosphatase activity,GO:0004035,Pediatric Obesity,MESH:D063766,1,Cadmium,0,
+alkylglycerophosphoethanolamine phosphodiesterase activity,GO:0047391,Obesity,MESH:D009765,0,,1,GNAS
+all-trans retinoic acid 18-hydroxylase activity,GO:0062183,Obesity,MESH:D009765,0,,1,CYP26B1
+alpha-2A adrenergic receptor binding,GO:0031694,Obesity,MESH:D009765,0,,1,ADRB1
+alpha2-adrenergic receptor activity,GO:0004938,Obesity,MESH:D009765,0,,1,ADRB1
+alpha-actinin binding,GO:0051393,Obesity,MESH:D009765,0,,1,PPARG
+alpha-amylase activity,GO:0004556,Obesity,MESH:D009765,5,Acarbose|Berberine|Curcumin|p-coumaric acid|Resveratrol,0,
+alpha-glucosidase activity,GO:0090599,Obesity,MESH:D009765,2,Acarbose|Berberine,0,
+alpha-tubulin binding,GO:0043014,Obesity,MESH:D009765,0,,1,GNAS
+amidase activity,GO:0004040,Obesity,MESH:D009765,0,,1,FAAH
+amine binding,GO:0043176,Obesity,MESH:D009765,0,,1,ADRB1
+amine transmembrane transporter activity,GO:0005275,Obesity,MESH:D009765,0,,1,SLC22A2
+amino acid binding,GO:0016597,Obesity,MESH:D009765,0,,2,GFPT1|IDO1
+aminoacyl-tRNA hydrolase activity,GO:0004045,Obesity,MESH:D009765,0,,1,ADCY3
+aminoacyl-tRNA hydrolase activity,GO:0004045,"Obesity, Morbid",MESH:D009767,0,,1,ADCY3
+aminopeptidase activity,GO:0004177,Obesity,MESH:D009765,5,Chlorpyrifos|Dichlorodiphenyl Dichloroethylene|geraniol|Glucose|Streptozocin,0,
+AMP-activated protein kinase activity,GO:0004679,Obesity,MESH:D009765,15,Berberine|bisphenol A|Caffeine|celastrol|Cholesterol|Dietary Fats|Folic Acid|geraniol|Glucose|Metformin|Nicotine|Oleanolic Acid|Resveratrol|Streptozocin|xanthohumol,1,AKT1
+AMP-activated protein kinase activity,GO:0004679,"Obesity, Abdominal",MESH:D056128,3,bisphenol A|Dietary Fats|Letrozole,0,
+AMP-activated protein kinase activity,GO:0004679,"Obesity, Morbid",MESH:D009767,0,,1,KSR2
+amylase activity,GO:0016160,Obesity,MESH:D009765,4,Cadmium|Fructose|Metformin|Streptozocin,0,
+amylase activity,GO:0016160,Pediatric Obesity,MESH:D063766,1,Cadmium,0,
+amyloid-beta binding,GO:0001540,Obesity,MESH:D009765,0,,6,ACHE|ADRB2|APOE|BCHE|ITGAM|LDLR
+amyloid-beta binding,GO:0001540,Pediatric Obesity,MESH:D063766,0,,1,APOA1
+"androstan-3-alpha,17-beta-diol dehydrogenase activity",GO:0047044,Obesity,MESH:D009765,0,,1,AKR1C3
+androsterone dehydrogenase activity,GO:0047023,Obesity,MESH:D009765,0,,1,AKR1C3
+antigen binding,GO:0003823,Obesity,MESH:D009765,0,,3,CD40|EP300|TNFRSF1B
+antioxidant activity,GO:0016209,Obesity,MESH:D009765,15,"Ascorbic Acid|Atorvastatin|bisphenol A|Chlorpyrifos|Cholesterol|Curcumin|Dietary Fats|Diethylhexyl Phthalate|Glutathione|Particulate Matter|platycodin D|Polystyrenes|pregna-4,17-diene-3,16-dione|Quercetin|tuberostemonine",3,APOE|SOD1|SOD2
+antioxidant activity,GO:0016209,"Obesity, Abdominal",MESH:D056128,3,bisphenol A|Dietary Fats|Particulate Matter,0,
+antioxidant activity,GO:0016209,Pediatric Obesity,MESH:D063766,1,Hexachlorobenzene,0,
+antiporter activity,GO:0015297,Obesity,MESH:D009765,0,,1,UCP2
+apolipoprotein A-I receptor binding,GO:0034191,Pediatric Obesity,MESH:D063766,0,,1,APOA1
+apolipoprotein binding,GO:0034185,Obesity,MESH:D009765,0,,2,LPL|VLDLR
+apolipoprotein receptor binding,GO:0034190,Pediatric Obesity,MESH:D063766,0,,1,APOA1
+arachidonate-CoA ligase activity,GO:0047676,Obesity,MESH:D009765,0,,1,ACSL1
+arachidonic acid binding,GO:0050544,Obesity,MESH:D009765,0,,1,PPARG
+arachidonic acid epoxygenase activity,GO:0008392,Obesity,MESH:D009765,0,,1,CYP2E1
+arachidonic acid omega-hydroxylase activity,GO:0052869,Obesity,MESH:D009765,0,,2,AHR|HMOX1
+arginase activity,GO:0004053,Obesity,MESH:D009765,5,bisphenol A|bisphenol S|Caffeine|Streptozocin|Valproic Acid,0,
+arginase activity,GO:0004053,"Obesity, Abdominal",MESH:D056128,2,bisphenol A|bisphenol S,0,
+arginase activity,GO:0004053,Pediatric Obesity,MESH:D063766,1,bisphenol S,0,
+arginine kinase activity,GO:0004054,Obesity,MESH:D009765,1,Chlorpyrifos,0,
+aromatase activity,GO:0070330,Obesity,MESH:D009765,0,,2,CYP1B1|CYP2E1
+aryldialkylphosphatase activity,GO:0004063,Obesity,MESH:D009765,1,Valproic Acid,0,
+arylesterase activity,GO:0004064,Obesity,MESH:D009765,4,Acetylcysteine|Chlorpyrifos|glabridin|Quercetin,0,
+aryl hydrocarbon receptor binding,GO:0017162,Obesity,MESH:D009765,0,,1,AHR
+arylsulfatase activity,GO:0004065,Obesity,MESH:D009765,0,,1,STS
+aspartic-type endopeptidase activity involved in amyloid precursor protein catabolic process,GO:1902944,Obesity,MESH:D009765,1,Nicotine,0,
+ATPase binding,GO:0051117,Obesity,MESH:D009765,0,,1,ESR1
+ATPase-coupled intramembrane lipid transporter activity,GO:0140326,Obesity,MESH:D009765,1,Taurine,0,
+ATP binding,GO:0005524,ABDOMINAL OBESITY-METABOLIC SYNDROME 3,OMIM:615812,0,,1,DYRK1B
+ATP binding,GO:0005524,Obesity,MESH:D009765,0,,19,ACACB|ACLY|ACSL1|ADCY3|AKT1|ENPP1|ENTPD6|GLUL|HK2|HSPA5|NTRK2|PARP1|PFKFB3|PLIN1|PRKCH|STS|SUCLA2|SUCLG2|TRPV1
+ATP binding,GO:0005524,"Obesity, Hyperphagia, and Developmental Delay",MESH:C563938,0,,1,NTRK2
+ATP binding,GO:0005524,"Obesity, Morbid",MESH:D009767,0,,2,ADCY3|KSR2
+ATP binding,GO:0005524,RETINAL DYSTROPHY AND OBESITY,OMIM:616188,0,,1,TUB
+ATP citrate synthase activity,GO:0003878,Obesity,MESH:D009765,0,,1,ACLY
+ATP-dependent activity,GO:0140657,Obesity,MESH:D009765,4,bisphenol A|Caffeine|Lead|Streptozocin,0,
+ATP-dependent activity,GO:0140657,"Obesity, Abdominal",MESH:D056128,1,bisphenol A,0,
+ATP-dependent peptidase activity,GO:0004176,Obesity,MESH:D009765,0,,1,PARP1
+ATP-dependent protein folding chaperone,GO:0140662,Obesity,MESH:D009765,0,,2,HSPA5|STS
+ATP diphosphatase activity,GO:0047693,Obesity,MESH:D009765,0,,1,ENPP1
+ATP hydrolysis activity,GO:0016887,Obesity,MESH:D009765,20,Acetylcysteine|bisphenol A|bisphenol S|Cadmium|Chlorpyrifos|Dietary Fats|Diethylhexyl Phthalate|Diethylnitrosamine|Genistein|Glucose|Metformin|naringenin|Particulate Matter|Plant Extracts|Quercetin|Resveratrol|Sodium Glutamate|Streptozocin|Taurine|Vehicle Emissions,3,HSPA5|PARP1|STS
+ATP hydrolysis activity,GO:0016887,"Obesity, Abdominal",MESH:D056128,5,bisphenol A|bisphenol F|bisphenol S|Dietary Fats|Particulate Matter,0,
+ATP hydrolysis activity,GO:0016887,Pediatric Obesity,MESH:D063766,2,bisphenol S|Cadmium,0,
+A-type (transient outward) potassium channel activity,GO:0005250,Obesity,MESH:D009765,1,geraniol,0,
+axon guidance receptor activity,GO:0008046,Obesity,MESH:D009765,0,,2,NEGR1|NTRK2
+axon guidance receptor activity,GO:0008046,"Obesity, Hyperphagia, and Developmental Delay",MESH:C563938,0,,1,NTRK2
+B2 bradykinin receptor binding,GO:0031713,Obesity,MESH:D009765,0,,1,ADRB2
+beta1-adrenergic receptor activity,GO:0004940,Obesity,MESH:D009765,0,,2,ADRB1|ADRB3
+beta2-adrenergic receptor activity,GO:0004941,Obesity,MESH:D009765,0,,3,ADRB1|ADRB2|ADRB3
+beta-2 adrenergic receptor binding,GO:0031698,Obesity,MESH:D009765,0,,1,GNAS
+beta3-adrenergic receptor activity,GO:0015052,Obesity,MESH:D009765,0,,1,ADRB3
+beta-3 adrenergic receptor binding,GO:0031699,Obesity,MESH:D009765,0,,1,ADRB3
+beta-adrenergic receptor activity,GO:0004939,Obesity,MESH:D009765,0,,2,ADRB1|ADRB3
+beta-catenin binding,GO:0008013,Obesity,MESH:D009765,0,,3,EP300|ESR1|FOXO3
+beta-galactosidase activity,GO:0004565,Obesity,MESH:D009765,6,Acetylcysteine|Dronabinol|Particulate Matter|Quercetin|Resveratrol|Vehicle Emissions,0,
+beta-galactosidase activity,GO:0004565,"Obesity, Abdominal",MESH:D056128,2,Air Pollutants|Particulate Matter,0,
+beta-N-acetylhexosaminidase activity,GO:0004563,Obesity,MESH:D009765,1,Cyclosporine,0,
+beta-tubulin binding,GO:0048487,Obesity,MESH:D009765,0,,1,AKAP1
+bHLH transcription factor binding,GO:0043425,Obesity,MESH:D009765,0,,2,EP300|SIRT1
+bile acid binding,GO:0032052,Obesity,MESH:D009765,0,,1,AKR1C3
+biotin binding,GO:0009374,Obesity,MESH:D009765,0,,1,ACACB
+boss receptor activity,GO:0008288,Obesity,MESH:D009765,0,,1,NTRK2
+boss receptor activity,GO:0008288,"Obesity, Hyperphagia, and Developmental Delay",MESH:C563938,0,,1,NTRK2
+brain-derived neurotrophic factor binding,GO:0048403,Obesity,MESH:D009765,0,,1,NTRK2
+brain-derived neurotrophic factor binding,GO:0048403,"Obesity, Hyperphagia, and Developmental Delay",MESH:C563938,0,,1,NTRK2
+brain-derived neurotrophic factor receptor activity,GO:0060175,Obesity,MESH:D009765,0,,1,NTRK2
+brain-derived neurotrophic factor receptor activity,GO:0060175,"Obesity, Hyperphagia, and Developmental Delay",MESH:C563938,0,,1,NTRK2
+cADPR-sensitive calcium-release channel activity,GO:0072346,Obesity,MESH:D009765,1,Lead,0,
+calcium-activated potassium channel activity,GO:0015269,Obesity,MESH:D009765,1,geraniol,1,KCNMA1
+calcium-activated potassium channel activity,GO:0015269,"Obesity, Morbid",MESH:D009767,0,,1,KCNMA1
+calcium- and calmodulin-responsive adenylate cyclase activity,GO:0008294,Obesity,MESH:D009765,0,,1,ADCY3
+calcium- and calmodulin-responsive adenylate cyclase activity,GO:0008294,"Obesity, Morbid",MESH:D009767,0,,1,ADCY3
+calcium channel activity,GO:0005262,Obesity,MESH:D009765,3,Capsaicin|Dronabinol|Ruthenium Red,1,TRPV1
+calcium-dependent ATPase activity,GO:0030899,Obesity,MESH:D009765,10,Acetylcysteine|Atorvastatin|Berberine|Cadmium|Chlorpyrifos|Dietary Fats|Glyphosate|p-coumaric acid|Quercetin|Taurine,0,
+calcium-dependent ATPase activity,GO:0030899,"Obesity, Abdominal",MESH:D056128,1,Dietary Fats,0,
+calcium-dependent ATPase activity,GO:0030899,Pediatric Obesity,MESH:D063766,1,Cadmium,0,
+calcium-dependent cysteine-type endopeptidase activity,GO:0004198,Obesity,MESH:D009765,1,Glucose,0,
+calcium-dependent phospholipase A2 activity,GO:0047498,Obesity,MESH:D009765,1,Quercetin,0,
+calcium-dependent protein binding,GO:0048306,Obesity,MESH:D009765,0,,1,VLDLR
+calcium-dependent protein kinase C activity,GO:0004698,Obesity,MESH:D009765,0,,1,PRKCH
+calcium-independent protein kinase C activity,GO:0004699,Obesity,MESH:D009765,0,,1,PRKCH
+calcium ion binding,GO:0005509,Obesity,MESH:D009765,0,,9,BCHE|CRP|ENPP1|F2|GAS7|HSPA5|LDLR|LPL|VLDLR
+calcium-release channel activity,GO:0015278,Obesity,MESH:D009765,0,,1,TRPV1
+calmodulin binding,GO:0005516,Obesity,MESH:D009765,0,,4,ADCY3|AKT1|ESR1|TRPV1
+calmodulin binding,GO:0005516,"Obesity, Morbid",MESH:D009767,0,,1,ADCY3
+calmodulin-dependent protein kinase activity,GO:0004683,Obesity,MESH:D009765,1,Ascorbic Acid,0,
+calmodulin-dependent protein phosphatase activity,GO:0033192,Obesity,MESH:D009765,1,bisphenol A,1,PPM1L
+calmodulin-dependent protein phosphatase activity,GO:0033192,"Obesity, Abdominal",MESH:D056128,1,bisphenol A,0,
+cAMP binding,GO:0030552,Obesity,MESH:D009765,0,,3,PRKAR1A|PRKAR2B|RAPGEF3
+cAMP-dependent protein kinase activity,GO:0004691,Obesity,MESH:D009765,3,bisphenol S|Diethylhexyl Phthalate|Glucose,0,
+cAMP-dependent protein kinase activity,GO:0004691,"Obesity, Abdominal",MESH:D056128,1,bisphenol S,0,
+cAMP-dependent protein kinase activity,GO:0004691,Pediatric Obesity,MESH:D063766,1,bisphenol S,0,
+cAMP-dependent protein kinase inhibitor activity,GO:0004862,Obesity,MESH:D009765,0,,2,PRKAR1A|PRKAR2B
+cAMP-dependent protein kinase regulator activity,GO:0008603,Obesity,MESH:D009765,0,,2,PRKAR1A|PRKAR2B
+cAMP response element binding protein binding,GO:0008140,Obesity,MESH:D009765,0,,1,DDIT3
+cannabinoid receptor activity,GO:0004949,Obesity,MESH:D009765,0,,1,CNR1
+carbohydrate binding,GO:0030246,Obesity,MESH:D009765,0,,1,GFPT1
+carbohydrate derivative binding,GO:0097367,Obesity,MESH:D009765,0,,1,GFPT1
+carbonate dehydratase activity,GO:0004089,Obesity,MESH:D009765,4,Caffeine|Mercury|Streptozocin|Valproic Acid,1,CA3
+carbonyl reductase (NADPH) activity,GO:0004090,Obesity,MESH:D009765,0,,1,DCXR
+carboxylesterase activity,GO:0106435,Obesity,MESH:D009765,1,Chlorpyrifos,2,CES1|CES1G
+carboxylic acid binding,GO:0031406,Obesity,MESH:D009765,0,,1,PCK1
+carboxylic ester hydrolase activity,GO:0052689,Obesity,MESH:D009765,3,Chlorpyrifos|Dietary Fats|geraniol,4,ACHE|BCHE|CES1|LPL
+carboxylic ester hydrolase activity,GO:0052689,"Obesity, Abdominal",MESH:D056128,1,Dietary Fats,0,
+carboxy-lyase activity,GO:0016831,Obesity,MESH:D009765,0,,1,PCK1
+carboxypeptidase activity,GO:0004180,Obesity,MESH:D009765,0,,2,CPB2|CPE
+CARD domain binding,GO:0050700,Obesity,MESH:D009765,0,,1,CASP1
+cardiolipin binding,GO:1901612,Obesity,MESH:D009765,1,Lead,1,UCP1
+cargo receptor activity,GO:0038024,Obesity,MESH:D009765,0,,3,ITGAM|MRC1|VLDLR
+carnitine O-octanoyltransferase activity,GO:0008458,Obesity,MESH:D009765,2,bisphenol A|Dietary Fats,0,
+carnitine O-octanoyltransferase activity,GO:0008458,"Obesity, Abdominal",MESH:D056128,2,bisphenol A|Dietary Fats,0,
+carnitine O-palmitoyltransferase activity,GO:0004095,Obesity,MESH:D009765,7,Aurothioglucose|bisphenol A|Dietary Fats|Diethylhexyl Phthalate|herbacetin|Resveratrol|Sodium Glutamate,0,
+carnitine O-palmitoyltransferase activity,GO:0004095,"Obesity, Abdominal",MESH:D056128,2,bisphenol A|Dietary Fats,0,
+caspase binding,GO:0089720,Obesity,MESH:D009765,0,,2,CASP1|SIRT1
+catalase activity,GO:0004096,Obesity,MESH:D009765,2,cyhalothrin|Pesticides,0,
+catalytic activity,GO:0003824,Obesity,MESH:D009765,0,,14,ACACB|ALDH1L1|BCHE|ECHS1|FAAH|HK2|INPP5E|MMUT|OGG1|PARP1|PFKFB3|SLC16A7|SUCLA2|SUCLG2
+"catalytic activity, acting on a protein",GO:0140096,Obesity,MESH:D009765,0,,1,CASP1
+"catalytic activity, acting on DNA",GO:0140097,Obesity,MESH:D009765,0,,1,OGG1
+cation binding,GO:0043169,Obesity,MESH:D009765,0,,1,PPM1L
+CCR2 chemokine receptor binding,GO:0031727,Obesity,MESH:D009765,0,,1,CCL2
+CCR chemokine receptor binding,GO:0048020,Obesity,MESH:D009765,0,,1,CCL2
+CD154 receptor binding,GO:0042615,Obesity,MESH:D009765,0,,2,CD40|TNFRSF1B
+CD40 receptor binding,GO:0005174,Obesity,MESH:D009765,0,,1,TNF
+CDP phosphatase activity,GO:0036384,Obesity,MESH:D009765,0,,1,ENTPD6
+cell adhesion molecule binding,GO:0050839,Obesity,MESH:D009765,0,,3,CPE|NEGR1|NTRK2
+cell adhesion molecule binding,GO:0050839,"Obesity, Hyperphagia, and Developmental Delay",MESH:C563938,0,,1,NTRK2
+cell-cell adhesion mediator activity,GO:0098632,Obesity,MESH:D009765,0,,2,NEGR1|NTRK2
+cell-cell adhesion mediator activity,GO:0098632,"Obesity, Hyperphagia, and Developmental Delay",MESH:C563938,0,,1,NTRK2
+channel activity,GO:0015267,Obesity,MESH:D009765,4,Cadmium|Capsaicin|Glucose|Quercetin,1,AQP7
+channel activity,GO:0015267,Pediatric Obesity,MESH:D063766,1,Cadmium,0,
+chaperone binding,GO:0051087,Obesity,MESH:D009765,0,,4,AHR|HSPA5|SOD1|TFRC
+chemoattractant activity,GO:0042056,Obesity,MESH:D009765,0,,2,CCL2|HMGB2
+chemokine activity,GO:0008009,Obesity,MESH:D009765,0,,1,CCL2
+chemokine receptor activity,GO:0004950,Obesity,MESH:D009765,0,,1,GPR17
+chemokine receptor activity,GO:0004950,Pediatric Obesity,MESH:D063766,0,,1,GPR17
+chemorepellent activity,GO:0045499,Pediatric Obesity,MESH:D063766,0,,1,APOA1
+chloride channel regulator activity,GO:0017081,Obesity,MESH:D009765,0,,1,TRPV1
+chloride transmembrane transporter activity,GO:0015108,Obesity,MESH:D009765,1,Quercetin,1,UCP2
+cholesterol binding,GO:0015485,Obesity,MESH:D009765,1,platycodin D,2,CRP|NPC1
+cholesterol binding,GO:0015485,Pediatric Obesity,MESH:D063766,0,,3,APOA1|APOA5|CETP
+cholesterol transfer activity,GO:0120020,Obesity,MESH:D009765,0,,2,APOE|NPC1
+cholesterol transfer activity,GO:0120020,Pediatric Obesity,MESH:D063766,0,,2,APOA1|CETP
+choline binding,GO:0033265,Obesity,MESH:D009765,0,,3,ACHE|BCHE|CRP
+cholinesterase activity,GO:0004104,Obesity,MESH:D009765,5,Chlorpyrifos|Dietary Fats|Glyphosate|Manganese|Pesticides,2,ACHE|BCHE
+cholinesterase activity,GO:0004104,"Obesity, Abdominal",MESH:D056128,1,Dietary Fats,0,
+choline transmembrane transporter activity,GO:0015220,Obesity,MESH:D009765,0,,1,SLC22A2
+chromatin binding,GO:0003682,Obesity,MESH:D009765,0,,7,CEBPA|EP300|ESR1|FOS|PARP1|PPARG|SREBF1
+chromatin DNA binding,GO:0031490,Obesity,MESH:D009765,0,,3,CEBPA|EP300|FOXO3
+chromatin insulator sequence binding,GO:0043035,Obesity,MESH:D009765,0,,1,ZNF169
+chromium ion transmembrane transporter activity,GO:0070835,Obesity,MESH:D009765,1,Chromium,0,
+ciliary neurotrophic factor receptor binding,GO:0005127,Obesity,MESH:D009765,0,,1,CTF1
+cis-regulatory region sequence-specific DNA binding,GO:0000987,Obesity,MESH:D009765,0,,4,AHR|EP300|HMGB2|ZBTB7B
+citrate (Si)-synthase activity,GO:0004108,Obesity,MESH:D009765,0,,1,CS
+citrate synthase activity,GO:0036440,Obesity,MESH:D009765,4,bisphenol A|bisphenol S|Glucose|Streptozocin,1,CS
+citrate synthase activity,GO:0036440,"Obesity, Abdominal",MESH:D056128,2,bisphenol A|bisphenol S,0,
+citrate synthase activity,GO:0036440,Pediatric Obesity,MESH:D063766,1,bisphenol S,0,
+class I DNA-(apurinic or apyrimidinic site) endonuclease activity,GO:0140078,Obesity,MESH:D009765,0,,2,NEIL1|OGG1
+clathrin heavy chain binding,GO:0032050,Obesity,MESH:D009765,0,,1,LDLR
+CoA pyrophosphatase activity,GO:0010945,Obesity,MESH:D009765,0,,1,ENPP1
+cobalamin binding,GO:0031419,Obesity,MESH:D009765,0,,1,MMUT
+cobalt ion binding,GO:0050897,Obesity,MESH:D009765,0,,1,CPE
+collagen binding,GO:0005518,Obesity,MESH:D009765,0,,3,ACHE|CTSS|MMP9
+collagen binding involved in cell-matrix adhesion,GO:0098639,Obesity,MESH:D009765,2,Atorvastatin|Resveratrol,0,
+complement component C1q complex binding,GO:0001849,Obesity,MESH:D009765,0,,1,CRP
+complement component C3b binding,GO:0001851,Obesity,MESH:D009765,0,,1,ITGAM
+copper ion binding,GO:0005507,Obesity,MESH:D009765,0,,2,LEPR|SOD1
+copper ion binding,GO:0005507,"Obesity, Morbid",MESH:D009767,0,,1,LEPR
+coreceptor activity,GO:0015026,Obesity,MESH:D009765,0,,1,LBP
+co-receptor binding,GO:0039706,Obesity,MESH:D009765,0,,1,WNT3A
+corticotropin-releasing hormone receptor 1 binding,GO:0051430,Obesity,MESH:D009765,0,,1,GNAS
+cortisol dehydrogenase activity,GO:0102196,Obesity,MESH:D009765,0,,1,HSD11B1
+cortisol dehydrogenase activity,GO:0102196,"Obesity, Abdominal",MESH:D056128,0,,1,HSD11B1
+creatine kinase activity,GO:0004111,Obesity,MESH:D009765,19,"AM 251|Ascorbic Acid|Atorvastatin|Barium|bisphenol A|bisphenol S|Cadmium|Cholesterol, Dietary|cobaltiprotoporphyrin|Dietary Fats|geraniol|Glutathione|Lead|Mercury|Metformin|Quercetin|Resveratrol|Sodium Glutamate|Streptozocin",0,
+creatine kinase activity,GO:0004111,"Obesity, Abdominal",MESH:D056128,3,bisphenol A|bisphenol S|Dietary Fats,0,
+creatine kinase activity,GO:0004111,Pediatric Obesity,MESH:D063766,2,bisphenol S|Cadmium,0,
+crotonyl-CoA hydratase activity,GO:0120092,Obesity,MESH:D009765,0,,1,ECHS1
+cyclic-GMP-AMP hydrolase activity,GO:0106177,Obesity,MESH:D009765,0,,1,ENPP1
+cysteine-type deubiquitinase activity,GO:0004843,Obesity,MESH:D009765,0,,1,ACP5
+cysteine-type endopeptidase activator activity involved in apoptotic process,GO:0008656,Obesity,MESH:D009765,0,,2,CASP1|CTSS
+cysteine-type endopeptidase activity,GO:0004197,Obesity,MESH:D009765,11,Acetylcysteine|azoxystrobin|bisphenol A|Cadmium|Capsaicin|Dronabinol|Glucose|Glyphosate|Mercury|Particulate Matter|Vehicle Emissions,2,CASP1|CTSS
+cysteine-type endopeptidase activity,GO:0004197,"Obesity, Abdominal",MESH:D056128,2,bisphenol A|Particulate Matter,0,
+cysteine-type endopeptidase activity,GO:0004197,Pediatric Obesity,MESH:D063766,1,Cadmium,0,
+cysteine-type endopeptidase activity involved in apoptotic process,GO:0097153,Obesity,MESH:D009765,3,Chlorpyrifos|Folic Acid|Glucose,0,
+cysteine-type peptidase activity,GO:0008234,Obesity,MESH:D009765,3,bisphenol A|bisphenol S|Dichlorodiphenyl Dichloroethylene,3,ACP5|CASP1|CTSS
+cysteine-type peptidase activity,GO:0008234,"Obesity, Abdominal",MESH:D056128,3,bisphenol A|bisphenol F|bisphenol S,0,
+cysteine-type peptidase activity,GO:0008234,Pediatric Obesity,MESH:D063766,1,bisphenol S,0,
+"cytochrome-b5 reductase activity, acting on NAD(P)H",GO:0004128,Obesity,MESH:D009765,0,,1,NQO1
+cytochrome-c oxidase activity,GO:0004129,Obesity,MESH:D009765,24,"Acetylcysteine|AM 251|Berberine|Bezafibrate|bisphenol A|Cadmium|celastrol|Curcumin|deoxynivalenol|Dietary Fats|Dronabinol|Glucose|Glyphosate|herbacetin|Lead|Linoleic Acids, Conjugated|Mercury|Particulate Matter|Pesticides|Quercetin|Resveratrol|Streptozocin|Taurine|Vehicle Emissions",2,CYB5A|LEPR
+cytochrome-c oxidase activity,GO:0004129,"Obesity, Abdominal",MESH:D056128,4,Air Pollutants|bisphenol A|Dietary Fats|Particulate Matter,0,
+cytochrome-c oxidase activity,GO:0004129,"Obesity, Morbid",MESH:D009767,0,,1,LEPR
+cytochrome-c oxidase activity,GO:0004129,Pediatric Obesity,MESH:D063766,1,Cadmium,0,
+cytokine activity,GO:0005125,Obesity,MESH:D009765,0,,11,ADIPOQ|CCL2|CTF1|GH1|IL6|IL7|KITL|LEP|NAMPT|TNF|WNT3A
+cytokine activity,GO:0005125,"Obesity, Morbid",MESH:D009767,0,,1,LEP
+cytokine binding,GO:0019955,Obesity,MESH:D009765,0,,3,CASP1|CD40|LEPR
+cytokine binding,GO:0019955,"Obesity, Morbid",MESH:D009767,0,,1,LEPR
+cytokine receptor activity,GO:0004896,Obesity,MESH:D009765,0,,1,LEPR
+cytokine receptor activity,GO:0004896,"Obesity, Morbid",MESH:D009767,0,,1,LEPR
+D1 dopamine receptor binding,GO:0031748,Obesity,MESH:D009765,0,,1,GNAS
+D-alanine:2-oxoglutarate aminotransferase activity,GO:0047810,Obesity,MESH:D009765,2,bisphenol A|Curcumin,0,
+D-alanine:2-oxoglutarate aminotransferase activity,GO:0047810,"Obesity, Abdominal",MESH:D056128,1,bisphenol A,0,
+damaged DNA binding,GO:0003684,Obesity,MESH:D009765,0,,5,EP300|HMGB2|NEIL1|OGG1|PARP1
+deacetylase activity,GO:0019213,Obesity,MESH:D009765,0,,1,SIRT1
+deaminase activity,GO:0019239,Obesity,MESH:D009765,0,,1,NPC1
+death receptor agonist activity,GO:0038177,Obesity,MESH:D009765,0,,1,TNF
+delta(3)-delta(2)-enoyl-CoA isomerase activity,GO:0004165,Obesity,MESH:D009765,0,,1,ECHS1
+delta4-3-oxosteroid 5beta-reductase activity,GO:0047787,Obesity,MESH:D009765,0,,1,AKR1C3
+demethylase activity,GO:0032451,Obesity,MESH:D009765,1,Cobalt,0,
+D-glutamyltransferase activity,GO:0047823,Obesity,MESH:D009765,6,bisphenol A|dapagliflozin|Folic Acid|geraniol|Particulate Matter|Streptozocin,0,
+D-glutamyltransferase activity,GO:0047823,"Obesity, Abdominal",MESH:D056128,3,Air Pollutants|bisphenol A|Particulate Matter,0,
+diamine N-acetyltransferase activity,GO:0004145,Obesity,MESH:D009765,0,,1,SAT1
+diamine oxidase activity,GO:0052597,Obesity,MESH:D009765,1,bisphenol A,0,
+diamine oxidase activity,GO:0052597,"Obesity, Abdominal",MESH:D056128,1,bisphenol A,0,
+dihydropyrimidine dehydrogenase (NADP+) activity,GO:0017113,Obesity,MESH:D009765,0,,1,DPYD
+dimethylargininase activity,GO:0016403,Obesity,MESH:D009765,1,Folic Acid,0,
+dinucleotide phosphatase activity,GO:0004551,Obesity,MESH:D009765,0,,1,ENPP1
+dioxygenase activity,GO:0051213,Obesity,MESH:D009765,0,,3,FTO|IDO1|PTGS2
+dioxygenase activity,GO:0051213,Pediatric Obesity,MESH:D063766,0,,1,FTO
+dipeptidyl-peptidase activity,GO:0008239,Obesity,MESH:D009765,1,bisphenol A,0,
+dipeptidyl-peptidase activity,GO:0008239,"Obesity, Abdominal",MESH:D056128,1,bisphenol A,0,
+DNA-(apurinic or apyrimidinic site) endonuclease activity,GO:0003906,Obesity,MESH:D009765,0,,1,NEIL1
+DNA binding,GO:0003677,Abdominal obesity metabolic syndrome,MESH:C535554,0,,1,PPARA
+DNA binding,GO:0003677,Obesity,MESH:D009765,1,Quercetin,24,AHR|CEBPA|DDIT3|ECHS1|EP300|ESR1|FOS|FOXO3|HMGB2|HOXB5|LEP|NHLH2|NR1I2|NR1I3|OGG1|PARP1|PPARA|PPARD|PPARG|SOD2|SREBF1|TMEM18|ZBTB7B|ZFHX3
+DNA binding,GO:0003677,"Obesity, Morbid",MESH:D009767,0,,1,LEP
+"DNA binding, bending",GO:0008301,Obesity,MESH:D009765,0,,1,HMGB2
+DNA binding domain binding,GO:0050692,Obesity,MESH:D009765,0,,1,PPARG
+DNA-binding transcription activator activity,GO:0001216,Abdominal obesity metabolic syndrome,MESH:C535554,0,,1,PPARA
+DNA-binding transcription activator activity,GO:0001216,Obesity,MESH:D009765,0,,1,PPARA
+"DNA-binding transcription activator activity, RNA polymerase II-specific",GO:0001228,Abdominal obesity metabolic syndrome,MESH:C535554,0,,1,PPARA
+"DNA-binding transcription activator activity, RNA polymerase II-specific",GO:0001228,Obesity,MESH:D009765,0,,14,CEBPA|DDIT3|ESR1|FOS|FOXO3|HOXB5|NHLH2|NR1I2|NR1I3|PPARA|PPARG|SREBF1|ZBTB7B|ZNF169
+DNA-binding transcription factor activity,GO:0003700,Abdominal obesity metabolic syndrome,MESH:C535554,0,,1,PPARA
+DNA-binding transcription factor activity,GO:0003700,Obesity,MESH:D009765,3,bisphenol A|bisphenol S|Cadmium,16,AHR|CEBPA|DDIT3|ESR1|FOS|FOXO3|HOXB5|NR1I2|NR1I3|PPARA|PPARD|PPARG|SREBF1|ZBTB7B|ZFHX3|ZNF169
+DNA-binding transcription factor activity,GO:0003700,"Obesity, Abdominal",MESH:D056128,2,bisphenol A|bisphenol S,0,
+DNA-binding transcription factor activity,GO:0003700,Pediatric Obesity,MESH:D063766,2,bisphenol S|Cadmium,0,
+"DNA-binding transcription factor activity, RNA polymerase II-specific",GO:0000981,Abdominal obesity metabolic syndrome,MESH:C535554,0,,1,PPARA
+"DNA-binding transcription factor activity, RNA polymerase II-specific",GO:0000981,Obesity,MESH:D009765,0,,20,ACP5|AHR|CEBPA|CRP|DDIT3|ESR1|F2|FOS|FOXO3|HOXB5|NHLH2|NR1I2|NR1I3|PPARA|PPARD|PPARG|SREBF1|ZBTB7B|ZFHX3|ZNF169
+DNA-binding transcription factor binding,GO:0140297,Abdominal obesity metabolic syndrome,MESH:C535554,0,,1,PPARA
+DNA-binding transcription factor binding,GO:0140297,Obesity,MESH:D009765,0,,7,CEBPA|EP300|HMGB2|PPARA|PPARD|PPARG|SIRT1
+DNA-binding transcription repressor activity,GO:0001217,Obesity,MESH:D009765,0,,1,ZBTB7B
+"DNA-binding transcription repressor activity, RNA polymerase II-specific",GO:0001227,Abdominal obesity metabolic syndrome,MESH:C535554,0,,1,PPARA
+"DNA-binding transcription repressor activity, RNA polymerase II-specific",GO:0001227,Obesity,MESH:D009765,0,,6,FOXO3|PPARA|PPARD|PPARG|ZFHX3|ZNF169
+DNA demethylase activity,GO:0035514,Obesity,MESH:D009765,1,Oleanolic Acid,0,
+DNA-dependent protein kinase activity,GO:0004677,Obesity,MESH:D009765,0,,1,AKT1
+DNA-dependent protein kinase activity,GO:0004677,"Obesity, Morbid",MESH:D009767,0,,1,KSR2
+DNA-directed DNA polymerase activity,GO:0003887,Obesity,MESH:D009765,1,Metformin,0,
+DNA-methyltransferase activity,GO:0009008,Obesity,MESH:D009765,5,Curcumin|Dietary Fats|Folic Acid|Genistein|Plant Extracts,0,
+DNA-methyltransferase activity,GO:0009008,"Obesity, Abdominal",MESH:D056128,1,Dietary Fats,0,
+DNA N-glycosylase activity,GO:0019104,Obesity,MESH:D009765,0,,2,NEIL1|OGG1
+"DNA topoisomerase type II (double strand cut, ATP-hydrolyzing) activity",GO:0003918,Obesity,MESH:D009765,1,Ascorbic Acid,0,
+dopamine:sodium symporter activity,GO:0005330,Obesity,MESH:D009765,0,,2,SLC22A1|SLC22A3
+double-stranded DNA binding,GO:0003690,Obesity,MESH:D009765,0,,3,FOS|HMGB2|PPARG
+double-stranded RNA binding,GO:0003725,Obesity,MESH:D009765,0,,2,TFRC|ZFR2
+D-ribulokinase activity,GO:0019150,Obesity,MESH:D009765,0,,1,FGGY
+D-sorbitol dehydrogenase (acceptor) activity,GO:0047833,Obesity,MESH:D009765,1,Valproic Acid,0,
+dynein light chain binding,GO:0045503,Obesity,MESH:D009765,0,,1,GLUL
+E-box binding,GO:0070888,Obesity,MESH:D009765,0,,2,AHR|PPARG
+efflux transmembrane transporter activity,GO:0015562,Obesity,MESH:D009765,1,Acetylcysteine,1,SLC22A2
+electron transfer activity,GO:0009055,Obesity,MESH:D009765,0,,5,CYB5A|CYCS|ETFDH|IDO1|ME1
+electron-transferring-flavoprotein dehydrogenase activity,GO:0004174,Obesity,MESH:D009765,0,,1,ETFDH
+endonuclease activity,GO:0004519,Obesity,MESH:D009765,0,,2,NEIL1|OGG1
+endopeptidase activity,GO:0004175,Obesity,MESH:D009765,4,Glutathione|Particulate Matter|Streptozocin|Yohimbine,4,CASP1|F2|MMP9|PCSK1
+endopeptidase activity,GO:0004175,"Obesity, Abdominal",MESH:D056128,1,Particulate Matter,0,
+endoribonuclease activity,GO:0004521,Obesity,MESH:D009765,0,,1,RAPGEF3
+enoyl-CoA hydratase activity,GO:0004300,Obesity,MESH:D009765,0,,1,ECHS1
+enzyme activator activity,GO:0008047,Obesity,MESH:D009765,0,,3,PARP1|PPARD|SIRT1
+enzyme activator activity,GO:0008047,Pediatric Obesity,MESH:D063766,0,,1,APOA5
+enzyme binding,GO:0019899,Obesity,MESH:D009765,0,,23,ADRB2|AKT1|APOE|BCHE|CD40|CYB5A|CYCS|CYP2E1|ESR1|HMOX1|HSPA5|OGG1|PARP1|PPARG|PRKCH|PTGS2|PTPN1|SIRT1|SIRT3|SOD1|SOD2|TF|ZFHX3
+enzyme binding,GO:0019899,Pediatric Obesity,MESH:D063766,0,,2,APOA1|APOA5
+enzyme inhibitor activity,GO:0004857,Obesity,MESH:D009765,0,,1,ANGPTL4
+ephrin receptor binding,GO:0046875,Obesity,MESH:D009765,0,,2,EFNB1|PTPN1
+epidermal growth factor receptor activity,GO:0005006,Obesity,MESH:D009765,0,,1,NTRK2
+epidermal growth factor receptor activity,GO:0005006,"Obesity, Hyperphagia, and Developmental Delay",MESH:C563938,0,,1,NTRK2
+epinephrine binding,GO:0051379,Obesity,MESH:D009765,0,,2,ADRB2|ADRB3
+estradiol 17-beta-dehydrogenase activity,GO:0004303,Obesity,MESH:D009765,3,Curcumin|cyhalothrin|Taurine,1,AKR1C3
+estradiol binding,GO:1903924,Obesity,MESH:D009765,0,,1,ESR1
+estrogen 16-alpha-hydroxylase activity,GO:0101020,Obesity,MESH:D009765,0,,1,CYP1B1
+estrogen 2-hydroxylase activity,GO:0101021,Obesity,MESH:D009765,0,,1,CYP1B1
+estrogen binding,GO:0099130,Obesity,MESH:D009765,0,,1,ESR1
+estrogen response element binding,GO:0034056,Obesity,MESH:D009765,0,,1,ESR1
+eukaryotic translation initiation factor 2alpha kinase activity,GO:0004694,Obesity,MESH:D009765,0,,1,AKT1
+eukaryotic translation initiation factor 2alpha kinase activity,GO:0004694,"Obesity, Morbid",MESH:D009767,0,,1,KSR2
+excitatory extracellular ligand-gated monoatomic ion channel activity,GO:0005231,Obesity,MESH:D009765,0,,1,TRPV1
+exonuclease activity,GO:0004527,Obesity,MESH:D009765,0,,1,ENPP1
+extracellular ligand-gated monoatomic ion channel activity,GO:0005230,Obesity,MESH:D009765,0,,1,TRPV1
+extracellular matrix structural constituent,GO:0005201,Obesity,MESH:D009765,0,,1,ADIPOQ
+FAD binding,GO:0071949,Obesity,MESH:D009765,0,,2,DPYD|ETFDH
+fatty acid amide hydrolase activity,GO:0017064,Obesity,MESH:D009765,0,,1,FAAH
+fatty acid binding,GO:0005504,Obesity,MESH:D009765,0,,1,PPARD
+fatty acid synthase activity,GO:0004312,Obesity,MESH:D009765,0,,1,FASN
+fatty-acyl-CoA binding,GO:0000062,Obesity,MESH:D009765,0,,1,ACADM
+ferric iron binding,GO:0008199,Obesity,MESH:D009765,0,,3,ACP5|FTL|TF
+ferrous iron binding,GO:0008198,Obesity,MESH:D009765,0,,4,ACP5|FTL|FTO|TF
+ferrous iron binding,GO:0008198,Pediatric Obesity,MESH:D063766,0,,1,FTO
+ferroxidase activity,GO:0004322,Obesity,MESH:D009765,1,Fructose,0,
+fibroblast growth factor receptor activity,GO:0005007,Obesity,MESH:D009765,0,,1,NTRK2
+fibroblast growth factor receptor activity,GO:0005007,"Obesity, Hyperphagia, and Developmental Delay",MESH:C563938,0,,1,NTRK2
+fibroblast growth factor receptor binding,GO:0005104,Obesity,MESH:D009765,0,,1,FGF21
+fibronectin binding,GO:0001968,Obesity,MESH:D009765,0,,2,CTSS|MMP9
+flavin adenine dinucleotide binding,GO:0050660,Obesity,MESH:D009765,0,,3,ACADM|DPYD|ETFDH
+FMN binding,GO:0010181,Obesity,MESH:D009765,0,,1,DPYD
+formyltetrahydrofolate dehydrogenase activity,GO:0016155,Obesity,MESH:D009765,0,,1,ALDH1L1
+four-way junction DNA binding,GO:0000400,Obesity,MESH:D009765,0,,1,HMGB2
+frizzled binding,GO:0005109,Obesity,MESH:D009765,0,,1,WNT3A
+fructokinase activity,GO:0008865,Obesity,MESH:D009765,0,,1,HK2
+"fructose 1,6-bisphosphate 1-phosphatase activity",GO:0042132,Obesity,MESH:D009765,3,Dietary Fats|Quercetin|Streptozocin,0,
+"fructose 1,6-bisphosphate 1-phosphatase activity",GO:0042132,"Obesity, Abdominal",MESH:D056128,1,Dietary Fats,0,
+"fructose-2,6-bisphosphate 2-phosphatase activity",GO:0004331,Obesity,MESH:D009765,0,,1,PFKFB3
+gap junction channel activity,GO:0005243,Obesity,MESH:D009765,7,"2,4,5,2',4',5'-hexachlorobiphenyl|Acetylcysteine|DDT|Diethylnitrosamine|Lead|Particulate Matter|Resveratrol",0,
+gap junction channel activity,GO:0005243,"Obesity, Abdominal",MESH:D056128,2,Air Pollutants|Particulate Matter,0,
+gastric inhibitory polypeptide receptor binding,GO:0031767,Obesity,MESH:D009765,0,,1,GCG
+GDP binding,GO:0019003,Obesity,MESH:D009765,0,,5,PCK1|RAB21|SUCLG2|UCP1|UCP2
+GDP phosphatase activity,GO:0004382,Obesity,MESH:D009765,0,,1,ENTPD6
+geranylgeranyl reductase activity,GO:0045550,Obesity,MESH:D009765,0,,1,AKR1C3
+ghrelin receptor binding,GO:0031768,Obesity,MESH:D009765,0,,1,GHRL
+Gi/o-coupled serotonin receptor activity,GO:0001586,Obesity,MESH:D009765,1,Dronabinol,0,
+glucagon receptor binding,GO:0031769,Obesity,MESH:D009765,0,,1,GCG
+glucokinase activity,GO:0004340,Obesity,MESH:D009765,2,Plant Extracts|Streptozocin,1,HK2
+glucosamine-6-phosphate deaminase activity,GO:0004342,Obesity,MESH:D009765,0,,1,GNPDA2
+glucose-6-phosphatase activity,GO:0004346,Obesity,MESH:D009765,8,Ascorbic Acid|Dietary Fats|Fructose|geraniol|Metformin|Plant Extracts|Quercetin|Streptozocin,0,
+glucose-6-phosphatase activity,GO:0004346,"Obesity, Abdominal",MESH:D056128,1,Dietary Fats,0,
+glucose-6-phosphate dehydrogenase activity,GO:0004345,Obesity,MESH:D009765,3,Dietary Fats|Plant Extracts|Streptozocin,0,
+glucose-6-phosphate dehydrogenase activity,GO:0004345,"Obesity, Abdominal",MESH:D056128,1,Dietary Fats,0,
+glucose binding,GO:0005536,Obesity,MESH:D009765,0,,1,HK2
+glucuronosyltransferase activity,GO:0015020,Obesity,MESH:D009765,3,bisphenol A|Sodium Glutamate|Taurine,0,
+glucuronosyltransferase activity,GO:0015020,"Obesity, Abdominal",MESH:D056128,1,bisphenol A,0,
+glutamate-ammonia ligase activity,GO:0004356,Obesity,MESH:D009765,0,,1,GLUL
+glutamate binding,GO:0016595,Obesity,MESH:D009765,0,,1,GLUL
+glutamate-cysteine ligase activity,GO:0004357,Obesity,MESH:D009765,3,Cadmium|Glyphosate|Lead,0,
+glutamate-cysteine ligase activity,GO:0004357,Pediatric Obesity,MESH:D063766,1,Cadmium,0,
+glutamate dehydrogenase (NADP+) activity,GO:0004354,Obesity,MESH:D009765,1,Poloxamer,0,
+glutaminase activity,GO:0004359,Obesity,MESH:D009765,1,bisphenol A,0,
+glutaminase activity,GO:0004359,"Obesity, Abdominal",MESH:D056128,1,bisphenol A,0,
+glutamine-fructose-6-phosphate transaminase (isomerizing) activity,GO:0004360,Obesity,MESH:D009765,0,,1,GFPT1
+glutathione binding,GO:0043295,Obesity,MESH:D009765,2,Manganese|Mercury,0,
+glutathione-disulfide reductase (NADPH) activity,GO:0004362,Obesity,MESH:D009765,1,Pesticides,0,
+glutathione peroxidase activity,GO:0004602,Obesity,MESH:D009765,67,"2,2',4,4'-tetrabromodiphenyl ether|2,4,5,2',4',5'-hexachlorobiphenyl|3-(indol-3-yl)propionic acid|Acetylcysteine|Ascorbic Acid|Atorvastatin|Atrazine|Berberine|Bezafibrate|bisphenol A|bisphenol S|Cadmium|Caffeine|celastrol|Chlorpyrifos|Cholesterol, Dietary|Clozapine|Curcumin|Cyclosporine|cyhalothrin|dapagliflozin|deoxynivalenol|Dichlorodiphenyl Dichloroethylene|Dietary Carbohydrates|Dietary Fats|Dietary Sugars|Diethylhexyl Phthalate|Diethylnitrosamine|Ephedrine|evodiamine|Folic Acid|Fructose|Genistein|geraniol|Glucose|Glutathione|Glyphosate|herbacetin|Lead|Linoleic Acids, Conjugated|Lithium|Manganese|Mercury|Metformin|naringenin|Nicotine|Oleanolic Acid|Orlistat|Particulate Matter|p-coumaric acid|Pesticides|Pioglitazone|Plant Extracts|Polystyrenes|Quercetin|Resveratrol|Rosiglitazone|Silymarin|Sodium Glutamate|Streptozocin|Taurine|Telmisartan|Tetrachlorodibenzodioxin|tris(chloroethyl)phosphate|Valproic Acid|Vehicle Emissions|Water Pollutants, Chemical",2,GPX1|GPX3
+glutathione peroxidase activity,GO:0004602,"Obesity, Abdominal",MESH:D056128,10,agomelatine|Air Pollutants|bisphenol A|bisphenol F|bisphenol S|Dietary Fats|Letrozole|Particulate Matter|Spironolactone|Tetrachlorodibenzodioxin,0,
+glutathione peroxidase activity,GO:0004602,Pediatric Obesity,MESH:D063766,3,bisphenol S|Cadmium|Hexachlorobenzene,0,
+glutathione transferase activity,GO:0004364,Obesity,MESH:D009765,49,"2,2',4,4'-tetrabromodiphenyl ether|3-(indol-3-yl)propionic acid|Acetylcysteine|Ascorbic Acid|Atrazine|Bezafibrate|bisphenol A|bisphenol S|Cadmium|Caffeine|celastrol|Chlorpyrifos|Chromium|Curcumin|Cyclosporine|cyhalothrin|Dichlorodiphenyl Dichloroethylene|Dietary Fats|Diethylnitrosamine|Folic Acid|geraniol|Glucose|Glutathione|Glyphosate|Lead|Manganese|Mercury|Metformin|naringenin|Nicotine|o,p'-DDT|Orlistat|Particulate Matter|p-coumaric acid|Pesticides|Pioglitazone|Plant Extracts|Polystyrenes|Quercetin|Resveratrol|Silymarin|Sodium Glutamate|Streptozocin|Taurine|Tetrachlorodibenzodioxin|tris(chloroethyl)phosphate|Valproic Acid|Vehicle Emissions|Water Pollutants, Chemical",0,
+glutathione transferase activity,GO:0004364,"Obesity, Abdominal",MESH:D056128,6,bisphenol A|bisphenol F|bisphenol S|Dietary Fats|Particulate Matter|Tetrachlorodibenzodioxin,0,
+glutathione transferase activity,GO:0004364,Pediatric Obesity,MESH:D063766,3,bisphenol S|Cadmium|Vitamin B 12,0,
+glyceraldehyde-3-phosphate dehydrogenase (NAD+) (phosphorylating) activity,GO:0004365,Obesity,MESH:D009765,1,Glucose,0,
+glycerol-3-phosphate dehydrogenase (quinone) activity,GO:0004368,Obesity,MESH:D009765,1,celastrol,0,
+glycerol-3-phosphate O-acyltransferase activity,GO:0004366,Obesity,MESH:D009765,2,bisphenol A|Resveratrol,0,
+glycerol-3-phosphate O-acyltransferase activity,GO:0004366,"Obesity, Abdominal",MESH:D056128,1,bisphenol A,0,
+glycerol channel activity,GO:0015254,Obesity,MESH:D009765,0,,1,AQP7
+glycerol transmembrane transporter activity,GO:0015168,Obesity,MESH:D009765,0,,1,AQP7
+glycogen phosphorylase activity,GO:0008184,Obesity,MESH:D009765,6,bisphenol A|Dietary Fats|Fructose|Metformin|Plant Extracts|Streptozocin,0,
+glycogen phosphorylase activity,GO:0008184,"Obesity, Abdominal",MESH:D056128,2,bisphenol A|Dietary Fats,0,
+glycogen (starch) synthase activity,GO:0004373,Obesity,MESH:D009765,2,Plant Extracts|Streptozocin,0,
+glycosyltransferase activity,GO:0016757,Obesity,MESH:D009765,0,,2,NAMPT|PARP1
+GPI anchor binding,GO:0034235,Obesity,MESH:D009765,0,,1,FCGR3B
+GPI-linked ephrin receptor activity,GO:0005004,Obesity,MESH:D009765,0,,1,NTRK2
+GPI-linked ephrin receptor activity,GO:0005004,"Obesity, Hyperphagia, and Developmental Delay",MESH:C563938,0,,1,NTRK2
+G-protein activated inward rectifier potassium channel activity,GO:0015467,Obesity,MESH:D009765,1,Rimonabant,0,
+G protein activity,GO:0003925,Obesity,MESH:D009765,0,,1,GNAS
+G-protein alpha-subunit binding,GO:0001965,Obesity,MESH:D009765,0,,2,ADRB2|GNAS
+G-protein beta/gamma-subunit complex binding,GO:0031683,Obesity,MESH:D009765,0,,1,GNAS
+G-protein beta-subunit binding,GO:0031681,Obesity,MESH:D009765,0,,1,GNAS
+G protein-coupled estrogen receptor activity,GO:0038054,Obesity,MESH:D009765,0,,1,ESR1
+G protein-coupled neurotransmitter receptor activity involved in regulation of postsynaptic membrane potential,GO:0099579,Obesity,MESH:D009765,0,,1,ADRB1
+G protein-coupled receptor activity,GO:0004930,Obesity,MESH:D009765,0,,10,ADRB1|ADRB2|CNR1|ETFDH|GPR17|HTR2A|HTR2C|MC4R|NPY1R|NPY5R
+G protein-coupled receptor activity,GO:0004930,"Obesity, Morbid",MESH:D009767,0,,1,MC4R
+G protein-coupled receptor activity,GO:0004930,Pediatric Obesity,MESH:D063766,0,,1,GPR17
+G protein-coupled receptor binding,GO:0001664,Obesity,MESH:D009765,0,,5,CCL2|GHRL|GNAS|POMC|PYY
+G protein-coupled receptor binding,GO:0001664,RETINAL DYSTROPHY AND OBESITY,OMIM:616188,0,,1,TUB
+G protein-coupled serotonin receptor activity,GO:0004993,Obesity,MESH:D009765,0,,2,HTR2A|HTR2C
+Gq/11-coupled serotonin receptor activity,GO:0001587,Obesity,MESH:D009765,0,,2,HTR2A|HTR2C
+growth factor activity,GO:0008083,Obesity,MESH:D009765,0,,8,F2|FGF21|GH1|IGF2|IL6|IL7|KITL|VGF
+growth factor activity,GO:0008083,"Obesity, Morbid",MESH:D009767,0,,1,BDNF
+growth factor binding,GO:0019838,Obesity,MESH:D009765,0,,1,IGFBP2
+growth hormone activity,GO:0070186,Obesity,MESH:D009765,0,,1,GH1
+growth hormone receptor binding,GO:0005131,Obesity,MESH:D009765,0,,1,GH1
+growth hormone-releasing hormone activity,GO:0016608,Obesity,MESH:D009765,0,,1,GHRL
+GTPase activating protein binding,GO:0032794,Obesity,MESH:D009765,0,,1,AKT1
+GTPase activator activity,GO:0005096,Obesity,MESH:D009765,0,,1,TBC1D1
+GTPase activity,GO:0003924,Obesity,MESH:D009765,0,,4,GNAS|GNB3|MMUT|RAB21
+GTPase binding,GO:0051020,Obesity,MESH:D009765,0,,1,GNB3
+GTP binding,GO:0005525,Obesity,MESH:D009765,0,,6,GNAS|PCK1|RAB21|SUCLG2|TF|UCP1
+GTP diphosphatase activity,GO:0036219,Obesity,MESH:D009765,0,,1,ENPP1
+"guanosine-5'-triphosphate,3'-diphosphate diphosphatase activity",GO:0008894,Obesity,MESH:D009765,0,,1,ENTPD6
+guanylate cyclase activity,GO:0004383,Obesity,MESH:D009765,2,Acetylcysteine|Quercetin,0,
+guanyl nucleotide binding,GO:0019001,Obesity,MESH:D009765,0,,1,GNAS
+guanyl-nucleotide exchange factor activity,GO:0005085,Obesity,MESH:D009765,0,,1,RAPGEF3
+H3K27me3 modified histone binding,GO:0061628,Obesity,MESH:D009765,4,bisphenol A|Dichlorodiphenyl Dichloroethylene|Particulate Matter|Vehicle Emissions,0,
+H3K27me3 modified histone binding,GO:0061628,"Obesity, Abdominal",MESH:D056128,2,bisphenol A|Particulate Matter,0,
+H3K9me3 modified histone binding,GO:0062072,Obesity,MESH:D009765,1,Dronabinol,0,
+heat shock protein binding,GO:0031072,Obesity,MESH:D009765,0,,2,HSPA5|ITGAM
+heat shock protein binding,GO:0031072,Pediatric Obesity,MESH:D063766,0,,1,APOA1
+heme binding,GO:0020037,Obesity,MESH:D009765,0,,9,CYB5A|CYCS|CYP1B1|CYP26B1|CYP2E1|HADH|HMOX1|IDO1|PTGS2
+heme oxygenase (decyclizing) activity,GO:0004392,Obesity,MESH:D009765,1,Dronabinol,1,HMOX1
+heparan sulfate proteoglycan binding,GO:0043395,Obesity,MESH:D009765,0,,3,APOE|ITGAM|LPL
+heparin binding,GO:0008201,Obesity,MESH:D009765,0,,5,APOE|CCL2|F2|ITGAM|LPL
+heparin binding,GO:0008201,Pediatric Obesity,MESH:D063766,0,,1,APOA5
+hepatocyte growth factor receptor activity,GO:0005008,Obesity,MESH:D009765,0,,1,NTRK2
+hepatocyte growth factor receptor activity,GO:0005008,"Obesity, Hyperphagia, and Developmental Delay",MESH:C563938,0,,1,NTRK2
+heterocyclic compound binding,GO:1901363,Obesity,MESH:D009765,0,,1,NAMPT
+hexokinase activity,GO:0004396,Obesity,MESH:D009765,8,Atorvastatin|bisphenol S|Clozapine|Dietary Fats|Particulate Matter|Quercetin|Streptozocin|Valproic Acid,1,HK2
+hexokinase activity,GO:0004396,"Obesity, Abdominal",MESH:D056128,4,Air Pollutants|bisphenol S|Dietary Fats|Particulate Matter,0,
+hexokinase activity,GO:0004396,Pediatric Obesity,MESH:D063766,1,bisphenol S,0,
+high-density lipoprotein particle binding,GO:0008035,Pediatric Obesity,MESH:D063766,0,,1,APOA1
+high-density lipoprotein particle receptor binding,GO:0070653,Pediatric Obesity,MESH:D063766,0,,1,APOA1
+high voltage-gated calcium channel activity,GO:0008331,Obesity,MESH:D009765,1,Particulate Matter,0,
+high voltage-gated calcium channel activity,GO:0008331,"Obesity, Abdominal",MESH:D056128,1,Particulate Matter,0,
+histone acetyltransferase activity,GO:0004402,Obesity,MESH:D009765,7,"4-(4-((5-(4,5-dimethyl-2-nitrophenyl)-2-furanyl)methylene)-4,5-dihydro-3-methyl-5-oxo-1H-pyrazol-1-yl)benzoic acid|Ascorbic Acid|bisphenol A|Curcumin|Genistein|Quercetin|Valproic Acid",1,EP300
+histone acetyltransferase activity,GO:0004402,"Obesity, Abdominal",MESH:D056128,1,bisphenol A,0,
+histone binding,GO:0042393,Obesity,MESH:D009765,1,bisphenol A,2,PARP1|SIRT1
+histone binding,GO:0042393,"Obesity, Abdominal",MESH:D056128,1,bisphenol A,0,
+histone butyryltransferase activity,GO:0140069,Obesity,MESH:D009765,0,,1,EP300
+histone crotonyltransferase activity,GO:0140068,Obesity,MESH:D009765,0,,1,EP300
+histone deacetylase activity,GO:0004407,Obesity,MESH:D009765,9,Ascorbic Acid|Curcumin|Dietary Fats|Genistein|Metformin|Plant Extracts|Quercetin|Streptozocin|Valproic Acid,1,SIRT1
+histone deacetylase activity,GO:0004407,"Obesity, Abdominal",MESH:D056128,1,Dietary Fats,0,
+histone deacetylase binding,GO:0042826,Obesity,MESH:D009765,0,,3,CEBPA|PARP1|ZBTB7B
+histone H2AK5 acetyltransferase activity,GO:0043999,Obesity,MESH:D009765,0,,1,EP300
+histone H2AK9 acetyltransferase activity,GO:0044012,Obesity,MESH:D009765,0,,1,EP300
+histone H2AS121 kinase activity,GO:0072371,Obesity,MESH:D009765,0,,1,AKT1
+histone H2AS121 kinase activity,GO:0072371,"Obesity, Morbid",MESH:D009767,0,,1,KSR2
+histone H2AS139 kinase activity,GO:0035979,Obesity,MESH:D009765,0,,1,AKT1
+histone H2AS139 kinase activity,GO:0035979,"Obesity, Morbid",MESH:D009767,0,,1,KSR2
+histone H2AS1 kinase activity,GO:0044024,Obesity,MESH:D009765,0,,1,AKT1
+histone H2AS1 kinase activity,GO:0044024,"Obesity, Morbid",MESH:D009767,0,,1,KSR2
+histone H2AT120 kinase activity,GO:1990244,Obesity,MESH:D009765,0,,1,AKT1
+histone H2AT120 kinase activity,GO:1990244,"Obesity, Morbid",MESH:D009767,0,,1,KSR2
+histone H2B acetyltransferase activity,GO:0044013,Obesity,MESH:D009765,0,,1,EP300
+histone H2BK12 acetyltransferase activity,GO:0044015,Obesity,MESH:D009765,0,,1,EP300
+histone H2BK5 acetyltransferase activity,GO:0044014,Obesity,MESH:D009765,0,,1,EP300
+histone H2BS14 kinase activity,GO:0044025,Obesity,MESH:D009765,0,,1,AKT1
+histone H2BS14 kinase activity,GO:0044025,"Obesity, Morbid",MESH:D009767,0,,1,KSR2
+histone H2BS36 kinase activity,GO:0140823,Obesity,MESH:D009765,0,,1,AKT1
+histone H2BS36 kinase activity,GO:0140823,"Obesity, Morbid",MESH:D009767,0,,1,KSR2
+histone H2S140 phosphatase activity,GO:0140791,Obesity,MESH:D009765,0,,1,PPM1L
+histone H2Y142 phosphatase activity,GO:0140793,Obesity,MESH:D009765,0,,1,PTPN1
+histone H3 acetyltransferase activity,GO:0010484,Obesity,MESH:D009765,0,,1,EP300
+histone H3K122 acetyltransferase activity,GO:0140908,Obesity,MESH:D009765,0,,1,EP300
+histone H3K14 acetyltransferase activity,GO:0036408,Obesity,MESH:D009765,0,,1,EP300
+histone H3K18 acetyltransferase activity,GO:0043993,Obesity,MESH:D009765,0,,1,EP300
+histone H3K23 acetyltransferase activity,GO:0043994,Obesity,MESH:D009765,0,,1,EP300
+histone H3K27 acetyltransferase activity,GO:0044017,Obesity,MESH:D009765,0,,1,EP300
+histone H3K27 dimethyltransferase activity,GO:0140952,Obesity,MESH:D009765,1,bisphenol A,0,
+histone H3K27 dimethyltransferase activity,GO:0140952,"Obesity, Abdominal",MESH:D056128,1,bisphenol A,0,
+histone H3K27 trimethyltransferase activity,GO:0140951,Obesity,MESH:D009765,1,bisphenol A,0,
+histone H3K27 trimethyltransferase activity,GO:0140951,"Obesity, Abdominal",MESH:D056128,1,bisphenol A,0,
+histone H3K36 acetyltransferase activity,GO:0044018,Obesity,MESH:D009765,0,,1,EP300
+histone H3K36 methyltransferase activity,GO:0046975,Obesity,MESH:D009765,0,,1,ZNF169
+histone H3K4 acetyltransferase activity,GO:0044016,Obesity,MESH:D009765,0,,1,EP300
+histone H3K4 methyltransferase activity,GO:0042800,Obesity,MESH:D009765,1,bisphenol A,1,ZNF169
+histone H3K4 methyltransferase activity,GO:0042800,"Obesity, Abdominal",MESH:D056128,1,bisphenol A,0,
+histone H3K56 acetyltransferase activity,GO:0032931,Obesity,MESH:D009765,0,,1,EP300
+histone H3K9 acetyltransferase activity,GO:0043992,Obesity,MESH:D009765,0,,1,EP300
+histone H3K9 demethylase activity,GO:0032454,Obesity,MESH:D009765,2,Dietary Fats|Particulate Matter,0,
+histone H3K9 demethylase activity,GO:0032454,"Obesity, Abdominal",MESH:D056128,2,Dietary Fats|Particulate Matter,0,
+histone H3K9 trimethyltransferase activity,GO:0140949,Obesity,MESH:D009765,1,bisphenol A,0,
+histone H3K9 trimethyltransferase activity,GO:0140949,"Obesity, Abdominal",MESH:D056128,1,bisphenol A,0,
+histone H3S10 kinase activity,GO:0035175,Obesity,MESH:D009765,0,,1,AKT1
+histone H3S10 kinase activity,GO:0035175,"Obesity, Morbid",MESH:D009767,0,,1,KSR2
+histone H3S28 kinase activity,GO:0044022,Obesity,MESH:D009765,1,bisphenol A,1,AKT1
+histone H3S28 kinase activity,GO:0044022,"Obesity, Abdominal",MESH:D056128,1,bisphenol A,0,
+histone H3S28 kinase activity,GO:0044022,"Obesity, Morbid",MESH:D009767,0,,1,KSR2
+histone H3S57 kinase activity,GO:0140855,Obesity,MESH:D009765,0,,1,AKT1
+histone H3S57 kinase activity,GO:0140855,"Obesity, Morbid",MESH:D009767,0,,1,KSR2
+histone H3T11 kinase activity,GO:0035402,Obesity,MESH:D009765,0,,1,AKT1
+histone H3T11 kinase activity,GO:0035402,"Obesity, Morbid",MESH:D009767,0,,1,KSR2
+histone H3T3 kinase activity,GO:0072354,Obesity,MESH:D009765,0,,1,AKT1
+histone H3T3 kinase activity,GO:0072354,"Obesity, Morbid",MESH:D009767,0,,1,KSR2
+histone H3T45 kinase activity,GO:0140857,Obesity,MESH:D009765,0,,1,AKT1
+histone H3T45 kinase activity,GO:0140857,"Obesity, Morbid",MESH:D009767,0,,1,KSR2
+histone H3T6 kinase activity,GO:0035403,Obesity,MESH:D009765,0,,1,AKT1
+histone H3T6 kinase activity,GO:0035403,"Obesity, Morbid",MESH:D009767,0,,1,KSR2
+histone H4 acetyltransferase activity,GO:0010485,Obesity,MESH:D009765,0,,1,EP300
+histone H4K12 acetyltransferase activity,GO:0043997,Obesity,MESH:D009765,0,,1,EP300
+histone H4K12 deacetylase activity,GO:0140937,Obesity,MESH:D009765,0,,1,SIRT1
+histone H4K16 acetyltransferase activity,GO:0046972,Obesity,MESH:D009765,0,,1,EP300
+histone H4K5 acetyltransferase activity,GO:0043995,Obesity,MESH:D009765,0,,1,EP300
+histone H4K8 acetyltransferase activity,GO:0043996,Obesity,MESH:D009765,0,,1,EP300
+histone H4S1 kinase activity,GO:0044023,Obesity,MESH:D009765,0,,1,AKT1
+histone H4S1 kinase activity,GO:0044023,"Obesity, Morbid",MESH:D009767,0,,1,KSR2
+histone lactyltransferase activity,GO:0120301,Obesity,MESH:D009765,0,,1,EP300
+histone methyltransferase activity,GO:0042054,Obesity,MESH:D009765,1,Genistein,0,
+HLH domain binding,GO:0043398,Obesity,MESH:D009765,0,,1,SIRT1
+HMG box domain binding,GO:0071837,Obesity,MESH:D009765,0,,1,CEBPA
+hormone activity,GO:0005179,Obesity,MESH:D009765,0,,10,ADIPOQ|AGRP|GCG|GH1|GHRL|IGF2|INS|LEP|POMC|PYY
+hormone activity,GO:0005179,"Obesity, Morbid",MESH:D009767,0,,1,LEP
+hormone binding,GO:0042562,Obesity,MESH:D009765,0,,4,ESR1|LDLR|MC4R|VLDLR
+hormone binding,GO:0042562,"Obesity, Morbid",MESH:D009767,0,,1,MC4R
+Hsp70 protein binding,GO:0030544,Obesity,MESH:D009765,0,,2,CYP2E1|TFRC
+Hsp90 protein binding,GO:0051879,Obesity,MESH:D009765,0,,2,AHR|CYP2E1
+hyaluronic acid binding,GO:0005540,Obesity,MESH:D009765,0,,1,F2
+hydrolase activity,GO:0016787,Obesity,MESH:D009765,0,,20,ACHE|ACP5|ALDH1L1|CASP1|CPB2|CPE|ENPP1|ENTPD6|F2|FAAH|FASN|GNPDA2|LPL|MMP9|NEGR1|NEIL1|PCSK1|PFKFB3|PTPN1|STS
+"hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds, in linear amides",GO:0016811,Obesity,MESH:D009765,0,,1,SIRT3
+"hydrolase activity, acting on ester bonds",GO:0016788,Obesity,MESH:D009765,2,Chlorpyrifos|Diethylhexyl Phthalate,3,BCHE|ENPP1|FAAH
+"hydrolase activity, acting on glycosyl bonds",GO:0016798,Obesity,MESH:D009765,0,,2,NEIL1|OGG1
+hydroperoxy icosatetraenoate dehydratase activity,GO:0106256,Obesity,MESH:D009765,0,,1,CYP1B1
+hydroxyapatite binding,GO:0046848,Obesity,MESH:D009765,0,,1,APOE
+identical protein binding,GO:0042802,Obesity,MESH:D009765,0,,63,ACACB|ACADM|ACHE|ADIPOQ|ADRB2|AHR|AKT1|ANGPTL4|APCDD1|APOE|BCHE|CASP1|CEBPA|CNR1|CRP|CS|DCXR|DDIT3|DPYD|ENPP1|ESR1|FAAH|FASN|FOS|FTL|GAS7|GCG|GFPT1|GLUL|GNPDA2|GPX3|HADH|HMOX1|HTR2A|HTR2C|IL6|INS|KCNMA1|KCTD15|LACTB|LDLR|LEPR|ME1|MMP9|MMUT|NAMPT|NEGR1|NQO1|PARP1|PCSK1|PPARG|SAT1|SDC3|SIRT1|SLC16A7|SLC22A1|SOD1|SOD2|TFRC|TNF|TRPV1|WNT3A|ZBTB7B
+identical protein binding,GO:0042802,"Obesity, Morbid",MESH:D009767,0,,2,KCNMA1|LEPR
+identical protein binding,GO:0042802,Pediatric Obesity,MESH:D063766,0,,1,APOA1
+IDP phosphatase activity,GO:1990003,Obesity,MESH:D009765,0,,1,ENTPD6
+IgA receptor activity,GO:0019766,Obesity,MESH:D009765,2,"2,4,5,2',4',5'-hexachlorobiphenyl|Dichlorodiphenyl Dichloroethylene",0,
+IgG binding,GO:0019864,Obesity,MESH:D009765,0,,1,FCGR3B
+IgG receptor activity,GO:0019770,Obesity,MESH:D009765,2,"2,4,5,2',4',5'-hexachlorobiphenyl|Dichlorodiphenyl Dichloroethylene",0,
+IkappaB kinase activity,GO:0008384,Obesity,MESH:D009765,1,Resveratrol,0,
+"indoleamine 2,3-dioxygenase activity",GO:0033754,Obesity,MESH:D009765,3,Cadmium|NAD|Quercetin,1,IDO1
+"indoleamine 2,3-dioxygenase activity",GO:0033754,Pediatric Obesity,MESH:D063766,1,Cadmium,0,
+inositol-polyphosphate 5-phosphatase activity,GO:0004445,Obesity,MESH:D009765,0,,1,INPP5E
+insulin-like growth factor binding,GO:0005520,Obesity,MESH:D009765,0,,1,IGFBP2
+insulin-like growth factor I binding,GO:0031994,Obesity,MESH:D009765,0,,1,IGFBP2
+insulin-like growth factor II binding,GO:0031995,Obesity,MESH:D009765,0,,1,IGFBP2
+insulin-like growth factor receptor activity,GO:0005010,Obesity,MESH:D009765,0,,1,NTRK2
+insulin-like growth factor receptor activity,GO:0005010,"Obesity, Hyperphagia, and Developmental Delay",MESH:C563938,0,,1,NTRK2
+insulin-like growth factor receptor binding,GO:0005159,Obesity,MESH:D009765,0,,4,GNAS|IGF2|INS|IRS1
+insulin receptor activity,GO:0005009,Obesity,MESH:D009765,0,,1,NTRK2
+insulin receptor activity,GO:0005009,"Obesity, Hyperphagia, and Developmental Delay",MESH:C563938,0,,1,NTRK2
+insulin receptor binding,GO:0005158,Obesity,MESH:D009765,0,,5,ENPP1|IGF2|INS|IRS1|PTPN1
+integrin binding,GO:0005178,Obesity,MESH:D009765,0,,3,ICAM1|IGF2|ITGAM
+interleukin-6 receptor binding,GO:0005138,Obesity,MESH:D009765,0,,1,IL6
+interleukin-7 receptor binding,GO:0005139,Obesity,MESH:D009765,0,,1,IL7
+intracellular cAMP-activated cation channel activity,GO:0005222,Obesity,MESH:D009765,1,Dronabinol,0,
+intraciliary transport particle A binding,GO:0120160,RETINAL DYSTROPHY AND OBESITY,OMIM:616188,0,,1,TUB
+intramolecular transferase activity,GO:0016866,Obesity,MESH:D009765,0,,1,MMUT
+iodide peroxidase activity,GO:0004447,Obesity,MESH:D009765,1,bisphenol A,0,
+iodide peroxidase activity,GO:0004447,"Obesity, Abdominal",MESH:D056128,1,bisphenol A,0,
+ionotropic glutamate receptor binding,GO:0035255,Obesity,MESH:D009765,0,,2,ADRB2|GNAS
+iron chaperone activity,GO:0034986,Obesity,MESH:D009765,0,,1,TF
+iron ion binding,GO:0005506,Obesity,MESH:D009765,1,Cadmium,7,CYP1B1|CYP26B1|CYP2E1|DPYD|FTL|HADH|SCD1
+iron ion binding,GO:0005506,Pediatric Obesity,MESH:D063766,1,Cadmium,0,
+iron ion transmembrane transporter activity,GO:0005381,Obesity,MESH:D009765,0,,1,TFRC
+iron-sulfur cluster binding,GO:0051536,Obesity,MESH:D009765,0,,2,DPYD|ETFDH
+isocitrate dehydrogenase (NAD+) activity,GO:0004449,Obesity,MESH:D009765,1,bisphenol A,0,
+isocitrate dehydrogenase (NAD+) activity,GO:0004449,"Obesity, Abdominal",MESH:D056128,1,bisphenol A,0,
+isocitrate dehydrogenase (NADP+) activity,GO:0004450,Obesity,MESH:D009765,1,"Linoleic Acids, Conjugated",0,
+isocitrate dehydrogenase [NAD(P)+] activity,GO:0004448,Obesity,MESH:D009765,1,Cadmium,0,
+isocitrate dehydrogenase [NAD(P)+] activity,GO:0004448,Pediatric Obesity,MESH:D063766,1,Cadmium,0,
+isomerase activity,GO:0016853,Obesity,MESH:D009765,0,,3,ACADM|GNPDA2|MMUT
+JUN kinase activity,GO:0004705,Obesity,MESH:D009765,4,Acetylcysteine|Ascorbic Acid|Cadmium|Glutathione,0,
+JUN kinase activity,GO:0004705,Pediatric Obesity,MESH:D063766,1,Cadmium,0,
+keratin filament binding,GO:1990254,Obesity,MESH:D009765,0,,1,SIRT1
+ketoreductase activity,GO:0045703,Obesity,MESH:D009765,0,,1,AKR1C3
+ketosteroid monooxygenase activity,GO:0047086,Obesity,MESH:D009765,0,,1,AKR1C3
+kinase activity,GO:0016301,ABDOMINAL OBESITY-METABOLIC SYNDROME 3,OMIM:615812,0,,1,DYRK1B
+kinase activity,GO:0016301,Obesity,MESH:D009765,0,,7,AKT1|FGGY|HK2|PCK1|PFKFB3|PRKAR1A|PRKAR2B
+kinase binding,GO:0019900,Obesity,MESH:D009765,0,,3,AKT1|CASP1|CEBPA
+lactase activity,GO:0000016,Obesity,MESH:D009765,3,bisphenol A|geraniol|Streptozocin,0,
+lactase activity,GO:0000016,"Obesity, Abdominal",MESH:D056128,1,bisphenol A,0,
+lactate dehydrogenase activity,GO:0004457,Obesity,MESH:D009765,49,2-methyl-2H-pyrazole-3-carboxylic acid (2-methyl-4-o-tolylazophenyl)amide|3-(indol-3-yl)propionic acid|Acetylcysteine|alpha-naphthoflavone|Ascorbic Acid|Atorvastatin|Atrazine|Barium|Berberine|bisphenol A|bisphenol S|Cadmium|Caffeine|celastrol|Chlorpyrifos|Clozapine|cobaltiprotoporphyrin|Curcumin|Cyclosporine|cyhalothrin|deoxynivalenol|Dichlorodiphenyl Dichloroethylene|Dietary Carbohydrates|Dietary Fats|Diethylhexyl Phthalate|Diethylnitrosamine|evodiamine|Folic Acid|Fructose|geraniol|Glucose|Glyphosate|Lead|Manganese|Mercury|Metformin|NAD|naringenin|Nicotine|Particulate Matter|Plant Extracts|Polystyrenes|Quercetin|Resveratrol|Silymarin|Sodium Glutamate|Streptozocin|Tetrachlorodibenzodioxin|Valproic Acid,0,
+lactate dehydrogenase activity,GO:0004457,"Obesity, Abdominal",MESH:D056128,7,Air Pollutants|bisphenol A|bisphenol F|bisphenol S|Dietary Fats|Particulate Matter|Tetrachlorodibenzodioxin,0,
+lactate dehydrogenase activity,GO:0004457,Pediatric Obesity,MESH:D063766,2,bisphenol S|Cadmium,0,
+lactate transmembrane transporter activity,GO:0015129,Obesity,MESH:D009765,0,,1,SLC16A7
+L-alanine:2-oxoglutarate aminotransferase activity,GO:0004021,Obesity,MESH:D009765,8,"2,2',4,4'-tetrabromodiphenyl ether|Ascorbic Acid|bisphenol A|geraniol|Lead|Plant Extracts|Quercetin|Silymarin",0,
+L-alanine:2-oxoglutarate aminotransferase activity,GO:0004021,"Obesity, Abdominal",MESH:D056128,1,bisphenol A,0,
+laminin binding,GO:0043236,Obesity,MESH:D009765,0,,2,ACHE|CTSS
+L-amino acid transmembrane transporter activity,GO:0015179,Obesity,MESH:D009765,0,,1,SLC22A2
+large conductance calcium-activated potassium channel activity,GO:0060072,Obesity,MESH:D009765,2,AM 251|Rimonabant,1,KCNMA1
+large conductance calcium-activated potassium channel activity,GO:0060072,"Obesity, Morbid",MESH:D009767,0,,1,KCNMA1
+L-arginine transmembrane transporter activity,GO:0061459,Obesity,MESH:D009765,0,,1,SLC22A2
+L-aspartate:2-oxoglutarate aminotransferase activity,GO:0004069,Obesity,MESH:D009765,47,"Acetylcysteine|Ascorbic Acid|Atorvastatin|Atrazine|Berberine|bisphenol A|Cadmium|Caffeine|celastrol|Chlorpyrifos|Cholesterol, Dietary|Curcumin|Cyclosporine|cyhalothrin|deoxynivalenol|Dietary Carbohydrates|Dietary Fats|Dietary Sucrose|Diethylhexyl Phthalate|Diethylnitrosamine|Dronabinol|evodiamine|Folic Acid|Fructose|Genistein|geraniol|Glutathione|Glyphosate|GW 4064|herbacetin|Lead|Metformin|naringenin|Nicotine|Oleanolic Acid|Orlistat|Pioglitazone|pirinixic acid|Plant Extracts|Poloxamer|Quercetin|Resveratrol|Rosiglitazone|Silymarin|Sodium Glutamate|Streptozocin|Taurine",0,
+L-aspartate:2-oxoglutarate aminotransferase activity,GO:0004069,"Obesity, Abdominal",MESH:D056128,3,bisphenol A|Dietary Fats|Vildagliptin,0,
+L-aspartate:2-oxoglutarate aminotransferase activity,GO:0004069,Pediatric Obesity,MESH:D063766,1,Cadmium,0,
+L-aspartate transmembrane transporter activity,GO:0015183,Obesity,MESH:D009765,0,,1,UCP2
+LBD domain binding,GO:0050693,Obesity,MESH:D009765,0,,1,PPARG
+leptin receptor activity,GO:0038021,Obesity,MESH:D009765,0,,1,LEPR
+leptin receptor activity,GO:0038021,"Obesity, Morbid",MESH:D009767,0,,1,LEPR
+leptin receptor binding,GO:1990460,Obesity,MESH:D009765,0,,1,LEP
+leptin receptor binding,GO:1990460,"Obesity, Morbid",MESH:D009767,0,,1,LEP
+leucine zipper domain binding,GO:0043522,Obesity,MESH:D009765,0,,1,DDIT3
+leukemia inhibitory factor receptor binding,GO:0005146,Obesity,MESH:D009765,0,,1,CTF1
+ligand-gated monoatomic ion channel activity,GO:0015276,Obesity,MESH:D009765,1,geraniol,1,TRPV1
+ligand-gated monoatomic ion channel activity involved in regulation of presynaptic membrane potential,GO:0099507,Obesity,MESH:D009765,0,,1,KCNMA1
+ligand-gated monoatomic ion channel activity involved in regulation of presynaptic membrane potential,GO:0099507,"Obesity, Morbid",MESH:D009767,0,,1,KCNMA1
+ligase activity,GO:0016874,Obesity,MESH:D009765,0,,4,ACACB|ACSL1|SUCLA2|SUCLG2
+linoleic acid binding,GO:0070539,Obesity,MESH:D009765,0,,1,PPARD
+lipase activator activity,GO:0060229,Pediatric Obesity,MESH:D063766,0,,1,APOA5
+lipase activity,GO:0016298,Obesity,MESH:D009765,4,"Berberine|Cholesterol, Dietary|Orlistat|Plant Extracts",0,
+lipase binding,GO:0035473,Pediatric Obesity,MESH:D063766,0,,1,APOA5
+lipase inhibitor activity,GO:0055102,Pediatric Obesity,MESH:D063766,0,,1,APOA1
+lipid binding,GO:0008289,Abdominal obesity metabolic syndrome,MESH:C535554,0,,1,PPARA
+lipid binding,GO:0008289,Obesity,MESH:D009765,0,,8,APOE|ESR1|FAAH|HMGB2|PLIN1|PPARA|PPARD|ZC3H10
+lipid binding,GO:0008289,Pediatric Obesity,MESH:D063766,0,,3,APOA1|APOA5|CETP
+lipid transfer activity,GO:0120013,Obesity,MESH:D009765,0,,1,CIDEA
+lipid transporter activity,GO:0005319,Obesity,MESH:D009765,0,,2,APOE|NPC1
+lipid transporter activity,GO:0005319,Pediatric Obesity,MESH:D063766,0,,1,APOA1
+lipopeptide binding,GO:0071723,Obesity,MESH:D009765,0,,1,LBP
+lipopolysaccharide binding,GO:0001530,Obesity,MESH:D009765,0,,2,F2|LBP
+lipoprotein lipase activator activity,GO:0060230,Pediatric Obesity,MESH:D063766,0,,1,APOA5
+lipoprotein lipase activity,GO:0004465,Obesity,MESH:D009765,0,,1,LPL
+lipoprotein particle binding,GO:0071813,Obesity,MESH:D009765,0,,3,APOE|LDLR|LPL
+lipoprotein particle binding,GO:0071813,Pediatric Obesity,MESH:D063766,0,,1,APOA1
+lipoprotein particle receptor binding,GO:0070325,Pediatric Obesity,MESH:D063766,0,,1,APOA5
+lipoteichoic acid binding,GO:0070891,Obesity,MESH:D009765,0,,1,LBP
+L-lactate dehydrogenase activity,GO:0004459,Obesity,MESH:D009765,1,"Water Pollutants, Chemical",0,
+long-chain fatty acid binding,GO:0036041,Obesity,MESH:D009765,0,,1,UCP1
+long-chain fatty acid-CoA ligase activity,GO:0004467,Obesity,MESH:D009765,0,,1,ACSL1
+long-chain fatty acid omega-1 hydroxylase activity,GO:0120319,Obesity,MESH:D009765,0,,1,CYP2E1
+low-density lipoprotein particle binding,GO:0030169,Obesity,MESH:D009765,0,,2,CRP|LDLR
+low-density lipoprotein particle receptor activity,GO:0005041,Obesity,MESH:D009765,0,,2,LDLR|VLDLR
+low-density lipoprotein particle receptor binding,GO:0050750,Obesity,MESH:D009765,0,,2,APOE|CRP
+low-density lipoprotein particle receptor binding,GO:0050750,Pediatric Obesity,MESH:D063766,0,,1,APOA5
+L-xylulose reductase (NADP+) activity,GO:0050038,Obesity,MESH:D009765,0,,1,DCXR
+lyase activity,GO:0016829,Obesity,MESH:D009765,0,,6,CA3|ECHS1|FASN|NEIL1|OGG1|PCK1
+lysine-acetylated histone binding,GO:0070577,Obesity,MESH:D009765,6,bisphenol A|Dichlorodiphenyl Dichloroethylene|Hydrocortisone|Manganese|Nicotine|Valproic Acid,1,SIRT1
+lysine-acetylated histone binding,GO:0070577,"Obesity, Abdominal",MESH:D056128,1,bisphenol A,0,
+lysine decarboxylase activity,GO:0008923,Obesity,MESH:D009765,1,tris(chloroethyl)phosphate,0,
+"lysine N-acetyltransferase activity, acting on acetyl phosphate as donor",GO:0004468,Obesity,MESH:D009765,0,,1,EP300
+lysozyme activity,GO:0003796,Obesity,MESH:D009765,1,bisphenol A,0,
+lysozyme activity,GO:0003796,"Obesity, Abdominal",MESH:D056128,1,bisphenol A,0,
+macrophage colony-stimulating factor receptor activity,GO:0005011,Obesity,MESH:D009765,0,,1,NTRK2
+macrophage colony-stimulating factor receptor activity,GO:0005011,"Obesity, Hyperphagia, and Developmental Delay",MESH:C563938,0,,1,NTRK2
+magnesium ion binding,GO:0000287,Obesity,MESH:D009765,0,,5,GLUL|ME1|PCK1|SUCLA2|SUCLG2
+malate dehydrogenase activity,GO:0016615,Obesity,MESH:D009765,5,bisphenol A|Cadmium|Curcumin|herbacetin|Particulate Matter,0,
+malate dehydrogenase activity,GO:0016615,"Obesity, Abdominal",MESH:D056128,3,Air Pollutants|bisphenol A|Particulate Matter,0,
+malate dehydrogenase activity,GO:0016615,Pediatric Obesity,MESH:D063766,1,Cadmium,0,
+malate dehydrogenase (decarboxylating) (NAD+) activity,GO:0004471,Obesity,MESH:D009765,0,,1,ME1
+malate dehydrogenase (decarboxylating) (NADP+) activity,GO:0004473,Obesity,MESH:D009765,0,,1,ME1
+malate transmembrane transporter activity,GO:0015140,Obesity,MESH:D009765,0,,1,UCP2
+malic enzyme activity,GO:0004470,Obesity,MESH:D009765,3,Dietary Fats|Glucose|herbacetin,1,ME1
+malic enzyme activity,GO:0004470,"Obesity, Abdominal",MESH:D056128,1,Dietary Fats,0,
+malonate-semialdehyde dehydrogenase (acetylating) activity,GO:0018478,Obesity,MESH:D009765,0,,1,ALDH6A1
+maltose alpha-glucosidase activity,GO:0032450,Obesity,MESH:D009765,2,bisphenol A|Streptozocin,0,
+maltose alpha-glucosidase activity,GO:0032450,"Obesity, Abdominal",MESH:D056128,1,bisphenol A,0,
+manganese ion binding,GO:0030145,Obesity,MESH:D009765,0,,4,GLUL|ME1|PCK1|SOD2
+mannokinase activity,GO:0019158,Obesity,MESH:D009765,0,,1,HK2
+mannose-6-phosphate isomerase activity,GO:0004476,Obesity,MESH:D009765,0,,1,OGG1
+mannose binding,GO:0005537,Obesity,MESH:D009765,0,,1,MRC1
+MAP kinase activity,GO:0004707,Obesity,MESH:D009765,5,Acetylcysteine|Ascorbic Acid|Cadmium|Dronabinol|Glutathione,0,
+MAP kinase activity,GO:0004707,Pediatric Obesity,MESH:D063766,1,Cadmium,0,
+MAP-kinase scaffold activity,GO:0005078,"Obesity, Morbid",MESH:D009767,0,,1,KSR2
+MAP kinase serine/threonine phosphatase activity,GO:1990439,Obesity,MESH:D009765,0,,1,PPM1L
+MDM2/MDM4 family protein binding,GO:0097371,Abdominal obesity metabolic syndrome,MESH:C535554,0,,1,PPARA
+MDM2/MDM4 family protein binding,GO:0097371,Obesity,MESH:D009765,0,,1,PPARA
+medium-chain-acyl-CoA dehydrogenase activity,GO:0070991,Obesity,MESH:D009765,0,,1,ACADM
+melanin-concentrating hormone activity,GO:0030354,Obesity,MESH:D009765,0,,1,PMCH
+melanocortin receptor activity,GO:0004977,Obesity,MESH:D009765,0,,1,MC4R
+melanocortin receptor activity,GO:0004977,"Obesity, Morbid",MESH:D009767,0,,1,MC4R
+melanocortin receptor binding,GO:0031779,Obesity,MESH:D009765,0,,1,A
+melanocyte-stimulating hormone receptor activity,GO:0004980,Obesity,MESH:D009765,0,,1,MC4R
+melanocyte-stimulating hormone receptor activity,GO:0004980,"Obesity, Morbid",MESH:D009767,0,,1,MC4R
+membrane insertase activity,GO:0032977,Obesity,MESH:D009765,0,,1,MTCH2
+mercury ion binding,GO:0045340,Obesity,MESH:D009765,0,,1,GPX3
+metal chelating activity,GO:0046911,Obesity,MESH:D009765,0,,1,APOE
+metal ion binding,GO:0046872,Abdominal obesity metabolic syndrome,MESH:C535554,0,,1,PPARA
+metal ion binding,GO:0046872,Obesity,MESH:D009765,0,,54,ACACB|ACLY|ACP5|ADCY3|ADH1B|CA3|CPB2|CPE|CRP|CYB5A|CYCS|CYP1B1|CYP26B1|DPYD|ENPP1|ESR1|ETFDH|FTO|GH1|GLUL|GNAS|HMOX1|IDO1|ITGAM|KCNMA1|LPL|ME1|MMP9|MMUT|NEGR1|NR1I2|NR1I3|PARP1|PCK1|PPARA|PPARD|PPARG|PPM1L|PRKCH|PTGS2|RAI1|SCD1|SIRT1|SIRT3|SOD1|SOD2|STS|SUCLA2|SUCLG2|TF|TRPV1|UQCRC2|ZBTB7B|ZC3H10
+metal ion binding,GO:0046872,"Obesity, Morbid",MESH:D009767,0,,3,ADCY3|KCNMA1|KSR2
+metal ion binding,GO:0046872,Pediatric Obesity,MESH:D063766,0,,1,FTO
+metallocarboxypeptidase activity,GO:0004181,Obesity,MESH:D009765,0,,2,CPB2|CPE
+metalloendopeptidase activity,GO:0004222,Obesity,MESH:D009765,0,,3,MMP9|PARP1|UQCRC2
+metallopeptidase activity,GO:0008237,Obesity,MESH:D009765,2,Cholesterol|Glutathione,3,CPB2|CPE|MMP9
+methionyl-tRNA formyltransferase activity,GO:0004479,Obesity,MESH:D009765,0,,1,ALDH1L1
+methylated histone binding,GO:0035064,Obesity,MESH:D009765,3,Dichlorodiphenyl Dichloroethylene|Particulate Matter|Vehicle Emissions,0,
+methylated histone binding,GO:0035064,"Obesity, Abdominal",MESH:D056128,1,Particulate Matter,0,
+methylmalonate-semialdehyde dehydrogenase (acylating) activity,GO:0004491,Obesity,MESH:D009765,0,,1,ALDH6A1
+methylmalonyl-CoA mutase activity,GO:0004494,Obesity,MESH:D009765,0,,1,MMUT
+methyltransferase activity,GO:0008168,Obesity,MESH:D009765,0,,2,FAAH|TNFRSF1B
+methylumbelliferyl-acetate deacetylase activity,GO:0047374,Obesity,MESH:D009765,0,,1,CES1
+microtubule binding,GO:0008017,Obesity,MESH:D009765,0,,3,AKAP1|OGG1|PLIN1
+microtubule motor activity,GO:0003777,Obesity,MESH:D009765,1,Glucose,1,PLIN1
+miRNA binding,GO:0035198,Obesity,MESH:D009765,0,,1,ZC3H10
+misfolded protein binding,GO:0051787,Obesity,MESH:D009765,0,,1,HSPA5
+mitochondrial transcription factor activity,GO:0034246,Obesity,MESH:D009765,0,,1,FOXO3
+mitogen-activated protein kinase binding,GO:0051019,Obesity,MESH:D009765,0,,2,EP300|SIRT1
+mitogen-activated protein kinase kinase binding,GO:0031434,"Obesity, Morbid",MESH:D009767,0,,1,KSR2
+mitogen-activated protein kinase kinase kinase binding,GO:0031435,Abdominal obesity metabolic syndrome,MESH:C535554,0,,1,PPARA
+mitogen-activated protein kinase kinase kinase binding,GO:0031435,Obesity,MESH:D009765,0,,1,PPARA
+modified amino acid binding,GO:0072341,Obesity,MESH:D009765,0,,1,MMUT
+molecular adaptor activity,GO:0060090,Obesity,MESH:D009765,0,,2,AKAP1|LDLR
+molecular_function,GO:0003674,MORBID OBESITY AND SPERMATOGENIC FAILURE,OMIM:615703,0,,1,CEP19
+molecular_function,GO:0003674,Obesity,MESH:D009765,0,,10,A|ATPAF1|CARTPT|FTO|KCTD15|MIR34A|POMC|RMST|TMEM18|ZFR2
+molecular_function,GO:0003674,Pediatric Obesity,MESH:D063766,0,,1,FTO
+monoamine oxidase activity,GO:0097621,Obesity,MESH:D009765,4,Berberine|bisphenol A|Cadmium|Diethylhexyl Phthalate,0,
+monoamine oxidase activity,GO:0097621,"Obesity, Abdominal",MESH:D056128,1,bisphenol A,0,
+monoamine oxidase activity,GO:0097621,Pediatric Obesity,MESH:D063766,1,Cadmium,0,
+monoamine transmembrane transporter activity,GO:0008504,Obesity,MESH:D009765,0,,3,SLC22A1|SLC22A2|SLC22A3
+monoatomic cation channel activity,GO:0005261,Obesity,MESH:D009765,0,,1,TRPV1
+monoatomic cation transmembrane transporter activity,GO:0008324,Obesity,MESH:D009765,0,,1,TRPV1
+monoatomic ion channel activity,GO:0005216,Obesity,MESH:D009765,2,Barium|Rimonabant,2,KCNMA1|TRPV1
+monoatomic ion channel activity,GO:0005216,"Obesity, Morbid",MESH:D009767,0,,1,KCNMA1
+monocarboxylic acid transmembrane transporter activity,GO:0008028,Obesity,MESH:D009765,0,,1,SLC16A7
+monooxygenase activity,GO:0004497,Obesity,MESH:D009765,0,,4,CYP1B1|CYP26B1|CYP2E1|HADH
+mRNA 3'-UTR binding,GO:0003730,Obesity,MESH:D009765,0,,4,MIR130A|MIR130B|MIR21|MIR34A
+mRNA 5'-diphosphatase activity,GO:0034353,Obesity,MESH:D009765,0,,1,RAI1
+mRNA base-pairing translational repressor activity,GO:1903231,Obesity,MESH:D009765,0,,4,MIR130A|MIR130B|MIR21|MIR34A
+mRNA N6-methyladenosine dioxygenase activity,GO:1990931,Obesity,MESH:D009765,0,,1,FTO
+mRNA N6-methyladenosine dioxygenase activity,GO:1990931,Pediatric Obesity,MESH:D063766,0,,1,FTO
+mu-type opioid receptor binding,GO:0031852,Obesity,MESH:D009765,0,,1,GNAS
+myosin binding,GO:0017022,Obesity,MESH:D009765,0,,1,CRP
+myosin light chain kinase activity,GO:0004687,Obesity,MESH:D009765,1,Genistein,0,
+myosin phosphatase activity,GO:0017018,Obesity,MESH:D009765,1,Glucose,1,PPM1L
+N-acetyltransferase activity,GO:0008080,Obesity,MESH:D009765,0,,1,SAT1
+NAD+ ADP-ribosyltransferase activity,GO:0003950,Obesity,MESH:D009765,0,,1,PARP1
+NAD binding,GO:0051287,Obesity,MESH:D009765,0,,3,ME1|PARP1|SIRT3
+NAD+ binding,GO:0070403,Obesity,MESH:D009765,0,,3,HADH|SIRT1|SIRT3
+NAD-dependent histone deacetylase activity,GO:0017136,Obesity,MESH:D009765,0,,2,SIRT1|SIRT3
+NAD-dependent histone decrotonylase activity,GO:0160012,Obesity,MESH:D009765,0,,1,SIRT1
+NAD-dependent histone H3K14 deacetylase activity,GO:0032041,Obesity,MESH:D009765,0,,2,SIRT1|SIRT3
+NAD-dependent histone H3K18 deacetylase activity,GO:0097372,Obesity,MESH:D009765,0,,2,SIRT1|SIRT3
+NAD-dependent histone H3K56 deacetylase activity,GO:0140765,Obesity,MESH:D009765,0,,2,SIRT1|SIRT3
+NAD-dependent histone H3K9 deacetylase activity,GO:0046969,Obesity,MESH:D009765,0,,2,SIRT1|SIRT3
+NAD-dependent histone H4K16 deacetylase activity,GO:0046970,Obesity,MESH:D009765,0,,2,SIRT1|SIRT3
+NAD-dependent protein deacetylase activity,GO:0034979,Obesity,MESH:D009765,0,,2,SIRT1|SIRT3
+NAD DNA ADP-ribosyltransferase activity,GO:0140294,Obesity,MESH:D009765,0,,1,PARP1
+NADH dehydrogenase activity,GO:0003954,Obesity,MESH:D009765,4,"Ascorbic Acid|Lead|Streptozocin|Water Pollutants, Chemical",0,
+NADH dehydrogenase (quinone) activity,GO:0050136,Obesity,MESH:D009765,0,,1,NQO1
+NADH dehydrogenase (ubiquinone) activity,GO:0008137,Obesity,MESH:D009765,33,"Acetylcysteine|AM 251|Atorvastatin|Atrazine|Berberine|Bezafibrate|bisphenol A|Cadmium|celastrol|Clozapine|Curcumin|Cyclosporine|deoxynivalenol|Dietary Fats|Dronabinol|Glucose|Glyphosate|herbacetin|Lead|Linoleic Acids, Conjugated|Lithium|Mercury|naringenin|Particulate Matter|Plant Extracts|Quercetin|Resveratrol|Risperidone|Rosiglitazone|Streptozocin|Taurine|Valproic Acid|Vehicle Emissions",0,
+NADH dehydrogenase (ubiquinone) activity,GO:0008137,"Obesity, Abdominal",MESH:D056128,4,Air Pollutants|bisphenol A|Dietary Fats|Particulate Matter,0,
+NADH dehydrogenase (ubiquinone) activity,GO:0008137,Pediatric Obesity,MESH:D063766,1,Cadmium,0,
+NAD+-histone H2BE18 glutamate ADP-ribosyltransferase activity,GO:0140867,Obesity,MESH:D009765,0,,1,PARP1
+NAD+-histone H2BE2 glutamate ADP-ribosyltransferase activity,GO:0140844,Obesity,MESH:D009765,0,,1,PARP1
+NAD+-histone H2BE35 glutamate ADP-ribosyltransferase activity,GO:0140822,Obesity,MESH:D009765,0,,1,PARP1
+NAD+-histone H2BS6 serine ADP-ribosyltransferase activity,GO:0140816,Obesity,MESH:D009765,0,,1,PARP1
+NAD+-histone H3S10 serine ADP-ribosyltransferase activity,GO:0140817,Obesity,MESH:D009765,0,,1,PARP1
+NADP binding,GO:0050661,Obesity,MESH:D009765,0,,3,DPYD|HSD11B1|ME1
+NADP binding,GO:0050661,"Obesity, Abdominal",MESH:D056128,0,,1,HSD11B1
+NADPH dehydrogenase activity,GO:0003959,Obesity,MESH:D009765,1,Chlorpyrifos,0,
+NAD(P)H dehydrogenase (quinone) activity,GO:0003955,Obesity,MESH:D009765,0,,1,NQO1
+NADPH dehydrogenase (quinone) activity,GO:0008753,Obesity,MESH:D009765,0,,1,NQO1
+NADPH-hemoprotein reductase activity,GO:0003958,Obesity,MESH:D009765,3,Diethylhexyl Phthalate|Quercetin|Taurine,0,
+NAD(P)H oxidase H2O2-forming activity,GO:0016174,Obesity,MESH:D009765,9,2-methyl-2H-pyrazole-3-carboxylic acid (2-methyl-4-o-tolylazophenyl)amide|Ascorbic Acid|Atorvastatin|Glucose|Lead|Nicotine|Particulate Matter|Quercetin|Resveratrol,0,
+NAD(P)H oxidase H2O2-forming activity,GO:0016174,"Obesity, Abdominal",MESH:D056128,2,Air Pollutants|Particulate Matter,0,
+NADPH:quinone reductase activity,GO:0003960,Obesity,MESH:D009765,1,geraniol,0,
+NADP-retinol dehydrogenase activity,GO:0052650,Obesity,MESH:D009765,0,,1,AKR1C3
+NAD+-protein ADP-ribosyltransferase activity,GO:1990404,Obesity,MESH:D009765,0,,1,PARP1
+NAD+- protein-aspartate ADP-ribosyltransferase activity,GO:0140806,Obesity,MESH:D009765,0,,1,PARP1
+NAD+-protein-glutamate ADP-ribosyltransferase activity,GO:0140807,Obesity,MESH:D009765,0,,1,PARP1
+NAD+-protein-histidine ADP-ribosyltransferase activity,GO:0140815,Obesity,MESH:D009765,0,,1,PARP1
+NAD+-protein-serine ADP-ribosyltransferase activity,GO:0140805,Obesity,MESH:D009765,0,,1,PARP1
+NAD+-protein-tyrosine ADP-ribosyltransferase activity,GO:0140808,Obesity,MESH:D009765,0,,1,PARP1
+NAD-retinol dehydrogenase activity,GO:0004745,Obesity,MESH:D009765,0,,2,ADH1B|AKR1C3
+nerve growth factor receptor binding,GO:0005163,"Obesity, Morbid",MESH:D009767,0,,1,BDNF
+neurexin family protein binding,GO:0042043,Obesity,MESH:D009765,0,,1,CPE
+neuropeptide binding,GO:0042923,Obesity,MESH:D009765,0,,3,MC4R|NPY1R|NPY5R
+neuropeptide binding,GO:0042923,"Obesity, Morbid",MESH:D009767,0,,1,MC4R
+neuropeptide hormone activity,GO:0005184,Obesity,MESH:D009765,0,,6,AGRP|CARTPT|HCRT|POMC|PYY|VGF
+neuropeptide Y receptor activity,GO:0004983,Obesity,MESH:D009765,0,,2,NPY1R|NPY5R
+neuropeptide Y receptor binding,GO:0031841,Obesity,MESH:D009765,0,,1,PYY
+neurotransmitter receptor activity,GO:0030594,Obesity,MESH:D009765,0,,2,HTR2A|HTR2C
+neurotransmitter transmembrane transporter activity,GO:0005326,Obesity,MESH:D009765,0,,3,SLC22A1|SLC22A2|SLC22A3
+neurotrophin binding,GO:0043121,Obesity,MESH:D009765,0,,1,NTRK2
+neurotrophin binding,GO:0043121,"Obesity, Hyperphagia, and Developmental Delay",MESH:C563938,0,,1,NTRK2
+neurotrophin receptor activity,GO:0005030,Obesity,MESH:D009765,0,,1,NTRK2
+neurotrophin receptor activity,GO:0005030,"Obesity, Hyperphagia, and Developmental Delay",MESH:C563938,0,,1,NTRK2
+neurotrophin TRKB receptor binding,GO:0005169,"Obesity, Morbid",MESH:D009767,0,,1,BDNF
+neutral sphingomyelin phosphodiesterase activity,GO:0061751,"Obesity, Abdominal",MESH:D056128,1,"2,3,7,8-tetrachlorodibenzofuran",0,
+NFAT protein binding,GO:0051525,Abdominal obesity metabolic syndrome,MESH:C535554,0,,1,PPARA
+NFAT protein binding,GO:0051525,Obesity,MESH:D009765,0,,1,PPARA
+NF-kappaB binding,GO:0051059,Obesity,MESH:D009765,1,platycodin D,2,EP300|PPARD
+nickel cation binding,GO:0016151,Obesity,MESH:D009765,0,,2,CA3|GLUL
+nicotinamide phosphoribosyltransferase activity,GO:0047280,Obesity,MESH:D009765,0,,1,NAMPT
+nitric-oxide synthase activity,GO:0004517,Obesity,MESH:D009765,6,bisphenol A|Cadmium|Caffeine|Dietary Fats|Quercetin|Resveratrol,0,
+nitric-oxide synthase activity,GO:0004517,"Obesity, Abdominal",MESH:D056128,2,bisphenol A|Dietary Fats,0,
+nitric-oxide synthase activity,GO:0004517,Pediatric Obesity,MESH:D063766,1,Cadmium,0,
+nitric-oxide synthase regulator activity,GO:0030235,Obesity,MESH:D009765,0,,2,AKT1|ESR1
+NMDA glutamate receptor activity,GO:0004972,Obesity,MESH:D009765,2,Genistein|Glucose,0,
+non-membrane spanning protein tyrosine phosphatase activity,GO:0004726,Obesity,MESH:D009765,0,,1,PTPN1
+"non-sequence-specific DNA binding, bending",GO:0044378,Obesity,MESH:D009765,0,,1,HMGB2
+norepinephrine binding,GO:0051380,Obesity,MESH:D009765,0,,3,ADRB1|ADRB2|ADRB3
+norepinephrine:sodium symporter activity,GO:0005334,Obesity,MESH:D009765,0,,1,SLC22A1
+nuclear androgen receptor binding,GO:0050681,Obesity,MESH:D009765,0,,1,EP300
+nuclear estrogen receptor activity,GO:0030284,Obesity,MESH:D009765,2,bisphenol A|deoxynivalenol,1,ESR1
+nuclear estrogen receptor activity,GO:0030284,"Obesity, Abdominal",MESH:D056128,1,bisphenol A,0,
+nuclear estrogen receptor binding,GO:0030331,Obesity,MESH:D009765,0,,4,ESR1|PARP1|PPARG|PPARGC1B
+nuclear glucocorticoid receptor binding,GO:0035259,Obesity,MESH:D009765,0,,1,EP300
+nuclear receptor activity,GO:0004879,Abdominal obesity metabolic syndrome,MESH:C535554,0,,1,PPARA
+nuclear receptor activity,GO:0004879,Obesity,MESH:D009765,3,bisphenol A|bisphenol S|Polystyrenes,8,AHR|ESR1|NR1I2|NR1I3|PPARA|PPARD|PPARG|SREBF1
+nuclear receptor activity,GO:0004879,"Obesity, Abdominal",MESH:D056128,3,bisphenol A|bisphenol F|bisphenol S,0,
+nuclear receptor activity,GO:0004879,Pediatric Obesity,MESH:D063766,1,bisphenol S,0,
+nuclear receptor binding,GO:0016922,Obesity,MESH:D009765,0,,3,EP300|NR1I2|SIRT1
+nuclear receptor coactivator activity,GO:0030374,Obesity,MESH:D009765,0,,1,PPARGC1B
+nuclear retinoic acid receptor binding,GO:0042974,Obesity,MESH:D009765,0,,1,NR0B2
+nuclear retinoid X receptor binding,GO:0046965,Obesity,MESH:D009765,0,,2,NR0B2|PPARG
+nuclear steroid receptor activity,GO:0003707,Abdominal obesity metabolic syndrome,MESH:C535554,0,,1,PPARA
+nuclear steroid receptor activity,GO:0003707,Obesity,MESH:D009765,0,,4,ESR1|NR1I2|PPARA|PPARD
+nuclear thyroid hormone receptor binding,GO:0046966,Obesity,MESH:D009765,0,,1,NR0B2
+nuclease activity,GO:0004518,Obesity,MESH:D009765,0,,1,NEIL1
+nucleic acid binding,GO:0003676,Obesity,MESH:D009765,0,,11,AGRP|ENPP1|GH1|NEGR1|NEIL1|PLIN1|PPARG|PPARGC1B|STS|TMEM18|ZFR2
+nucleoside diphosphate kinase activity,GO:0004550,Obesity,MESH:D009765,0,,1,PCK1
+nucleoside diphosphate phosphatase activity,GO:0017110,Obesity,MESH:D009765,0,,1,ENTPD6
+nucleoside triphosphate diphosphatase activity,GO:0047429,Obesity,MESH:D009765,3,Fructose|Metformin|Streptozocin,1,ENPP1
+nucleosome binding,GO:0031491,Obesity,MESH:D009765,0,,1,PARP1
+nucleotide binding,GO:0000166,ABDOMINAL OBESITY-METABOLIC SYNDROME 3,OMIM:615812,0,,1,DYRK1B
+nucleotide binding,GO:0000166,Obesity,MESH:D009765,0,,15,ACACB|ACLY|AKT1|DPYD|ENTPD6|GNAS|HK2|HSPA5|NAMPT|PCK1|PFKFB3|RAB21|SUCLA2|SUCLG2|TRPV1
+nucleotidyltransferase activity,GO:0016779,Obesity,MESH:D009765,0,,1,PARP1
+nutrient reservoir activity,GO:0045735,Obesity,MESH:D009765,1,Particulate Matter,0,
+nutrient reservoir activity,GO:0045735,"Obesity, Abdominal",MESH:D056128,2,Air Pollutants|Particulate Matter,0,
+odorant binding,GO:0005549,Obesity,MESH:D009765,0,,1,ATPAF1
+oleoyl-CoA ligase activity,GO:0090434,Obesity,MESH:D009765,0,,1,ACSL1
+opsonin binding,GO:0001846,Obesity,MESH:D009765,0,,1,ITGAM
+orexin receptor binding,GO:0042324,Obesity,MESH:D009765,0,,1,HCRT
+organic anion transmembrane transporter activity,GO:0008514,Obesity,MESH:D009765,0,,3,SLC22A1|SLC22A2|SLC22A3
+organic cation transmembrane transporter activity,GO:0015101,Obesity,MESH:D009765,0,,3,SLC22A1|SLC22A2|SLC22A3
+oxaloacetate decarboxylase activity,GO:0008948,Obesity,MESH:D009765,0,,1,ME1
+oxaloacetate transmembrane transporter activity,GO:0015131,Obesity,MESH:D009765,0,,1,UCP2
+oxidative DNA demethylase activity,GO:0035516,Obesity,MESH:D009765,0,,1,FTO
+oxidative DNA demethylase activity,GO:0035516,Pediatric Obesity,MESH:D063766,0,,1,FTO
+oxidative phosphorylation uncoupler activity,GO:0017077,Obesity,MESH:D009765,0,,3,UCP1|UCP2|UCP3
+oxidative RNA demethylase activity,GO:0035515,Obesity,MESH:D009765,0,,1,FTO
+oxidative RNA demethylase activity,GO:0035515,Pediatric Obesity,MESH:D063766,0,,1,FTO
+oxidized base lesion DNA N-glycosylase activity,GO:0000702,Obesity,MESH:D009765,0,,1,OGG1
+oxidized purine DNA binding,GO:0032357,Obesity,MESH:D009765,0,,1,OGG1
+oxidized purine nucleobase lesion DNA N-glycosylase activity,GO:0008534,Obesity,MESH:D009765,0,,1,OGG1
+oxidoreductase activity,GO:0016491,Obesity,MESH:D009765,0,,23,ACADM|ADH1B|AKR1C3|ALDH1L1|ALDH6A1|CYB5A|CYP1B1|CYP26B1|CYP2E1|DCXR|DPYD|ETFDH|FASN|FTO|GPX3|HADH|HSD11B1|IDO1|KCNMA1|ME1|SCD1|SOD1|SOD2
+oxidoreductase activity,GO:0016491,"Obesity, Abdominal",MESH:D056128,0,,1,HSD11B1
+oxidoreductase activity,GO:0016491,"Obesity, Morbid",MESH:D009767,0,,1,KCNMA1
+oxidoreductase activity,GO:0016491,Pediatric Obesity,MESH:D063766,0,,1,FTO
+"oxidoreductase activity, acting on CH-OH group of donors",GO:0016614,Obesity,MESH:D009765,0,,1,DCXR
+"oxidoreductase activity, acting on NAD(P)H",GO:0016651,Obesity,MESH:D009765,2,Curcumin|geraniol,0,
+"oxidoreductase activity, acting on NAD(P)H, quinone or similar compound as acceptor",GO:0016655,Obesity,MESH:D009765,0,,2,AKR1C3|DCXR
+"oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen",GO:0016705,Obesity,MESH:D009765,0,,4,CYP1B1|CYP26B1|CYP2E1|HADH
+"oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, NAD(P)H as one donor, and incorporation of one atom of oxygen",GO:0016709,Obesity,MESH:D009765,0,,3,CYP1B1|CYP26B1|CYP2E1
+"oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, reduced flavin or flavoprotein as one donor, and incorporation of one atom of oxygen",GO:0016712,Obesity,MESH:D009765,4,bisphenol A|bisphenol S|Diethylnitrosamine|geraniol,2,CYP1B1|CYP2E1
+"oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, reduced flavin or flavoprotein as one donor, and incorporation of one atom of oxygen",GO:0016712,"Obesity, Abdominal",MESH:D056128,2,bisphenol A|bisphenol S,0,
+"oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, reduced flavin or flavoprotein as one donor, and incorporation of one atom of oxygen",GO:0016712,Pediatric Obesity,MESH:D063766,1,bisphenol S,0,
+"oxidoreductase activity, acting on single donors with incorporation of molecular oxygen",GO:0016701,Obesity,MESH:D009765,0,,1,PTGS2
+"oxidoreductase activity, acting on single donors with incorporation of molecular oxygen, incorporation of two atoms of oxygen",GO:0016702,Obesity,MESH:D009765,0,,2,IDO1|PTGS2
+"oxidoreductase activity, acting on the aldehyde or oxo group of donors, NAD or NADP as acceptor",GO:0016620,Obesity,MESH:D009765,0,,2,ALDH1L1|ALDH6A1
+"oxidoreductase activity, acting on the CH-CH group of donors",GO:0016627,Obesity,MESH:D009765,0,,2,ACADM|DPYD
+"oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor",GO:0016616,Obesity,MESH:D009765,0,,2,HADH|ME1
+oxoglutarate dehydrogenase (succinyl-transferring) activity,GO:0004591,Obesity,MESH:D009765,2,Cadmium|herbacetin,0,
+oxoglutarate dehydrogenase (succinyl-transferring) activity,GO:0004591,Pediatric Obesity,MESH:D063766,1,Cadmium,0,
+oxygen binding,GO:0019825,Obesity,MESH:D009765,4,Atrazine|Curcumin|Resveratrol|Taurine,3,CYP2E1|IDO1|SOD2
+oxysterol binding,GO:0008142,Obesity,MESH:D009765,0,,1,GPR17
+oxysterol binding,GO:0008142,Pediatric Obesity,MESH:D063766,0,,1,GPR17
+p53 binding,GO:0002039,Obesity,MESH:D009765,0,,2,EP300|SIRT1
+palmitoyl-CoA 9-desaturase activity,GO:0032896,Obesity,MESH:D009765,0,,1,SCD1
+palmitoyl-CoA ligase activity,GO:0090433,Obesity,MESH:D009765,0,,1,ACSL1
+pancreatic polypeptide receptor activity,GO:0001602,Obesity,MESH:D009765,0,,2,NPY1R|NPY5R
+PDZ domain binding,GO:0030165,Obesity,MESH:D009765,0,,2,ADRB1|ADRB2
+pentosyltransferase activity,GO:0016763,Obesity,MESH:D009765,0,,1,PARP1
+peptidase activator activity involved in apoptotic process,GO:0016505,Obesity,MESH:D009765,4,Acetylcysteine|Glucose|Plant Extracts|Valproic Acid,0,
+peptidase activity,GO:0008233,Obesity,MESH:D009765,2,Particulate Matter|Vehicle Emissions,8,CASP1|CPB2|CPE|CTSS|F2|LACTB|MMP9|PCSK1
+peptidase activity,GO:0008233,"Obesity, Abdominal",MESH:D056128,1,Particulate Matter,0,
+peptide 2-hydroxyisobutyryltransferase activity,GO:0106226,Obesity,MESH:D009765,0,,1,EP300
+peptide binding,GO:0042277,Obesity,MESH:D009765,0,,1,PPARG
+peptide butyryltransferase activity,GO:0140065,Obesity,MESH:D009765,0,,1,EP300
+peptide hormone binding,GO:0017046,Obesity,MESH:D009765,0,,2,LEPR|MC4R
+peptide hormone binding,GO:0017046,"Obesity, Morbid",MESH:D009767,0,,2,LEPR|MC4R
+peptide hormone receptor binding,GO:0051428,Obesity,MESH:D009765,0,,1,LEP
+peptide hormone receptor binding,GO:0051428,"Obesity, Morbid",MESH:D009767,0,,1,LEP
+peptide-lysine-N-acetyltransferase activity,GO:0061733,Obesity,MESH:D009765,0,,1,EP300
+peptide N-acetyltransferase activity,GO:0034212,Obesity,MESH:D009765,0,,1,EP300
+peptide YY receptor activity,GO:0001601,Obesity,MESH:D009765,0,,2,NPY1R|NPY5R
+peptidyl-prolyl cis-trans isomerase activity,GO:0003755,Obesity,MESH:D009765,0,,3,APOE|AQP7|PEX11A
+peroxidase activity,GO:0004601,Obesity,MESH:D009765,5,Atrazine|bisphenol A|Curcumin|Diethylhexyl Phthalate|platycodin D,3,GPX1|GPX3|PTGS2
+peroxidase activity,GO:0004601,"Obesity, Abdominal",MESH:D056128,1,bisphenol A,0,
+peroxiredoxin activity,GO:0051920,Obesity,MESH:D009765,1,Thallium,0,
+peroxisome proliferator activated receptor binding,GO:0042975,Obesity,MESH:D009765,0,,2,EP300|NR0B2
+phosphatase activity,GO:0016791,Obesity,MESH:D009765,1,Cadmium,3,ENPP1|INPP5E|PTPN1
+phosphatase activity,GO:0016791,Pediatric Obesity,MESH:D063766,1,Cadmium,0,
+phosphatase binding,GO:0019902,Abdominal obesity metabolic syndrome,MESH:C535554,0,,1,PPARA
+phosphatase binding,GO:0019902,Obesity,MESH:D009765,0,,1,PPARA
+phosphate ion uniporter activity,GO:0140787,Obesity,MESH:D009765,0,,1,UCP2
+phosphatidic acid binding,GO:0070300,Obesity,MESH:D009765,0,,1,CIDEA
+phosphatidylcholine binding,GO:0031210,Pediatric Obesity,MESH:D063766,0,,2,APOA5|CETP
+phosphatidylcholine-sterol O-acyltransferase activator activity,GO:0060228,Obesity,MESH:D009765,0,,1,APOE
+phosphatidylcholine-sterol O-acyltransferase activator activity,GO:0060228,Pediatric Obesity,MESH:D063766,0,,2,APOA1|APOA5
+"phosphatidylinositol-3,4,5-trisphosphate 3-phosphatase activity",GO:0016314,Obesity,MESH:D009765,0,,1,INPP5E
+"phosphatidylinositol-3,4,5-trisphosphate 5-phosphatase activity",GO:0034485,Obesity,MESH:D009765,0,,1,INPP5E
+"phosphatidylinositol-3,4,5-trisphosphate binding",GO:0005547,Obesity,MESH:D009765,0,,1,AKT1
+"phosphatidylinositol-3,4-bisphosphate binding",GO:0043325,Obesity,MESH:D009765,0,,1,AKT1
+"phosphatidylinositol-3,5-bisphosphate 5-phosphatase activity",GO:0043813,Obesity,MESH:D009765,0,,1,INPP5E
+phosphatidylinositol 3-kinase binding,GO:0043548,Obesity,MESH:D009765,0,,1,IRS1
+phosphatidylinositol 3-kinase catalytic subunit binding,GO:0036313,Obesity,MESH:D009765,0,,1,RAB21
+phosphatidylinositol 3-kinase regulatory subunit binding,GO:0036312,Obesity,MESH:D009765,0,,1,ESR1
+"phosphatidylinositol-4,5-bisphosphate 5-phosphatase activity",GO:0004439,Obesity,MESH:D009765,0,,1,INPP5E
+"phosphatidylinositol-4,5-bisphosphate phosphatase activity",GO:0106019,Obesity,MESH:D009765,0,,1,INPP5E
+phosphatidylinositol binding,GO:0035091,Obesity,MESH:D009765,0,,1,TRPV1
+phosphatidylinositol phospholipase C activity,GO:0004435,Obesity,MESH:D009765,0,,1,HCRT
+phosphodiesterase I activity,GO:0004528,Obesity,MESH:D009765,0,,1,ENPP1
+phosphoenolpyruvate carboxykinase activity,GO:0004611,Obesity,MESH:D009765,3,bisphenol S|Plant Extracts|Streptozocin,1,PCK1
+phosphoenolpyruvate carboxykinase activity,GO:0004611,"Obesity, Abdominal",MESH:D056128,1,bisphenol S,0,
+phosphoenolpyruvate carboxykinase activity,GO:0004611,Pediatric Obesity,MESH:D063766,1,bisphenol S,0,
+phosphoenolpyruvate carboxykinase (GTP) activity,GO:0004613,Obesity,MESH:D009765,0,,1,PCK1
+phosphofructokinase activity,GO:0008443,Obesity,MESH:D009765,1,bisphenol A,0,
+phosphofructokinase activity,GO:0008443,"Obesity, Abdominal",MESH:D056128,1,bisphenol A,0,
+phospholipase A1 activity,GO:0008970,Obesity,MESH:D009765,0,,1,LPL
+phospholipase A2 activity,GO:0004623,Obesity,MESH:D009765,4,Cadmium|Cholesterol|Cromolyn Sodium|Quercetin,0,
+phospholipase A2 activity,GO:0004623,Pediatric Obesity,MESH:D063766,1,Cadmium,0,
+phospholipase activity,GO:0004620,Obesity,MESH:D009765,0,,1,LPL
+phospholipase D activity,GO:0004630,Obesity,MESH:D009765,0,,1,HMOX1
+phospholipid binding,GO:0005543,Obesity,MESH:D009765,0,,2,APOE|FAAH
+phospholipid binding,GO:0005543,Pediatric Obesity,MESH:D063766,0,,2,APOA1|APOA5
+phospholipid-hydroperoxide glutathione peroxidase activity,GO:0047066,Obesity,MESH:D009765,0,,1,GPX1
+phospholipid transporter activity,GO:0005548,Pediatric Obesity,MESH:D063766,0,,1,CETP
+phosphopantetheine binding,GO:0031177,Obesity,MESH:D009765,0,,1,FASN
+phosphoprotein binding,GO:0051219,Obesity,MESH:D009765,0,,1,TRPV1
+phosphoprotein phosphatase activity,GO:0004721,Obesity,MESH:D009765,0,,2,PPM1L|PTPN1
+phosphoric diester hydrolase activity,GO:0008081,Obesity,MESH:D009765,0,,1,ENPP1
+"phosphotransferase activity, alcohol group as acceptor",GO:0016773,Obesity,MESH:D009765,0,,2,FGGY|HK2
+phosphotyrosine residue binding,GO:0001784,Obesity,MESH:D009765,0,,1,IRS1
+phytanate-CoA ligase activity,GO:0050197,Obesity,MESH:D009765,0,,1,ACSL1
+placental growth factor receptor activity,GO:0036332,Obesity,MESH:D009765,0,,1,NTRK2
+placental growth factor receptor activity,GO:0036332,"Obesity, Hyperphagia, and Developmental Delay",MESH:C563938,0,,1,NTRK2
+platelet-derived growth factor alpha-receptor activity,GO:0005018,Obesity,MESH:D009765,0,,1,NTRK2
+platelet-derived growth factor alpha-receptor activity,GO:0005018,"Obesity, Hyperphagia, and Developmental Delay",MESH:C563938,0,,1,NTRK2
+platelet-derived growth factor beta-receptor activity,GO:0005019,Obesity,MESH:D009765,0,,1,NTRK2
+platelet-derived growth factor beta-receptor activity,GO:0005019,"Obesity, Hyperphagia, and Developmental Delay",MESH:C563938,0,,1,NTRK2
+polysaccharide binding,GO:0030247,Obesity,MESH:D009765,0,,2,ENPP1|RAPGEF3
+pore-forming activity,GO:0140911,Obesity,MESH:D009765,1,deoxynivalenol,0,
+porphobilinogen synthase activity,GO:0004655,Obesity,MESH:D009765,1,Diethylhexyl Phthalate,0,
+potassium channel activator activity,GO:0099104,Obesity,MESH:D009765,0,,1,AKT1
+potassium channel activity,GO:0005267,Obesity,MESH:D009765,0,,1,KCNMA1
+potassium channel activity,GO:0005267,"Obesity, Morbid",MESH:D009767,0,,1,KCNMA1
+potassium channel regulator activity,GO:0015459,Obesity,MESH:D009765,0,,1,ADRB2
+pre-mRNA intronic binding,GO:0097157,Obesity,MESH:D009765,0,,1,EP300
+pristanate-CoA ligase activity,GO:0070251,Obesity,MESH:D009765,0,,1,ACSL1
+prolactin receptor binding,GO:0005148,Obesity,MESH:D009765,0,,1,GH1
+promoter-specific chromatin binding,GO:1990841,Obesity,MESH:D009765,0,,5,EP300|ESR1|FOS|PPARG|SIRT1
+prostacyclin receptor activity,GO:0016501,Obesity,MESH:D009765,0,,1,PPARD
+prostaglandin D2 11-ketoreductase activity,GO:0036131,Obesity,MESH:D009765,0,,1,AKR1C3
+prostaglandin-endoperoxide synthase activity,GO:0004666,Obesity,MESH:D009765,2,"Cholesterol, Dietary|Particulate Matter",1,PTGS2
+prostaglandin-endoperoxide synthase activity,GO:0004666,"Obesity, Abdominal",MESH:D056128,1,Particulate Matter,0,
+prostaglandin-F synthase activity,GO:0047017,Obesity,MESH:D009765,0,,1,AKR1C3
+prostaglandin H2 endoperoxidase reductase activity,GO:0036130,Obesity,MESH:D009765,0,,1,AKR1C3
+prostaglandin receptor activity,GO:0004955,Obesity,MESH:D009765,0,,1,PPARG
+prostaglandin transmembrane transporter activity,GO:0015132,Obesity,MESH:D009765,0,,2,SLC22A1|SLC22A2
+protease binding,GO:0002020,Obesity,MESH:D009765,0,,5,INS|LDLR|NTRK2|SERPINE1|TNF
+protease binding,GO:0002020,"Obesity, Hyperphagia, and Developmental Delay",MESH:C563938,0,,1,NTRK2
+protein antigen binding,GO:1990405,Obesity,MESH:D009765,0,,1,EP300
+protein binding,GO:0005515,Abdominal obesity metabolic syndrome,MESH:C535554,0,,1,PPARA
+protein binding,GO:0005515,ABDOMINAL OBESITY-METABOLIC SYNDROME 3,OMIM:615812,0,,1,DYRK1B
+protein binding,GO:0005515,MORBID OBESITY AND SPERMATOGENIC FAILURE,OMIM:615703,0,,1,CEP19
+protein binding,GO:0005515,Obesity,MESH:D009765,2,Glutathione|Lead,167,A|ACACB|ACHE|ACLY|ADCY3|ADH1B|ADIPOQ|ADRB1|ADRB2|ADRB3|AFF4|AHR|AKAP1|AKR1C3|AKT1|ALDH1L1|ANGPTL4|APCDD1|APOE|AQP7|ATPAF1|BCHE|CA3|CARTPT|CASP1|CCL2|CD163|CD40|CD68|CEBPA|CES1|CIDEA|CNR1|COX7C|CPE|CRP|CTF1|CTSS|CYB5A|CYCS|CYP1B1|CYP26B1|DCXR|DDIT3|DPYD|ECHS1|EFNB1|ENPP1|EP300|ESR1|ETFDH|F2|FAAH|FASN|FGF21|FOS|FOXO3|FTL|FTO|GAS7|GCG|GFPT1|GH1|GHRL|GLUL|GNAS|GNB3|GNPDA2|GPR17|GPX1|GPX3|HADH|HK2|HMGB2|HMOX1|HOXB5|HSPA5|HTR2A|HTR2C|ICAM1|IDO1|IGF2|IGFBP2|IL6|IL7|INPP5E|INS|IRS1|ITGAM|KCNMA1|KCTD15|KITL|LACTB|LBP|LDLR|LEP|LEPR|LPL|MC4R|ME1|MMP9|MMUT|MRC1|MTCH2|NAMPT|NEGR1|NEIL1|NHLH2|NPC1|NPY1R|NQO1|NR0B2|NR1I2|NR1I3|NTRK2|OGG1|PACS1|PARP1|PEX11A|PFKFB3|PLIN1|POMC|PPARA|PPARD|PPARG|PPARGC1B|PPM1L|PRKAR1A|PRKAR2B|PRKCH|PTGS2|PTPN1|PYY|RAB21|RAI1|RAPGEF3|SAT1|SDC3|SERPINE1|SH2B1|SIRT1|SIRT3|SLC16A7|SLC22A1|SLC22A3|SOD1|SOD2|SREBF1|SUCLA2|SUCLG2|TBC1D1|TF|TFRC|TMEM18|TNF|TNFRSF1B|TRPV1|UCP1|UCP2|UCP3|UQCRC2|VLDLR|WNT3A|ZBTB7B|ZC3H10|ZFHX3|ZNF169
+protein binding,GO:0005515,"Obesity, Hyperphagia, and Developmental Delay",MESH:C563938,0,,1,NTRK2
+protein binding,GO:0005515,"Obesity, Morbid",MESH:D009767,0,,7,ADCY3|BDNF|KCNMA1|KSR2|LEP|LEPR|MC4R
+protein binding,GO:0005515,Pediatric Obesity,MESH:D063766,0,,4,APOA1|APOA5|FTO|GPR17
+protein binding,GO:0005515,RETINAL DYSTROPHY AND OBESITY,OMIM:616188,0,,1,TUB
+protein-containing complex binding,GO:0044877,Abdominal obesity metabolic syndrome,MESH:C535554,0,,1,PPARA
+protein-containing complex binding,GO:0044877,Obesity,MESH:D009765,0,,19,ADRB2|ALDH1L1|APOE|CEBPA|EP300|ESR1|FOS|HTR2A|ICAM1|IRS1|ITGAM|KCNMA1|MMP9|NR0B2|PPARA|SREBF1|SUCLG2|TFRC|UQCRC2
+protein-containing complex binding,GO:0044877,"Obesity, Morbid",MESH:D009767,0,,1,KCNMA1
+protein-containing complex binding,GO:0044877,RETINAL DYSTROPHY AND OBESITY,OMIM:616188,0,,1,TUB
+protein-containing complex stabilizing activity,GO:0140777,Obesity,MESH:D009765,0,,1,ATPAF1
+protein-cysteine S-palmitoyltransferase activity,GO:0019706,Obesity,MESH:D009765,0,,1,GLUL
+protein dimerization activity,GO:0046983,Obesity,MESH:D009765,0,,7,AHR|APOE|CRP|LDLR|NHLH2|PARP1|SREBF1
+protein disulfide isomerase activity,GO:0003756,Obesity,MESH:D009765,1,bisphenol A,0,
+protein disulfide isomerase activity,GO:0003756,"Obesity, Abdominal",MESH:D056128,1,bisphenol A,0,
+protein domain specific binding,GO:0019904,Abdominal obesity metabolic syndrome,MESH:C535554,0,,1,PPARA
+protein domain specific binding,GO:0019904,Obesity,MESH:D009765,0,,14,CD40|CEBPA|CPE|GNAS|HMGB2|HSPA5|IRS1|NR0B2|PPARA|PRKAR1A|PRKAR2B|RAPGEF3|SIRT1|WNT3A
+protein domain specific binding,GO:0019904,RETINAL DYSTROPHY AND OBESITY,OMIM:616188,0,,1,TUB
+protein folding chaperone,GO:0044183,Obesity,MESH:D009765,0,,1,HSPA5
+protein-glutamine gamma-glutamyltransferase activity,GO:0003810,Obesity,MESH:D009765,4,Cadmium|Cyclosporine|Silymarin|Valproic Acid,0,
+protein-glutamine gamma-glutamyltransferase activity,GO:0003810,Pediatric Obesity,MESH:D063766,1,Cadmium,0,
+protein heterodimerization activity,GO:0046982,Obesity,MESH:D009765,0,,4,ADRB1|AHR|CEBPA|DDIT3
+protein homodimerization activity,GO:0042803,Obesity,MESH:D009765,0,,26,ACADM|ACHE|ADIPOQ|ADRB2|ADRB3|AHR|AKT1|APOE|CEBPA|CIDEA|DDIT3|DPYD|ENPP1|HMOX1|HSD11B1|LPL|MMUT|NR0B2|NTRK2|PARP1|PEX11A|PTGS2|SOD1|TFRC|UCP2|ZBTB7B
+protein homodimerization activity,GO:0042803,"Obesity, Abdominal",MESH:D056128,0,,1,HSD11B1
+protein homodimerization activity,GO:0042803,"Obesity, Hyperphagia, and Developmental Delay",MESH:C563938,0,,1,NTRK2
+protein homodimerization activity,GO:0042803,Pediatric Obesity,MESH:D063766,0,,1,APOA1
+protein-hormone receptor activity,GO:0016500,Obesity,MESH:D009765,0,,1,LEPR
+protein-hormone receptor activity,GO:0016500,"Obesity, Morbid",MESH:D009767,0,,1,LEPR
+protein kinase A catalytic subunit binding,GO:0034236,Obesity,MESH:D009765,0,,2,PRKAR1A|PRKAR2B
+protein kinase activity,GO:0004672,ABDOMINAL OBESITY-METABOLIC SYNDROME 3,OMIM:615812,0,,1,DYRK1B
+protein kinase activity,GO:0004672,Obesity,MESH:D009765,2,Genistein|Quercetin,3,AKT1|CCL2|PRKCH
+protein kinase activity,GO:0004672,"Obesity, Morbid",MESH:D009767,0,,1,KSR2
+protein kinase activity,GO:0004672,RETINAL DYSTROPHY AND OBESITY,OMIM:616188,0,,1,TUB
+protein kinase A regulatory subunit binding,GO:0034237,Obesity,MESH:D009765,0,,1,AKAP1
+protein kinase B binding,GO:0043422,Obesity,MESH:D009765,0,,1,SIRT1
+protein kinase binding,GO:0019901,Obesity,MESH:D009765,0,,11,AKAP1|AKT1|EP300|ESR1|FOXO3|IRS1|PARP1|PRKAR2B|PTPN1|SREBF1|TFRC
+protein kinase C activity,GO:0004697,Obesity,MESH:D009765,9,DDT|Dichlorodiphenyl Dichloroethylene|Glucose|Lead|Methoxychlor|naringenin|Quercetin|Silymarin|Streptozocin,1,PRKCH
+protein kinase C binding,GO:0005080,Obesity,MESH:D009765,0,,2,AKT1|IRS1
+protein-L-histidine N-pros-methyltransferase activity,GO:0106370,Obesity,MESH:D009765,0,,1,FASN
+protein lysine deacetylase activity,GO:0033558,Obesity,MESH:D009765,0,,2,SIRT1|SIRT3
+protein-macromolecule adaptor activity,GO:0030674,Obesity,MESH:D009765,0,,1,IRS1
+protein-membrane adaptor activity,GO:0043495,Obesity,MESH:D009765,0,,1,LPL
+protein phosphatase 2A binding,GO:0051721,Obesity,MESH:D009765,0,,3,ADRB2|AKT1|PTPN1
+protein phosphatase 2B binding,GO:0030346,Obesity,MESH:D009765,0,,2,AKAP1|SOD1
+protein phosphatase binding,GO:0019903,Obesity,MESH:D009765,0,,2,AKAP1|PPARG
+protein phosphatase inhibitor activity,GO:0004864,Obesity,MESH:D009765,0,,1,IGFBP2
+protein-propionyllysine depropionylase activity,GO:0106231,Obesity,MESH:D009765,0,,1,SIRT1
+protein propionyltransferase activity,GO:0061920,Obesity,MESH:D009765,0,,1,EP300
+protein serine kinase activity,GO:0106310,ABDOMINAL OBESITY-METABOLIC SYNDROME 3,OMIM:615812,0,,1,DYRK1B
+protein serine kinase activity,GO:0106310,Obesity,MESH:D009765,0,,2,AKT1|PRKCH
+protein serine kinase activity,GO:0106310,"Obesity, Morbid",MESH:D009767,0,,1,KSR2
+protein serine kinase activity (using GTP as donor),GO:0106264,Obesity,MESH:D009765,0,,1,PCK1
+protein serine/threonine kinase activator activity,GO:0043539,Obesity,MESH:D009765,0,,3,ACSL1|ADIPOQ|IGF2
+protein serine/threonine kinase activity,GO:0004674,ABDOMINAL OBESITY-METABOLIC SYNDROME 3,OMIM:615812,0,,1,DYRK1B
+protein serine/threonine kinase activity,GO:0004674,Obesity,MESH:D009765,1,Streptozocin,2,AKT1|PRKCH
+protein serine/threonine kinase activity,GO:0004674,"Obesity, Morbid",MESH:D009767,0,,1,KSR2
+protein serine/threonine kinase binding,GO:0120283,Obesity,MESH:D009765,0,,2,AKT1|PRKCH
+protein serine/threonine kinase inhibitor activity,GO:0030291,Obesity,MESH:D009765,0,,3,AKT1|HSPA5|PRKCH
+protein serine/threonine phosphatase activity,GO:0004722,Obesity,MESH:D009765,1,Cyclosporine,1,PPM1L
+protein serine/threonine phosphatase activity,GO:0004722,"Obesity, Abdominal",MESH:D056128,1,bisphenol F,0,
+protein serine/threonine/tyrosine kinase activity,GO:0004712,ABDOMINAL OBESITY-METABOLIC SYNDROME 3,OMIM:615812,0,,1,DYRK1B
+protein serine/threonine/tyrosine kinase activity,GO:0004712,Obesity,MESH:D009765,0,,1,AKT1
+protein tyrosine kinase activator activity,GO:0030296,Obesity,MESH:D009765,0,,3,GHRL|HTR2A|VLDLR
+protein tyrosine kinase activity,GO:0004713,ABDOMINAL OBESITY-METABOLIC SYNDROME 3,OMIM:615812,0,,1,DYRK1B
+protein tyrosine kinase activity,GO:0004713,Obesity,MESH:D009765,1,Quercetin,1,NTRK2
+protein tyrosine kinase activity,GO:0004713,"Obesity, Hyperphagia, and Developmental Delay",MESH:C563938,0,,1,NTRK2
+protein tyrosine kinase binding,GO:1990782,RETINAL DYSTROPHY AND OBESITY,OMIM:616188,0,,1,TUB
+protein tyrosine kinase collagen receptor activity,GO:0038062,Obesity,MESH:D009765,0,,1,NTRK2
+protein tyrosine kinase collagen receptor activity,GO:0038062,"Obesity, Hyperphagia, and Developmental Delay",MESH:C563938,0,,1,NTRK2
+protein tyrosine phosphatase activity,GO:0004725,Obesity,MESH:D009765,3,Acetylcysteine|Particulate Matter|Vehicle Emissions,1,PTPN1
+protein tyrosine phosphatase activity,GO:0004725,"Obesity, Abdominal",MESH:D056128,1,Particulate Matter,0,
+"protein tyrosine phosphatase activity, metal-dependent",GO:0030946,Obesity,MESH:D009765,0,,1,PTPN1
+proteoglycan binding,GO:0043394,Obesity,MESH:D009765,0,,1,CTSS
+proton transmembrane transporter activity,GO:0015078,Obesity,MESH:D009765,0,,3,UCP1|UCP2|UCP3
+"proton-transporting ATPase activity, rotational mechanism",GO:0046961,Obesity,MESH:D009765,5,Curcumin|Genistein|Quercetin|Resveratrol|Taurine,0,
+"proton-transporting ATP synthase activity, rotational mechanism",GO:0046933,Obesity,MESH:D009765,1,Particulate Matter,0,
+"proton-transporting ATP synthase activity, rotational mechanism",GO:0046933,"Obesity, Abdominal",MESH:D056128,2,Air Pollutants|Particulate Matter,0,
+P-type calcium transporter activity,GO:0005388,Obesity,MESH:D009765,4,bisphenol A|Cadmium|Curcumin|Quercetin,0,
+P-type calcium transporter activity,GO:0005388,"Obesity, Abdominal",MESH:D056128,2,bisphenol A|bisphenol F,0,
+P-type calcium transporter activity,GO:0005388,Pediatric Obesity,MESH:D063766,1,Cadmium,0,
+P-type magnesium transporter activity,GO:0015444,Obesity,MESH:D009765,2,Atrazine|Cadmium,0,
+P-type magnesium transporter activity,GO:0015444,Pediatric Obesity,MESH:D063766,1,Cadmium,0,
+P-type sodium:potassium-exchanging transporter activity,GO:0005391,Obesity,MESH:D009765,18,Acetylcysteine|Atorvastatin|bisphenol A|Cadmium|Chlorpyrifos|Curcumin|Dietary Fats|Folic Acid|Glucose|Glyphosate|Lead|Manganese|p-coumaric acid|Resveratrol|Sodium Glutamate|Streptozocin|Taurine|Valproic Acid,0,
+P-type sodium:potassium-exchanging transporter activity,GO:0005391,"Obesity, Abdominal",MESH:D056128,2,bisphenol A|Dietary Fats,0,
+P-type sodium:potassium-exchanging transporter activity,GO:0005391,Pediatric Obesity,MESH:D063766,1,Cadmium,0,
+purine nucleotide binding,GO:0017076,Obesity,MESH:D009765,0,,1,PCK1
+purine ribonucleotide binding,GO:0032555,Obesity,MESH:D009765,0,,1,UCP1
+putrescine transmembrane transporter activity,GO:0015489,Obesity,MESH:D009765,0,,2,SLC22A1|SLC22A2
+pyrimidine nucleoside transmembrane transporter activity,GO:0015214,Obesity,MESH:D009765,0,,2,SLC22A1|SLC22A2
+pyrophosphatase activity,GO:0016462,Obesity,MESH:D009765,0,,1,ENPP1
+pyruvate dehydrogenase (acetyl-transferring) activity,GO:0004739,Obesity,MESH:D009765,2,celastrol|Dietary Fats,0,
+pyruvate dehydrogenase (acetyl-transferring) activity,GO:0004739,"Obesity, Abdominal",MESH:D056128,1,Dietary Fats,0,
+pyruvate dehydrogenase activity,GO:0004738,Obesity,MESH:D009765,4,AM 251|Dietary Fats|Diethylhexyl Phthalate|GW 4064,0,
+pyruvate dehydrogenase activity,GO:0004738,"Obesity, Abdominal",MESH:D056128,1,Dietary Fats,0,
+pyruvate kinase activity,GO:0004743,Obesity,MESH:D009765,5,bisphenol S|Lead|Particulate Matter|Quercetin|Streptozocin,0,
+pyruvate kinase activity,GO:0004743,"Obesity, Abdominal",MESH:D056128,3,Air Pollutants|bisphenol S|Particulate Matter,0,
+pyruvate kinase activity,GO:0004743,Pediatric Obesity,MESH:D063766,1,bisphenol S,0,
+pyruvate secondary active transmembrane transporter activity,GO:0005477,Obesity,MESH:D009765,0,,1,SLC16A7
+pyruvate transmembrane transporter activity,GO:0050833,Obesity,MESH:D009765,0,,1,SLC16A7
+quaternary ammonium group transmembrane transporter activity,GO:0015651,Obesity,MESH:D009765,0,,3,SLC22A1|SLC22A2|SLC22A3
+quinone binding,GO:0048038,Obesity,MESH:D009765,0,,1,ETFDH
+RAGE receptor binding,GO:0050786,Obesity,MESH:D009765,0,,1,HMGB2
+(R)-carnitine transmembrane transporter activity,GO:1901235,Obesity,MESH:D009765,0,,1,SLC22A1
+receptor ligand activity,GO:0048018,Obesity,MESH:D009765,0,,6,APOE|F2|GCG|IGF2|TNF|WNT3A
+receptor ligand activity,GO:0048018,Pediatric Obesity,MESH:D063766,0,,1,APOA1
+receptor-receptor interaction,GO:0090722,Obesity,MESH:D009765,0,,1,ADRB2
+receptor serine/threonine kinase binding,GO:0033612,Obesity,MESH:D009765,0,,1,GPR17
+receptor serine/threonine kinase binding,GO:0033612,Pediatric Obesity,MESH:D063766,0,,1,GPR17
+receptor tyrosine kinase binding,GO:0030971,Obesity,MESH:D009765,0,,2,NTRK2|PTPN1
+receptor tyrosine kinase binding,GO:0030971,"Obesity, Hyperphagia, and Developmental Delay",MESH:C563938,0,,1,NTRK2
+recombination hotspot binding,GO:0010844,Obesity,MESH:D009765,0,,1,ZNF169
+reelin receptor activity,GO:0038025,Obesity,MESH:D009765,0,,1,VLDLR
+retinal dehydrogenase activity,GO:0001758,Obesity,MESH:D009765,0,,1,AKR1C3
+retinoic acid 4-hydroxylase activity,GO:0008401,Obesity,MESH:D009765,0,,1,CYP26B1
+retinoic acid binding,GO:0001972,Obesity,MESH:D009765,0,,1,CYP26B1
+Rho-dependent protein serine/threonine kinase activity,GO:0072518,Obesity,MESH:D009765,1,Dronabinol,1,AKT1
+Rho-dependent protein serine/threonine kinase activity,GO:0072518,"Obesity, Morbid",MESH:D009767,0,,1,KSR2
+ribonucleoside triphosphate phosphatase activity,GO:0017111,Obesity,MESH:D009765,0,,1,ENTPD6
+ribosomal protein S6 kinase activity,GO:0004711,Obesity,MESH:D009765,0,,1,AKT1
+ribosomal protein S6 kinase activity,GO:0004711,"Obesity, Morbid",MESH:D009767,0,,1,KSR2
+ribosome binding,GO:0043022,Obesity,MESH:D009765,0,,1,HSPA5
+RNA binding,GO:0003723,Obesity,MESH:D009765,0,,5,AKAP1|FGGY|GH1|PPARGC1B|ZC3H10
+RNA-DNA hybrid ribonuclease activity,GO:0004523,Obesity,MESH:D009765,0,,1,AGRP
+RNA polymerase binding,GO:0070063,Obesity,MESH:D009765,1,Genistein,0,
+RNA polymerase II activity,GO:0001055,Obesity,MESH:D009765,0,,1,LDLR
+RNA polymerase II cis-regulatory region sequence-specific DNA binding,GO:0000978,Abdominal obesity metabolic syndrome,MESH:C535554,0,,1,PPARA
+RNA polymerase II cis-regulatory region sequence-specific DNA binding,GO:0000978,Obesity,MESH:D009765,0,,21,ACP5|CEBPA|CRP|DDIT3|EP300|ESR1|FOS|FOXO3|HOXB5|NHLH2|NR1I2|NR1I3|OGG1|PPARA|PPARD|PPARG|SIRT1|SREBF1|ZBTB7B|ZFHX3|ZNF169
+RNA polymerase II core promoter sequence-specific DNA binding,GO:0000979,Obesity,MESH:D009765,0,,2,FOS|PPARG
+RNA polymerase II-specific DNA-binding transcription factor binding,GO:0061629,Abdominal obesity metabolic syndrome,MESH:C535554,0,,1,PPARA
+RNA polymerase II-specific DNA-binding transcription factor binding,GO:0061629,Obesity,MESH:D009765,0,,8,AHR|CEBPA|DDIT3|EP300|FOS|NHLH2|PARP1|PPARA
+RNA polymerase II transcription regulatory region sequence-specific DNA binding,GO:0000977,Obesity,MESH:D009765,0,,7,F2|NHLH2|NR1I2|NR1I3|PPARG|SREBF1|ZNF169
+RNA polymerase I transcription regulatory region sequence-specific DNA binding,GO:0001163,Obesity,MESH:D009765,0,,1,CEBPA
+R-SMAD binding,GO:0070412,Obesity,MESH:D009765,0,,3,FOS|PARP1|PPARG
+S-adenosylmethionine-dependent methyltransferase activity,GO:0008757,Obesity,MESH:D009765,0,,1,FASN
+scaffold protein binding,GO:0097110,Obesity,MESH:D009765,0,,2,CASP1|CD163
+scavenger receptor activity,GO:0005044,Obesity,MESH:D009765,0,,3,CD163|ENPP1|RAPGEF3
+secondary active organic cation transmembrane transporter activity,GO:0008513,Obesity,MESH:D009765,0,,1,SLC22A1
+secondary active sulfate transmembrane transporter activity,GO:0008271,Obesity,MESH:D009765,0,,1,UCP2
+sedoheptulokinase activity,GO:0050277,Obesity,MESH:D009765,0,,1,TRPV1
+selenium binding,GO:0008430,Obesity,MESH:D009765,0,,1,GPX3
+sequence-specific DNA binding,GO:0043565,Abdominal obesity metabolic syndrome,MESH:C535554,0,,1,PPARA
+sequence-specific DNA binding,GO:0043565,Obesity,MESH:D009765,0,,15,AHR|CEBPA|CRP|DDIT3|ESR1|FOS|FOXO3|NR1I2|NR1I3|PPARA|PPARD|PPARG|SIRT3|SREBF1|TMEM18
+sequence-specific double-stranded DNA binding,GO:1990837,Obesity,MESH:D009765,0,,11,AHR|ESR1|FOS|FOXO3|HOXB5|NHLH2|NR1I2|NR1I3|PPARD|SREBF1|ZBTB7B
+serine hydrolase activity,GO:0017171,Obesity,MESH:D009765,0,,1,ACHE
+serine-type endopeptidase activity,GO:0004252,Obesity,MESH:D009765,0,,5,CD163|CTSS|F2|MMP9|PCSK1
+serine-type endopeptidase inhibitor activity,GO:0004867,Obesity,MESH:D009765,0,,1,SERPINE1
+serine-type peptidase activity,GO:0008236,Obesity,MESH:D009765,0,,2,F2|PCSK1
+serotonin binding,GO:0051378,Obesity,MESH:D009765,0,,2,HTR2A|HTR2C
+serotonin receptor activity,GO:0099589,Obesity,MESH:D009765,0,,2,HTR2A|HTR2C
+S-formylglutathione hydrolase activity,GO:0018738,Obesity,MESH:D009765,0,,1,HTR2A
+SH2 domain binding,GO:0042169,Obesity,MESH:D009765,0,,1,IRS1
+SH3 domain binding,GO:0017124,Obesity,MESH:D009765,0,,1,GPX1
+sialic acid binding,GO:0033691,Obesity,MESH:D009765,0,,1,ADIPOQ
+signaling adaptor activity,GO:0035591,Obesity,MESH:D009765,0,,2,IRS1|SH2B1
+signaling receptor activity,GO:0038023,Abdominal obesity metabolic syndrome,MESH:C535554,0,,1,PPARA
+signaling receptor activity,GO:0038023,Obesity,MESH:D009765,0,,6,CD40|ICAM1|MRC1|NPC1|PPARA|TNFRSF1B
+signaling receptor binding,GO:0005102,Obesity,MESH:D009765,0,,16,ADIPOQ|AGRP|APOE|CCL2|F2|GCG|IGFBP2|IL6|LBP|LEP|LPL|PMCH|POMC|PTPN1|SERPINE1|WNT3A
+signaling receptor binding,GO:0005102,"Obesity, Morbid",MESH:D009767,0,,2,BDNF|LEP
+signaling receptor binding,GO:0005102,Pediatric Obesity,MESH:D063766,0,,1,APOA1
+signaling receptor complex adaptor activity,GO:0030159,Obesity,MESH:D009765,0,,2,GNB3|IRS1
+signaling receptor inhibitor activity,GO:0030547,Obesity,MESH:D009765,0,,1,IGFBP2
+single-stranded DNA binding,GO:0003697,Obesity,MESH:D009765,0,,1,HMGB2
+single-stranded RNA binding,GO:0003727,Obesity,MESH:D009765,0,,3,NEGR1|PPM1L|ZFR2
+SMAD binding,GO:0046332,Obesity,MESH:D009765,0,,1,EP300
+small GTPase binding,GO:0031267,Obesity,MESH:D009765,0,,2,PRKCH|SOD1
+small molecule binding,GO:0036094,Obesity,MESH:D009765,0,,1,FASN
+sodium channel activity,GO:0005272,Obesity,MESH:D009765,2,Cadmium|Resveratrol,0,
+sodium channel activity,GO:0005272,Pediatric Obesity,MESH:D063766,1,Cadmium,0,
+spectrin binding,GO:0030507,Obesity,MESH:D009765,0,,1,GNB3
+spermidine binding,GO:0019809,Obesity,MESH:D009765,0,,1,SAT1
+spermidine transmembrane transporter activity,GO:0015606,Obesity,MESH:D009765,0,,3,SLC22A1|SLC22A2|SLC22A3
+starch synthase activity,GO:0009011,Obesity,MESH:D009765,3,Dietary Fats|Nicotine|Streptozocin,0,
+starch synthase activity,GO:0009011,"Obesity, Abdominal",MESH:D056128,1,Dietary Fats,0,
+STAT family protein binding,GO:0097677,Obesity,MESH:D009765,0,,3,CEBPA|EP300|PPARG
+stearoyl-CoA 9-desaturase activity,GO:0004768,Obesity,MESH:D009765,0,,2,CYB5A|SCD1
+stem cell factor receptor activity,GO:0005020,Obesity,MESH:D009765,0,,1,NTRK2
+stem cell factor receptor activity,GO:0005020,"Obesity, Hyperphagia, and Developmental Delay",MESH:C563938,0,,1,NTRK2
+stem cell factor receptor binding,GO:0005173,Obesity,MESH:D009765,0,,1,KITL
+steroid 17-alpha-monooxygenase activity,GO:0004508,Obesity,MESH:D009765,0,,1,CYP1B1
+steroid binding,GO:0005496,Obesity,MESH:D009765,0,,3,ESR1|HSD11B1|SLC22A2
+steroid binding,GO:0005496,"Obesity, Abdominal",MESH:D056128,0,,1,HSD11B1
+steroid hormone binding,GO:1990239,Obesity,MESH:D009765,0,,1,ESR1
+steroid hydroxylase activity,GO:0008395,Obesity,MESH:D009765,1,bisphenol A,0,
+steroid hydroxylase activity,GO:0008395,"Obesity, Abdominal",MESH:D056128,1,bisphenol A,0,
+sterol esterase activity,GO:0004771,Obesity,MESH:D009765,0,,2,CES1|CES1G
+sterol response element binding,GO:0032810,Obesity,MESH:D009765,0,,1,SREBF1
+steryl-sulfatase activity,GO:0004773,Obesity,MESH:D009765,0,,1,STS
+structural constituent of muscle,GO:0008307,Obesity,MESH:D009765,0,,1,CRP
+structural constituent of ribosome,GO:0003735,Obesity,MESH:D009765,0,,2,CYB5A|NQO1
+structural molecule activity,GO:0005198,Obesity,MESH:D009765,0,,2,APOE|HMOX1
+succinate-CoA ligase activity,GO:0004774,Obesity,MESH:D009765,0,,1,SUCLA2
+succinate-CoA ligase (ADP-forming) activity,GO:0004775,Obesity,MESH:D009765,0,,2,SUCLA2|SUCLG2
+succinate-CoA ligase (GDP-forming) activity,GO:0004776,Obesity,MESH:D009765,0,,1,SUCLG2
+succinate dehydrogenase activity,GO:0000104,Obesity,MESH:D009765,10,Bezafibrate|bisphenol A|Cadmium|celastrol|Curcumin|deoxynivalenol|Dietary Fats|herbacetin|Plant Extracts|Streptozocin,0,
+succinate dehydrogenase activity,GO:0000104,"Obesity, Abdominal",MESH:D056128,2,bisphenol A|Dietary Fats,0,
+succinate dehydrogenase activity,GO:0000104,Pediatric Obesity,MESH:D063766,1,Cadmium,0,
+succinate dehydrogenase (ubiquinone) activity,GO:0008177,Obesity,MESH:D009765,19,Acetylcysteine|AM 251|Berberine|Bezafibrate|bisphenol A|Cadmium|celastrol|Curcumin|deoxynivalenol|Dietary Fats|Dronabinol|Glucose|herbacetin|Lead|Lithium|Mercury|Quercetin|Streptozocin|Valproic Acid,0,
+succinate dehydrogenase (ubiquinone) activity,GO:0008177,"Obesity, Abdominal",MESH:D056128,2,bisphenol A|Dietary Fats,0,
+succinate dehydrogenase (ubiquinone) activity,GO:0008177,Pediatric Obesity,MESH:D063766,1,Cadmium,0,
+succinate-semialdehyde dehydrogenase (NAD+) activity,GO:0004777,Obesity,MESH:D009765,0,,1,SUCLG2
+sucrose alpha-glucosidase activity,GO:0004575,Obesity,MESH:D009765,5,bisphenol A|Folic Acid|geraniol|Lead|Streptozocin,0,
+sucrose alpha-glucosidase activity,GO:0004575,"Obesity, Abdominal",MESH:D056128,1,bisphenol A,0,
+sucrose alpha-glucosidase activity,GO:0004575,Pediatric Obesity,MESH:D063766,1,Vitamin B 12,0,
+sulfotransferase activity,GO:0008146,Obesity,MESH:D009765,1,Plant Extracts,1,KCTD15
+sulfuric ester hydrolase activity,GO:0008484,Obesity,MESH:D009765,0,,1,STS
+supercoiled DNA binding,GO:0097100,Obesity,MESH:D009765,0,,1,HMGB2
+superoxide dismutase activity,GO:0004784,Obesity,MESH:D009765,78,"2,2',4,4'-tetrabromodiphenyl ether|2,4,5,2',4',5'-hexachlorobiphenyl|3-(indol-3-yl)propionic acid|Acetylcysteine|alpha-naphthoflavone|AM 251|Ascorbic Acid|Atorvastatin|Atrazine|azoxystrobin|Barium|Berberine|Bezafibrate|bisphenol A|bisphenol S|Cadmium|Capsaicin|celastrol|Chlorpyrifos|Cholesterol, Dietary|cobaltiprotoporphyrin|Curcumin|Cyclosporine|cyhalothrin|dapagliflozin|DDT|deoxynivalenol|Dietary Carbohydrates|Dietary Fats|Dietary Sugars|Diethylhexyl Phthalate|Diethylnitrosamine|Diethylstilbestrol|Dronabinol|Ephedrine|evodiamine|Fatty Acids, Nonesterified|Folic Acid|Fructose|Genistein|geraniol|Glucose|Glutathione|Glyphosate|herbacetin|Lead|Manganese|manganese(III)-tetrakis(4-benzoic acid)porphyrin|Mercury|Metformin|naringenin|Nicotine|Oleanolic Acid|Orlistat|Particulate Matter|p-coumaric acid|Pesticides|Phthalic Acids|Pioglitazone|Plant Extracts|Polystyrenes|Prednisolone|puag-haad|Quercetin|Resveratrol|Rosiglitazone|Silymarin|Sodium Glutamate|Streptozocin|Taurine|Telmisartan|Tetrachlorodibenzodioxin|Topiramate|tris(chloroethyl)phosphate|Valproic Acid|Vehicle Emissions|Water Pollutants, Chemical|Yohimbine",3,NQO1|SOD1|SOD2
+superoxide dismutase activity,GO:0004784,"Obesity, Abdominal",MESH:D056128,9,agomelatine|Air Pollutants|bisphenol A|bisphenol F|bisphenol S|Dietary Fats|Letrozole|Particulate Matter|Tetrachlorodibenzodioxin,0,
+superoxide dismutase activity,GO:0004784,Pediatric Obesity,MESH:D063766,4,bisphenol S|Cadmium|Hexachlorobenzene|Vitamin B 12,0,
+superoxide-generating NADPH oxidase activity,GO:0106292,Obesity,MESH:D009765,4,bisphenol A|Curcumin|Glucose|Quercetin,0,
+superoxide-generating NADPH oxidase activity,GO:0106292,"Obesity, Abdominal",MESH:D056128,1,bisphenol A,0,
+symporter activity,GO:0015293,Obesity,MESH:D009765,0,,1,SLC16A7
+tau protein binding,GO:0048156,Obesity,MESH:D009765,0,,2,APOE|EP300
+TBP-class protein binding,GO:0017025,Obesity,MESH:D009765,0,,2,AHR|ESR1
+telomerase activity,GO:0003720,Obesity,MESH:D009765,4,Acetylcysteine|bisphenol A|Glutathione|Particulate Matter,0,
+telomerase activity,GO:0003720,"Obesity, Abdominal",MESH:D056128,3,Air Pollutants|bisphenol A|Particulate Matter,0,
+temperature-gated ion channel activity,GO:0097603,Obesity,MESH:D009765,0,,1,TRPV1
+testosterone 17-beta-dehydrogenase (NADP+) activity,GO:0047045,Obesity,MESH:D009765,0,,1,AKR1C3
+testosterone 6-beta-hydroxylase activity,GO:0050649,Obesity,MESH:D009765,0,,1,CYP1B1
+testosterone dehydrogenase (NAD+) activity,GO:0047035,Obesity,MESH:D009765,0,,1,AKR1C3
+testosterone dehydrogenase [NAD(P)] activity,GO:0030283,Obesity,MESH:D009765,2,bisphenol A|cyhalothrin,1,AKR1C3
+testosterone dehydrogenase [NAD(P)] activity,GO:0030283,"Obesity, Abdominal",MESH:D056128,1,bisphenol A,0,
+TFIIB-class transcription factor binding,GO:0001093,Obesity,MESH:D009765,0,,1,ESR1
+TFIID-class transcription factor complex binding,GO:0001094,Obesity,MESH:D009765,0,,1,AHR
+thiamine transmembrane transporter activity,GO:0015234,Obesity,MESH:D009765,0,,2,SLC22A1|SLC22A2
+thiolester hydrolase activity,GO:0016790,Obesity,MESH:D009765,0,,1,ALDH6A1
+thioredoxin-disulfide reductase activity,GO:0004791,Obesity,MESH:D009765,7,Ascorbic Acid|Cadmium|Curcumin|geraniol|Mercury|Quercetin|Streptozocin,0,
+thioredoxin-disulfide reductase activity,GO:0004791,Pediatric Obesity,MESH:D063766,1,Cadmium,0,
+thrombospondin receptor activity,GO:0070053,Obesity,MESH:D009765,0,,1,F2
+TORC2 complex binding,GO:1904841,Obesity,MESH:D009765,0,,1,AKT1
+toxic substance binding,GO:0015643,Obesity,MESH:D009765,0,,1,AHR
+toxin transmembrane transporter activity,GO:0019534,Obesity,MESH:D009765,0,,3,SLC22A1|SLC22A2|SLC22A3
+transaminase activity,GO:0008483,Obesity,MESH:D009765,3,"Glyphosate|Plant Extracts|Water Pollutants, Chemical",1,GFPT1
+transcription cis-regulatory region binding,GO:0000976,Obesity,MESH:D009765,0,,9,AHR|CEBPA|DDIT3|FOS|FOXO3|HMGB2|PPARG|TNF|ZFHX3
+transcription coactivator activity,GO:0003713,ABDOMINAL OBESITY-METABOLIC SYNDROME 3,OMIM:615812,0,,1,DYRK1B
+transcription coactivator activity,GO:0003713,Obesity,MESH:D009765,0,,5,EP300|HMGB2|PPARGC1B|SIRT1|WNT3A
+transcription coactivator binding,GO:0001223,Abdominal obesity metabolic syndrome,MESH:C535554,0,,1,PPARA
+transcription coactivator binding,GO:0001223,Obesity,MESH:D009765,0,,7,AHR|EP300|ESR1|PPARA|PPARD|PPARG|SIRT1
+transcription coregulator activity,GO:0003712,Obesity,MESH:D009765,0,,1,PPARGC1B
+transcription coregulator binding,GO:0001221,Obesity,MESH:D009765,0,,6,EP300|ESR1|FOS|FOXO3|PPARG|SREBF1
+transcription corepressor activity,GO:0003714,Obesity,MESH:D009765,0,,3,DDIT3|NR0B2|SIRT1
+transcription corepressor binding,GO:0001222,Obesity,MESH:D009765,0,,1,ESR1
+transcription factor binding,GO:0008134,Abdominal obesity metabolic syndrome,MESH:C535554,0,,1,PPARA
+transcription factor binding,GO:0008134,Obesity,MESH:D009765,0,,7,CEBPA|DDIT3|ESR1|HMGB2|NR0B2|PPARA|PPARGC1B
+transcription regulator activator activity,GO:0140537,Obesity,MESH:D009765,0,,2,DDIT3|PARP1
+transcription regulator inhibitor activity,GO:0140416,Obesity,MESH:D009765,0,,2,DDIT3|NR0B2
+transferase activity,GO:0016740,ABDOMINAL OBESITY-METABOLIC SYNDROME 3,OMIM:615812,0,,1,DYRK1B
+transferase activity,GO:0016740,Obesity,MESH:D009765,0,,14,ACLY|AKT1|CS|FASN|FGGY|FTO|GFPT1|HADH|HK2|PARP1|PCK1|PFKFB3|SIRT1|SIRT3
+transferase activity,GO:0016740,Pediatric Obesity,MESH:D063766,0,,1,FTO
+transferrin receptor activity,GO:0004998,Obesity,MESH:D009765,0,,1,TFRC
+transferrin receptor binding,GO:1990459,Obesity,MESH:D009765,0,,1,TF
+transketolase activity,GO:0004802,Obesity,MESH:D009765,1,Glucose,0,
+translation regulator activity,GO:0045182,Obesity,MESH:D009765,0,,1,PRKCH
+transmembrane-ephrin receptor activity,GO:0005005,Obesity,MESH:D009765,0,,1,NTRK2
+transmembrane-ephrin receptor activity,GO:0005005,"Obesity, Hyperphagia, and Developmental Delay",MESH:C563938,0,,1,NTRK2
+transmembrane receptor protein serine/threonine kinase activity,GO:0004675,Obesity,MESH:D009765,0,,1,NTRK2
+transmembrane receptor protein serine/threonine kinase activity,GO:0004675,"Obesity, Hyperphagia, and Developmental Delay",MESH:C563938,0,,1,NTRK2
+transmembrane receptor protein tyrosine kinase activator activity,GO:0030297,Obesity,MESH:D009765,0,,1,IGF2
+transmembrane receptor protein tyrosine kinase activity,GO:0004714,Obesity,MESH:D009765,0,,1,NTRK2
+transmembrane receptor protein tyrosine kinase activity,GO:0004714,"Obesity, Hyperphagia, and Developmental Delay",MESH:C563938,0,,1,NTRK2
+transmembrane receptor protein tyrosine kinase adaptor activity,GO:0005068,Obesity,MESH:D009765,0,,2,IRS1|SH2B1
+transmembrane signaling receptor activity,GO:0004888,Obesity,MESH:D009765,0,,8,CD40|FCGR3B|ICAM1|LEPR|MRC1|NPC1|TNFRSF1B|TRPV1
+transmembrane signaling receptor activity,GO:0004888,"Obesity, Morbid",MESH:D009767,0,,1,LEPR
+transmembrane transporter activity,GO:0022857,Obesity,MESH:D009765,0,,4,SLC16A7|SLC22A2|SLC22A3|UCP1
+transmembrane transporter binding,GO:0044325,Obesity,MESH:D009765,0,,4,NEGR1|PACS1|RAPGEF3|TF
+triglyceride binding,GO:0017129,Obesity,MESH:D009765,0,,1,LPL
+triglyceride binding,GO:0017129,Pediatric Obesity,MESH:D063766,0,,1,CETP
+triglyceride lipase activity,GO:0004806,Obesity,MESH:D009765,1,Dietary Fats,1,LPL
+triglyceride lipase activity,GO:0004806,"Obesity, Abdominal",MESH:D056128,1,Dietary Fats,0,
+tRNA demethylase activity,GO:1990984,Obesity,MESH:D009765,0,,1,FTO
+tRNA demethylase activity,GO:1990984,Pediatric Obesity,MESH:D063766,0,,1,FTO
+tRNA-intron endonuclease activity,GO:0000213,Obesity,MESH:D009765,0,,1,PPARG
+"tryptophan 2,3-dioxygenase activity",GO:0004833,Obesity,MESH:D009765,2,Cadmium|Quercetin,1,IDO1
+"tryptophan 2,3-dioxygenase activity",GO:0004833,Pediatric Obesity,MESH:D063766,1,Cadmium,0,
+tumor necrosis factor binding,GO:0043120,Obesity,MESH:D009765,0,,1,TNFRSF1B
+tumor necrosis factor receptor activity,GO:0005031,Obesity,MESH:D009765,0,,2,CD40|TNFRSF1B
+tumor necrosis factor receptor binding,GO:0005164,Obesity,MESH:D009765,0,,1,TNF
+type 1 melanin-concentrating hormone receptor binding,GO:0031777,Obesity,MESH:D009765,0,,1,PMCH
+type 1 melanocortin receptor binding,GO:0070996,Obesity,MESH:D009765,0,,2,AGRP|POMC
+type 1 metabotropic glutamate receptor binding,GO:0031798,Obesity,MESH:D009765,0,,1,ESR1
+type 1 orexin receptor binding,GO:0031771,Obesity,MESH:D009765,0,,1,HCRT
+type 2 orexin receptor binding,GO:0031772,Obesity,MESH:D009765,0,,1,HCRT
+type 3 melanocortin receptor binding,GO:0031781,Obesity,MESH:D009765,0,,3,A|AGRP|POMC
+type 4 melanocortin receptor binding,GO:0031782,Obesity,MESH:D009765,0,,3,A|AGRP|POMC
+tyrosinase activity,GO:0004503,Obesity,MESH:D009765,2,bisphenol A|Diethylhexyl Phthalate,0,
+tyrosinase activity,GO:0004503,"Obesity, Abdominal",MESH:D056128,1,bisphenol A,0,
+ubiquinol-cytochrome-c reductase activity,GO:0008121,Obesity,MESH:D009765,8,azoxystrobin|bisphenol A|Cadmium|Curcumin|deoxynivalenol|herbacetin|Lead|Mercury,0,
+ubiquinol-cytochrome-c reductase activity,GO:0008121,"Obesity, Abdominal",MESH:D056128,1,bisphenol A,0,
+ubiquinol-cytochrome-c reductase activity,GO:0008121,Pediatric Obesity,MESH:D063766,1,Cadmium,0,
+ubiquinone binding,GO:0048039,Obesity,MESH:D009765,0,,1,ETFDH
+ubiquitin conjugating enzyme binding,GO:0031624,Abdominal obesity metabolic syndrome,MESH:C535554,0,,1,PPARA
+ubiquitin conjugating enzyme binding,GO:0031624,Obesity,MESH:D009765,0,,1,PPARA
+ubiquitin protein ligase activity,GO:0061630,Obesity,MESH:D009765,0,,1,INS
+ubiquitin protein ligase binding,GO:0031625,Obesity,MESH:D009765,0,,7,CD40|HSPA5|MC4R|PARP1|PRKAR1A|PRKAR2B|TNFRSF1B
+ubiquitin protein ligase binding,GO:0031625,"Obesity, Morbid",MESH:D009767,0,,1,MC4R
+ubiquitin-protein transferase activity,GO:0004842,Obesity,MESH:D009765,0,,1,SERPINE1
+UDP phosphatase activity,GO:0045134,Obesity,MESH:D009765,0,,1,ENTPD6
+unfolded protein binding,GO:0051082,Obesity,MESH:D009765,0,,2,HSPA5|STS
+uracil binding,GO:0002058,Obesity,MESH:D009765,0,,1,DPYD
+urea channel activity,GO:0015265,Obesity,MESH:D009765,0,,1,AQP7
+urea transmembrane transporter activity,GO:0015204,Obesity,MESH:D009765,0,,1,AQP7
+UTP diphosphatase activity,GO:0036221,Obesity,MESH:D009765,0,,1,ENPP1
+vascular endothelial growth factor receptor activity,GO:0005021,Obesity,MESH:D009765,0,,1,NTRK2
+vascular endothelial growth factor receptor activity,GO:0005021,"Obesity, Hyperphagia, and Developmental Delay",MESH:C563938,0,,1,NTRK2
+very-low-density lipoprotein particle binding,GO:0034189,Obesity,MESH:D009765,0,,1,VLDLR
+very-low-density lipoprotein particle receptor activity,GO:0030229,Obesity,MESH:D009765,0,,2,LDLR|VLDLR
+very-low-density lipoprotein particle receptor binding,GO:0070326,Obesity,MESH:D009765,0,,1,APOE
+virus receptor activity,GO:0001618,Obesity,MESH:D009765,0,,6,HTR2A|ICAM1|LDLR|MRC1|NPC1|TFRC
+voltage-gated calcium channel activity,GO:0005245,Obesity,MESH:D009765,3,bisphenol A|bisphenol S|Glucose,1,TRPV1
+voltage-gated calcium channel activity,GO:0005245,"Obesity, Abdominal",MESH:D056128,2,bisphenol A|bisphenol S,0,
+voltage-gated calcium channel activity,GO:0005245,Pediatric Obesity,MESH:D063766,1,bisphenol S,0,
+voltage-gated monoatomic ion channel activity,GO:0005244,Obesity,MESH:D009765,1,geraniol,0,
+voltage-gated potassium channel activity,GO:0005249,Obesity,MESH:D009765,3,bisphenol A|Glucose|Valproic Acid,2,KCNMA1|VLDLR
+voltage-gated potassium channel activity,GO:0005249,"Obesity, Abdominal",MESH:D056128,1,bisphenol A,0,
+voltage-gated potassium channel activity,GO:0005249,"Obesity, Morbid",MESH:D009767,0,,1,KCNMA1
+voltage-gated sodium channel activity,GO:0005248,Obesity,MESH:D009765,1,bisphenol A,0,
+voltage-gated sodium channel activity,GO:0005248,"Obesity, Abdominal",MESH:D056128,1,bisphenol A,0,
+voltage-gated sodium channel activity involved in cardiac muscle cell action potential,GO:0086006,Obesity,MESH:D009765,1,bisphenol A,0,
+voltage-gated sodium channel activity involved in cardiac muscle cell action potential,GO:0086006,"Obesity, Abdominal",MESH:D056128,1,bisphenol A,0,
+water channel activity,GO:0015250,Obesity,MESH:D009765,0,,1,AQP7
+water transmembrane transporter activity,GO:0005372,Obesity,MESH:D009765,0,,1,AQP7
+wide pore channel activity,GO:0022829,Obesity,MESH:D009765,1,Rimonabant,0,
+Wnt-protein binding,GO:0017147,Obesity,MESH:D009765,0,,1,APCDD1
+WW domain binding,GO:0050699,Obesity,MESH:D009765,0,,1,PPARG
+xanthine oxidase activity,GO:0004855,Obesity,MESH:D009765,3,evodiamine|naringenin|Quercetin,0,
+xenobiotic transmembrane transporter activity,GO:0042910,Obesity,MESH:D009765,0,,2,SLC22A1|SLC22A2
+zinc ion binding,GO:0008270,Abdominal obesity metabolic syndrome,MESH:C535554,0,,1,PPARA
+zinc ion binding,GO:0008270,Obesity,MESH:D009765,0,,27,ADH1B|CA3|CPB2|CPE|ENPP1|EP300|ESR1|MMP9|NEIL1|NR1I2|NR1I3|OGG1|PARP1|PPARA|PPARD|PPARG|PRKCH|PTPN1|RAI1|SERPINE1|SIRT3|SOD1|ZBTB7B|ZC3H10|ZFHX3|ZFR2|ZNF169
+zinc ion binding,GO:0008270,"Obesity, Morbid",MESH:D009767,0,,1,KSR2

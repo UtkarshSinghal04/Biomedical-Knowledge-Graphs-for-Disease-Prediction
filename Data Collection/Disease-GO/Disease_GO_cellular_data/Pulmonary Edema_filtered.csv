@@ -1,0 +1,138 @@
+GOName,GOID,DiseaseName,DiseaseID,InferenceChemicalQty,InferenceChemicalNames,InferenceGeneQty,InferenceGeneSymbols
+3-methyl-2-oxobutanoate dehydrogenase (lipoamide) complex,GO:0017086,Pulmonary Edema,MESH:D011654,1,Simvastatin,0,
+actin cap,GO:0030478,Pulmonary edema of mountaineers,MESH:C535833,1,cobaltous chloride,0,
+actin filament,GO:0005884,Pulmonary Edema,MESH:D011654,1,Cadmium,0,
+actin filament bundle,GO:0032432,Pulmonary Edema,MESH:D011654,1,Particulate Matter,0,
+alveolar lamellar body,GO:0097208,Pulmonary Edema,MESH:D011654,2,Acetylcysteine|Particulate Matter,0,
+amyloid-beta complex,GO:0106003,Pulmonary Edema,MESH:D011654,2,ferulic acid|Paraquat,0,
+apical part of cell,GO:0045177,Pulmonary Edema,MESH:D011654,0,,1,NOS3
+apoptotic body,GO:0097189,Pulmonary Edema,MESH:D011654,7,Arsenic|Arsenic Trioxide|Cadmium|Glycyrrhizic Acid|Indomethacin|Nickel|Quercetin,0,
+autolysosome,GO:0044754,Pulmonary Edema,MESH:D011654,11,Arsenic Trioxide|Cadmium|Calcitriol|Curcumin|Doxorubicin|Metformin|Methamphetamine|Oleic Acid|Paraquat|Sertraline|Sevoflurane,0,
+autophagosome,GO:0005776,Pulmonary Edema,MESH:D011654,19,"Acetaminophen|Arsenic|Arsenic Trioxide|Berberine|Cadmium|Doxorubicin|Ethanol|ferulic acid|Indomethacin|Iohexol|lipopolysaccharide, E coli O55-B5|Lithium Chloride|Melatonin|Metformin|Methamphetamine|Nickel|Paraquat|Resveratrol|Sevoflurane",0,
+axonal spine,GO:0044308,Pulmonary Edema,MESH:D011654,1,Cadmium,0,
+axon terminus,GO:0043679,Pulmonary Edema,MESH:D011654,0,,1,GHRH
+basolateral plasma membrane,GO:0016323,Pulmonary Edema,MESH:D011654,0,,1,TGFA
+Cajal body,GO:0015030,Pulmonary Edema,MESH:D011654,0,,1,PARP1
+cardiac Troponin complex,GO:1990584,Pulmonary Edema,MESH:D011654,2,Doxorubicin|Isoproterenol,0,
+catalase complex,GO:0062151,Pulmonary Edema,MESH:D011654,0,,1,CAT
+CatSper complex,GO:0036128,Pulmonary Edema,MESH:D011654,1,bisphenol A,0,
+caveola,GO:0005901,Pulmonary Edema,MESH:D011654,0,,1,NOS3
+cell-cell junction,GO:0005911,Pulmonary Edema,MESH:D011654,2,bisphenol A|Fluorouracil,0,
+cell periphery,GO:0071944,Pulmonary Edema,MESH:D011654,0,,1,ADIPOQ
+cell projection,GO:0042995,Pulmonary Edema,MESH:D011654,1,Lipopolysaccharides,0,
+cell surface,GO:0009986,Pulmonary Edema,MESH:D011654,0,,3,ADIPOQ|TGFA|TNF
+cellular_component,GO:0005575,Pulmonary Edema,MESH:D011654,0,,1,HSPA12B
+chromatin,GO:0000785,Pulmonary Edema,MESH:D011654,0,,1,PARP1
+chromosome,GO:0005694,Pulmonary Edema,MESH:D011654,0,,1,PARP1
+clathrin-coated endocytic vesicle membrane,GO:0030669,Pulmonary Edema,MESH:D011654,0,,1,TGFA
+collagen trimer,GO:0005581,Pulmonary Edema,MESH:D011654,0,,1,ADIPOQ
+cortical granule,GO:0060473,Pulmonary Edema,MESH:D011654,2,Lipopolysaccharides|Resveratrol,0,
+creatine kinase complex,GO:0002185,Pulmonary Edema,MESH:D011654,1,aluminum phosphide,0,
+cytoplasm,GO:0005737,Pulmonary Edema,MESH:D011654,0,,4,CAT|NLRP3|NOS3|PARP1
+cytoplasmic vesicle,GO:0031410,Pulmonary Edema,MESH:D011654,0,,1,TGFA
+cytoskeleton,GO:0005856,Pulmonary Edema,MESH:D011654,0,,1,NOS3
+cytosol,GO:0005829,Pulmonary Edema,MESH:D011654,0,,4,CAT|NLRP3|NOS3|PARP1
+cytosol,GO:0005829,Pulmonary edema of mountaineers,MESH:C535833,0,,1,GUCY1A1
+dendritic branch,GO:0044307,Pulmonary Edema,MESH:D011654,2,bisphenol A|Dexamethasone,0,
+dendritic cell dendrite,GO:0097511,Pulmonary Edema,MESH:D011654,1,Chlorpyrifos,0,
+dendritic spine,GO:0043197,Pulmonary Edema,MESH:D011654,3,bisphenol A|Dronabinol|Methamphetamine,0,
+"DNA topoisomerase type II (double strand cut, ATP-hydrolyzing) complex",GO:0009330,Pulmonary Edema,MESH:D011654,1,Arsenic Trioxide,0,
+endocytic vesicle membrane,GO:0030666,Pulmonary Edema,MESH:D011654,0,,1,NOS3
+endoplasmic reticulum,GO:0005783,Pulmonary Edema,MESH:D011654,0,,2,ADIPOQ|NLRP3
+endoplasmic reticulum-Golgi intermediate compartment membrane,GO:0033116,Pulmonary Edema,MESH:D011654,0,,1,TGFA
+endoplasmic reticulum membrane,GO:0005789,Pulmonary Edema,MESH:D011654,0,,1,TGFA
+ER to Golgi transport vesicle membrane,GO:0012507,Pulmonary Edema,MESH:D011654,0,,1,TGFA
+euchromatin,GO:0000791,Pulmonary Edema,MESH:D011654,0,,1,PARP1
+external side of plasma membrane,GO:0009897,Pulmonary Edema,MESH:D011654,0,,2,IL17A|TNF
+extracellular region,GO:0005576,Pulmonary Edema,MESH:D011654,0,,7,ADIPOQ|CAT|GHRH|IL17A|NLRP3|TGFA|TNF
+extracellular space,GO:0005615,Pulmonary Edema,MESH:D011654,0,,7,ADIPOQ|CAT|GHRH|IL17A|OVAL|TGFA|TNF
+extracellular vesicle,GO:1903561,Pulmonary Edema,MESH:D011654,6,Arsenic|Cadmium|Nickel|Oxygen|Ozone|Vehicle Emissions,0,
+ferritin complex,GO:0070288,Pulmonary Edema,MESH:D011654,1,bisphenol A,0,
+ficolin-1-rich granule lumen,GO:1904813,Pulmonary Edema,MESH:D011654,0,,1,CAT
+filamentous actin,GO:0031941,Pulmonary Edema,MESH:D011654,4,Acrolein|bisphenol A|Dexamethasone|Ozone,0,
+GABA-ergic synapse,GO:0098982,Pulmonary edema of mountaineers,MESH:C535833,0,,1,GUCY1A1
+germinal vesicle,GO:0042585,Pulmonary Edema,MESH:D011654,1,Cyclophosphamide,0,
+glial cell projection,GO:0097386,Pulmonary Edema,MESH:D011654,1,"lipopolysaccharide, E coli O55-B5",0,
+glutamatergic synapse,GO:0098978,Pulmonary edema of mountaineers,MESH:C535833,0,,1,GUCY1A1
+glycogen granule,GO:0042587,Pulmonary Edema,MESH:D011654,1,Ethanol,0,
+Golgi apparatus,GO:0005794,Pulmonary Edema,MESH:D011654,0,,1,NOS3
+Golgi membrane,GO:0000139,Pulmonary Edema,MESH:D011654,0,,2,NLRP3|NOS3
+growth cone filopodium,GO:1990812,Pulmonary Edema,MESH:D011654,1,Ethanol,0,
+"guanylate cyclase complex, soluble",GO:0008074,Pulmonary edema of mountaineers,MESH:C535833,0,,1,GUCY1A1
+histone locus body,GO:0035363,Pulmonary Edema,MESH:D011654,0,,1,PARP1
+hyaline inclusion,GO:0097412,Pulmonary Edema,MESH:D011654,1,Doxorubicin,0,
+"IgE immunoglobulin complex, circulating",GO:0071743,Pulmonary Edema,MESH:D011654,3,bisphenol A|Dexamethasone|Particulate Matter,0,
+IgG immunoglobulin complex,GO:0071735,Pulmonary Edema,MESH:D011654,1,Boron,0,
+"IgG immunoglobulin complex, circulating",GO:0071736,Pulmonary Edema,MESH:D011654,1,Dexamethasone,0,
+inflammasome complex,GO:0061702,Pulmonary Edema,MESH:D011654,1,"lipopolysaccharide, Escherichia coli O111 B4",1,NLRP3
+inhibin B complex,GO:0043513,Pulmonary Edema,MESH:D011654,1,bisphenol A,0,
+interphase microtubule organizing center,GO:0031021,Pulmonary Edema,MESH:D011654,0,,1,NLRP3
+intracellular anatomical structure,GO:0005622,Pulmonary Edema,MESH:D011654,0,,1,TNF
+intracellular membrane-bounded organelle,GO:0043231,Pulmonary Edema,MESH:D011654,0,,1,CAT
+laminin complex,GO:0043256,Pulmonary Edema,MESH:D011654,1,Thioctic Acid,0,
+lysosome,GO:0005764,Pulmonary Edema,MESH:D011654,2,Acetaminophen|Acetylcysteine,0,
+m-AAA complex,GO:0005745,Pulmonary Edema,MESH:D011654,0,,1,PARP1
+major mitochondrial derivative,GO:0016008,Pulmonary Edema,MESH:D011654,0,,1,CAT
+membrane,GO:0016020,Pulmonary Edema,MESH:D011654,0,,4,NLRP3|PARP1|TGFA|TNF
+membrane raft,GO:0045121,Pulmonary Edema,MESH:D011654,0,,1,TNF
+microtubule organizing center,GO:0005815,Pulmonary Edema,MESH:D011654,0,,1,NLRP3
+mitochondria-associated endoplasmic reticulum membrane,GO:0044233,Pulmonary Edema,MESH:D011654,2,Cadmium|Particulate Matter,0,
+mitochondrial chromosome,GO:0000262,Pulmonary Edema,MESH:D011654,1,bisphenol A,0,
+mitochondrial membrane,GO:0031966,Pulmonary Edema,MESH:D011654,2,Cadmium|Oleic Acid,0,
+mitochondrial permeability transition pore complex,GO:0005757,Pulmonary Edema,MESH:D011654,5,Arsenic Trioxide|Doxorubicin|Iohexol|Nifedipine|Quercetin,0,
+mitochondrial proton-transporting ATP synthase complex,GO:0005753,Pulmonary Edema,MESH:D011654,1,Lipopolysaccharides,0,
+mitochondrial respiratory chain complex I,GO:0005747,Pulmonary Edema,MESH:D011654,2,ferulic acid|Lipopolysaccharides,0,
+mitochondrial respiratory chain complex III,GO:0005750,Pulmonary Edema,MESH:D011654,1,Lipopolysaccharides,0,
+"mitochondrial respiratory chain complex II, succinate dehydrogenase complex (ubiquinone)",GO:0005749,Pulmonary Edema,MESH:D011654,1,ferulic acid,0,
+mitochondrial respiratory chain complex IV,GO:0005751,Pulmonary Edema,MESH:D011654,1,ferulic acid,0,
+mitochondrion,GO:0005739,Pulmonary Edema,MESH:D011654,7,"Bupivacaine|Curcumin|Ethanol|Isoproterenol|N-(oxo-5,6-dihydrophenanthridin-2-yl)-N,N-dimethylacetamide hydrochloride|Paraquat|Particulate Matter",3,CAT|NLRP3|PARP1
+mucus layer,GO:0070701,Pulmonary Edema,MESH:D011654,1,Particulate Matter,0,
+NADH dehydrogenase complex,GO:0030964,Pulmonary Edema,MESH:D011654,1,bisphenol A,0,
+NADPH oxidase complex,GO:0043020,Pulmonary Edema,MESH:D011654,1,Curcumin,0,
+neuronal cell body,GO:0043025,Pulmonary Edema,MESH:D011654,1,bisphenol A,1,TNF
+neuron projection,GO:0043005,Pulmonary Edema,MESH:D011654,5,Aspirin|Lidocaine|Oxygen|Paraquat|Tretinoin,0,
+neutrophil extracellular trap,GO:0140644,Pulmonary Edema,MESH:D011654,4,Acetaminophen|Acrolein|Arsenic|bisphenol A,0,
+NLRP1 inflammasome complex,GO:0072558,Pulmonary Edema,MESH:D011654,1,Doxorubicin,0,
+NLRP3 inflammasome complex,GO:0072559,Pulmonary Edema,MESH:D011654,1,Lipopolysaccharides,1,NLRP3
+nuclear aryl hydrocarbon receptor complex,GO:0034753,Pulmonary Edema,MESH:D011654,1,beta-Naphthoflavone,0,
+nuclear body,GO:0016604,Pulmonary Edema,MESH:D011654,0,,1,PARP1
+nuclear envelope,GO:0005635,Pulmonary Edema,MESH:D011654,0,,1,PARP1
+nuclear replication fork,GO:0043596,Pulmonary Edema,MESH:D011654,0,,1,PARP1
+nucleolus,GO:0005730,Pulmonary Edema,MESH:D011654,0,,1,PARP1
+nucleoplasm,GO:0005654,Pulmonary Edema,MESH:D011654,0,,1,PARP1
+nucleus,GO:0005634,Pulmonary Edema,MESH:D011654,0,,3,NLRP3|NOS3|PARP1
+paraspeckles,GO:0042382,Pulmonary Edema,MESH:D011654,1,Paraquat,0,
+P-body,GO:0000932,Pulmonary Edema,MESH:D011654,1,Arsenic,0,
+perikaryon,GO:0043204,Pulmonary Edema,MESH:D011654,0,,1,GHRH
+perinuclear region of cytoplasm,GO:0048471,Pulmonary Edema,MESH:D011654,0,,2,ADIPOQ|TGFA
+peroxisomal matrix,GO:0005782,Pulmonary Edema,MESH:D011654,0,,1,CAT
+peroxisomal membrane,GO:0005778,Pulmonary Edema,MESH:D011654,0,,1,CAT
+peroxisome,GO:0005777,Pulmonary Edema,MESH:D011654,0,,1,CAT
+phagocytic cup,GO:0001891,Pulmonary Edema,MESH:D011654,1,bisphenol A,1,TNF
+phagophore,GO:0061908,Pulmonary Edema,MESH:D011654,1,Paraquat,0,
+plasma membrane,GO:0005886,Pulmonary Edema,MESH:D011654,0,,3,NOS3|TGFA|TNF
+PML body,GO:0016605,Pulmonary Edema,MESH:D011654,1,Arsenic Trioxide,0,
+presynapse,GO:0098793,Pulmonary Edema,MESH:D011654,1,Methamphetamine,0,
+proteasome core complex,GO:0005839,Pulmonary Edema,MESH:D011654,2,Curcumin|Thioctic Acid,0,
+protein-containing complex,GO:0032991,Pulmonary Edema,MESH:D011654,0,,4,ADIPOQ|CAT|PARP1|TNF
+protein-containing complex,GO:0032991,Pulmonary edema of mountaineers,MESH:C535833,0,,1,GUCY1A1
+protein-DNA complex,GO:0032993,Pulmonary Edema,MESH:D011654,0,,1,PARP1
+recycling endosome,GO:0055037,Pulmonary Edema,MESH:D011654,0,,1,TNF
+ripoptosome,GO:0097342,Pulmonary Edema,MESH:D011654,3,Ethanol|Metformin|Simvastatin,0,
+sarcolemma,GO:0042383,Pulmonary Edema,MESH:D011654,0,,1,NOS3
+secretory granule,GO:0030141,Pulmonary Edema,MESH:D011654,0,,1,TNF
+secretory granule lumen,GO:0034774,Pulmonary Edema,MESH:D011654,0,,1,CAT
+site of DNA damage,GO:0090734,Pulmonary Edema,MESH:D011654,0,,1,PARP1
+site of double-strand break,GO:0035861,Pulmonary Edema,MESH:D011654,1,Curcumin,1,PARP1
+sperm flagellum,GO:0036126,Pulmonary Edema,MESH:D011654,2,bisphenol A|Chlorpyrifos,0,
+sperm head,GO:0061827,Pulmonary Edema,MESH:D011654,2,bisphenol A|Chlorpyrifos,0,
+sperm head plasma membrane,GO:1990913,Pulmonary Edema,MESH:D011654,1,bisphenol A,0,
+sperm midpiece,GO:0097225,Pulmonary Edema,MESH:D011654,1,Chlorpyrifos,0,
+synapse,GO:0045202,Pulmonary Edema,MESH:D011654,2,Curcumin|Sodium Fluoride,0,
+telopode,GO:0120327,Pulmonary Edema,MESH:D011654,1,Arsenic,0,
+terminal bouton,GO:0043195,Pulmonary Edema,MESH:D011654,1,Dronabinol,1,GHRH
+transcription factor AP-1 complex,GO:0035976,Pulmonary Edema,MESH:D011654,1,Bleomycin,0,
+transcription regulator complex,GO:0005667,Pulmonary Edema,MESH:D011654,0,,1,PARP1
+translation initiation complex,GO:0070992,Pulmonary Edema,MESH:D011654,1,bisphenol A,0,
+tubulin complex,GO:0045298,Pulmonary Edema,MESH:D011654,1,Particulate Matter,0,
+very-low-density lipoprotein particle,GO:0034361,Pulmonary Edema,MESH:D011654,1,chrysin,0,

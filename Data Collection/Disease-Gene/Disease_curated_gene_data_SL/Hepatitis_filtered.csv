@@ -1,0 +1,130 @@
+GeneSymbol,GeneID,DiseaseName,DiseaseID,DirectEvidence,OmimIDs,PubMedIDs
+ACTA2,59,"Hepatitis, Chronic",MESH:D006521,marker/mechanism,,22879914
+ALB,213,Hepatitis,MESH:D006505,marker/mechanism,,21851314
+ALDOB,229,"Hepatitis, Autoimmune",MESH:D019693,marker/mechanism,,16115720
+ATOX1,475,"Hepatitis, Chronic",MESH:D006521,marker/mechanism,,25053573
+ATP7A,538,"Hepatitis, Chronic",MESH:D006521,marker/mechanism,,25053573
+ATP7B,540,Hepatitis,MESH:D006505,marker/mechanism,,14574444|15135151
+C1QC,714,Hepatitis C,MESH:D006526,marker/mechanism,,35789393
+C1S,716,"Hepatitis, Autoimmune",MESH:D019693,marker/mechanism,,11390518
+CASP3,836,"Hepatitis, Chronic",MESH:D006521,marker/mechanism,,22879914
+CAT,847,Hepatitis,MESH:D006505,marker/mechanism,,1937386
+CAT,847,"Hepatitis, Chronic",MESH:D006521,marker/mechanism,,25053573
+CCL2,6347,"Hepatitis, Autoimmune",MESH:D019693,marker/mechanism,,21227906
+CCL5,6352,"Hepatitis, Alcoholic",MESH:D006519,marker/mechanism,,12586603
+CCL5,6352,"Hepatitis, Autoimmune",MESH:D019693,marker/mechanism,,21227906
+CCN2,1490,"Hepatitis B, Chronic",MESH:D019694,marker/mechanism,,17657819
+CCR5,1234,Hepatitis C,MESH:D006526,marker/mechanism,609532,
+CCS,9973,"Hepatitis, Chronic",MESH:D006521,marker/mechanism,,25053573
+CD209,30835,Hepatitis C,MESH:D006526,marker/mechanism,,27385120
+CD81,975,Hepatitis C,MESH:D006526,marker/mechanism,,17517063
+COMMD1,150684,"Hepatitis, Chronic",MESH:D006521,marker/mechanism,,22879914|25053573
+COX17,10063,"Hepatitis, Chronic",MESH:D006521,marker/mechanism,,25053573
+CP,1356,"Hepatitis, Chronic",MESH:D006521,marker/mechanism,,25053573
+CXCL1,2919,"Hepatitis, Autoimmune",MESH:D019693,marker/mechanism,,21227906
+CXCL8,3576,"Hepatitis, Alcoholic",MESH:D006519,marker/mechanism,,26220752
+CYP2A6,1548,Hepatitis B,MESH:D006509,marker/mechanism,,8864187
+CYP2A6,1548,Hepatitis C,MESH:D006526,marker/mechanism,,8864187
+CYP2B1,24300,Hepatitis C,MESH:D006526,marker/mechanism,,8864187
+CYP3A4,1576,Hepatitis C,MESH:D006526,marker/mechanism,,8864187
+CYP4A14,13119,"Hepatitis, Animal",MESH:D006520,marker/mechanism,,18559427
+ENPP2,5168,Hepatitis,MESH:D006505,marker/mechanism,,17850827
+F2R,2149,Hepatitis,MESH:D006505,marker/mechanism,,21907177
+FASLG,356,Hepatitis,MESH:D006505,marker/mechanism,,19706026
+GNMT,27232,Hepatitis,MESH:D006505,marker/mechanism,,21137059
+GNMT,27232,"Hepatitis, Chronic",MESH:D006521,marker/mechanism,,19146867
+GPX1,2876,"Hepatitis, Chronic",MESH:D006521,marker/mechanism,,25053573
+GZMB,3002,Hepatitis,MESH:D006505,marker/mechanism,,19706026
+H19,283120,"Hepatitis, Animal",MESH:D006520,marker/mechanism,,18559427
+HFE,3077,Hepatitis C,MESH:D006526,marker/mechanism,,15865084
+HGF,3082,"Hepatitis, Chronic",MESH:D006521,marker/mechanism,,22879914
+HLA-C,3107,"Hepatitis B, Chronic",MESH:D019694,marker/mechanism,,24162738
+HLA-DPA1,3113,"Hepatitis B, Chronic",MESH:D019694,marker/mechanism,,19349983
+HLA-DPB1,3115,"Hepatitis B, Chronic",MESH:D019694,marker/mechanism,,19349983
+HMOX1,3162,Hepatitis,MESH:D006505,therapeutic,,14512878
+HP,3240,Hepatitis B,MESH:D006509,marker/mechanism,,16597321
+HP,3240,"Hepatitis B, Chronic",MESH:D019694,marker/mechanism,,16597321
+HP,3240,"Hepatitis C, Chronic",MESH:D019698,marker/mechanism,,16597321
+IFNA,111654,"Hepatitis C, Chronic",MESH:D019698,therapeutic,,9058296
+IFNA1,3439,Hepatitis B,MESH:D006509,therapeutic,,15504288
+IFNA2,3440,Hepatitis B,MESH:D006509,therapeutic,,10836394|11112032|9339942
+IFNA2,3440,"Hepatitis B, Chronic",MESH:D019694,therapeutic,,12802750|15340535|15751770|16246192|16476009|16557544|16944240
+IFNA2,3440,Hepatitis C,MESH:D006526,therapeutic,,11010742|11132533|11981781|15980766|19302339|19691667|9722937
+IFNA2,3440,"Hepatitis C, Chronic",MESH:D019698,therapeutic,,11454181|15293138|15751770|15951019|15996025|16476009|16633111|18294165|9563925|9860407
+IFNA2,3440,"Hepatitis, Chronic",MESH:D006521,therapeutic,,15516819
+IFNAR2,3455,Hepatitis B,MESH:D006509,marker/mechanism,610424,
+IFNB1,3456,Hepatitis B,MESH:D006509,therapeutic,,15994231
+IFNG,3458,Hepatitis,MESH:D006505,marker/mechanism,,3091246
+IFNG,3458,"Hepatitis, Autoimmune",MESH:D019693,marker/mechanism,,21227906
+IFNG,3458,Hepatitis B,MESH:D006509,therapeutic,,15994231|20610715
+IFNG,3458,Hepatitis C,MESH:D006526,marker/mechanism,609532,
+IFNGR1,3459,Hepatitis B,MESH:D006509,marker/mechanism,610424,
+IFNL3,282617,Hepatitis C,MESH:D006526,marker/mechanism,609532,
+IL10,3586,"Hepatitis, Autoimmune",MESH:D019693,marker/mechanism,,21227906
+IL10RB,3588,Hepatitis B,MESH:D006509,marker/mechanism,610424,
+IL13,3596,"Hepatitis, Autoimmune",MESH:D019693,marker/mechanism,,21227906
+IL18,3606,"Hepatitis, Autoimmune",MESH:D019693,marker/mechanism,,21227906
+IL2,3558,"Hepatitis, Autoimmune",MESH:D019693,marker/mechanism,,21227906
+IL22,50616,"Hepatitis, Autoimmune",MESH:D019693,marker/mechanism,,21227906
+IL4,3565,"Hepatitis, Autoimmune",MESH:D019693,marker/mechanism,,21227906
+IL5,3567,"Hepatitis, Autoimmune",MESH:D019693,marker/mechanism,,21227906
+IL6,3569,"Hepatitis, Autoimmune",MESH:D019693,marker/mechanism,,21227906
+IL9,3578,"Hepatitis, Autoimmune",MESH:D019693,marker/mechanism,,21227906
+INS,3630,Hepatitis,MESH:D006505,marker/mechanism,,12243603
+ITGB6,3694,"Hepatitis C, Chronic",MESH:D019698,marker/mechanism,,18221819
+KEAP1,9817,Hepatitis,MESH:D006505,marker/mechanism,,20404090
+KRT19,3880,"Hepatitis, Chronic",MESH:D006521,marker/mechanism,,22879914
+KRT7,3855,"Hepatitis, Chronic",MESH:D006521,marker/mechanism,,22879914
+LCN2,3934,"Hepatitis, Animal",MESH:D006520,marker/mechanism,,18559427
+LEP,3952,"Hepatitis, Autoimmune",MESH:D019693,marker/mechanism,,21227906
+LOX,4015,Hepatitis B,MESH:D006509,marker/mechanism,,16023247
+LOX,4015,Hepatitis C,MESH:D006526,marker/mechanism,,16023247
+LOXL2,4017,Hepatitis B,MESH:D006509,marker/mechanism,,16023247
+LOXL2,4017,Hepatitis C,MESH:D006526,marker/mechanism,,16023247
+LPL,4023,Hepatitis C,MESH:D006526,therapeutic,,17517063
+MET,4233,"Hepatitis, Chronic",MESH:D006521,marker/mechanism,,22879914
+MIR100,406892,Hepatitis B,MESH:D006509,marker/mechanism,,28545106
+MIR122,406906,Hepatitis B,MESH:D006509,marker/mechanism,,28545106
+MIR125B2,406912,Hepatitis B,MESH:D006509,marker/mechanism,,28545106
+MIR1468,100302115,Hepatitis B,MESH:D006509,marker/mechanism,,28545106
+MIR148A,406940,Hepatitis B,MESH:D006509,marker/mechanism,,28545106
+MIR190A,406965,Hepatitis B,MESH:D006509,marker/mechanism,,28545106
+MIR192,406967,Hepatitis B,MESH:D006509,marker/mechanism,,28545106
+MIR193B,574455,Hepatitis B,MESH:D006509,marker/mechanism,,28545106
+MIR194-2,406970,Hepatitis B,MESH:D006509,marker/mechanism,,28545106
+MIR204,406987,Hepatitis B,MESH:D006509,marker/mechanism,,28545106
+MIR28,407020,Hepatitis B,MESH:D006509,marker/mechanism,,28545106
+MIR365A,100126355,Hepatitis B,MESH:D006509,marker/mechanism,,28545106
+MIR365B,100126356,Hepatitis B,MESH:D006509,marker/mechanism,,28545106
+MIR378A,494327,Hepatitis B,MESH:D006509,marker/mechanism,,28545106
+MIR378I,100616259,Hepatitis B,MESH:D006509,marker/mechanism,,28545106
+MIR455,619556,Hepatitis B,MESH:D006509,marker/mechanism,,28545106
+MIR6881,102465530,Hepatitis B,MESH:D006509,marker/mechanism,,28545106
+MIR885,100126334,Hepatitis B,MESH:D006509,marker/mechanism,,28545106
+MIR885,100126334,"Hepatitis B, Chronic",MESH:D019694,marker/mechanism,,27738331
+MIR99A,407055,Hepatitis B,MESH:D006509,marker/mechanism,,28545106
+MIRLET7C,406885,Hepatitis B,MESH:D006509,marker/mechanism,,28545106
+MKI67,4288,"Hepatitis, Chronic",MESH:D006521,marker/mechanism,,22879914
+MT1A,4489,"Hepatitis, Chronic",MESH:D006521,marker/mechanism,,25053573
+OPRM1,4988,Hepatitis C,MESH:D006526,marker/mechanism,,12937158|17299060
+PARP1,142,Hepatitis,MESH:D006505,marker/mechanism,,20561897
+RIGI,23586,Hepatitis C,MESH:D006526,marker/mechanism,,20170495
+SCARB1,949,Hepatitis C,MESH:D006526,marker/mechanism,,17517063
+SLC10A1,6554,Hepatitis B,MESH:D006509,marker/mechanism,,25550158
+SMAD2,4087,"Hepatitis, Chronic",MESH:D006521,marker/mechanism,,22879914
+SOD1,6647,"Hepatitis, Chronic",MESH:D006521,marker/mechanism,,25053573
+SPARC,6678,Hepatitis,MESH:D006505,marker/mechanism,,23408952
+STAT3,6774,"Hepatitis, Chronic",MESH:D006521,marker/mechanism,,22879914
+STAT4,6775,Hepatitis B,MESH:D006509,marker/mechanism,,27444301
+STS,412,"Hepatitis, Alcoholic",MESH:D006519,marker/mechanism,,26220752
+SULT1E1,6783,"Hepatitis, Alcoholic",MESH:D006519,marker/mechanism,,26220752
+TF,7018,Hepatitis,MESH:D006505,marker/mechanism,,21907177
+TFF3,7033,"Hepatitis, Animal",MESH:D006520,marker/mechanism,,18559427
+TGFB1,7040,"Hepatitis, Autoimmune",MESH:D019693,marker/mechanism,,21227906
+TGFB1,7040,"Hepatitis, Chronic",MESH:D006521,marker/mechanism,,22879914
+TLR7,51284,Hepatitis C,MESH:D006526,marker/mechanism,,27385120
+TLR8,51311,Hepatitis C,MESH:D006526,marker/mechanism,,27385120
+TNF,7124,Hepatitis,MESH:D006505,marker/mechanism,,25200604
+TNF,7124,"Hepatitis, Alcoholic",MESH:D006519,marker/mechanism,,12586603
+UBD,10537,"Hepatitis, Animal",MESH:D006520,marker/mechanism,,18559427
+UBE2L3,7332,"Hepatitis B, Chronic",MESH:D019694,marker/mechanism,,24162738

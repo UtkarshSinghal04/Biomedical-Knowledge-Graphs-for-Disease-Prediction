@@ -1,0 +1,14 @@
+GOName,GOID,DiseaseName,DiseaseID,InferenceChemicalQty,InferenceChemicalNames,InferenceGeneQty,InferenceGeneSymbols
+cell surface,GO:0009986,"Rheumatoid Arthritis, Systemic Juvenile",MESH:C565798,0,,1,MIF
+cytoplasm,GO:0005737,"Rheumatoid Arthritis, Systemic Juvenile",MESH:C565798,0,,1,MIF
+cytosol,GO:0005829,"Rheumatoid Arthritis, Systemic Juvenile",MESH:C565798,0,,1,MIF
+endoplasmic reticulum lumen,GO:0005788,"Rheumatoid Arthritis, Systemic Juvenile",MESH:C565798,0,,1,IL6
+external side of plasma membrane,GO:0009897,"Rheumatoid Arthritis, Systemic Juvenile",MESH:C565798,0,,1,IL6
+extracellular region,GO:0005576,"Rheumatoid Arthritis, Systemic Juvenile",MESH:C565798,0,,2,IL6|MIF
+extracellular space,GO:0005615,"Rheumatoid Arthritis, Systemic Juvenile",MESH:C565798,0,,2,IL6|MIF
+ficolin-1-rich granule lumen,GO:1904813,"Rheumatoid Arthritis, Systemic Juvenile",MESH:C565798,0,,1,MIF
+interleukin-6 receptor complex,GO:0005896,"Rheumatoid Arthritis, Systemic Juvenile",MESH:C565798,0,,1,IL6
+nucleoplasm,GO:0005654,"Rheumatoid Arthritis, Systemic Juvenile",MESH:C565798,0,,1,MIF
+nucleus,GO:0005634,"Rheumatoid Arthritis, Systemic Juvenile",MESH:C565798,0,,1,MIF
+plasma membrane,GO:0005886,"Rheumatoid Arthritis, Systemic Juvenile",MESH:C565798,0,,1,MIF
+secretory granule lumen,GO:0034774,"Rheumatoid Arthritis, Systemic Juvenile",MESH:C565798,0,,1,MIF

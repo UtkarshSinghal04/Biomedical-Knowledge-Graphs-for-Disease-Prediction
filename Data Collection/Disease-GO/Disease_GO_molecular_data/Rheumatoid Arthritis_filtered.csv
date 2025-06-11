@@ -1,0 +1,17 @@
+GOName,GOID,DiseaseName,DiseaseID,InferenceChemicalQty,InferenceChemicalNames,InferenceGeneQty,InferenceGeneSymbols
+chemoattractant activity,GO:0042056,"Rheumatoid Arthritis, Systemic Juvenile",MESH:C565798,0,,1,MIF
+cytokine activity,GO:0005125,"Rheumatoid Arthritis, Systemic Juvenile",MESH:C565798,0,,2,IL6|MIF
+cytokine receptor binding,GO:0005126,"Rheumatoid Arthritis, Systemic Juvenile",MESH:C565798,0,,1,MIF
+"DNA-binding transcription factor activity, RNA polymerase II-specific",GO:0000981,"Rheumatoid Arthritis, Systemic Juvenile",MESH:C565798,0,,1,MIF
+dopachrome isomerase activity,GO:0004167,"Rheumatoid Arthritis, Systemic Juvenile",MESH:C565798,0,,1,MIF
+growth factor activity,GO:0008083,"Rheumatoid Arthritis, Systemic Juvenile",MESH:C565798,0,,1,IL6
+identical protein binding,GO:0042802,"Rheumatoid Arthritis, Systemic Juvenile",MESH:C565798,0,,2,IL6|MIF
+interleukin-6 receptor binding,GO:0005138,"Rheumatoid Arthritis, Systemic Juvenile",MESH:C565798,0,,1,IL6
+isomerase activity,GO:0016853,"Rheumatoid Arthritis, Systemic Juvenile",MESH:C565798,0,,1,MIF
+phenylpyruvate tautomerase activity,GO:0050178,"Rheumatoid Arthritis, Systemic Juvenile",MESH:C565798,0,,1,MIF
+protease binding,GO:0002020,"Rheumatoid Arthritis, Systemic Juvenile",MESH:C565798,0,,1,MIF
+protein binding,GO:0005515,"Rheumatoid Arthritis, Systemic Juvenile",MESH:C565798,0,,2,IL6|MIF
+protein-containing complex binding,GO:0044877,"Rheumatoid Arthritis, Systemic Juvenile",MESH:C565798,0,,1,MIF
+RNA polymerase II cis-regulatory region sequence-specific DNA binding,GO:0000978,"Rheumatoid Arthritis, Systemic Juvenile",MESH:C565798,0,,1,MIF
+RNA polymerase II transcription regulatory region sequence-specific DNA binding,GO:0000977,"Rheumatoid Arthritis, Systemic Juvenile",MESH:C565798,0,,1,MIF
+signaling receptor binding,GO:0005102,"Rheumatoid Arthritis, Systemic Juvenile",MESH:C565798,0,,1,IL6

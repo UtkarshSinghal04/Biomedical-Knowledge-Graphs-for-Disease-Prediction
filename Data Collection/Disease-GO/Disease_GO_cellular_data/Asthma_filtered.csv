@@ -1,0 +1,422 @@
+GOName,GOID,DiseaseName,DiseaseID,InferenceChemicalQty,InferenceChemicalNames,InferenceGeneQty,InferenceGeneSymbols
+9+0 motile cilium,GO:0097728,Asthma,MESH:D001249,0,,1,DNAH5
+9+2 motile cilium,GO:0097729,Asthma,MESH:D001249,0,,1,DNAH5
+acrosomal vesicle,GO:0001669,"Asthma, Aspirin-Induced",MESH:D055963,0,,1,TBXA2R
+actin cytoskeleton,GO:0015629,Asthma,MESH:D001249,0,,1,CTNNA3
+actin filament,GO:0005884,Asthma,MESH:D001249,1,Cadmium,0,
+actin filament bundle,GO:0032432,Asthma,MESH:D001249,1,Particulate Matter,0,
+adherens junction,GO:0005912,Asthma,MESH:D001249,0,,4,AGER|CDHR3|CTNNA3|VEGFA
+adherens junction,GO:0005912,"Asthma, Occupational",MESH:D059366,0,,2,AGER|CDH17
+AIM2 inflammasome complex,GO:0097169,Asthma,MESH:D001249,1,perfluorooctane sulfonic acid,0,
+alphav-beta3 integrin-PKCalpha complex,GO:0035866,"Asthma, Occupational",MESH:D059366,0,,1,PRKCA
+alveolar lamellar body,GO:0097208,Asthma,MESH:D001249,1,Particulate Matter,0,
+amyloid-beta complex,GO:0106003,Asthma,MESH:D001249,1,Paraquat,0,
+anchoring junction,GO:0070161,Asthma,MESH:D001249,0,,1,CLDN18
+apical part of cell,GO:0045177,"Asthma, Occupational",MESH:D059366,0,,1,PRKCA
+apical plasma membrane,GO:0016324,Asthma,MESH:D001249,0,,5,AGER|IL6R|PDE4D|PTEN|TRPA1
+apical plasma membrane,GO:0016324,"Asthma, Occupational",MESH:D059366,0,,1,AGER
+apicolateral plasma membrane,GO:0016327,Asthma,MESH:D001249,0,,1,KRT19
+apoptotic body,GO:0097189,Asthma,MESH:D001249,4,Arsenic|Arsenic Trioxide|Cadmium|syringin,0,
+autolysosome,GO:0044754,Asthma,MESH:D001249,5,Arsenic Trioxide|Cadmium|Dietary Fats|epigallocatechin gallate|Paraquat,0,
+autolysosome membrane,GO:0120281,Asthma,MESH:D001249,0,,1,HLA-DRB1
+autophagosome,GO:0005776,Asthma,MESH:D001249,8,Acetaminophen|Arsenic|Arsenic Trioxide|Benzo(a)pyrene|Cadmium|epigallocatechin gallate|Paraquat|Resveratrol,0,
+autophagosome membrane,GO:0000421,"Asthma, Occupational",MESH:D059366,0,,1,PRKD1
+axon,GO:0030424,Asthma,MESH:D001249,0,,4,AGER|HTR2A|TGFB1|TRPA1
+axon,GO:0030424,"Asthma, Occupational",MESH:D059366,0,,4,AGER|PRKCA|TENM3|TGFB1
+axonal spine,GO:0044308,Asthma,MESH:D001249,1,Cadmium,0,
+axon cytoplasm,GO:1904115,Asthma,MESH:D001249,0,,2,KIF3A|SOD1
+axonemal dynein complex,GO:0005858,Asthma,MESH:D001249,0,,1,DNAH5
+axoneme,GO:0005930,Asthma,MESH:D001249,0,,2,DNAH5|KIF3A
+axon terminus,GO:0043679,Asthma,MESH:D001249,0,,2,CCL2|CDHR3
+azurophil granule lumen,GO:0035578,Asthma,MESH:D001249,0,,2,ARG1|RNASE3
+BAD-BCL-2 complex,GO:0097138,Asthma,MESH:D001249,0,,1,BCL2
+basal part of cell,GO:0045178,Asthma,MESH:D001249,0,,1,EDN1
+basal plasma membrane,GO:0009925,Asthma,MESH:D001249,0,,1,AGER
+basal plasma membrane,GO:0009925,"Asthma, Occupational",MESH:D059366,0,,1,AGER
+basement membrane,GO:0005604,Asthma,MESH:D001249,0,,3,TIMP3|TNC|VEGFA
+basolateral plasma membrane,GO:0016323,"Asthma, Occupational",MESH:D059366,0,,1,CDH17
+bicellular tight junction,GO:0005923,Asthma,MESH:D001249,0,,2,ADCYAP1R1|CLDN18
+blood microparticle,GO:0072562,Asthma,MESH:D001249,0,,1,TGFB1
+blood microparticle,GO:0072562,"Asthma, Occupational",MESH:D059366,0,,1,TGFB1
+BRCA1-C complex,GO:0070533,Asthma,MESH:D001249,0,,1,RAD50
+Cajal body,GO:0015030,Asthma,MESH:D001249,0,,1,PARP1
+calcium channel complex,GO:0034704,Asthma,MESH:D001249,0,,1,PDE4D
+calyx of Held,GO:0044305,"Asthma, Occupational",MESH:D059366,0,,1,PRKCA
+cardiac Troponin complex,GO:1990584,Asthma,MESH:D001249,1,Isoproterenol,0,
+cardiac Troponin complex,GO:1990584,Status Asthmaticus,MESH:D013224,1,Isoproterenol,0,
+catalase complex,GO:0062151,Asthma,MESH:D001249,0,,1,CAT
+catenin complex,GO:0016342,Asthma,MESH:D001249,0,,2,CDHR3|CTNNA3
+catenin complex,GO:0016342,"Asthma, Occupational",MESH:D059366,0,,1,CDH17
+cation channel complex,GO:0034703,Asthma,MESH:D001249,0,,1,TRPA1
+CatSper complex,GO:0036128,Asthma,MESH:D001249,1,bisphenol A,0,
+caveola,GO:0005901,Asthma,MESH:D001249,0,,3,ADCYAP1R1|HMOX1|HTR2A
+caveola,GO:0005901,"Asthma, Aspirin-Induced",MESH:D055963,0,,1,PTGS2
+caveola,GO:0005901,"Asthma, Occupational",MESH:D059366,0,,1,PTGS2
+cell body fiber,GO:0070852,Asthma,MESH:D001249,0,,1,HTR2A
+cell-cell junction,GO:0005911,Asthma,MESH:D001249,1,bisphenol A,2,CDHR3|CLDN18
+cell-cell junction,GO:0005911,"Asthma, Occupational",MESH:D059366,0,,2,CDH17|PRKD1
+cell cortex,GO:0005938,"Asthma, Occupational",MESH:D059366,0,,1,PRKD1
+cell junction,GO:0030054,Asthma,MESH:D001249,0,,1,AGER
+cell junction,GO:0030054,"Asthma, Occupational",MESH:D059366,0,,2,AGER|CDH17
+cell periphery,GO:0071944,Asthma,MESH:D001249,0,,2,KRT19|PDE4B
+cell projection,GO:0042995,Asthma,MESH:D001249,0,,4,BGLAP|DNAH5|HTR2A|PTEN
+cell projection,GO:0042995,"Asthma, Occupational",MESH:D059366,0,,1,TENM3
+cell surface,GO:0009986,Asthma,MESH:D001249,0,,12,ADCYAP1R1|AGER|AREG|CD14|HLA-DPB1|HLA-DRB1|ICAM1|IL1RL1|PLAU|TGFB1|TNF|VEGFA
+cell surface,GO:0009986,"Asthma, Aspirin-Induced",MESH:D055963,0,,1,HLA-DPB1
+cell surface,GO:0009986,"Asthma, Occupational",MESH:D059366,0,,4,AGER|CDH17|TGFB1|TNF
+centriole,GO:0005814,Asthma,MESH:D001249,0,,1,KIF3A
+centriole,GO:0005814,"Asthma, Occupational",MESH:D059366,0,,1,HERC2
+centrosome,GO:0005813,Asthma,MESH:D001249,0,,5,HNMT|IL1RN|KIF3A|PDE4B|PDE4D
+C-fiber,GO:0044299,Asthma,MESH:D001249,0,,1,CCL2
+chromatin,GO:0000785,Asthma,MESH:D001249,0,,5,FOXP3|MYB|PARP1|RAD50|STAT4
+chromosomal region,GO:0098687,Asthma,MESH:D001249,0,,1,RAD50
+chromosome,GO:0005694,Asthma,MESH:D001249,0,,3,IL33|PARP1|RAD50
+"chromosome, centromeric region",GO:0000775,Asthma,MESH:D001249,0,,1,PPP2CA
+"chromosome, telomeric region",GO:0000781,Asthma,MESH:D001249,0,,1,RAD50
+ciliary basal body,GO:0036064,"Asthma, Occupational",MESH:D059366,0,,1,PRKCA
+ciliary neurotrophic factor receptor complex,GO:0070110,Asthma,MESH:D001249,0,,1,IL6R
+ciliary tip,GO:0097542,Asthma,MESH:D001249,0,,1,KIF3A
+cilium,GO:0005929,Asthma,MESH:D001249,0,,3,DNAH5|KIF3A|PDE4D
+cis-Golgi network membrane,GO:0033106,Asthma,MESH:D001249,0,,1,HLA-G
+clathrin-coated endocytic vesicle,GO:0045334,Asthma,MESH:D001249,0,,1,CTLA4
+clathrin-coated endocytic vesicle membrane,GO:0030669,Asthma,MESH:D001249,0,,5,AREG|HLA-DPB1|HLA-DQA1|HLA-DQB1|HLA-DRB1
+clathrin-coated endocytic vesicle membrane,GO:0030669,"Asthma, Aspirin-Induced",MESH:D055963,0,,1,HLA-DPB1
+collagen-containing extracellular matrix,GO:0062023,Asthma,MESH:D001249,0,,3,BGLAP|TGFB1|TNC
+collagen-containing extracellular matrix,GO:0062023,"Asthma, Aspirin-Induced",MESH:D055963,0,,1,POSTN
+collagen-containing extracellular matrix,GO:0062023,"Asthma, Occupational",MESH:D059366,0,,1,TGFB1
+collagen trimer,GO:0005581,Asthma,MESH:D001249,0,,1,MMP1
+condensed chromosome,GO:0000793,Asthma,MESH:D001249,0,,1,RAD50
+condensed nuclear chromosome,GO:0000794,Asthma,MESH:D001249,0,,1,RAD50
+cone photoreceptor outer segment,GO:0120199,"Asthma, Occupational",MESH:D059366,0,,1,PRKCA
+cornified envelope,GO:0001533,Asthma,MESH:D001249,0,,1,SPRR2B
+cortical cytoskeleton,GO:0030863,Asthma,MESH:D001249,0,,1,NOS2
+cortical granule,GO:0060473,Asthma,MESH:D001249,2,Glutathione|Resveratrol,0,
+costamere,GO:0043034,Asthma,MESH:D001249,0,,1,KRT19
+cyclin B1-CDK1 complex,GO:0097125,Asthma,MESH:D001249,1,Herbicides,0,
+cytoplasm,GO:0005737,Asthma,MESH:D001249,0,,43,ADCY2|ALOX5|AREG|ARG1|ARG2|BCL2|BGLAP|CAT|CCL5|CTNNA3|CYP2E1|DNAH5|DNMT1|EDN1|FOXP3|GSDMB|GSTM1|GSTP1|HNMT|IKZF3|IL13|IL1B|IL33|KIF3A|KRT19|NAT1|NOS2|NPSR1|NPY|NQO1|PARP1|PDE4D|PPP2CA|PTEN|RNASE3|SOD1|SPRR2B|STAT4|TGFB1|TNIP1|TRPA1|VEGFA|WDR36
+cytoplasm,GO:0005737,"Asthma, Aspirin-Induced",MESH:D055963,0,,2,CCR3|PTGS2
+cytoplasm,GO:0005737,"Asthma, Occupational",MESH:D059366,0,,7,HERC2|PLA2G4A|PRKCA|PRKD1|PTGS1|PTGS2|TGFB1
+cytoplasm,GO:0005737,"ASTHMA-RELATED TRAITS, SUSCEPTIBILITY TO, 2",OMIM:608584,0,,1,NPSR1
+cytoplasm,GO:0005737,"ASTHMA-RELATED TRAITS, SUSCEPTIBILITY TO, 5",OMIM:611064,0,,1,IRAK3
+cytoplasm,GO:0005737,"ASTHMA-RELATED TRAITS, SUSCEPTIBILITY TO, 7",OMIM:611960,0,,1,CHI3L1
+cytoplasmic side of plasma membrane,GO:0009898,Asthma,MESH:D001249,0,,1,PTEN
+cytoplasmic vesicle,GO:0031410,Asthma,MESH:D001249,0,,2,HTR2A|SOD1
+cytoplasmic vesicle,GO:0031410,"Asthma, Occupational",MESH:D059366,0,,1,PLA2G4A
+cytoskeleton,GO:0005856,Asthma,MESH:D001249,0,,4,CTNNA3|DNAH5|KIF3A|KRT19
+cytosol,GO:0005829,Asthma,MESH:D001249,0,,31,ALOX5|ARG1|ARG2|BCL2|CAT|FOXP3|GSTM1|GSTP1|HMOX1|HNMT|HTR2A|IKZF3|IL1B|IL1RL1|IL1RN|KIF3A|KRT19|MYB|NAT1|NOS2|NQO1|PARP1|PDE4B|PDE4D|PPP2CA|PTEN|PYHIN1|SOD1|SPRR2B|STAT4|TNIP1
+cytosol,GO:0005829,"Asthma, Aspirin-Induced",MESH:D055963,0,,2,PTGIR|PTGS2
+cytosol,GO:0005829,"Asthma, Occupational",MESH:D059366,0,,5,HERC2|PLA2G4A|PRKCA|PRKD1|PTGS2
+dendrite,GO:0030425,Asthma,MESH:D001249,0,,7,ADCY2|ALOX5|BGLAP|CCL2|HTR2A|MMP1|NQO1
+dendrite,GO:0030425,"Asthma, Occupational",MESH:D059366,0,,1,PRKCA
+dendrite cytoplasm,GO:0032839,Asthma,MESH:D001249,0,,2,KIF3A|SOD1
+dendritic branch,GO:0044307,Asthma,MESH:D001249,2,bisphenol A|Dexamethasone,0,
+dendritic shaft,GO:0043198,Asthma,MESH:D001249,0,,1,HTR2A
+dendritic spine,GO:0043197,Asthma,MESH:D001249,1,bisphenol A,2,PDE4B|PTEN
+dense core granule,GO:0031045,Asthma,MESH:D001249,0,,1,SOD1
+desmosome,GO:0030057,Asthma,MESH:D001249,0,,1,CTNNA3
+"DNA topoisomerase type II (double strand cut, ATP-hydrolyzing) complex",GO:0009330,Asthma,MESH:D001249,1,Arsenic Trioxide,0,
+DRM complex,GO:0070176,Asthma,MESH:D001249,0,,1,MYB
+dynein complex,GO:0030286,Asthma,MESH:D001249,0,,1,DNAH5
+dystrophin-associated glycoprotein complex,GO:0016010,Asthma,MESH:D001249,0,,1,KRT19
+early endosome,GO:0005769,Asthma,MESH:D001249,0,,1,HLA-G
+early endosome membrane,GO:0031901,Asthma,MESH:D001249,0,,1,HLA-G
+endocytic vesicle,GO:0030139,Asthma,MESH:D001249,0,,1,CCL2
+endocytic vesicle lumen,GO:0071682,Asthma,MESH:D001249,0,,1,SCGB3A2
+endocytic vesicle membrane,GO:0030666,Asthma,MESH:D001249,0,,4,HLA-DPB1|HLA-DQA1|HLA-DQB1|HLA-DRB1
+endocytic vesicle membrane,GO:0030666,"Asthma, Aspirin-Induced",MESH:D055963,0,,1,HLA-DPB1
+endoplasmic reticulum,GO:0005783,Asthma,MESH:D001249,1,Glutathione,6,BCL2|CYP2E1|HMOX1|HSD11B2|ORMDL3|VEGFA
+endoplasmic reticulum,GO:0005783,"Asthma, Aspirin-Induced",MESH:D055963,0,,2,LTC4S|PTGS2
+endoplasmic reticulum,GO:0005783,"Asthma, Occupational",MESH:D059366,0,,4,PLA2G4A|PRKCA|PTGS1|PTGS2
+endoplasmic reticulum,GO:0005783,"ASTHMA-RELATED TRAITS, SUSCEPTIBILITY TO, 7",OMIM:611960,0,,1,CHI3L1
+endoplasmic reticulum-Golgi intermediate compartment membrane,GO:0033116,Asthma,MESH:D001249,0,,1,AREG
+endoplasmic reticulum lumen,GO:0005788,Asthma,MESH:D001249,0,,3,BGLAP|IL6|TNC
+endoplasmic reticulum lumen,GO:0005788,"Asthma, Aspirin-Induced",MESH:D055963,0,,1,PTGS2
+endoplasmic reticulum lumen,GO:0005788,"Asthma, Occupational",MESH:D059366,0,,1,PTGS2
+endoplasmic reticulum membrane,GO:0005789,Asthma,MESH:D001249,0,,6,AREG|BCL2|CYP2E1|HMOX1|HSD11B2|ORMDL3
+endoplasmic reticulum membrane,GO:0005789,"Asthma, Aspirin-Induced",MESH:D055963,0,,2,LTC4S|PTGS2
+endoplasmic reticulum membrane,GO:0005789,"Asthma, Occupational",MESH:D059366,0,,3,PLA2G4A|PTGS1|PTGS2
+endosome,GO:0005768,Asthma,MESH:D001249,0,,1,ADCYAP1R1
+endosome,GO:0005768,"Asthma, Aspirin-Induced",MESH:D055963,0,,2,CCR3|MS4A2
+endosome membrane,GO:0010008,Asthma,MESH:D001249,0,,2,CD14|PTEN
+ER to Golgi transport vesicle membrane,GO:0012507,Asthma,MESH:D001249,0,,6,AREG|HLA-DPB1|HLA-DQA1|HLA-DQB1|HLA-DRB1|HLA-G
+ER to Golgi transport vesicle membrane,GO:0012507,"Asthma, Aspirin-Induced",MESH:D055963,0,,1,HLA-DPB1
+euchromatin,GO:0000791,Asthma,MESH:D001249,0,,2,MYB|PARP1
+eukaryotic translation initiation factor 3 complex,GO:0005852,Asthma,MESH:D001249,0,,1,DNMT1
+eukaryotic translation initiation factor 4F complex,GO:0016281,Asthma,MESH:D001249,0,,1,NAT1
+excitatory synapse,GO:0060076,Asthma,MESH:D001249,0,,1,PDE4B
+external side of plasma membrane,GO:0009897,Asthma,MESH:D001249,0,,11,CD14|CTLA4|HLA-DRB1|ICAM1|IL13|IL1RL1|IL4|IL6|IL6R|PLAU|TNF
+external side of plasma membrane,GO:0009897,"Asthma, Aspirin-Induced",MESH:D055963,0,,2,CCR3|MS4A2
+external side of plasma membrane,GO:0009897,"Asthma, Occupational",MESH:D059366,0,,1,TNF
+extracellular exosome,GO:0070062,Asthma,MESH:D001249,0,,2,ICAM1|MUC7
+extracellular matrix,GO:0031012,Asthma,MESH:D001249,0,,6,MMP1|MMP10|MMP9|TGFB1|TIMP3|VEGFA
+extracellular matrix,GO:0031012,"Asthma, Aspirin-Induced",MESH:D055963,0,,1,POSTN
+extracellular matrix,GO:0031012,"Asthma, Occupational",MESH:D059366,0,,1,TGFB1
+extracellular matrix,GO:0031012,"ASTHMA-RELATED TRAITS, SUSCEPTIBILITY TO, 7",OMIM:611960,0,,1,CHI3L1
+extracellular matrix of synaptic cleft,GO:0098965,Asthma,MESH:D001249,0,,2,MMP9|TNC
+extracellular region,GO:0005576,Asthma,MESH:D001249,0,,42,AGER|ALOX5|AREG|ARG1|BGLAP|CAT|CCL11|CCL2|CCL5|CD14|CXCL14|DNAH5|EDN1|GSTM1|GSTP1|IFNL3|IL10|IL13|IL1B|IL1RL1|IL1RN|IL33|IL4|IL5|IL6|IL6R|MMP1|MMP10|MMP9|NPY|PLA2G7|PLAU|PTEN|RNASE3|SCGB3A2|SOD1|TGFB1|TIMP3|TNC|TNF|TSLP|VEGFA
+extracellular region,GO:0005576,"Asthma, Aspirin-Induced",MESH:D055963,0,,1,POSTN
+extracellular region,GO:0005576,"Asthma, Occupational",MESH:D059366,0,,3,AGER|TGFB1|TNF
+extracellular region,GO:0005576,"ASTHMA-RELATED TRAITS, SUSCEPTIBILITY TO, 7",OMIM:611960,0,,1,CHI3L1
+extracellular space,GO:0005615,Asthma,MESH:D001249,0,,41,AGER|AREG|ARG1|BGLAP|CAT|CCL11|CCL2|CCL5|CD14|CXCL14|EDN1|HMOX1|ICAM1|IFNL3|IL10|IL13|IL1B|IL1RL1|IL1RN|IL33|IL4|IL5|IL6|IL6R|MMP1|MMP10|MMP9|NOS2|NPY|OVAL|PLA2G7|PLAU|RNASE3|SCGB3A2|SOD1|TGFB1|TIMP3|TNC|TNF|TSLP|VEGFA
+extracellular space,GO:0005615,"Asthma, Aspirin-Induced",MESH:D055963,0,,2,CCR3|POSTN
+extracellular space,GO:0005615,"Asthma, Occupational",MESH:D059366,0,,3,AGER|TGFB1|TNF
+extracellular space,GO:0005615,"ASTHMA-RELATED TRAITS, SUSCEPTIBILITY TO, 7",OMIM:611960,0,,1,CHI3L1
+extracellular vesicle,GO:1903561,Asthma,MESH:D001249,6,Air Pollutants|Arsenic|Benzo(a)pyrene|Cadmium|Ozone|Vehicle Emissions,0,
+FAR/SIN/STRIPAK complex,GO:0090443,Asthma,MESH:D001249,0,,1,PPP2CA
+fascia adherens,GO:0005916,Asthma,MESH:D001249,0,,1,CTNNA3
+Fc-epsilon receptor I complex,GO:0032998,"Asthma, Aspirin-Induced",MESH:D055963,0,,1,MS4A2
+female germ cell nucleus,GO:0001674,Asthma,MESH:D001249,0,,1,DNMT1
+ferritin complex,GO:0070288,Asthma,MESH:D001249,1,bisphenol A,0,
+fibrillar center,GO:0001650,Asthma,MESH:D001249,0,,1,AGER
+fibrillar center,GO:0001650,"Asthma, Occupational",MESH:D059366,0,,1,AGER
+fibrinogen complex,GO:0005577,Asthma,MESH:D001249,1,Dietary Fats,0,
+ficolin-1-rich granule lumen,GO:1904813,Asthma,MESH:D001249,0,,4,ALOX5|CAT|GSTP1|MMP9
+filamentous actin,GO:0031941,Asthma,MESH:D001249,4,Air Pollutants|bisphenol A|Dexamethasone|Ozone,0,
+filopodium membrane,GO:0031527,Asthma,MESH:D001249,0,,1,HLA-G
+focal adhesion,GO:0005925,Asthma,MESH:D001249,0,,1,IL1RL1
+GABA-ergic synapse,GO:0098982,Asthma,MESH:D001249,0,,1,NPY
+gamma-tubulin complex,GO:0000930,Asthma,MESH:D001249,0,,1,PDE4B
+germ cell nucleus,GO:0043073,Asthma,MESH:D001249,0,,1,DNMT1
+glial cell projection,GO:0097386,Asthma,MESH:D001249,0,,1,DNAH5
+glutamatergic synapse,GO:0098978,Asthma,MESH:D001249,0,,4,HTR2A|KIF3A|MMP9|TNC
+glutamatergic synapse,GO:0098978,"Asthma, Occupational",MESH:D059366,0,,1,TENM3
+Golgi apparatus,GO:0005794,Asthma,MESH:D001249,0,,5,CD14|CTLA4|CXCL14|NPY|VEGFA
+Golgi apparatus,GO:0005794,"Asthma, Occupational",MESH:D059366,0,,3,PLA2G4A|PRKD1|PTGS1
+Golgi lumen,GO:0005796,Asthma,MESH:D001249,0,,3,BGLAP|MUC7|TGFB1
+Golgi lumen,GO:0005796,"Asthma, Occupational",MESH:D059366,0,,1,TGFB1
+Golgi membrane,GO:0000139,Asthma,MESH:D001249,0,,7,ADCYAP1R1|CYP2E1|HLA-DPB1|HLA-DQA1|HLA-DQB1|HLA-DRB1|HLA-G
+Golgi membrane,GO:0000139,"Asthma, Aspirin-Induced",MESH:D055963,0,,1,HLA-DPB1
+Golgi membrane,GO:0000139,"Asthma, Occupational",MESH:D059366,0,,1,PLA2G4A
+G protein-coupled serotonin receptor complex,GO:0098666,Asthma,MESH:D001249,0,,1,HTR2A
+heterochromatin,GO:0000792,Asthma,MESH:D001249,0,,1,DNMT1
+high-density lipoprotein particle,GO:0034364,Asthma,MESH:D001249,0,,1,PLA2G7
+histone locus body,GO:0035363,Asthma,MESH:D001249,0,,1,PARP1
+"IgE immunoglobulin complex, circulating",GO:0071743,Asthma,MESH:D001249,9,"Air Pollutants|bisphenol A|Dexamethasone|Mercury|Ovalbumin|Particulate Matter|Polycyclic Aromatic Hydrocarbons|Toluene 2,4-Diisocyanate|Triclosan",0,
+"IgE immunoglobulin complex, circulating",GO:0071743,"Asthma, Occupational",MESH:D059366,1,"Toluene 2,4-Diisocyanate",0,
+"IgG immunoglobulin complex, circulating",GO:0071736,Asthma,MESH:D001249,3,Dexamethasone|Ovalbumin|perfluorooctane sulfonic acid,0,
+"IgG immunoglobulin complex, circulating",GO:0071736,"ASTHMA-RELATED TRAITS, SUSCEPTIBILITY TO, 8",OMIM:613207,1,perfluorodecanoic acid,0,
+immunological synapse,GO:0001772,Asthma,MESH:D001249,0,,2,HLA-DRB1|ICAM1
+inclusion body,GO:0016234,Asthma,MESH:D001249,0,,1,RAD50
+inhibin B complex,GO:0043513,Asthma,MESH:D001249,1,bisphenol A,0,
+intercalated disc,GO:0014704,"Asthma, Occupational",MESH:D059366,0,,1,PRKCA
+intercellular bridge,GO:0045171,Asthma,MESH:D001249,0,,1,GSTM1
+interleukin-28 receptor complex,GO:0032002,Asthma,MESH:D001249,0,,1,IFNL3
+interleukin-6 receptor complex,GO:0005896,Asthma,MESH:D001249,0,,2,IL6|IL6R
+intermediate filament,GO:0005882,Asthma,MESH:D001249,0,,2,HLA-DRB1|KRT19
+interstitial matrix,GO:0005614,Asthma,MESH:D001249,0,,1,TNC
+intracellular anatomical structure,GO:0005622,Asthma,MESH:D001249,0,,4,AREG|BCL2|FOXP3|TNF
+intracellular anatomical structure,GO:0005622,"Asthma, Occupational",MESH:D059366,0,,1,TNF
+intracellular membrane-bounded organelle,GO:0043231,Asthma,MESH:D001249,0,,6,ADCYAP1R1|ALOX5|CAT|CYP2E1|HSD11B2|IL33
+intracellular membrane-bounded organelle,GO:0043231,"Asthma, Aspirin-Induced",MESH:D055963,0,,2,LTC4S|PTGS2
+intracellular membrane-bounded organelle,GO:0043231,"Asthma, Occupational",MESH:D059366,0,,3,PLA2G4A|PTGS1|PTGS2
+kinesin complex,GO:0005871,Asthma,MESH:D001249,0,,1,KIF3A
+kinesin II complex,GO:0016939,Asthma,MESH:D001249,0,,1,KIF3A
+lamellipodium,GO:0030027,Asthma,MESH:D001249,0,,1,CTNNA3
+laminin complex,GO:0043256,Asthma,MESH:D001249,1,Diazinon,0,
+late endosome membrane,GO:0031902,Asthma,MESH:D001249,0,,1,HLA-DRB1
+lateral plasma membrane,GO:0016328,Asthma,MESH:D001249,0,,1,CLDN18
+lipid droplet,GO:0005811,Asthma,MESH:D001249,1,Dietary Fats,0,
+lipopolysaccharide receptor complex,GO:0046696,Asthma,MESH:D001249,0,,1,CD14
+low-density lipoprotein particle,GO:0034362,Asthma,MESH:D001249,0,,1,PLA2G7
+lumenal side of endoplasmic reticulum membrane,GO:0098553,Asthma,MESH:D001249,0,,5,HLA-DPB1|HLA-DQA1|HLA-DQB1|HLA-DRB1|HLA-G
+lumenal side of endoplasmic reticulum membrane,GO:0098553,"Asthma, Aspirin-Induced",MESH:D055963,0,,1,HLA-DPB1
+lysosomal membrane,GO:0005765,Asthma,MESH:D001249,0,,4,HLA-DPB1|HLA-DQA1|HLA-DQB1|HLA-DRB1
+lysosomal membrane,GO:0005765,"Asthma, Aspirin-Induced",MESH:D055963,0,,1,HLA-DPB1
+lysosome,GO:0005764,Asthma,MESH:D001249,1,Acetaminophen,2,IL1B|SOD1
+m-AAA complex,GO:0005745,Asthma,MESH:D001249,0,,1,PARP1
+major mitochondrial derivative,GO:0016008,Asthma,MESH:D001249,0,,1,CAT
+membrane,GO:0016020,Asthma,MESH:D001249,0,,28,ADCY2|ADCYAP1R1|AGER|AREG|ARG2|BCL2|CDHR3|CLDN18|CTLA4|DNMT1|HLA-DQB1|HLA-DRB1|HMOX1|HSD11B2|HTR2A|ICAM1|IL1RL1|IL6R|NPSR1|ORMDL3|PARP1|PDE4B|PDE4D|PPP2CA|SCGB3A2|TNF|TRPA1|VEGFA
+membrane,GO:0016020,"Asthma, Aspirin-Induced",MESH:D055963,0,,9,CCR3|CYSLTR1|CYSLTR2|LTC4S|MS4A2|PTGER2|PTGIR|PTGS2|TBXA2R
+membrane,GO:0016020,"Asthma, Nasal Polyps, And Aspirin Intolerance",MESH:C565935,0,,1,PTGER2
+membrane,GO:0016020,"Asthma, Occupational",MESH:D059366,0,,8,AGER|CDH17|HERC2|PRKCA|PRKD1|PTGS2|TENM3|TNF
+membrane,GO:0016020,"ASTHMA-RELATED TRAITS, SUSCEPTIBILITY TO, 1",OMIM:607277,0,,1,PTGDR
+membrane,GO:0016020,"ASTHMA-RELATED TRAITS, SUSCEPTIBILITY TO, 2",OMIM:608584,0,,1,NPSR1
+membrane raft,GO:0045121,Asthma,MESH:D001249,0,,5,ADCY2|CD14|ICAM1|PPP2CA|TNF
+membrane raft,GO:0045121,"Asthma, Aspirin-Induced",MESH:D055963,0,,1,MS4A2
+membrane raft,GO:0045121,"Asthma, Occupational",MESH:D059366,0,,1,TNF
+MHC class II protein complex,GO:0042613,Asthma,MESH:D001249,0,,4,HLA-DPB1|HLA-DQA1|HLA-DQB1|HLA-DRB1
+MHC class II protein complex,GO:0042613,"Asthma, Aspirin-Induced",MESH:D055963,0,,1,HLA-DPB1
+MHC class I protein complex,GO:0042612,Asthma,MESH:D001249,0,,1,HLA-G
+microtubule,GO:0005874,Asthma,MESH:D001249,0,,2,DNAH5|KIF3A
+microtubule associated complex,GO:0005875,Asthma,MESH:D001249,0,,1,KIF3A
+microtubule cytoskeleton,GO:0015630,Asthma,MESH:D001249,0,,2,KIF3A|PPP2CA
+microvillus,GO:0005902,Asthma,MESH:D001249,0,,1,TGFB1
+microvillus,GO:0005902,"Asthma, Occupational",MESH:D059366,0,,1,TGFB1
+mitochondria-associated endoplasmic reticulum membrane,GO:0044233,Asthma,MESH:D001249,4,Air Pollutants|Cadmium|Particulate Matter|perfluorooctane sulfonic acid,0,
+mitochondrial chromosome,GO:0000262,Asthma,MESH:D001249,1,bisphenol A,0,
+mitochondrial crista,GO:0030061,Asthma,MESH:D001249,0,,1,BCL2
+mitochondrial inner membrane,GO:0005743,Asthma,MESH:D001249,0,,1,CYP2E1
+mitochondrial inner membrane,GO:0005743,"Asthma, Occupational",MESH:D059366,0,,1,PLA2G4A
+mitochondrial intermembrane space,GO:0005758,Asthma,MESH:D001249,0,,1,SOD1
+mitochondrial matrix,GO:0005759,Asthma,MESH:D001249,0,,3,ALDH2|ARG2|SOD1
+mitochondrial membrane,GO:0031966,Asthma,MESH:D001249,2,Cadmium|Mercury,1,BCL2
+mitochondrial membrane,GO:0031966,"Asthma, Occupational",MESH:D059366,0,,1,PRKCA
+mitochondrial outer membrane,GO:0005741,Asthma,MESH:D001249,0,,3,ARG1|BCL2|HMOX1
+mitochondrial permeability transition pore complex,GO:0005757,Asthma,MESH:D001249,2,Arsenic Trioxide|Nifedipine,0,
+mitochondrial respiratory chain complex I,GO:0005747,Asthma,MESH:D001249,1,Streptozocin,0,
+"mitochondrial respiratory chain complex II, succinate dehydrogenase complex (ubiquinone)",GO:0005749,Asthma,MESH:D001249,1,Streptozocin,0,
+mitochondrial respiratory chain complex IV,GO:0005751,Asthma,MESH:D001249,1,Streptozocin,0,
+mitochondrion,GO:0005739,Asthma,MESH:D001249,4,Acetaldehyde|Isoproterenol|Paraquat|Particulate Matter,10,ALDH2|ARG2|BCL2|CAT|DNMT1|GSTM1|GSTP1|PARP1|PPP2CA|SOD1
+mitochondrion,GO:0005739,"Asthma, Occupational",MESH:D059366,0,,1,PRKCA
+mitochondrion,GO:0005739,Status Asthmaticus,MESH:D013224,1,Isoproterenol,0,
+motile cilium,GO:0031514,Asthma,MESH:D001249,0,,3,DNAH5|KIF3A|RAD50
+Mre11 complex,GO:0030870,Asthma,MESH:D001249,0,,1,RAD50
+mucus layer,GO:0070701,Asthma,MESH:D001249,2,"Air Pollutants, Occupational|Particulate Matter",0,
+Myb complex,GO:0031523,Asthma,MESH:D001249,0,,1,MYB
+myelin sheath,GO:0043209,Asthma,MESH:D001249,0,,1,BCL2
+myelin sheath adaxonal region,GO:0035749,Asthma,MESH:D001249,0,,1,PTEN
+myofibril,GO:0030016,Asthma,MESH:D001249,0,,1,PDE4D
+NADH dehydrogenase complex,GO:0030964,Asthma,MESH:D001249,1,bisphenol A,0,
+neurofilament,GO:0005883,Asthma,MESH:D001249,0,,1,HTR2A
+neuromuscular junction,GO:0031594,Asthma,MESH:D001249,1,Chlordan,0,
+neuromuscular junction,GO:0031594,"Asthma, Aspirin-Induced",MESH:D055963,0,,1,POSTN
+neuronal cell body,GO:0043025,Asthma,MESH:D001249,1,bisphenol A,10,AGER|ARG1|CCL2|HTR2A|KIF3A|NQO1|SOD1|TBX21|TGFB1|TNF
+neuronal cell body,GO:0043025,"Asthma, Aspirin-Induced",MESH:D055963,0,,1,TBX21
+neuronal cell body,GO:0043025,"Asthma, Nasal Polyps, And Aspirin Intolerance",MESH:C565935,0,,1,TBX21
+neuronal cell body,GO:0043025,"Asthma, Occupational",MESH:D059366,0,,4,AGER|PRKCA|TGFB1|TNF
+neuronal cell body membrane,GO:0032809,Asthma,MESH:D001249,0,,1,IL6R
+neuronal dense core vesicle,GO:0098992,Asthma,MESH:D001249,0,,1,NPY
+neuron projection,GO:0043005,Asthma,MESH:D001249,5,Aspirin|Benzo(a)pyrene|Decitabine|Paraquat|Tretinoin,3,ADCYAP1R1|KIF3A|PTEN
+neuron projection,GO:0043005,"Asthma, Aspirin-Induced",MESH:D055963,1,Aspirin,1,PTGS2
+neuron projection,GO:0043005,"Asthma, Nasal Polyps, And Aspirin Intolerance",MESH:C565935,1,Aspirin,0,
+neuron projection,GO:0043005,"Asthma, Occupational",MESH:D059366,0,,3,PTGS1|PTGS2|TENM3
+neutrophil extracellular trap,GO:0140644,Asthma,MESH:D001249,3,Acetaminophen|Arsenic|bisphenol A,0,
+nuclear body,GO:0016604,Asthma,MESH:D001249,0,,2,PARP1|STAT4
+nuclear envelope,GO:0005635,Asthma,MESH:D001249,0,,2,ALOX5|PARP1
+nuclear envelope,GO:0005635,"Asthma, Aspirin-Induced",MESH:D055963,0,,1,LTC4S
+nuclear envelope,GO:0005635,"Asthma, Occupational",MESH:D059366,0,,2,PLA2G4A|PTGS1
+nuclear envelope lumen,GO:0005641,Asthma,MESH:D001249,0,,1,ALOX5
+nuclear inner membrane,GO:0005637,"Asthma, Aspirin-Induced",MESH:D055963,0,,1,PTGS2
+nuclear inner membrane,GO:0005637,"Asthma, Occupational",MESH:D059366,0,,1,PTGS2
+nuclear matrix,GO:0016363,Asthma,MESH:D001249,0,,2,ALOX5|MYB
+nuclear membrane,GO:0031965,Asthma,MESH:D001249,0,,3,ALOX5|BCL2|PDE4D
+nuclear membrane,GO:0031965,"Asthma, Aspirin-Induced",MESH:D055963,0,,1,LTC4S
+nuclear outer membrane,GO:0005640,"Asthma, Aspirin-Induced",MESH:D055963,0,,2,LTC4S|PTGS2
+nuclear outer membrane,GO:0005640,"Asthma, Occupational",MESH:D059366,0,,1,PTGS2
+nuclear replication fork,GO:0043596,Asthma,MESH:D001249,0,,1,PARP1
+nuclear speck,GO:0016607,Asthma,MESH:D001249,0,,1,PYHIN1
+nuclear speck,GO:0016607,"Asthma, Aspirin-Induced",MESH:D055963,0,,1,TBXA2R
+nucleolus,GO:0005730,Asthma,MESH:D001249,0,,3,PARP1|PYHIN1|WDR36
+nucleoplasm,GO:0005654,Asthma,MESH:D001249,0,,19,ALOX5|DNMT1|FOXP3|HMOX1|HNMT|IKZF3|IL1RN|IL33|MYB|NOS2|PARP1|PDE4D|PTEN|PYHIN1|RAD50|SOD1|STAT4|TNIP1|WDR36
+nucleoplasm,GO:0005654,"Asthma, Occupational",MESH:D059366,0,,3,CDH17|HERC2|PRKCA
+nucleus,GO:0005634,Asthma,MESH:D001249,0,,30,AGER|ALOX5|AREG|ARG1|ARG2|BCL2|DNMT1|FOXP3|GSTP1|HMOX1|IKZF3|IL33|KRT19|MYB|NOS2|NQO1|PARP1|PDE4B|PDE4D|PPP2CA|PTEN|RAD50|SOD1|SPRR2B|STAT4|TBX21|TGFB1|TNIP1|TRPA1|VEGFA
+nucleus,GO:0005634,"Asthma, Aspirin-Induced",MESH:D055963,0,,1,TBX21
+nucleus,GO:0005634,"Asthma, Nasal Polyps, And Aspirin Intolerance",MESH:C565935,0,,1,TBX21
+nucleus,GO:0005634,"Asthma, Occupational",MESH:D059366,0,,6,AGER|HERC2|PLA2G4A|PRKCA|PRKD1|TGFB1
+nucleus,GO:0005634,"ASTHMA-RELATED TRAITS, SUSCEPTIBILITY TO, 5",OMIM:611064,0,,1,IRAK3
+ooplasm,GO:1990917,"Asthma, Occupational",MESH:D059366,0,,1,PRKCA
+outer dynein arm,GO:0036157,Asthma,MESH:D001249,0,,1,DNAH5
+paraspeckles,GO:0042382,Asthma,MESH:D001249,1,Paraquat,0,
+P-body,GO:0000932,Asthma,MESH:D001249,1,Arsenic,0,
+pericentric heterochromatin,GO:0005721,Asthma,MESH:D001249,0,,1,DNMT1
+perikaryon,GO:0043204,Asthma,MESH:D001249,0,,3,BGLAP|CCL2|NPY
+perinuclear region of cytoplasm,GO:0048471,Asthma,MESH:D001249,0,,10,ALOX5|BCL2|CCL2|CTLA4|HMOX1|NOS2|NPY|PDE4B|PDE4D|RAD50
+perinuclear region of cytoplasm,GO:0048471,"Asthma, Occupational",MESH:D059366,0,,3,PLA2G4A|PRKCA|PRKD1
+perinuclear region of cytoplasm,GO:0048471,"ASTHMA-RELATED TRAITS, SUSCEPTIBILITY TO, 7",OMIM:611960,0,,1,CHI3L1
+perisynaptic extracellular matrix,GO:0098966,Asthma,MESH:D001249,0,,1,TNC
+peroxisomal matrix,GO:0005782,Asthma,MESH:D001249,0,,2,CAT|NOS2
+peroxisomal membrane,GO:0005778,Asthma,MESH:D001249,0,,1,CAT
+peroxisome,GO:0005777,Asthma,MESH:D001249,1,perfluorooctane sulfonic acid,3,CAT|NOS2|SOD1
+phagocytic cup,GO:0001891,Asthma,MESH:D001249,1,bisphenol A,2,AGER|TNF
+phagocytic cup,GO:0001891,"Asthma, Occupational",MESH:D059366,0,,2,AGER|TNF
+phagocytic vesicle membrane,GO:0030670,Asthma,MESH:D001249,0,,1,HLA-G
+phagophore,GO:0061908,Asthma,MESH:D001249,1,Paraquat,0,
+photoreceptor connecting cilium,GO:0032391,Asthma,MESH:D001249,0,,1,KIF3A
+photoreceptor outer segment,GO:0001750,"Asthma, Occupational",MESH:D059366,0,,1,PTGS1
+plasma membrane,GO:0005886,Asthma,MESH:D001249,0,,34,ADCY2|ADCYAP1R1|AGER|CD14|CDHR3|CLDN18|CTLA4|GSDMB|HLA-DPB1|HLA-DQA1|HLA-DQB1|HLA-DRB1|HLA-G|HTR2A|ICAM1|IL1RL1|IL1RN|IL6R|KRT19|MMP1|MUC7|NPSR1|ORMDL3|PDE4B|PDE4D|PLAU|PPP2CA|PTEN|PTGDR2|SOD1|TGFB1|TNF|TRPA1|VEGFA
+plasma membrane,GO:0005886,"Asthma, Aspirin-Induced",MESH:D055963,0,,9,CCR3|CYSLTR1|CYSLTR2|HLA-DPB1|MS4A2|PTGDR2|PTGER2|PTGIR|TBXA2R
+plasma membrane,GO:0005886,"Asthma, Nasal Polyps, And Aspirin Intolerance",MESH:C565935,0,,1,PTGER2
+plasma membrane,GO:0005886,"Asthma, Occupational",MESH:D059366,0,,8,AGER|CDH17|HERC2|PRKCA|PRKD1|TENM3|TGFB1|TNF
+plasma membrane,GO:0005886,"ASTHMA-RELATED TRAITS, SUSCEPTIBILITY TO, 1",OMIM:607277,0,,1,PTGDR
+plasma membrane,GO:0005886,"ASTHMA-RELATED TRAITS, SUSCEPTIBILITY TO, 2",OMIM:608584,0,,1,NPSR1
+plasma membrane,GO:0005886,"ASTHMA-RELATED TRAITS, SUSCEPTIBILITY TO, 5",OMIM:611064,0,,1,IRAK3
+platelet alpha granule lumen,GO:0031093,Asthma,MESH:D001249,0,,2,TGFB1|VEGFA
+platelet alpha granule lumen,GO:0031093,"Asthma, Occupational",MESH:D059366,0,,1,TGFB1
+platelet dense granule lumen,GO:0031089,Asthma,MESH:D001249,0,,1,TIMP3
+PML body,GO:0016605,Asthma,MESH:D001249,1,Arsenic Trioxide,1,PTEN
+pore complex,GO:0046930,Asthma,MESH:D001249,0,,1,BCL2
+postsynapse,GO:0098794,Asthma,MESH:D001249,0,,2,AGER|KIF3A
+postsynapse,GO:0098794,"Asthma, Occupational",MESH:D059366,0,,1,AGER
+postsynaptic cytosol,GO:0099524,Asthma,MESH:D001249,0,,1,PTEN
+postsynaptic density,GO:0014069,Asthma,MESH:D001249,0,,2,PDE4B|PTEN
+"postsynaptic density, intracellular component",GO:0099092,Asthma,MESH:D001249,0,,1,MMP9
+postsynaptic membrane,GO:0045211,Asthma,MESH:D001249,0,,2,HTR2A|PTEN
+potassium channel complex,GO:0034705,Asthma,MESH:D001249,0,,1,PDE4D
+presynapse,GO:0098793,Asthma,MESH:D001249,0,,1,HTR2A
+presynaptic active zone membrane,GO:0048787,"Asthma, Occupational",MESH:D059366,0,,1,TENM3
+presynaptic cytosol,GO:0099523,"Asthma, Occupational",MESH:D059366,0,,1,PRKCA
+presynaptic membrane,GO:0042734,Asthma,MESH:D001249,0,,1,HTR2A
+pronucleus,GO:0045120,Asthma,MESH:D001249,0,,1,RAD50
+protein complex involved in cell adhesion,GO:0098636,Asthma,MESH:D001249,0,,1,CTLA4
+protein complex involved in cell-matrix adhesion,GO:0098637,Asthma,MESH:D001249,0,,1,PLAU
+protein-containing complex,GO:0032991,Asthma,MESH:D001249,0,,13,ADCY2|BCL2|CAT|DNMT1|FOXP3|GSTM1|GSTP1|MMP9|PARP1|PDE4D|PYHIN1|SOD1|TNF
+protein-containing complex,GO:0032991,"Asthma, Aspirin-Induced",MESH:D055963,0,,1,PTGS2
+protein-containing complex,GO:0032991,"Asthma, Occupational",MESH:D059366,0,,3,PRKCA|PTGS2|TNF
+protein-DNA complex,GO:0032993,Asthma,MESH:D001249,0,,1,PARP1
+protein phosphatase type 2A complex,GO:0000159,Asthma,MESH:D001249,0,,1,PPP2CA
+protein serine/threonine phosphatase complex,GO:0008287,Asthma,MESH:D001249,0,,1,PPP2CA
+pseudopodium,GO:0031143,Asthma,MESH:D001249,1,Mercury,0,
+Pwp2p-containing subcomplex of 90S preribosome,GO:0034388,Asthma,MESH:D001249,0,,1,WDR36
+receptor complex,GO:0043235,Asthma,MESH:D001249,0,,2,ADCYAP1R1|IL6R
+recycling endosome,GO:0055037,Asthma,MESH:D001249,0,,1,TNF
+recycling endosome,GO:0055037,"Asthma, Occupational",MESH:D059366,0,,1,TNF
+recycling endosome membrane,GO:0055038,Asthma,MESH:D001249,0,,1,HLA-G
+replication fork,GO:0005657,Asthma,MESH:D001249,0,,1,DNMT1
+ribbon synapse,GO:0097470,Asthma,MESH:D001249,0,,1,KIF3A
+ribosome,GO:0005840,Asthma,MESH:D001249,0,,1,NQO1
+ribosome,GO:0005840,"Asthma, Occupational",MESH:D059366,0,,1,PRKD1
+RNA polymerase II transcription regulator complex,GO:0090575,Asthma,MESH:D001249,0,,2,MYB|STAT4
+rough endoplasmic reticulum,GO:0005791,Asthma,MESH:D001249,1,Carbon Monoxide,0,
+rough endoplasmic reticulum lumen,GO:0048237,Asthma,MESH:D001249,0,,1,EDN1
+sarcolemma,GO:0042383,Asthma,MESH:D001249,0,,2,ALOX5|KRT19
+Schaffer collateral - CA1 synapse,GO:0098685,Asthma,MESH:D001249,0,,1,MMP9
+Schmidt-Lanterman incisure,GO:0043220,Asthma,MESH:D001249,0,,1,PTEN
+secretory granule,GO:0030141,Asthma,MESH:D001249,0,,5,IL1B|SOD1|TGFB1|TNF|VEGFA
+secretory granule,GO:0030141,"Asthma, Occupational",MESH:D059366,0,,2,TGFB1|TNF
+secretory granule lumen,GO:0034774,Asthma,MESH:D001249,0,,3,ALOX5|CAT|GSTP1
+secretory granule membrane,GO:0030667,Asthma,MESH:D001249,0,,2,CD14|ORMDL3
+serine C-palmitoyltransferase complex,GO:0017059,Asthma,MESH:D001249,0,,1,ORMDL3
+serine protease inhibitor complex,GO:0097180,Asthma,MESH:D001249,0,,1,PLAU
+serine-type endopeptidase complex,GO:1905370,Asthma,MESH:D001249,0,,1,PLAU
+site of DNA damage,GO:0090734,Asthma,MESH:D001249,0,,1,PARP1
+site of double-strand break,GO:0035861,Asthma,MESH:D001249,0,,2,PARP1|RAD50
+small-subunit processome,GO:0032040,Asthma,MESH:D001249,0,,1,WDR36
+specific granule lumen,GO:0035580,Asthma,MESH:D001249,0,,1,ARG1
+specific granule lumen,GO:0035580,"ASTHMA-RELATED TRAITS, SUSCEPTIBILITY TO, 7",OMIM:611960,0,,1,CHI3L1
+specific granule membrane,GO:0035579,Asthma,MESH:D001249,0,,2,ORMDL3|PLAU
+sperm flagellum,GO:0036126,Asthma,MESH:D001249,1,bisphenol A,0,
+sperm head,GO:0061827,Asthma,MESH:D001249,2,bisphenol A|Glyphosate,0,
+sperm head plasma membrane,GO:1990913,Asthma,MESH:D001249,1,bisphenol A,0,
+spindle microtubule,GO:0005876,Asthma,MESH:D001249,0,,1,KIF3A
+spindle pole,GO:0000922,Asthma,MESH:D001249,0,,1,PPP2CA
+stereocilium bundle,GO:0032421,Asthma,MESH:D001249,0,,1,TRPA1
+synapse,GO:0045202,Asthma,MESH:D001249,0,,4,HTR2A|NQO1|PPP2CA|PTEN
+synaptic cleft,GO:0043083,Asthma,MESH:D001249,0,,1,CDHR3
+synaptic vesicle,GO:0008021,Asthma,MESH:D001249,0,,1,PDE4B
+telopode,GO:0120327,Asthma,MESH:D001249,1,Arsenic,0,
+tenascin complex,GO:0090733,Asthma,MESH:D001249,0,,1,TNC
+terminal bouton,GO:0043195,Asthma,MESH:D001249,0,,2,NPY|PPP2CA
+terminal web,GO:1990357,Asthma,MESH:D001249,0,,1,KRT19
+tertiary granule lumen,GO:1904724,Asthma,MESH:D001249,0,,1,MMP9
+tertiary granule membrane,GO:0070821,Asthma,MESH:D001249,0,,1,PLAU
+tight junction,GO:0070160,Asthma,MESH:D001249,0,,1,CLDN18
+TRAF2-GSTP1 complex,GO:0097057,Asthma,MESH:D001249,0,,1,GSTP1
+transcription regulator complex,GO:0005667,Asthma,MESH:D001249,0,,1,PARP1
+trans-Golgi network,GO:0005802,"Asthma, Aspirin-Induced",MESH:D055963,0,,1,POSTN
+trans-Golgi network,GO:0005802,"Asthma, Occupational",MESH:D059366,0,,1,PRKD1
+trans-Golgi network membrane,GO:0032588,Asthma,MESH:D001249,0,,4,HLA-DPB1|HLA-DQA1|HLA-DQB1|HLA-DRB1
+trans-Golgi network membrane,GO:0032588,"Asthma, Aspirin-Induced",MESH:D055963,0,,1,HLA-DPB1
+translation initiation complex,GO:0070992,Asthma,MESH:D001249,1,bisphenol A,0,
+transport vesicle,GO:0030133,Asthma,MESH:D001249,0,,2,EDN1|IL33
+transport vesicle membrane,GO:0030658,Asthma,MESH:D001249,0,,4,HLA-DPB1|HLA-DQA1|HLA-DQB1|HLA-DRB1
+transport vesicle membrane,GO:0030658,"Asthma, Aspirin-Induced",MESH:D055963,0,,1,HLA-DPB1
+tubulin complex,GO:0045298,Asthma,MESH:D001249,1,Particulate Matter,0,
+U4/U6 x U5 tri-snRNP complex,GO:0046540,Asthma,MESH:D001249,0,,1,DNMT1
+VEGF-A complex,GO:1990150,Asthma,MESH:D001249,0,,1,VEGFA
+vesicle,GO:0031982,Asthma,MESH:D001249,0,,4,BGLAP|IL1B|IL1RN|VEGFA
+voltage-gated calcium channel complex,GO:0005891,Asthma,MESH:D001249,0,,2,PDE4B|PDE4D
+Weibel-Palade body,GO:0033093,Asthma,MESH:D001249,0,,1,EDN1
+Z disc,GO:0030018,Asthma,MESH:D001249,0,,2,KRT19|PDE4B
+Z disc,GO:0030018,"Asthma, Occupational",MESH:D059366,0,,1,PRKD1
+zymogen granule,GO:0042588,Asthma,MESH:D001249,1,Plant Preparations,0,
+zymogen granule,GO:0042588,"Asthma, Occupational",MESH:D059366,1,Plant Preparations,1,PLA2G4A

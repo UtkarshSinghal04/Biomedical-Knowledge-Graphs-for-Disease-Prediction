@@ -1,0 +1,611 @@
+GOName,GOID,DiseaseName,DiseaseID,InferenceChemicalQty,InferenceChemicalNames,InferenceGeneQty,InferenceGeneSymbols
+"2',3'-cyclic GMP-AMP binding",GO:0061507,Chilblain lupus 1,MESH:C535924,0,,1,STING1
+2-oxoglutarate-dependent dioxygenase activity,GO:0016706,"Lupus Erythematosus, Systemic",MESH:D008180,0,,2,PRL|SLC15A4
+3'-5'-exodeoxyribonuclease activity,GO:0008296,Chilblain lupus 1,MESH:C535924,0,,1,TREX1
+3'-5'-exodeoxyribonuclease activity,GO:0008296,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,TREX1
+3'-5' exonuclease activity,GO:0008408,Chilblain lupus 1,MESH:C535924,0,,1,TREX1
+3'-5' exonuclease activity,GO:0008408,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,TREX1
+3-beta-hydroxy-delta5-steroid dehydrogenase activity,GO:0003854,"Lupus Erythematosus, Systemic",MESH:D008180,1,Indomethacin,0,
+3beta-hydroxysteroid dehydrogenase activity,GO:0102727,"Lupus Erythematosus, Systemic",MESH:D008180,2,Chlorpromazine|Propylthiouracil,0,
+3beta-hydroxysteroid dehydrogenase activity,GO:0102727,Lupus Nephritis,MESH:D008181,1,Propylthiouracil,0,
+3-phosphoinositide-dependent protein kinase activity,GO:0004676,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,IRAK4
+"8-oxo-7,8-dihydroguanine DNA N-glycosylase activity",GO:0034039,"Lupus Erythematosus, Discoid",MESH:D008179,0,,1,OGG1
+acetylcholinesterase activity,GO:0003990,"Lupus Erythematosus, Systemic",MESH:D008180,2,Melatonin|Particulate Matter,0,
+acetyl-CoA carboxylase activity,GO:0003989,Lupus Nephritis,MESH:D008181,1,Niclosamide,0,
+[acetyl-CoA carboxylase] kinase activity,GO:0050405,Lupus Nephritis,MESH:D008181,1,Lipopolysaccharides,0,
+acid phosphatase activity,GO:0003993,"Lupus Erythematosus, Systemic",MESH:D008180,3,Estradiol|Folic Acid|Sulfasalazine,0,
+actin binding,GO:0003779,"Lupus Erythematosus, Systemic",MESH:D008180,0,,2,DNASE1|PXK
+actinin binding,GO:0042805,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,CRP
+adenyl deoxyribonucleotide binding,GO:0032558,Chilblain lupus 1,MESH:C535924,0,,1,TREX1
+adenyl deoxyribonucleotide binding,GO:0032558,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,TREX1
+adrenergic receptor activity,GO:0004935,Lupus Nephritis,MESH:D008181,1,Dexamethasone,0,
+alditol:NADP+ 1-oxidoreductase activity,GO:0004032,"Lupus Erythematosus, Cutaneous",MESH:D008178,1,Valproic Acid,0,
+alditol:NADP+ 1-oxidoreductase activity,GO:0004032,"Lupus Erythematosus, Systemic",MESH:D008180,1,Valproic Acid,0,
+alditol:NADP+ 1-oxidoreductase activity,GO:0004032,Lupus Nephritis,MESH:D008181,1,Rutin,0,
+alkaline phosphatase activity,GO:0004035,"Lupus Erythematosus, Cutaneous",MESH:D008178,5,Chloroquine|Fluorouracil|Hydroxychloroquine|Prednisolone|Valproic Acid,0,
+alkaline phosphatase activity,GO:0004035,"Lupus Erythematosus, Discoid",MESH:D008179,2,Chloroquine|Hydroxychloroquine,0,
+alkaline phosphatase activity,GO:0004035,"Lupus Erythematosus, Systemic",MESH:D008180,14,Chloroquine|Cyclophosphamide|Diclofenac|Estradiol|Folic Acid|Homocysteine|Hydroxychloroquine|Isoniazid|Methotrexate|Prednisolone|Sulfasalazine|triptolide|Valproic Acid|Vincristine,0,
+alkaline phosphatase activity,GO:0004035,Lupus Nephritis,MESH:D008181,7,Cyclophosphamide|Dexamethasone|Isoniazid|Lipopolysaccharides|Methimazole|Prednisolone|Rutin,0,
+alkaline phosphatase activity,GO:0004035,"Lupus Vasculitis, Central Nervous System",MESH:D020945,1,Cyclophosphamide,0,
+aminoacylase activity,GO:0004046,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,CAT
+AMP-activated protein kinase activity,GO:0004679,"Lupus Erythematosus, Systemic",MESH:D008180,1,Folic Acid,1,IRAK4
+AMP-activated protein kinase activity,GO:0004679,Lupus Nephritis,MESH:D008181,2,Lipopolysaccharides|Niclosamide,0,
+amylase activity,GO:0016160,Lupus Nephritis,MESH:D008181,2,Dexamethasone|Lipopolysaccharides,0,
+amyloid-beta binding,GO:0001540,"Lupus Erythematosus, Systemic",MESH:D008180,0,,4,C1QA|CLU|FCGR2B|ITGAM
+amyloid-beta binding,GO:0001540,"Lupus Vasculitis, Central Nervous System",MESH:D020945,0,,1,ITGAM
+antioxidant activity,GO:0016209,"Lupus Erythematosus, Systemic",MESH:D008180,4,Cyclophosphamide|Melatonin|Particulate Matter|Sulfasalazine,1,CAT
+antioxidant activity,GO:0016209,Lupus Nephritis,MESH:D008181,2,Cyclophosphamide|Pentoxifylline,0,
+antioxidant activity,GO:0016209,"Lupus Vasculitis, Central Nervous System",MESH:D020945,1,Cyclophosphamide,0,
+AP-1 adaptor complex binding,GO:0035650,"Lupus Erythematosus, Systemic",MESH:D008180,1,Silicon Dioxide,0,
+arginase activity,GO:0004053,"Lupus Erythematosus, Cutaneous",MESH:D008178,1,Valproic Acid,0,
+arginase activity,GO:0004053,"Lupus Erythematosus, Systemic",MESH:D008180,1,Valproic Acid,0,
+aryldialkylphosphatase activity,GO:0004063,"Lupus Erythematosus, Cutaneous",MESH:D008178,1,Valproic Acid,0,
+aryldialkylphosphatase activity,GO:0004063,"Lupus Erythematosus, Systemic",MESH:D008180,1,Valproic Acid,0,
+ATPase-coupled intramembrane lipid transporter activity,GO:0140326,"Lupus Erythematosus, Systemic",MESH:D008180,1,Chlorpromazine,0,
+ATP binding,GO:0005524,"Lupus Erythematosus, Systemic",MESH:D008180,0,,7,BANK1|BLK|CSK|IFIH1|IRAK4|PXK|RASGRP3
+ATP binding,GO:0005524,Lupus Nephritis,MESH:D008181,0,,1,JAK1
+ATP hydrolysis activity,GO:0016887,"Lupus Erythematosus, Cutaneous",MESH:D008178,1,Chloroquine,0,
+ATP hydrolysis activity,GO:0016887,"Lupus Erythematosus, Discoid",MESH:D008179,1,Chloroquine,0,
+ATP hydrolysis activity,GO:0016887,"Lupus Erythematosus, Systemic",MESH:D008180,4,Chloroquine|Particulate Matter|Silicon Dioxide|triptolide,1,IFIH1
+ATP hydrolysis activity,GO:0016887,Lupus Nephritis,MESH:D008181,1,Lipopolysaccharides,0,
+beta-catenin binding,GO:0008013,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,TCF7
+beta-galactosidase activity,GO:0004565,"Lupus Erythematosus, Systemic",MESH:D008180,2,Estradiol|Particulate Matter,0,
+beta-tubulin binding,GO:0048487,"Lupus Erythematosus, Systemic",MESH:D008180,1,Vincristine,0,
+butyrate-CoA ligase activity,GO:0047760,"Lupus Erythematosus, Systemic",MESH:D008180,1,Diclofenac,0,
+C5L2 anaphylatoxin chemotactic receptor binding,GO:0031715,Lupus Nephritis,MESH:D008181,0,,1,C3
+calcium-dependent ATPase activity,GO:0030899,"Lupus Erythematosus, Systemic",MESH:D008180,3,Aspirin|Chlorpromazine|Propylthiouracil,0,
+calcium-dependent ATPase activity,GO:0030899,Lupus Nephritis,MESH:D008181,1,Propylthiouracil,0,
+calcium-dependent phospholipase A2 activity,GO:0047498,Lupus Nephritis,MESH:D008181,1,Rutin,0,
+calcium-dependent phospholipid binding,GO:0005544,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,ANXA3
+calcium-dependent protein binding,GO:0048306,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,ANXA3
+calcium-dependent protein serine/threonine phosphatase activity,GO:0004723,"Lupus Erythematosus, Systemic",MESH:D008180,1,Tacrolimus,0,
+calcium-dependent protein serine/threonine phosphatase activity,GO:0004723,Lupus Nephritis,MESH:D008181,1,Tacrolimus,0,
+calcium ion binding,GO:0005509,"Lupus Erythematosus, Systemic",MESH:D008180,0,,6,ANXA3|CRP|DEF6|DNASE1L3|RASGRP1|RASGRP3
+calmodulin binding,GO:0005516,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,FAS
+calmodulin binding,GO:0005516,Lupus Nephritis,MESH:D008181,0,,1,FAS
+calmodulin-dependent protein kinase activity,GO:0004683,"Lupus Erythematosus, Systemic",MESH:D008180,1,Vincristine,0,
+cAMP-dependent protein kinase activity,GO:0004691,"Lupus Erythematosus, Systemic",MESH:D008180,1,Propylthiouracil,0,
+cAMP-dependent protein kinase activity,GO:0004691,Lupus Nephritis,MESH:D008181,1,Propylthiouracil,0,
+carbohydrate binding,GO:0030246,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,SIGLEC6
+carbonate dehydratase activity,GO:0004089,"Lupus Erythematosus, Cutaneous",MESH:D008178,1,Valproic Acid,0,
+carbonate dehydratase activity,GO:0004089,"Lupus Erythematosus, Systemic",MESH:D008180,1,Valproic Acid,0,
+carbonate dehydratase activity,GO:0004089,Lupus Nephritis,MESH:D008181,1,Dexamethasone,0,
+cargo receptor activity,GO:0038024,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,ITGAM
+cargo receptor activity,GO:0038024,"Lupus Vasculitis, Central Nervous System",MESH:D020945,0,,1,ITGAM
+catalase activity,GO:0004096,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,CAT
+catalytic activity,GO:0003824,Chilblain lupus 1,MESH:C535924,0,,1,SAMHD1
+catalytic activity,GO:0003824,CHILBLAIN LUPUS 2,OMIM:614415,0,,1,SAMHD1
+catalytic activity,GO:0003824,"Lupus Erythematosus, Discoid",MESH:D008179,0,,1,OGG1
+catalytic activity,GO:0003824,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,DNASE1
+"catalytic activity, acting on DNA",GO:0140097,"Lupus Erythematosus, Discoid",MESH:D008179,0,,1,OGG1
+CCR5 chemokine receptor binding,GO:0031730,Lupus Nephritis,MESH:D008181,0,,2,JAK1|STAT1
+CD40 receptor binding,GO:0005174,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,CD40LG
+CD4 receptor binding,GO:0042609,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,HLA-DRB1
+cell adhesion molecule binding,GO:0050839,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,CD226
+chaperone binding,GO:0051087,"Lupus Erythematosus, Systemic",MESH:D008180,0,,2,CLU|TERT
+chloride transmembrane transporter activity,GO:0015108,"Lupus Erythematosus, Systemic",MESH:D008180,1,Estradiol,0,
+cholesterol binding,GO:0015485,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,CRP
+choline binding,GO:0033265,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,CRP
+chromatin insulator sequence binding,GO:0043035,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,IKZF1
+class I DNA-(apurinic or apyrimidinic site) endonuclease activity,GO:0140078,"Lupus Erythematosus, Discoid",MESH:D008179,0,,1,OGG1
+collagen binding,GO:0005518,Lupus Nephritis,MESH:D008181,0,,1,MMP9
+complement binding,GO:0001848,"Lupus Erythematosus, Systemic",MESH:D008180,0,,2,CFB|CR2
+complement binding,GO:0001848,Lupus Nephritis,MESH:D008181,0,,1,SERPING1
+complement component C1q complex binding,GO:0001849,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,CRP
+complement component C3b binding,GO:0001851,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,ITGAM
+complement component C3b binding,GO:0001851,"Lupus Vasculitis, Central Nervous System",MESH:D020945,0,,1,ITGAM
+complement receptor activity,GO:0004875,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,CR2
+creatine kinase activity,GO:0004111,Lupus Nephritis,MESH:D008181,3,Dexamethasone|Lipopolysaccharides|Rutin,0,
+cyclic-di-GMP binding,GO:0035438,Chilblain lupus 1,MESH:C535924,0,,1,STING1
+cysteine-type deubiquitinase activity,GO:0004843,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,TNFAIP3
+cysteine-type endopeptidase activity,GO:0004197,"Lupus Erythematosus, Cutaneous",MESH:D008178,1,Fluorouracil,0,
+cysteine-type endopeptidase activity,GO:0004197,"Lupus Erythematosus, Systemic",MESH:D008180,3,Amiodarone|Celecoxib|Particulate Matter,0,
+cysteine-type endopeptidase activity,GO:0004197,Lupus Nephritis,MESH:D008181,1,Lipopolysaccharides,0,
+cysteine-type endopeptidase activity involved in apoptotic process,GO:0097153,"Lupus Erythematosus, Cutaneous",MESH:D008178,2,Chloroquine|Rifampin,0,
+cysteine-type endopeptidase activity involved in apoptotic process,GO:0097153,"Lupus Erythematosus, Discoid",MESH:D008179,1,Chloroquine,0,
+cysteine-type endopeptidase activity involved in apoptotic process,GO:0097153,"Lupus Erythematosus, Systemic",MESH:D008180,4,Chloroquine|Folic Acid|Homocysteine|Rifampin,0,
+cysteine-type endopeptidase activity involved in apoptotic process,GO:0097153,Lupus Nephritis,MESH:D008181,1,Rifampin,0,
+cysteine-type peptidase activity,GO:0008234,"Lupus Erythematosus, Cutaneous",MESH:D008178,1,Fluorouracil,0,
+cysteine-type peptidase activity,GO:0008234,"Lupus Erythematosus, Systemic",MESH:D008180,1,Cyclophosphamide,0,
+cysteine-type peptidase activity,GO:0008234,Lupus Nephritis,MESH:D008181,1,Cyclophosphamide,0,
+cysteine-type peptidase activity,GO:0008234,"Lupus Vasculitis, Central Nervous System",MESH:D020945,1,Cyclophosphamide,0,
+cystine:glutamate antiporter activity,GO:0015327,"Lupus Erythematosus, Systemic",MESH:D008180,1,Sulfasalazine,0,
+cytochrome-c oxidase activity,GO:0004129,"Lupus Erythematosus, Cutaneous",MESH:D008178,1,Chloroquine,0,
+cytochrome-c oxidase activity,GO:0004129,"Lupus Erythematosus, Discoid",MESH:D008179,1,Chloroquine,0,
+cytochrome-c oxidase activity,GO:0004129,"Lupus Erythematosus, Systemic",MESH:D008180,6,Aspirin|Celecoxib|Chloroquine|Cyclophosphamide|Particulate Matter|Tobacco Smoke Pollution,0,
+cytochrome-c oxidase activity,GO:0004129,Lupus Nephritis,MESH:D008181,2,Cyclophosphamide|Lipopolysaccharides,0,
+cytochrome-c oxidase activity,GO:0004129,"Lupus Vasculitis, Central Nervous System",MESH:D020945,1,Cyclophosphamide,0,
+cytokine activity,GO:0005125,"Lupus Erythematosus, Systemic",MESH:D008180,0,,7,CD40LG|IL10|IL12B|IL21|IL4|IL6|TNFSF4
+cytokine activity,GO:0005125,Lupus Nephritis,MESH:D008181,0,,1,IFNG
+cytokine receptor activity,GO:0004896,"Lupus Erythematosus, Systemic",MESH:D008180,0,,2,IL12B|IL21R
+cytokine receptor binding,GO:0005126,"Lupus Erythematosus, Systemic",MESH:D008180,0,,2,IL12B|IL21
+cytokine receptor binding,GO:0005126,Lupus Nephritis,MESH:D008181,0,,1,JAK1
+D-alanine:2-oxoglutarate aminotransferase activity,GO:0047810,"Lupus Erythematosus, Cutaneous",MESH:D008178,1,Rifampin,0,
+D-alanine:2-oxoglutarate aminotransferase activity,GO:0047810,"Lupus Erythematosus, Systemic",MESH:D008180,2,Isoniazid|Rifampin,0,
+D-alanine:2-oxoglutarate aminotransferase activity,GO:0047810,Lupus Nephritis,MESH:D008181,3,Isoniazid|Rifampin|Rutin,0,
+damaged DNA binding,GO:0003684,"Lupus Erythematosus, Discoid",MESH:D008179,0,,1,OGG1
+deoxynucleoside triphosphate hydrolase activity,GO:0106375,Chilblain lupus 1,MESH:C535924,0,,1,SAMHD1
+deoxynucleoside triphosphate hydrolase activity,GO:0106375,CHILBLAIN LUPUS 2,OMIM:614415,0,,1,SAMHD1
+deoxyribonuclease activity,GO:0004536,"Lupus Erythematosus, Systemic",MESH:D008180,0,,2,DNASE1|DNASE1L3
+deoxyribonuclease I activity,GO:0004530,"Lupus Erythematosus, Systemic",MESH:D008180,0,,2,DNASE1|DNASE1L3
+D-glutamyltransferase activity,GO:0047823,"Lupus Erythematosus, Systemic",MESH:D008180,2,Folic Acid|Particulate Matter,0,
+dGTPase activity,GO:0008832,Chilblain lupus 1,MESH:C535924,0,,1,SAMHD1
+dGTPase activity,GO:0008832,CHILBLAIN LUPUS 2,OMIM:614415,0,,1,SAMHD1
+dGTP binding,GO:0032567,Chilblain lupus 1,MESH:C535924,0,,1,SAMHD1
+dGTP binding,GO:0032567,CHILBLAIN LUPUS 2,OMIM:614415,0,,1,SAMHD1
+diacylglycerol binding,GO:0019992,"Lupus Erythematosus, Systemic",MESH:D008180,0,,2,RASGRP1|RASGRP3
+dimethylargininase activity,GO:0016403,"Lupus Erythematosus, Systemic",MESH:D008180,2,Folic Acid|Homocysteine,0,
+dioxygenase activity,GO:0051213,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,PTGS2
+dipeptide transmembrane transporter activity,GO:0071916,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,SLC15A4
+DNA binding,GO:0003677,Chilblain lupus 1,MESH:C535924,0,,1,TREX1
+DNA binding,GO:0003677,"Lupus Erythematosus, Discoid",MESH:D008179,0,,1,OGG1
+DNA binding,GO:0003677,"Lupus Erythematosus, Systemic",MESH:D008180,0,,11,CR2|DNASE1|DNASE1L3|ETS1|IFIH1|IKZF1|STAT4|TCF7|TERT|TNFAIP3|TREX1
+DNA binding,GO:0003677,Lupus Nephritis,MESH:D008181,0,,1,STAT1
+"DNA binding, bending",GO:0008301,Chilblain lupus 1,MESH:C535924,0,,1,TREX1
+"DNA binding, bending",GO:0008301,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,TREX1
+"DNA-binding transcription activator activity, RNA polymerase II-specific",GO:0001228,"Lupus Erythematosus, Systemic",MESH:D008180,0,,4,ETS1|IKZF1|IRF5|STAT4
+DNA-binding transcription factor activity,GO:0003700,"Lupus Erythematosus, Systemic",MESH:D008180,1,Estradiol,7,ETS1|IKZF1|IRF5|PHRF1|PRDM1|STAT4|TCF7
+DNA-binding transcription factor activity,GO:0003700,Lupus Nephritis,MESH:D008181,1,Lipopolysaccharides,1,STAT1
+"DNA-binding transcription factor activity, RNA polymerase II-specific",GO:0000981,"Lupus Erythematosus, Cutaneous",MESH:D008178,1,Hydroxychloroquine,0,
+"DNA-binding transcription factor activity, RNA polymerase II-specific",GO:0000981,"Lupus Erythematosus, Discoid",MESH:D008179,1,Hydroxychloroquine,0,
+"DNA-binding transcription factor activity, RNA polymerase II-specific",GO:0000981,"Lupus Erythematosus, Systemic",MESH:D008180,1,Hydroxychloroquine,6,CRP|ETS1|IKZF1|IRF5|STAT4|TCF7
+"DNA-binding transcription factor activity, RNA polymerase II-specific",GO:0000981,Lupus Nephritis,MESH:D008181,0,,1,STAT1
+DNA-binding transcription factor binding,GO:0140297,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,ETS1
+DNA-binding transcription repressor activity,GO:0001217,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,TCF7
+"DNA-binding transcription repressor activity, RNA polymerase II-specific",GO:0001227,"Lupus Erythematosus, Systemic",MESH:D008180,0,,2,PRDM1|TCF7
+DNA-dependent protein kinase activity,GO:0004677,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,IRAK4
+DNA-methyltransferase activity,GO:0009008,"Lupus Erythematosus, Systemic",MESH:D008180,2,Estradiol|Folic Acid,0,
+DNA N-glycosylase activity,GO:0019104,"Lupus Erythematosus, Discoid",MESH:D008179,0,,1,OGG1
+"DNA topoisomerase type II (double strand cut, ATP-hydrolyzing) activity",GO:0003918,Lupus Nephritis,MESH:D008181,1,Niclosamide,0,
+dopamine neurotransmitter receptor activity,GO:0004952,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,PHRF1
+double-stranded DNA 3'-5' exodeoxyribonuclease activity,GO:0008311,Chilblain lupus 1,MESH:C535924,0,,1,TREX1
+double-stranded DNA 3'-5' exodeoxyribonuclease activity,GO:0008311,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,TREX1
+double-stranded DNA binding,GO:0003690,Chilblain lupus 1,MESH:C535924,0,,1,TREX1
+double-stranded DNA binding,GO:0003690,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,TREX1
+double-stranded DNA binding,GO:0003690,Lupus Nephritis,MESH:D008181,0,,1,STAT1
+double-stranded RNA binding,GO:0003725,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,IFIH1
+D-sorbitol dehydrogenase (acceptor) activity,GO:0047833,"Lupus Erythematosus, Cutaneous",MESH:D008178,1,Valproic Acid,0,
+D-sorbitol dehydrogenase (acceptor) activity,GO:0047833,"Lupus Erythematosus, Systemic",MESH:D008180,1,Valproic Acid,0,
+electron transfer activity,GO:0009055,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,NCF1
+endodeoxyribonuclease activity,GO:0004520,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,DNASE1L3
+endonuclease activity,GO:0004519,"Lupus Erythematosus, Discoid",MESH:D008179,0,,1,OGG1
+endonuclease activity,GO:0004519,"Lupus Erythematosus, Systemic",MESH:D008180,0,,2,DNASE1|DNASE1L3
+endopeptidase activity,GO:0004175,"Lupus Erythematosus, Systemic",MESH:D008180,2,Particulate Matter|Tobacco Smoke Pollution,0,
+endopeptidase activity,GO:0004175,Lupus Nephritis,MESH:D008181,0,,2,MMP2|MMP9
+endopeptidase inhibitor activity,GO:0004866,Lupus Nephritis,MESH:D008181,0,,1,C3
+enzyme binding,GO:0019899,"Lupus Erythematosus, Discoid",MESH:D008179,0,,1,OGG1
+enzyme binding,GO:0019899,"Lupus Erythematosus, Systemic",MESH:D008180,0,,2,CAT|PTGS2
+enzyme binding,GO:0019899,Lupus Nephritis,MESH:D008181,0,,1,STAT1
+estradiol 17-beta-dehydrogenase activity,GO:0004303,"Lupus Erythematosus, Systemic",MESH:D008180,3,Chlorpromazine|Indomethacin|Propylthiouracil,0,
+estradiol 17-beta-dehydrogenase activity,GO:0004303,Lupus Nephritis,MESH:D008181,1,Propylthiouracil,0,
+eukaryotic translation initiation factor 2alpha kinase activity,GO:0004694,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,IRAK4
+excinuclease ABC activity,GO:0009381,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,PHRF1
+exodeoxyribonuclease activity,GO:0004529,Chilblain lupus 1,MESH:C535924,0,,1,TREX1
+exodeoxyribonuclease activity,GO:0004529,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,TREX1
+fibronectin binding,GO:0001968,Lupus Nephritis,MESH:D008181,0,,2,MMP2|MMP9
+FMN binding,GO:0010181,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,CSK
+gap junction channel activity,GO:0005243,"Lupus Erythematosus, Systemic",MESH:D008180,1,Particulate Matter,0,
+glucuronosyltransferase activity,GO:0015020,"Lupus Erythematosus, Systemic",MESH:D008180,1,Estradiol,0,
+glutamate dehydrogenase (NAD+) activity,GO:0004352,"Lupus Erythematosus, Systemic",MESH:D008180,1,Melatonin,0,
+glutaminase activity,GO:0004359,Lupus Nephritis,MESH:D008181,1,arsenic disulfide,0,
+glutathione peroxidase activity,GO:0004602,"Lupus Erythematosus, Cutaneous",MESH:D008178,3,Chloroquine|Fluorouracil|Valproic Acid,0,
+glutathione peroxidase activity,GO:0004602,"Lupus Erythematosus, Discoid",MESH:D008179,1,Chloroquine,0,
+glutathione peroxidase activity,GO:0004602,"Lupus Erythematosus, Systemic",MESH:D008180,19,Amiodarone|Chloroquine|Cyclophosphamide|Diclofenac|Estradiol|Folic Acid|Homocysteine|Indomethacin|Isoniazid|Melatonin|Methotrexate|Particulate Matter|Propylthiouracil|Ranitidine|Sulfasalazine|Tobacco Smoke Pollution|triptolide|Valproic Acid|Vincristine,0,
+glutathione peroxidase activity,GO:0004602,Lupus Nephritis,MESH:D008181,6,Cyclophosphamide|Dexamethasone|Isoniazid|Lipopolysaccharides|Propylthiouracil|Rutin,0,
+glutathione peroxidase activity,GO:0004602,"Lupus Vasculitis, Central Nervous System",MESH:D020945,1,Cyclophosphamide,0,
+glutathione transferase activity,GO:0004364,"Lupus Erythematosus, Cutaneous",MESH:D008178,2,Fluorouracil|Valproic Acid,0,
+glutathione transferase activity,GO:0004364,"Lupus Erythematosus, Systemic",MESH:D008180,9,Cyclophosphamide|Folic Acid|Isoniazid|Melatonin|Methotrexate|Particulate Matter|Propylthiouracil|Valproic Acid|Vitamin B 12,0,
+glutathione transferase activity,GO:0004364,Lupus Nephritis,MESH:D008181,6,Cyclophosphamide|Dexamethasone|Isoniazid|Lipopolysaccharides|Propylthiouracil|Rutin,0,
+glutathione transferase activity,GO:0004364,"Lupus Vasculitis, Central Nervous System",MESH:D020945,1,Cyclophosphamide,0,
+GPI anchor binding,GO:0034235,Lupus Nephritis,MESH:D008181,0,,1,FCGR3B
+GPI anchor binding,GO:0034235,"Lupus Vasculitis, Central Nervous System",MESH:D020945,0,,1,FCGR3B
+G protein-coupled adenosine receptor activity,GO:0001609,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,P2RY12
+G protein-coupled ADP receptor activity,GO:0001621,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,P2RY12
+G protein-coupled photoreceptor activity,GO:0008020,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,CD40LG
+G protein-coupled purinergic nucleotide receptor activity,GO:0045028,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,P2RY12
+G protein-coupled receptor activity,GO:0004930,"Lupus Erythematosus, Systemic",MESH:D008180,0,,4,CD40LG|CR2|P2RY12|PHRF1
+growth factor activity,GO:0008083,"Lupus Erythematosus, Systemic",MESH:D008180,0,,4,IL10|IL12B|IL4|IL6
+growth hormone receptor binding,GO:0005131,Lupus Nephritis,MESH:D008181,0,,1,JAK1
+GTPase activator activity,GO:0005096,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,RASGRP3
+GTP binding,GO:0005525,Chilblain lupus 1,MESH:C535924,0,,1,SAMHD1
+GTP binding,GO:0005525,CHILBLAIN LUPUS 2,OMIM:614415,0,,1,SAMHD1
+GTP binding,GO:0005525,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,P2RY12
+guanyl-nucleotide exchange factor activity,GO:0005085,"Lupus Erythematosus, Systemic",MESH:D008180,0,,4,DEF6|P2RY12|RASGRP1|RASGRP3
+H3K27me3 modified histone binding,GO:0061628,"Lupus Erythematosus, Systemic",MESH:D008180,1,Particulate Matter,0,
+heat shock protein binding,GO:0031072,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,ITGAM
+heat shock protein binding,GO:0031072,"Lupus Vasculitis, Central Nervous System",MESH:D020945,0,,1,ITGAM
+helicase activity,GO:0004386,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,IFIH1
+heme binding,GO:0020037,"Lupus Erythematosus, Systemic",MESH:D008180,0,,2,CAT|PTGS2
+heparan sulfate proteoglycan binding,GO:0043395,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,ITGAM
+heparan sulfate proteoglycan binding,GO:0043395,"Lupus Vasculitis, Central Nervous System",MESH:D020945,0,,1,ITGAM
+heparin binding,GO:0008201,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,ITGAM
+heparin binding,GO:0008201,"Lupus Vasculitis, Central Nervous System",MESH:D020945,0,,1,ITGAM
+hexokinase activity,GO:0004396,"Lupus Erythematosus, Cutaneous",MESH:D008178,1,Valproic Acid,0,
+hexokinase activity,GO:0004396,"Lupus Erythematosus, Systemic",MESH:D008180,4,Chlorpromazine|Indomethacin|Particulate Matter|Valproic Acid,0,
+high voltage-gated calcium channel activity,GO:0008331,"Lupus Erythematosus, Systemic",MESH:D008180,1,Particulate Matter,0,
+histone acetyltransferase activity,GO:0004402,"Lupus Erythematosus, Cutaneous",MESH:D008178,2,Fluorouracil|Valproic Acid,0,
+histone acetyltransferase activity,GO:0004402,"Lupus Erythematosus, Systemic",MESH:D008180,2,Estradiol|Valproic Acid,0,
+histone acetyltransferase binding,GO:0035035,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,ETS1
+histone acetyltransferase binding,GO:0035035,Lupus Nephritis,MESH:D008181,0,,1,STAT1
+histone binding,GO:0042393,Lupus Nephritis,MESH:D008181,0,,1,STAT1
+histone deacetylase activity,GO:0004407,"Lupus Erythematosus, Cutaneous",MESH:D008178,1,Valproic Acid,0,
+histone deacetylase activity,GO:0004407,"Lupus Erythematosus, Systemic",MESH:D008180,2,Estradiol|Valproic Acid,0,
+histone deacetylase binding,GO:0042826,"Lupus Erythematosus, Systemic",MESH:D008180,0,,2,BLTP3A|PRDM1
+histone H2AS121 kinase activity,GO:0072371,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,IRAK4
+histone H2AS139 kinase activity,GO:0035979,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,IRAK4
+histone H2AS1 kinase activity,GO:0044024,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,IRAK4
+histone H2AT120 kinase activity,GO:1990244,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,IRAK4
+histone H2AY142 kinase activity,GO:0140801,Lupus Nephritis,MESH:D008181,0,,1,JAK1
+histone H2BS14 kinase activity,GO:0044025,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,IRAK4
+histone H2BS36 kinase activity,GO:0140823,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,IRAK4
+histone H2Y142 phosphatase activity,GO:0140793,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,PTPN22
+histone H3K9 demethylase activity,GO:0032454,"Lupus Erythematosus, Systemic",MESH:D008180,2,Melatonin|Particulate Matter,0,
+histone H3S10 kinase activity,GO:0035175,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,IRAK4
+histone H3S28 kinase activity,GO:0044022,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,IRAK4
+histone H3S57 kinase activity,GO:0140855,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,IRAK4
+histone H3T11 kinase activity,GO:0035402,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,IRAK4
+histone H3T3 kinase activity,GO:0072354,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,IRAK4
+histone H3T45 kinase activity,GO:0140857,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,IRAK4
+histone H3T6 kinase activity,GO:0035403,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,IRAK4
+histone H3Y41 kinase activity,GO:0035401,Lupus Nephritis,MESH:D008181,0,,1,JAK1
+histone H4S1 kinase activity,GO:0044023,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,IRAK4
+histone methyltransferase binding,GO:1990226,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,PRDM1
+hormone activity,GO:0005179,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,PRL
+hydrolase activity,GO:0016787,Chilblain lupus 1,MESH:C535924,0,,1,SAMHD1
+hydrolase activity,GO:0016787,CHILBLAIN LUPUS 2,OMIM:614415,0,,1,SAMHD1
+hydrolase activity,GO:0016787,"Lupus Erythematosus, Systemic",MESH:D008180,0,,4,DNASE1|IFIH1|PTPN22|TNFAIP3
+hydrolase activity,GO:0016787,Lupus Nephritis,MESH:D008181,0,,2,MMP2|MMP9
+"hydrolase activity, acting on ester bonds",GO:0016788,"Lupus Erythematosus, Systemic",MESH:D008180,1,Cyclophosphamide,0,
+"hydrolase activity, acting on ester bonds",GO:0016788,Lupus Nephritis,MESH:D008181,1,Cyclophosphamide,0,
+"hydrolase activity, acting on ester bonds",GO:0016788,"Lupus Vasculitis, Central Nervous System",MESH:D020945,1,Cyclophosphamide,0,
+"hydrolase activity, acting on glycosyl bonds",GO:0016798,"Lupus Erythematosus, Discoid",MESH:D008179,0,,1,OGG1
+identical protein binding,GO:0042802,Chilblain lupus 1,MESH:C535924,0,,3,SAMHD1|STING1|TREX1
+identical protein binding,GO:0042802,CHILBLAIN LUPUS 2,OMIM:614415,0,,1,SAMHD1
+identical protein binding,GO:0042802,"Lupus Erythematosus, Systemic",MESH:D008180,0,,18,BLTP3A|CAT|CD226|CRP|CSK|ETS1|FAS|IFIH1|IKZF1|IL12B|IL6|IRF5|RASGRP1|STAT4|TERT|TNFAIP3|TNIP1|TREX1
+identical protein binding,GO:0042802,Lupus Nephritis,MESH:D008181,0,,3,FAS|MMP9|STAT1
+IgE binding,GO:0019863,"Lupus Vasculitis, Central Nervous System",MESH:D020945,0,,1,FCGR3A
+IgE receptor activity,GO:0019767,"Lupus Vasculitis, Central Nervous System",MESH:D020945,0,,1,FCGR3A
+IgG binding,GO:0019864,"Lupus Erythematosus, Systemic",MESH:D008180,0,,2,FCGR2A|FCGR2B
+IgG binding,GO:0019864,Lupus Nephritis,MESH:D008181,0,,1,FCGR3B
+IgG binding,GO:0019864,"Lupus Vasculitis, Central Nervous System",MESH:D020945,0,,2,FCGR3A|FCGR3B
+IgG receptor activity,GO:0019770,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,FCGR2A
+IgG receptor activity,GO:0019770,"Lupus Vasculitis, Central Nervous System",MESH:D020945,0,,1,FCGR3A
+IkappaB kinase activity,GO:0008384,"Lupus Erythematosus, Cutaneous",MESH:D008178,1,Fluorouracil,0,
+IkappaB kinase activity,GO:0008384,"Lupus Erythematosus, Systemic",MESH:D008180,1,Sulfasalazine,0,
+immune receptor activity,GO:0140375,"Lupus Vasculitis, Central Nervous System",MESH:D020945,0,,1,FCGR3A
+immunoglobulin binding,GO:0019865,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,FCGR2B
+immunoglobulin receptor binding,GO:0034987,"Lupus Erythematosus, Systemic",MESH:D008180,0,,2,CR2|FCGR2A
+IMP dehydrogenase activity,GO:0003938,"Lupus Erythematosus, Systemic",MESH:D008180,1,Mycophenolic Acid,0,
+IMP dehydrogenase activity,GO:0003938,Lupus Nephritis,MESH:D008181,1,Mycophenolic Acid,0,
+"indoleamine 2,3-dioxygenase activity",GO:0033754,"Lupus Erythematosus, Systemic",MESH:D008180,1,Cyclophosphamide,0,
+"indoleamine 2,3-dioxygenase activity",GO:0033754,Lupus Nephritis,MESH:D008181,2,Cyclophosphamide|Lipopolysaccharides,0,
+"indoleamine 2,3-dioxygenase activity",GO:0033754,"Lupus Vasculitis, Central Nervous System",MESH:D020945,1,Cyclophosphamide,0,
+integrin binding,GO:0005178,"Lupus Erythematosus, Systemic",MESH:D008180,0,,3,CD226|CD40LG|ITGAM
+integrin binding,GO:0005178,"Lupus Vasculitis, Central Nervous System",MESH:D020945,0,,1,ITGAM
+interleukin-10 receptor binding,GO:0005141,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,IL10
+interleukin-12 alpha subunit binding,GO:0042164,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,IL12B
+interleukin-12 receptor binding,GO:0005143,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,IL12B
+interleukin-1 receptor binding,GO:0005149,"Lupus Erythematosus, Systemic",MESH:D008180,0,,2,IRAK4|TLR5
+interleukin-21 receptor activity,GO:0001532,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,IL21R
+interleukin-23 receptor binding,GO:0045519,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,IL12B
+interleukin-2 receptor binding,GO:0005134,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,IL21
+interleukin-4 receptor binding,GO:0005136,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,IL4
+interleukin-6 receptor binding,GO:0005138,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,IL6
+JUN kinase activity,GO:0004705,"Lupus Erythematosus, Cutaneous",MESH:D008178,1,Fluorouracil,0,
+JUN kinase activity,GO:0004705,Lupus Nephritis,MESH:D008181,1,Lipopolysaccharides,0,
+K63-linked deubiquitinase activity,GO:0061578,"Lupus Erythematosus, Systemic",MESH:D008180,0,,2,FAS|TNFAIP3
+K63-linked deubiquitinase activity,GO:0061578,Lupus Nephritis,MESH:D008181,0,,1,FAS
+K63-linked polyubiquitin modification-dependent protein binding,GO:0070530,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,TNFAIP3
+kinase activity,GO:0016301,"Lupus Erythematosus, Systemic",MESH:D008180,0,,4,BLK|CSK|IRAK4|PXK
+kinase activity,GO:0016301,Lupus Nephritis,MESH:D008181,0,,1,JAK1
+kinase binding,GO:0019900,"Lupus Erythematosus, Systemic",MESH:D008180,0,,4,FAS|PTPN22|RASGRP3|TNFAIP3
+kinase binding,GO:0019900,Lupus Nephritis,MESH:D008181,0,,1,FAS
+lactate dehydrogenase activity,GO:0004457,"Lupus Erythematosus, Cutaneous",MESH:D008178,3,Chloroquine|Fluorouracil|Valproic Acid,0,
+lactate dehydrogenase activity,GO:0004457,"Lupus Erythematosus, Discoid",MESH:D008179,1,Chloroquine,0,
+lactate dehydrogenase activity,GO:0004457,"Lupus Erythematosus, Systemic",MESH:D008180,12,Celecoxib|Chloroquine|chloroquine diphosphate|Cyclophosphamide|Folic Acid|Homocysteine|Methotrexate|Nitrofurantoin|Particulate Matter|Silicon Dioxide|tofacitinib|Valproic Acid,0,
+lactate dehydrogenase activity,GO:0004457,Lupus Nephritis,MESH:D008181,4,Cyclophosphamide|Dexamethasone|Lipopolysaccharides|Rutin,0,
+lactate dehydrogenase activity,GO:0004457,"Lupus Vasculitis, Central Nervous System",MESH:D020945,1,Cyclophosphamide,0,
+L-aspartate:2-oxoglutarate aminotransferase activity,GO:0004069,"Lupus Erythematosus, Cutaneous",MESH:D008178,1,Fluorouracil,0,
+L-aspartate:2-oxoglutarate aminotransferase activity,GO:0004069,"Lupus Erythematosus, Systemic",MESH:D008180,11,chloroquine diphosphate|Cocaine|Cyclophosphamide|Diclofenac|Folic Acid|Homocysteine|Isoniazid|Melatonin|Methotrexate|triptolide|Vincristine,0,
+L-aspartate:2-oxoglutarate aminotransferase activity,GO:0004069,Lupus Nephritis,MESH:D008181,6,Cyclophosphamide|Dexamethasone|Isoniazid|Lipopolysaccharides|Methimazole|Rutin,0,
+L-aspartate:2-oxoglutarate aminotransferase activity,GO:0004069,"Lupus Vasculitis, Central Nervous System",MESH:D020945,1,Cyclophosphamide,0,
+L-histidine transmembrane transporter activity,GO:0005290,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,SLC15A4
+"ligase activity, forming carbon-nitrogen bonds",GO:0016879,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,BANK1
+linoleate 13S-lipoxygenase activity,GO:0016165,Lupus Nephritis,MESH:D008181,1,Dexamethasone,0,
+lipid binding,GO:0008289,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,RASGRP1
+lipid binding,GO:0008289,Lupus Nephritis,MESH:D008181,0,,1,C3
+lipopolysaccharide binding,GO:0001530,"Lupus Erythematosus, Systemic",MESH:D008180,1,Tobacco Smoke Pollution,0,
+long-chain fatty acid-CoA ligase activity,GO:0004467,"Lupus Erythematosus, Systemic",MESH:D008180,1,Diclofenac,0,
+low-affinity IgG receptor activity,GO:0019772,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,FCGR2B
+low-affinity IgG receptor activity,GO:0019772,"Lupus Vasculitis, Central Nervous System",MESH:D020945,0,,1,FCGR3A
+low-density lipoprotein particle binding,GO:0030169,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,CRP
+low-density lipoprotein particle receptor binding,GO:0050750,"Lupus Erythematosus, Systemic",MESH:D008180,0,,2,CLU|CRP
+lyase activity,GO:0016829,"Lupus Erythematosus, Discoid",MESH:D008179,0,,1,OGG1
+lysine-acetylated histone binding,GO:0070577,"Lupus Erythematosus, Cutaneous",MESH:D008178,1,Valproic Acid,0,
+lysine-acetylated histone binding,GO:0070577,"Lupus Erythematosus, Systemic",MESH:D008180,1,Valproic Acid,0,
+magnesium ion binding,GO:0000287,Chilblain lupus 1,MESH:C535924,0,,1,TREX1
+magnesium ion binding,GO:0000287,"Lupus Erythematosus, Systemic",MESH:D008180,0,,2,IRAK4|TREX1
+malate dehydrogenase activity,GO:0016615,"Lupus Erythematosus, Systemic",MESH:D008180,2,Cyclophosphamide|Particulate Matter,0,
+malate dehydrogenase activity,GO:0016615,Lupus Nephritis,MESH:D008181,1,Cyclophosphamide,0,
+malate dehydrogenase activity,GO:0016615,"Lupus Vasculitis, Central Nervous System",MESH:D020945,1,Cyclophosphamide,0,
+mannose-6-phosphate isomerase activity,GO:0004476,"Lupus Erythematosus, Discoid",MESH:D008179,0,,1,OGG1
+metal-dependent deubiquitinase activity,GO:0140492,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,FAS
+metal-dependent deubiquitinase activity,GO:0140492,Lupus Nephritis,MESH:D008181,0,,1,FAS
+metal ion binding,GO:0046872,Chilblain lupus 1,MESH:C535924,0,,2,SAMHD1|TREX1
+metal ion binding,GO:0046872,CHILBLAIN LUPUS 2,OMIM:614415,0,,1,SAMHD1
+metal ion binding,GO:0046872,"Lupus Erythematosus, Systemic",MESH:D008180,0,,17,BLTP3A|CAT|CRP|CSK|IFIH1|IKZF1|ITGAM|JAZF1|PHRF1|PRDM1|PRL|PTGS2|RASGRP1|RASGRP3|TERT|TNFAIP3|TREX1
+metal ion binding,GO:0046872,Lupus Nephritis,MESH:D008181,0,,3,JAK1|MMP2|MMP9
+metal ion binding,GO:0046872,"Lupus Vasculitis, Central Nervous System",MESH:D020945,0,,1,ITGAM
+metalloendopeptidase activity,GO:0004222,Chilblain lupus 1,MESH:C535924,0,,1,SAMHD1
+metalloendopeptidase activity,GO:0004222,CHILBLAIN LUPUS 2,OMIM:614415,0,,1,SAMHD1
+metalloendopeptidase activity,GO:0004222,Lupus Nephritis,MESH:D008181,0,,2,MMP2|MMP9
+metallopeptidase activity,GO:0008237,"Lupus Erythematosus, Systemic",MESH:D008180,1,Tobacco Smoke Pollution,0,
+metallopeptidase activity,GO:0008237,Lupus Nephritis,MESH:D008181,0,,2,MMP2|MMP9
+methylated histone binding,GO:0035064,"Lupus Erythematosus, Systemic",MESH:D008180,1,Particulate Matter,0,
+methyltransferase activity,GO:0008168,"Lupus Erythematosus, Systemic",MESH:D008180,0,,3,PRDM1|PRL|SLC15A4
+MHC class II receptor activity,GO:0032395,"Lupus Erythematosus, Systemic",MESH:D008180,0,,2,HLA-DQA1|HLA-DRB1
+microtubule binding,GO:0008017,"Lupus Erythematosus, Discoid",MESH:D008179,0,,1,OGG1
+misfolded protein binding,GO:0051787,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,CLU
+mitogen-activated protein kinase binding,GO:0051019,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,TNIP1
+molecular_function,GO:0003674,"Lupus Erythematosus, Systemic",MESH:D008180,0,,3,BLTP3A|C1QA|PCNX3
+monoatomic cation channel activity,GO:0005261,Lupus Nephritis,MESH:D008181,1,Lipopolysaccharides,0,
+mRNA binding,GO:0003729,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,CLU
+MutLalpha complex binding,GO:0032405,Chilblain lupus 1,MESH:C535924,0,,1,TREX1
+MutLalpha complex binding,GO:0032405,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,TREX1
+MutSalpha complex binding,GO:0032407,Chilblain lupus 1,MESH:C535924,0,,1,TREX1
+MutSalpha complex binding,GO:0032407,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,TREX1
+myosin binding,GO:0017022,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,CRP
+NADH dehydrogenase (ubiquinone) activity,GO:0008137,"Lupus Erythematosus, Cutaneous",MESH:D008178,2,Chloroquine|Valproic Acid,0,
+NADH dehydrogenase (ubiquinone) activity,GO:0008137,"Lupus Erythematosus, Discoid",MESH:D008179,1,Chloroquine,0,
+NADH dehydrogenase (ubiquinone) activity,GO:0008137,"Lupus Erythematosus, Systemic",MESH:D008180,6,Chloroquine|Chlorpromazine|Cyclophosphamide|Minocycline|Particulate Matter|Valproic Acid,0,
+NADH dehydrogenase (ubiquinone) activity,GO:0008137,Lupus Nephritis,MESH:D008181,2,Cyclophosphamide|Lipopolysaccharides,0,
+NADH dehydrogenase (ubiquinone) activity,GO:0008137,"Lupus Vasculitis, Central Nervous System",MESH:D020945,1,Cyclophosphamide,0,
+NADP binding,GO:0050661,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,CAT
+NAD(P)H oxidase H2O2-forming activity,GO:0016174,"Lupus Erythematosus, Systemic",MESH:D008180,2,Celecoxib|Particulate Matter,0,
+NAD(P)H oxidase H2O2-forming activity,GO:0016174,Lupus Nephritis,MESH:D008181,1,Lipopolysaccharides,0,
+NF-kappaB binding,GO:0051059,Lupus Nephritis,MESH:D008181,1,Lipopolysaccharides,0,
+nitric-oxide synthase activity,GO:0004517,"Lupus Erythematosus, Cutaneous",MESH:D008178,1,Chloroquine,0,
+nitric-oxide synthase activity,GO:0004517,"Lupus Erythematosus, Discoid",MESH:D008179,1,Chloroquine,0,
+nitric-oxide synthase activity,GO:0004517,"Lupus Erythematosus, Systemic",MESH:D008180,2,Chloroquine|Tobacco Smoke Pollution,0,
+non-membrane spanning protein tyrosine kinase activity,GO:0004715,"Lupus Erythematosus, Systemic",MESH:D008180,0,,2,BLK|CSK
+non-membrane spanning protein tyrosine kinase activity,GO:0004715,Lupus Nephritis,MESH:D008181,0,,1,JAK1
+non-membrane spanning protein tyrosine phosphatase activity,GO:0004726,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,PTPN22
+nuclear estrogen receptor activity,GO:0030284,"Lupus Erythematosus, Systemic",MESH:D008180,1,Estradiol,0,
+nuclear receptor activity,GO:0004879,"Lupus Erythematosus, Systemic",MESH:D008180,1,Estradiol,1,DEF6
+nuclear receptor binding,GO:0016922,Lupus Nephritis,MESH:D008181,0,,1,STAT1
+nuclease activity,GO:0004518,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,DNASE1
+nucleic acid binding,GO:0003676,Chilblain lupus 1,MESH:C535924,0,,2,SAMHD1|TREX1
+nucleic acid binding,GO:0003676,CHILBLAIN LUPUS 2,OMIM:614415,0,,1,SAMHD1
+nucleic acid binding,GO:0003676,"Lupus Erythematosus, Systemic",MESH:D008180,0,,4,ETS1|TLR5|TNIP1|TREX1
+nucleic acid binding,GO:0003676,Lupus Nephritis,MESH:D008181,0,,1,SERPING1
+nucleotide binding,GO:0000166,Chilblain lupus 1,MESH:C535924,0,,2,SAMHD1|STING1
+nucleotide binding,GO:0000166,CHILBLAIN LUPUS 2,OMIM:614415,0,,1,SAMHD1
+nucleotide binding,GO:0000166,"Lupus Erythematosus, Systemic",MESH:D008180,0,,4,BLK|CSK|IFIH1|IRAK4
+nucleotide binding,GO:0000166,Lupus Nephritis,MESH:D008181,0,,1,JAK1
+nucleotidyltransferase activity,GO:0016779,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,TERT
+nutrient reservoir activity,GO:0045735,"Lupus Erythematosus, Systemic",MESH:D008180,1,Particulate Matter,0,
+opsonin binding,GO:0001846,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,ITGAM
+opsonin binding,GO:0001846,"Lupus Vasculitis, Central Nervous System",MESH:D020945,0,,1,ITGAM
+oxidized base lesion DNA N-glycosylase activity,GO:0000702,"Lupus Erythematosus, Discoid",MESH:D008179,0,,1,OGG1
+oxidized purine DNA binding,GO:0032357,"Lupus Erythematosus, Discoid",MESH:D008179,0,,1,OGG1
+oxidized purine nucleobase lesion DNA N-glycosylase activity,GO:0008534,"Lupus Erythematosus, Discoid",MESH:D008179,0,,1,OGG1
+oxidoreductase activity,GO:0016491,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,CAT
+"oxidoreductase activity, acting on peroxide as acceptor",GO:0016684,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,CAT
+"oxidoreductase activity, acting on single donors with incorporation of molecular oxygen",GO:0016701,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,PTGS2
+"oxidoreductase activity, acting on single donors with incorporation of molecular oxygen, incorporation of two atoms of oxygen",GO:0016702,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,PTGS2
+oxoglutarate dehydrogenase (succinyl-transferring) activity,GO:0004591,"Lupus Erythematosus, Systemic",MESH:D008180,1,Cyclophosphamide,0,
+oxoglutarate dehydrogenase (succinyl-transferring) activity,GO:0004591,Lupus Nephritis,MESH:D008181,1,Cyclophosphamide,0,
+oxoglutarate dehydrogenase (succinyl-transferring) activity,GO:0004591,"Lupus Vasculitis, Central Nervous System",MESH:D020945,1,Cyclophosphamide,0,
+pattern recognition receptor activity,GO:0038187,"Lupus Erythematosus, Systemic",MESH:D008180,0,,2,IFIH1|TLR5
+peptidase activator activity involved in apoptotic process,GO:0016505,"Lupus Erythematosus, Cutaneous",MESH:D008178,1,Valproic Acid,0,
+peptidase activator activity involved in apoptotic process,GO:0016505,"Lupus Erythematosus, Systemic",MESH:D008180,2,Melatonin|Valproic Acid,0,
+peptidase activity,GO:0008233,"Lupus Erythematosus, Systemic",MESH:D008180,2,Diclofenac|Particulate Matter,0,
+peptidase activity,GO:0008233,Lupus Nephritis,MESH:D008181,0,,2,MMP2|MMP9
+peptide antigen binding,GO:0042605,"Lupus Erythematosus, Systemic",MESH:D008180,0,,2,HLA-DQA1|HLA-DRB1
+peptide:proton symporter activity,GO:0015333,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,SLC15A4
+peptidoglycan transmembrane transporter activity,GO:0015647,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,SLC15A4
+peroxidase activity,GO:0004601,"Lupus Erythematosus, Systemic",MESH:D008180,0,,2,CAT|PTGS2
+phosphatase activity,GO:0016791,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,PTPN22
+phosphate ion binding,GO:0042301,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,SH2B3
+phosphatidylcholine binding,GO:0031210,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,RASGRP1
+"phosphatidylinositol-3,4-bisphosphate binding",GO:0043325,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,NCF1
+phosphatidylinositol binding,GO:0035091,"Lupus Erythematosus, Systemic",MESH:D008180,0,,2,NCF1|PXK
+phospholipase A2 activity,GO:0004623,"Lupus Erythematosus, Cutaneous",MESH:D008178,1,Quinacrine,0,
+phospholipase A2 activity,GO:0004623,"Lupus Erythematosus, Systemic",MESH:D008180,3,Diclofenac|Indomethacin|Quinacrine,0,
+phospholipase A2 activity,GO:0004623,Lupus Nephritis,MESH:D008181,1,Dexamethasone,0,
+phospholipase A2 inhibitor activity,GO:0019834,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,ANXA3
+phospholipase binding,GO:0043274,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,BANK1
+phospholipase inhibitor activity,GO:0004859,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,ANXA3
+phosphopantothenoylcysteine decarboxylase activity,GO:0004633,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,CSK
+phosphoprotein phosphatase activity,GO:0004721,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,PTPN22
+poly-pyrimidine tract binding,GO:0008187,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,IKZF1
+polysaccharide binding,GO:0030247,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,HLA-DRB1
+polyubiquitin modification-dependent protein binding,GO:0031593,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,TNIP1
+prolactin receptor binding,GO:0005148,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,PRL
+proline-rich region binding,GO:0070064,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,CSK
+promoter-specific chromatin binding,GO:1990841,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,PRDM1
+promoter-specific chromatin binding,GO:1990841,Lupus Nephritis,MESH:D008181,0,,1,STAT1
+prostaglandin-endoperoxide synthase activity,GO:0004666,"Lupus Erythematosus, Systemic",MESH:D008180,2,Diclofenac|Particulate Matter,1,PTGS2
+protease binding,GO:0002020,"Lupus Erythematosus, Systemic",MESH:D008180,0,,3,BANK1|FAS|TNFAIP3
+protease binding,GO:0002020,Lupus Nephritis,MESH:D008181,0,,1,FAS
+protein binding,GO:0005515,Chilblain lupus 1,MESH:C535924,0,,3,SAMHD1|STING1|TREX1
+protein binding,GO:0005515,CHILBLAIN LUPUS 2,OMIM:614415,0,,1,SAMHD1
+protein binding,GO:0005515,"Lupus Erythematosus, Cutaneous",MESH:D008178,0,,1,TCRA
+protein binding,GO:0005515,"Lupus Erythematosus, Discoid",MESH:D008179,0,,1,OGG1
+protein binding,GO:0005515,"Lupus Erythematosus, Systemic",MESH:D008180,0,,55,BANK1|BLK|BLTP3A|C1QA|CD226|CD40LG|CFB|CLEC16A|CLU|CR2|CRP|CSK|CTLA4|DEF6|DNASE1|DNASE1L3|ETS1|FAS|FCGR2A|FCGR2B|HLA-DQA1|HLA-DRB1|IFIH1|IKZF1|IL10|IL12B|IL21|IL21R|IL4|IL6|IRAK4|IRF5|ITGAM|JAZF1|NCF1|PCNX3|PHRF1|PRDM1|PRL|PTGS2|PTPN22|PXK|RASGRP3|SH2B3|SIGLEC6|SLC15A4|STAT4|SYNGR1|TCF7|TERT|TLR5|TNFAIP3|TNFSF4|TNIP1|TREX1
+protein binding,GO:0005515,Lupus Nephritis,MESH:D008181,0,,8,C3|FAS|IFNG|JAK1|MMP2|MMP9|SERPING1|STAT1
+protein binding,GO:0005515,"Lupus Vasculitis, Central Nervous System",MESH:D020945,0,,2,FCGR3A|ITGAM
+protein carrier chaperone,GO:0140597,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,CLU
+protein-containing complex binding,GO:0044877,"Lupus Erythematosus, Systemic",MESH:D008180,0,,6,CLU|FAS|FCGR2B|IL12B|ITGAM|SH2B3
+protein-containing complex binding,GO:0044877,Lupus Nephritis,MESH:D008181,0,,2,FAS|MMP9
+protein-containing complex binding,GO:0044877,"Lupus Vasculitis, Central Nervous System",MESH:D020945,0,,1,ITGAM
+protein dimerization activity,GO:0046983,"Lupus Erythematosus, Systemic",MESH:D008180,0,,2,CRP|IL10
+protein domain specific binding,GO:0019904,"Lupus Erythematosus, Systemic",MESH:D008180,0,,3,IFIH1|IKZF1|PHRF1
+protein-glutamine gamma-glutamyltransferase activity,GO:0003810,"Lupus Erythematosus, Cutaneous",MESH:D008178,1,Valproic Acid,0,
+protein-glutamine gamma-glutamyltransferase activity,GO:0003810,"Lupus Erythematosus, Systemic",MESH:D008180,2,Cyclophosphamide|Valproic Acid,0,
+protein-glutamine gamma-glutamyltransferase activity,GO:0003810,Lupus Nephritis,MESH:D008181,1,Cyclophosphamide,0,
+protein-glutamine gamma-glutamyltransferase activity,GO:0003810,"Lupus Vasculitis, Central Nervous System",MESH:D020945,1,Cyclophosphamide,0,
+protein heterodimerization activity,GO:0046982,"Lupus Erythematosus, Systemic",MESH:D008180,0,,3,CLU|IFIH1|IL12B
+protein homodimerization activity,GO:0042803,Chilblain lupus 1,MESH:C535924,0,,2,STING1|TREX1
+protein homodimerization activity,GO:0042803,"Lupus Erythematosus, Systemic",MESH:D008180,0,,5,CAT|CR2|PTGS2|TERT|TREX1
+protein homodimerization activity,GO:0042803,Lupus Nephritis,MESH:D008181,0,,1,STAT1
+protein kinase A catalytic subunit binding,GO:0034236,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,CSK
+protein kinase activity,GO:0004672,"Lupus Erythematosus, Systemic",MESH:D008180,0,,4,BLK|CSK|IRAK4|PXK
+protein kinase activity,GO:0004672,Lupus Nephritis,MESH:D008181,0,,1,JAK1
+protein kinase binding,GO:0019901,Chilblain lupus 1,MESH:C535924,0,,1,STING1
+protein kinase binding,GO:0019901,"Lupus Erythematosus, Systemic",MESH:D008180,0,,3,CD226|IRAK4|IRF5
+protein kinase C activity,GO:0004697,"Lupus Erythematosus, Systemic",MESH:D008180,1,Chlordecone,0,
+protein phosphatase 2A binding,GO:0051721,Lupus Nephritis,MESH:D008181,0,,1,STAT1
+protein phosphatase binding,GO:0019903,"Lupus Erythematosus, Systemic",MESH:D008180,0,,2,CSK|FAS
+protein phosphatase binding,GO:0019903,Lupus Nephritis,MESH:D008181,0,,2,FAS|JAK1
+protein serine kinase activity,GO:0106310,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,IRAK4
+protein serine/threonine kinase activator activity,GO:0043539,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,CD40LG
+protein serine/threonine kinase activity,GO:0004674,"Lupus Erythematosus, Systemic",MESH:D008180,0,,2,IRAK4|RASGRP3
+protein serine/threonine kinase binding,GO:0120283,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,IRF5
+protein serine/threonine phosphatase activity,GO:0004722,"Lupus Erythematosus, Systemic",MESH:D008180,1,Estradiol,0,
+protein tyrosine kinase activity,GO:0004713,"Lupus Erythematosus, Systemic",MESH:D008180,0,,2,BLK|CSK
+protein tyrosine kinase activity,GO:0004713,Lupus Nephritis,MESH:D008181,0,,1,JAK1
+protein tyrosine kinase binding,GO:1990782,"Lupus Erythematosus, Systemic",MESH:D008180,0,,4,BANK1|CSK|PTPN22|SH2B3
+protein tyrosine phosphatase activity,GO:0004725,"Lupus Erythematosus, Systemic",MESH:D008180,1,Particulate Matter,1,PTPN22
+"protein tyrosine phosphatase activity, metal-dependent",GO:0030946,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,PTPN22
+proton channel activity,GO:0015252,Chilblain lupus 1,MESH:C535924,0,,1,STING1
+"proton-transporting ATPase activity, rotational mechanism",GO:0046961,"Lupus Erythematosus, Systemic",MESH:D008180,1,Chlorpromazine,0,
+"proton-transporting ATP synthase activity, rotational mechanism",GO:0046933,"Lupus Erythematosus, Systemic",MESH:D008180,1,Particulate Matter,0,
+P-type calcium transporter activity,GO:0005388,"Lupus Erythematosus, Systemic",MESH:D008180,1,Tobacco Smoke Pollution,0,
+P-type calcium transporter activity,GO:0005388,Lupus Nephritis,MESH:D008181,1,Lipopolysaccharides,0,
+P-type sodium:potassium-exchanging transporter activity,GO:0005391,"Lupus Erythematosus, Cutaneous",MESH:D008178,1,Valproic Acid,0,
+P-type sodium:potassium-exchanging transporter activity,GO:0005391,"Lupus Erythematosus, Systemic",MESH:D008180,6,Chlorpromazine|Folic Acid|Indomethacin|Silicon Dioxide|Tobacco Smoke Pollution|Valproic Acid,0,
+P-type sodium:potassium-exchanging transporter activity,GO:0005391,Lupus Nephritis,MESH:D008181,1,Lipopolysaccharides,0,
+pyruvate kinase activity,GO:0004743,"Lupus Erythematosus, Systemic",MESH:D008180,1,Particulate Matter,0,
+receptor ligand activity,GO:0048018,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,CLU
+receptor ligand activity,GO:0048018,Lupus Nephritis,MESH:D008181,0,,1,C3
+Rho-dependent protein serine/threonine kinase activity,GO:0072518,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,IRAK4
+ribonuclease activity,GO:0004540,Chilblain lupus 1,MESH:C535924,0,,1,SAMHD1
+ribonuclease activity,GO:0004540,CHILBLAIN LUPUS 2,OMIM:614415,0,,1,SAMHD1
+ribonucleoprotein complex binding,GO:0043021,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,IFIH1
+ribosomal protein S6 kinase activity,GO:0004711,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,IRAK4
+ribosome binding,GO:0043022,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,CLU
+RNA binding,GO:0003723,Chilblain lupus 1,MESH:C535924,0,,1,SAMHD1
+RNA binding,GO:0003723,CHILBLAIN LUPUS 2,OMIM:614415,0,,1,SAMHD1
+RNA binding,GO:0003723,"Lupus Erythematosus, Systemic",MESH:D008180,0,,3,BLTP3A|IFIH1|TERT
+RNA-dependent RNA polymerase activity,GO:0003968,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,TERT
+RNA-directed DNA polymerase activity,GO:0003964,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,TERT
+RNA helicase activity,GO:0003724,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,IFIH1
+RNA polymerase binding,GO:0070063,"Lupus Erythematosus, Systemic",MESH:D008180,1,Estradiol,1,PHRF1
+RNA polymerase II cis-regulatory region sequence-specific DNA binding,GO:0000978,"Lupus Erythematosus, Discoid",MESH:D008179,0,,1,OGG1
+RNA polymerase II cis-regulatory region sequence-specific DNA binding,GO:0000978,"Lupus Erythematosus, Systemic",MESH:D008180,1,Tobacco Smoke Pollution,7,CRP|ETS1|IKZF1|IRF5|PRDM1|STAT4|TCF7
+RNA polymerase II cis-regulatory region sequence-specific DNA binding,GO:0000978,Lupus Nephritis,MESH:D008181,0,,1,STAT1
+RNA polymerase II core promoter sequence-specific DNA binding,GO:0000979,Lupus Nephritis,MESH:D008181,0,,1,STAT1
+RNA polymerase II-specific DNA-binding transcription factor binding,GO:0061629,Chilblain lupus 1,MESH:C535924,0,,1,STING1
+RNA polymerase II-specific DNA-binding transcription factor binding,GO:0061629,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,ETS1
+RNA polymerase II transcription regulatory region sequence-specific DNA binding,GO:0000977,"Lupus Erythematosus, Systemic",MESH:D008180,0,,2,IKZF1|PRDM1
+RNA polymerase II transcription regulatory region sequence-specific DNA binding,GO:0000977,Lupus Nephritis,MESH:D008181,0,,1,STAT1
+sequence-specific DNA binding,GO:0043565,"Lupus Erythematosus, Systemic",MESH:D008180,0,,6,CRP|DEF6|ETS1|IKZF1|IRF5|STAT4
+sequence-specific DNA binding,GO:0043565,Lupus Nephritis,MESH:D008181,0,,1,STAT1
+sequence-specific double-stranded DNA binding,GO:1990837,"Lupus Erythematosus, Systemic",MESH:D008180,0,,4,ETS1|IRF5|PRDM1|TCF7
+serine-type endopeptidase activity,GO:0004252,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,CFB
+serine-type endopeptidase activity,GO:0004252,Lupus Nephritis,MESH:D008181,0,,2,MMP2|MMP9
+serine-type endopeptidase inhibitor activity,GO:0004867,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,CD226
+serine-type endopeptidase inhibitor activity,GO:0004867,Lupus Nephritis,MESH:D008181,0,,1,SERPING1
+serine-type peptidase activity,GO:0008236,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,CFB
+SH3 domain binding,GO:0017124,"Lupus Erythematosus, Systemic",MESH:D008180,0,,2,NCF1|PTPN22
+sialic acid binding,GO:0033691,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,SIGLEC6
+signaling adaptor activity,GO:0035591,Chilblain lupus 1,MESH:C535924,0,,1,STING1
+signaling adaptor activity,GO:0035591,"Lupus Erythematosus, Systemic",MESH:D008180,0,,2,BANK1|SH2B3
+signaling receptor activity,GO:0038023,"Lupus Erythematosus, Systemic",MESH:D008180,0,,3,CD226|CR2|FAS
+signaling receptor activity,GO:0038023,Lupus Nephritis,MESH:D008181,0,,1,FAS
+signaling receptor binding,GO:0005102,"Lupus Erythematosus, Systemic",MESH:D008180,0,,5,BANK1|BLK|CLU|IL6|TNFSF4
+signaling receptor binding,GO:0005102,Lupus Nephritis,MESH:D008181,0,,1,C3
+signaling receptor complex adaptor activity,GO:0030159,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,SH2B3
+single-stranded DNA binding,GO:0003697,Chilblain lupus 1,MESH:C535924,0,,2,SAMHD1|TREX1
+single-stranded DNA binding,GO:0003697,CHILBLAIN LUPUS 2,OMIM:614415,0,,1,SAMHD1
+single-stranded DNA binding,GO:0003697,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,TREX1
+single-stranded RNA binding,GO:0003727,"Lupus Erythematosus, Systemic",MESH:D008180,0,,2,IFIH1|JAZF1
+small GTPase binding,GO:0031267,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,RASGRP3
+stem cell factor receptor binding,GO:0005173,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,SH2B3
+"steroid dehydrogenase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor",GO:0033764,"Lupus Erythematosus, Systemic",MESH:D008180,1,Cyclophosphamide,0,
+"steroid dehydrogenase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor",GO:0033764,Lupus Nephritis,MESH:D008181,1,Cyclophosphamide,0,
+"steroid dehydrogenase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor",GO:0033764,"Lupus Vasculitis, Central Nervous System",MESH:D020945,1,Cyclophosphamide,0,
+steroid sulfotransferase activity,GO:0050294,"Lupus Erythematosus, Systemic",MESH:D008180,1,Estradiol,0,
+structural constituent of cytoskeleton,GO:0005200,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,HLA-DRB1
+structural constituent of muscle,GO:0008307,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,CRP
+succinate dehydrogenase activity,GO:0000104,"Lupus Erythematosus, Systemic",MESH:D008180,3,Celecoxib|Cyclophosphamide|Tobacco Smoke Pollution,0,
+succinate dehydrogenase activity,GO:0000104,Lupus Nephritis,MESH:D008181,2,Cyclophosphamide|Lipopolysaccharides,0,
+succinate dehydrogenase activity,GO:0000104,"Lupus Vasculitis, Central Nervous System",MESH:D020945,1,Cyclophosphamide,0,
+succinate dehydrogenase (ubiquinone) activity,GO:0008177,"Lupus Erythematosus, Cutaneous",MESH:D008178,2,Chloroquine|Valproic Acid,0,
+succinate dehydrogenase (ubiquinone) activity,GO:0008177,"Lupus Erythematosus, Discoid",MESH:D008179,1,Chloroquine,0,
+succinate dehydrogenase (ubiquinone) activity,GO:0008177,"Lupus Erythematosus, Systemic",MESH:D008180,5,Aspirin|Chloroquine|Cyclophosphamide|Melatonin|Valproic Acid,0,
+succinate dehydrogenase (ubiquinone) activity,GO:0008177,Lupus Nephritis,MESH:D008181,2,Cyclophosphamide|Heparin,0,
+succinate dehydrogenase (ubiquinone) activity,GO:0008177,"Lupus Vasculitis, Central Nervous System",MESH:D020945,1,Cyclophosphamide,0,
+sucrose alpha-glucosidase activity,GO:0004575,"Lupus Erythematosus, Systemic",MESH:D008180,2,Folic Acid|Vitamin B 12,0,
+superoxide dismutase activity,GO:0004784,"Lupus Erythematosus, Cutaneous",MESH:D008178,5,Chloroquine|Fluorouracil|Prednisolone|Rifampin|Valproic Acid,0,
+superoxide dismutase activity,GO:0004784,"Lupus Erythematosus, Discoid",MESH:D008179,1,Chloroquine,0,
+superoxide dismutase activity,GO:0004784,"Lupus Erythematosus, Systemic",MESH:D008180,28,Amiodarone|Aspirin|Celecoxib|Chloroquine|Cocaine|Cyclophosphamide|Diclofenac|Estradiol|Folic Acid|Homocysteine|Ibuprofen|Indomethacin|Isoniazid|Melatonin|Methotrexate|Mycophenolic Acid|Particulate Matter|Prednisolone|Propylthiouracil|Ranitidine|Rifampin|Silicon Dioxide|Sulfasalazine|Tobacco Smoke Pollution|triptolide|Valproic Acid|Vincristine|Vitamin B 12,0,
+superoxide dismutase activity,GO:0004784,Lupus Nephritis,MESH:D008181,10,Cyclophosphamide|Dexamethasone|Diethylstilbestrol|Isoniazid|Lipopolysaccharides|Mycophenolic Acid|Prednisolone|Propylthiouracil|Rifampin|Rutin,0,
+superoxide dismutase activity,GO:0004784,"Lupus Vasculitis, Central Nervous System",MESH:D020945,1,Cyclophosphamide,0,
+superoxide-generating NADPH oxidase activator activity,GO:0016176,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,NCF1
+superoxide-generating NAD(P)H oxidase activity,GO:0016175,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,NCF1
+symporter activity,GO:0015293,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,SLC15A4
+tau protein binding,GO:0048156,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,CLU
+T cell receptor binding,GO:0042608,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,HLA-DRB1
+telomerase activity,GO:0003720,"Lupus Erythematosus, Systemic",MESH:D008180,2,Estradiol|Particulate Matter,1,TERT
+telomerase RNA binding,GO:0070034,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,TERT
+telomeric DNA binding,GO:0042162,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,TERT
+template-free RNA nucleotidyltransferase,GO:0098680,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,TERT
+testosterone 6-beta-hydroxylase activity,GO:0050649,"Lupus Erythematosus, Systemic",MESH:D008180,1,Amiodarone,0,
+testosterone 6-beta-hydroxylase activity,GO:0050649,Lupus Nephritis,MESH:D008181,1,Dexamethasone,0,
+Toll-like receptor 4 binding,GO:0035662,"Lupus Erythematosus, Cutaneous",MESH:D008178,1,Chloroquine,0,
+Toll-like receptor 4 binding,GO:0035662,"Lupus Erythematosus, Discoid",MESH:D008179,1,Chloroquine,0,
+Toll-like receptor 4 binding,GO:0035662,"Lupus Erythematosus, Systemic",MESH:D008180,1,Chloroquine,0,
+transcription cis-regulatory region binding,GO:0000976,"Lupus Erythematosus, Systemic",MESH:D008180,0,,5,ETS1|IKZF1|IRF5|PRDM1|TCF7
+transcription coactivator activity,GO:0003713,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,ETS1
+transcription coactivator binding,GO:0001223,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,TERT
+transcription coactivator binding,GO:0001223,Lupus Nephritis,MESH:D008181,0,,1,STAT1
+transcription corepressor activity,GO:0003714,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,JAZF1
+transcription corepressor binding,GO:0001222,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,ETS1
+transcription corepressor binding,GO:0001222,Lupus Nephritis,MESH:D008181,0,,1,STAT1
+transcription regulator activity,GO:0140110,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,IRF5
+transferase activity,GO:0016740,"Lupus Erythematosus, Systemic",MESH:D008180,0,,6,BLK|CSK|IRAK4|PRDM1|PXK|TERT
+transferase activity,GO:0016740,Lupus Nephritis,MESH:D008181,0,,1,JAK1
+transmembrane receptor protein tyrosine kinase activity,GO:0004714,"Lupus Erythematosus, Systemic",MESH:D008180,0,,2,BLK|CSK
+transmembrane receptor protein tyrosine kinase adaptor activity,GO:0005068,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,SH2B3
+transmembrane signaling receptor activity,GO:0004888,"Lupus Erythematosus, Systemic",MESH:D008180,0,,6,CR2|FAS|FCGR2A|FCGR2B|IL21R|TLR5
+transmembrane signaling receptor activity,GO:0004888,Lupus Nephritis,MESH:D008181,0,,2,FAS|FCGR3B
+transmembrane signaling receptor activity,GO:0004888,"Lupus Vasculitis, Central Nervous System",MESH:D020945,0,,2,FCGR3A|FCGR3B
+transmembrane transporter activity,GO:0022857,"Lupus Erythematosus, Systemic",MESH:D008180,0,,2,CLU|SLC15A4
+triphosphoric monoester hydrolase activity,GO:0016793,Chilblain lupus 1,MESH:C535924,0,,1,SAMHD1
+triphosphoric monoester hydrolase activity,GO:0016793,CHILBLAIN LUPUS 2,OMIM:614415,0,,1,SAMHD1
+tRNA binding,GO:0000049,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,TERT
+"tryptophan 2,3-dioxygenase activity",GO:0004833,"Lupus Erythematosus, Systemic",MESH:D008180,1,Cyclophosphamide,0,
+"tryptophan 2,3-dioxygenase activity",GO:0004833,Lupus Nephritis,MESH:D008181,1,Cyclophosphamide,0,
+"tryptophan 2,3-dioxygenase activity",GO:0004833,"Lupus Vasculitis, Central Nervous System",MESH:D020945,1,Cyclophosphamide,0,
+tumor necrosis factor receptor activity,GO:0005031,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,FAS
+tumor necrosis factor receptor activity,GO:0005031,Lupus Nephritis,MESH:D008181,0,,1,FAS
+tumor necrosis factor receptor binding,GO:0005164,"Lupus Erythematosus, Systemic",MESH:D008180,0,,2,CD40LG|TNFSF4
+tumor necrosis factor receptor binding,GO:0005164,Lupus Nephritis,MESH:D008181,0,,1,STAT1
+tumor necrosis factor receptor superfamily binding,GO:0032813,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,TNFSF4
+type II interferon receptor binding,GO:0005133,Lupus Nephritis,MESH:D008181,0,,1,IFNG
+ubiquinol-cytochrome-c reductase activity,GO:0008121,"Lupus Erythematosus, Cutaneous",MESH:D008178,1,Chloroquine,0,
+ubiquinol-cytochrome-c reductase activity,GO:0008121,"Lupus Erythematosus, Discoid",MESH:D008179,1,Chloroquine,0,
+ubiquinol-cytochrome-c reductase activity,GO:0008121,"Lupus Erythematosus, Systemic",MESH:D008180,3,Chloroquine|Chlorpromazine|Cyclophosphamide,0,
+ubiquinol-cytochrome-c reductase activity,GO:0008121,Lupus Nephritis,MESH:D008181,1,Cyclophosphamide,0,
+ubiquinol-cytochrome-c reductase activity,GO:0008121,"Lupus Vasculitis, Central Nervous System",MESH:D020945,1,Cyclophosphamide,0,
+ubiquitin binding,GO:0043130,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,TNFAIP3
+ubiquitin-like protein ligase binding,GO:0044389,Lupus Nephritis,MESH:D008181,0,,1,STAT1
+ubiquitin protein ligase binding,GO:0031625,Chilblain lupus 1,MESH:C535924,0,,1,STING1
+ubiquitin protein ligase binding,GO:0031625,"Lupus Erythematosus, Systemic",MESH:D008180,0,,2,CLU|PTPN22
+ubiquitin protein ligase binding,GO:0031625,Lupus Nephritis,MESH:D008181,0,,1,JAK1
+ubiquitin-protein transferase activity,GO:0004842,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,TNFAIP3
+unfolded protein binding,GO:0051082,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,CLU
+virus receptor activity,GO:0001618,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,CR2
+voltage-gated potassium channel activity,GO:0005249,"Lupus Erythematosus, Cutaneous",MESH:D008178,1,Valproic Acid,0,
+voltage-gated potassium channel activity,GO:0005249,"Lupus Erythematosus, Systemic",MESH:D008180,1,Valproic Acid,0,
+voltage-gated sodium channel activity,GO:0005248,"Lupus Erythematosus, Systemic",MESH:D008180,1,Estradiol,0,
+WW domain binding,GO:0050699,Chilblain lupus 1,MESH:C535924,0,,1,TREX1
+WW domain binding,GO:0050699,"Lupus Erythematosus, Systemic",MESH:D008180,0,,1,TREX1
+xanthine oxidase activity,GO:0004855,"Lupus Erythematosus, Systemic",MESH:D008180,2,Diclofenac|Ranitidine,0,
+zinc ion binding,GO:0008270,Chilblain lupus 1,MESH:C535924,0,,1,SAMHD1
+zinc ion binding,GO:0008270,CHILBLAIN LUPUS 2,OMIM:614415,0,,1,SAMHD1
+zinc ion binding,GO:0008270,"Lupus Erythematosus, Discoid",MESH:D008179,0,,1,OGG1
+zinc ion binding,GO:0008270,"Lupus Erythematosus, Systemic",MESH:D008180,0,,10,CLU|DEF6|IFIH1|IKZF1|JAZF1|PHRF1|PRDM1|RASGRP1|RASGRP3|TNFAIP3
+zinc ion binding,GO:0008270,Lupus Nephritis,MESH:D008181,0,,3,MMP2|MMP9|SERPING1
