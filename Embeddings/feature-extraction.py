@@ -6,7 +6,7 @@ from pykeen.triples import TriplesFactory
 import json
 import pprint
 
-dataDIR = "C:/Users/Purav Jangir/Projects/KGE-DRDO/bio-kg/triples-extraction/Base-triples"
+dataDIR = "C:/Users/UtkarshSinghal/triples-extraction/Base-triples"
 trainPATH = os.path.join(dataDIR, "train.tsv")
 valPATH = os.path.join(dataDIR, "val.tsv")
 testPATH = os.path.join(dataDIR, "test.tsv")
