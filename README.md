@@ -1,64 +1,73 @@
-# Biomedical Knowledge Graph for Disease Prediction
+# Knowledge Graph Embedding (KGE) for Disease Prediction
 
-This project builds a Biomedical Knowledge Graph Embedding (KGE) model to understand complex relationships between genes, diseases, chemicals, and drugs. It aims to infer disease susceptibility—especially for rare conditions like high-altitude illnesses—by leveraging established biomedical knowledge.
+This repository presents our project on **Knowledge Graph Embedding (KGE)** applied to the domain of **biomedical disease prediction**, inspired by the research paper: [A Knowledge Graph Embedding Approach for Predicting Disease-Gene Associations](https://doi.org/10.1371/journal.pone.0258626).
 
----
-
-## Goal
-
-To predict disease comorbidities and high-altitude vulnerability by embedding biomedical entities and relations into a vector space using Knowledge Graph Embeddings and a CNN-based reranker.
+We developed a pipeline that constructs a biomedical knowledge graph from curated datasets, generates embeddings using **TransE**, and uses a **CNN-based model** for downstream prediction tasks.
 
 ---
 
-## Motivation
+## Project Workflow
 
-Direct clinical data for rare diseases like altitude sickness is sparse. We leverage sea-level biomedical knowledge (from CTD and MalaCards) to infer risk by tracing molecular and chemical pathways through a knowledge graph.
+### Step 1: Data Collection
 
----
+The raw data required to build the knowledge graph was gathered from various biomedical sources. It includes: 
 
-## Approach
-
-### Data Sources
-- CTD: Disease-Gene and Chemical-Disease associations  
-- MalaCards: Disease-Drug associations  
-
-### Graph Construction
-- Parsed and cleaned large datasets using chunked Pandas
-- Created triples: `(head, relation, tail)`  
-- Built the graph in Neo4j using bulk import and Cypher scripts
-
-### Core Relations
-- `Disease — associated_with → Gene`
-- `Disease — annotated_by → GO_Term`
-- `Disease — associated_with → Chemical`
-- `Disease — treated_by → Drug`
+- **Entity Name**
+- **Description**
+- **Source of Data**
+- **Total Count**
 
 ---
 
-## Models Used
+### Step 2: Data Preprocessing
 
-### TransE Embedding (via PyKEEN)
-- Learns vector representations of entities/relations  
-- Uses margin ranking loss  
-- 128D embeddings, sLCWA training with negative sampling  
-- Output: `entity_embeddings.npy`, `relation_embeddings.npy`
+To prepare data for graph modeling, the following preprocessing steps were applied:
 
-### CNN-based Reranker (PyTorch)
-- Refines TransE embeddings  
-- Uses 1D convolutions over stacked embeddings  
-- Contrastive training with 50 negative samples per positive  
-- Evaluated with MRR and Hits@K metrics  
+- Removed empty rows and NaNs
+- Removed duplicates and corrected inconsistencies
+- Ensured unique identifiers like `GeneID`, `GOID`, `ChemicalID`, `DiseaseID`
+- Converted cleaned data into structured triples for KG
 
 ---
 
-## Results
+### Step 3: Feature Extraction
 
-| Metric    | Value   |
-|-----------|---------|
-| MRR       | 0.3793  |
-| Hits@3    | 0.4560  |
-| Hits@10   | 0.6825  |
+Once the Neo4j-based Knowledge Graph was constructed:
 
-These scores indicate strong ranking performance and generalization capability, making the model useful for biomedical risk inference.
+#### 1. **Triplet Extraction**
+We extracted `(head, relation, tail)` triplets and organized them into:
+- Train Set
+- Validation Set
+- Test Set  
+(*stored as `.tsv` files*)
+
+#### 2. **Knowledge Graph Embedding with TransE**
+Using [PyKEEN](https://github.com/pykeen/pykeen), the triplets were embedded into a 128-dimensional vector space. The embeddings were trained with:
+- Early stopping
+- Model checkpointing
+
+Output:
+- Entity & relation embeddings (NumPy)
+- Entity & relation ID maps (JSON)
+- Saved in `KGE_TransE_ebd` directory
 
 ---
+
+### Step 4: CNN-Based Prediction
+
+The TransE embeddings were fed into a **Simplified CNN Model** implemented using **PyTorch**.
+
+#### Features:
+- Custom `BiomedicalKGDataset` with negative sampling
+- CNN model for head/tail prediction
+- Binary cross-entropy loss + L2 regularization
+- Early stopping based on **Mean Reciprocal Rank (MRR)**
+- Evaluation: MRR, Hits@1, Hits@3, Hits@10
+
+The model learns to predict missing links (e.g., gene-disease associations) using KG embedding representations.
+
+---
+
+## Contact
+
+For more details, please reach out to the project contributors or raise an issue in this repository.
