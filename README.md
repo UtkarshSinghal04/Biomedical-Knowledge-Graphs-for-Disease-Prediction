@@ -62,14 +62,3 @@ Direct clinical data for rare diseases like altitude sickness is sparse. We leve
 These scores indicate strong ranking performance and generalization capability, making the model useful for biomedical risk inference.
 
 ---
-
-## Folder Structure
-
-```bash
-.
-├── data/                      # Cleaned triples and entity maps
-├── graph/                    # Neo4j scripts and CSVs
-├── embeddings/               # TransE output vectors
-├── model/                    # CNN reranker code
-├── notebooks/                # EDA and analysis
-└── README.md
